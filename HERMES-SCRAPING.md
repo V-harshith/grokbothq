@@ -108,3 +108,13 @@ Batch weekly. One PR per batch. Never edit `src/`, `scripts/`, or `.github/` for
 - Respect x.com and the reference directories: no aggressive scraping, cache pages, batch requests,
   don't hammer. If a source blocks you, stop and report.
 - Trademark: the site is an independent directory; never imply xAI endorsement in copy you write.
+
+## News pipeline (/news)
+
+`content/news.json` powers the Grok news page. Each entry:
+
+```json
+{ "date": "YYYY-MM-DD", "title": "...", "source": "Publisher name", "url": "https://...", "summary": "One or two sentences, our own words." }
+```
+
+Sourcing method: search queries like "Grok Bot news", "xAI announcement", "Grok Build", recency-filtered; also check x.ai/news directly (their news index lists every announcement). Rules: only real, working URLs; one-sentence factual summary in our own words (never copy the article); dedupe by URL; keep the newest ~15 entries (trim the tail). Batch with the weekly bot PR.

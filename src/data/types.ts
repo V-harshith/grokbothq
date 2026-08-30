@@ -19,6 +19,8 @@ export type Bot = {
   featuredUntil?: string;
   /** X post where this bot was introduced or used - powers the use-cases hub */
   source?: string;
+  /** Install count from the source directory, when published */
+  installs?: number;
 };
 
 export type Category = {

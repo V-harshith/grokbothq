@@ -101,9 +101,11 @@ Keep anchors natural (brand, "grok bot directory", "hand-reviewed grok bots", ba
 
 Static + rebuilds updates the site on every merge (usually seconds after approval; worst case a few minutes for CI). If you ever want truly instant writes, the move is Supabase + ISR with on-demand revalidation - the data layer (`src/data/*.ts`) is the only thing that changes. Not needed until submissions outpace a few per day.
 
-## Analytics, newsletter, ad slot, and contact
+## Analytics, metrics, newsletter, ad slot, and contact
 
 **Analytics (Umami):** set `NEXT_PUBLIC_UMAMI_URL` (your `/script.js` URL) and `NEXT_PUBLIC_UMAMI_WEBSITE_ID` in Vercel. The script loads only when both are set; nothing else changes. Umami is cookieless, so no consent banner needed for most jurisdictions.
+
+**Install metrics:** the Open button fires a Umami event per bot. Set `UMAMI_URL` / `UMAMI_TOKEN` / `UMAMI_SITE_ID` repo secrets and the weekly cron pulls per-bot click counts into `content/metrics.json` - the site displays real interest numbers with zero backend.
 
 **Newsletter:** set `NEXT_PUBLIC_NEWSLETTER_ENDPOINT` to a form endpoint (Buttondown, Loops, Formspree) and the homepage form POSTs emails there. Unset, it falls back to a compose-email flow. Wire the endpoint once; the section ships.
 

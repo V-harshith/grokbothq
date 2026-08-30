@@ -35,9 +35,7 @@ export function NewsletterForm() {
   if (done !== "idle") {
     return (
       <p className="text-sm leading-relaxed text-muted" role="status">
-        {done === "sent"
-          ? "You're on the list. One email a week, unsubscribe anytime."
-          : "Opening your email app to finish the signup. One email a week, no spam."}
+        {done === "sent" ? "You're on the list. See you next week." : "Opening your email app to finish the signup."}
       </p>
     );
   }

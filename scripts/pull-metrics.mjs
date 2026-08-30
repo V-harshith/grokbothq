@@ -1,0 +1,56 @@
+/**
+ * CI script: pulls per-bot install-click counts from Umami's API and writes
+ * content/metrics.json, which the site uses to display live interest numbers.
+ * Requires three repo secrets; exits 0 quietly when they are not configured.
+ *
+ *   UMAMI_URL      e.g. https://umami.example.com   (no trailing slash)
+ *   UMAMI_TOKEN    read-only API token from Umami settings
+ *   UMAMI_SITE_ID  the website id for this site
+ *
+ * Umami event shape produced by the Open button: name "install-click",
+ * property bot = slug. We query website events for the last 30 days and
+ * aggregate counts per bot slug.
+ */
+import { writeFileSync, readFileSync } from "node:fs";
+
+const base = (process.env.UMAMI_URL ?? "").replace(/\/$/, "");
+const token = process.env.UMAMI_TOKEN ?? "";
+const siteId = process.env.UMAMI_SITE_ID ?? "";
+
+if (!base || !token || !siteId) {
+  console.log("Umami not configured (UMAMI_URL / UMAMI_TOKEN / UMAMI_SITE_ID) - skipping metrics pull.");
+  process.exit(0);
+}
+
+const start = new Date(Date.now() - 30 * 86_400_000).toISOString().slice(0, 10);
+const end = new Date().toISOString().slice(0, 10);
+
+async function api(path) {
+  const res = await fetch(`${base}${path}`, { headers: { Authorization: `Bearer ${token}` } });
+  if (!res.ok) throw new Error(`Umami API ${res.status} on ${path}`);
+  return res.json();
+}
+
+// Umami (v2) event endpoint: /api/websites/:id/events?start_at&end_at
+// Each entry: { x: event name, y: count, ... } flattened per property value.
+const events = await api(`/api/websites/${siteId}/events?start_at=${Date.parse(start)}&end_at=${Date.parse(end)}`);
+const counts = {};
+for (const e of events) {
+  if (e.x !== "install-click") continue;
+  // Umami groups by event property; entries carry the bot slug in `p`/`pv` fields
+  const slug = e.p ?? e.bot ?? e.property;
+  if (typeof slug === "string" && slug) counts[slug] = (counts[slug] ?? 0) + (e.y ?? e.count ?? 1);
+}
+
+const prev = (() => {
+  try {
+    return JSON.parse(readFileSync("content/metrics.json", "utf8"));
+  } catch {
+    return {};
+  }
+})();
+
+const merged = { updatedAt: new Date().toISOString().slice(0, 10), opens: { ...prev.opens, ...counts } };
+writeFileSync("content/metrics.json", JSON.stringify(merged, null, 2) + "\n", "utf8");
+const total = Object.values(merged.opens).reduce((a, b) => a + b, 0);
+console.log(`CHANGED: metrics.json updated, ${Object.keys(counts).length} bots with clicks, ${total} total in last 30d`);

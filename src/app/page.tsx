@@ -7,9 +7,10 @@ import { FaqList } from "@/components/faq-list";
 import { SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { HeroBot } from "@/components/hero-bot";
-import { AdSlot } from "@/components/ad-slot";
+import { AdSlotCard } from "@/components/ad-slot";
 import { UseCaseCard } from "@/components/use-case-card";
 import { NewsletterForm } from "@/components/newsletter-form";
+import { news } from "@/lib/news";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -29,7 +30,7 @@ export const metadata: Metadata = pageMetadata({
 const homeFaqs = faqs.slice(0, 8);
 
 export default function HomePage() {
-  const featured = featuredBots().length ? featuredBots() : latestBots(4);
+  const featured = (featuredBots().length ? featuredBots() : latestBots(3)).slice(0, 3);
   const fresh = latestBots(4);
   const useCases = latestBots(30).filter((b) => b.source).slice(0, 3);
 
@@ -42,7 +43,7 @@ export default function HomePage() {
         <div className="hero-glow" aria-hidden />
         <div className="container-x relative pb-16 pt-10 text-center md:pb-20 md:pt-14">
           <HeroBot />
-          <h1 className="mx-auto mt-8 max-w-3xl text-4xl font-semibold tracking-tight md:text-6xl">
+          <h1 className="mx-auto mt-8 max-w-3xl text-4xl md:text-7xl font-semibold tracking-tighter leading-[1.05]">
             Find a Grok bot <span className="text-accent">worth opening</span>
           </h1>
           <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-muted md:text-lg">
@@ -77,13 +78,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Ad unit (Carbon-style: compact, near the top) */}
-      <div className="container-x flex justify-center pt-8">
-        <AdSlot />
-      </div>
-
       {/* Featured */}
-      <section className="container-x py-16" data-reveal>
+      <section className="container-x py-16 md:py-24" data-reveal>
         <SectionHeader
           title="This week's standouts"
           description="Rotating picks from the directory. Each one was opened and tested before it earned a listing."
@@ -94,12 +90,13 @@ export default function HomePage() {
           {featured.map((bot) => (
             <BotCard key={bot.slug} bot={bot} />
           ))}
+          <AdSlotCard />
         </div>
       </section>
 
       {/* New this week */}
       <section className="border-y border-border bg-surface">
-        <div className="container-x py-16" data-reveal>
+        <div className="container-x py-16 md:py-24" data-reveal>
           <SectionHeader
             title="Fresh this week"
             description="Just cleared a full review pass."
@@ -115,7 +112,7 @@ export default function HomePage() {
       </section>
 
       {/* Categories */}
-      <section className="container-x py-16" data-reveal>
+      <section className="container-x py-16 md:py-24" data-reveal>
         <SectionHeader title="Browse by job" description="Eight categories. Every listing tested against real prompts before it went live." />
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {categories.map((cat) => {
@@ -134,7 +131,7 @@ export default function HomePage() {
 
       {/* Combos */}
       <section className="border-y border-border bg-surface">
-        <div className="container-x py-16" data-reveal>
+        <div className="container-x py-16 md:py-24" data-reveal>
           <SectionHeader
             title="Chain bots into workflows"
             description="Two or three bots that hand work to each other. Tested end to end."
@@ -150,7 +147,7 @@ export default function HomePage() {
       </section>
 
       {/* Guides */}
-      <section className="container-x py-16" data-reveal>
+      <section className="container-x py-16 md:py-24" data-reveal>
         <SectionHeader
           title="Get good, fast"
           description="Everything we learned reviewing hundreds of bots, written into short guides."
@@ -184,7 +181,7 @@ export default function HomePage() {
 
       {/* Use cases */}
       <section className="border-y border-border bg-surface">
-        <div className="container-x py-16" data-reveal>
+        <div className="container-x py-16 md:py-24" data-reveal>
           <SectionHeader
             title="Real use, real receipts"
             description="Every example pairs a listed bot with the X post where it was put to work."
@@ -199,8 +196,30 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* News */}
+      <section className="container-x py-16 md:py-24" data-reveal>
+        <SectionHeader
+          title="Grok news, curated"
+          description="Launches and ecosystem moves, one line each, always linked to the source."
+          link="/news"
+          linkLabel="All news"
+        />
+        <ol className="divide-y divide-border">
+          {news.slice(0, 3).map((item) => (
+            <li key={item.url + item.date} className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 py-4">
+              <a href={item.url} target="_blank" rel="noopener noreferrer" className="font-medium hover:text-accent">
+                {item.title}
+              </a>
+              <span className="text-xs text-muted">
+                {item.source}, {new Date(item.date).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
+              </span>
+            </li>
+          ))}
+        </ol>
+      </section>
+
       {/* Newsletter */}
-      <section className="container-x max-w-xl py-16 text-center" data-reveal>
+      <section className="container-x max-w-xl py-16 md:py-24 text-center" data-reveal>
         <p className="kicker">The weekly drop</p>
         <h2 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl">New bots, every week</h2>
         <p className="mt-3 text-sm leading-relaxed text-muted">
@@ -213,17 +232,17 @@ export default function HomePage() {
 
       {/* FAQ */}
       <section className="border-t border-border bg-surface">
-        <div className="container-x max-w-3xl py-16">
+        <div className="container-x max-w-3xl py-16 md:py-24">
           <SectionHeader title="Questions, answered" description="The questions we get most, answered plainly. More on the full FAQ page." link="/faq" />
           <FaqList faqs={homeFaqs} />
         </div>
       </section>
 
       {/* CTA */}
-      <section className="container-x py-16">
+      <section className="container-x py-16 md:py-24">
         <div className="card relative overflow-hidden p-10 text-center md:p-14">
           <div className="relative">
-            <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">Built a Grok bot? Put it where people are looking.</h2>
+            <h2 className="text-3xl md:text-4xl font-semibold tracking-tighter">Built a Grok bot? Put it where people are looking.</h2>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-muted md:text-base">
               Listings are free and reviewed within 48 hours. Want the top slot instead? That&apos;s what featured is for.
             </p>

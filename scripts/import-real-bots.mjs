@@ -116,6 +116,7 @@ function toBot(r) {
     instructions: `You are ${r.name}. ${tagline} Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.`,
     features,
     bestFor: (r.tags ?? []).slice(0, 3).length ? (r.tags ?? []).slice(0, 3) : ["Anyone who does this task more than once a week"],
+    ...(typeof r.install_count === "number" && r.install_count > 0 ? { installs: r.install_count } : {}),
     url: r.link,
     addedAt: String(r.created_at ?? "").slice(0, 10) || new Date().toISOString().slice(0, 10),
     status: "published",

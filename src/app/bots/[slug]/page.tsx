@@ -36,10 +36,10 @@ export default async function BotPage({ params }: Props) {
   if (!bot) notFound();
 
   const category = categoryMap.get(bot.category);
-  const related = relatedBots(bot);
+  const related = relatedBots(bot, 2);
 
   return (
-    <div className="container-x max-w-4xl py-12">
+    <div className="container-x max-w-6xl py-12">
       <JsonLd
         data={[
           botSoftwareJsonLd(bot),
@@ -60,138 +60,169 @@ export default async function BotPage({ params }: Props) {
         ]}
       />
 
-      <header className="flex items-start gap-5">
-        <BotFace slug={bot.slug} name={bot.name} size={64} />
+      <div className="grid gap-10 lg:grid-cols-[1fr_320px]">
+        {/* main column */}
         <div className="min-w-0">
-          <div className="flex flex-wrap items-center gap-2">
-            {category && (
-              <Link href={`/bots/category/${category.slug}`} className="badge hover:text-accent">
-                {category.name}
-              </Link>
-            )}
-            {bot.trending && <span className="badge badge-accent">Trending</span>}
-            <span className="text-xs text-muted">
-              Added {new Date(bot.addedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
-            </span>
-          </div>
-          <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{bot.name}</h1>
-        <p className="mt-2 text-lg text-muted">
-          {bot.tagline}
-          {bot.builder.x && (
-            <span className="text-sm">
-              {" "}by{" "}
-              <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="text-foreground underline decoration-border underline-offset-4 hover:text-accent">
-                @{bot.builder.x}
-              </a>
-            </span>
+          <header>
+            <div className="flex flex-wrap items-center gap-2">
+              {category && (
+                <Link href={`/bots/category/${category.slug}`} className="badge hover:text-accent">
+                  {category.name}
+                </Link>
+              )}
+              {bot.trending && <span className="badge badge-accent">Trending</span>}
+              <span className="text-xs text-muted">
+                Added {new Date(bot.addedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
+              </span>
+            </div>
+            <h1 className="mt-3 text-3xl md:text-4xl font-semibold tracking-tighter md:text-5xl">{bot.name}</h1>
+            <p className="mt-2 text-lg leading-relaxed text-muted">
+              {bot.tagline}
+              {bot.builder.x && (
+                <span className="text-sm">
+                  {" "}by{" "}
+                  <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="text-foreground underline decoration-border underline-offset-4 hover:text-accent">
+                    @{bot.builder.x}
+                  </a>
+                </span>
+              )}
+            </p>
+          </header>
+
+          <section className="prose-block mt-8">
+            <div>
+              {bot.description.split("\n\n").map((p) => (
+                <p key={p.slice(0, 24)} className="text-[15px] leading-relaxed text-muted">{p}</p>
+              ))}
+            </div>
+          </section>
+
+          {bot.features && bot.features.length > 0 && (
+            <section className="mt-10">
+              <h2 className="text-2xl font-semibold tracking-tight">What you get</h2>
+              <ul className="mt-4 space-y-2">
+                {bot.features.map((f) => (
+                  <li key={f} className="flex items-start gap-2.5 border-b border-border pb-2 text-[15px] leading-relaxed text-muted">
+                    <svg className="mt-1.5 shrink-0 text-accent" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                      <path d="M20 6 9 17l-5-5" />
+                    </svg>
+                    {f}
+                  </li>
+                ))}
+              </ul>
+            </section>
           )}
-        </p>
-        <div className="mt-5 flex flex-wrap gap-3">
-          <OpenButton bot={bot} />
-          <a href={`https://x.ai/bot`} target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
-            What is this?
-          </a>
+
+          {bot.instructions && (
+            <section className="mt-10">
+              <h2 className="text-2xl font-semibold tracking-tight">Instructions</h2>
+              <p className="mt-2 text-sm text-muted">
+                The core of the bot&apos;s persona, shared by the builder - this is exactly how it works under the hood.
+              </p>
+              <pre className="mt-3 overflow-x-auto rounded-xl border border-border p-5 text-[13px] leading-relaxed" style={{ background: "var(--code-bg)", color: "var(--code-fg)" }}>
+                <code>{bot.instructions}</code>
+              </pre>
+            </section>
+          )}
+
+          {bot.bestFor && bot.bestFor.length > 0 && (
+            <section className="mt-10">
+              <h2 className="text-2xl font-semibold tracking-tight">You&apos;ll like this if you&apos;re…</h2>
+              <div className="mt-3 flex flex-wrap gap-2">
+                {bot.bestFor.map((b) => (
+                  <span key={b} className="badge !normal-case">{b}</span>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {related.length > 0 && (
+            <section className="mt-14">
+              <h2 className="text-2xl font-semibold tracking-tight">
+                More {category?.name.toLowerCase()} bots
+              </h2>
+              <div className="mt-4 grid gap-4 sm:grid-cols-2">
+                {related.map((b) => (
+                  <BotCard key={b.slug} bot={b} />
+                ))}
+              </div>
+              {category && (
+                <Link href={`/bots/category/${category.slug}`} className="mt-4 inline-block text-sm font-medium text-accent hover:underline">
+                  All {category.name.toLowerCase()} bots →
+                </Link>
+              )}
+            </section>
+          )}
+
+          <footer className="mt-14 border-t border-border pt-6 text-xs text-muted">
+            Reviewed by hand by the GrokBot HQ team. <Link href="/submit" className="hover:text-foreground">built something similar?</Link>{" "}
+            <a href={absUrl("/faq")} className="hover:text-foreground">report a problem</a>
+          </footer>
         </div>
-        </div>
-      </header>
 
-      <section className="prose-block mt-10">
-        <h2 className="text-xl font-semibold tracking-tight">What it does</h2>
-        <div className="mt-3">
-          {bot.description.split("\n\n").map((p) => (
-            <p key={p.slice(0, 24)} className="text-[15px] leading-relaxed text-muted">{p}</p>
-          ))}
-        </div>
-      </section>
-
-      {bot.features && bot.features.length > 0 && (
-        <section className="mt-10">
-          <h2 className="text-xl font-semibold tracking-tight">Features</h2>
-          <ul className="mt-3 grid gap-2 sm:grid-cols-2">
-            {bot.features.map((f) => (
-              <li key={f} className="card flex items-start gap-2.5 p-3.5 text-sm">
-                <svg className="mt-0.5 shrink-0 text-accent" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                  <path d="M20 6 9 17l-5-5" />
-                </svg>
-                {f}
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
-
-      {bot.instructions && (
-        <section className="mt-10">
-          <h2 className="text-xl font-semibold tracking-tight">Instructions</h2>
-          <p className="mt-2 text-sm text-muted">
-            The core of the bot&apos;s persona, shared by the builder - this is exactly how it works under the hood.
-          </p>
-          <pre className="mt-3 overflow-x-auto rounded-xl border border-border p-5 text-[13px] leading-relaxed" style={{ background: "var(--code-bg)", color: "var(--code-fg)" }}>
-            <code>{bot.instructions}</code>
-          </pre>
-        </section>
-      )}
-
-      {bot.source && (
-        <section className="card mt-10 flex flex-wrap items-center justify-between gap-3 border-accent/40 p-5">
-          <div>
-            <p className="kicker !text-xs">Seen in the wild</p>
-            <p className="mt-1 text-sm text-muted">The X post where this bot was introduced or put to work.</p>
+        {/* sticky rail */}
+        <aside className="self-start lg:sticky lg:top-20">
+          <div className="card p-5">
+            <div className="flex items-center gap-3">
+              <BotFace slug={bot.slug} name={bot.name} size={48} />
+              <div className="min-w-0">
+                <p className="truncate font-semibold">{bot.name}</p>
+                <p className="text-xs text-muted">{category?.name ?? "Grok bot"}</p>
+              </div>
+            </div>
+            <div className="mt-4 grid gap-2 text-sm">
+              <OpenButton bot={bot} />
+              {typeof bot.installs === "number" && bot.installs > 0 && (
+                <p className="text-center text-xs text-muted">
+                  <strong className="font-mono text-foreground">{bot.installs}</strong> installs reported so far
+                </p>
+              )}
+            </div>
+            <dl className="mt-5 space-y-2 border-t border-border pt-4 text-xs">
+              <div className="flex justify-between gap-3">
+                <dt className="text-muted">Builder</dt>
+                <dd className="truncate">
+                  {bot.builder.x ? (
+                    <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="hover:text-accent">
+                      @{bot.builder.x}
+                    </a>
+                  ) : (
+                    "Unknown"
+                  )}
+                </dd>
+              </div>
+              <div className="flex justify-between gap-3">
+                <dt className="text-muted">Listed</dt>
+                <dd>{new Date(bot.addedAt).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</dd>
+              </div>
+              {bot.source && (
+                <div className="flex justify-between gap-3">
+                  <dt className="text-muted">Source</dt>
+                  <dd>
+                    <a href={bot.source} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
+                      X post ↗
+                    </a>
+                  </dd>
+                </div>
+              )}
+            </dl>
+            <p className="mt-4 text-center text-[11px] leading-relaxed text-muted">
+              Opens at <span className="font-mono">x.ai/bot</span>. Free, no setup.
+            </p>
           </div>
-          <a href={bot.source} target="_blank" rel="noopener noreferrer" className="btn btn-ghost shrink-0">
-            View the post on X
-          </a>
-        </section>
-      )}
 
-      {bot.bestFor && bot.bestFor.length > 0 && (
-        <section className="mt-10">
-          <h2 className="text-xl font-semibold tracking-tight">You&apos;ll like this if you&apos;re…</h2>
-          <div className="mt-3 flex flex-wrap gap-2">
-            {bot.bestFor.map((b) => (
-              <span key={b} className="badge !normal-case">{b}</span>
-            ))}
-          </div>
-        </section>
-      )}
-
-      <section className="card mt-10 p-6">
-        <h2 className="text-lg font-semibold">How to open {bot.name}</h2>
-        <ol className="mt-3 list-decimal space-y-2 pl-5 text-sm leading-relaxed text-muted">
-          <li>
-            Click <strong className="text-foreground">Open in Grok</strong> above - it takes you straight to the bot at{" "}
-            <span className="font-mono text-xs">x.ai/bot</span>.
-          </li>
-          <li>Sign in with your X account if asked.</li>
-          <li>Paste your real task - an inbox, a diff, a question - and the bot handles the rest.</li>
-        </ol>
-        <div className="mt-4">
-          <OpenButton bot={bot} />
-        </div>
-      </section>
-
-      {related.length > 0 && (
-        <section className="mt-14">
-          <h2 className="text-xl font-semibold tracking-tight">
-            More {category?.name.toLowerCase()} bots
-          </h2>
-          <div className="mt-4 grid gap-4 sm:grid-cols-2">
-            {related.map((b) => (
-              <BotCard key={b.slug} bot={b} />
-            ))}
-          </div>
-          {category && (
-            <Link href={`/bots/category/${category.slug}`} className="mt-4 inline-block text-sm font-medium text-accent hover:underline">
-              All {category.name.toLowerCase()} bots →
+          <div className="card mt-4 border-accent/40 p-5">
+            <h2 className="text-sm font-semibold">Before you install</h2>
+            <p className="mt-2 text-xs leading-relaxed text-muted">
+              A shared bot carries somebody else&apos;s instructions. Read them before you run it, and never paste a
+              password or an API key if it asks.
+            </p>
+            <Link href="/guides/grok-bot-safety-and-privacy" className="mt-3 inline-block text-xs font-semibold text-accent hover:underline">
+              Safety guide →
             </Link>
-          )}
-        </section>
-      )}
-
-      <footer className="mt-14 border-t border-border pt-6 text-xs text-muted">
-        Reviewed by hand by the GrokBot HQ team. <Link href="/submit" className="hover:text-foreground">built something similar?</Link>{" "}
-        <a href={absUrl("/faq")} className="hover:text-foreground">report a problem</a>
-      </footer>
+          </div>
+        </aside>
+      </div>
     </div>
   );
 }

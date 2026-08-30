@@ -50,7 +50,7 @@ export default async function CategoryPage({ params }: Props) {
 
       <header className="max-w-3xl">
         <p className="kicker">Category</p>
-        <h1 className="mt-2 text-3xl font-semibold tracking-tight md:text-4xl">
+        <h1 className="mt-2 text-3xl md:text-4xl font-semibold tracking-tighter md:text-5xl">
           {category.name} Grok Bots <span className="font-mono text-xl text-accent">{list.length}</span>
         </h1>
         <p className="mt-3 text-base leading-relaxed text-muted">{category.intro}</p>

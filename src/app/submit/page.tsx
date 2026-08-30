@@ -55,6 +55,40 @@ export default function SubmitPage() {
           first.
         </p>
       </section>
+
+      <section className="mt-12">
+        <h2 className="text-xl font-semibold tracking-tight">What happens to your submission</h2>
+        <ol className="mt-4 space-y-4">
+          {[
+            {
+              name: "It lands in the review queue",
+              text: "Your listing becomes a tracked ticket the moment you submit - nothing gets lost in a DM.",
+            },
+            {
+              name: "We open and test the bot",
+              text: "A human runs it against three real prompts: a typical case, a messy case, and something out of scope. About 48 hours.",
+            },
+            {
+              name: "It goes live - or you get the reason",
+              text: "Approved listings publish automatically with the site's next update. Rejections come with the exact reason, and resubmitting is welcome.",
+            },
+          ].map((step, i) => (
+            <li key={step.name} className="card flex gap-4 p-5">
+              <span className="grid h-8 w-8 shrink-0 place-items-center rounded-full bg-accent font-mono text-sm font-bold text-accent-foreground" aria-hidden>
+                {i + 1}
+              </span>
+              <div>
+                <h3 className="font-semibold">{step.name}</h3>
+                <p className="mt-1 text-sm leading-relaxed text-muted">{step.text}</p>
+              </div>
+            </li>
+          ))}
+        </ol>
+        <p className="mt-4 text-sm text-muted">
+          Where the review record lives: submissions through the site open a GitHub issue and, once approved, a pull
+          request you can read - the whole history is public. Email submissions get a reply from a human.
+        </p>
+      </section>
     </div>
   );
 }

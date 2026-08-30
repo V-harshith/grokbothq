@@ -36,6 +36,27 @@ jobs:
             git push
           fi
 
+      - name: Pull install metrics from Umami
+        env:
+          UMAMI_URL: ${{ secrets.UMAMI_URL }}
+          UMAMI_TOKEN: ${{ secrets.UMAMI_TOKEN }}
+          UMAMI_SITE_ID: ${{ secrets.UMAMI_SITE_ID }}
+        run: node scripts/pull-metrics.mjs
+
+      - name: Commit metrics (triggers deploy)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet content/metrics.json; then
+            echo "No metric changes."
+          else
+            git config user.name "grokbot-hub-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add content/metrics.json
+            git commit -m "ops: refresh install metrics"
+            git push
+          fi
+
       - name: Ping IndexNow with updated URLs
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}

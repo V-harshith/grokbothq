@@ -22,6 +22,7 @@ export function Footer() {
           <ul className="mt-3 space-y-2 text-sm text-muted">
             <li><Link href="/bots" className="hover:text-foreground">All bots</Link></li>
             <li><Link href="/new" className="hover:text-foreground">New this week</Link></li>
+            <li><Link href="/news" className="hover:text-foreground">Grok news</Link></li>
             <li><Link href="/use-cases" className="hover:text-foreground">Use cases</Link></li>
             <li><Link href="/groups" className="hover:text-foreground">Bot combos</Link></li>
             <li><Link href="/submit" className="hover:text-foreground">Submit a bot</Link></li>
@@ -68,7 +69,13 @@ export function Footer() {
               </a>
             </p>
           </div>
-          <p className="max-w-xl md:text-right">{DISCLAIMER}</p>
+          <div className="max-w-xl md:text-right">
+            <p>{DISCLAIMER}</p>
+            <p className="mt-1 space-x-3">
+              <Link href="/privacy" className="hover:text-foreground">Privacy</Link>
+              <Link href="/terms" className="hover:text-foreground">Terms</Link>
+            </p>
+          </div>
         </div>
       </div>
     </footer>

@@ -2,26 +2,21 @@ import Link from "next/link";
 import type { Bot } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
 import { BotFace } from "./bot-face";
+import { OpenButton } from "./open-button";
 
-export function OpenButton({ bot, small }: { bot: Bot; small?: boolean }) {
-  return (
-    <a
-      href={bot.url}
-      target="_blank"
-      rel="noopener noreferrer nofollow"
-      className={`btn btn-accent ${small ? "!px-3 !py-1.5 !text-xs" : ""}`}
-      aria-label={`Open ${bot.name} in Grok`}
-    >
-      Open in Grok
-      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-        <path d="M7 17 17 7M9 7h8v8" />
-      </svg>
-    </a>
-  );
+export { OpenButton };
+
+function relDate(iso: string): string {
+  const days = Math.floor((Date.now() - new Date(iso).getTime()) / 86_400_000);
+  if (days <= 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 7) return `${days}d ago`;
+  return new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric" });
 }
 
 export function BotCard({ bot }: { bot: Bot }) {
   const category = categoryMap.get(bot.category);
+  const fresh = Date.now() - new Date(bot.addedAt).getTime() < 7 * 86_400_000;
   return (
     <article className="card card-hover flex flex-col p-5">
       <div className="flex items-start justify-between gap-3">
@@ -54,9 +49,17 @@ export function BotCard({ bot }: { bot: Bot }) {
       <p className="mt-3 flex-1 text-sm leading-relaxed text-muted">{bot.tagline}</p>
 
       <div className="mt-4 flex items-center justify-between gap-3">
-        <Link href={`/bots/${bot.slug}`} className="text-xs font-medium text-muted underline-offset-4 hover:text-foreground hover:underline">
-          Details
-        </Link>
+        <div className="flex items-center gap-2.5 text-xs text-muted">
+          <Link href={`/bots/${bot.slug}`} className="font-medium underline-offset-4 hover:text-foreground hover:underline">
+            Details
+          </Link>
+          {typeof bot.installs === "number" && bot.installs > 0 && (
+            <span title="Installs reported by the source directory">
+              <strong className="font-mono font-semibold text-foreground">{bot.installs}</strong> installs
+            </span>
+          )}
+          {fresh && <span className="badge-accent rounded-full px-2 py-0.5 font-semibold">new · {relDate(bot.addedAt)}</span>}
+        </div>
         <OpenButton bot={bot} small />
       </div>
     </article>

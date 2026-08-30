@@ -60,7 +60,7 @@ export default async function GuidePage({ params }: Props) {
             <span className="badge">{guide.readingMinutes} min read</span>
             <span>Updated {new Date(guide.updatedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</span>
           </div>
-          <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{guide.title}</h1>
+          <h1 className="mt-3 text-3xl md:text-4xl font-semibold tracking-tighter md:text-5xl">{guide.title}</h1>
         </header>
 
         {/* Quick answer - optimized for answer engines and AI citations */}

@@ -51,7 +51,7 @@ export default async function ComboPage({ params }: Props) {
             </div>
           ))}
         </div>
-        <h1 className="mt-4 text-3xl font-semibold tracking-tight md:text-4xl">{combo.name}</h1>
+        <h1 className="mt-4 text-3xl md:text-4xl font-semibold tracking-tighter md:text-5xl">{combo.name}</h1>
         <p className="mt-2 text-lg text-muted">{combo.tagline}</p>
       </header>
 

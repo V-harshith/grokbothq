@@ -47,7 +47,7 @@ export default async function CompareDetailPage({ params }: Props) {
       <article>
         <header>
           <p className="kicker">Comparison</p>
-          <h1 className="mt-2 text-3xl font-semibold tracking-tight md:text-4xl">{page.title}</h1>
+          <h1 className="mt-2 text-3xl md:text-4xl font-semibold tracking-tighter md:text-5xl">{page.title}</h1>
           <p className="mt-2 text-xs text-muted">Updated {new Date(page.updatedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</p>
         </header>
 
