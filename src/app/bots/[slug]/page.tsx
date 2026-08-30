@@ -165,7 +165,7 @@ export default async function BotPage({ params }: Props) {
       )}
 
       <footer className="mt-14 border-t border-border pt-6 text-xs text-muted">
-        Reviewed by hand by the GrokBot Hub team · <Link href="/submit" className="hover:text-foreground">built something similar?</Link> ·{" "}
+        Reviewed by hand by the GrokBot HQ team · <Link href="/submit" className="hover:text-foreground">built something similar?</Link> ·{" "}
         <a href={absUrl("/faq")} className="hover:text-foreground">report a problem</a>
       </footer>
     </div>

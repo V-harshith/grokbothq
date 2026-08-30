@@ -7,9 +7,9 @@ import { SITE, DISCLAIMER } from "@/data/site";
 import { stats } from "@/data/bots";
 
 export const metadata: Metadata = pageMetadata({
-  title: "About GrokBot Hub — Independent, Hand-Reviewed, Free",
+  title: "About GrokBot HQ — Independent, Hand-Reviewed, Free",
   description:
-    "Who runs GrokBot Hub, how the review process works, why independence matters, and how to contact us. The directory of Grok bots built for users first.",
+    "Who runs GrokBot HQ, how the review process works, why independence matters, and how to contact us. The directory of Grok bots built for users first.",
   path: "/about",
 });
 
@@ -21,14 +21,14 @@ export default function AboutPage() {
       <SectionHeader
         kicker="About"
         title="One place for Grok bot users"
-        description={`GrokBot Hub exists because the Grok bot ecosystem grew faster than anyone's ability to browse it. ${stats.bots} bots in, the thesis holds: human review beats algorithmic feeds.`}
+        description={`GrokBot HQ exists because the Grok bot ecosystem grew faster than anyone's ability to browse it. ${stats.bots} bots in, the thesis holds: human review beats algorithmic feeds.`}
       />
 
       <div className="prose-block">
         <h2 className="text-xl font-semibold tracking-tight">Why this site exists</h2>
         <p className="text-[15px] leading-relaxed text-muted">
           Grok bots are tiny, useful, and scattered. The good ones spread by word of mouth and die in reply threads; the
-          bad ones wear the same clothes. We started GrokBot Hub as the missing layer between builders and users: a
+          bad ones wear the same clothes. We started GrokBot HQ as the missing layer between builders and users: a
           single place to find a bot for the job you have right now, with enough context to know whether it&apos;s worth
           opening.
         </p>

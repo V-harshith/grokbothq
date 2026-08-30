@@ -19,7 +19,7 @@ export function Header() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/logo.svg" alt="" width={24} height={24} className="rounded-md" />
           <span>
-            GrokBot<span className="text-accent">Hub</span>
+            GrokBot<span className="text-accent">HQ</span>
           </span>
         </Link>
 

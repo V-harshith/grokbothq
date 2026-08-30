@@ -23,7 +23,7 @@
       {
         "heading": "What's actually inside a bot",
         "body": [
-          "Under the hood, every bot is just text — but good bot authors write that text like a spec, not a personality card. The strongest bots on GrokBot Hub share four ingredients:"
+          "Under the hood, every bot is just text — but good bot authors write that text like a spec, not a personality card. The strongest bots on GrokBot HQ share four ingredients:"
         ],
         "list": [
           "A role with a job description — 'inbox triage librarian', not just 'helpful assistant'.",
@@ -48,7 +48,7 @@
       {
         "heading": "How to find bots worth opening",
         "body": [
-          "This is exactly why GrokBot Hub exists. Every bot in our directory is opened and tested by hand before listing, categories are curated (not auto-generated), and each listing shows the bot's core instructions so you can judge quality before clicking. Start with the Bots directory, or grab a starting combo like Ship Desk if you want several bots that work together."
+          "This is exactly why GrokBot HQ exists. Every bot in our directory is opened and tested by hand before listing, categories are curated (not auto-generated), and each listing shows the bot's core instructions so you can judge quality before clicking. Start with the Bots directory, or grab a starting combo like Ship Desk if you want several bots that work together."
         ]
       }
     ]
@@ -124,7 +124,7 @@
       {
         "heading": "After publishing: get it used",
         "body": [
-          "A published bot with no distribution is a diary entry. Submit it to GrokBot Hub (free, hand-reviewed within 48 hours), share the x.ai/bot link on X with a demo of the output — show, don't describe — and put the link in your profile. Bots that show a screenshot of real output get an order of magnitude more opens than bots that describe themselves."
+          "A published bot with no distribution is a diary entry. Submit it to GrokBot HQ (free, hand-reviewed within 48 hours), share the x.ai/bot link on X with a demo of the output — show, don't describe — and put the link in your profile. Bots that show a screenshot of real output get an order of magnitude more opens than bots that describe themselves."
         ]
       }
     ]
@@ -193,7 +193,7 @@
       "builder",
       "distribution"
     ],
-    "quickAnswer": "Publish at x.ai/bot to get your shareable bot link, then distribute: submit to GrokBot Hub (hand-reviewed, free), post an output screenshot demo on X, put the link in your profile, and pitch it to niche communities where the job-to-be-done already comes up.",
+    "quickAnswer": "Publish at x.ai/bot to get your shareable bot link, then distribute: submit to GrokBot HQ (hand-reviewed, free), post an output screenshot demo on X, put the link in your profile, and pitch it to niche communities where the job-to-be-done already comes up.",
     "intro": "Most bots die in the feed: published, linked once, forgotten by Friday. The bots that stack up thousands of opens do four things consistently. None of them require an audience — they require showing real output.",
     "sections": [
       {
@@ -211,7 +211,7 @@
       {
         "heading": "Step 3: list in the places people look",
         "body": [
-          "Directories are where intent lives — someone browsing a bot directory is pre-qualified. Submit to GrokBot Hub (free, hand-reviewed in ~48 hours; a featured slot is available if you want the top of the page). Fill out the listing properly: one-sentence pitch, the core of your instructions, and an honest 'you'll like this if…'."
+          "Directories are where intent lives — someone browsing a bot directory is pre-qualified. Submit to GrokBot HQ (free, hand-reviewed in ~48 hours; a featured slot is available if you want the top of the page). Fill out the listing properly: one-sentence pitch, the core of your instructions, and an honest 'you'll like this if…'."
         ]
       },
       {
@@ -239,7 +239,7 @@
       "users",
       "discovery"
     ],
-    "quickAnswer": "Judge a bot before opening it: does it do one job, do its instructions include testable rules and a failure mode, and can you see real output? Curated directories like GrokBot Hub pre-test every listing, so start there and check the 'instructions' section on each bot page.",
+    "quickAnswer": "Judge a bot before opening it: does it do one job, do its instructions include testable rules and a failure mode, and can you see real output? Curated directories like GrokBot HQ pre-test every listing, so start there and check the 'instructions' section on each bot page.",
     "intro": "For every great Grok bot there are a dozen wrappers — a one-line persona with a fun name and no substance. Here's the two-minute evaluation we run on every submission, so you can apply it anywhere.",
     "sections": [
       {
@@ -399,7 +399,7 @@
       {
         "heading": "Model 3: launch channel economics",
         "body": [
-          "A bot launch is a content moment: demo screenshots on X, a directory listing, replies in niche communities. Builders time these with their product launches. A featured slot on GrokBot Hub exists for exactly this — the directory's audience arrives with intent, and the bot converts attention into opens and opens into profile visits."
+          "A bot launch is a content moment: demo screenshots on X, a directory listing, replies in niche communities. Builders time these with their product launches. A featured slot on GrokBot HQ exists for exactly this — the directory's audience arrives with intent, and the bot converts attention into opens and opens into profile visits."
         ]
       },
       {

@@ -1,4 +1,4 @@
-# GrokBot Hub
+# GrokBot HQ
 
 The independent, hand-reviewed directory of **Grok bots** — one place for Grok bot users to find, combine, and master bots on xAI's Grok platform. A clone of the grokbots.page model expanded into an SEO/AEO/GEO-optimized hub.
 
@@ -6,14 +6,14 @@ Built with **Next.js 16 / React 19 / Tailwind v4**. **Fully automated after laun
 
 ## Launch setup
 
-**Done already:** repo `V-harshith/grokbot-hub` (private) is live with all workflows pushed, the `bot-submission` label created, and the `SITE_URL` repo variable set.
+**Done already:** repo `V-harshith/grokbothq` (private) is live with all workflows pushed, the `bot-submission` label created, and the `SITE_URL` repo variable set.
 
 **Your remaining steps:**
 
-1. **Deploy:** `npx vercel` → log in → import `grokbot-hub`. Set env var `NEXT_PUBLIC_SITE_URL=https://grokbothub.xyz`.
-2. **Buy the domain** (`grokbothub.xyz`) and point it at Vercel (Vercel → Project → Domains).
+1. **Deploy:** `npx vercel` → log in → import `grokbothq`. Set env var `NEXT_PUBLIC_SITE_URL=https://grokbothq.xyz`.
+2. **Buy the domain** (`grokbothq.xyz`) and point it at Vercel (Vercel → Project → Domains).
 3. **Submit** `https://<domain>/sitemap.xml` in Google Search Console + Bing Webmaster Tools (imports from GSC).
-4. **When ready for automated submissions** (repo is currently private, and anonymous visitors can't open issues on private repos): GitHub → Settings → General → Danger zone → **Change visibility → Public**, and set env var `NEXT_PUBLIC_GITHUB_REPO=V-harshith/grokbot-hub` in Vercel. Until then, `/submit` falls back to email automatically.
+4. **When ready for automated submissions** (repo is currently private, and anonymous visitors can't open issues on private repos): GitHub → Settings → General → Danger zone → **Change visibility → Public**, and set env var `NEXT_PUBLIC_GITHUB_REPO=V-harshith/grokbothq` in Vercel. Until then, `/submit` falls back to email automatically.
 5. Optional: repo → Settings → Secrets and variables → Actions → **Variables** → `AUTO_MERGE=true` for zero-touch publishing (default is one-click PR merge, which keeps "hand-reviewed" honest).
 
 **Done.** From here on the site runs itself:
@@ -63,9 +63,9 @@ Taken/parked: `grokbot.xyz`, `grokbots.xyz`, and all the obvious `.com`s. **Avai
 
 | Domain | First year | Renewal | Verdict |
 |---|---|---|---|
-| **grokbothub.xyz** ✅ current default | ~$1–3 | ~$10–13/yr | Best cheap start; brand match |
+| **grokbothq.xyz** ✅ current default | ~$1–3 | ~$10–13/yr | Best cheap start; brand match |
 | grokbot.lol / grokbots.lol | ~$2–6 | ~$20–28/yr | Fun, but pricey renewals + weakens directory trust |
-| grokbotindex.com | ~$10 | ~$10/yr | The trust upgrade when revenue justifies it |
+| grokbothq.xyz | ~$10 | ~$10/yr | The trust upgrade when revenue justifies it |
 
 Buy at Porkbun / Cloudflare Registrar / Namecheap. `.xyz` is a normal ICANN gTLD — Google treats it like `.com`; its spam-fleet reputation only matters for spammy sites, and this is a content-rich directory. **Swap domains any time without touching code**: point DNS at Vercel, set `NEXT_PUBLIC_SITE_URL`, redeploy. Set auto-renew with a funded card — the one thing automation can't do.
 
@@ -91,7 +91,7 @@ Edit `content/*.json` and the dev server picks it up. The repo's automation mean
 
 **Tier 1 — launch week:** publish the repo public + an `awesome-grok-bots` list repo linking the hub (GitHub do-follow) · Product Hunt · Show HN · X launch thread with bot demos · 50+ AI tool directories (StartupBase, Uneed, Peerlist, ToolPilot…).
 
-**Tier 2 — weeks 2–6:** weekly "New this week" posts (builders link back — they want discovery) · Dev.to/Medium/Hashnode cross-posts with canonical URLs · r/Grok and r/SideProject as genuine comments · "Featured on GrokBot Hub" badge for builders' sites · a monthly "state of Grok bots" stats graphic.
+**Tier 2 — weeks 2–6:** weekly "New this week" posts (builders link back — they want discovery) · Dev.to/Medium/Hashnode cross-posts with canonical URLs · r/Grok and r/SideProject as genuine comments · "Featured on GrokBot HQ" badge for builders' sites · a monthly "state of Grok bots" stats graphic.
 
 **Tier 3 — ongoing:** builder outreach ("you're listed — grab the badge") · HARO/Qwoted as ecosystem source · resource-page + broken-link outreach to AI roundups · a quarterly data study (linkable research).
 

@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "GrokBot Hub — the hand-reviewed directory of Grok bots";
+export const alt = "GrokBot HQ — the hand-reviewed directory of Grok bots";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -34,7 +34,7 @@ export default function OpengraphImage() {
             fontWeight: 600,
           }}
         >
-          GROKBOT HUB
+          GROKBOT HQ
         </div>
         <div style={{ display: "flex", fontSize: 76, fontWeight: 700, marginTop: 24, textAlign: "center", maxWidth: 950 }}>
           Find a Grok bot worth opening
@@ -43,7 +43,7 @@ export default function OpengraphImage() {
           The hand-reviewed directory of Grok bots · assistants · coding · research · money
         </div>
         <div style={{ display: "flex", fontSize: 26, color: "#a3e635", marginTop: 40, fontFamily: "monospace" }}>
-          grokbothub.xyz
+          grokbothq.xyz
         </div>
       </div>
     ),

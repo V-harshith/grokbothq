@@ -8,7 +8,7 @@ import { SITE } from "@/data/site";
 export const metadata: Metadata = pageMetadata({
   title: "Get Featured — Put Your Grok Bot at the Top",
   description:
-    "Featured placements on GrokBot Hub: the top slot on the directory, homepage featuring, and launch-week placement for builders who want maximum qualified opens.",
+    "Featured placements on GrokBot HQ: the top slot on the directory, homepage featuring, and launch-week placement for builders who want maximum qualified opens.",
   path: "/featured",
 });
 

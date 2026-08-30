@@ -8,7 +8,7 @@
  *   2. Put the same string in a file at https://<domain>/<key>.txt (public)
  */
 const key = process.env.INDEXNOW_KEY ?? "";
-const site = (process.env.SITE_URL ?? "https://grokbothub.xyz").replace(/\/$/, "");
+const site = (process.env.SITE_URL ?? "https://grokbothq.xyz").replace(/\/$/, "");
 
 if (!key) {
   console.log("INDEXNOW_KEY not set — skipping IndexNow ping.");

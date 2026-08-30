@@ -8,7 +8,7 @@ import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "Submit Your Grok Bot — Free Listing, Hand-Reviewed",
   description:
-    "Get your Grok bot in front of people searching for it. Submit to GrokBot Hub for a free, hand-reviewed listing within 48 hours — or apply for a featured launch slot.",
+    "Get your Grok bot in front of people searching for it. Submit to GrokBot HQ for a free, hand-reviewed listing within 48 hours — or apply for a featured launch slot.",
   path: "/submit",
 });
 

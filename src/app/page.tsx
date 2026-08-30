@@ -16,7 +16,7 @@ import { botsByCategory } from "@/data/bots";
 import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "GrokBot Hub — The Hand-Reviewed Directory of Grok Bots",
+  title: "GrokBot HQ — The Hand-Reviewed Directory of Grok Bots",
   description:
     "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform — browse by category, learn bot combos, and master bot instructions with free guides.",
   path: "/",
@@ -30,7 +30,7 @@ export default function HomePage() {
 
   return (
     <>
-      <JsonLd data={[faqJsonLd(homeFaqs), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot Hub — Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
+      <JsonLd data={[faqJsonLd(homeFaqs), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ — Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
 
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-border">

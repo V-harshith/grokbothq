@@ -10,7 +10,7 @@ export function Footer() {
           <Link href="/" className="flex items-center gap-2 font-semibold">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/logo.svg" alt="" width={22} height={22} className="rounded-md" />
-            GrokBot<span className="-ml-1.5 text-accent">Hub</span>
+            GrokBot<span className="-ml-1.5 text-accent">HQ</span>
           </Link>
           <p className="mt-3 max-w-xs text-sm leading-relaxed text-muted">
             The independent, hand-reviewed directory of Grok bots. One place to find, combine, and master bots on xAI&apos;s Grok platform.
