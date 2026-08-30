@@ -55,7 +55,18 @@ export function Footer() {
 
       <div className="border-t border-border">
         <div className="container-x flex flex-col gap-2 py-5 text-xs text-muted md:flex-row md:items-center md:justify-between">
-          <p>© {new Date().getFullYear()} {SITE.name}. Last updated {new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}.</p>
+          <div>
+            <p>
+              © {new Date().getFullYear()} {SITE.name}. Last updated{" "}
+              {new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}.
+            </p>
+            <p className="mt-1">
+              Questions? <a href={`mailto:${SITE.email}`} className="underline underline-offset-2 hover:text-foreground">{SITE.email}</a> or{" "}
+              <a href={`https://x.com/${SITE.twitter.replace("@", "")}`} target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-foreground">
+                {SITE.twitter} on X
+              </a>
+            </p>
+          </div>
           <p className="max-w-xl md:text-right">{DISCLAIMER}</p>
         </div>
       </div>

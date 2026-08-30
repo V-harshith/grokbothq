@@ -64,6 +64,8 @@ To manually run validation on a candidate, simulate the workflow locally with th
 #   set "status": "pending" in its entry
 # Verify everything still builds
 npm run build
+# Run a sponsor (edit content/ads.json first: active, title, description, cta, url)
+#   (no command needed - merging to main deploys it)
 # Trigger the weekly ops pipeline manually
 gh workflow run "Weekly ops" -R V-harshith/grokbot-hub
 # Check repo automation state

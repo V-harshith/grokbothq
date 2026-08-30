@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/header";
@@ -62,12 +63,17 @@ try {
 `;
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
+  const umamiUrl = process.env.NEXT_PUBLIC_UMAMI_URL;
+  const umamiId = process.env.NEXT_PUBLIC_UMAMI_WEBSITE_ID;
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} dark h-full antialiased`}>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body className="flex min-h-full flex-col">
+        {umamiUrl && umamiId && (
+          <Script defer src={umamiUrl} data-website-id={umamiId} />
+        )}
         <JsonLd data={[websiteJsonLd(), organizationJsonLd()]} />
         <Header />
         <main className="flex-1">{children}</main>

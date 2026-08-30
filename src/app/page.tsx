@@ -7,6 +7,7 @@ import { FaqList } from "@/components/faq-list";
 import { SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { HeroBot } from "@/components/hero-bot";
+import { AdSlot } from "@/components/ad-slot";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -72,6 +73,11 @@ export default function HomePage() {
           </dl>
         </div>
       </section>
+
+      {/* Ad slot (sponsor card, or the quiet Get-featured house ad) */}
+      <div className="pt-8">
+        <AdSlot />
+      </div>
 
       {/* Featured */}
       <section className="container-x py-16">

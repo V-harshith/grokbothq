@@ -188,7 +188,8 @@ body {
 }
 
 /* ---------- Hero bot (matches the Grok app mascot: dark squircle head,
-   two glowing pill eyes; transform-only motion, no layout properties) ---------- */
+   two glowing pill eyes; anchored in place, tracks the cursor in a
+   circular arc; transform-only motion, no layout properties) ---------- */
 
 .hero-glow {
   position: absolute;
@@ -197,26 +198,11 @@ body {
   pointer-events: none;
 }
 
-@keyframes bot-bob {
-  0%, 100% { transform: translateY(0) scale(1, 0.988); }
-  50% { transform: translateY(-10px) scale(0.992, 1.012); }
-}
-
-@keyframes bot-shadow-pulse {
-  0%, 100% { transform: scaleX(1); opacity: 0.35; }
-  50% { transform: scaleX(0.8); opacity: 0.22; }
-}
-
 .hero-bot {
   display: grid;
   place-items: center;
   perspective: 800px;
   margin-inline: auto;
-}
-
-.hero-bot-float {
-  animation: bot-bob 5.2s ease-in-out infinite;
-  will-change: transform;
 }
 
 .hero-bot-head {
@@ -263,7 +249,6 @@ body {
   border-radius: 999px;
   background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.5), transparent 72%);
   filter: blur(3px);
-  animation: bot-shadow-pulse 5.2s ease-in-out infinite;
   transform-origin: center;
 }
 
@@ -272,8 +257,6 @@ body {
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .hero-bot-float,
-  .hero-bot-shadow,
   .hero-bot-eye,
   .bot-eye {
     animation: none !important;

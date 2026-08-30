@@ -4,9 +4,10 @@ import { useEffect, useRef } from "react";
 
 /**
  * The GrokBot HQ mascot, modeled on the Grok app bot: a dark squircle head
- * with two glowing pill eyes. It bobs on transform-only keyframes, tilts in
- * 3D toward the cursor, glances around on its own when the cursor is idle,
- * and blinks with a squishy overshoot. No libraries, no layout animation.
+ * with two glowing pill eyes. It stays anchored in place (no vertical bob);
+ * the head tilts along a circular arc that tracks the cursor, the eyes follow,
+ * and it blinks and glances around when the cursor is idle. Transform-only,
+ * no layout animation, no libraries.
  */
 export function HeroBot() {
   const headRef = useRef<HTMLDivElement>(null);
@@ -19,7 +20,7 @@ export function HeroBot() {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     // squishy blink on its own schedule, eyes slightly out of phase
-    for (const el of [head, eyes.children[0], eyes.children[1]]) {
+    for (const el of eyes.children) {
       const node = el as HTMLElement;
       node.style.setProperty("--bd", `${(3.6 + Math.random() * 3).toFixed(2)}s`);
       node.style.setProperty("--bdel", `${(Math.random() * 4).toFixed(2)}s`);
@@ -32,24 +33,28 @@ export function HeroBot() {
     let lastMove = 0;
     let lastGlance = 0;
 
+    // the head's tilt traces the cursor around it like a circular dial
     const onMove = (e: MouseEvent) => {
       const nx = (e.clientX / window.innerWidth) * 2 - 1;
       const ny = (e.clientY / window.innerHeight) * 2 - 1;
-      target.ry = nx * 14;
-      target.rx = -ny * 9;
-      target.ex = nx * 6;
-      target.ey = ny * 4;
+      const ang = Math.atan2(ny, nx);
+      const mag = Math.min(Math.hypot(nx, ny), 1);
+      target.ry = Math.cos(ang) * mag * 16;
+      target.rx = -Math.sin(ang) * mag * 11;
+      target.ex = Math.cos(ang) * mag * 7;
+      target.ey = Math.sin(ang) * mag * 5;
       lastMove = performance.now();
     };
 
-    // when the cursor goes quiet, the bot looks around on its own
+    // when the cursor goes quiet, it looks around on its own
     const glance = (now: number) => {
       if (now - lastMove < 2500 || now - lastGlance < 2200) return;
       lastGlance = now;
-      target.ex = (Math.random() * 2 - 1) * 7;
-      target.ey = (Math.random() * 2 - 1) * 4;
-      target.ry = (Math.random() * 2 - 1) * 9;
-      target.rx = (Math.random() * 2 - 1) * 5;
+      const ang = Math.random() * Math.PI * 2;
+      target.ex = Math.cos(ang) * 7;
+      target.ey = Math.sin(ang) * 4;
+      target.ry = Math.cos(ang) * 9;
+      target.rx = -Math.sin(ang) * 5;
     };
 
     const tick = () => {
@@ -84,12 +89,10 @@ export function HeroBot() {
 
   return (
     <div className="hero-bot" aria-hidden>
-      <div className="hero-bot-float">
-        <div ref={headRef} className="hero-bot-head" style={{ "--rx": "0deg", "--ry": "0deg" } as React.CSSProperties}>
-          <div ref={eyesRef} className="hero-bot-eyes">
-            <div className="hero-bot-eye" />
-            <div className="hero-bot-eye" />
-          </div>
+      <div ref={headRef} className="hero-bot-head" style={{ "--rx": "0deg", "--ry": "0deg" } as React.CSSProperties}>
+        <div ref={eyesRef} className="hero-bot-eyes">
+          <div className="hero-bot-eye" />
+          <div className="hero-bot-eye" />
         </div>
       </div>
       <div className="hero-bot-shadow" />
