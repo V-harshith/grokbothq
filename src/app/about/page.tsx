@@ -29,7 +29,7 @@ export default function AboutPage() {
         <p className="text-[15px] leading-relaxed text-muted">
           Grok bots are tiny, useful, and scattered. The good ones spread by word of mouth and die in reply threads; the
           bad ones wear the same clothes. We started GrokBot HQ as the missing layer between builders and users: a
-          single place to find a bot for the job you have right now, with enough context to know whether it&apos;s worth
+          single place to find a bot for the job you have right now, with enough context to know whether it’s worth
           opening.
         </p>
 
@@ -45,7 +45,7 @@ export default function AboutPage() {
         <p className="text-[15px] leading-relaxed text-muted">
           Browsing is free, listings are free, and rankings are never for sale. Sponsored placements are clearly labeled,
           and sponsors pass the same review as everyone else. If those two sentences ever stop being true, this section
-          is where we&apos;ll say so.
+          is where we’ll say so.
         </p>
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Trademarks and affiliation</h2>

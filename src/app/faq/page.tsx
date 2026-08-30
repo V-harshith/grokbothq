@@ -27,7 +27,7 @@ export default function FaqPage() {
       <p className="mt-10 text-sm text-muted">
         Still stuck? The{" "}
         <Link href="/guides/what-are-grok-bots" className="text-accent hover:underline">
-          complete beginner&apos;s guide
+          complete beginner’s guide
         </Link>{" "}
         covers everything in depth.
       </p>

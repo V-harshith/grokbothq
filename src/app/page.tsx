@@ -71,7 +71,7 @@ export default function HomePage() {
             ].map((s) => (
               <div key={s.label} className="px-8 text-center">
                 <dt className="text-xs text-muted">{s.label}</dt>
-                <dd className="font-mono text-xl font-semibold text-accent">{s.value}</dd>
+                <dd className="tnum font-mono text-xl font-semibold text-accent">{s.value}</dd>
               </div>
             ))}
           </dl>
@@ -244,7 +244,7 @@ export default function HomePage() {
           <div className="relative">
             <h2 className="text-3xl md:text-4xl font-semibold tracking-tighter">Built a Grok bot? Put it where people are looking.</h2>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-muted md:text-base">
-              Listings are free and reviewed within 48 hours. Want the top slot instead? That&apos;s what featured is for.
+              Listings are free and reviewed within 48 hours. Want the top slot instead? That’s what featured is for.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               <Link href="/submit" className="btn btn-accent !px-6 !py-3">

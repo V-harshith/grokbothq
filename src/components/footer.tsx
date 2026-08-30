@@ -13,7 +13,7 @@ export function Footer() {
             GrokBot<span className="-ml-1.5 text-accent">HQ</span>
           </Link>
           <p className="mt-3 max-w-xs text-sm leading-relaxed text-muted">
-            The independent, hand-reviewed directory of Grok bots. One place to find, combine, and master bots on xAI&apos;s Grok platform.
+            The independent, hand-reviewed directory of Grok bots. One place to find, combine, and master bots on xAI’s Grok platform.
           </p>
         </div>
 

@@ -117,7 +117,7 @@ export default async function BotPage({ params }: Props) {
             <section className="mt-10">
               <h2 className="text-2xl font-semibold tracking-tight">Instructions</h2>
               <p className="mt-2 text-sm text-muted">
-                The core of the bot&apos;s persona, shared by the builder - this is exactly how it works under the hood.
+                The core of the bot’s persona, shared by the builder - this is exactly how it works under the hood.
               </p>
               <pre className="mt-3 overflow-x-auto rounded-xl border border-border p-5 text-[13px] leading-relaxed" style={{ background: "var(--code-bg)", color: "var(--code-fg)" }}>
                 <code>{bot.instructions}</code>
@@ -127,7 +127,7 @@ export default async function BotPage({ params }: Props) {
 
           {bot.bestFor && bot.bestFor.length > 0 && (
             <section className="mt-10">
-              <h2 className="text-2xl font-semibold tracking-tight">You&apos;ll like this if you&apos;re…</h2>
+              <h2 className="text-2xl font-semibold tracking-tight">You’ll like this if you’re…</h2>
               <div className="mt-3 flex flex-wrap gap-2">
                 {bot.bestFor.map((b) => (
                   <span key={b} className="badge !normal-case">{b}</span>
@@ -174,7 +174,7 @@ export default async function BotPage({ params }: Props) {
               <OpenButton bot={bot} />
               {typeof bot.installs === "number" && bot.installs > 0 && (
                 <p className="text-center text-xs text-muted">
-                  <strong className="font-mono text-foreground">{bot.installs}</strong> installs reported so far
+                  <strong className="tnum font-mono text-foreground">{bot.installs}</strong> installs reported so far
                 </p>
               )}
             </div>
@@ -214,7 +214,7 @@ export default async function BotPage({ params }: Props) {
           <div className="card mt-4 border-accent/40 p-5">
             <h2 className="text-sm font-semibold">Before you install</h2>
             <p className="mt-2 text-xs leading-relaxed text-muted">
-              A shared bot carries somebody else&apos;s instructions. Read them before you run it, and never paste a
+              A shared bot carries somebody else’s instructions. Read them before you run it, and never paste a
               password or an API key if it asks.
             </p>
             <Link href="/guides/grok-bot-safety-and-privacy" className="mt-3 inline-block text-xs font-semibold text-accent hover:underline">

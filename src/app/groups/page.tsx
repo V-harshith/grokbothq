@@ -29,12 +29,12 @@ export default function GroupsPage() {
       </div>
 
       <section className="card mt-12 p-6 md:p-8">
-        <h2 className="text-lg font-semibold">How combos work (and what they can&apos;t do)</h2>
+        <h2 className="text-lg font-semibold">How combos work (and what they can’t do)</h2>
         <p className="mt-3 text-sm leading-relaxed text-muted">
           A combo is a sequence: run bot A, copy its structured output, paste it into bot B. The magic ingredient is output
           discipline - every bot in a combo produces a clean artifact (a verdict, a ranked list, a drafted email) that the
-          next bot consumes happily. Bots can&apos;t call each other or share memory; if you need unattended automation,
-          that&apos;s an agent framework problem. Our guide to{" "}
+          next bot consumes happily. Bots can’t call each other or share memory; if you need unattended automation,
+          that’s an agent framework problem. Our guide to{" "}
           <a href="/guides/how-to-chain-grok-bots" className="text-accent hover:underline">
             chaining Grok bots
           </a>{" "}

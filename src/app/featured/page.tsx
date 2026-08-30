@@ -91,14 +91,14 @@ export default function FeaturedPage() {
         <h2 className="text-lg font-semibold">The rules, up front</h2>
         <ul className="mt-3 space-y-2 text-sm leading-relaxed text-muted">
           <li>Every sponsor passes the same hand review as organic listings. If it would embarrass the page it sits on, we decline it.</li>
-          <li>Sponsorships are always labeled. The directory&apos;s only asset is trust; we do not sell it quietly.</li>
+          <li>Sponsorships are always labeled. The directory’s only asset is trust; we do not sell it quietly.</li>
           <li>One sponsor per slot at a time. No bidding wars, no bait-and-switch.</li>
           <li>Organic listings never lose position to sponsors. Featured slots are additive.</li>
-          <li>You&apos;ll get a confirmation screenshot of your placement the day it goes live.</li>
+          <li>You’ll get a confirmation screenshot of your placement the day it goes live.</li>
         </ul>
         <p className="mt-4 text-sm text-muted">
           Want to see the slots first? <Link href="/bots" className="text-accent hover:underline">Browse the directory</Link>, or
-          email <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> with what you&apos;d like to run.
+          email <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> with what you’d like to run.
         </p>
       </section>
     </div>

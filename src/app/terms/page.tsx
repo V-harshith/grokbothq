@@ -24,7 +24,7 @@ export default function TermsPage() {
       <div className="prose-block mt-10">
         <h2 className="text-xl font-semibold tracking-tight">What this site is</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          An independent directory of Grok bots with guides and curated news. Listings link to bots hosted on xAI&apos;s
+          An independent directory of Grok bots with guides and curated news. Listings link to bots hosted on xAI’s
           platform; we host none of them. {DISCLAIMER}
         </p>
 
@@ -39,12 +39,12 @@ export default function TermsPage() {
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Sponsorships</h2>
         <p className="text-[15px] leading-relaxed text-muted">
           Sponsored placements are paid and always labeled. A sponsorship is a placement, not an endorsement, and it
-          never changes an organic listing&apos;s position. Sponsors pass the same review as organic submissions.
+          never changes an organic listing’s position. Sponsors pass the same review as organic submissions.
         </p>
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">No warranty</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          The site and its content are provided as is. Bot behavior depends on xAI&apos;s platform and each builder&apos;s
+          The site and its content are provided as is. Bot behavior depends on xAI’s platform and each builder’s
           instructions - test a bot yourself before relying on its output, especially for money, legal, or health
           matters. We are not liable for what a third-party bot does, and links to external sites are not
           endorsements of their content.

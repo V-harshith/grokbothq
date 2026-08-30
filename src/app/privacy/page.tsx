@@ -44,9 +44,9 @@ export default function PrivacyPage() {
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Third parties</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          Open in Grok links hand you off to xAI&apos;s platform; what xAI collects there is governed by xAI&apos;s own
+          Open in Grok links hand you off to xAI’s platform; what xAI collects there is governed by xAI’s own
           privacy policy. External news and source links (X posts, press coverage) are governed by those platforms.
-          Sponsored links are regular links to the sponsor&apos;s own site and are always labeled.
+          Sponsored links are regular links to the sponsor’s own site and are always labeled.
         </p>
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Contact and changes</h2>
