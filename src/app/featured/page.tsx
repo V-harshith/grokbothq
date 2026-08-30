@@ -6,72 +6,65 @@ import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE } from "@/data/site";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Get Featured - Put Your Grok Bot at the Top",
+  title: "Sponsor GrokBot HQ - Reach People Choosing Their Next Tool",
   description:
-    "Featured placements on GrokBot HQ: the top slot on the directory, homepage featuring, and launch-week placement for builders who want maximum qualified opens.",
+    "Sponsor the top slots on GrokBot HQ. Not just bots: any product that fits people actively exploring Grok. Transparent pricing, always labeled, one sponsor per slot.",
   path: "/featured",
 });
 
 const plans = [
   {
-    name: "Featured Listing",
+    name: "Featured listing",
     price: "$29",
-    period: "one-time, 4 weeks",
+    period: "4 weeks",
     features: [
-      "Top of the directory for your category",
-      "'Featured' badge on your listing",
-      "Homepage featured slot rotation",
-      "Included in the weekly newsletter mention",
-      "Do-follow link to your X or landing page",
+      "Pinned to the top of one category page",
+      "Always labeled, so it reads as a pick, not an ad",
+      "Rotates through the homepage ad slot",
+      "Direct do-follow link to your site or X profile",
     ],
-    cta: "Apply for featured",
-    highlight: true,
+    subject: "Featured listing",
   },
   {
-    name: "Launch Sponsor",
+    name: "Launch week",
     price: "$99",
-    period: "one-time, launch week",
+    period: "7 days",
     features: [
-      "Everything in Featured Listing",
-      "Sponsored hero slot on the homepage for 7 days",
-      "Dedicated post on our X account",
-      "Combo placement - we'll feature a workflow using your bot",
-      "Post-campaign stats: impressions + opens",
+      "The homepage ad slot, exclusively yours for 7 days",
+      "Top placement on the /bots directory page",
+      "A pinned spot at the top of New this week",
+      "Direct do-follow link",
     ],
-    cta: "Book launch week",
-    highlight: false,
+    subject: "Launch week",
   },
   {
-    name: "Category Sponsor",
+    name: "Category takeover",
     price: "$199",
     period: "per month",
     features: [
-      "Exclusive sponsorship of one category page",
-      "Your bot pinned at the top of the category",
-      "A 'sponsor note' section with your pitch",
-      "Newsletter mention every week of the month",
-      "Best for tools with a Grok-adjacent product",
+      "Your card pinned above every listing on one category page",
+      "Homepage ad-slot rotation for the whole month",
+      "One sponsor per category, never shared",
+      "Direct do-follow link",
     ],
-    cta: "Sponsor a category",
-    highlight: false,
+    subject: "Category takeover",
   },
 ];
 
 export default function FeaturedPage() {
   return (
     <div className="container-x max-w-5xl py-12">
-      <JsonLd data={[breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Get featured", path: "/featured" }])]} />
-      <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Get featured" }]} />
+      <JsonLd data={[breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Sponsor", path: "/featured" }])]} />
+      <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Sponsor" }]} />
       <SectionHeader
-        kicker="For builders"
-        title="Get featured, get opened"
-        description="Organic listings are free forever. Featured placements exist for builders who want launch-moment visibility in front of people already searching for a Grok bot like yours."
+        kicker="Sponsorship"
+        title="Be there at the moment of choice"
+        description="People browsing this site are actively picking a bot to open. If your product helps them work smarter, a slot here puts you inside that decision. Sponsors are not limited to bots: developer tools, productivity apps, learning platforms - if it fits the audience, it fits."
       />
 
       <div className="grid gap-4 lg:grid-cols-3">
         {plans.map((plan) => (
-          <article key={plan.name} className={`card flex flex-col p-6 ${plan.highlight ? "border-accent" : ""}`}>
-            {plan.highlight && <span className="badge badge-accent mb-3 self-start">Most popular</span>}
+          <article key={plan.name} className="card flex flex-col p-6">
             <h2 className="text-lg font-semibold">{plan.name}</h2>
             <p className="mt-2">
               <span className="font-mono text-3xl font-semibold">{plan.price}</span>{" "}
@@ -87,24 +80,25 @@ export default function FeaturedPage() {
                 </li>
               ))}
             </ul>
-            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(`${plan.name} inquiry`)}`} className={`btn mt-5 ${plan.highlight ? "btn-accent" : "btn-ghost"}`}>
-              {plan.cta}
+            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(plan.subject)}`} className="btn btn-ghost mt-5">
+              Reserve this slot
             </a>
           </article>
         ))}
       </div>
 
       <section className="card mt-10 p-6 md:p-8">
-        <h2 className="text-lg font-semibold">The fine print, up front</h2>
+        <h2 className="text-lg font-semibold">The rules, up front</h2>
         <ul className="mt-3 space-y-2 text-sm leading-relaxed text-muted">
-          <li>Sponsored placements are always labeled - trust is the whole product.</li>
-          <li>Every sponsored bot still passes the same hand review; we decline anything that would embarrass the page it sits on.</li>
-          <li>One sponsor per category at a time. No bidding wars, no bait-and-switch.</li>
-          <li>Organic listings never lose position to sponsors - featured slots are additive, not cannibalizing.</li>
+          <li>Every sponsor passes the same hand review as organic listings. If it would embarrass the page it sits on, we decline it.</li>
+          <li>Sponsorships are always labeled. The directory&apos;s only asset is trust; we do not sell it quietly.</li>
+          <li>One sponsor per slot at a time. No bidding wars, no bait-and-switch.</li>
+          <li>Organic listings never lose position to sponsors. Featured slots are additive.</li>
+          <li>You&apos;ll get a confirmation screenshot of your placement the day it goes live.</li>
         </ul>
         <p className="mt-4 text-sm text-muted">
-          Questions? Email <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> or read{" "}
-          <Link href="/submit" className="text-accent hover:underline">how free submissions work</Link>.
+          Want to see the slots first? <Link href="/bots" className="text-accent hover:underline">Browse the directory</Link>, or
+          email <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> with what you&apos;d like to run.
         </p>
       </section>
     </div>

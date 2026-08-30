@@ -19,8 +19,8 @@ export default function SubmitPage() {
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Submit" }]} />
       <SectionHeader
         kicker="Free listing"
-        title="Submit your Grok bot"
-        description="Reviews are done by humans: we open your bot, test it against three real prompts, and check the description matches reality. About 8 in 10 submissions make it in."
+        title="List your Grok bot"
+        description="You built something useful. Put it in front of people searching for exactly that. Every submission is opened and tested against real prompts - reviews take about 48 hours."
       />
 
       <SubmitForm />

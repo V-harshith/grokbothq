@@ -35,7 +35,7 @@ export function AdSlot() {
         className="group flex flex-wrap items-center justify-between gap-3 rounded-xl border border-dashed border-border px-5 py-4 transition-colors hover:border-accent"
       >
         <p className="text-sm text-muted">
-          <span className="font-medium text-foreground">This slot is open.</span> Put your bot or product here for launch
+          <span className="font-medium text-foreground">This slot is open.</span> Put your product here for launch
           week.
         </p>
         <span className="text-xs font-semibold text-accent group-hover:underline">Get featured →</span>

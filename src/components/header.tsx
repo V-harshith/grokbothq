@@ -14,7 +14,7 @@ const nav = [
 
 export function Header() {
   return (
-    <header className="sticky top-0 z-50 border-b border-border bg-background/85 backdrop-blur">
+    <header className="sticky top-0 z-50 border-b border-border bg-background/70 backdrop-blur-xl [saturate:1.8]">
       <div className="container-x flex h-14 items-center justify-between gap-4">
         <Link href="/" className="flex items-center gap-2.5 font-semibold tracking-tight" aria-label={`${SITE.name} home`}>
           {/* eslint-disable-next-line @next/next/no-img-element */}

@@ -100,7 +100,7 @@ export function SubmitForm() {
         </label>
       </div>
       <button type="submit" className="btn btn-accent justify-self-start !px-6 !py-3">
-        {githubMode ? "Submit for review (free)" : "Submit for review (free)"}
+        {githubMode ? "Send it for review" : "Submit for review (free)"}
       </button>
       <p className="text-xs text-muted">
         {githubMode

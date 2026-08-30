@@ -25,7 +25,7 @@ export function Footer() {
             <li><Link href="/use-cases" className="hover:text-foreground">Use cases</Link></li>
             <li><Link href="/groups" className="hover:text-foreground">Bot combos</Link></li>
             <li><Link href="/submit" className="hover:text-foreground">Submit a bot</Link></li>
-            <li><Link href="/featured" className="hover:text-foreground">Get featured</Link></li>
+            <li><Link href="/featured" className="hover:text-foreground">Sponsor the site</Link></li>
           </ul>
         </nav>
 

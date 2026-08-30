@@ -101,9 +101,11 @@ Keep anchors natural (brand, "grok bot directory", "hand-reviewed grok bots", ba
 
 Static + rebuilds updates the site on every merge (usually seconds after approval; worst case a few minutes for CI). If you ever want truly instant writes, the move is Supabase + ISR with on-demand revalidation - the data layer (`src/data/*.ts`) is the only thing that changes. Not needed until submissions outpace a few per day.
 
-## Analytics, ad slot, and contact
+## Analytics, newsletter, ad slot, and contact
 
 **Analytics (Umami):** set `NEXT_PUBLIC_UMAMI_URL` (your `/script.js` URL) and `NEXT_PUBLIC_UMAMI_WEBSITE_ID` in Vercel. The script loads only when both are set; nothing else changes. Umami is cookieless, so no consent banner needed for most jurisdictions.
+
+**Newsletter:** set `NEXT_PUBLIC_NEWSLETTER_ENDPOINT` to a form endpoint (Buttondown, Loops, Formspree) and the homepage form POSTs emails there. Unset, it falls back to a compose-email flow. Wire the endpoint once; the section ships.
 
 **Ad slot:** one slot exists on the homepage (below the hero) and at the bottom of `/bots`. It is fully data-driven from `content/ads.json`: set `"active": true` and fill `title` / `description` / `cta` / `url` to run a sponsor; set `"active": false` to fall back to the quiet house ad that links to `/featured` (the "get featured" pipeline fills this slot with paying sponsors). The slot is always labeled. One sponsor per slot, never more.
 

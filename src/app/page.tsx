@@ -9,6 +9,7 @@ import { JsonLd } from "@/components/json-ld";
 import { HeroBot } from "@/components/hero-bot";
 import { AdSlot } from "@/components/ad-slot";
 import { UseCaseCard } from "@/components/use-case-card";
+import { NewsletterForm } from "@/components/newsletter-form";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -45,11 +46,11 @@ export default function HomePage() {
             Find a Grok bot <span className="text-accent">worth opening</span>
           </h1>
           <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-muted md:text-lg">
-            {stats.bots} hand-reviewed bots. One click opens any of them in Grok.
+            Every listing tested by hand. One click opens it in Grok.
           </p>
           <div className="mt-7 flex flex-wrap items-center justify-center gap-3">
             <Link href="/bots" className="btn btn-accent !px-6 !py-3 !text-base">
-              Browse the directory
+              Browse {stats.bots} bots
             </Link>
             <Link href="/guides/what-are-grok-bots" className="btn btn-ghost !px-6 !py-3 !text-base">
               New to Grok bots?
@@ -60,7 +61,7 @@ export default function HomePage() {
 
       {/* Stats strip */}
       <section className="border-b border-border bg-surface">
-        <div className="container-x flex justify-center py-6">
+        <div className="container-x flex justify-center py-6" data-reveal>
           <dl className="flex flex-wrap items-center justify-center divide-x divide-border">
             {[
               { label: "bots listed", value: `${stats.bots}` },
@@ -82,10 +83,10 @@ export default function HomePage() {
       </div>
 
       {/* Featured */}
-      <section className="container-x py-16">
+      <section className="container-x py-16" data-reveal>
         <SectionHeader
-          title="Standout bots from the directory"
-          description="A rotating pick of listings from the directory - every one opened and tested before it was listed."
+          title="This week's standouts"
+          description="Rotating picks from the directory. Each one was opened and tested before it earned a listing."
           link="/bots"
           linkLabel="All bots"
         />
@@ -98,10 +99,10 @@ export default function HomePage() {
 
       {/* New this week */}
       <section className="border-y border-border bg-surface">
-        <div className="container-x py-16">
+        <div className="container-x py-16" data-reveal>
           <SectionHeader
-            title="New this week"
-            description="Recently reviewed and added - the freshest additions to the directory."
+            title="Fresh this week"
+            description="Just cleared a full review pass."
             link="/new"
             linkLabel="See all new bots"
           />
@@ -114,11 +115,8 @@ export default function HomePage() {
       </section>
 
       {/* Categories */}
-      <section className="container-x py-16">
-        <SectionHeader
-          title="Every category, curated"
-          description="Eight categories, each with its own hand-tested shortlist."
-        />
+      <section className="container-x py-16" data-reveal>
+        <SectionHeader title="Browse by job" description="Eight categories. Every listing tested against real prompts before it went live." />
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {categories.map((cat) => {
             const count = botsByCategory(cat.slug).length;
@@ -136,10 +134,10 @@ export default function HomePage() {
 
       {/* Combos */}
       <section className="border-y border-border bg-surface">
-        <div className="container-x py-16">
+        <div className="container-x py-16" data-reveal>
           <SectionHeader
-            title="Bots that work better together"
-            description="Starting pipelines where each bot hands its output to the next - tested, not theoretical."
+            title="Chain bots into workflows"
+            description="Two or three bots that hand work to each other. Tested end to end."
             link="/groups"
             linkLabel="All combos"
           />
@@ -151,11 +149,11 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Guides + compare */}
-      <section className="container-x py-16">
+      {/* Guides */}
+      <section className="container-x py-16" data-reveal>
         <SectionHeader
-          title="Master the Grok bot ecosystem"
-          description="Free, practical guides - from your first bot to chaining bots into daily workflows."
+          title="Get good, fast"
+          description="Everything we learned reviewing hundreds of bots, written into short guides."
           link="/guides"
           linkLabel="All guides"
         />
@@ -169,12 +167,15 @@ export default function HomePage() {
           <Link href="/compare/grok-bots-vs-custom-gpts" className="text-sm text-accent hover:underline">
             Grok bots vs Custom GPTs
           </Link>
+          <span className="text-muted">·</span>
           <Link href="/compare/grok-bots-vs-claude-skills" className="text-sm text-accent hover:underline">
             vs Claude Skills
           </Link>
+          <span className="text-muted">·</span>
           <Link href="/compare/grok-bots-vs-gemini-gems" className="text-sm text-accent hover:underline">
             vs Gemini Gems
           </Link>
+          <span className="text-muted">·</span>
           <Link href="/compare" className="text-sm text-muted hover:text-foreground hover:underline">
             all comparisons
           </Link>
@@ -183,10 +184,10 @@ export default function HomePage() {
 
       {/* Use cases */}
       <section className="border-y border-border bg-surface">
-        <div className="container-x py-16">
+        <div className="container-x py-16" data-reveal>
           <SectionHeader
-            title="How people are using them"
-            description="Real bots paired with the X posts where their builders put them to work."
+            title="Real use, real receipts"
+            description="Every example pairs a listed bot with the X post where it was put to work."
             link="/use-cases"
             linkLabel="All use cases"
           />
@@ -198,14 +199,22 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Newsletter */}
+      <section className="container-x max-w-xl py-16 text-center" data-reveal>
+        <p className="kicker">The weekly drop</p>
+        <h2 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl">New bots, every week</h2>
+        <p className="mt-3 text-sm leading-relaxed text-muted">
+          One email with the freshest listings and one combo worth stealing. No spam, unsubscribe anytime.
+        </p>
+        <div className="mt-6">
+          <NewsletterForm />
+        </div>
+      </section>
+
       {/* FAQ */}
       <section className="border-t border-border bg-surface">
         <div className="container-x max-w-3xl py-16">
-          <SectionHeader
-            title="Grok bot questions, answered"
-            description="The questions we get most - answered plainly. More on the full FAQ page."
-            link="/faq"
-          />
+          <SectionHeader title="Questions, answered" description="The questions we get most, answered plainly. More on the full FAQ page." link="/faq" />
           <FaqList faqs={homeFaqs} />
         </div>
       </section>
@@ -214,17 +223,16 @@ export default function HomePage() {
       <section className="container-x py-16">
         <div className="card relative overflow-hidden p-10 text-center md:p-14">
           <div className="relative">
-            <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">Built a Grok bot?</h2>
+            <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">Built a Grok bot? Put it where people are looking.</h2>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-muted md:text-base">
-              Get it in front of people who are already looking for it. Free listings are hand-reviewed within 48 hours -
-              or grab a featured slot for launch week.
+              Listings are free and reviewed within 48 hours. Want the top slot instead? That&apos;s what featured is for.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               <Link href="/submit" className="btn btn-accent !px-6 !py-3">
-                Submit your bot (free)
+                List your bot
               </Link>
               <Link href="/featured" className="btn btn-ghost !px-6 !py-3">
-                Get featured
+                Sponsor the site
               </Link>
             </div>
           </div>

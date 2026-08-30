@@ -17,7 +17,7 @@ export default function OpengraphImage() {
           alignItems: "center",
           justifyContent: "center",
           background: "#0a0a0b",
-          backgroundImage: "radial-gradient(circle at 50% 0%, rgba(163,230,53,0.14), transparent 60%)",
+          backgroundImage: "radial-gradient(circle at 50% 0%, rgba(10,132,255,0.16), transparent 60%)",
           color: "#f4f4f5",
           fontFamily: "sans-serif",
         }}
@@ -29,7 +29,7 @@ export default function OpengraphImage() {
             gap: 18,
             fontSize: 34,
             letterSpacing: 6,
-            color: "#a3e635",
+            color: "#0a84ff",
             textTransform: "uppercase",
             fontWeight: 600,
           }}
@@ -42,7 +42,7 @@ export default function OpengraphImage() {
         <div style={{ display: "flex", fontSize: 30, color: "#9d9da8", marginTop: 28, textAlign: "center", maxWidth: 820 }}>
           The hand-reviewed directory of Grok bots
         </div>
-        <div style={{ display: "flex", fontSize: 26, color: "#a3e635", marginTop: 40, fontFamily: "monospace" }}>
+        <div style={{ display: "flex", fontSize: 26, color: "#0a84ff", marginTop: 40, fontFamily: "monospace" }}>
           grokbothq.xyz
         </div>
       </div>

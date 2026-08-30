@@ -4,6 +4,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
+import { ScrollReveal } from "@/components/scroll-reveal";
 import { JsonLd } from "@/components/json-ld";
 import { SITE } from "@/data/site";
 import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
@@ -66,7 +67,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   const umamiUrl = process.env.NEXT_PUBLIC_UMAMI_URL;
   const umamiId = process.env.NEXT_PUBLIC_UMAMI_WEBSITE_ID;
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} dark h-full antialiased`}>
+    <html lang="en" data-scroll-behavior="smooth" className={`${geistSans.variable} ${geistMono.variable} dark h-full antialiased`}>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
@@ -75,6 +76,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <Script defer src={umamiUrl} data-website-id={umamiId} />
         )}
         <JsonLd data={[websiteJsonLd(), organizationJsonLd()]} />
+        <ScrollReveal />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
