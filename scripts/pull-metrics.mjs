@@ -35,7 +35,9 @@ async function api(path) {
 // Each entry: { x: event name, y: count, ... } flattened per property value.
 const events = await api(`/api/websites/${siteId}/events?start_at=${Date.parse(start)}&end_at=${Date.parse(end)}`);
 const counts = {};
+let sponsorClicks30d = 0;
 for (const e of events) {
+  if (e.x === "sponsor-click") { sponsorClicks30d += e.y ?? e.count ?? 1; continue; }
   if (e.x !== "install-click") continue;
   // Umami groups by event property; entries carry the bot slug in `p`/`pv` fields
   const slug = e.p ?? e.bot ?? e.property;
@@ -50,7 +52,8 @@ const prev = (() => {
   }
 })();
 
-const merged = { updatedAt: new Date().toISOString().slice(0, 10), opens: { ...prev.opens, ...counts } };
+const sponsorClicks = ((prev.sponsorClicks ?? 0) as number) + sponsorClicks30d;
+const merged = { updatedAt: new Date().toISOString().slice(0, 10), opens: { ...prev.opens, ...counts }, sponsorClicks };
 writeFileSync("content/metrics.json", JSON.stringify(merged, null, 2) + "\n", "utf8");
 const total = Object.values(merged.opens).reduce((a, b) => a + b, 0);
 console.log(`CHANGED: metrics.json updated, ${Object.keys(counts).length} bots with clicks, ${total} total in last 30d`);

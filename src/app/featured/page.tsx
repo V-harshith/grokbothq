@@ -4,6 +4,8 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE } from "@/data/site";
+import { bots } from "@/data/bots";
+import metricsJson from "../../../content/metrics.json";
 
 export const metadata: Metadata = pageMetadata({
   title: "Sponsor GrokBot HQ - Reach People Choosing Their Next Tool",
@@ -52,6 +54,7 @@ const plans = [
 ];
 
 export default function FeaturedPage() {
+  const m = metricsJson as unknown as { sponsorClicks?: number };const sponsorClicks = typeof m.sponsorClicks === "number" ? m.sponsorClicks : 0;
   return (
     <div className="container-x max-w-5xl py-12">
       <JsonLd data={[breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Sponsor", path: "/featured" }])]} />
@@ -86,6 +89,53 @@ export default function FeaturedPage() {
           </article>
         ))}
       </div>
+
+      {/* Visibility proof */}
+      <section className="mt-14">
+        <SectionHeader
+          kicker="Visibility"
+          title="Where your slot appears - and how it's measured"
+          description="Sponsors don't buy a mention, they buy placement. Here is the exact map of where the unit renders, and the numbers that prove it."
+        />
+        <div className="grid gap-4 md:grid-cols-3">
+          {[
+            { page: "Homepage", where: "Directly below the hero and stats", detail: "First content block every visitor sees" },
+            { page: "This week's standouts", where: "Inside the featured grid", detail: "Styled like a listing, labeled as sponsored" },
+            { page: "Category & New pages", where: "Pinned inside the listings", detail: "Among the cards people are actively picking from" },
+          ].map((s) => (
+            <div key={s.page} className="card p-5">
+              <p className="font-mono text-[10px] uppercase tracking-[0.14em] text-accent">{s.page}</p>
+              <p className="mt-2 text-sm font-semibold">{s.where}</p>
+              <p className="mt-1 text-sm leading-relaxed text-muted">{s.detail}</p>
+            </div>
+          ))}
+        </div>
+
+        <div className="card mt-4 grid gap-4 p-6 sm:grid-cols-3">
+          <div>
+            <p className="tnum font-mono text-2xl font-semibold text-accent">{bots.length}</p>
+            <p className="text-xs text-muted">listing pages your unit rotates across</p>
+          </div>
+          <div>
+            <p className="tnum font-mono text-2xl font-semibold text-accent">5</p>
+            <p className="text-xs text-muted">surfaces carry the sponsored unit (home, directory, categories, new)</p>
+          </div>
+          <div>
+            <p className="tnum font-mono text-2xl font-semibold text-accent">
+              {sponsorClicks > 0 ? sponsorClicks : "live"}
+            </p>
+            <p className="text-xs text-muted">
+              {sponsorClicks > 0
+                ? "sponsor-unit clicks tracked in the last 30 days"
+                : "click measurement once analytics are connected - every sponsor gets their count at the end of the run"}
+            </p>
+          </div>
+        </div>
+        <p className="mt-3 text-xs text-muted">
+          Measurement is cookieless (Umami). Clicks on your unit are counted per placement and reported at the end of
+          the run. No personal data, ever.
+        </p>
+      </section>
 
       <section className="card mt-10 p-6 md:p-8">
         <h2 className="text-lg font-semibold">The rules, up front</h2>

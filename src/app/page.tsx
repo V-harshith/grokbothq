@@ -11,6 +11,8 @@ import { AdSlotCard } from "@/components/ad-slot";
 import { UseCaseCard } from "@/components/use-case-card";
 import { NewsletterForm } from "@/components/newsletter-form";
 import { news } from "@/lib/news";
+import { BotRoulette } from "@/components/bot-roulette";
+import { bots as allBots } from "@/data/bots";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -33,6 +35,7 @@ export default function HomePage() {
   const featured = (featuredBots().length ? featuredBots() : latestBots(3)).slice(0, 3);
   const fresh = latestBots(4);
   const useCases = latestBots(30).filter((b) => b.source).slice(0, 3);
+  const rouletteBots = allBots.map((b) => ({ slug: b.slug, name: b.name, tagline: b.tagline, category: b.category, url: b.url }));
 
   return (
     <>
@@ -56,6 +59,7 @@ export default function HomePage() {
             <Link href="/guides/what-are-grok-bots" className="btn btn-ghost !px-6 !py-3 !text-base">
               New to Grok bots?
             </Link>
+            <BotRoulette bots={rouletteBots} />
           </div>
         </div>
       </section>
@@ -176,6 +180,41 @@ export default function HomePage() {
           <Link href="/compare" className="text-sm text-muted hover:text-foreground hover:underline">
             all comparisons
           </Link>
+        </div>
+      </section>
+
+      {/* Power tools */}
+      <section className="container-x py-16 md:py-24" data-reveal>
+        <SectionHeader
+          kicker="Power tools"
+          title="More than a list"
+          description="The directory is machine-readable. Point your own Grok Bot at it, browse by the tools you already use, or subscribe to the feed."
+        />
+        <div className="grid gap-4 md:grid-cols-3">
+          <Link href="/agent" className="card card-hover flex flex-col p-6">
+            <h3 className="font-semibold">Point your Grok Bot here</h3>
+            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
+              Copy one prompt and your bot fetches the directory itself - recommends bots for any task, on your schedule.
+            </p>
+            <span className="mt-4 text-xs font-semibold text-accent">Get the routines →</span>
+          </Link>
+          <Link href="/integrations" className="card card-hover flex flex-col p-6">
+            <h3 className="font-semibold">Browse by integration</h3>
+            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
+              Gmail, Slack, Notion, GitHub - every tool a listed bot connects to gets its own page.
+            </p>
+            <span className="mt-4 text-xs font-semibold text-accent">Find yours →</span>
+          </Link>
+          <div className="card flex flex-col p-6">
+            <h3 className="font-semibold">Read it like a feed</h3>
+            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
+              RSS for new drops and news, or the whole directory as one JSON document. No key, no account.
+            </p>
+            <span className="mt-4 space-x-4 text-xs font-semibold">
+              <a href="/rss.xml" className="text-accent hover:underline">RSS →</a>
+              <a href="/api/v1/index.json" className="text-accent hover:underline">JSON API →</a>
+            </span>
+          </div>
         </div>
       </section>
 

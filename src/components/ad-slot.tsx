@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { TrackedLink } from "./tracked-link";
 import adsJson from "../../content/ads.json";
 
 /**
@@ -14,17 +15,18 @@ export function AdSlot() {
   if (adsJson.active && adsJson.title && adsJson.url) {
     return (
       <aside className="ad-slot" aria-label="Sponsored">
-        <a
+        <TrackedLink
           href={adsJson.url}
-          target="_blank"
-          rel="noopener noreferrer sponsored"
+          external
+          event="sponsor-click"
+          data={{ placement: "compact" }}
           className="ad-card"
         >
           <span className="ad-label">{adsJson.label || "Sponsored"}</span>
           <span className="ad-title">{adsJson.title}</span>
           <span className="ad-desc">{adsJson.description}</span>
           <span className="ad-cta">{adsJson.cta || "Learn more"} →</span>
-        </a>
+        </TrackedLink>
         <p className="ad-via">ads via GrokBot HQ</p>
       </aside>
     );
@@ -32,12 +34,12 @@ export function AdSlot() {
 
   return (
     <aside className="ad-slot" aria-label="Get featured">
-      <Link href="/featured" className="ad-card ad-card-open">
+      <TrackedLink href="/featured" event="sponsor-slot-open" className="ad-card ad-card-open">
         <span className="ad-label">Sponsored</span>
         <span className="ad-title">This slot is open</span>
         <span className="ad-desc">Reach people at the moment they pick their next tool.</span>
         <span className="ad-cta">Get featured →</span>
-      </Link>
+      </TrackedLink>
       <p className="ad-via">ads via GrokBot HQ</p>
     </aside>
   );
@@ -56,9 +58,9 @@ export function AdSlotCard() {
         <h3 className="mt-2 text-base font-semibold">{adsJson.title}</h3>
         <p className="mt-1.5 flex-1 text-sm leading-relaxed text-muted">{adsJson.description}</p>
         <div className="mt-4 flex items-center justify-between gap-3">
-          <a href={adsJson.url} target="_blank" rel="noopener noreferrer sponsored" className="text-xs font-semibold text-accent hover:underline">
+          <TrackedLink href={adsJson.url} external event="sponsor-click" data={{ placement: "grid" }} className="text-xs font-semibold text-accent hover:underline">
             {adsJson.cta || "Learn more"} →
-          </a>
+          </TrackedLink>
           <span className="font-mono text-[10px] text-muted opacity-70">ads via GrokBot HQ</span>
         </div>
       </article>
