@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { HomeLink } from "./home-link";
 import { categories } from "@/data/categories";
 import { SITE, DISCLAIMER } from "@/data/site";
 
@@ -7,11 +8,11 @@ export function Footer() {
     <footer className="border-t border-border bg-surface">
       <div className="container-x grid gap-10 py-12 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
         <div>
-          <Link href="/" className="flex items-center gap-2 font-semibold">
+          <HomeLink className="flex items-center gap-2 font-semibold">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/logo.svg" alt="" width={22} height={22} className="rounded-md" />
             GrokBot<span className="-ml-1.5 text-accent">HQ</span>
-          </Link>
+          </HomeLink>
           <p className="mt-3 max-w-xs text-sm leading-relaxed text-muted">
             The independent, hand-reviewed directory of Grok bots. One place to find, combine, and master bots on xAI’s Grok platform.
           </p>

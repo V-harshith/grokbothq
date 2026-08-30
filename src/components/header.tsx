@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { SITE } from "@/data/site";
 import { ThemeToggle } from "./theme-toggle";
+import { HomeLink } from "./home-link";
 
 const nav = [
   { href: "/bots", label: "Bots" },
@@ -23,13 +24,13 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/70 backdrop-blur-xl backdrop-saturate-150">
       <div className="container-x flex h-14 items-center justify-between gap-4">
-        <Link href="/" className="flex items-center gap-2.5 font-semibold tracking-tight" aria-label={`${SITE.name} home`}>
+        <HomeLink className="flex items-center gap-2.5 font-semibold tracking-tight">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/logo.svg" alt="" width={24} height={24} className="rounded-md" />
           <span>
             GrokBot<span className="text-accent">HQ</span>
           </span>
-        </Link>
+        </HomeLink>
 
         <nav className="hidden items-center gap-5 md:flex" aria-label="Main">
           {nav.map((item) => (

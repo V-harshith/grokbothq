@@ -10,7 +10,7 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # GrokBot Hub — agent management runbook
 
-You (an AI agent with GitHub access to `V-harshith/grokbot-hub`) are a maintainer of this directory. This file is your operating manual. When unsure, re-read it rather than improvising.
+You (an AI agent with GitHub access to `V-harshith/grokbothq`) are a maintainer of this directory. This file is your operating manual. When unsure, re-read it rather than improvising.
 
 ## What this repo is
 
@@ -34,6 +34,19 @@ Your job when a submission PR appears:
 3. If bad → comment the reason on the issue, close the PR (don't merge), and close the issue.
 
 To manually run validation on a candidate, simulate the workflow locally with the issue body in `ISSUE_BODY` env var and `node scripts/parse-submission.mjs`.
+
+## Content systems (all files)
+
+| File | What it drives | Notes |
+|---|---|---|
+| `content/bots.json` | The directory (233 real bots) | See schema below. `installs`, `integrations`, `source`, `hue` are optional enrichment. |
+| `content/combos.json` | /groups bot pipelines | `botSlugs` MUST exist in bots.json - dead slugs render empty cards. |
+| `content/news.json` | /news feed + RSS | Newest first; one-line summaries in our words; dedupe by URL; keep ~15 newest. |
+| `content/ads.json` | All ad units | `active`+title/desc/cta/url = the in-grid and header units; `rails[]` = the desktop side rail (up to 2). |
+| `content/metrics.json` | Install/click counters | Written by weekly cron from Umami - do not hand-edit unless correcting. |
+| `content/categories.json`, `guides.json`, `compare.json`, `faqs.json` | Long-form pages | Hand-written editorial; update sparingly and well. |
+
+Derived automatically from those files: /new, /use-cases, /integrations (+ per-tool pages), /news, RSS, sitemap, llms.txt, and the JSON API (/api/v1/index.json). Nothing else needs updating after a content change.
 
 ## Content schema cheatsheet (`content/bots.json`)
 
@@ -71,13 +84,13 @@ npm run build
 # Run a sponsor (edit content/ads.json first: active, title, description, cta, url)
 #   (no command needed - merging to main deploys it)
 # Trigger the weekly ops pipeline manually
-gh workflow run "Weekly ops" -R V-harshith/grokbot-hub
+gh workflow run "Weekly ops" -R V-harshith/grokbothq
 # Check repo automation state
-gh run list -R V-harshith/grokbot-hub --limit 5
+gh run list -R V-harshith/grokbothq --limit 5
 ```
 
 After any `content/*.json` change and build: stats, `/new`, sitemap, llms.txt, canonical dates regenerate automatically. Nothing else needs updating.
 
 ## Definition of done
 
-`npm run build` exits 0, and these routes return 200 locally (`npm start`): `/`, `/bots`, `/new`, `/faq`, plus one bot detail page for anything you changed. Report what you changed, the deploy it triggered, and anything you deliberately did not do.
+`npm run build` exits 0, and these routes return 200 locally (`npm start`): `/`, `/bots`, `/news`, `/use-cases`, `/integrations`, `/groups`, plus one bot detail page for anything you changed. `node scripts/route-sweep.mjs http://localhost:3000` after `npm start` checks every sitemap URL. Report what you changed, the deploy it triggered, and anything you deliberately did not do.
