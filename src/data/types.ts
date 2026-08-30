@@ -23,6 +23,8 @@ export type Bot = {
   installs?: number;
   /** Tools this bot connects to (slug form: gmail, slack, ...) */
   integrations?: string[];
+  /** Per-bot identity hue from the source listing (0-359) */
+  hue?: number;
 };
 
 export type Category = {

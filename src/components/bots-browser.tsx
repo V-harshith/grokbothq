@@ -57,6 +57,7 @@ export function BotsBrowser({ bots, initialCategory = "all" }: { bots: Bot[]; in
             <path d="m20 20-3.5-3.5" />
           </svg>
           <input
+            id="bot-search"
             type="search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}

@@ -20,8 +20,9 @@ export function BotCard({ bot }: { bot: Bot }) {
 
   return (
     <article className="card card-hover flex flex-col p-5">
+      {/* identity row: face + name + handle only - nothing competes with the name */}
       <div className="flex items-start gap-3">
-        <BotFace slug={bot.slug} name={bot.name} />
+        <BotFace slug={bot.slug} name={bot.name} hue={bot.hue} />
         <div className="min-w-0 flex-1">
           <Link href={`/bots/${bot.slug}`} className="block text-[15px] font-semibold leading-snug hover:text-accent">
             {bot.name}
@@ -37,25 +38,24 @@ export function BotCard({ bot }: { bot: Bot }) {
             </a>
           )}
         </div>
-        {category && (
-          <Link href={`/bots/category/${category.slug}`} className="badge shrink-0 hover:text-accent">
-            {category.name}
-          </Link>
-        )}
       </div>
 
       <p className="mt-3 flex-1 text-sm leading-relaxed text-muted">{bot.tagline}</p>
 
-      {(bot.installs || fresh) && (
-        <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
-          {typeof bot.installs === "number" && bot.installs > 0 && (
-            <span title="Installs reported by the source directory">
-              <strong className="tnum font-mono font-semibold text-foreground">{bot.installs}</strong> installs
-            </span>
-          )}
-          {fresh && <span className="font-medium text-accent">new · {relDate(bot.addedAt)}</span>}
-        </div>
-      )}
+      {/* meta row: category + installs + freshness, all with room to breathe */}
+      <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
+        {category && (
+          <Link href={`/bots/category/${category.slug}`} className="hover:text-foreground">
+            {category.name}
+          </Link>
+        )}
+        {typeof bot.installs === "number" && bot.installs > 0 && (
+          <span title="Installs reported by the source directory">
+            <strong className="tnum font-mono font-semibold text-foreground">{bot.installs}</strong> installs
+          </span>
+        )}
+        {fresh && <span className="font-medium text-accent">new · {relDate(bot.addedAt)}</span>}
+      </div>
 
       <div className="mt-4 flex items-center justify-between gap-3">
         <Link

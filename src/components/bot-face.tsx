@@ -9,15 +9,25 @@ function hashString(s: string): number {
   return Math.abs(h);
 }
 
-export function BotFace({ slug, name, size = 40 }: { slug: string; name: string; size?: number }) {
+export function BotFace({
+  slug,
+  name,
+  size = 40,
+  hue: hueProp,
+}: {
+  slug: string;
+  name: string;
+  size?: number;
+  hue?: number;
+}) {
   const h = hashString(slug);
-  const hue = h % 360;
+  const hue = hueProp ?? h % 360;
   const dur = `${(3.6 + (h % 320) / 100).toFixed(2)}s`;
   const del = `${((h % 280) / 100).toFixed(2)}s`;
   const gid = `bf-${slug}`;
 
   return (
-    <svg width={size} height={size} viewBox="0 0 40 40" className="block shrink-0" role="img" aria-label={`${name} bot face`}>
+    <svg width={size} height={size} viewBox="0 0 40 40" className="bot-face block shrink-0 transition-transform duration-300" role="img" aria-label={`${name} bot face`}>
       <defs>
         <clipPath id={`${gid}-clip`}><circle cx="20" cy="20" r="16" /></clipPath>
         <linearGradient id={`${gid}-fill`} x1="0" y1="0" x2="1" y2="1">

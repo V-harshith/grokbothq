@@ -88,7 +88,7 @@ export default function HomePage() {
           link="/bots"
           linkLabel="All bots"
         />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {featured.map((bot) => (
             <BotCard key={bot.slug} bot={bot} />
           ))}
@@ -105,7 +105,7 @@ export default function HomePage() {
             link="/new"
             linkLabel="See all new bots"
           />
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {fresh.map((bot) => (
               <BotCard key={bot.slug} bot={bot} />
             ))}

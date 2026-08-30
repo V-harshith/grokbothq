@@ -203,6 +203,51 @@ a {
   animation: bot-blink var(--bd, 5s) ease-in-out var(--bdel, 0s) infinite;
 }
 
+/* ---------- Card face animations ---------- */
+
+@keyframes bot-glance {
+  0%, 100% { transform: translateX(0); }
+  35% { transform: translateX(2.6px); }
+  70% { transform: translateX(-2.2px); }
+}
+
+.card-hover:hover .bot-eye {
+  animation: bot-glance 0.8s ease-in-out;
+}
+
+.card-hover:hover .bot-face {
+  transform: rotate(-5deg) scale(1.05);
+}
+
+/* staggered entrance for grids inside a revealed section */
+[data-reveal] .stagger > * {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.5s cubic-bezier(0.32, 0.72, 0, 1), transform 0.5s cubic-bezier(0.32, 0.72, 0, 1);
+}
+[data-reveal].reveal-in .stagger > * {
+  opacity: 1;
+  transform: none;
+}
+[data-reveal].reveal-in .stagger > *:nth-child(2) { transition-delay: 60ms; }
+[data-reveal].reveal-in .stagger > *:nth-child(3) { transition-delay: 120ms; }
+[data-reveal].reveal-in .stagger > *:nth-child(4) { transition-delay: 180ms; }
+[data-reveal].reveal-in .stagger > *:nth-child(5) { transition-delay: 240ms; }
+[data-reveal].reveal-in .stagger > *:nth-child(n + 6) { transition-delay: 300ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] .stagger > * {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+  .card-hover:hover .bot-eye,
+  .card-hover:hover .bot-face {
+    animation: none;
+    transform: none;
+  }
+}
+
 /* ---------- Hero bot (matches the Grok app mascot: dark squircle head,
    two glowing pill eyes; anchored in place, tracks the cursor in a
    circular arc; transform-only motion, no layout properties) ---------- */
