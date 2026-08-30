@@ -13,7 +13,7 @@
     "steps": [
       {
         "name": "Build",
-        "text": "Scaffold and implement with Grimoire — small diffs, honest tradeoffs, boring stack."
+        "text": "Scaffold and implement with Grimoire - small diffs, honest tradeoffs, boring stack."
       },
       {
         "name": "Review",
@@ -35,7 +35,7 @@
     "slug": "inbox-and-calendar-desk",
     "name": "Inbox & Calendar Desk",
     "emoji": "📥",
-    "tagline": "Email, calendar, and meetings — one morning loop instead of three apps.",
+    "tagline": "Email, calendar, and meetings - one morning loop instead of three apps.",
     "description": "The daily coordination desk. Dewey sorts the inbox down to what needs you, Chief of Staff turns that plus your calendar into a three-priority plan, and Meeting Scribe converts whatever meetings happen into decisions and follow-ups. Run it every morning and nothing falls through.",
     "botSlugs": [
       "dewey",
@@ -45,7 +45,7 @@
     "steps": [
       {
         "name": "Triage",
-        "text": "Paste the overnight inbox into Dewey — it shelves everything into NEEDS YOU / FYI / ARCHIVE."
+        "text": "Paste the overnight inbox into Dewey - it shelves everything into NEEDS YOU / FYI / ARCHIVE."
       },
       {
         "name": "Plan",
@@ -77,7 +77,7 @@
     "steps": [
       {
         "name": "Claim",
-        "text": "Paste your purchase history into Bounty Hunter — send the drafted claim emails ranked by payout ÷ effort."
+        "text": "Paste your purchase history into Bounty Hunter - send the drafted claim emails ranked by payout ÷ effort."
       },
       {
         "name": "Cut",
@@ -109,7 +109,7 @@
     "steps": [
       {
         "name": "Brief",
-        "text": "Hand the open question to Deep Research Intern — findings first, sources per claim, disagreements called out."
+        "text": "Hand the open question to Deep Research Intern - findings first, sources per claim, disagreements called out."
       },
       {
         "name": "Go deep",
@@ -131,7 +131,7 @@
     "slug": "sales-desk",
     "name": "Sales Desk",
     "emoji": "📈",
-    "tagline": "Prospect, write, review — the full outbound loop in one sitting.",
+    "tagline": "Prospect, write, review - the full outbound loop in one sitting.",
     "description": "Founder-led sales in one loop. Pipeline Prospector builds the ICP-matched list with trigger events, Cold Mail Closer writes the sub-90-word emails, and Deal Reviewer keeps your pipeline honest with MEDDPICC interviews. One evening a week covers the whole funnel.",
     "botSlugs": [
       "pipeline-prospector",
@@ -145,7 +145,7 @@
       },
       {
         "name": "Write",
-        "text": "Feed each prospect to Cold Mail Closer — three ranked angles, two-step follow-ups, zero AI slop."
+        "text": "Feed each prospect to Cold Mail Closer - three ranked angles, two-step follow-ups, zero AI slop."
       },
       {
         "name": "Qualify",

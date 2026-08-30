@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} — The Hand-Reviewed Directory of Grok Bots`,
+    default: `${SITE.name} - The Hand-Reviewed Directory of Grok Bots`,
     template: `%s | ${SITE.name}`,
   },
   description: SITE.description,

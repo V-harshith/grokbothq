@@ -99,7 +99,7 @@ export default async function CompareDetailPage({ params }: Props) {
             <ul className="mt-3 space-y-2">
               {page.verdict.chooseOther.map((item) => (
                 <li key={item.slice(0, 24)} className="flex items-start gap-2 text-sm leading-relaxed text-muted">
-                  <span className="mt-1 shrink-0 text-muted" aria-hidden>—</span>
+                  <span className="mt-1 shrink-0 text-muted" aria-hidden>-</span>
                   {item}
                 </li>
               ))}

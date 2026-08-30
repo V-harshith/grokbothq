@@ -81,7 +81,7 @@ export function BotsBrowser({ bots, initialCategory = "all" }: { bots: Bot[]; in
 
       {filtered.length === 0 && (
         <div className="card mt-6 p-10 text-center text-sm text-muted">
-          No bots match that search — try a different term or category.
+          No bots match that search - try a different term or category.
         </div>
       )}
     </div>

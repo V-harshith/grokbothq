@@ -6,7 +6,7 @@ import { guides } from "@/data/guides";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Grok Bot Guides — Create, Write Instructions, Chain & Monetize",
+  title: "Grok Bot Guides - Create, Write Instructions, Chain & Monetize",
   description:
     "Free, practical Grok bot guides: what bots are, how to create one in 10 minutes, instruction-writing patterns, chaining bots into workflows, safety, and monetization.",
   path: "/guides",
@@ -20,7 +20,7 @@ export default function GuidesPage() {
       <SectionHeader
         kicker="Learn"
         title="Grok bot guides, written by reviewers"
-        description="Everything we've learned hand-testing hundreds of bots, distilled into practical guides. No fluff, no course upsells — each guide ends with something you can do today."
+        description="Everything we've learned hand-testing hundreds of bots, distilled into practical guides. No fluff, no course upsells - each guide ends with something you can do today."
       />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {guides.map((guide) => (

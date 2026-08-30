@@ -27,7 +27,7 @@ export function latestBots(count = 8): Bot[] {
 
 const today = () => new Date().toISOString().slice(0, 10);
 
-/** Featured placements auto-expire via featuredUntil — no manual takedowns needed. */
+/** Featured placements auto-expire via featuredUntil - no manual takedowns needed. */
 export function featuredBots(): Bot[] {
   const now = today();
   return bots.filter((b) => b.featured && (!b.featuredUntil || b.featuredUntil >= now));

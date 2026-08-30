@@ -139,7 +139,7 @@ export function botListJsonLd(bots: Bot[], path: string) {
     "@context": "https://schema.org",
     "@type": "ItemList",
     url: absUrl(path),
-    name: `Grok bots list — ${path.replace("/bots/category/", "")}`,
+    name: `Grok bots list - ${path.replace("/bots/category/", "")}`,
     numberOfItems: bots.length,
     itemListElement: bots.map((b, i) => ({
       "@type": "ListItem",

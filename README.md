@@ -1,6 +1,6 @@
 # GrokBot HQ
 
-The independent, hand-reviewed directory of **Grok bots** — one place for Grok bot users to find, combine, and master bots on xAI's Grok platform. A clone of the grokbots.page model expanded into an SEO/AEO/GEO-optimized hub.
+The independent, hand-reviewed directory of **Grok bots** - one place for Grok bot users to find, combine, and master bots on xAI's Grok platform. A clone of the grokbots.page model expanded into an SEO/AEO/GEO-optimized hub.
 
 Built with **Next.js 16 / React 19 / Tailwind v4**. **Fully automated after launch**: content lives in `content/*.json`, submissions arrive as GitHub issues, and a bot turns them into pull requests that auto-deploy. The code is never touched again.
 
@@ -24,7 +24,7 @@ Visitor submits bot (GitHub issue template, spam-screened client-side)
 GitHub Action validates: URL pattern, category, spam blocklist, duplicates
         ↓ valid
 Pull request with the bot appended to content/bots.json (+ comment on the issue)
-        ↓ merged (1 click from your phone, or fully automatic — see below)
+        ↓ merged (1 click from your phone, or fully automatic - see below)
 Vercel auto-deploys → new bot page, updated /new, sitemap, llms.txt, stats, OG image
         ↓
 Weekly action: featured placements auto-expire · IndexNow re-crawl ping · build health check
@@ -32,20 +32,20 @@ Weekly action: featured placements auto-expire · IndexNow re-crawl ping · buil
 
 ### Full-auto mode (optional)
 
-By default each submission opens a **pull request** — merge it with one click and the bot is live (this keeps the "hand-reviewed" claim honest). If you want zero involvement: repo **Settings → Secrets and variables → Actions → Variables → New variable** → `AUTO_MERGE` = `true`. Valid submissions then publish automatically; invalid ones are closed with a reason and can resubmit.
+By default each submission opens a **pull request** - merge it with one click and the bot is live (this keeps the "hand-reviewed" claim honest). If you want zero involvement: repo **Settings → Secrets and variables → Actions → Variables → New variable** → `AUTO_MERGE` = `true`. Valid submissions then publish automatically; invalid ones are closed with a reason and can resubmit.
 
 ### Editing content without touching code
 
 - **GitHub web editor**: open `content/bots.json`, click ✏️, edit, commit to `main` → auto-deploys. This is "touching GitHub," not the code.
-- **Featured slots**: add `"featured": true, "featuredUntil": "2026-09-27"` to any bot — the weekly action expires it automatically. That's the whole featured-placement business loop.
+- **Featured slots**: add `"featured": true, "featuredUntil": "2026-09-27"` to any bot - the weekly action expires it automatically. That's the whole featured-placement business loop.
 - **Everything regenerates on every build**: counts, `/new`, sitemap, `llms.txt`, canonical dates. No manual steps exist.
 
 ## Architecture
 
 | Piece | What it does |
 |---|---|
-| `content/*.json` | **All content** — bots, categories, combos, guides, comparisons, FAQs. The only thing that ever changes after launch. |
-| `src/data/*.ts` | Typed loaders over the JSON (filtering `status: "pending"`, featured expiry). Stable API — pages never change. |
+| `content/*.json` | **All content** - bots, categories, combos, guides, comparisons, FAQs. The only thing that ever changes after launch. |
+| `src/data/*.ts` | Typed loaders over the JSON (filtering `status: "pending"`, featured expiry). Stable API - pages never change. |
 | `src/app/` | Routes: `/`, `/bots` + detail + 8 category pages, `/groups` (6 combos), `/guides` (8), `/compare` (4), `/new`, `/faq`, `/submit`, `/featured`, `/about` |
 | `src/lib/seo.ts` | Metadata factory + JSON-LD builders (WebSite, Organization, FAQPage, HowTo, Article, ItemList, SoftwareApplication, BreadcrumbList) |
 | `.github/workflows/process-submission.yml` | Issue → validate → PR → optional auto-merge |
@@ -67,9 +67,9 @@ Taken/parked: `grokbot.xyz`, `grokbots.xyz`, and all the obvious `.com`s. **Avai
 | grokbot.lol / grokbots.lol | ~$2–6 | ~$20–28/yr | Fun, but pricey renewals + weakens directory trust |
 | grokbothq.xyz | ~$10 | ~$10/yr | The trust upgrade when revenue justifies it |
 
-Buy at Porkbun / Cloudflare Registrar / Namecheap. `.xyz` is a normal ICANN gTLD — Google treats it like `.com`; its spam-fleet reputation only matters for spammy sites, and this is a content-rich directory. **Swap domains any time without touching code**: point DNS at Vercel, set `NEXT_PUBLIC_SITE_URL`, redeploy. Set auto-renew with a funded card — the one thing automation can't do.
+Buy at Porkbun / Cloudflare Registrar / Namecheap. `.xyz` is a normal ICANN gTLD - Google treats it like `.com`; its spam-fleet reputation only matters for spammy sites, and this is a content-rich directory. **Swap domains any time without touching code**: point DNS at Vercel, set `NEXT_PUBLIC_SITE_URL`, redeploy. Set auto-renew with a funded card - the one thing automation can't do.
 
-> ⚠️ **Trademark note:** "Grok" is xAI's trademark. The site is positioned as an independent third-party directory (nominative use — same as grokbots.page), with disclaimers in the footer, about page, and metadata. Don't copy xAI's logo or imply endorsement. Rebranding later is a one-file change (`src/data/site.ts` + `content/site.json`).
+> ⚠️ **Trademark note:** "Grok" is xAI's trademark. The site is positioned as an independent third-party directory (nominative use - same as grokbots.page), with disclaimers in the footer, about page, and metadata. Don't copy xAI's logo or imply endorsement. Rebranding later is a one-file change (`src/data/site.ts` + `content/site.json`).
 
 ## SEO / AEO / GEO (all built in)
 
@@ -85,18 +85,18 @@ npm run dev     # http://localhost:3000
 npm run build   # production build
 ```
 
-Edit `content/*.json` and the dev server picks it up. The repo's automation means local dev is only needed for engine changes — which, per the plan, you'll never make.
+Edit `content/*.json` and the dev server picks it up. The repo's automation means local dev is only needed for engine changes - which, per the plan, you'll never make.
 
 ## Backlinks playbook (first 60 days)
 
-**Tier 1 — launch week:** publish the repo public + an `awesome-grok-bots` list repo linking the hub (GitHub do-follow) · Product Hunt · Show HN · X launch thread with bot demos · 50+ AI tool directories (StartupBase, Uneed, Peerlist, ToolPilot…).
+**Tier 1 - launch week:** publish the repo public + an `awesome-grok-bots` list repo linking the hub (GitHub do-follow) · Product Hunt · Show HN · X launch thread with bot demos · 50+ AI tool directories (StartupBase, Uneed, Peerlist, ToolPilot…).
 
-**Tier 2 — weeks 2–6:** weekly "New this week" posts (builders link back — they want discovery) · Dev.to/Medium/Hashnode cross-posts with canonical URLs · r/Grok and r/SideProject as genuine comments · "Featured on GrokBot HQ" badge for builders' sites · a monthly "state of Grok bots" stats graphic.
+**Tier 2 - weeks 2–6:** weekly "New this week" posts (builders link back - they want discovery) · Dev.to/Medium/Hashnode cross-posts with canonical URLs · r/Grok and r/SideProject as genuine comments · "Featured on GrokBot HQ" badge for builders' sites · a monthly "state of Grok bots" stats graphic.
 
-**Tier 3 — ongoing:** builder outreach ("you're listed — grab the badge") · HARO/Qwoted as ecosystem source · resource-page + broken-link outreach to AI roundups · a quarterly data study (linkable research).
+**Tier 3 - ongoing:** builder outreach ("you're listed - grab the badge") · HARO/Qwoted as ecosystem source · resource-page + broken-link outreach to AI roundups · a quarterly data study (linkable research).
 
-Keep anchors natural (brand, "grok bot directory", "hand-reviewed grok bots", bare URL) — especially important on a trademark-adjacent brand.
+Keep anchors natural (brand, "grok bot directory", "hand-reviewed grok bots", bare URL) - especially important on a trademark-adjacent brand.
 
 ## Upgrade path (if you ever outgrow this)
 
-Static + rebuilds updates the site on every merge (usually seconds after approval; worst case a few minutes for CI). If you ever want truly instant writes, the move is Supabase + ISR with on-demand revalidation — the data layer (`src/data/*.ts`) is the only thing that changes. Not needed until submissions outpace a few per day.
+Static + rebuilds updates the site on every merge (usually seconds after approval; worst case a few minutes for CI). If you ever want truly instant writes, the move is Supabase + ISR with on-demand revalidation - the data layer (`src/data/*.ts`) is the only thing that changes. Not needed until submissions outpace a few per day.

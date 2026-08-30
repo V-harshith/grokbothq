@@ -1,6 +1,6 @@
 /**
  * Deterministic per-bot face: a glossy gradient "bot head" SVG whose hue and
- * blink rhythm are derived from the bot's slug — every bot gets its own
+ * blink rhythm are derived from the bot's slug - every bot gets its own
  * identity, rendered server-side with zero randomness and zero JS.
  */
 function hashString(s: string): number {

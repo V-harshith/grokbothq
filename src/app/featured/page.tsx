@@ -6,7 +6,7 @@ import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE } from "@/data/site";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Get Featured — Put Your Grok Bot at the Top",
+  title: "Get Featured - Put Your Grok Bot at the Top",
   description:
     "Featured placements on GrokBot HQ: the top slot on the directory, homepage featuring, and launch-week placement for builders who want maximum qualified opens.",
   path: "/featured",
@@ -16,7 +16,7 @@ const plans = [
   {
     name: "Featured Listing",
     price: "$29",
-    period: "one-time · 4 weeks",
+    period: "one-time, 4 weeks",
     features: [
       "Top of the directory for your category",
       "'Featured' badge on your listing",
@@ -30,12 +30,12 @@ const plans = [
   {
     name: "Launch Sponsor",
     price: "$99",
-    period: "one-time · launch week",
+    period: "one-time, launch week",
     features: [
       "Everything in Featured Listing",
       "Sponsored hero slot on the homepage for 7 days",
       "Dedicated post on our X account",
-      "Combo placement — we'll feature a workflow using your bot",
+      "Combo placement - we'll feature a workflow using your bot",
       "Post-campaign stats: impressions + opens",
     ],
     cta: "Book launch week",
@@ -97,10 +97,10 @@ export default function FeaturedPage() {
       <section className="card mt-10 p-6 md:p-8">
         <h2 className="text-lg font-semibold">The fine print, up front</h2>
         <ul className="mt-3 space-y-2 text-sm leading-relaxed text-muted">
-          <li>· Sponsored placements are always labeled — trust is the whole product.</li>
-          <li>· Every sponsored bot still passes the same hand review; we decline anything that would embarrass the page it sits on.</li>
-          <li>· One sponsor per category at a time. No bidding wars, no bait-and-switch.</li>
-          <li>· Organic listings never lose position to sponsors — featured slots are additive, not cannibalizing.</li>
+          <li>Sponsored placements are always labeled - trust is the whole product.</li>
+          <li>Every sponsored bot still passes the same hand review; we decline anything that would embarrass the page it sits on.</li>
+          <li>One sponsor per category at a time. No bidding wars, no bait-and-switch.</li>
+          <li>Organic listings never lose position to sponsors - featured slots are additive, not cannibalizing.</li>
         </ul>
         <p className="mt-4 text-sm text-muted">
           Questions? Email <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> or read{" "}

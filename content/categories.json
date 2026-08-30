@@ -3,7 +3,7 @@
     "slug": "assistants",
     "name": "Assistants",
     "short": "Chief-of-staff style bots that run your day",
-    "intro": "Assistant Grok bots act like a chief of staff for your workday: they triage your inbox, plan your calendar, draft replies, and keep a running list of what actually matters. If you only open one bot this week, make it one of these — they compound every single day you use them.",
+    "intro": "Assistant Grok bots act like a chief of staff for your workday: they triage your inbox, plan your calendar, draft replies, and keep a running list of what actually matters. If you only open one bot this week, make it one of these - they compound every single day you use them.",
     "faqs": [
       {
         "q": "What can an assistant Grok bot do for me?",
@@ -39,7 +39,7 @@
     "faqs": [
       {
         "q": "Do research bots cite their sources?",
-        "a": "The bots listed in Research are chosen because they show their work — they link the sources behind each claim. Always click through before you repeat a number in a deck or article."
+        "a": "The bots listed in Research are chosen because they show their work - they link the sources behind each claim. Always click through before you repeat a number in a deck or article."
       },
       {
         "q": "What's the difference between Deep Research Intern and Paper Explainer?",
@@ -55,11 +55,11 @@
     "faqs": [
       {
         "q": "Can a Grok bot actually get me money back?",
-        "a": "Bots like Bounty Hunter and Invoice Hunter draft the emails and walk you through the claims — you send them and receive the money. The bot does the research and writing; you do the sending."
+        "a": "Bots like Bounty Hunter and Invoice Hunter draft the emails and walk you through the claims - you send them and receive the money. The bot does the research and writing; you do the sending."
       },
       {
         "q": "Is it safe to paste financial statements into a bot?",
-        "a": "Redact account numbers before pasting anything. Bots only need amounts, dates, and merchant names to find savings — never share full card numbers, logins, or codes."
+        "a": "Redact account numbers before pasting anything. Bots only need amounts, dates, and merchant names to find savings - never share full card numbers, logins, or codes."
       }
     ]
   },
@@ -75,7 +75,7 @@
       },
       {
         "q": "What is a MEDDPICC deal review bot?",
-        "a": "It interviews you about a deal using the MEDDPICC framework — metrics, economic buyer, decision criteria and process, paper process, pain, champion, competition — then flags the weakest section."
+        "a": "It interviews you about a deal using the MEDDPICC framework - metrics, economic buyer, decision criteria and process, paper process, pain, champion, competition - then flags the weakest section."
       }
     ]
   },
@@ -87,7 +87,7 @@
     "faqs": [
       {
         "q": "Can a bot copy my writing voice?",
-        "a": "Yes — paste five to ten examples of your best posts and Brand Voice Twin builds a style profile: rhythm, vocabulary, joke patterns, and the phrases you'd never use. Every draft after that comes out in your voice."
+        "a": "Yes - paste five to ten examples of your best posts and Brand Voice Twin builds a style profile: rhythm, vocabulary, joke patterns, and the phrases you'd never use. Every draft after that comes out in your voice."
       },
       {
         "q": "Are memes made with bots usable commercially?",
@@ -103,11 +103,11 @@
     "faqs": [
       {
         "q": "Do meal-planning bots account for allergies?",
-        "a": "Tell the bot your restrictions once — gluten-free, vegetarian, nut allergies — and it carries them through every plan. Always double-check ingredient labels for cross-contamination warnings."
+        "a": "Tell the bot your restrictions once - gluten-free, vegetarian, nut allergies - and it carries them through every plan. Always double-check ingredient labels for cross-contamination warnings."
       },
       {
         "q": "Can a bot rebook my flight when things go wrong?",
-        "a": "No bot can rebook for you, but Trip Mechanic finds the alternate routes, draft scripts for the gate agent, and tells you your rights — cutting a 40-minute counter conversation to two."
+        "a": "No bot can rebook for you, but Trip Mechanic finds the alternate routes, draft scripts for the gate agent, and tells you your rights - cutting a 40-minute counter conversation to two."
       }
     ]
   },
@@ -123,7 +123,7 @@
       },
       {
         "q": "Can standup bots pull from my actual commits?",
-        "a": "They can't access GitHub directly — paste your recent commit titles and PR descriptions, and Standup Pilot formats them into yesterday/today/blockers in your team's style."
+        "a": "They can't access GitHub directly - paste your recent commit titles and PR descriptions, and Standup Pilot formats them into yesterday/today/blockers in your team's style."
       }
     ]
   }

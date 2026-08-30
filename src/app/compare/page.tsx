@@ -6,9 +6,9 @@ import { comparePages } from "@/data/compare";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Grok Bots vs Everything — Honest Comparisons",
+  title: "Grok Bots vs Everything - Honest Comparisons",
   description:
-    "Grok bots compared to Custom GPTs, Claude Skills, Gemini Gems, and agent frameworks — honest verdicts, feature tables, and when to choose each.",
+    "Grok bots compared to Custom GPTs, Claude Skills, Gemini Gems, and agent frameworks - honest verdicts, feature tables, and when to choose each.",
   path: "/compare",
 });
 
@@ -20,7 +20,7 @@ export default function ComparePage() {
       <SectionHeader
         kicker="Compare"
         title="Grok bots vs everything else"
-        description="Same idea, different platforms — or genuinely different tools? Each comparison gives the honest overlap, the real differences, and a verdict you can act on."
+        description="Same idea, different platforms - or genuinely different tools? Each comparison gives the honest overlap, the real differences, and a verdict you can act on."
       />
       <div className="grid gap-4 sm:grid-cols-2">
         {comparePages.map((page) => (

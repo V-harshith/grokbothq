@@ -17,9 +17,9 @@ import { botsByCategory } from "@/data/bots";
 import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "GrokBot HQ — The Hand-Reviewed Directory of Grok Bots",
+  title: "GrokBot HQ - The Hand-Reviewed Directory of Grok Bots",
   description:
-    "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform — browse by category, learn bot combos, and master bot instructions with free guides.",
+    "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.",
   path: "/",
 });
 
@@ -31,22 +31,20 @@ export default function HomePage() {
 
   return (
     <>
-      <JsonLd data={[faqJsonLd(homeFaqs), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ — Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
+      <JsonLd data={[faqJsonLd(homeFaqs), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
 
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-border">
-        <div className="grid-bg absolute inset-0" aria-hidden />
-        <div className="container-x relative py-20 text-center md:py-28">
+        <div className="hero-glow" aria-hidden />
+        <div className="container-x relative pb-16 pt-10 text-center md:pb-20 md:pt-14">
           <HeroBot />
-          <p className="kicker mt-10">Independent · Hand-reviewed · Free forever</p>
-          <h1 className="mx-auto mt-4 max-w-3xl text-4xl font-semibold tracking-tight md:text-6xl">
+          <h1 className="mx-auto mt-8 max-w-3xl text-4xl font-semibold tracking-tight md:text-6xl">
             Find a Grok bot <span className="text-accent">worth opening</span>
           </h1>
-          <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-muted md:text-lg">
-            {stats.bots} hand-reviewed Grok bots from {stats.builders} builders — assistants, coding agents, money hunters,
-            and more. One click opens any bot in Grok. No duds, no prompt wrappers.
+          <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-muted md:text-lg">
+            {stats.bots} hand-reviewed bots. One click opens any of them in Grok.
           </p>
-          <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
+          <div className="mt-7 flex flex-wrap items-center justify-center gap-3">
             <Link href="/bots" className="btn btn-accent !px-6 !py-3 !text-base">
               Browse the directory
             </Link>
@@ -54,15 +52,21 @@ export default function HomePage() {
               New to Grok bots?
             </Link>
           </div>
-          <dl className="mx-auto mt-12 grid max-w-2xl grid-cols-3 gap-4 text-center">
+        </div>
+      </section>
+
+      {/* Stats strip */}
+      <section className="border-b border-border bg-surface">
+        <div className="container-x flex justify-center py-6">
+          <dl className="flex flex-wrap items-center justify-center divide-x divide-border">
             {[
-              { label: "Bots listed", value: `${stats.bots}` },
-              { label: "Builders", value: `${stats.builders}` },
-              { label: "Categories", value: `${stats.categories}` },
+              { label: "bots listed", value: `${stats.bots}` },
+              { label: "builders", value: `${stats.builders}` },
+              { label: "categories", value: `${stats.categories}` },
             ].map((s) => (
-              <div key={s.label} className="card px-4 py-3">
-                <dt className="order-2 text-xs text-muted">{s.label}</dt>
-                <dd className="order-1 font-mono text-2xl font-semibold text-accent">{s.value}</dd>
+              <div key={s.label} className="px-8 text-center">
+                <dt className="text-xs text-muted">{s.label}</dt>
+                <dd className="font-mono text-xl font-semibold text-accent">{s.value}</dd>
               </div>
             ))}
           </dl>
@@ -72,7 +76,6 @@ export default function HomePage() {
       {/* Featured */}
       <section className="container-x py-16">
         <SectionHeader
-          kicker="Featured"
           title="Bots our reviewers keep coming back to"
           description="Featured bots pass a higher bar: they survive real weekly use by the review team, not just the submission test."
           link="/bots"
@@ -89,9 +92,8 @@ export default function HomePage() {
       <section className="border-y border-border bg-surface">
         <div className="container-x py-16">
           <SectionHeader
-            kicker="Fresh"
             title="New this week"
-            description="Recently reviewed and added — the freshest additions to the directory."
+            description="Recently reviewed and added - the freshest additions to the directory."
             link="/new"
             linkLabel="See all new bots"
           />
@@ -106,7 +108,6 @@ export default function HomePage() {
       {/* Categories */}
       <section className="container-x py-16">
         <SectionHeader
-          kicker="Browse"
           title="Every category, curated"
           description="Eight categories, each with its own hand-tested shortlist."
         />
@@ -129,9 +130,8 @@ export default function HomePage() {
       <section className="border-y border-border bg-surface">
         <div className="container-x py-16">
           <SectionHeader
-            kicker="Combos"
             title="Bots that work better together"
-            description="Starting pipelines where each bot hands its output to the next — tested, not theoretical."
+            description="Starting pipelines where each bot hands its output to the next - tested, not theoretical."
             link="/groups"
             linkLabel="All combos"
           />
@@ -146,9 +146,8 @@ export default function HomePage() {
       {/* Guides + compare */}
       <section className="container-x py-16">
         <SectionHeader
-          kicker="Learn"
           title="Master the Grok bot ecosystem"
-          description="Free, practical guides — from your first bot to chaining bots into daily workflows."
+          description="Free, practical guides - from your first bot to chaining bots into daily workflows."
           link="/guides"
           linkLabel="All guides"
         />
@@ -162,15 +161,12 @@ export default function HomePage() {
           <Link href="/compare/grok-bots-vs-custom-gpts" className="text-sm text-accent hover:underline">
             Grok bots vs Custom GPTs
           </Link>
-          <span className="text-muted">·</span>
           <Link href="/compare/grok-bots-vs-claude-skills" className="text-sm text-accent hover:underline">
             vs Claude Skills
           </Link>
-          <span className="text-muted">·</span>
           <Link href="/compare/grok-bots-vs-gemini-gems" className="text-sm text-accent hover:underline">
             vs Gemini Gems
           </Link>
-          <span className="text-muted">·</span>
           <Link href="/compare" className="text-sm text-muted hover:text-foreground hover:underline">
             all comparisons
           </Link>
@@ -181,9 +177,8 @@ export default function HomePage() {
       <section className="border-t border-border bg-surface">
         <div className="container-x max-w-3xl py-16">
           <SectionHeader
-            kicker="FAQ"
             title="Grok bot questions, answered"
-            description="The questions we get most — answered plainly. More on the full FAQ page."
+            description="The questions we get most - answered plainly. More on the full FAQ page."
             link="/faq"
           />
           <FaqList faqs={homeFaqs} />
@@ -193,16 +188,15 @@ export default function HomePage() {
       {/* CTA */}
       <section className="container-x py-16">
         <div className="card relative overflow-hidden p-10 text-center md:p-14">
-          <div className="grid-bg absolute inset-0 opacity-60" aria-hidden />
           <div className="relative">
             <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">Built a Grok bot?</h2>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-muted md:text-base">
-              Get it in front of people who are already looking for it. Free listings are hand-reviewed within 48 hours —
+              Get it in front of people who are already looking for it. Free listings are hand-reviewed within 48 hours -
               or grab a featured slot for launch week.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               <Link href="/submit" className="btn btn-accent !px-6 !py-3">
-                Submit your bot — free
+                Submit your bot (free)
               </Link>
               <Link href="/featured" className="btn btn-ghost !px-6 !py-3">
                 Get featured

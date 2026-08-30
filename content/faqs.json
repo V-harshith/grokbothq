@@ -1,15 +1,15 @@
 [
   {
     "q": "What are Grok bots?",
-    "a": "Grok bots are custom assistants built on xAI's Grok platform. A creator writes instructions (a persona plus rules), publishes the bot, and anyone can open it and chat with it in one click at x.ai/bot. Think of them as one-click personalities for Grok: a coding reviewer, an inbox triage assistant, a research intern — each tuned for one job."
+    "a": "Grok bots are custom assistants built on xAI's Grok platform. A creator writes instructions (a persona plus rules), publishes the bot, and anyone can open it and chat with it in one click at x.ai/bot. Think of them as one-click personalities for Grok: a coding reviewer, an inbox triage assistant, a research intern - each tuned for one job."
   },
   {
     "q": "How do I open a Grok bot?",
-    "a": "Every bot on GrokBot HQ has an Open button that links to x.ai/bot. Click it, sign in with your X account, and the bot opens in Grok ready to use. You don't need to configure anything — the creator's instructions are already built in."
+    "a": "Every bot on GrokBot HQ has an Open button that links to x.ai/bot. Click it, sign in with your X account, and the bot opens in Grok ready to use. You don't need to configure anything - the creator's instructions are already built in."
   },
   {
     "q": "Are Grok bots free to use?",
-    "a": "Opening and using Grok bots requires a Grok account; availability may depend on your subscription tier. The bots themselves are free to open — the creators don't charge per bot. GrokBot HQ is free to browse, always."
+    "a": "Opening and using Grok bots requires a Grok account; availability may depend on your subscription tier. The bots themselves are free to open - the creators don't charge per bot. GrokBot HQ is free to browse, always."
   },
   {
     "q": "Is GrokBot HQ affiliated with xAI?",
@@ -25,15 +25,15 @@
   },
   {
     "q": "What makes a good Grok bot?",
-    "a": "Three things: one job done well, instructions with explicit rules (not just a personality), and a clear 'you'll like this if…' pitch. The best bots we list do a single task — triage an inbox, review a PR — and state exactly what they will and won't do."
+    "a": "Three things: one job done well, instructions with explicit rules (not just a personality), and a clear 'you'll like this if…' pitch. The best bots we list do a single task - triage an inbox, review a PR - and state exactly what they will and won't do."
   },
   {
     "q": "Can I build a Grok bot for free?",
-    "a": "Yes — xAI's bot builder at x.ai/bot lets you create a bot by writing instructions in plain English. No code required. Our guide 'How to Create a Grok Bot' walks through the whole process in about ten minutes."
+    "a": "Yes - xAI's bot builder at x.ai/bot lets you create a bot by writing instructions in plain English. No code required. Our guide 'How to Create a Grok Bot' walks through the whole process in about ten minutes."
   },
   {
     "q": "Are Grok bots safe? What should I never share with a bot?",
-    "a": "A bot only sees what you paste or say to it. Never share passwords, one-time codes, full card numbers, or anyone's private data. Redact account numbers before pasting statements, and treat everything you send as if it could be read by a stranger — because bot creators may see usage."
+    "a": "A bot only sees what you paste or say to it. Never share passwords, one-time codes, full card numbers, or anyone's private data. Redact account numbers before pasting statements, and treat everything you send as if it could be read by a stranger - because bot creators may see usage."
   },
   {
     "q": "What's the difference between Grok bots and Custom GPTs?",
@@ -41,7 +41,7 @@
   },
   {
     "q": "Do Grok bots remember previous conversations?",
-    "a": "Bots follow the conversation memory rules of Grok itself — each of your chats starts fresh unless you paste context back in. Well-designed bots ask for what they need at the start, and the best ones (like Chief of Staff) include a 'paste your last session summary' pattern in their instructions."
+    "a": "Bots follow the conversation memory rules of Grok itself - each of your chats starts fresh unless you paste context back in. Well-designed bots ask for what they need at the start, and the best ones (like Chief of Staff) include a 'paste your last session summary' pattern in their instructions."
   },
   {
     "q": "How often is GrokBot HQ updated?",
@@ -49,15 +49,15 @@
   },
   {
     "q": "Can I make money with a Grok bot?",
-    "a": "Directly, no — bots are free to open and xAI doesn't currently pay creators per use. Builders use bots as lead generation: a genuinely useful bot gets shared, and the builder's X profile and product ride along. Our featured slots also exist to give builders a launch channel."
+    "a": "Directly, no - bots are free to open and xAI doesn't currently pay creators per use. Builders use bots as lead generation: a genuinely useful bot gets shared, and the builder's X profile and product ride along. Our featured slots also exist to give builders a launch channel."
   },
   {
     "q": "What is a bot combo or 'desk'?",
-    "a": "A combo is a set of two or three bots that hand work to each other — like Ship Desk, where one bot scaffolds code, another reviews it overnight, and a third runs the fixes. Combos are starting ideas, not integrations: you paste output from one bot into the next."
+    "a": "A combo is a set of two or three bots that hand work to each other - like Ship Desk, where one bot scaffolds code, another reviews it overnight, and a third runs the fixes. Combos are starting ideas, not integrations: you paste output from one bot into the next."
   },
   {
     "q": "Why do some bots show their instructions?",
-    "a": "Publishing instructions is a choice. We encourage builders to share the core of their persona text because it makes the listing more useful and the ecosystem more open — you can see exactly how the bot works before opening it."
+    "a": "Publishing instructions is a choice. We encourage builders to share the core of their persona text because it makes the listing more useful and the ecosystem more open - you can see exactly how the bot works before opening it."
   },
   {
     "q": "How do I report a broken or harmful bot?",

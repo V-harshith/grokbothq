@@ -12,7 +12,7 @@ function build(): string {
   const base = SITE.url.replace(/\/$/, "");
   const lines: string[] = [];
 
-  lines.push(`# ${SITE.name} — full content feed`);
+  lines.push(`# ${SITE.name} - full content feed`);
   lines.push("");
   lines.push(`> ${SITE.description}`);
   lines.push("");
@@ -44,7 +44,7 @@ function build(): string {
       for (const p of s.body ?? []) lines.push(p);
       if (s.list) for (const item of s.list) lines.push(`- ${item}`);
       if (s.steps) {
-        s.steps.forEach((step, i) => lines.push(`${i + 1}. **${step.name}** — ${step.text}`));
+        s.steps.forEach((step, i) => lines.push(`${i + 1}. **${step.name}** - ${step.text}`));
       }
       lines.push("");
     }

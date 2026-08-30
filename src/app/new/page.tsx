@@ -23,7 +23,7 @@ export default function NewPage() {
       <SectionHeader
         kicker="Updated weekly"
         title="New this week"
-        description={`Every listing is reviewed before it goes live. Directory last updated on ${new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })} — newest first.`}
+        description={`Every listing is reviewed before it goes live. Directory last updated on ${new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })} - newest first.`}
       />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {fresh.map((bot) => (

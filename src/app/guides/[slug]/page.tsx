@@ -63,7 +63,7 @@ export default async function GuidePage({ params }: Props) {
           <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{guide.title}</h1>
         </header>
 
-        {/* Quick answer — optimized for answer engines and AI citations */}
+        {/* Quick answer - optimized for answer engines and AI citations */}
         <section className="card mt-8 border-accent/40 p-5" aria-label="Quick answer">
           <p className="kicker !text-xs">Quick answer</p>
           <p className="mt-2 text-[15px] leading-relaxed">{guide.quickAnswer}</p>

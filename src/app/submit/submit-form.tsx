@@ -86,7 +86,7 @@ export function SubmitForm() {
         <input required value={pitch} onChange={(e) => setPitch(e.target.value)} placeholder="What does it do, and who will love it?" className={input} />
       </label>
       <label className="grid gap-1.5 text-sm font-medium">
-        Core instructions <span className="font-normal text-muted">(optional — builds trust, speeds up review)</span>
+        Core instructions <span className="font-normal text-muted">(optional - builds trust, speeds up review)</span>
         <textarea rows={3} value={instructions} onChange={(e) => setInstructions(e.target.value)} placeholder="The persona/rules that power the bot" className={input} />
       </label>
       <div className="grid gap-4 md:grid-cols-2">
@@ -100,7 +100,7 @@ export function SubmitForm() {
         </label>
       </div>
       <button type="submit" className="btn btn-accent justify-self-start !px-6 !py-3">
-        {githubMode ? "Submit for review — free" : "Submit for review — free"}
+        {githubMode ? "Submit for review (free)" : "Submit for review (free)"}
       </button>
       <p className="text-xs text-muted">
         {githubMode

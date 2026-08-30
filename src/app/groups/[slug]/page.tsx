@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { BotCard } from "@/components/bot-card";
+import { BotFace } from "@/components/bot-face";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { combos, comboMap, comboBots } from "@/data/combos";
@@ -17,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const combo = comboMap.get(slug);
   if (!combo) return {};
   return pageMetadata({
-    title: `${combo.name} — ${combo.tagline}`,
+    title: `${combo.name} - ${combo.tagline}`,
     description: `${combo.description} The combo: ${comboBots(combo).map((b) => b.name).join(" + ")}.`,
     path: `/groups/${combo.slug}`,
     type: "article",
@@ -43,8 +44,14 @@ export default async function ComboPage({ params }: Props) {
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Combos", path: "/groups" }, { name: combo.name }]} />
 
       <header>
-        <span className="text-4xl" aria-hidden>{combo.emoji}</span>
-        <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{combo.name}</h1>
+        <div className="flex -space-x-3" aria-hidden>
+          {bots.map((b) => (
+            <div key={b.slug} className="rounded-xl bg-surface p-1 ring-1 ring-border">
+              <BotFace slug={b.slug} name={b.name} size={44} />
+            </div>
+          ))}
+        </div>
+        <h1 className="mt-4 text-3xl font-semibold tracking-tight md:text-4xl">{combo.name}</h1>
         <p className="mt-2 text-lg text-muted">{combo.tagline}</p>
       </header>
 

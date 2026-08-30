@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!bot) return {};
   const category = categoryMap.get(bot.category);
   return pageMetadata({
-    title: `${bot.name} — ${bot.tagline}`,
+    title: `${bot.name} - ${bot.tagline}`,
     description: `${bot.description.slice(0, 140)} Open ${bot.name} in Grok with one click.`,
     path: `/bots/${bot.slug}`,
     type: "article",
@@ -119,7 +119,7 @@ export default async function BotPage({ params }: Props) {
       <section className="mt-10">
         <h2 className="text-xl font-semibold tracking-tight">Instructions</h2>
         <p className="mt-2 text-sm text-muted">
-          The core of the bot&apos;s persona, shared by the builder — this is exactly how it works under the hood.
+          The core of the bot&apos;s persona, shared by the builder - this is exactly how it works under the hood.
         </p>
         <pre className="mt-3 overflow-x-auto rounded-xl border border-border p-5 text-[13px] leading-relaxed" style={{ background: "var(--code-bg)", color: "var(--code-fg)" }}>
           <code>{bot.instructions}</code>
@@ -139,11 +139,11 @@ export default async function BotPage({ params }: Props) {
         <h2 className="text-lg font-semibold">How to open {bot.name}</h2>
         <ol className="mt-3 list-decimal space-y-2 pl-5 text-sm leading-relaxed text-muted">
           <li>
-            Click <strong className="text-foreground">Open in Grok</strong> above — it takes you straight to the bot at{" "}
+            Click <strong className="text-foreground">Open in Grok</strong> above - it takes you straight to the bot at{" "}
             <span className="font-mono text-xs">x.ai/bot</span>.
           </li>
           <li>Sign in with your X account if asked.</li>
-          <li>Paste your real task — an inbox, a diff, a question — and the bot handles the rest.</li>
+          <li>Paste your real task - an inbox, a diff, a question - and the bot handles the rest.</li>
         </ol>
         <div className="mt-4">
           <OpenButton bot={bot} />
@@ -169,7 +169,7 @@ export default async function BotPage({ params }: Props) {
       )}
 
       <footer className="mt-14 border-t border-border pt-6 text-xs text-muted">
-        Reviewed by hand by the GrokBot HQ team · <Link href="/submit" className="hover:text-foreground">built something similar?</Link> ·{" "}
+        Reviewed by hand by the GrokBot HQ team. <Link href="/submit" className="hover:text-foreground">built something similar?</Link>{" "}
         <a href={absUrl("/faq")} className="hover:text-foreground">report a problem</a>
       </footer>
     </div>

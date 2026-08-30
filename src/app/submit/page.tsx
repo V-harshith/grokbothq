@@ -6,9 +6,9 @@ import { SubmitForm } from "./submit-form";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Submit Your Grok Bot — Free Listing, Hand-Reviewed",
+  title: "Submit Your Grok Bot - Free Listing, Hand-Reviewed",
   description:
-    "Get your Grok bot in front of people searching for it. Submit to GrokBot HQ for a free, hand-reviewed listing within 48 hours — or apply for a featured launch slot.",
+    "Get your Grok bot in front of people searching for it. Submit to GrokBot HQ for a free, hand-reviewed listing within 48 hours - or apply for a featured launch slot.",
   path: "/submit",
 });
 
@@ -29,10 +29,10 @@ export default function SubmitPage() {
         <h2 className="text-lg font-semibold">What we look for</h2>
         <ul className="mt-3 space-y-2">
           {[
-            "One job, done well — 'assistant that does everything' submissions get rejected.",
+            "One job, done well - 'assistant that does everything' submissions get rejected.",
             "Instructions with explicit rules and a failure mode, not just a personality.",
             "The x.ai/bot link must open a working, published bot.",
-            "Honest description — no feature claims the bot can't back up.",
+            "Honest description - no feature claims the bot can't back up.",
             "Nothing that impersonates real people, asks for credentials, or breaks xAI's terms.",
           ].map((item) => (
             <li key={item.slice(0, 24)} className="flex items-start gap-2.5 text-sm leading-relaxed text-muted">

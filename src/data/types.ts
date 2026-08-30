@@ -15,7 +15,7 @@ export type Bot = {
   addedAt: string;
   featured?: boolean;
   trending?: boolean;
-  /** ISO date — featured placement auto-expires after this date */
+  /** ISO date - featured placement auto-expires after this date */
   featuredUntil?: string;
 };
 

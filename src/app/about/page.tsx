@@ -7,7 +7,7 @@ import { SITE, DISCLAIMER } from "@/data/site";
 import { stats } from "@/data/bots";
 
 export const metadata: Metadata = pageMetadata({
-  title: "About GrokBot HQ — Independent, Hand-Reviewed, Free",
+  title: "About GrokBot HQ - Independent, Hand-Reviewed, Free",
   description:
     "Who runs GrokBot HQ, how the review process works, why independence matters, and how to contact us. The directory of Grok bots built for users first.",
   path: "/about",
@@ -53,8 +53,8 @@ export default function AboutPage() {
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Contact</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          General: <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> · Submissions:{" "}
-          <a href={`mailto:${SITE.submitEmail}`} className="text-accent hover:underline">{SITE.submitEmail}</a> · On X:{" "}
+          General: <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a>, Submissions:{" "}
+          <a href={`mailto:${SITE.submitEmail}`} className="text-accent hover:underline">{SITE.submitEmail}</a>, On X:{" "}
           <a href={`https://x.com/${SITE.twitter.replace("@", "")}`} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
             {SITE.twitter}
           </a>

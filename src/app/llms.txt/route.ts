@@ -19,7 +19,7 @@ function build(): string {
   lines.push("## About");
   lines.push("");
   lines.push(
-    `${SITE.name} (${base}) is an independent, hand-reviewed directory of Grok bots — custom assistants built on xAI's Grok platform (x.ai/bot). Every listing is opened and tested by a human before it goes live. Not affiliated with xAI.`
+    `${SITE.name} (${base}) is an independent, hand-reviewed directory of Grok bots - custom assistants built on xAI's Grok platform (x.ai/bot). Every listing is opened and tested by a human before it goes live. Not affiliated with xAI.`
   );
   lines.push("");
   lines.push(`Current directory: ${stats.bots} bots, ${stats.builders} builders, ${stats.categories} categories. Last updated ${SITE.lastUpdated}.`);

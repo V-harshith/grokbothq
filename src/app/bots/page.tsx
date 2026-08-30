@@ -6,7 +6,7 @@ import { bots } from "@/data/bots";
 import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "All Grok Bots — Hand-Reviewed Directory",
+  title: "All Grok Bots - Hand-Reviewed Directory",
   description:
     "Browse every hand-reviewed Grok bot in one place: assistants, engineering agents, research bots, money hunters, sales tools, creative helpers, and life admin. Filter by category and open any bot in Grok with one click.",
   path: "/bots",

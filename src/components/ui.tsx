@@ -28,7 +28,7 @@ export function SectionHeader({
   link,
   linkLabel,
 }: {
-  kicker: string;
+  kicker?: string;
   title: string;
   description?: string;
   link?: string;
@@ -37,7 +37,7 @@ export function SectionHeader({
   return (
     <div className="mb-8 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
       <div className="max-w-2xl">
-        <p className="kicker">{kicker}</p>
+        {kicker && <p className="kicker">{kicker}</p>}
         <h2 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl">{title}</h2>
         {description && <p className="mt-2 text-sm leading-relaxed text-muted">{description}</p>}
       </div>

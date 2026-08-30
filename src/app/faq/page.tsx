@@ -7,7 +7,7 @@ import { faqs } from "@/data/faqs";
 import { pageMetadata, breadcrumbsJsonLd, faqJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Grok Bots FAQ — Every Question, Answered Plainly",
+  title: "Grok Bots FAQ - Every Question, Answered Plainly",
   description:
     "What are Grok bots, how do you open one, are they free and safe, how do you get listed, and what's the difference from Custom GPTs? The complete Grok bot FAQ.",
   path: "/faq",
@@ -21,7 +21,7 @@ export default function FaqPage() {
       <SectionHeader
         kicker="FAQ"
         title="Grok bot questions, answered plainly"
-        description="Everything people ask us about Grok bots — no hedging, no fluff. If your question isn't here, email us and we'll answer it (and probably add it)."
+        description="Everything people ask us about Grok bots - no hedging, no fluff. If your question isn't here, email us and we'll answer it (and probably add it)."
       />
       <FaqList faqs={faqs} />
       <p className="mt-10 text-sm text-muted">
