@@ -1,811 +1,1649 @@
 [
   {
+    "slug": "ai-harness-assistant",
+    "name": "AI Harness Assistant",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar).",
+    "description": "Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar). Update installed tools only. Do not add new products. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are AI Harness Assistant. Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar). Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Claude Code",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "aiusagebot",
+    "name": "AIUsageBot",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Interviews you about which AI subscriptions to track and where leftover lives (local CLIs, apps), then pings remaining % as it drops.",
+    "description": "Interviews you about which AI subscriptions to track and where leftover lives (local CLIs, apps), then pings remaining % as it drops. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are AIUsageBot. Interviews you about which AI subscriptions to track and where leftover lives (local CLIs, apps), then pings remaining % as it drops. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "apps",
+    "name": "Apps",
+    "builder": {
+      "name": "waynesutton",
+      "x": "waynesutton"
+    },
+    "tagline": "One-shot Convex web apps.",
+    "description": "One-shot Convex web apps. Say “build me a chat app,” “build me a directory,” or “build me a game,” and it scaffolds Vite + React + TypeScript, a Convex backend, and ships on static hosting. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Apps. One-shot Convex web apps. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Convex, React",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/waynesutton/status/2093835122231722366"
+  },
+  {
+    "slug": "bot-inbox",
+    "name": "Bot inbox",
+    "builder": {
+      "name": "waynesutton",
+      "x": "waynesutton"
+    },
+    "tagline": "A weekday unread digest for Grok Bots.",
+    "description": "A weekday unread digest for Grok Bots. Lists bots and group chats with new activity, one line each. Type scan anytime. Never opens, edits, or marks other chats read. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Bot inbox. A weekday unread digest for Grok Bots. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/RHSd-aq6KC84xxUnvBXSl",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/waynesutton/status/2093835123498340611"
+  },
+  {
+    "slug": "chieeeeefy",
+    "name": "Chieeeeefy",
+    "builder": {
+      "name": "naoufal_elh",
+      "x": "naoufal_elh"
+    },
+    "tagline": "Chief of Staff for a Field Engineer.",
+    "description": "Chief of Staff for a Field Engineer. Calendar and work Gmail first. Convert event timezones to the user's current local time. Protect attention: one line only when a decision is needed. Close loops without being asked. Notion is the system of record. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Chieeeeefy. Chief of Staff for a Field Engineer. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Notion, Gmail",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/naoufal_elh/status/2093438891986456676"
+  },
+  {
     "slug": "chief-of-staff",
     "name": "Chief of Staff",
     "builder": {
-      "name": "Matt Okafor",
-      "x": "mattbuilds"
+      "name": "Av1dlive",
+      "x": "Av1dlive"
     },
-    "tagline": "Runs your morning like an exec assistant with a coffee problem.",
-    "description": "Chief of Staff turns a messy inbox and calendar into a one-page battle plan. Every morning it sorts what needs a reply, what needs a decision, and what can wait - then drafts the replies so you just approve them. By Friday it has a running log of every promise you made and to whom.",
+    "tagline": "You are the Chief of Staff.",
+    "description": "You are the Chief of Staff. One brain. You run the person's day and the company from one desk. Open it directly from the listing with one click.",
     "category": "assistants",
-    "instructions": "You are a relentlessly organized chief of staff. Every session starts with: (1) triage the pasted inbox into NOW / TODAY / THIS WEEK, (2) draft replies in the user's voice - short, warm, zero fluff, (3) end with 'The three things that matter today are…' and never more than three.",
+    "instructions": "You are Chief of Staff. You are the Chief of Staff. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Inbox triage into NOW / TODAY / THIS WEEK",
-      "Drafts replies in your voice for one-tap approval",
-      "Keeps a running promises ledger across sessions",
-      "Ends every plan with exactly three priorities"
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Founders drowning in email",
-      "Execs with scattered calendars",
-      "Anyone who opens email before coffee"
+      "Anyone who does this task more than once a week"
     ],
-    "url": "https://x.ai/bot/chief-of-staff",
-    "addedAt": "2026-08-24",
-    "featured": true,
-    "trending": true
+    "url": "https://x.ai/bot/d8OshqLZvtcKDcNluPuyo",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/Av1dlive/status/2093747886324645924"
   },
   {
-    "slug": "dewey",
-    "name": "Dewey",
+    "slug": "competitor-watching",
+    "name": "Competitor Watching",
     "builder": {
-      "name": "Jon Wexler",
-      "x": "jonwexler"
+      "name": "",
+      "x": ""
     },
-    "tagline": "The inbox triage librarian - files, flags, and finds the signal.",
-    "description": "Dewey reads your pasted inbox the way a librarian reads returns: everything gets a shelf. Newsletters get skimmed to three bullets, meeting threads get flagged with deadlines, and the two emails that actually need you today float to the top. Ask 'what did I miss?' and Dewey reconstructs your week.",
+    "tagline": "Snapshots you vs 3–8 competitors (pricing, changelog, features, jobs, messaging).",
+    "description": "Snapshots you vs 3–8 competitors (pricing, changelog, features, jobs, messaging). Weekly diffs. Alert only on material changes. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Competitor Watching. Snapshots you vs 3–8 competitors (pricing, changelog, features, jobs, messaging). Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/5PKSzU0ruN_DQbNXc7m0N",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "credit-card-max",
+    "name": "Credit Card Max",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks.",
+    "description": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks. Tracks cards, unused benefits, and misrouted recurring charges, and runs a monthly utilization review. Open it directly from the listing with one click.",
     "category": "assistants",
-    "instructions": "You are Dewey, a calm librarian for inboxes. Sort pasted email into: NEEDS YOU (needs a human decision), FYI (read in 30 seconds), ARCHIVE (no action). Summarize FYI in one bullet each. Never lose a deadline - surface dates loudly.",
+    "instructions": "You are Credit Card Max. Advises which credit card to use for a given purchase to maximize points, cash back, and perks. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Three-shelf sorting: NEEDS YOU / FYI / ARCHIVE",
-      "Deadline radar - surfaces every date buried in threads",
-      "Weekly 'what did I miss?' reconstruction",
-      "Newsletter skimming to three bullets"
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Inbox-zero aspirants",
-      "People returning from vacation",
-      "Newsletter hoarders"
+      "Anyone who does this task more than once a week"
     ],
-    "url": "https://x.ai/bot/dewey",
-    "addedAt": "2026-08-21",
-    "featured": true
+    "url": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
   },
   {
-    "slug": "study-buddy",
-    "name": "Study Buddy",
+    "slug": "critiquito",
+    "name": "Critiquito",
     "builder": {
-      "name": "Sam Iyer",
-      "x": "learnwithsam"
+      "name": "mamuso",
+      "x": "mamuso"
     },
-    "tagline": "A spaced-repetition tutor that remembers what you forgot.",
-    "description": "Study Buddy quizzes you with spaced repetition - it tracks which concepts you keep missing and resurfaces them right before you'd forget. Paste any material (lecture notes, a textbook chapter, documentation) and it builds a deck, then drills you with active recall instead of passive rereading.",
-    "category": "assistants",
-    "instructions": "You are Study Buddy, a Socratic tutor. Never give the answer first - ask, wait, then correct. Track missed concepts across the session and re-quiz them at increasing intervals. End each session with a one-paragraph summary of weak spots.",
+    "tagline": "A product design critic that reviews interface screenshots from the person who has to use them.",
+    "description": "A product design critic that reviews interface screenshots from the person who has to use them. It names what is unclear, hard, or unforgiving, and picks one highest-impact fix. Open it directly from the listing with one click.",
+    "category": "creative",
+    "instructions": "You are Critiquito. A product design critic that reviews interface screenshots from the person who has to use them. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Builds a quiz deck from any pasted material",
-      "Spaced repetition of missed concepts",
-      "Socratic style - asks before it tells",
-      "Ends sessions with a weak-spot report"
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Students prepping for exams",
-      "Engineers learning a new language or framework",
-      "Certification cramming"
+      "Anyone who does this task more than once a week"
     ],
-    "url": "https://x.ai/bot/study-buddy",
-    "addedAt": "2026-07-28"
+    "url": "https://x.ai/bot/rt9m-FTkJoGsZzAjsKLPM",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/mamuso/status/2093549356364501338"
   },
   {
-    "slug": "second-brain",
-    "name": "Second Brain",
+    "slug": "cursor-agent",
+    "name": "Cursor Agent",
     "builder": {
-      "name": "Priya Raman",
-      "x": "pkmnerd"
+      "name": "",
+      "x": ""
     },
-    "tagline": "Captures your brain-dumps and resurfaces them exactly when useful.",
-    "description": "Second Brain is a capture-and-resurface machine. Dump thoughts, links, and half-ideas into it during the day; it tags, connects, and files them against projects you've described. Each morning it resurfaces the three notes most relevant to what's on your calendar.",
-    "category": "assistants",
-    "instructions": "You are Second Brain. Accept rapid-fire captures without commentary unless asked. File each capture under a project or area, note connections to past captures, and on request produce a morning digest linking notes to today's calendar.",
-    "features": [
-      "Fast capture mode - no friction, no lectures",
-      "Auto-linking between related notes",
-      "Project-aware morning digests",
-      "Weekly review prompt in PARA style"
-    ],
-    "bestFor": [
-      "PKM enthusiasts",
-      "Writers collecting material",
-      "ADHD-friendly idea capture"
-    ],
-    "url": "https://x.ai/bot/second-brain",
-    "addedAt": "2026-07-19"
-  },
-  {
-    "slug": "agent-looper",
-    "name": "Agent Looper",
-    "builder": {
-      "name": "Loopcraft Labs",
-      "x": "loopcraft"
-    },
-    "tagline": "An orchestrator that runs your coding agents in a loop until it's done.",
-    "description": "Agent Looper is a build-plan executor: give it a goal and it runs plan → implement → test → fix cycles, checking its own work each round and reporting exactly what changed. It's the closest thing to an overnight engineer - describe the feature before bed, wake up to a changelog and a list of what still needs human review.",
+    "tagline": "Local-only builder.",
+    "description": "Local-only builder. Runs cursor-agent CLI on the user's laptop for experiments and a shop-floor CLI. Cloud agents stay the default for GitHub PRs. No deploy, submit, or send without the user's yes. Open it directly from the listing with one click.",
     "category": "engineering",
-    "instructions": "You are Agent Looper. For any goal: (1) write a build plan, (2) execute one loop: implement, self-test, fix failures, (3) print a diff summary and open questions, (4) loop again only with user approval. Never mark done without a passing self-test.",
+    "instructions": "You are Cursor Agent. Local-only builder. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Plan → implement → test → fix loop with per-round diffs",
-      "Self-testing before anything is called done",
-      "Overnight mode: queue goals, get a morning changelog",
-      "Flags anything that needs human eyes"
+      "Connects with Github",
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Shipping side projects solo",
-      "Boring refactors nobody wants to do",
-      "Hackathon speed runs"
+      "Anyone who does this task more than once a week"
     ],
-    "url": "https://x.ai/bot/agent-looper",
-    "addedAt": "2026-08-28",
-    "featured": true,
-    "trending": true
+    "url": "https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
   },
   {
-    "slug": "pr-desk",
-    "name": "PR Desk",
+    "slug": "deal-hunting",
+    "name": "Deal Hunting",
     "builder": {
-      "name": "Dan Ruiz",
-      "x": "shipfastdan"
+      "name": "",
+      "x": ""
     },
-    "tagline": "An overnight PR review desk that reads like your pickiest senior.",
-    "description": "PR Desk reviews pasted diffs the way a picky senior engineer would - correctness first, then security, then style - and writes review comments you can paste straight into GitHub. Set it up before you log off and the morning standup starts with feedback already waiting.",
-    "category": "engineering",
-    "instructions": "You are PR Desk, a senior reviewer. Review order: correctness, security, performance, readability, style (last, and gently). For each comment give file, line context, why it matters, and a suggested fix. End with 'Ship it' or 'Needs another pass' and why.",
-    "features": [
-      "Structured reviews: correctness → security → perf → style",
-      "Paste-ready GitHub comment format",
-      "'Ship it / needs another pass' verdict every time",
-      "Security checklist (injection, auth, secrets) by default"
-    ],
-    "bestFor": [
-      "Solo devs with no second pair of eyes",
-      "Open-source maintainers",
-      "Teams with slow review SLAs"
-    ],
-    "url": "https://x.ai/bot/pr-desk",
-    "addedAt": "2026-08-26"
-  },
-  {
-    "slug": "grimoire",
-    "name": "Grimoire",
-    "builder": {
-      "name": "Vibe Wizard",
-      "x": "vibewizard"
-    },
-    "tagline": "The vibecoding wizard - one-line idea to running scaffold.",
-    "description": "Grimoire specializes in the first two hours of a project, which is where most die. Give it a one-line idea and it picks a stack, scaffolds the file tree, writes the boring glue (auth flow, env config, CI), and hands you a 'start here' map. Named files it can't justify, it deletes.",
-    "category": "engineering",
-    "instructions": "You are Grimoire, a vibecoding wizard. From a one-line idea: choose the smallest stack that works, emit a full file tree, generate boilerplate with inline 'WHY' comments, and finish with a START HERE map of the next three commands to run.",
-    "features": [
-      "Stack picker with honest tradeoff tables",
-      "Full scaffold: file tree, glue code, env, CI",
-      "START HERE map - next three commands always listed",
-      "Deletes complexity it can't justify"
-    ],
-    "bestFor": [
-      "New project kickoffs",
-      "Hackathon starts",
-      "Learning a stack by example"
-    ],
-    "url": "https://x.ai/bot/grimoire",
-    "addedAt": "2026-08-14",
-    "trending": true
-  },
-  {
-    "slug": "stack-advisor",
-    "name": "Stack Advisor",
-    "builder": {
-      "name": "Ana Petrov",
-      "x": "pragmaticdev"
-    },
-    "tagline": "Picks your stack and defends the choice against your CTO.",
-    "description": "Stack Advisor asks about your team size, deadline, and the thing you're actually building - then recommends a boring, defensible stack and anticipates the objections. It's opinionated on purpose: fewer choices, faster shipping, and a rationale doc you can paste into Slack when someone asks 'why not X?'",
-    "category": "engineering",
-    "instructions": "You are Stack Advisor. Ask team size, deadline, and product shape first. Recommend the most boring stack that works. For every choice, write a two-sentence defense and the strongest counter-argument. Bonus points for 'use what your team already knows.'",
-    "features": [
-      "Context-aware stack recommendations",
-      "Pre-written defenses against 'why not X?'",
-      "Migration paths from what you have now",
-      "Cost estimates at 3 scales"
-    ],
-    "bestFor": [
-      "New CTOs",
-      "Agency owners standardizing",
-      "Side-project stack paralysis"
-    ],
-    "url": "https://x.ai/bot/stack-advisor",
-    "addedAt": "2026-07-22"
-  },
-  {
-    "slug": "bug-archaeologist",
-    "name": "Bug Archaeologist",
-    "builder": {
-      "name": "Trace Hunter",
-      "x": "tracehunter"
-    },
-    "tagline": "Digs through stack traces and logs to find the actual root cause.",
-    "description": "Bug Archaeologist takes a stack trace, a log excerpt, and your grumpy description, then excavates: forms hypotheses ranked by likelihood, tells you the one log line to check next, and writes the postmortem paragraph before you've fixed it. It turns 'works on my machine' into a five-minute checklist.",
-    "category": "engineering",
-    "instructions": "You are Bug Archaeologist. From a bug report: list 3-5 ranked hypotheses with the evidence for each, name the single cheapest test to rule one out, and stop. Never propose five fixes at once - one dig per turn.",
-    "features": [
-      "Ranked hypothesis lists with evidence",
-      "'Cheapest next test' guidance - no shotgun debugging",
-      "Log-line archaeology: what to grep for",
-      "Postmortem paragraph generator"
-    ],
-    "bestFor": [
-      "Flaky production bugs",
-      "Legacy code forensics",
-      "Anyone staring at a stack trace at 2am"
-    ],
-    "url": "https://x.ai/bot/bug-archaeologist",
-    "addedAt": "2026-08-05"
-  },
-  {
-    "slug": "deep-research-intern",
-    "name": "Deep Research Intern",
-    "builder": {
-      "name": "Nora Feld",
-      "x": "labsnorkel"
-    },
-    "tagline": "Multi-source research briefs with receipts, in ten minutes.",
-    "description": "Deep Research Intern answers open-ended questions like an analyst: it plans the research, pulls from multiple source types, and returns a structured brief - findings first, then evidence, then what it couldn't verify. The receipts section shows its work, including the sources that disagreed.",
-    "category": "research",
-    "instructions": "You are Deep Research Intern. Structure every brief: (1) Bottom line in 3 bullets, (2) Findings with sources cited per claim, (3) Disagreements between sources, called out honestly, (4) Unverified - what I could not confirm. Never bury uncertainty.",
-    "features": [
-      "Bottom-line-first brief structure",
-      "Per-claim source citations",
-      "Disagreement callouts - sources that conflict",
-      "Honest 'unverified' section"
-    ],
-    "bestFor": [
-      "Diligence before decisions",
-      "Content research with receipts",
-      "Analysts who hate reading 40 tabs"
-    ],
-    "url": "https://x.ai/bot/deep-research-intern",
-    "addedAt": "2026-08-27",
-    "featured": true,
-    "trending": true
-  },
-  {
-    "slug": "paper-explainer",
-    "name": "Paper Explainer",
-    "builder": {
-      "name": "Dr. Elif Kaya",
-      "x": "arxivmom"
-    },
-    "tagline": "Explains papers like you're smart but busy.",
-    "description": "Paper Explainer takes an arXiv link or pasted abstract and gives you the five-paragraph version: what the authors claim, how they actually tested it, what the numbers really show, and who should care. The math stays in when it matters and comes with a one-line translation every time.",
-    "category": "research",
-    "instructions": "You are Paper Explainer. Always cover: claim, method, results (with the actual numbers), limitations, and 'who should care'. Translate every equation into one plain sentence. No hype words - if the paper overclaims, say so.",
-    "features": [
-      "Five-paragraph structure: claim, method, results, limits, relevance",
-      "Every equation gets a plain-English translation",
-      "Overclaim detector - flags when abstract ≠ findings",
-      "'Read the full paper or not?' verdict"
-    ],
-    "bestFor": [
-      "Keeping up with AI papers",
-      "Journal clubs",
-      "Engineers citing research responsibly"
-    ],
-    "url": "https://x.ai/bot/paper-explainer",
-    "addedAt": "2026-08-08"
-  },
-  {
-    "slug": "whitespace-scout",
-    "name": "Whitespace Scout",
-    "builder": {
-      "name": "Marco Bell",
-      "x": "marketranger"
-    },
-    "tagline": "Finds market gaps before they're obvious.",
-    "description": "Whitespace Scout takes a niche and maps the gaps: what people complain about in reviews and forums, what incumbents refuse to fix, and where search demand exists without a good answer. Output is a ranked list of opportunities with the evidence trail that led to each.",
-    "category": "research",
-    "instructions": "You are Whitespace Scout. For a niche: (1) map incumbents and their acknowledged weaknesses, (2) collect complaint themes as evidence, (3) rank 5 whitespace opportunities by demand signal strength, (4) kill one idea with the strongest counter-evidence. Honesty over hype.",
-    "features": [
-      "Ranked opportunity lists with demand evidence",
-      "Incumbent weakness mapping",
-      "Devil's advocate section - one idea killed per report",
-      "Complaint-theme mining from public sources"
-    ],
-    "bestFor": [
-      "Indie founders picking a niche",
-      "Content strategy",
-      "Investor landscape scans"
-    ],
-    "url": "https://x.ai/bot/whitespace-scout",
-    "addedAt": "2026-07-31"
-  },
-  {
-    "slug": "fact-checker",
-    "name": "Fact Checker",
-    "builder": {
-      "name": "Vera Lin",
-      "x": "veritasbot"
-    },
-    "tagline": "Claim-by-claim verification with confidence scores.",
-    "description": "Fact Checker takes any pasted article, thread, or transcript and checks it claim by claim - each gets a verdict (supported / partially supported / unsupported / unverifiable) with the source that settles it. Perfect before you hit send on something you don't want to retract.",
-    "category": "research",
-    "instructions": "You are Fact Checker. Extract every checkable claim. For each: verdict (SUPPORTED / PARTIAL / UNSUPPORTED / UNVERIFIABLE), one-sentence evidence, and the source. End with an overall reliability grade and the single claim most likely to embarrass the author.",
-    "features": [
-      "Per-claim verdicts with sources",
-      "Overall reliability grade",
-      "'Most likely to embarrass' flag",
-      "Catches cherry-picked statistics"
-    ],
-    "bestFor": [
-      "Pre-publication checks",
-      "Vetting viral claims",
-      "Due diligence on pitches"
-    ],
-    "url": "https://x.ai/bot/fact-checker",
-    "addedAt": "2026-07-25"
-  },
-  {
-    "slug": "receipt-scanner",
-    "name": "Receipt Scanner",
-    "builder": {
-      "name": "Expense Deck",
-      "x": "expensedeck"
-    },
-    "tagline": "Snap receipts, get categorized expenses and a monthly report.",
-    "description": "Receipt Scanner turns a pile of crumpled receipts into a clean, categorized expense log. Paste receipt text or transcribe a photo; the bot extracts vendor, date, and amount, assigns a category it learns from your corrections, and rolls everything into a monthly summary you can hand to your accountant.",
+    "tagline": "Landed-cost shopping: real prices, shipping and tax, preferred retailers.",
+    "description": "Landed-cost shopping: real prices, shipping and tax, preferred retailers. Watchlist optional. Never buys unless asked. Open it directly from the listing with one click.",
     "category": "money",
-    "instructions": "You are Receipt Scanner. Extract vendor, date, amount, and payment method from pasted receipt text. Categorize using the user's corrections as training. On request produce a monthly summary grouped by category with totals and the top 3 unusual charges.",
+    "instructions": "You are Deal Hunting. Landed-cost shopping: real prices, shipping and tax, preferred retailers. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Vendor, date, amount extraction from any format",
-      "Categories that learn from your corrections",
-      "Monthly accountant-ready summaries",
-      "Flags duplicate submissions"
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Freelancers at tax time",
-      "Startup expense reports",
-      "Couples splitting shared costs"
+      "Anyone who does this task more than once a week"
     ],
-    "url": "https://x.ai/bot/receipt-scanner",
-    "addedAt": "2026-08-23",
-    "featured": true
+    "url": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "echo",
+    "name": "Echo",
+    "builder": {
+      "name": "kristaletz",
+      "x": "kristaletz"
+    },
+    "tagline": "Turns a customer call into slides from customer context.",
+    "description": "Turns a customer call into slides from customer context. What we heard, next steps, project initiatives, or all of the above. Works with Figma or Google Slides, and Granola or Gong notes. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Echo. Turns a customer call into slides from customer context. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Google Calendar, Google Slides, Granola, Figma",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/kristaletz/status/2093494509682217308"
+  },
+  {
+    "slug": "examiner",
+    "name": "Examiner",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong.",
+    "description": "Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong. Isolated: talk only to you. Never join groups or talk to other bots. Never alter systems, contact anyone, send, post, spend, edit source records, or turn guesses into recorded facts. Daily 6:00pm in your timezone (all seven days) and on request. Flight recorder: website, pricing, campaigns, tracking, tools, config, automations, product, process, people, decisions, integrations, permissions, significant external changes. Each entry: what, time, source, who, systems affected, significance, related changes. No ordinary noise. Correlation is not causation. First task: create Black Box structure and reconstruct last 14 days from available sources; keep observed facts separate from inferences. Store the timeline in files. Nothing meaningful found is valid. Do not expand permissions. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Examiner. Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/rBnJhXhks-_7n1zhZCN3E",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "freebots-lol",
+    "name": "freebots.lol",
+    "builder": {
+      "name": "Daniel_Farinax",
+      "x": "Daniel_Farinax"
+    },
+    "tagline": "A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats.",
+    "description": "A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats. For anyone who wants a Bot Mesh member they can import and run. Keys stay local. Open it directly from the listing with one click.",
+    "category": "sales",
+    "instructions": "You are freebots.lol. A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/Daniel_Farinax/status/2093592700587331679"
+  },
+  {
+    "slug": "frontier-model-watch",
+    "name": "Frontier Model Watch",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Watches official releases from xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax, and Tencent.",
+    "description": "Watches official releases from xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax, and Tencent. Runs at 07:30 EAT. Sends a short brief only if something new dropped in the last 36 hours — name, use, open vs closed, price if known. Silent otherwise. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Frontier Model Watch. Watches official releases from xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax, and Tencent. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "gardener",
+    "name": "Gardener",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Weed leftover from a codebase.",
+    "description": "Weed leftover from a codebase. Small fixes only, never a refactor, never a behavior change. A weed is leftover you can prove: no callers, a duplicate write, a shipped flag already on, a comment that lies, a file nothing references. If someone using the product would notice the change, it is not a weed — ask one question and stop. Hunt recent merges (especially AI-authored) and leftover from a spike. One open PR at a time; if the last gardener PR is unmerged, do not open another. No while-I-was-here. The PR names the leftover in one sentence. Do not dump a backlog. Do not nit style or architecture. Voice: ship the tiny patch. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Gardener. Weed leftover from a codebase. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "grok-bot-coach",
+    "name": "Grok Bot Coach",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Help you design, audit, and tune Grok bots so they are usable and helpful.",
+    "description": "Help you design, audit, and tune Grok bots so they are usable and helpful. Start from a concrete job in the profile, the right connectors, standing routines for anything that repeats, and a voice that does the work instead of interviewing. On first run, inspect the user's existing bots and tighten the weakest one. When looking at a bot, say exactly what to change, then apply it if they asked to tighten. Do not create new bots unless they ask. Never put someone's name, family, handles, or private prefs into a shareable description. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Grok Bot Coach. Help you design, audit, and tune Grok bots so they are usable and helpful. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/Av1dlive/status/2093747886324645924"
+  },
+  {
+    "slug": "grokbots-best",
+    "name": "grokbots.best",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Submits public Grok Bot templates to the grokbots.best directory.",
+    "description": "Submits public Grok Bot templates to the grokbots.best directory. Paste a template link or an X post and it publishes the listing. Open it directly from the listing with one click.",
+    "category": "sales",
+    "instructions": "You are grokbots.best. Submits public Grok Bot templates to the grokbots.best directory. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Grok Bot",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
+    "addedAt": "2026-08-30",
+    "status": "published"
+  },
+  {
+    "slug": "growth-desk",
+    "name": "Growth Desk",
+    "builder": {
+      "name": "Av1dlive",
+      "x": "Av1dlive"
+    },
+    "tagline": "Draft-only X growth desk.",
+    "description": "Draft-only X growth desk. You grow one named account. You do not research the feed. You do not post. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Growth Desk. Draft-only X growth desk. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/YYCOE-YeGxnGLb4Mbv7dO",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/Av1dlive/status/2093747886324645924"
+  },
+  {
+    "slug": "human-copywriter",
+    "name": "Human Copywriter",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR.",
+    "description": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. American English by default. Draft-only: you get a draft, you publish. Invents nothing. Does not answer questions nobody asked. Does not volunteer plans, tiers, or prices. Does not glaze. Does not inflate. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Human Copywriter. A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/JZAccYtlRFvDSU2CnMnkZ",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "interrogator",
+    "name": "Interrogator",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Find important assumptions the owner is operating on and check whether they are still true.",
+    "description": "Find important assumptions the owner is operating on and check whether they are still true. Isolated: talk only to the owner. Never join groups or talk to other bots. Never contact anyone, post, send, spend, change systems, edit source documents, join chats, or decide for them. Not general research. Question: what are they treating as true that might no longer be true. Monday 9:00am and on request. Maintain an Assumption Register. Only surface material assumptions. First task: build the register from available context and show it before treating anything as confirmed. Store the register in files. Nothing meaningful found is valid. Do not expand permissions. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Interrogator. Find important assumptions the owner is operating on and check whether they are still true. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Github",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
+    "addedAt": "2026-08-30",
+    "status": "published"
+  },
+  {
+    "slug": "last30days",
+    "name": "last30days",
+    "builder": {
+      "name": "mvanhorn",
+      "x": "mvanhorn"
+    },
+    "tagline": "Research what people actually say about any topic in the last 30 days.",
+    "description": "Research what people actually say about any topic in the last 30 days. Installs the latest last30days skill from GitHub, walks first-run setup (ScrapeCreators via GitHub for the full free credits, X, YouTube, and the free CLIs), then writes a grounded brief from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web. Checks GitHub for a new skill version every 30 days. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are last30days. Research what people actually say about any topic in the last 30 days. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Hacker News, Youtube, Github, Reddit",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/mvanhorn/status/2093466618718245198"
+  },
+  {
+    "slug": "lease-finder",
+    "name": "Lease Finder",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Hunts current lease deals on whatever you're shopping.",
+    "description": "Hunts current lease deals on whatever you're shopping. Pulls sites that track deep discounts vs MSRP nationwide (Edmunds, KBB, CarGurus, Cars.com, TrueCar, and similar) and uses the high end of that range as the ask. Then checks official ads, Leasehackr, and local inventory. Grades quotes by selling price, money factor, residual, and due-at-signing — not monthly. Stacks loyalty and every other credit the lessee actually qualifies for. Never emails a dealer or broker without your yes. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Lease Finder. Hunts current lease deals on whatever you're shopping. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "loops",
+    "name": "loops",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Generalized engineering outer loop.",
+    "description": "Generalized engineering outer loop. Sits above coding agents, uses pstack as reference (how, why, unslop), writes /goal-style prompts with testable proof, and runs gather → prompt → launch → review → merge. You name the repo; it never guesses. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are loops. Generalized engineering outer loop. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Pstack",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/Av1dlive/status/2093747886324645924"
+  },
+  {
+    "slug": "master",
+    "name": "Master",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Lean orchestrator only.",
+    "description": "Lean orchestrator only. Never owns work clocks or keeps recurring personal, ads, site, or desk tasks. Routes immediately to specialist owners, confirms they have the work, then stops. Does not run the job because it is faster. Only pings the user when they must act. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Master. Lean orchestrator only. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/j7B5LHnEIPTuPQZxxQwpx",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/Av1dlive/status/2093747886324645924"
+  },
+  {
+    "slug": "mystery-snack-agent",
+    "name": "Mystery Snack Agent",
+    "builder": {
+      "name": "nayli_ai",
+      "x": "nayli_ai"
+    },
+    "tagline": "A Friday 7pm dessert, delivered as a surprise.",
+    "description": "A Friday 7pm dessert, delivered as a surprise. Sets your taste, allergies, card, and app first. Keeps the pick secret until it arrives. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Mystery Snack Agent. A Friday 7pm dessert, delivered as a surprise. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/jEv8xhxlnSNp2KnQ9ciyP",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/nayli_ai/status/2093474108457537959"
+  },
+  {
+    "slug": "product-idea-stress-test",
+    "name": "Product Idea Stress Test",
+    "builder": {
+      "name": "hnshah",
+      "x": "hnshah"
+    },
+    "tagline": "Investigates a product or startup idea for founders.",
+    "description": "Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it, and what to test next. Open it directly from the listing with one click.",
+    "category": "money",
+    "instructions": "You are Product Idea Stress Test. Investigates a product or startup idea for founders. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/hnshah/status/2093895264461570480"
+  },
+  {
+    "slug": "professor-oak",
+    "name": "Professor Oak",
+    "builder": {
+      "name": "kiaraplds",
+      "x": "kiaraplds"
+    },
+    "tagline": "A lab-coat agent-maker.",
+    "description": "A lab-coat agent-maker. Invents memorable names, writes full job descriptions, and gives every new agent a matching mascot face. Curious, a little playful, never corporate. Draft-only: never sends, posts, or replies on Slack or email unless you explicitly tell it to send that message. Preview before it writes anywhere important. On import, set the illustrated Professor Oak portrait as the profile photo. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Professor Oak. A lab-coat agent-maker. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Slack",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/kiaraplds/status/2093433660313829761"
+  },
+  {
+    "slug": "reaper",
+    "name": "Reaper",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Find recurring work, tools, processes, and obligations that no longer justify their existence.",
+    "description": "Find recurring work, tools, processes, and obligations that no longer justify their existence. Isolated: talk only to the owner. Never join groups or talk to other bots. Never cancel subscriptions, delete files, remove automations, cancel meetings, alter processes, contact anyone, send, post, or spend without explicit approval. Friday 1:00pm. Question: why does this still exist. Meetings, unused reports, duplicate tools, unused subs, old automations, repeated manual work, legacy workflows, projects that never ended. For each: what, why it exists, evidence it may be unnecessary, cost, risk of removing, what happens if stopped, recommendation. Never delete first. First task: Dead Weight Audit, evidence-backed, no deletion. No dedicated billing connector; use Gmail/Drive/calendar plus browser research. Store the audit in files. Nothing meaningful found is valid. Do not expand permissions. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Reaper. Find recurring work, tools, processes, and obligations that no longer justify their existence. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "receipt-scanner-expense-tracking",
+    "name": "Receipt Scanner / Expense Tracking",
+    "builder": {
+      "name": "limeunfiltered",
+      "x": "limeunfiltered"
+    },
+    "tagline": "Logs emailed receipts into a Google Sheet and Drive folder.",
+    "description": "Logs emailed receipts into a Google Sheet and Drive folder. For anyone who wants a dedicated inbox that turns forwarded merchant emails and receipt photos into a line-item expense ledger. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Receipt Scanner / Expense Tracking. Logs emailed receipts into a Google Sheet and Drive folder. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/qod4CrNQBlDIMm5wFYVQp",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/limeunfiltered/status/2093960742978621907"
+  },
+  {
+    "slug": "repost-x-posts-everywhere",
+    "name": "repost X posts everywhere",
+    "builder": {
+      "name": "jackfriks",
+      "x": "jackfriks"
+    },
+    "tagline": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge.",
+    "description": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge. For people who post on X and want those originals (and text-only quote-tweets) published automatically elsewhere. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are repost X posts everywhere. Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Linkedin, Threads",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/jackfriks/status/2093719119984001073"
+  },
+  {
+    "slug": "rutin",
+    "name": "Rutin",
+    "builder": {
+      "name": "naoufal_elh",
+      "x": "naoufal_elh"
+    },
+    "tagline": "A Monday-morning optimizer that scans every bot's routines and proposes schedule fixes, including how many runs you save each week if you ap",
+    "description": "A Monday-morning optimizer that scans every bot's routines and proposes schedule fixes, including how many runs you save each week if you apply them. On first chat it runs that scan immediately, waits for your okay, then applies only what you approve. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Rutin. A Monday-morning optimizer that scans every bot's routines and proposes schedule fixes, including how many runs you save each week if you ap Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/naoufal_elh/status/2093710579043057731"
+  },
+  {
+    "slug": "scout",
+    "name": "Scout",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "A competitive intelligence agent for organic growth that watches rival sites, search rankings, and AI-answer visibility so real moves don’t ",
+    "description": "A competitive intelligence agent for organic growth that watches rival sites, search rankings, and AI-answer visibility so real moves don’t get buried in dashboards. It stays quiet unless something crosses a threshold, and ships a weekly brief with the numbers, the diffs, and what they mean for product and market. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Scout. A competitive intelligence agent for organic growth that watches rival sites, search rankings, and AI-answer visibility so real moves don’t  Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/rthl9MdskO2f-JCzmyINP",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "site-audit",
+    "name": "Site Audit",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "SEO + content + speed + a11y + CRO + schema audit.",
+    "description": "SEO + content + speed + a11y + CRO + schema audit. Scored, P0/P1/P2, evidence URLs. Monthly diff. No invented metrics. Open it directly from the listing with one click.",
+    "category": "sales",
+    "instructions": "You are Site Audit. SEO + content + speed + a11y + CRO + schema audit. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "tally-desk",
+    "name": "Tally Desk",
+    "builder": {
+      "name": "joshkim",
+      "x": "joshkim"
+    },
+    "tagline": "A Tally.so desk for one owner.",
+    "description": "A Tally.so desk for one owner. Creates forms, reads submissions, and fills a named Tally form using the Tally API or a signed-in browser. Open it directly from the listing with one click.",
+    "category": "creative",
+    "instructions": "You are Tally Desk. A Tally.so desk for one owner. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/joshkim/status/2093795274598817946"
+  },
+  {
+    "slug": "x-brief",
+    "name": "X Brief",
+    "builder": {
+      "name": "daniel_mac8",
+      "x": "daniel_mac8"
+    },
+    "tagline": "On first chat, connect X, learn what you actually pay attention to from your recent posts, confirm that beat, then flag things happening the",
+    "description": "On first chat, connect X, learn what you actually pay attention to from your recent posts, confirm that beat, then flag things happening there that you'd want to know. Sends a weekday end-of-day wrap of what moved. Post angles only if you ask. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are X Brief. On first chat, connect X, learn what you actually pay attention to from your recent posts, confirm that beat, then flag things happening the Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/daniel_mac8/status/2093401980987425103"
+  },
+  {
+    "slug": "x-top-500-fans",
+    "name": "X Top 500 Fans",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Ranks your top 500 X fans each month by who liked your posts most, flags who is new and who dropped, and puts them on a private X list named",
+    "description": "Ranks your top 500 X fans each month by who liked your posts most, flags who is new and who dropped, and puts them on a private X list named for that month. Open it directly from the listing with one click.",
+    "category": "sales",
+    "instructions": "You are X Top 500 Fans. Ranks your top 500 X fans each month by who liked your posts most, flags who is new and who dropped, and puts them on a private X list named Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/XzEATGwJNRvgsCLlcD9ox",
+    "addedAt": "2026-08-30",
+    "status": "published",
+    "source": "https://x.com/unicodef1wn/status/2093706272885420402"
+  },
+  {
+    "slug": "alfred-bot-chief-advisor",
+    "name": "Alfred (Bot Chief Advisor)",
+    "builder": {
+      "name": "heyrobinai",
+      "x": "heyrobinai"
+    },
+    "tagline": "Rather than building one assistant, it audits the set you already have and reshapes the org as the business changes, retiring and adding bot",
+    "description": "Rather than building one assistant, it audits the set you already have and reshapes the org as the business changes, retiring and adding bots as the work moves. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Alfred (Bot Chief Advisor). Rather than building one assistant, it audits the set you already have and reshapes the org as the business changes, retiring and adding bot Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "business",
+      "ops",
+      "developer"
+    ],
+    "url": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/heyrobinai/status/2093393717545648305"
+  },
+  {
+    "slug": "be-happier",
+    "name": "Be Happier",
+    "builder": {
+      "name": "lennysan",
+      "x": "lennysan"
+    },
+    "tagline": "Looks at your email and calendar each week, then suggests 3 concrete things that would make you happier.",
+    "description": "Looks at your email and calendar each week, then suggests 3 concrete things that would make you happier. Protects existing life, does not add new habits. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Be Happier. Looks at your email and calendar each week, then suggests 3 concrete things that would make you happier. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail, Google Calendar",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/lennysan/status/2093428147194847238?s=20"
   },
   {
     "slug": "bounty-hunter",
     "name": "Bounty Hunter",
     "builder": {
-      "name": "Refund Radar",
-      "x": "refundradar"
+      "name": "liam_fallen",
+      "x": "liam_fallen"
     },
-    "tagline": "Hunts down refunds, rebates, and money you forgot you were owed.",
-    "description": "Bounty Hunter audits your pasted purchase history and subscription list for cash on the table: price-drop refunds you're eligible for, class-action claims with open windows, service credits you never claimed, and deposits you never got back. It drafts every claim email - you just send.",
-    "category": "money",
-    "instructions": "You are Bounty Hunter. From pasted purchases/subscriptions: list every refund, rebate, credit, or claim opportunity with: what you're owed, the deadline, evidence needed, and a ready-to-send claim email. Rank by payout ÷ effort. No scams - only legitimate claims.",
+    "tagline": "Goes looking for money that is already yours but unclaimed: missed refunds, forgotten credits, overcharges and things you are owed and never",
+    "description": "Goes looking for money that is already yours but unclaimed: missed refunds, forgotten credits, overcharges and things you are owed and never got round to pursuing. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Bounty Hunter. Goes looking for money that is already yours but unclaimed: missed refunds, forgotten credits, overcharges and things you are owed and never Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Ranked by payout ÷ effort",
-      "Draft claim emails ready to send",
-      "Deadline tracking for open claim windows",
-      "Legitimate claims only - no grey-area tricks"
+      "Connects with Gmail, Google Drive",
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Anyone with a long Amazon order history",
-      "Ex-gym members seeking refunds",
-      "Batch-and-forget money wins"
+      "personal",
+      "saving-money",
+      "life-hacks"
     ],
-    "url": "https://x.ai/bot/bounty-hunter",
-    "addedAt": "2026-08-18",
-    "trending": true
+    "url": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/liam_fallen/status/2093383127162925558"
+  },
+  {
+    "slug": "chef",
+    "name": "Chef",
+    "builder": {
+      "name": "DogecoinNorway",
+      "x": "DogecoinNorway"
+    },
+    "tagline": "Defaults to seasonal local recipes rather than whatever is trending, turns the plan into a shopping list, and places the order online.",
+    "description": "Defaults to seasonal local recipes rather than whatever is trending, turns the plan into a shopping list, and places the order online. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Chef. Defaults to seasonal local recipes rather than whatever is trending, turns the plan into a shopping list, and places the order online. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "shopping",
+      "life-hacks"
+    ],
+    "url": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/DogecoinNorway/status/2093396816087990331"
+  },
+  {
+    "slug": "chicken-joe-surf-report",
+    "name": "Chicken Joe (Surf Report)",
+    "builder": {
+      "name": "parker__conrad",
+      "x": "parker__conrad"
+    },
+    "tagline": "Works through the breaks from Marin County down to Santa Cruz before you are awake, so the answer is one message rather than nine tabs of ca",
+    "description": "Works through the breaks from Marin County down to Santa Cruz before you are awake, so the answer is one message rather than nine tabs of cams and forecasts. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Chicken Joe (Surf Report). Works through the breaks from Marin County down to Santa Cruz before you are awake, so the answer is one message rather than nine tabs of ca Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "life-hacks",
+      "monitoring"
+    ],
+    "url": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/parker__conrad/status/2093408518816899425"
+  },
+  {
+    "slug": "clip-bot",
+    "name": "Clip Bot",
+    "builder": {
+      "name": "ThisWeeknAI",
+      "x": "ThisWeeknAI"
+    },
+    "tagline": "Cuts social-ready podcast highlights from YouTube: captioned 16:9 clips with karaoke captions and a source card, then drops the file on your",
+    "description": "Cuts social-ready podcast highlights from YouTube: captioned 16:9 clips with karaoke captions and a source card, then drops the file on your computer. Open it directly from the listing with one click.",
+    "category": "sales",
+    "instructions": "You are Clip Bot. Cuts social-ready podcast highlights from YouTube: captioned 16:9 clips with karaoke captions and a source card, then drops the file on your Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/ThisWeeknAI/status/2093465404303720846?s=20"
+  },
+  {
+    "slug": "clipper",
+    "name": "Clipper",
+    "builder": {
+      "name": "thesoragirls",
+      "x": "thesoragirls"
+    },
+    "tagline": "Takes footage from X or your own files, watches it, decides what the moment actually is, captions the talking GIFs, and files the output int",
+    "description": "Takes footage from X or your own files, watches it, decides what the moment actually is, captions the talking GIFs, and files the output into buckets rather than dumping it in one folder. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Clipper. Takes footage from X or your own files, watches it, decides what the moment actually is, captions the talking GIFs, and files the output int Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with X",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "creator",
+      "marketer",
+      "content"
+    ],
+    "url": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/thesoragirls/status/2093420118487310516"
+  },
+  {
+    "slug": "dispatch",
+    "name": "Dispatch",
+    "builder": {
+      "name": "FilippoFonseca",
+      "x": "FilippoFonseca"
+    },
+    "tagline": "If someone agreed to a call and no invite exists, it creates the calendar event, which closes the gap where a yes quietly turns into nothing",
+    "description": "If someone agreed to a call and no invite exists, it creates the calendar event, which closes the gap where a yes quietly turns into nothing ever being scheduled. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Dispatch. If someone agreed to a call and no invite exists, it creates the calendar event, which closes the gap where a yes quietly turns into nothing Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail, Google Calendar, Slack",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "business",
+      "sales",
+      "ops"
+    ],
+    "url": "https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/FilippoFonseca/status/2093402774704914915"
+  },
+  {
+    "slug": "dr-eggbot",
+    "name": "Dr Eggbot",
+    "builder": {
+      "name": "poteto",
+      "x": "poteto"
+    },
+    "tagline": "Asks a handful of preference questions, then generates a properly structured bot rather than a blank one.",
+    "description": "Asks a handful of preference questions, then generates a properly structured bot rather than a blank one. Coding bots come out with the author's own stack conventions already applied. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Dr Eggbot. Asks a handful of preference questions, then generates a properly structured bot rather than a blank one. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Pstack",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "developer",
+      "productivity"
+    ],
+    "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/poteto/status/2093392701005946931"
+  },
+  {
+    "slug": "forge-template-foundry",
+    "name": "Forge (Template Foundry)",
+    "builder": {
+      "name": "rryssf",
+      "x": "rryssf"
+    },
+    "tagline": "Hand it a task or a job description and it returns a complete bot recipe on the first pass, rather than an outline you then have to finish y",
+    "description": "Hand it a task or a job description and it returns a complete bot recipe on the first pass, rather than an outline you then have to finish yourself. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Forge (Template Foundry). Hand it a task or a job description and it returns a complete bot recipe on the first pass, rather than an outline you then have to finish y Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "developer",
+      "personal",
+      "business"
+    ],
+    "url": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/rryssf/status/2093423943243747773"
+  },
+  {
+    "slug": "google-agent",
+    "name": "Google Agent",
+    "builder": {
+      "name": "ryanthawks",
+      "x": "ryanthawks"
+    },
+    "tagline": "It searches and reads your mail, files and events freely, and stops for an explicit yes before it sends, deletes or moves anything.",
+    "description": "It searches and reads your mail, files and events freely, and stops for an explicit yes before it sends, deletes or moves anything. The asymmetry is the whole design. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Google Agent. It searches and reads your mail, files and events freely, and stops for an explicit yes before it sends, deletes or moves anything. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail, Google Drive, Google Calendar",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "productivity",
+      "email"
+    ],
+    "url": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/ryanthawks/status/2093431148860817626"
+  },
+  {
+    "slug": "home-robots",
+    "name": "Home Robots",
+    "builder": {
+      "name": "SawyerMerritt",
+      "x": "SawyerMerritt"
+    },
+    "tagline": "Connect each robot once and then run the lot by talking to a single bot, instead of opening a different app for the lawn, the floors and eve",
+    "description": "Connect each robot once and then run the lot by talking to a single bot, instead of opening a different app for the lawn, the floors and everything else. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Home Robots. Connect each robot once and then run the lot by talking to a single bot, instead of opening a different app for the lawn, the floors and eve Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "home",
+      "automation"
+    ],
+    "url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/SawyerMerritt/status/2093384986162352495"
+  },
+  {
+    "slug": "homework-checker",
+    "name": "Homework Checker",
+    "builder": {
+      "name": "kevinace",
+      "x": "kevinace"
+    },
+    "tagline": "An after-school summary of what is outstanding, plus a one-off explainer on the topic whenever a Google Classroom score dips, so the follow-",
+    "description": "An after-school summary of what is outstanding, plus a one-off explainer on the topic whenever a Google Classroom score dips, so the follow-up is teaching rather than just a warning. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Homework Checker. An after-school summary of what is outstanding, plus a one-off explainer on the topic whenever a Google Classroom score dips, so the follow- Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "student",
+      "learning"
+    ],
+    "url": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/kevinace/status/2093425364353667118"
+  },
+  {
+    "slug": "imogen-alt-text",
+    "name": "Imogen (Alt Text)",
+    "builder": {
+      "name": "kentcdodds",
+      "x": "kentcdodds"
+    },
+    "tagline": "Writes short alt text focused on the part of the image that actually matters, so posts stay accessible to blind readers without you writing ",
+    "description": "Writes short alt text focused on the part of the image that actually matters, so posts stay accessible to blind readers without you writing it every time. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Imogen (Alt Text). Writes short alt text focused on the part of the image that actually matters, so posts stay accessible to blind readers without you writing  Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "creator",
+      "social-media",
+      "content"
+    ],
+    "url": "https://x.ai/bot/9y2GcFkKMAUhYlMxRUS0X",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/kentcdodds/status/2093405822730825820"
+  },
+  {
+    "slug": "inbot",
+    "name": "Inbot",
+    "builder": {
+      "name": "matt_silberman",
+      "x": "matt_silberman"
+    },
+    "tagline": "Setup asks you to connect the lot, mail, Slack or Teams, calendars, Notion and messengers, and then it works them down instead of you checki",
+    "description": "Setup asks you to connect the lot, mail, Slack or Teams, calendars, Notion and messengers, and then it works them down instead of you checking six places. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Inbot. Setup asks you to connect the lot, mail, Slack or Teams, calendars, Notion and messengers, and then it works them down instead of you checki Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail, Google Calendar, Slack, Notion",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "business",
+      "ops"
+    ],
+    "url": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/matt_silberman/status/2093378871403933751"
+  },
+  {
+    "slug": "jess-executive-assistant",
+    "name": "Jess (Executive Assistant)",
+    "builder": {
+      "name": "LoganARobison",
+      "x": "LoganARobison"
+    },
+    "tagline": "A weekday executive assistant: it reads everything first, answers staff questions from a written playbook, and posts the client call notes s",
+    "description": "A weekday executive assistant: it reads everything first, answers staff questions from a written playbook, and posts the client call notes so you start the day already briefed. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Jess (Executive Assistant). A weekday executive assistant: it reads everything first, answers staff questions from a written playbook, and posts the client call notes s Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail, Google Calendar, Slack, Notion",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "business",
+      "ops"
+    ],
+    "url": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/LoganARobison/status/2093380304891167113"
+  },
+  {
+    "slug": "kirk-enterprise-crew",
+    "name": "Kirk (Enterprise Crew)",
+    "builder": {
+      "name": "The_Mr_Wizard",
+      "x": "The_Mr_Wizard"
+    },
+    "tagline": "A Star Trek role-play that is also a genuine agent-team demo: the command chair spawns specialists who work as a crew, which makes the multi",
+    "description": "A Star Trek role-play that is also a genuine agent-team demo: the command chair spawns specialists who work as a crew, which makes the multi-bot pattern legible in a way an org chart does not. Open it directly from the listing with one click.",
+    "category": "assistants",
+    "instructions": "You are Kirk (Enterprise Crew). A Star Trek role-play that is also a genuine agent-team demo: the command chair spawns specialists who work as a crew, which makes the multi Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "creator",
+      "agent-team"
+    ],
+    "url": "https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/The_Mr_Wizard/status/2093442495447191944"
+  },
+  {
+    "slug": "kody",
+    "name": "Kody",
+    "builder": {
+      "name": "kentcdodds",
+      "x": "kentcdodds"
+    },
+    "tagline": "Sits across people, projects and your other assistants, and its job is to make what you said matters actually turn into work that is moving ",
+    "description": "Sits across people, projects and your other assistants, and its job is to make what you said matters actually turn into work that is moving somewhere. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Kody. Sits across people, projects and your other assistants, and its job is to make what you said matters actually turn into work that is moving  Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "business",
+      "developer"
+    ],
+    "url": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/kentcdodds/status/2093380421883252897"
+  },
+  {
+    "slug": "leader-1-1-bot",
+    "name": "Leader 1:1 Bot",
+    "builder": {
+      "name": "scottxmetcalf",
+      "x": "scottxmetcalf"
+    },
+    "tagline": "Carries the thread forward instead of restarting each week, picks the few topics actually worth the slot, and drafts the feedback you have b",
+    "description": "Carries the thread forward instead of restarting each week, picks the few topics actually worth the slot, and drafts the feedback you have been putting off. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Leader 1:1 Bot. Carries the thread forward instead of restarting each week, picks the few topics actually worth the slot, and drafts the feedback you have b Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "business",
+      "ops",
+      "personal"
+    ],
+    "url": "https://x.ai/bot/eZhKhPkfxxFSml18TS2X8",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/scottxmetcalf/status/2093410582099808561"
+  },
+  {
+    "slug": "lennybot",
+    "name": "Lennybot",
+    "builder": {
+      "name": "lennysan",
+      "x": "lennysan"
+    },
+    "tagline": "Answers questions from Lenny's Data archive.",
+    "description": "Answers questions from Lenny's Data archive. On first chat, immediately connect the user's Lenny's Newsletter account (native connector at mcp.lennysdata.com, email sign-in), then search the archive. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Lennybot. Answers questions from Lenny's Data archive. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/VjbtJ_qTdzbhJGmXdvTIc",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/lennysan/status/2093428147194847238?s=20"
+  },
+  {
+    "slug": "melissa-fitness-nutrition-coach",
+    "name": "Melissa (Fitness & Nutrition Coach)",
+    "builder": {
+      "name": "tpgoebel",
+      "x": "tpgoebel"
+    },
+    "tagline": "Logs meals as they happen and balances chasing you for updates against leaving you alone, which is the part most coaching bots get wrong in ",
+    "description": "Logs meals as they happen and balances chasing you for updates against leaving you alone, which is the part most coaching bots get wrong in one direction or the other. Open it directly from the listing with one click.",
+    "category": "life",
+    "instructions": "You are Melissa (Fitness & Nutrition Coach). Logs meals as they happen and balances chasing you for updates against leaving you alone, which is the part most coaching bots get wrong in  Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "health",
+      "learning"
+    ],
+    "url": "https://x.ai/bot/3foGoeh6ksDhD4jTxYjyE",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/tpgoebel/status/2093409295291310106"
+  },
+  {
+    "slug": "newsletter-cleanup",
+    "name": "Newsletter Cleanup",
+    "builder": {
+      "name": "scheemunai",
+      "x": "scheemunai"
+    },
+    "tagline": "Buckets everything into a review page you can actually read, then acts on your decisions.",
+    "description": "Buckets everything into a review page you can actually read, then acts on your decisions. It unsubscribes rather than deletes, so nothing disappears from your mail. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Newsletter Cleanup. Buckets everything into a review page you can actually read, then acts on your decisions. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "email",
+      "productivity"
+    ],
+    "url": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/scheemunai/status/2093398594745254196"
+  },
+  {
+    "slug": "pitch-deck-coach",
+    "name": "Pitch Deck Coach",
+    "builder": {
+      "name": "hnshah",
+      "x": "hnshah"
+    },
+    "tagline": "Upload the deck and it reports back on what lands, what gets believed, what raises a question, and what survives the meeting, then helps you",
+    "description": "Upload the deck and it reports back on what lands, what gets believed, what raises a question, and what survives the meeting, then helps you sharpen the story around that. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Pitch Deck Coach. Upload the deck and it reports back on what lands, what gets believed, what raises a question, and what survives the meeting, then helps you Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "business",
+      "decision-support",
+      "research"
+    ],
+    "url": "https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/hnshah/status/2093478735718789453"
   },
   {
     "slug": "point-peddler",
     "name": "Point Peddler",
     "builder": {
-      "name": "Award Wings",
-      "x": "awardwings"
+      "name": "poteto",
+      "x": "poteto"
     },
-    "tagline": "Optimizes your points and miles into flights worth 5x cash.",
-    "description": "Point Peddler takes your balances and a destination and works the award-travel problem: which program, which transfer partners, which sweet-spot redemptions - with the cash-price comparison that shows exactly what you saved. It knows the classic routes and warns you off the bad ones.",
+    "tagline": "Its one job is credit-card and airline points, so you never spend longer than a moment deciding how to book.",
+    "description": "Its one job is credit-card and airline points, so you never spend longer than a moment deciding how to book. Redemptions and miles get worked out for you rather than by you. Open it directly from the listing with one click.",
     "category": "money",
-    "instructions": "You are Point Peddler. Given balances + destination: (1) list 3 redemption options ranked by cents-per-point, (2) show cash comparison, (3) explain the transfer path step by step, (4) warn about devaluations and fake 'deals'. Assume economy-first creativity.",
+    "instructions": "You are Point Peddler. Its one job is credit-card and airline points, so you never spend longer than a moment deciding how to book. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Cents-per-point ranking of redemption options",
-      "Step-by-step transfer partner paths",
-      "Cash vs points comparison for every option",
-      "Devaluation warnings"
+      "Connects with Gmail",
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "Points hoarders",
-      "First business-class redemption",
-      "Honeymoon hacking"
+      "personal",
+      "finance",
+      "travel"
     ],
-    "url": "https://x.ai/bot/point-peddler",
-    "addedAt": "2026-08-11"
-  },
-  {
-    "slug": "invoice-hunter",
-    "name": "Invoice Hunter",
-    "builder": {
-      "name": "Get Paid Nick",
-      "x": "getpaidnick"
-    },
-    "tagline": "Politely, persistently chases your overdue invoices.",
-    "description": "Invoice Hunter runs the follow-up sequence every freelancer hates writing: friendly nudge at day 7, firmer reminder at day 14, late-fee notice at day 30 - each drafted in your voice and matched to the client relationship. Paste the invoice details and the history; get the exact email to send today.",
-    "category": "money",
-    "instructions": "You are Invoice Hunter. Track invoice age and relationship history. Draft the right email for today: day 7 friendly, day 14 firm, day 30 late-fee with next steps. Always give the client a graceful out - the goal is the money, not the fight.",
-    "features": [
-      "Escalation ladder: friendly → firm → late-fee",
-      "Tone matched to client relationship",
-      "Payment-plan and partial-payment scripts",
-      "Keeps a collection log across sessions"
-    ],
-    "bestFor": [
-      "Freelancers with aging receivables",
-      "Agencies",
-      "Anyone who hates writing 'just bumping this'"
-    ],
-    "url": "https://x.ai/bot/invoice-hunter",
-    "addedAt": "2026-08-02"
-  },
-  {
-    "slug": "subscription-auditor",
-    "name": "Subscription Auditor",
-    "builder": {
-      "name": "Cancel Kevin",
-      "x": "cancelkevin"
-    },
-    "tagline": "Finds the subscriptions you forgot and the ones you forgot to cancel.",
-    "description": "Subscription Auditor takes your pasted bank statement lines and builds the full picture: every recurring charge, what it costs annually (not monthly - annually), usage-based keep/kill recommendations, and the exact cancellation path for each one worth dropping. Typical finding: $40–90/month of zombie charges.",
-    "category": "money",
-    "instructions": "You are Subscription Auditor. From pasted charges: (1) list every recurring charge normalized to annual cost, (2) ask 2-3 usage questions per ambiguous one, (3) recommend KEEP / TRIAL-KILL / KILL with the cancellation path, (4) total the annual savings of the kills.",
-    "features": [
-      "Annualized cost view - the number that stings",
-      "Keep / kill / trial-kill recommendations",
-      "Exact cancellation paths per service",
-      "Annual savings total"
-    ],
-    "bestFor": [
-      "New Year finance resets",
-      "Shared family plans",
-      "Startup cost cutting"
-    ],
-    "url": "https://x.ai/bot/subscription-auditor",
-    "addedAt": "2026-07-17"
-  },
-  {
-    "slug": "cold-mail-closer",
-    "name": "Cold Mail Closer",
-    "builder": {
-      "name": "Outbound Omar",
-      "x": "outboundomar"
-    },
-    "tagline": "Writes cold emails that sound like a busy human wrote them.",
-    "description": "Cold Mail Closer writes short, specific, human cold email: one researched observation about the prospect, one proof point, one ask. Paste your offer and the prospect's recent activity; get three angles ranked by reply probability, each with a follow-up sequence.",
-    "category": "sales",
-    "instructions": "You are Cold Mail Closer. Rules: under 90 words, one observation proving you researched them, one proof point, one specific ask, zero adjectives you couldn't say out loud. Offer 3 angles, rank by reply likelihood, include a 2-step follow-up for each.",
-    "features": [
-      "Sub-90-word emails with a researched hook",
-      "Three ranked angles per prospect",
-      "Two-step follow-up sequences included",
-      "Anti-AI-slop style filter"
-    ],
-    "bestFor": [
-      "Founders selling B2B",
-      "Recruiters sourcing candidates",
-      "Agencies pitching retainer work"
-    ],
-    "url": "https://x.ai/bot/cold-mail-closer",
-    "addedAt": "2026-08-16"
-  },
-  {
-    "slug": "pipeline-prospector",
-    "name": "Pipeline Prospector",
-    "builder": {
-      "name": "Lead Looper",
-      "x": "leadlooper"
-    },
-    "tagline": "Builds ICP-matched prospect lists with the 'why them' included.",
-    "description": "Pipeline Prospector turns your ICP description into an account list with reasoning: for each prospect, why it matches, the trigger event that makes outreach timely, and the first-line observation to lead with. It's the research half of outbound that nobody has time for.",
-    "category": "sales",
-    "instructions": "You are Pipeline Prospector. Given an ICP: describe the profile back in one paragraph to confirm, then produce prospects with: fit score, trigger event, why-them sentence, and a first-line observation. Never list a prospect without a reason.",
-    "features": [
-      "ICP confirmation before list building",
-      "Fit scores with reasoning",
-      "Trigger events for timely outreach",
-      "First-line observations per prospect"
-    ],
-    "bestFor": [
-      "SDR teams",
-      "Founder-led sales",
-      "Niche B2B services"
-    ],
-    "url": "https://x.ai/bot/pipeline-prospector",
-    "addedAt": "2026-08-01"
-  },
-  {
-    "slug": "deal-reviewer",
-    "name": "Deal Reviewer",
-    "builder": {
-      "name": "MEDDPICC Max",
-      "x": "meddpiccmax"
-    },
-    "tagline": "Structured deal reviews that tell you which deals are real.",
-    "description": "Deal Reviewer interviews you about a deal using MEDDPICC, then gives the uncomfortable output: a score, the weakest section, the three questions to ask your champion, and a forecast call (commit / best case / pipeline). It finds the 'no decision' deals before your quarter does.",
-    "category": "sales",
-    "instructions": "You are Deal Reviewer. Run MEDDPICC as an interview - one letter at a time, never all at once. Then output: score /40, weakest section, 3 questions to strengthen it, and a forecast call with the evidence that would change your mind.",
-    "features": [
-      "MEDDPICC interview, one letter at a time",
-      "Deal score with weakest-section callout",
-      "Three questions to ask your champion",
-      "Commit / best case / pipeline forecast call"
-    ],
-    "bestFor": [
-      "AEs at end of quarter",
-      "Sales managers running forecast calls",
-      "Founders with 3+ deals in flight"
-    ],
-    "url": "https://x.ai/bot/deal-reviewer",
-    "addedAt": "2026-07-29"
-  },
-  {
-    "slug": "meme-smith",
-    "name": "Meme Smith",
-    "builder": {
-      "name": "Meme Forge",
-      "x": "memeforge"
-    },
-    "tagline": "On-brand memes in seconds, without the cringe.",
-    "description": "Meme Smith knows the formats and, more importantly, knows when a brand shouldn't use them. Describe the moment or the joke; it picks the format, writes the caption, and - its real trick - tells you when to walk away. A sarcasm filter tuned per audience keeps corporate accounts out of the quote-tweets.",
-    "category": "creative",
-    "instructions": "You are Meme Smith. Given a moment: propose the format, write 3 caption options (ranked), and include a 'don't post this' warning when the joke punches down or reads desperate. Know the audience: B2B ≠ fintwit ≠ developer twitter.",
-    "features": [
-      "Format picker matched to the moment",
-      "Three ranked caption options",
-      "'Don't post this' cringe warning system",
-      "Audience-tuned tone (B2B / dev / consumer)"
-    ],
-    "bestFor": [
-      "Social media managers",
-      "Founder-led accounts",
-      "Community managers"
-    ],
-    "url": "https://x.ai/bot/meme-smith",
-    "addedAt": "2026-08-13"
-  },
-  {
-    "slug": "hook-writer",
-    "name": "Hook Writer",
-    "builder": {
-      "name": "Viral Linnea",
-      "x": "virallinnea"
-    },
-    "tagline": "Fixes your first three seconds - the part that decides everything.",
-    "description": "Hook Writer takes your video script or post and rewrites only the opening: ten hook variants across proven patterns (contrarian, curiosity gap, stakes-up-front, 'I was wrong about…'), each rated for scroll-stop strength. It refuses clickbait that the content can't pay off.",
-    "category": "creative",
-    "instructions": "You are Hook Writer. Generate 10 openings across distinct patterns, rated scroll-stop /10. Enforce payoff honesty: a hook must be deliverable by the content. Ban: 'In this video', 'Let me show you', and any sentence that starts with the creator's name.",
-    "features": [
-      "Ten hook variants across ten patterns",
-      "Scroll-stop ratings out of ten",
-      "Payoff honesty check - no clickbait debt",
-      "Platform-specific rhythm (shorts vs posts)"
-    ],
-    "bestFor": [
-      "Shorts and Reels creators",
-      "YouTube intros",
-      "Post first-lines"
-    ],
-    "url": "https://x.ai/bot/hook-writer",
-    "addedAt": "2026-08-20"
-  },
-  {
-    "slug": "brand-voice-twin",
-    "name": "Brand Voice Twin",
-    "builder": {
-      "name": "CopyKat Studio",
-      "x": "copykat"
-    },
-    "tagline": "Clones your voice from your best past work.",
-    "description": "Brand Voice Twin builds a style profile from five to ten samples of your writing - rhythm, vocabulary, joke patterns, the phrases you'd never use - then drafts everything in that voice: posts, newsletters, product copy. It also writes the 'voice doc' so your whole team sounds consistent.",
-    "category": "creative",
-    "instructions": "You are Brand Voice Twin. From pasted samples: extract a voice profile (rhythm, vocabulary, signature moves, anti-patterns). Draft everything within that profile. When a request conflicts with the voice, say so and offer the closest on-voice version.",
-    "features": [
-      "Voice profile from 5-10 writing samples",
-      "Anti-pattern list - what you'd never write",
-      "Shareable voice doc for teams",
-      "On-voice alternatives when requests clash with brand"
-    ],
-    "bestFor": [
-      "Solo founders as ghostwriters",
-      "Marketing teams",
-      "Newsletter writers"
-    ],
-    "url": "https://x.ai/bot/brand-voice-twin",
-    "addedAt": "2026-08-07"
-  },
-  {
-    "slug": "meal-prep-pilot",
-    "name": "Meal Prep Pilot",
-    "builder": {
-      "name": "Kitchen Coop",
-      "x": "kitchencoop"
-    },
-    "tagline": "Weekly meal plans from what's already in your fridge.",
-    "description": "Meal Prep Pilot plans the week around what you already have: paste your pantry basics and it builds five dinners that share ingredients, generates one consolidated grocery list, and sequences Sunday prep so Wednesday's dinner starts half-made. Dietary restrictions set once apply forever.",
-    "category": "life",
-    "instructions": "You are Meal Prep Pilot. From pantry + restrictions: plan 5 dinners that share ingredients, one consolidated shopping list, and a Sunday prep sequence. Every recipe must be doable in 35 minutes on a weeknight. Explain nothing unless asked - just the plan.",
-    "features": [
-      "Pantry-first planning - shop for the gaps only",
-      "Ingredient-sharing recipes (less waste)",
-      "One consolidated grocery list",
-      "Sunday prep sequencing"
-    ],
-    "bestFor": [
-      "Busy weeknights",
-      "Reducing food waste",
-      "Cooking for picky households"
-    ],
-    "url": "https://x.ai/bot/meal-prep-pilot",
-    "addedAt": "2026-08-25"
-  },
-  {
-    "slug": "fantasy-football-advisor",
-    "name": "Fantasy Football Advisor",
-    "builder": {
-      "name": "Waiver Wire Walter",
-      "x": "waiverwirewalter"
-    },
-    "tagline": "Start/sit calls and waiver priorities you can act on before kickoff.",
-    "description": "Fantasy Football Advisor gives decisive advice: start/sit between your actual roster options, waiver-wire priorities ranked by upside, and trade fairness checks. It commits to a call and shows the reasoning - no 'it depends' cop-outs unless the honest answer is that it depends.",
-    "category": "life",
-    "instructions": "You are Waiver Wire Walter. Always commit: give the call, then the reasoning. For waiver picks, rank by season-long upside, not this week's points. For trades, judge fairness and say who wins. If genuinely 50/50, say it's a coin flip and pick one anyway.",
-    "features": [
-      "Decisive start/sit calls with reasoning",
-      "Waiver priorities ranked by season upside",
-      "Trade fairness verdicts",
-      "Injury-news interpretation in plain English"
-    ],
-    "bestFor": [
-      "League commissioners",
-      "Weekday-only managers",
-      "People tired of 'experts' hedging"
-    ],
-    "url": "https://x.ai/bot/fantasy-football-advisor",
+    "url": "https://x.ai/bot/PFD95widaEeqjkYLLUZmD",
     "addedAt": "2026-08-29",
-    "trending": true
+    "status": "published",
+    "source": "https://x.com/poteto/status/2093483181588779415"
   },
   {
-    "slug": "trip-mechanic",
-    "name": "Trip Mechanic",
+    "slug": "pr-reviewer",
+    "name": "PR Reviewer",
     "builder": {
-      "name": "Layover Larry",
-      "x": "layoverlarry"
+      "name": "mustafaergisi",
+      "x": "mustafaergisi"
     },
-    "tagline": "Rebuilds your itinerary when travel goes sideways.",
-    "description": "Trip Mechanic is for the bad travel day: canceled flight, missed connection, hotel that doesn't exist. Paste the situation and it finds alternate routings, drafts the exact script for the gate agent, lists what the airline owes you, and books nothing - because it can't - but makes every human conversation take two minutes instead of forty.",
-    "category": "life",
-    "instructions": "You are Trip Mechanic. For a broken trip: (1) list 3 recovery routings ranked by arrival time, (2) draft the gate-agent script - calm, specific, citing what you're entitled to, (3) list compensation rights by region, (4) one-line triage of what to do in the next 10 minutes.",
-    "features": [
-      "Recovery routings ranked by arrival time",
-      "Gate-agent and support-call scripts",
-      "Compensation rights by region (EU261, DOT, etc.)",
-      "Next-10-minutes triage"
-    ],
-    "bestFor": [
-      "Disrupted business trips",
-      "Budget-airline travel",
-      "Family travel with tight connections"
-    ],
-    "url": "https://x.ai/bot/trip-mechanic",
-    "addedAt": "2026-07-24"
-  },
-  {
-    "slug": "fit-coach",
-    "name": "Fit Coach",
-    "builder": {
-      "name": "Rep Counselor",
-      "x": "repcounselor"
-    },
-    "tagline": "Progressive training plans that adapt when you do.",
-    "description": "Fit Coach builds a training plan around your equipment, schedule, and honest current state, then adapts it weekly based on what you actually did - not what you said you'd do. Missed two sessions? It re-plans instead of guilt-tripping. Includes deload logic most plans skip.",
-    "category": "life",
-    "instructions": "You are Fit Coach. Onboard with: goal, equipment, days/week, and honest current capacity. Program in 4-week blocks with progression and deload. Each week, adjust from reported performance. Never add volume after a missed week - redistribute it.",
-    "features": [
-      "Equipment-aware programming (dumbbells to full gym)",
-      "Weekly adaptation from real performance",
-      "Built-in deload weeks",
-      "Travel and missed-session re-planning"
-    ],
-    "bestFor": [
-      "Home gym lifters",
-      "Beginners scared of programs",
-      "Returning after a layoff"
-    ],
-    "url": "https://x.ai/bot/fit-coach",
-    "addedAt": "2026-07-21"
-  },
-  {
-    "slug": "ai-pm-os",
-    "name": "AI PM OS",
-    "builder": {
-      "name": "Product Orbit",
-      "x": "productorbit"
-    },
-    "tagline": "A product manager operating system: PRDs, roadmaps, and status in one bot.",
-    "description": "AI PM OS handles the artifacts that eat a PM's week: it drafts one-page PRDs with the open questions surfaced, turns roadmap chaos into a timeline with explicit bets, and writes stakeholder status updates that lead with the decision needed. It asks for the data it's missing instead of inventing it.",
-    "category": "productivity",
-    "instructions": "You are AI PM OS. For PRDs: problem, users, success metric, scope cuts, open questions - one page max. For status: decision needed first, then progress, then risks. Never fabricate metrics; list what data you need to fill gaps.",
-    "features": [
-      "One-page PRD template with scope cuts",
-      "Roadmap-as-bets view with explicit tradeoffs",
-      "Decision-first status updates",
-      "Flagship feature: 'what data do you need from me'"
-    ],
-    "bestFor": [
-      "Solo PMs",
-      "PMs at startups with no templates",
-      "Anyone writing their 5th status update of the week"
-    ],
-    "url": "https://x.ai/bot/ai-pm-os",
-    "addedAt": "2026-08-30",
-    "trending": true
-  },
-  {
-    "slug": "meeting-scribe",
-    "name": "Meeting Scribe",
-    "builder": {
-      "name": "Notake Kernel",
-      "x": "notetakernel"
-    },
-    "tagline": "Turns rambling calls into decisions, owners, and a follow-up email.",
-    "description": "Meeting Scribe takes raw notes or a transcript and produces the three things a meeting should have produced: decisions made, action items with owners and dates, and open questions for next time. Then it drafts the follow-up email so the meeting actually sticks. Whole loop, under a minute.",
-    "category": "productivity",
-    "instructions": "You are Meeting Scribe. Output: (1) Decisions made, (2) Action items with owner + deadline + confidence, (3) Open questions, (4) a follow-up email under 120 words. Flag action items with no clear owner - they won't happen.",
-    "features": [
-      "Decisions / actions / questions separation",
-      "Owner + deadline + confidence per action item",
-      "Draft follow-up email included",
-      "Flags unowned action items"
-    ],
-    "bestFor": [
-      "Managers in back-to-back calls",
-      "Remote teams",
-      "Anyone with a notes.txt graveyard"
-    ],
-    "url": "https://x.ai/bot/meeting-scribe",
-    "addedAt": "2026-08-15"
-  },
-  {
-    "slug": "standup-pilot",
-    "name": "Standup Pilot",
-    "builder": {
-      "name": "Daily Scrumdog",
-      "x": "dailyscrumdog"
-    },
-    "tagline": "Writes your standup from your commits and PRs.",
-    "description": "Standup Pilot turns pasted commit titles and PR descriptions into yesterday / today / blockers in your team's style - minus the 'worked on stuff' vagueness. It learns your team's conventions (async-friendly? sprint-jargon-heavy?) and matches them, then pre-drafts the blocker follow-ups.",
-    "category": "productivity",
-    "instructions": "You are Standup Pilot. From pasted commits/PRs: write yesterday (outcomes, not activity), today (specific, checkable), blockers (with the exact help needed). Match the team's tone from examples. Blockers must name the ask: who, what, by when.",
-    "features": [
-      "Outcome-based yesterday section",
-      "Checkable today commitments",
-      "Blockers phrased as specific asks",
-      "Team-tone matching from examples"
-    ],
-    "bestFor": [
-      "Distributed teams",
-      "Developers who hate status theater",
-      "New hires learning team norms"
-    ],
-    "url": "https://x.ai/bot/standup-pilot",
-    "addedAt": "2026-08-19"
-  },
-  {
-    "slug": "test-runner-bot",
-    "name": "Test Runner Bot",
-    "builder": {
-      "name": "testbuilder",
-      "x": "testbuilder"
-    },
-    "tagline": "Reviews pasted test output and tells you which failures are real flakes.",
-    "description": "Reviews pasted test output and tells you which failures are real flakes. Open it directly from the listing with one click.",
+    "tagline": "Leads with what can break, what is untested and where the context is too thin to judge, so review starts at the scary part of the diff inste",
+    "description": "Leads with what can break, what is untested and where the context is too thin to judge, so review starts at the scary part of the diff instead of the easy part. Open it directly from the listing with one click.",
     "category": "engineering",
-    "instructions": "You are a test triage specialist. Rank failures by likelihood of being real bugs.",
+    "instructions": "You are PR Reviewer. Leads with what can break, what is untested and where the context is too thin to judge, so review starts at the scary part of the diff inste Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
     "features": [
-      "Ranked flake detection",
-      "Retry recommendations"
+      "Connects with Github",
+      "One-click open in Grok, no setup required"
     ],
     "bestFor": [
-      "CI maintainers"
+      "developer",
+      "automation",
+      "monitoring"
     ],
-    "url": "https://x.ai/bot/test-runner-xyz",
-    "addedAt": "2026-08-30",
-    "status": "published"
+    "url": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/mustafaergisi/status/2093393924870058039"
+  },
+  {
+    "slug": "projects-manager",
+    "name": "Projects Manager",
+    "builder": {
+      "name": "ericzakariasson",
+      "x": "ericzakariasson"
+    },
+    "tagline": "Spins up a coder, designer, researcher and writer as separate bots, gives each project its own Notion row and channel, and lets the speciali",
+    "description": "Spins up a coder, designer, researcher and writer as separate bots, gives each project its own Notion row and channel, and lets the specialists claim tasks off a shared board. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Projects Manager. Spins up a coder, designer, researcher and writer as separate bots, gives each project its own Notion row and channel, and lets the speciali Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Notion, Slack",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "business",
+      "ops",
+      "developer"
+    ],
+    "url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/ericzakariasson/status/2093381689041109349"
+  },
+  {
+    "slug": "research-bot",
+    "name": "Research Bot",
+    "builder": {
+      "name": "ArthurMacwaters",
+      "x": "ArthurMacwaters"
+    },
+    "tagline": "Reasons from first principles and refuses to hand back an answer with an unverified source without saying so, which is the difference betwee",
+    "description": "Reasons from first principles and refuses to hand back an answer with an unverified source without saying so, which is the difference between research and a confident paragraph. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are Research Bot. Reasons from first principles and refuses to hand back an answer with an unverified source without saying so, which is the difference betwee Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "student",
+      "business"
+    ],
+    "url": "https://x.ai/bot/Nn0ykGa3vJ6YS7ib7F6yH",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/ArthurMacwaters/status/2093412671144296661"
+  },
+  {
+    "slug": "shorty",
+    "name": "Shorty",
+    "builder": {
+      "name": "farzyness",
+      "x": "farzyness"
+    },
+    "tagline": "Starts from proven performers rather than everything you have posted, picks the strong hooks, formats 9:16 with captions, and ships in weekd",
+    "description": "Starts from proven performers rather than everything you have posted, picks the strong hooks, formats 9:16 with captions, and ships in weekday batches. Open it directly from the listing with one click.",
+    "category": "sales",
+    "instructions": "You are Shorty. Starts from proven performers rather than everything you have posted, picks the strong hooks, formats 9:16 with captions, and ships in weekd Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "creator",
+      "youtube",
+      "video"
+    ],
+    "url": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/farzyness/status/2093485851606929592"
+  },
+  {
+    "slug": "spark-onboarding",
+    "name": "Spark (Onboarding)",
+    "builder": {
+      "name": "vincentzhu",
+      "x": "vincentzhu"
+    },
+    "tagline": "Asks a short set of questions, creates the bots that match your answers, and then nudges you towards connecting the accounts that make those",
+    "description": "Asks a short set of questions, creates the bots that match your answers, and then nudges you towards connecting the accounts that make those bots actually useful. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are Spark (Onboarding). Asks a short set of questions, creates the bots that match your answers, and then nudges you towards connecting the accounts that make those Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "developer",
+      "learning"
+    ],
+    "url": "https://x.ai/bot/_2vi1lOY4oiBaJDA3S8l1",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/vincentzhu/status/2093382794630377806"
+  },
+  {
+    "slug": "storiesbot",
+    "name": "StoriesBot",
+    "builder": {
+      "name": "viticci",
+      "x": "viticci"
+    },
+    "tagline": "Longform reviews, Setups and the Shortcuts Archive, all answerable in one place.",
+    "description": "Longform reviews, Setups and the Shortcuts Archive, all answerable in one place. Another creator archive: the corpus is the publication's own writing, not a scrape of the wider web. Open it directly from the listing with one click.",
+    "category": "research",
+    "instructions": "You are StoriesBot. Longform reviews, Setups and the Shortcuts Archive, all answerable in one place. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Firecrawl",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "creator",
+      "research"
+    ],
+    "url": "https://x.ai/bot/cV7nGFO88pb2WXNN56h8A",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/viticci/status/2093420134962540763"
+  },
+  {
+    "slug": "talent-matchmaker",
+    "name": "Talent Matchmaker",
+    "builder": {
+      "name": "lennysan",
+      "x": "lennysan"
+    },
+    "tagline": "Matches job seekers with open roles from your email — scans investor updates and inbound for hiring signals and people looking, tracks both ",
+    "description": "Matches job seekers with open roles from your email — scans investor updates and inbound for hiring signals and people looking, tracks both sides of the marketplace, and suggests matches. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Talent Matchmaker. Matches job seekers with open roles from your email — scans investor updates and inbound for hiring signals and people looking, tracks both  Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "Anyone who does this task more than once a week"
+    ],
+    "url": "https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/lennysan/status/2093428147194847238?s=20"
+  },
+  {
+    "slug": "teslrbot",
+    "name": "TeslrBot",
+    "builder": {
+      "name": "HeresMyEth",
+      "x": "HeresMyEth"
+    },
+    "tagline": "Control happens through a third-party connector you log into on the bot's own machine, so the car is reachable without you copying tokens ar",
+    "description": "Control happens through a third-party connector you log into on the bot's own machine, so the car is reachable without you copying tokens around. That connector is who you are trusting, alongside the bot. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are TeslrBot. Control happens through a third-party connector you log into on the bot's own machine, so the car is reachable without you copying tokens ar Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "automation",
+      "monitoring"
+    ],
+    "url": "https://x.ai/bot/_S9OOSBgXixedyANQSYjQ",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/HeresMyEth/status/2093448648944496995"
+  },
+  {
+    "slug": "thefounder",
+    "name": "TheFounder",
+    "builder": {
+      "name": "DaniAcostaAI",
+      "x": "DaniAcostaAI"
+    },
+    "tagline": "The founder's chief of staff and keeper of the shared machine.",
+    "description": "The founder's chief of staff and keeper of the shared machine. Route work to specialists. Do their job only when no teammate owns it. Do not recap your role unless asked. Open it directly from the listing with one click.",
+    "category": "engineering",
+    "instructions": "You are TheFounder. The founder's chief of staff and keeper of the shared machine. Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "business",
+      "ops",
+      "developer"
+    ],
+    "url": "https://x.ai/bot/Bt48h63v32_q_shWVlEBb",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/DaniAcostaAI/status/2093628837867241883"
+  },
+  {
+    "slug": "tradbot",
+    "name": "Tradbot",
+    "builder": {
+      "name": "clairevo",
+      "x": "clairevo"
+    },
+    "tagline": "Despite the name it is not a trading bot: it watches your personal inbox and calendar so school items, family plans and household follow-ups",
+    "description": "Despite the name it is not a trading bot: it watches your personal inbox and calendar so school items, family plans and household follow-ups stop slipping through. Open it directly from the listing with one click.",
+    "category": "productivity",
+    "instructions": "You are Tradbot. Despite the name it is not a trading bot: it watches your personal inbox and calendar so school items, family plans and household follow-ups Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.",
+    "features": [
+      "Connects with Gmail, Google Calendar",
+      "One-click open in Grok, no setup required"
+    ],
+    "bestFor": [
+      "personal",
+      "family",
+      "email"
+    ],
+    "url": "https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9",
+    "addedAt": "2026-08-29",
+    "status": "published",
+    "source": "https://x.com/clairevo/status/2093487955205923031"
   }
 ]

@@ -55,6 +55,10 @@ To manually run validation on a candidate, simulate the workflow locally with th
 }
 ```
 
+## Sourcing real bots and use cases
+
+Follow **HERMES-SCRAPING.md** for the full data pipeline: sources, verification (every x.ai/bot link must be opened and confirmed live), JSON schema, and the PR workflow. Never list an unverified bot link.
+
 ## Common tasks (exact commands)
 
 ```bash

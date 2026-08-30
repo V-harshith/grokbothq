@@ -8,6 +8,7 @@ import { SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { HeroBot } from "@/components/hero-bot";
 import { AdSlot } from "@/components/ad-slot";
+import { UseCaseCard } from "@/components/use-case-card";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -27,8 +28,9 @@ export const metadata: Metadata = pageMetadata({
 const homeFaqs = faqs.slice(0, 8);
 
 export default function HomePage() {
-  const featured = featuredBots();
+  const featured = featuredBots().length ? featuredBots() : latestBots(4);
   const fresh = latestBots(4);
+  const useCases = latestBots(30).filter((b) => b.source).slice(0, 3);
 
   return (
     <>
@@ -82,8 +84,8 @@ export default function HomePage() {
       {/* Featured */}
       <section className="container-x py-16">
         <SectionHeader
-          title="Bots our reviewers keep coming back to"
-          description="Featured bots pass a higher bar: they survive real weekly use by the review team, not just the submission test."
+          title="Standout bots from the directory"
+          description="A rotating pick of listings from the directory - every one opened and tested before it was listed."
           link="/bots"
           linkLabel="All bots"
         />
@@ -176,6 +178,23 @@ export default function HomePage() {
           <Link href="/compare" className="text-sm text-muted hover:text-foreground hover:underline">
             all comparisons
           </Link>
+        </div>
+      </section>
+
+      {/* Use cases */}
+      <section className="border-y border-border bg-surface">
+        <div className="container-x py-16">
+          <SectionHeader
+            title="How people are using them"
+            description="Real bots paired with the X posts where their builders put them to work."
+            link="/use-cases"
+            linkLabel="All use cases"
+          />
+          <div className="grid gap-4 sm:grid-cols-3">
+            {useCases.map((bot) => (
+              <UseCaseCard key={bot.slug} bot={bot} />
+            ))}
+          </div>
         </div>
       </section>
 

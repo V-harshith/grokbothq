@@ -7,9 +7,9 @@ export type Bot = {
   description: string;
   category: string;
   /** persona/instruction excerpt shown on the detail page */
-  instructions: string;
-  features: string[];
-  bestFor: string[];
+  instructions?: string;
+  features?: string[];
+  bestFor?: string[];
   /** x.ai/bot deep link */
   url: string;
   addedAt: string;
@@ -17,6 +17,8 @@ export type Bot = {
   trending?: boolean;
   /** ISO date - featured placement auto-expires after this date */
   featuredUntil?: string;
+  /** X post where this bot was introduced or used - powers the use-cases hub */
+  source?: string;
 };
 
 export type Category = {

@@ -4,6 +4,7 @@ import { ThemeToggle } from "./theme-toggle";
 
 const nav = [
   { href: "/bots", label: "Bots" },
+  { href: "/use-cases", label: "Use cases" },
   { href: "/groups", label: "Combos" },
   { href: "/guides", label: "Guides" },
   { href: "/compare", label: "Compare" },

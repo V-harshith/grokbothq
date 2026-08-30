@@ -107,4 +107,4 @@ Static + rebuilds updates the site on every merge (usually seconds after approva
 
 **Ad slot:** one slot exists on the homepage (below the hero) and at the bottom of `/bots`. It is fully data-driven from `content/ads.json`: set `"active": true` and fill `title` / `description` / `cta` / `url` to run a sponsor; set `"active": false` to fall back to the quiet house ad that links to `/featured` (the "get featured" pipeline fills this slot with paying sponsors). The slot is always labeled. One sponsor per slot, never more.
 
-**Contact:** the footer carries `hello@grokbothq.xyz` (mailto) and the `@grokbothq` X handle; the About page has the same. To use a different X handle, change `SITE.twitter` in `src/data/site.ts` - one line, it propagates everywhere.
+**Contact:** the footer carries `hello@harshithOG.xyz` (mailto) and the `@harshithOG` X handle; the About page has the same. To use a different X handle, change `SITE.twitter` in `src/data/site.ts` - one line, it propagates everywhere.

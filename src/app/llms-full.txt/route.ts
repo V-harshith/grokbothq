@@ -105,8 +105,9 @@ function build(): string {
     lines.push("");
     lines.push(b.description);
     lines.push("");
-    lines.push(`Features: ${b.features.join("; ")}`);
-    lines.push(`Best for: ${b.bestFor.join("; ")}`);
+    if (b.features?.length) lines.push(`Features: ${b.features.join("; ")}`);
+    if (b.bestFor?.length) lines.push(`Best for: ${b.bestFor.join("; ")}`);
+    if (b.source) lines.push(`Source post: ${b.source}`);
     lines.push(`Open button URL: ${b.url}`);
     lines.push("");
   }

@@ -34,12 +34,14 @@ export function BotCard({ bot }: { bot: Bot }) {
               </Link>
               {bot.trending && <span className="badge badge-accent">Trending</span>}
             </div>
-            <p className="mt-0.5 text-xs text-muted">
-              by{" "}
-              <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
-                @{bot.builder.x}
-              </a>
-            </p>
+            {bot.builder.x && (
+              <p className="mt-0.5 text-xs text-muted">
+                by{" "}
+                <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
+                  @{bot.builder.x}
+                </a>
+              </p>
+            )}
           </div>
         </div>
         {category && (

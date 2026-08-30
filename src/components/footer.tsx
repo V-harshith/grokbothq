@@ -22,6 +22,7 @@ export function Footer() {
           <ul className="mt-3 space-y-2 text-sm text-muted">
             <li><Link href="/bots" className="hover:text-foreground">All bots</Link></li>
             <li><Link href="/new" className="hover:text-foreground">New this week</Link></li>
+            <li><Link href="/use-cases" className="hover:text-foreground">Use cases</Link></li>
             <li><Link href="/groups" className="hover:text-foreground">Bot combos</Link></li>
             <li><Link href="/submit" className="hover:text-foreground">Submit a bot</Link></li>
             <li><Link href="/featured" className="hover:text-foreground">Get featured</Link></li>

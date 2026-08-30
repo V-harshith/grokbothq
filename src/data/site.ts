@@ -7,7 +7,7 @@ export const SITE = {
   description:
     "GrokBot HQ is the independent, hand-reviewed directory of Grok bots. Browse bots by category, open any bot in Grok with one click, learn bot combos, and master Grok bot instructions with step-by-step guides.",
   locale: "en_US",
-  twitter: "@grokbothq",
+  twitter: "@harshithOG",
   email: "hello@grokbothq.xyz",
   submitEmail: "submit@grokbothq.xyz",
   founder: "The GrokBot HQ team",

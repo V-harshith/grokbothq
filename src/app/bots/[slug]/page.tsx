@@ -76,13 +76,15 @@ export default async function BotPage({ params }: Props) {
           </div>
           <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{bot.name}</h1>
         <p className="mt-2 text-lg text-muted">
-          {bot.tagline}{" "}
-          <span className="text-sm">
-            by{" "}
-            <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="text-foreground underline decoration-border underline-offset-4 hover:text-accent">
-              @{bot.builder.x}
-            </a>
-          </span>
+          {bot.tagline}
+          {bot.builder.x && (
+            <span className="text-sm">
+              {" "}by{" "}
+              <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="text-foreground underline decoration-border underline-offset-4 hover:text-accent">
+                @{bot.builder.x}
+              </a>
+            </span>
+          )}
         </p>
         <div className="mt-5 flex flex-wrap gap-3">
           <OpenButton bot={bot} />
@@ -102,38 +104,56 @@ export default async function BotPage({ params }: Props) {
         </div>
       </section>
 
-      <section className="mt-10">
-        <h2 className="text-xl font-semibold tracking-tight">Features</h2>
-        <ul className="mt-3 grid gap-2 sm:grid-cols-2">
-          {bot.features.map((f) => (
-            <li key={f} className="card flex items-start gap-2.5 p-3.5 text-sm">
-              <svg className="mt-0.5 shrink-0 text-accent" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                <path d="M20 6 9 17l-5-5" />
-              </svg>
-              {f}
-            </li>
-          ))}
-        </ul>
-      </section>
+      {bot.features && bot.features.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold tracking-tight">Features</h2>
+          <ul className="mt-3 grid gap-2 sm:grid-cols-2">
+            {bot.features.map((f) => (
+              <li key={f} className="card flex items-start gap-2.5 p-3.5 text-sm">
+                <svg className="mt-0.5 shrink-0 text-accent" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                  <path d="M20 6 9 17l-5-5" />
+                </svg>
+                {f}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
 
-      <section className="mt-10">
-        <h2 className="text-xl font-semibold tracking-tight">Instructions</h2>
-        <p className="mt-2 text-sm text-muted">
-          The core of the bot&apos;s persona, shared by the builder - this is exactly how it works under the hood.
-        </p>
-        <pre className="mt-3 overflow-x-auto rounded-xl border border-border p-5 text-[13px] leading-relaxed" style={{ background: "var(--code-bg)", color: "var(--code-fg)" }}>
-          <code>{bot.instructions}</code>
-        </pre>
-      </section>
+      {bot.instructions && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold tracking-tight">Instructions</h2>
+          <p className="mt-2 text-sm text-muted">
+            The core of the bot&apos;s persona, shared by the builder - this is exactly how it works under the hood.
+          </p>
+          <pre className="mt-3 overflow-x-auto rounded-xl border border-border p-5 text-[13px] leading-relaxed" style={{ background: "var(--code-bg)", color: "var(--code-fg)" }}>
+            <code>{bot.instructions}</code>
+          </pre>
+        </section>
+      )}
 
-      <section className="mt-10">
-        <h2 className="text-xl font-semibold tracking-tight">You&apos;ll like this if you&apos;re…</h2>
-        <div className="mt-3 flex flex-wrap gap-2">
-          {bot.bestFor.map((b) => (
-            <span key={b} className="badge !normal-case">{b}</span>
-          ))}
-        </div>
-      </section>
+      {bot.source && (
+        <section className="card mt-10 flex flex-wrap items-center justify-between gap-3 border-accent/40 p-5">
+          <div>
+            <p className="kicker !text-xs">Seen in the wild</p>
+            <p className="mt-1 text-sm text-muted">The X post where this bot was introduced or put to work.</p>
+          </div>
+          <a href={bot.source} target="_blank" rel="noopener noreferrer" className="btn btn-ghost shrink-0">
+            View the post on X
+          </a>
+        </section>
+      )}
+
+      {bot.bestFor && bot.bestFor.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold tracking-tight">You&apos;ll like this if you&apos;re…</h2>
+          <div className="mt-3 flex flex-wrap gap-2">
+            {bot.bestFor.map((b) => (
+              <span key={b} className="badge !normal-case">{b}</span>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="card mt-10 p-6">
         <h2 className="text-lg font-semibold">How to open {bot.name}</h2>
