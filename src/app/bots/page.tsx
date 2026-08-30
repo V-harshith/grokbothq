@@ -18,13 +18,17 @@ export default function BotsPage() {
     <div className="container-x py-12">
       <JsonLd data={[botListJsonLd(bots, "/bots"), breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Bots", path: "/bots" }]), collectionPageJsonLd("All Grok bots", "The hand-reviewed directory of Grok bots", "/bots")]} />
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "Bots" }]} />
-      <SectionHeader
-        kicker="Directory"
-        title="Every Grok bot, reviewed by hand"
-        description="Every listing below was opened, tested against real prompts, and checked against its description. Use the tabs to filter by category or search to find a specific job."
-      />
+      <div className="flex flex-col gap-8 lg:flex-row lg:items-start lg:justify-between">
+        <SectionHeader
+          kicker="Directory"
+          title="Every Grok bot, reviewed by hand"
+          description="Every listing below was opened, tested against real prompts, and checked against its description. Use the tabs to filter by category or search to find a specific job."
+        />
+        <div className="shrink-0 lg:pt-1">
+          <AdSlot />
+        </div>
+      </div>
       <BotsBrowser bots={bots} />
-      <AdSlot />
     </div>
   );
 }

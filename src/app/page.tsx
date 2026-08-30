@@ -77,8 +77,8 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Ad slot (sponsor card, or the quiet Get-featured house ad) */}
-      <div className="pt-8">
+      {/* Ad unit (Carbon-style: compact, near the top) */}
+      <div className="container-x flex justify-center pt-8">
         <AdSlot />
       </div>
 

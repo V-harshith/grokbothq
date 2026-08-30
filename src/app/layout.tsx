@@ -70,6 +70,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="en" data-scroll-behavior="smooth" className={`${geistSans.variable} ${geistMono.variable} dark h-full antialiased`}>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+        <noscript><style>{`[data-reveal]{opacity:1 !important;transform:none !important}`}</style></noscript>
       </head>
       <body className="flex min-h-full flex-col">
         {umamiUrl && umamiId && (

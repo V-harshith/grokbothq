@@ -26,7 +26,9 @@ export function ScrollReveal() {
           }
         }
       },
-      { threshold: 0.12 }
+      // threshold 0 + negative bottom margin: any pixel entering the viewport
+      // (minus a 10% strip) reveals - tall sections can never get stuck hidden
+      { threshold: 0, rootMargin: "0px 0px -10% 0px" }
     );
     els.forEach((el) => io.observe(el));
     return () => io.disconnect();

@@ -10,7 +10,7 @@ import { SITE } from "@/data/site";
  */
 export function NewsletterForm() {
   const [email, setEmail] = useState("");
-  const [done, setDone] = useState(false);
+  const [done, setDone] = useState<"idle" | "sent" | "check-app">("idle");
   const endpoint = process.env.NEXT_PUBLIC_NEWSLETTER_ENDPOINT;
 
   async function submit(e: React.FormEvent) {
@@ -25,17 +25,19 @@ export function NewsletterForm() {
       } catch {
         /* the success state below is optimistic either way */
       }
-      setDone(true);
+      setDone("sent");
     } else {
       window.location.href = `mailto:${SITE.email}?subject=${encodeURIComponent("Newsletter signup")}&body=${encodeURIComponent(email)}`;
-      setDone(true);
+      setDone("check-app");
     }
   }
 
-  if (done) {
+  if (done !== "idle") {
     return (
       <p className="text-sm leading-relaxed text-muted" role="status">
-        You&apos;re on the list. One email a week, unsubscribe anytime.
+        {done === "sent"
+          ? "You're on the list. One email a week, unsubscribe anytime."
+          : "Opening your email app to finish the signup. One email a week, no spam."}
       </p>
     );
   }
