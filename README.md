@@ -49,7 +49,7 @@ By default each submission opens a **pull request** - merge it with one click an
 | `src/app/` | Routes: `/`, `/bots` + detail + 8 category pages, `/groups` (6 combos), `/guides` (8), `/compare` (4), `/new`, `/faq`, `/submit`, `/featured`, `/about` |
 | `src/lib/seo.ts` | Metadata factory + JSON-LD builders (WebSite, Organization, FAQPage, HowTo, Article, ItemList, SoftwareApplication, BreadcrumbList) |
 | `.github/workflows/process-submission.yml` | Issue → validate → PR → optional auto-merge |
-| `.github/workflows/weekly-ops.yml` | Featured expiry commit, IndexNow ping, build check (Mondays 04:00 UTC) |
+| `.github/workflows/daily-ops.yml` | Featured expiry, Umami metrics pull, IndexNow ping, build check (daily 04:00 UTC) |
 | `.github/workflows/ci.yml` | Every PR (incl. automated ones) must build cleanly |
 | `scripts/*.mjs` | CI helpers: `parse-submission`, `expire-featured`, `ping-indexnow` |
 
