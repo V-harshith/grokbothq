@@ -10,7 +10,7 @@ export function ComboCard({ combo }: { combo: Combo }) {
       <div className="flex items-center gap-3">
         <div className="flex -space-x-2.5" aria-hidden>
           {bots.map((b) => (
-            <div key={b.slug} className="rounded-lg bg-surface p-0.5 ring-1 ring-border">
+            <div key={b.slug} className="rounded-full bg-surface p-0.5 ring-1 ring-border">
               <BotFace slug={b.slug} name={b.name} size={30} />
             </div>
           ))}

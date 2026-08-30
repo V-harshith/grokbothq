@@ -4,5 +4,13 @@
   "title": "",
   "description": "",
   "cta": "Learn more",
-  "url": ""
+  "url": "",
+  "rails": [
+    {
+      "title": "Your product here",
+      "description": "Reach builders picking their next Grok bot.",
+      "cta": "Get featured",
+      "url": "/featured"
+    }
+  ]
 }

@@ -11,8 +11,7 @@ import { AdSlotCard } from "@/components/ad-slot";
 import { UseCaseCard } from "@/components/use-case-card";
 import { NewsletterForm } from "@/components/newsletter-form";
 import { news } from "@/lib/news";
-import { BotRoulette } from "@/components/bot-roulette";
-import { bots as allBots } from "@/data/bots";
+import { CopyAgentPrompt } from "@/components/copy-agent-prompt";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -35,7 +34,6 @@ export default function HomePage() {
   const featured = (featuredBots().length ? featuredBots() : latestBots(3)).slice(0, 3);
   const fresh = latestBots(4);
   const useCases = latestBots(30).filter((b) => b.source).slice(0, 3);
-  const rouletteBots = allBots.map((b) => ({ slug: b.slug, name: b.name, tagline: b.tagline, category: b.category, url: b.url }));
 
   return (
     <>
@@ -59,7 +57,7 @@ export default function HomePage() {
             <Link href="/guides/what-are-grok-bots" className="btn btn-ghost !px-6 !py-3 !text-base">
               New to Grok bots?
             </Link>
-            <BotRoulette bots={rouletteBots} />
+            <CopyAgentPrompt />
           </div>
         </div>
       </section>

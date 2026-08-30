@@ -5,6 +5,8 @@ import "./globals.css";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { ScrollReveal } from "@/components/scroll-reveal";
+import { SponsorRail } from "@/components/sponsor-rail";
+import { AgentNudge } from "@/components/agent-nudge";
 import { JsonLd } from "@/components/json-ld";
 import { SITE } from "@/data/site";
 import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
@@ -79,6 +81,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <JsonLd data={[websiteJsonLd(), organizationJsonLd()]} />
         <ScrollReveal />
         <Header />
+        <SponsorRail />
+        <AgentNudge />
         <main className="flex-1">{children}</main>
         <Footer />
       </body>
