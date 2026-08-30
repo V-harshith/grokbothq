@@ -48,6 +48,16 @@ export default function AboutPage() {
           is where we’ll say so.
         </p>
 
+        <h2 className="mt-8 text-xl font-semibold tracking-tight">Where the data comes from</h2>
+        <p className="text-[15px] leading-relaxed text-muted">
+          Listings are aggregated from public listings across the Grok ecosystem, including{" "}
+          <a href="https://grokbots.best" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">grokbots.best</a> and{" "}
+          <a href="https://www.grokbots.page" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">grokbots.page</a>,
+          plus builders’ own posts on X. Every entry links back to the bot and its builder. We play by the same rule we
+          ask of everyone else: our content is CC BY 4.0 - take it freely, credit the source. Facts belong to no one;
+          credit costs nothing.
+        </p>
+
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Trademarks and affiliation</h2>
         <p className="text-[15px] leading-relaxed text-muted">{DISCLAIMER}</p>
 

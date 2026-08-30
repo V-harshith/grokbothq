@@ -29,6 +29,12 @@ export default function BotsPage() {
         </div>
       </div>
       <BotsBrowser bots={bots} />
+      <p className="mt-8 text-xs text-muted">
+        Listings aggregated from public ecosystem directories including{" "}
+        <a href="https://grokbots.best" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-foreground">grokbots.best</a> and{" "}
+        <a href="https://www.grokbots.page" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-foreground">grokbots.page</a>.
+        Every entry links back to its bot and builder.
+      </p>
     </div>
   );
 }
