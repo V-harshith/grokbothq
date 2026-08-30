@@ -19,6 +19,15 @@ Because attribution converts copying into a backlink. If you clone this director
 requires you to credit it — which sends your readers to the source that stays current. We update
 weekly; a copy starts aging the day it's made. The fair trade is: take the data, send us the credit.
 
+## Provenance note
+
+Directory entries aggregate **factual data** (bot names, x.ai links, builder handles, install
+counts) that originates from the builders themselves and is published openly across the
+ecosystem. Facts are not owned by anyone, including us. Short factual one-liners describing
+what a bot does carry no more protection here than anywhere else. What this license actually
+covers is our **original editorial work**: the guides, comparisons, combo workflows, news
+summaries, FAQs, and everything else written by hand for this site.
+
 ## What this does NOT cover
 
 - The source code (see `LICENSE` — separate, restrictive terms).

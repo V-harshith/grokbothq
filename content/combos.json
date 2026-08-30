@@ -4,7 +4,7 @@
     "name": "Ship Desk",
     "emoji": "🚢",
     "tagline": "Build it, review it, loop it - an engineering pipeline from real bots.",
-    "description": "The overnight engineering loop, built from three bots that are live in the directory right now. Apps scaffolds a one-shot web app, PR Reviewer tears into the diff before a human ever sees it, and Loops keeps running the outer build-fix cycle until things pass.",
+    "description": "The overnight engineering loop, built from three bots that are live in the directory right now - and the hand-off rule is the whole trick. Apps scaffolds a one-shot web app, PR Reviewer tears into the diff before a human ever sees it, and Loops keeps running the outer build-fix cycle until things pass.",
     "botSlugs": ["apps", "pr-reviewer", "loops"],
     "steps": [
       { "name": "Build", "text": "Hand Apps the product idea - it returns a working one-shot Convex web app to start from." },
