@@ -20,21 +20,21 @@ export function BotFace({ slug, name, size = 40 }: { slug: string; name: string;
     <svg width={size} height={size} viewBox="0 0 40 40" className="block shrink-0" role="img" aria-label={`${name} bot face`}>
       <defs>
         <linearGradient id={`${gid}-fill`} x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stopColor={`hsl(${hue} 72% 58%)`} />
-          <stop offset="100%" stopColor={`hsl(${(hue + 40) % 360} 78% 34%)`} />
+          <stop offset="0%" stopColor={`hsl(${hue} 45% 46%)`} />
+          <stop offset="100%" stopColor={`hsl(${(hue + 40) % 360} 50% 24%)`} />
         </linearGradient>
         <radialGradient id={`${gid}-shine`} cx="0.28" cy="0.14" r="0.9">
-          <stop offset="0%" stopColor="#fff" stopOpacity="0.5" />
-          <stop offset="42%" stopColor="#fff" stopOpacity="0.08" />
+          <stop offset="0%" stopColor="#fff" stopOpacity="0.4" />
+          <stop offset="42%" stopColor="#fff" stopOpacity="0.06" />
           <stop offset="55%" stopColor="#fff" stopOpacity="0" />
         </radialGradient>
       </defs>
-      <rect x="4" y="6" width="32" height="28" rx="9" fill={`hsl(${hue} 30% 12%)`} />
-      <rect x="4" y="6" width="32" height="28" rx="9" fill={`url(#${gid}-fill)`} opacity="0.92" />
+      <rect x="4" y="6" width="32" height="28" rx="9" fill={`hsl(${hue} 22% 13%)`} />
+      <rect x="4" y="6" width="32" height="28" rx="9" fill={`url(#${gid}-fill)`} opacity="0.9" />
       <rect width="40" height="40" fill={`url(#${gid}-shine)`} />
       <g>
-        <rect className="bot-eye" style={{ "--bd": dur, "--bdel": del } as React.CSSProperties} x="12.4" y="14.6" width="4.2" height="10.8" rx="2.1" fill="#fff" />
-        <rect className="bot-eye" style={{ "--bd": dur, "--bdel": del } as React.CSSProperties} x="23.4" y="14.6" width="4.2" height="10.8" rx="2.1" fill="#fff" />
+        <rect className="bot-eye" style={{ "--bd": dur, "--bdel": del } as React.CSSProperties} x="12" y="13.6" width="5.2" height="12.8" rx="2.6" fill="#fff" />
+        <rect className="bot-eye" style={{ "--bd": dur, "--bdel": del } as React.CSSProperties} x="22.8" y="13.6" width="5.2" height="12.8" rx="2.6" fill="#fff" />
       </g>
     </svg>
   );

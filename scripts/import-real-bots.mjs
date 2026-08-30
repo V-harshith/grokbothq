@@ -104,18 +104,22 @@ function toBot(r) {
   const features = [];
   if (integrationNames.length) features.push(`Connects with ${integrationNames.join(", ")}`);
   if (r.prompt) features.push("Ships with a ready-to-run prompt template");
-  features.push("One-click open in Grok, no setup required");
 
+  const tagList = (r.tags ?? []).slice(0, 3);
+
+  // Only ship real data. No synthesized instructions, no filler features,
+  // no boilerplate sentences - a short honest listing beats a padded one,
+  // and the detail page hides empty sections automatically.
   return {
     slug: r.slug,
     name: r.name,
     builder: { name: handle, x: handle },
     tagline,
-    description: desc + (desc.endsWith(".") ? "" : ".") + " Open it directly from the listing with one click.",
+    description: desc.endsWith(".") ? desc : desc + ".",
     category: categorize(r),
-    instructions: `You are ${r.name}. ${tagline} Follow the user's input faithfully, keep outputs structured, and never request credentials or private data.`,
-    features,
-    bestFor: (r.tags ?? []).slice(0, 3).length ? (r.tags ?? []).slice(0, 3) : ["Anyone who does this task more than once a week"],
+    ...(r.prompt ? { instructions: String(r.prompt).slice(0, 1200) } : {}),
+    ...(features.length ? { features } : {}),
+    ...(tagList.length ? { bestFor: tagList } : {}),
     ...(typeof r.install_count === "number" && r.install_count > 0 ? { installs: r.install_count } : {}),
     url: r.link,
     addedAt: String(r.created_at ?? "").slice(0, 10) || new Date().toISOString().slice(0, 10),

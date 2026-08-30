@@ -11,7 +11,7 @@ export function UseCaseCard({ bot }: { bot: Bot }) {
       <div className="flex items-start gap-3">
         <BotFace slug={bot.slug} name={bot.name} />
         <div className="min-w-0">
-          <Link href={`/bots/${bot.slug}`} className="truncate font-semibold hover:text-accent">
+          <Link href={`/bots/${bot.slug}`} className="font-semibold leading-snug hover:text-accent">
             {bot.name}
           </Link>
           {category && <p className="text-xs text-muted">{category.name}</p>}

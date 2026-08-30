@@ -16,10 +16,10 @@ export function ComboCard({ combo }: { combo: Combo }) {
           ))}
         </div>
         <div className="min-w-0">
-          <Link href={`/groups/${combo.slug}`} className="block truncate font-semibold hover:text-accent">
+          <Link href={`/groups/${combo.slug}`} className="block font-semibold leading-snug hover:text-accent">
             {combo.name}
           </Link>
-          <p className="truncate text-xs text-muted">
+          <p className="text-xs leading-snug text-muted">
             {bots.map((b) => b.name).join(" + ")}
           </p>
         </div>

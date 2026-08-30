@@ -166,7 +166,7 @@ export default async function BotPage({ params }: Props) {
             <div className="flex items-center gap-3">
               <BotFace slug={bot.slug} name={bot.name} size={48} />
               <div className="min-w-0">
-                <p className="truncate font-semibold">{bot.name}</p>
+                <p className="font-semibold leading-snug">{bot.name}</p>
                 <p className="text-xs text-muted">{category?.name ?? "Grok bot"}</p>
               </div>
             </div>
