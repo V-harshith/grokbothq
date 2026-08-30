@@ -1,0 +1,97 @@
+name: Process bot submission
+# New bot-submission issue → validated → appended to content → pull request
+# (auto-merged when the AUTO_MERGE repo variable is set to "true").
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+concurrency:
+  group: process-submission
+  cancel-in-progress: false
+
+jobs:
+  process:
+    if: contains(github.event.issue.labels.*.name, 'bot-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Create submission branch
+        run: |
+          git config user.name "grokbot-hub-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git checkout -b submission/issue-${{ github.event.issue.number }}
+          git push origin submission/issue-${{ github.event.issue.number }}
+
+      - name: Validate & append submission
+        id: parse
+        continue-on-error: true
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: node scripts/parse-submission.mjs
+
+      - name: Commit and open pull request
+        if: steps.parse.outputs.valid == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BOT_NAME: ${{ steps.parse.outputs.name }}
+          BOT_SLUG: ${{ steps.parse.outputs.slug }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "grokbot-hub-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/bots.json
+          git commit -m "bot: add ${BOT_NAME} (from #${ISSUE_NUMBER})"
+          git push origin submission/issue-${ISSUE_NUMBER}
+          gh pr create \
+            --base main \
+            --head submission/issue-${ISSUE_NUMBER} \
+            --title "Bot submission: ${BOT_NAME} (#${ISSUE_NUMBER})" \
+            --body "Automated listing from issue #${ISSUE_NUMBER}. Slug: \`${BOT_SLUG}\`.
+
+          Review checklist (30 seconds):
+          - [ ] Open the bot link and confirm it loads
+          - [ ] Pitch matches the bot's actual behavior
+          - [ ] Nothing that impersonates people or asks for credentials
+
+          Closes #${ISSUE_NUMBER}. Merging publishes it to the site automatically."
+
+      - name: Auto-merge (only when AUTO_MERGE repo variable is true)
+        if: steps.parse.outputs.valid == 'true' && vars.AUTO_MERGE == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh pr merge submission/issue-${ISSUE_NUMBER} --squash --delete-branch
+
+      - name: Close issue — approved
+        if: steps.parse.outputs.valid == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          BOT_NAME: ${{ steps.parse.outputs.name }}
+          BOT_SLUG: ${{ steps.parse.outputs.slug }}
+        run: |
+          gh issue close ${ISSUE_NUMBER} --comment "✅ **${BOT_NAME}** passed validation and is queued for review (\`${BOT_SLUG}\`).
+          When its pull request merges, it goes live on the directory automatically."
+
+      - name: Close issue — rejected
+        if: steps.parse.outputs.valid != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          REASON="${{ steps.parse.outputs.reason }}"
+          gh issue close ${ISSUE_NUMBER} --comment "❌ Not accepted: ${REASON:-the submission could not be processed (unexpected error)}
+
+          Fix the issue above and submit again — resubmissions are welcome."

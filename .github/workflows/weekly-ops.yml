@@ -1,0 +1,48 @@
+name: Weekly ops
+# Mondays: expire finished featured slots (auto-deploy if changed) and ping IndexNow.
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ops:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Expire finished featured placements
+        run: node scripts/expire-featured.mjs
+
+      - name: Commit expirations (triggers deploy)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet content/bots.json; then
+            echo "Nothing to expire."
+          else
+            git config user.name "grokbot-hub-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add content/bots.json
+            git commit -m "ops: expire finished featured placements"
+            git push
+          fi
+
+      - name: Ping IndexNow with updated URLs
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: node scripts/ping-indexnow.mjs
+
+      - name: Build health check
+        run: |
+          npm ci
+          npm run build

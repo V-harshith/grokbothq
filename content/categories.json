@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "assistants",
+    "name": "Assistants",
+    "short": "Chief-of-staff style bots that run your day",
+    "intro": "Assistant Grok bots act like a chief of staff for your workday: they triage your inbox, plan your calendar, draft replies, and keep a running list of what actually matters. If you only open one bot this week, make it one of these — they compound every single day you use them.",
+    "faqs": [
+      {
+        "q": "What can an assistant Grok bot do for me?",
+        "a": "Assistant bots handle daily coordination work: sorting email by priority, building your morning plan, drafting replies in your voice, and keeping a persistent priorities list you can review each day."
+      },
+      {
+        "q": "Are assistant bots safe to connect to my inbox?",
+        "a": "Grok bots only see what you paste or share with them. Start by pasting inbox summaries rather than connecting anything, and never share passwords or one-time codes with any bot."
+      }
+    ]
+  },
+  {
+    "slug": "engineering",
+    "name": "Engineering",
+    "short": "Coding agents, reviewers, and vibecoding wizards",
+    "intro": "Engineering bots turn Grok into a coding teammate: overnight agent loops that keep building while you sleep, PR reviewers that catch what humans miss, and scaffolding wizards that take you from one-line idea to running app. These are the bots developers keep pinned.",
+    "faqs": [
+      {
+        "q": "Can Grok bots write production code?",
+        "a": "They write real code you can paste into a repo, but treat them like a junior engineer: review every diff, run your tests, and use reviewer bots like PR Desk as a second pair of eyes before merging."
+      },
+      {
+        "q": "What is an agent loop bot?",
+        "a": "An agent-loop bot re-prompts itself through build, test, and fix cycles. You describe the goal once; the bot plans iterations, checks its own output, and reports what changed after each loop."
+      }
+    ]
+  },
+  {
+    "slug": "research",
+    "name": "Research",
+    "short": "Deep dives, paper explainers, and market scouts",
+    "intro": "Research bots do the reading so you don't have to: multi-source briefs with citations, plain-English paper explainers, and trend scouts that surface whitespace before it's obvious. Great for analysts, founders, students, and anyone who makes decisions for a living.",
+    "faqs": [
+      {
+        "q": "Do research bots cite their sources?",
+        "a": "The bots listed in Research are chosen because they show their work — they link the sources behind each claim. Always click through before you repeat a number in a deck or article."
+      },
+      {
+        "q": "What's the difference between Deep Research Intern and Paper Explainer?",
+        "a": "Deep Research Intern answers open-ended questions across many sources; Paper Explainer takes one paper or document and translates it into plain English with the math intact."
+      }
+    ]
+  },
+  {
+    "slug": "money",
+    "name": "Money",
+    "short": "Refunds, invoices, subscriptions, and award travel",
+    "intro": "Money bots find cash you're leaving on the table: refunds and rebates hiding in your purchase history, overdue invoices your clients forgot, subscriptions you stopped using, and award-flight redemptions that would take hours to price by hand.",
+    "faqs": [
+      {
+        "q": "Can a Grok bot actually get me money back?",
+        "a": "Bots like Bounty Hunter and Invoice Hunter draft the emails and walk you through the claims — you send them and receive the money. The bot does the research and writing; you do the sending."
+      },
+      {
+        "q": "Is it safe to paste financial statements into a bot?",
+        "a": "Redact account numbers before pasting anything. Bots only need amounts, dates, and merchant names to find savings — never share full card numbers, logins, or codes."
+      }
+    ]
+  },
+  {
+    "slug": "sales",
+    "name": "Sales",
+    "short": "Prospecting, cold email, and deal reviews",
+    "intro": "Sales bots compress the top of your funnel: prospect lists matched to your ICP, cold emails that sound like a human wrote them, and structured MEDDPICC reviews that tell you which deals are real. Built for founders doing sales and AE teams that hate admin.",
+    "faqs": [
+      {
+        "q": "Will a bot write cold email that doesn't sound like AI?",
+        "a": "The bots in this category are tuned for short, specific, boring-in-a-good-way emails: one observation, one relevant proof point, one ask. Paste your last ten wins and they'll match your voice."
+      },
+      {
+        "q": "What is a MEDDPICC deal review bot?",
+        "a": "It interviews you about a deal using the MEDDPICC framework — metrics, economic buyer, decision criteria and process, paper process, pain, champion, competition — then flags the weakest section."
+      }
+    ]
+  },
+  {
+    "slug": "creative",
+    "name": "Creative",
+    "short": "Memes, hooks, and voice cloning for creators",
+    "intro": "Creative bots are built for people who publish: hook writers that fix your first three seconds, meme generators that stay on brand, and voice twins trained on your past work so everything you ship sounds like you on your best day.",
+    "faqs": [
+      {
+        "q": "Can a bot copy my writing voice?",
+        "a": "Yes — paste five to ten examples of your best posts and Brand Voice Twin builds a style profile: rhythm, vocabulary, joke patterns, and the phrases you'd never use. Every draft after that comes out in your voice."
+      },
+      {
+        "q": "Are memes made with bots usable commercially?",
+        "a": "Check the image rights of any template you use and avoid real people's likenesses. Text-only meme formats you assemble yourself are generally fine for social posts."
+      }
+    ]
+  },
+  {
+    "slug": "life",
+    "name": "Life",
+    "short": "Meals, fitness, travel, and fantasy football",
+    "intro": "Life bots take the admin out of your free time: weekly meal plans built from what's already in your fridge, training plans that progress when you do, itinerary triage when travel goes sideways, and fantasy football advice you can act on before kickoff.",
+    "faqs": [
+      {
+        "q": "Do meal-planning bots account for allergies?",
+        "a": "Tell the bot your restrictions once — gluten-free, vegetarian, nut allergies — and it carries them through every plan. Always double-check ingredient labels for cross-contamination warnings."
+      },
+      {
+        "q": "Can a bot rebook my flight when things go wrong?",
+        "a": "No bot can rebook for you, but Trip Mechanic finds the alternate routes, draft scripts for the gate agent, and tells you your rights — cutting a 40-minute counter conversation to two."
+      }
+    ]
+  },
+  {
+    "slug": "productivity",
+    "name": "Productivity",
+    "short": "Meeting notes, standups, and PM operating systems",
+    "intro": "Productivity bots convert meeting chaos into structure: scribes that turn rambling calls into decisions and action items, standup writers that pull from your commits, and a full PM operating system for PRDs, roadmaps, and status updates.",
+    "faqs": [
+      {
+        "q": "How do meeting scribe bots work?",
+        "a": "Paste your raw notes or a transcript; the bot separates decisions from discussion, assigns owners to action items, and drafts the follow-up email. The whole loop takes under a minute."
+      },
+      {
+        "q": "Can standup bots pull from my actual commits?",
+        "a": "They can't access GitHub directly — paste your recent commit titles and PR descriptions, and Standup Pilot formats them into yesterday/today/blockers in your team's style."
+      }
+    ]
+  }
+]

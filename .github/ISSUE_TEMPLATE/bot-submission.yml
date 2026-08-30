@@ -1,0 +1,69 @@
+name: Bot submission
+description: Submit your Grok bot to GrokBot Hub — free, reviewed within 48 hours
+title: "Bot submission: [name]"
+labels: ["bot-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for building on Grok! Fill this in — every field matters for review.
+        We open every bot and test it against real prompts before it goes live (~48 hours).
+  - type: input
+    id: name
+    attributes:
+      label: Bot name
+      description: The exact name as it appears on x.ai/bot
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: x.ai/bot link
+      description: "Must start with https://x.ai/bot/"
+      placeholder: "https://x.ai/bot/your-bot"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - assistants
+        - engineering
+        - research
+        - money
+        - sales
+        - creative
+        - life
+        - productivity
+    validations:
+      required: true
+  - type: input
+    id: pitch
+    attributes:
+      label: One-sentence pitch
+      description: What does it do, and who will love it?
+    validations:
+      required: true
+  - type: input
+    id: x_handle
+    attributes:
+      label: Your X handle
+      description: "Without the @ — you'll be credited as the builder"
+    validations:
+      required: true
+  - type: textarea
+    id: instructions
+    attributes:
+      label: Core instructions (optional)
+      description: The persona/rules that power the bot. Publishing these builds trust and speeds up review.
+  - type: textarea
+    id: features
+    attributes:
+      label: Features (optional)
+      description: One per line
+  - type: textarea
+    id: best_for
+    attributes:
+      label: Best for (optional)
+      description: One per line — "you'll love this if…"

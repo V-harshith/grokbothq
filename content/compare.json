@@ -1,0 +1,310 @@
+[
+  {
+    "slug": "grok-bots-vs-custom-gpts",
+    "title": "Grok Bots vs Custom GPTs: Which Should You Build On?",
+    "seoTitle": "Grok Bots vs Custom GPTs (2026): Full Comparison",
+    "description": "Grok bots and Custom GPTs are the same idea on different platforms. Compare creation speed, distribution, real-time context, and cost — with a clear verdict.",
+    "other": "Custom GPTs (OpenAI)",
+    "updatedAt": "2026-08-27",
+    "verdict": {
+      "summary": "Same concept, different physics. Grok bots win on speed of creation, frictionless link-based distribution, and X's real-time firehose. Custom GPTs win on ecosystem maturity, multimodal tooling, and enterprise familiarity. If you're starting in 2026, Grok bots are the faster feedback loop.",
+      "chooseGrokBots": [
+        "You want one-click link distribution — no store browsing required",
+        "Your bot benefits from real-time X context (news, trends, communities)",
+        "You're a solo builder who ships fast and iterates weekly",
+        "Your audience already lives on X"
+      ],
+      "chooseOther": [
+        "You need deep multimodal behaviors (files, vision pipelines, actions)",
+        "Your company already standardizes on ChatGPT Enterprise",
+        "You want the maturest marketplace and analytics",
+        "Your users are paying ChatGPT subscribers, not X users"
+      ]
+    },
+    "rows": [
+      {
+        "aspect": "How users open it",
+        "grok": "One click on an x.ai/bot link from anywhere",
+        "other": "Via GPT Store search or a chatgpt.com link"
+      },
+      {
+        "aspect": "Creation speed",
+        "grok": "Minutes — instructions in plain English, publish immediately",
+        "other": "Longer — builder, capabilities, knowledge files, review queue"
+      },
+      {
+        "aspect": "Real-time context",
+        "grok": "Native X integration; strong on live trends and posts",
+        "other": "Browsing available, but no social-firehose equivalent"
+      },
+      {
+        "aspect": "Discovery model",
+        "grok": "Links spread through X, directories, DMs",
+        "other": "Store listings + external links"
+      },
+      {
+        "aspect": "Monetization today",
+        "grok": "Indirect: lead generation, portfolio, featured slots",
+        "other": "Store revenue share for top GPTs (US)"
+      },
+      {
+        "aspect": "Ecosystem maturity",
+        "grok": "Newer, smaller, faster-moving",
+        "other": "Larger catalog, more enterprise trust"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The honest overlap",
+        "body": [
+          "Both are 'saved instructions with a link'. If your bot is a static persona — a writing assistant, a tutor — you'll feel no functional difference day to day. The choice is really about distribution and context: where do your users already hang out, and does your bot need to know what's happening right now?"
+        ]
+      },
+      {
+        "heading": "Where Grok bots pull ahead",
+        "body": [
+          "Distribution is the big one. An x.ai/bot link is just a link — it travels through replies, DMs, and directories without a store as gatekeeper. Creation speed compounds this: you can publish v1 in a morning and a better v2 the same week. For X-native audiences, the real-time awareness is a genuine superpower no other platform replicates as cleanly."
+        ]
+      },
+      {
+        "heading": "Where Custom GPTs still win",
+        "body": [
+          "If your users are enterprise ChatGPT shops, meet them where they are. Custom GPTs also have deeper multimodal tooling — document-grounded behaviors and action schemas are more mature — and the store's revenue share gives top creators real income. It's the safer platform; Grok is the faster one."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can I publish the same bot on both platforms?",
+        "a": "Yes, and many builders do — write the instructions once and adapt them per platform's quirks. Just remember each platform's audience differs: X users tolerate more edge, enterprise users expect more polish."
+      },
+      {
+        "q": "Are Grok bots cheaper than Custom GPTs?",
+        "a": "For builders, both are free to create. For users, access depends on each platform's subscription tiers — check xAI's and OpenAI's current plans."
+      }
+    ]
+  },
+  {
+    "slug": "grok-bots-vs-claude-skills",
+    "title": "Grok Bots vs Claude Skills: Different Tools for Different Jobs",
+    "seoTitle": "Grok Bots vs Claude Skills: Comparison & Verdict",
+    "description": "Claude's skill system targets depth and professional work; Grok bots target distribution and speed. Here's how to choose — and how to use both.",
+    "other": "Claude Skills (Anthropic)",
+    "updatedAt": "2026-08-25",
+    "verdict": {
+      "summary": "These overlap less than you'd think. Claude skills shine for document-heavy professional work — writing systems, analysis pipelines, code review inside Claude's interface. Grok bots shine for consumer-shaped, link-distributed micro-tools. Power users run both and route tasks accordingly.",
+      "chooseGrokBots": [
+        "You want to share a tool with a link anyone can open",
+        "Your bot is consumer-shaped: meals, fantasy football, memes",
+        "You want X real-time context",
+        "You optimize for speed of iteration"
+      ],
+      "chooseOther": [
+        "Your workflow is document-heavy and professional (reports, contracts, codebases)",
+        "You live inside Claude already and want agent-team behaviors",
+        "You need long, careful reasoning over large context",
+        "You're building internal team tooling rather than public tools"
+      ]
+    },
+    "rows": [
+      {
+        "aspect": "Core strength",
+        "grok": "One-click public distribution of micro-tools",
+        "other": "Deep professional work inside one assistant"
+      },
+      {
+        "aspect": "Audience",
+        "grok": "X-native consumers and indie builders",
+        "other": "Knowledge workers, developers, enterprises"
+      },
+      {
+        "aspect": "Setup cost for users",
+        "grok": "A click — no configuration",
+        "other": "Skill install within Claude; more deliberate"
+      },
+      {
+        "aspect": "Real-time context",
+        "grok": "Native X firehose",
+        "other": "Web search when enabled; no social feed"
+      },
+      {
+        "aspect": "Best analogy",
+        "grok": "App store of tiny single-purpose helpers",
+        "other": "A well-staffed professional services desk"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "Different shapes, genuinely",
+        "body": [
+          "A Grok bot is a vending machine: put in a receipt, get a categorized expense. A Claude skill is more like hiring a contractor: deeper, slower to configure, built for multi-step professional artifacts. Both are 'packaged prompting', but the packaging serves different users."
+        ]
+      },
+      {
+        "heading": "The practical playbook",
+        "body": [
+          "Use Grok bots for the tools you want the world to open — they're built to travel by link. Use Claude skills for your own deep work: the contract analysis, the 80-page RFP, the codebase review. Builders who respect the difference get the best of both; builders who fight it end up forcing a consumer tool to do enterprise work or vice versa."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which is better for building a public tool with distribution?",
+        "a": "Grok bots, clearly — the x.ai/bot link model is built for sharing, and directories like this one exist to route intent. Claude's strengths are depth and professional polish, not viral distribution."
+      },
+      {
+        "q": "Which has better output quality?",
+        "a": "For long-form professional work, Claude's reasoning depth often wins. For structured single-task outputs, a well-specified Grok bot is equally strong — the instructions matter more than the platform."
+      }
+    ]
+  },
+  {
+    "slug": "grok-bots-vs-gemini-gems",
+    "title": "Grok Bots vs Gemini Gems: Speed vs Ecosystem",
+    "seoTitle": "Grok Bots vs Gemini Gems: Full Comparison",
+    "description": "Gemini Gems integrate with Google's workspace empire; Grok bots offer faster creation and link-based sharing. Compare and choose.",
+    "other": "Gemini Gems (Google)",
+    "updatedAt": "2026-08-23",
+    "verdict": {
+      "summary": "Gems are the right call if your life runs on Google — Docs, Gmail, Drive integration makes them quietly powerful for office work. Grok bots are the right call for public, link-shared tools and X-native real-time context. They're complementary more than competitive.",
+      "chooseGrokBots": [
+        "You want public tools with one-click links",
+        "X real-time context matters to your bot",
+        "You iterate weekly and want zero review friction",
+        "You're building for an audience that lives on X"
+      ],
+      "chooseOther": [
+        "Your workflows center on Google Docs, Gmail, and Drive",
+        "You want Gems inside the Google Workspace you already pay for",
+        "Deep document understanding over your own files",
+        "Enterprise Google-stack environments"
+      ]
+    },
+    "rows": [
+      {
+        "aspect": "Ecosystem",
+        "grok": "X + xAI, real-time social context",
+        "other": "Google Workspace — Docs, Gmail, Drive"
+      },
+      {
+        "aspect": "Distribution",
+        "grok": "Public x.ai/bot links, directories",
+        "other": "Within Gemini app; shareable to Gemini users"
+      },
+      {
+        "aspect": "Creation",
+        "grok": "Minutes, plain-English instructions",
+        "other": "Comparable; knowledge uploads supported"
+      },
+      {
+        "aspect": "Killer use case",
+        "grok": "Public micro-tools with viral links",
+        "other": "Office work woven through Google apps"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The Google gravity well",
+        "body": [
+          "If your work lives in Google's apps, Gems meet you there — summarizing a Doc, drafting from a Drive folder, working inside the suite you already use. No other assistant family integrates that deeply. That's a real advantage that has nothing to do with instruction quality."
+        ]
+      },
+      {
+        "heading": "The link advantage",
+        "body": [
+          "Grok bots were born to be linked. A bot's entire growth engine is its URL — directories, replies, DMs, bios. Gems are better citizens of Google's world; Grok bots are better travelers. Where your users are decides this more than any feature table."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Do Gems cost extra?",
+        "a": "Gems are available on paid Gemini plans (and availability varies by tier); Grok bots depend on your Grok access level. Both are free to create — check current plan details for use limits."
+      },
+      {
+        "q": "Can I move a bot from one platform to another?",
+        "a": "The instruction text ports directly — it's just text. Knowledge files and platform-specific capabilities don't. Budget an hour to re-test behavior on the new platform."
+      }
+    ]
+  },
+  {
+    "slug": "grok-bots-vs-ai-agent-frameworks",
+    "title": "Grok Bots vs AI Agent Frameworks (n8n, LangChain): When 'Dumb' Wins",
+    "seoTitle": "Grok Bots vs Agent Frameworks: The Honest Comparison",
+    "description": "Agent frameworks promise automation; Grok bots deliver immediacy. Compare maintenance cost, setup time, and reliability — and learn when to use each.",
+    "other": "Agent frameworks (n8n, LangChain, etc.)",
+    "updatedAt": "2026-08-21",
+    "verdict": {
+      "summary": "Agent frameworks automate multi-step, recurring, API-connected workflows — if you're willing to maintain them. Grok bots deliver 90% of the value for knowledge work with zero infrastructure and zero maintenance. Most people reach for a framework when a well-written bot would do.",
+      "chooseGrokBots": [
+        "Your task is judgment + structured output (reviews, briefs, triage)",
+        "You want to start in minutes, not weeks",
+        "Zero appetite for maintaining pipelines and API keys",
+        "The workflow tolerates a human in the loop (you, pasting)"
+      ],
+      "chooseOther": [
+        "The workflow must run unattended on a schedule",
+        "Multiple external APIs and data stores are involved",
+        "Volume is high enough that manual pasting is the bottleneck",
+        "You have (or are) an engineer who enjoys maintaining pipelines"
+      ]
+    },
+    "rows": [
+      {
+        "aspect": "Setup time",
+        "grok": "Minutes",
+        "other": "Days to weeks"
+      },
+      {
+        "aspect": "Maintenance",
+        "grok": "None — instructions are the whole system",
+        "other": "Ongoing: APIs break, keys rotate, pipelines rot"
+      },
+      {
+        "aspect": "Automation ceiling",
+        "grok": "Human-in-the-loop, session-based",
+        "other": "Fully unattended, scheduled, event-driven"
+      },
+      {
+        "aspect": "Cost",
+        "grok": "Free beyond your Grok access",
+        "other": "Hosting, tokens, tooling, and engineering time"
+      },
+      {
+        "aspect": "Best for",
+        "grok": "Judgment work done daily by a human",
+        "other": "Volume workflows that must run themselves"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "The trap of premature frameworks",
+        "body": [
+          "The pattern we see constantly: someone wants 'an AI that reviews my PRs', spends two weekends building an n8n pipeline with GitHub triggers and Slack notifications, then abandons it when a webhook breaks in month three. The bot version — paste the diff, get a verdict — would have been running every day the whole time."
+        ]
+      },
+      {
+        "heading": "The escalation path",
+        "body": [
+          "Start with a bot. When the manual pasting genuinely becomes the bottleneck — real volume, real schedule, real integrations — you've earned the right to automate, and you'll automate a workflow you already understand instead of a fantasy one. Several builders we know run exactly this path: bot proves the value, framework scales it."
+        ]
+      },
+      {
+        "heading": "What frameworks do that bots can't",
+        "body": [
+          "Be fair to frameworks: they run while you sleep, connect to your actual systems, and scale to thousands of events. If your use case is 'every commit triggers a review and the result posts to Slack automatically', no bot workflow will ever match that. Bots win on adoption speed and maintenance cost; frameworks win on ceiling. Pick by bottleneck, not by fashion."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can Grok bots run automatically on a schedule?",
+        "a": "No — bots are session-based and human-in-the-loop. You open the bot and paste input; nothing runs unattended. If you need scheduled automation, that's the frameworks' territory."
+      },
+      {
+        "q": "Which is cheaper to run?",
+        "a": "Grok bots, almost always. The only cost is your Grok access. Frameworks add hosting, API costs, and the biggest line item: engineering time to build and maintain them."
+      }
+    ]
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "slug": "what-are-grok-bots",
+    "title": "What Are Grok Bots? The Complete 2026 Guide",
+    "seoTitle": "What Are Grok Bots? A Complete Beginner's Guide",
+    "description": "Grok bots are custom assistants built on xAI's Grok. Learn how they work, what they can do, and how they compare to Custom GPTs — with real examples.",
+    "readingMinutes": 6,
+    "updatedAt": "2026-08-28",
+    "tags": [
+      "beginner",
+      "overview"
+    ],
+    "quickAnswer": "Grok bots are one-click custom assistants built on xAI's Grok platform. A creator writes plain-English instructions that define a persona and its rules; the bot is published at x.ai/bot, and anyone can open it from a link and use it immediately — no setup, no configuration.",
+    "intro": "Grok bots are the fastest-growing corner of the Grok ecosystem: thousands of small, single-purpose assistants, each built by wrapping Grok's raw intelligence in a persona and a set of rules. This guide explains exactly what they are, how they work under the hood, and when to use one instead of plain Grok.",
+    "sections": [
+      {
+        "heading": "The one-paragraph definition",
+        "body": [
+          "A Grok bot is a saved set of instructions running on top of Grok. The creator describes who the bot is ('a senior code reviewer'), what job it does ('review pull requests for correctness first, style last'), and the rules it must follow ('always end with a ship/no-ship verdict'). xAI hosts the bot at a stable x.ai/bot link, so using it is a single click — no copy-pasting prompts, no re-explaining the task every session.",
+          "If you've used Custom GPTs on ChatGPT, the mental model is the same: instructions + a link + one-click use. The differences are platform-level — Grok bots are faster to create, deeply tied to X for real-time context, and openable from any link you see in a feed, directory, or DM."
+        ]
+      },
+      {
+        "heading": "What's actually inside a bot",
+        "body": [
+          "Under the hood, every bot is just text — but good bot authors write that text like a spec, not a personality card. The strongest bots on GrokBot Hub share four ingredients:"
+        ],
+        "list": [
+          "A role with a job description — 'inbox triage librarian', not just 'helpful assistant'.",
+          "Explicit rules — output structure, tone limits, what to never do. Rules beat vibes.",
+          "A default workflow — what the bot does first, second, and last when you paste something in.",
+          "A failure mode — what it does when you give it something out of scope (good bots say so; bad bots hallucinate)."
+        ]
+      },
+      {
+        "heading": "What people actually use them for",
+        "body": [
+          "Browse any directory and the use cases cluster into eight buckets: daily assistants (inbox triage, morning plans), engineering (code review, scaffolding, agent loops), research (cited briefs, paper explainers), money (refunds, invoice chasing, subscription audits), sales (prospecting, cold email), creative work (hooks, memes, voice cloning), life admin (meals, fitness, travel recovery), and productivity (meeting notes, standups).",
+          "The pattern behind all of them: they automate a task you'd otherwise re-explain to a chatbot every single time. That's the whole value proposition — the setup cost is paid once by the creator, and every user gets the finished version."
+        ]
+      },
+      {
+        "heading": "Grok bots vs plain Grok",
+        "body": [
+          "Use plain Grok when the task is one-off and open-ended. Use a bot when the task is repeated and structured — you want the same triage format every morning, the same review checklist every PR, the same escalation ladder for every overdue invoice. A bot is a reusable workflow; plain Grok is a blank page."
+        ]
+      },
+      {
+        "heading": "How to find bots worth opening",
+        "body": [
+          "This is exactly why GrokBot Hub exists. Every bot in our directory is opened and tested by hand before listing, categories are curated (not auto-generated), and each listing shows the bot's core instructions so you can judge quality before clicking. Start with the Bots directory, or grab a starting combo like Ship Desk if you want several bots that work together."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "how-to-create-a-grok-bot",
+    "title": "How to Create a Grok Bot in 10 Minutes (2026 Walkthrough)",
+    "seoTitle": "How to Create a Grok Bot: Step-by-Step Walkthrough",
+    "description": "A step-by-step guide to creating and publishing your first Grok bot at x.ai/bot — planning, writing instructions, testing, and publishing, all in plain English.",
+    "readingMinutes": 8,
+    "updatedAt": "2026-08-26",
+    "tags": [
+      "builder",
+      "how-to"
+    ],
+    "quickAnswer": "Go to x.ai/bot, click create, and write instructions in plain English: a role, the job, explicit rules, and a workflow. Test the bot against three real prompts, fix where it drifts, then publish. You get a shareable x.ai/bot link — no code required.",
+    "intro": "You don't need to code to build a Grok bot — you need to write a good spec. This walkthrough takes you from idea to published bot in about ten minutes, with the instruction-writing patterns that separate bots people open twice from bots people open every day.",
+    "sections": [
+      {
+        "heading": "Before you open the builder: pick one job",
+        "body": [
+          "The most common mistake is building 'an assistant that does everything'. Those bots do nothing well. Write this sentence first: 'My bot helps ___ do ___ by ___.' Example: 'My bot helps freelancers get paid by drafting invoice follow-ups that escalate politely over 30 days.' If you can't fill in the blanks, you're not ready to build."
+        ]
+      },
+      {
+        "heading": "Step by step: create the bot",
+        "steps": [
+          {
+            "name": "Open the builder",
+            "text": "Go to x.ai/bot and sign in with your X account. Click Create a bot."
+          },
+          {
+            "name": "Name it for the job",
+            "text": "Pick a name that says what it does — 'Invoice Hunter', not 'Nick's Helper'. The name is 80% of your marketing."
+          },
+          {
+            "name": "Write the instructions",
+            "text": "Structure: role → job → rules → workflow → failure mode. Plain English, numbered rules, explicit output format. (Full patterns below.)"
+          },
+          {
+            "name": "Test with three real prompts",
+            "text": "Use three actual scenarios from your target user — a typical one, an edge case, and something out of scope to see how it fails."
+          },
+          {
+            "name": "Fix the drift",
+            "text": "Where the bot did something you didn't specify, add a rule. Repeat until the three prompts produce the output you'd want to receive."
+          },
+          {
+            "name": "Publish",
+            "text": "Hit publish. You get an x.ai/bot link — that link is the bot. Test it in an incognito-style fresh session to confirm the first-run experience."
+          }
+        ]
+      },
+      {
+        "heading": "The instruction pattern that works",
+        "body": [
+          "Here's the skeleton used by the highest-rated bots in our directory:"
+        ],
+        "list": [
+          "Role: 'You are a senior code reviewer with 15 years of distributed-systems experience.'",
+          "Job: 'Your only job is reviewing pasted diffs. You do not write features.'",
+          "Rules: numbered, testable, e.g. '1. Review order: correctness, security, performance, style. 2. Every comment names the fix. 3. End with: Ship it, or Needs another pass.'",
+          "Workflow: 'When given a diff, do X first, then Y, then print the verdict.'",
+          "Failure mode: 'If the paste isn't a diff, say what you need instead of guessing.'"
+        ]
+      },
+      {
+        "heading": "Testing like a skeptic",
+        "body": [
+          "Three prompts, minimum. One boring and typical. One messy — vague, missing context, the way a real user writes. One out of scope — the bot should refuse cleanly or redirect, not improvise. If the out-of-scope test makes your bot hallucinate a confident answer, add the failure-mode rule and retest."
+        ]
+      },
+      {
+        "heading": "After publishing: get it used",
+        "body": [
+          "A published bot with no distribution is a diary entry. Submit it to GrokBot Hub (free, hand-reviewed within 48 hours), share the x.ai/bot link on X with a demo of the output — show, don't describe — and put the link in your profile. Bots that show a screenshot of real output get an order of magnitude more opens than bots that describe themselves."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "how-to-write-bot-instructions",
+    "title": "How to Write Grok Bot Instructions That Actually Work",
+    "seoTitle": "Writing Grok Bot Instructions: Patterns and Examples",
+    "description": "The difference between a bot people love and one they abandon is the instruction text. Learn the rule-based spec pattern, with before/after examples.",
+    "readingMinutes": 7,
+    "updatedAt": "2026-08-24",
+    "tags": [
+      "builder",
+      "writing"
+    ],
+    "quickAnswer": "Write instructions like a spec, not a vibe: a defined role, one job, numbered and testable rules, an explicit workflow, and a failure mode. Rules beat personality — 'end every review with Ship it / Needs another pass' outperforms 'be helpful and thorough' every time.",
+    "intro": "Most Grok bots fail the same way: the instructions read like a horoscope — warm, vague, and unenforceable. The bots that become daily habits are written like small programs in plain English. This guide gives you the pattern, with real before/after rewrites from the directory's review queue.",
+    "sections": [
+      {
+        "heading": "Rule 1: one job, stated cruelly",
+        "body": [
+          "'You are a helpful assistant that can help with anything' is the bot-killer. Compare: 'Your only job is reviewing pasted diffs. You do not write features, you do not refactor, you review.' Scope isn't a limitation — it's the product. Every rule you add outside the job is a way for the bot to disappoint someone."
+        ]
+      },
+      {
+        "heading": "Rule 2: rules must be testable",
+        "body": [
+          "A rule is testable if two people could read the transcript and agree whether it was followed. 'Be concise' fails. 'Replies under 120 words' passes. 'Be friendly' fails. 'One sentence of warmth maximum before the first bullet' passes. Go through your instructions and replace every adjective with a number or a structure."
+        ],
+        "list": [
+          "'Be concise' → 'Under 90 words, always.'",
+          "'Use a friendly tone' → 'First line: one warm sentence. Then bullets.'",
+          "'Give good advice' → 'Always commit to a call, then give the reasoning. Never say it depends without picking anyway.'"
+        ]
+      },
+      {
+        "heading": "Rule 3: give it a default workflow",
+        "body": [
+          "The best bots know what to do when you paste something in without a request. 'When given text: (1) extract every checkable claim, (2) verdict each with a source, (3) end with an overall grade.' Users don't want to manage your bot; they want to paste and receive. Encode the paste-to-output loop directly in the instructions."
+        ]
+      },
+      {
+        "heading": "Rule 4: write the failure mode",
+        "body": [
+          "Every bot eventually gets input it can't handle. What it does next is the difference between trust and garbage. Add an explicit out: 'If the paste isn't a receipt, ask for the receipt text instead of guessing. If a claim can't be verified, say UNVERIFIABLE — never fill the gap.' This one paragraph is the cheapest quality upgrade in bot building."
+        ]
+      },
+      {
+        "heading": "Before / after: a real rewrite",
+        "body": [
+          "Before: 'You are a helpful email assistant. You love helping people manage their inboxes and stay productive. Always be positive and thorough.'",
+          "After: 'You are Dewey, an inbox triage librarian. Job: sort pasted email into NEEDS YOU / FYI / ARCHIVE — nothing else. FYI items get one bullet each. Deadlines are surfaced loudly with dates bolded. If the paste isn't email text, ask what you're looking at. End with: the single email that matters most today.'",
+          "Same idea, but the after version can be tested, and tested bots get opened twice a day."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "how-to-publish-and-share-your-grok-bot",
+    "title": "How to Publish Your Grok Bot and Get Your First 1,000 Opens",
+    "seoTitle": "Publish & Share a Grok Bot: Distribution Playbook",
+    "description": "Publishing is the easy part. Here's the distribution playbook: directories, X demos, profile optimization, and the launch pattern that gets bots opened.",
+    "readingMinutes": 6,
+    "updatedAt": "2026-08-22",
+    "tags": [
+      "builder",
+      "distribution"
+    ],
+    "quickAnswer": "Publish at x.ai/bot to get your shareable bot link, then distribute: submit to GrokBot Hub (hand-reviewed, free), post an output screenshot demo on X, put the link in your profile, and pitch it to niche communities where the job-to-be-done already comes up.",
+    "intro": "Most bots die in the feed: published, linked once, forgotten by Friday. The bots that stack up thousands of opens do four things consistently. None of them require an audience — they require showing real output.",
+    "sections": [
+      {
+        "heading": "Step 1: publish and own your link",
+        "body": [
+          "Publishing at x.ai/bot gives you a permanent x.ai/bot/your-bot link. That link is the product — it should appear everywhere your name does. Test the first-run experience in a fresh session: what the user sees in the first 30 seconds is what they'll tell people about."
+        ]
+      },
+      {
+        "heading": "Step 2: show output, not description",
+        "body": [
+          "'My new bot helps you write cold emails' converts at nearly zero. A screenshot of a genuinely good sub-90-word cold email — with the bot's output visible — converts, because the reader can already picture using it. Make a demo asset per audience: the inbox triage screenshot for managers, the PR review verdict for developers."
+        ]
+      },
+      {
+        "heading": "Step 3: list in the places people look",
+        "body": [
+          "Directories are where intent lives — someone browsing a bot directory is pre-qualified. Submit to GrokBot Hub (free, hand-reviewed in ~48 hours; a featured slot is available if you want the top of the page). Fill out the listing properly: one-sentence pitch, the core of your instructions, and an honest 'you'll like this if…'."
+        ]
+      },
+      {
+        "heading": "Step 4: go where the job already happens",
+        "body": [
+          "The most effective distribution isn't 'AI communities' — it's the place where your bot's job already comes up. Invoice-chasing bot? Freelancer communities. Waiver-wire bot? Fantasy football threads in August. Answer the actual question being asked, mention the bot once, and let the link do the rest. One well-aimed reply beats ten blasts into the void."
+        ]
+      },
+      {
+        "heading": "Step 5: iterate in public",
+        "body": [
+          "Version your improvements and say so: 'v2 — now ranks claims by payout ÷ effort.' People who tried v1 come back, and the update itself is content. Track which of your posts actually drive opens (x.ai shows usage), and make more of that kind."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "how-to-find-the-best-grok-bots",
+    "title": "How to Find the Best Grok Bots (Without Opening 50 Duds)",
+    "seoTitle": "How to Find the Best Grok Bots: A Curated Approach",
+    "description": "Signals that separate great Grok bots from prompt wrappers: instruction quality, output structure, honest failure modes, and where to look first.",
+    "readingMinutes": 5,
+    "updatedAt": "2026-08-20",
+    "tags": [
+      "users",
+      "discovery"
+    ],
+    "quickAnswer": "Judge a bot before opening it: does it do one job, do its instructions include testable rules and a failure mode, and can you see real output? Curated directories like GrokBot Hub pre-test every listing, so start there and check the 'instructions' section on each bot page.",
+    "intro": "For every great Grok bot there are a dozen wrappers — a one-line persona with a fun name and no substance. Here's the two-minute evaluation we run on every submission, so you can apply it anywhere.",
+    "sections": [
+      {
+        "heading": "The two-minute evaluation",
+        "list": [
+          "One job? If the description claims five superpowers, expect zero.",
+          "Testable rules visible? 'Under 90 words' is a rule. 'Very helpful' is a mood.",
+          "A failure mode? Bots that say what they do with bad input are built by people who tested them.",
+          "Output structure promised? The listing should tell you what you'll receive: a verdict, a ranked list, a draft.",
+          "Real screenshots? Builders who show actual output are builders who used the bot themselves."
+        ],
+        "body": [
+          "Count how many of the five pass. Three or more: worth opening. Fewer than two: your time is worth more."
+        ]
+      },
+      {
+        "heading": "Where to look",
+        "body": [
+          "Start with a hand-reviewed directory (this one — every listing is opened and tested before it goes live). Then X: search 'Grok bot' plus your job keyword and look for posts showing output, not promises. Creator profiles matter too — builders with several focused bots generally take the craft more seriously than one-hit wrappers."
+        ]
+      },
+      {
+        "heading": "Open it with a real task",
+        "body": [
+          "Don't test bots with 'hello'. Paste your actual inbox, your actual diff, your actual last three grocery trips. A bot earns its place by surviving your real workload on day one — and if it's 80% there, the good news is that its instructions are often public: tell it what to adjust and save the variant as your own."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "how-to-chain-grok-bots",
+    "title": "How to Chain Grok Bots Into Workflows (Combo Guide)",
+    "seoTitle": "Chaining Grok Bots: How Bot Combos Work",
+    "description": "No integrations needed: how to hand output from one Grok bot to another, with four proven pipelines and the paste-discipline that makes them smooth.",
+    "readingMinutes": 6,
+    "updatedAt": "2026-08-18",
+    "tags": [
+      "power-user",
+      "workflows"
+    ],
+    "quickAnswer": "Chaining Grok bots means running them in sequence and pasting each bot's output into the next — no integrations required. The trick is output discipline: design (or choose) bots whose output format is the next bot's input format, like Build → Review → Fix in the Ship Desk combo.",
+    "intro": "Bots are single-purpose on purpose — which means the real power moves come from chaining them. This guide shows how the pipelines work, why output format is the load-bearing detail, and which combos are worth running daily.",
+    "sections": [
+      {
+        "heading": "The pattern: output discipline",
+        "body": [
+          "A chain is: Bot A's output → paste into Bot B → its output → paste into Bot C. It works when each bot's output is a clean, structured artifact (a verdict, a ranked list, a drafted email) rather than prose. That's why the 'explicit output format' rule matters so much in instruction writing — it's what makes a bot chainable."
+        ]
+      },
+      {
+        "heading": "Proven pipeline: Ship Desk (build → review → fix)",
+        "body": [
+          "Scaffold with Grimoire during the day. Before logging off, paste the day's diffs into PR Desk — it returns correctness-first review comments with a ship/no-ship verdict. Feed accepted fixes to Agent Looper, which runs implement → test → fix loops and writes the changelog. Morning you reviews the diff summaries instead of starting from scratch."
+        ]
+      },
+      {
+        "heading": "Proven pipeline: Research Desk (brief → deep → verify)",
+        "body": [
+          "Deep Research Intern returns a cited brief on your open question. Hand the most important source to Paper Explainer for the five-paragraph claim/method/results/limits treatment. Before anything goes in front of stakeholders, Fact Checker scores each claim and flags the one most likely to embarrass you. Three bots, twenty minutes, receipts at every step."
+        ]
+      },
+      {
+        "heading": "Designing your own chain",
+        "list": [
+          "Start from the deliverable — the last bot in the chain should produce the thing you actually need.",
+          "Work backwards: what input does the final bot want? That's the previous bot's required output format.",
+          "Keep chains to three. Beyond that, the paste overhead eats the value.",
+          "Save each bot's 'session summary' pattern — re-pasting one line re-establishes context in the next step."
+        ]
+      },
+      {
+        "heading": "What chaining can't do",
+        "body": [
+          "Bots can't call each other — there are no integrations, no background runs, no shared memory between bots. You are the scheduler and the transport layer. If a workflow needs automation between steps, that's an agent framework problem, not a bot problem — and honestly, for most knowledge work, three deliberate pastes beat an hour of pipeline plumbing."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "grok-bot-safety-and-privacy",
+    "title": "Grok Bot Safety: What to Never Share With a Bot",
+    "seoTitle": "Grok Bot Safety & Privacy: The Practical Guide",
+    "description": "Bots only see what you paste — which is exactly why redaction matters. What's safe, what's never safe, and how to evaluate a bot before trusting it.",
+    "readingMinutes": 5,
+    "updatedAt": "2026-08-16",
+    "tags": [
+      "users",
+      "safety"
+    ],
+    "quickAnswer": "A Grok bot only sees what you paste or type into it. Never share passwords, one-time codes, full card numbers, or other people's private data. Redact account numbers from statements, remember bot creators may see usage, and report harmful bots to the directory within minutes.",
+    "intro": "Grok bots are convenient precisely because they're focused — and focused bots invite focused oversharing. This guide draws the practical lines: what's fine to paste, what's never fine, and how to sanity-check a bot before you trust it with real work.",
+    "sections": [
+      {
+        "heading": "The mental model",
+        "body": [
+          "Treat every bot conversation like email to a smart stranger. Grok (the model) processes your input to generate the response, and depending on the platform's settings, the bot's creator may see usage or reported conversations. Assume anything you paste could be read by a human — because one day it might be."
+        ]
+      },
+      {
+        "heading": "Never share, no exceptions",
+        "list": [
+          "Passwords, API keys, and one-time codes — no legitimate bot needs them.",
+          "Full card numbers or bank credentials — amounts and merchant names are enough for any money task.",
+          "Other people's private data — your coworker's medical leave, your client's unreleased numbers.",
+          "Anything you'd be uncomfortable seeing quoted in public."
+        ]
+      },
+      {
+        "heading": "Safe with light redaction",
+        "body": [
+          "Most listing tasks work fine with redaction: invoices with account numbers masked, purchase histories with card digits stripped, calendar entries with attendee names initialled. The bots in our Money and Productivity categories are designed around this — they tell you exactly which fields they need, and it's never the secret ones."
+        ]
+      },
+      {
+        "heading": "Evaluating a bot before trusting it",
+        "list": [
+          "Read its instructions if published — vague bots with god-mode claims get flagged by reviewers.",
+          "Check what it asks for: bots that request the minimum are built by people who thought about privacy.",
+          "Watch the refusal: paste something out of scope. A bot that refuses cleanly is a good sign.",
+          "Check the builder: real profiles with other focused bots and visible history are a good signal."
+        ]
+      },
+      {
+        "heading": "If something goes wrong",
+        "body": [
+          "Broken, misleading, or harmful bot? Report it to us (we delist within 24 hours of a verified report) and to xAI. Stop using a bot the moment it asks for credentials — that's not a feature, that's a red flag wearing a feature costume."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "monetize-your-grok-bot",
+    "title": "Can You Make Money With a Grok Bot? What Works in 2026",
+    "seoTitle": "Monetizing a Grok Bot: What Actually Works",
+    "description": "xAI doesn't pay per bot use — so builders get creative. Lead generation, featured placements, and product-adjacent bots: the honest economics.",
+    "readingMinutes": 5,
+    "updatedAt": "2026-08-12",
+    "tags": [
+      "builder",
+      "business"
+    ],
+    "quickAnswer": "There's no direct payout for Grok bot usage today. Builders monetize indirectly: bots as free lead generation for paid products or services, bots as portfolio pieces that win clients, and featured directory placements that drive qualified opens at launch.",
+    "intro": "Let's start with honesty: xAI doesn't currently pay creators per bot use, and you can't charge users to open a bot. The builders making real money from the ecosystem treat bots as distribution — the top of a funnel, not the product itself. Here's what's actually working.",
+    "sections": [
+      {
+        "heading": "Model 1: bot as free lead generation",
+        "body": [
+          "The dominant pattern. A genuinely useful bot solves a narrow problem for free, and the solved problem makes the builder's paid thing obvious. Invoice Hunter (the bot) gets freelancers hooked on structured follow-ups; the builder's paid course or tool on freelance finances is one click away on the profile. The bot does the selling by being useful first."
+        ]
+      },
+      {
+        "heading": "Model 2: bot as portfolio",
+        "body": [
+          "For consultants and agencies, a sharp bot is a live demo of how you think. A MEDDPICC deal-review bot demonstrates your sales methodology to every founder who opens it — better than any case study, because the prospect experienced it. Several builders in our directory report client inbound directly from a bot listing."
+        ]
+      },
+      {
+        "heading": "Model 3: launch channel economics",
+        "body": [
+          "A bot launch is a content moment: demo screenshots on X, a directory listing, replies in niche communities. Builders time these with their product launches. A featured slot on GrokBot Hub exists for exactly this — the directory's audience arrives with intent, and the bot converts attention into opens and opens into profile visits."
+        ]
+      },
+      {
+        "heading": "What doesn't work (yet)",
+        "body": [
+          "Paywalls in front of bots — the platform owns the door. Ads inside conversations — the format rejects them. Bot farms for volume — review processes (ours and xAI's) catch spam quickly. The ecosystem rewards usefulness and punishes arbitrage, which is honestly the healthiest incentive structure in consumer AI right now."
+        ]
+      }
+    ]
+  }
+]
