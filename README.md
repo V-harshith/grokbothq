@@ -116,4 +116,4 @@ Static + rebuilds updates the site on every merge (usually seconds after approva
 ## License
 
 - **Code**: visible for review and contribution, all-rights-reserved — see `LICENSE`. Cloning the engine to compete is a violation, not inspiration.
-- **Content** (`content/*.json` + editorial pages): **CC BY 4.0** — see `LICENSE-CONTENT.md`. Quote or republish it freely *with attribution* (a link to grokbothq.xyz). Clones are welcome to the data; the license makes them send the credit back to the source that stays current. Symmetrically: our own listings are aggregated from public ecosystem directories (grokbots.best, grokbots.page) and credited on the About page - we practice the same rule we license.
+- **Content** (`content/*.json` + editorial pages): **CC BY 4.0** — see `LICENSE-CONTENT.md`. Quote or republish it freely *with attribution* (a link to grokbothq.xyz). Clones are welcome to the data; the license makes them send the credit back to the source that stays current.
