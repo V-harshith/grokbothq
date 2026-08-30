@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { BotCard } from "@/components/bot-card";
 import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
+import { AdSlotCard } from "@/components/ad-slot";
 import { latestBots, stats } from "@/data/bots";
 import { SITE } from "@/data/site";
 import { pageMetadata, breadcrumbsJsonLd, botListJsonLd } from "@/lib/seo";
@@ -26,7 +27,11 @@ export default function NewPage() {
         description={`Every listing is reviewed before it goes live. Directory last updated on ${new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })} - newest first.`}
       />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {fresh.map((bot) => (
+        {fresh.slice(0, 3).map((bot) => (
+          <BotCard key={bot.slug} bot={bot} />
+        ))}
+        <AdSlotCard />
+        {fresh.slice(3).map((bot) => (
           <BotCard key={bot.slug} bot={bot} />
         ))}
       </div>

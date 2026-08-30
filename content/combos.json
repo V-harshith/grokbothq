@@ -3,192 +3,90 @@
     "slug": "ship-desk",
     "name": "Ship Desk",
     "emoji": "🚢",
-    "tagline": "Write code all day, review it overnight, start clean tomorrow.",
-    "description": "The overnight engineering loop. You ship features with Grimoire during the day, PR Desk reviews every diff while you sleep, and Agent Looper fixes what it can before your standup. Morning you reviews a clean changelog instead of a wall of notifications.",
-    "botSlugs": [
-      "grimoire",
-      "pr-desk",
-      "agent-looper"
-    ],
+    "tagline": "Build it, review it, loop it - an engineering pipeline from real bots.",
+    "description": "The overnight engineering loop, built from three bots that are live in the directory right now. Apps scaffolds a one-shot web app, PR Reviewer tears into the diff before a human ever sees it, and Loops keeps running the outer build-fix cycle until things pass.",
+    "botSlugs": ["apps", "pr-reviewer", "loops"],
     "steps": [
-      {
-        "name": "Build",
-        "text": "Scaffold and implement with Grimoire - small diffs, honest tradeoffs, boring stack."
-      },
-      {
-        "name": "Review",
-        "text": "Paste the day's diffs into PR Desk before logging off; it returns correctness-first comments overnight."
-      },
-      {
-        "name": "Fix",
-        "text": "Feed accepted fixes to Agent Looper to run implement → test → fix loops and write the changelog."
-      }
+      { "name": "Build", "text": "Hand Apps the product idea - it returns a working one-shot Convex web app to start from." },
+      { "name": "Review", "text": "Paste the diff into PR Reviewer - it leads with what can break, what is untested, and where context is thin." },
+      { "name": "Loop", "text": "Feed the fixes to Loops - a generalized engineering outer loop that keeps iterating build, test, repair." }
     ],
-    "bestFor": [
-      "Solo founders shipping fast",
-      "Hackathons",
-      "Side projects with no reviewer"
-    ],
+    "bestFor": ["Solo founders shipping fast", "Hackathon weekends", "Side projects with no reviewer"],
     "addedAt": "2026-08-26"
   },
   {
     "slug": "inbox-and-calendar-desk",
     "name": "Inbox & Calendar Desk",
     "emoji": "📥",
-    "tagline": "Email, calendar, and meetings - one morning loop instead of three apps.",
-    "description": "The daily coordination desk. Dewey sorts the inbox down to what needs you, Chief of Staff turns that plus your calendar into a three-priority plan, and Meeting Scribe converts whatever meetings happen into decisions and follow-ups. Run it every morning and nothing falls through.",
-    "botSlugs": [
-      "dewey",
-      "chief-of-staff",
-      "meeting-scribe"
-    ],
+    "tagline": "Triage, answer, follow through - the coordination desk.",
+    "description": "The daily coordination pipeline. Inbot connects your mail, Slack, and calendars and triages what came in, Jess reads everything first and drafts the answers, and Dispatch closes the loop by turning agreed calls into actual calendar invites.",
+    "botSlugs": ["inbot", "jess-executive-assistant", "dispatch"],
     "steps": [
-      {
-        "name": "Triage",
-        "text": "Paste the overnight inbox into Dewey - it shelves everything into NEEDS YOU / FYI / ARCHIVE."
-      },
-      {
-        "name": "Plan",
-        "text": "Give Chief of Staff Dewey's NEEDS YOU list plus your calendar; it drafts replies and picks your three priorities."
-      },
-      {
-        "name": "Close",
-        "text": "After meetings, paste notes into Meeting Scribe for decisions, owners, and the follow-up email."
-      }
+      { "name": "Triage", "text": "Connect Inbot to mail, Slack, Teams, and calendars - it sorts the overnight noise into what needs you." },
+      { "name": "Answer", "text": "Jess reads everything first, answers staff questions in your voice, and drafts what needs drafting." },
+      { "name": "Follow through", "text": "If a call was agreed but no invite exists, Dispatch creates the calendar event and closes the loop." }
     ],
-    "bestFor": [
-      "Managers in back-to-back calls",
-      "Execs with scattered calendars",
-      "Inbox-zero aspirants"
-    ],
+    "bestFor": ["Managers in back-to-back calls", "Execs with scattered calendars", "Anyone drowning in scheduling admin"],
     "addedAt": "2026-08-21"
   },
   {
     "slug": "money-hunters",
     "name": "Money Hunters",
     "emoji": "💰",
-    "tagline": "Find the money, chase the invoices, stop the leaks.",
-    "description": "A quarterly money sweep. Bounty Hunter finds refunds and claims you're owed, Subscription Auditor kills the zombie charges, and Invoice Hunter runs the follow-up sequence on what clients owe you. One hour per quarter, real dollars back.",
-    "botSlugs": [
-      "bounty-hunter",
-      "subscription-auditor",
-      "invoice-hunter"
-    ],
+    "tagline": "Claim what's yours, cut the waste, spend smarter.",
+    "description": "A quarterly money sweep with three real bots. Bounty Hunter digs up money that is already yours but unclaimed, AIUsageBot audits which AI subscriptions actually earn their keep, and Deal Hunting prices what you're about to buy with shipping and tax included.",
+    "botSlugs": ["bounty-hunter", "aiusagebot", "deal-hunting"],
     "steps": [
-      {
-        "name": "Claim",
-        "text": "Paste your purchase history into Bounty Hunter - send the drafted claim emails ranked by payout ÷ effort."
-      },
-      {
-        "name": "Cut",
-        "text": "Run your bank statement through Subscription Auditor and kill everything in the KILL column."
-      },
-      {
-        "name": "Collect",
-        "text": "Give Invoice Hunter your aging receivables; send today's escalation email for each."
-      }
+      { "name": "Claim", "text": "Set Bounty Hunter loose on missed refunds, rebates, and unclaimed money - it goes looking on your behalf." },
+      { "name": "Cut", "text": "AIUsageBot interviews you about which AI subscriptions to keep, then pings you as usage drops before the next charge." },
+      { "name": "Spend smarter", "text": "Before a purchase, Deal Hunting prices the landed cost - real prices, shipping, and tax at your preferred retailer." }
     ],
-    "bestFor": [
-      "Freelancers",
-      "Small business owners",
-      "Anyone doing a money reset"
-    ],
+    "bestFor": ["Freelancers", "Small business owners", "Anyone doing a money reset"],
     "addedAt": "2026-08-18"
   },
   {
     "slug": "research-desk",
     "name": "Research Desk",
     "emoji": "🔬",
-    "tagline": "From open question to cited brief to 'so what'.",
-    "description": "The analyst pipeline. Deep Research Intern takes the question and returns a cited brief, Paper Explainer handles the one paper that actually matters, and Fact Checker verifies the claims before they go in front of your boss or your audience. Receipts at every step.",
-    "botSlugs": [
-      "deep-research-intern",
-      "paper-explainer",
-      "fact-checker"
-    ],
+    "tagline": "Scan, dig, stress-test - research with three different depths.",
+    "description": "The analyst pipeline. Last30days tells you what people actually said about a topic in the past month, Research Bot reasons from first principles and refuses to hand back a sloppy answer, and Interrogator finds the assumptions your conclusion is quietly standing on.",
+    "botSlugs": ["last30days", "research-bot", "interrogator"],
     "steps": [
-      {
-        "name": "Brief",
-        "text": "Hand the open question to Deep Research Intern - findings first, sources per claim, disagreements called out."
-      },
-      {
-        "name": "Go deep",
-        "text": "For the key source, Paper Explainer gives you claim / method / results / limits in five paragraphs."
-      },
-      {
-        "name": "Verify",
-        "text": "Before you publish or present, Fact Checker scores every claim and flags the one most likely to embarrass you."
-      }
+      { "name": "Scan", "text": "Ask Last30days what people actually say about your topic right now - grounded in the last month of chatter." },
+      { "name": "Dig", "text": "Take the open questions to Research Bot - first-principles reasoning that refuses to hand back an answer without receipts." },
+      { "name": "Stress-test", "text": "Give your conclusion to Interrogator - it surfaces the assumptions you're operating on and checks whether they hold." }
     ],
-    "bestFor": [
-      "Analysts and consultants",
-      "Content teams",
-      "Diligence before big decisions"
-    ],
+    "bestFor": ["Analysts and consultants", "Content teams", "Diligence before big decisions"],
     "addedAt": "2026-08-27"
   },
   {
     "slug": "sales-desk",
     "name": "Sales Desk",
     "emoji": "📈",
-    "tagline": "Prospect, write, review - the full outbound loop in one sitting.",
-    "description": "Founder-led sales in one loop. Pipeline Prospector builds the ICP-matched list with trigger events, Cold Mail Closer writes the sub-90-word emails, and Deal Reviewer keeps your pipeline honest with MEDDPICC interviews. One evening a week covers the whole funnel.",
-    "botSlugs": [
-      "pipeline-prospector",
-      "cold-mail-closer",
-      "deal-reviewer"
-    ],
+    "tagline": "Know your fans, write from proof, keep your voice.",
+    "description": "A growth pipeline for anyone selling in public. X Top 500 Fans ranks who actually engages with you, Shorty starts every post from your proven performers instead of a blank page, and Human Copywriter rewrites anything that drifted off your voice.",
+    "botSlugs": ["x-top-500-fans", "shorty", "human-copywriter"],
     "steps": [
-      {
-        "name": "List",
-        "text": "Describe your ICP to Pipeline Prospector; confirm the profile, then get prospects with trigger events and why-them sentences."
-      },
-      {
-        "name": "Write",
-        "text": "Feed each prospect to Cold Mail Closer - three ranked angles, two-step follow-ups, zero AI slop."
-      },
-      {
-        "name": "Qualify",
-        "text": "For live deals, run the Deal Reviewer interview and get a score, the weakest section, and three questions for your champion."
-      }
+      { "name": "List", "text": "X Top 500 Fans ranks your top 500 engagers each month - your real audience, not your follower count." },
+      { "name": "Write", "text": "Shorty starts from proven performers rather than everything you have posted - new content built on what already worked." },
+      { "name": "Polish", "text": "Human Copywriter rewrites email, posts, and landing pages in a human voice before anything ships." }
     ],
-    "bestFor": [
-      "Founder-led sales",
-      "First sales hires",
-      "Agencies filling the top of funnel"
-    ],
+    "bestFor": ["Creator-led sales", "Founder-led marketing", "Anyone building in public"],
     "addedAt": "2026-08-16"
   },
   {
     "slug": "study-desk",
     "name": "Study Desk",
     "emoji": "🎓",
-    "tagline": "Learn anything: drill, translate, verify.",
-    "description": "For exam season and skill sprints. Study Buddy drills you with spaced repetition on your own material, Paper Explainer translates the hard sources, and Fact Checker keeps your essay citations honest. The loop works for certifications, classes, and self-teaching.",
-    "botSlugs": [
-      "study-buddy",
-      "paper-explainer",
-      "fact-checker"
-    ],
+    "tagline": "Check, explain, go deep - homework to mastery.",
+    "description": "The study pipeline. Homework Checker summarizes exactly what's outstanding and explains one problem properly, Lennybot answers product and growth questions from Lenny's Newsletter archive, and Research Bot takes you from summary to genuine understanding.",
+    "botSlugs": ["homework-checker", "lennybot", "research-bot"],
     "steps": [
-      {
-        "name": "Drill",
-        "text": "Paste your material into Study Buddy; it builds a deck and re-quizzes what you miss at spaced intervals."
-      },
-      {
-        "name": "Understand",
-        "text": "For the readings that won't click, Paper Explainer translates every equation and flags overclaims."
-      },
-      {
-        "name": "Cite",
-        "text": "Before submitting, Fact Checker grades each claim in your draft so your sources actually check out."
-      }
+      { "name": "Check", "text": "Homework Checker produces an after-school summary of what's outstanding, plus a one-off explanation of the hard part." },
+      { "name": "Understand", "text": "Ask Lennybot - it answers product and growth questions from the Lenny's Data archive with citations." },
+      { "name": "Go deep", "text": "Research Bot takes the topic further - first-principles reasoning that shows its work." }
     ],
-    "bestFor": [
-      "Students",
-      "Certification prep",
-      "Autodidacts"
-    ],
+    "bestFor": ["Students", "Product people self-teaching", "Autodidacts"],
     "addedAt": "2026-07-28"
   }
 ]

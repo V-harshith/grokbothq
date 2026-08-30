@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BotCard } from "@/components/bot-card";
+import { AdSlotCard } from "@/components/ad-slot";
 import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { FaqList } from "@/components/faq-list";
 import { JsonLd } from "@/components/json-ld";
@@ -57,7 +58,11 @@ export default async function CategoryPage({ params }: Props) {
       </header>
 
       <div className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((bot) => (
+        {list.slice(0, 3).map((bot) => (
+          <BotCard key={bot.slug} bot={bot} />
+        ))}
+        {list.length >= 3 && <AdSlotCard />}
+        {list.slice(3).map((bot) => (
           <BotCard key={bot.slug} bot={bot} />
         ))}
       </div>
