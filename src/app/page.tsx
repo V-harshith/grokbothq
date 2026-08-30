@@ -6,6 +6,7 @@ import { GuideCard } from "@/components/guide-card";
 import { FaqList } from "@/components/faq-list";
 import { SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
+import { HeroBot } from "@/components/hero-bot";
 import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
@@ -36,7 +37,8 @@ export default function HomePage() {
       <section className="relative overflow-hidden border-b border-border">
         <div className="grid-bg absolute inset-0" aria-hidden />
         <div className="container-x relative py-20 text-center md:py-28">
-          <p className="kicker">Independent · Hand-reviewed · Free forever</p>
+          <HeroBot />
+          <p className="kicker mt-10">Independent · Hand-reviewed · Free forever</p>
           <h1 className="mx-auto mt-4 max-w-3xl text-4xl font-semibold tracking-tight md:text-6xl">
             Find a Grok bot <span className="text-accent">worth opening</span>
           </h1>

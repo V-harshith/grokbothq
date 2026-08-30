@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Bot } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
+import { BotFace } from "./bot-face";
 
 export function OpenButton({ bot, small }: { bot: Bot; small?: boolean }) {
   return (
@@ -24,19 +25,22 @@ export function BotCard({ bot }: { bot: Bot }) {
   return (
     <article className="card card-hover flex flex-col p-5">
       <div className="flex items-start justify-between gap-3">
-        <div className="min-w-0">
-          <div className="flex flex-wrap items-center gap-2">
-            <Link href={`/bots/${bot.slug}`} className="truncate text-base font-semibold hover:text-accent">
-              {bot.name}
-            </Link>
-            {bot.trending && <span className="badge badge-accent">Trending</span>}
+        <div className="flex min-w-0 items-start gap-3">
+          <BotFace slug={bot.slug} name={bot.name} />
+          <div className="min-w-0">
+            <div className="flex flex-wrap items-center gap-2">
+              <Link href={`/bots/${bot.slug}`} className="truncate text-base font-semibold hover:text-accent">
+                {bot.name}
+              </Link>
+              {bot.trending && <span className="badge badge-accent">Trending</span>}
+            </div>
+            <p className="mt-0.5 text-xs text-muted">
+              by{" "}
+              <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
+                @{bot.builder.x}
+              </a>
+            </p>
           </div>
-          <p className="mt-0.5 text-xs text-muted">
-            by{" "}
-            <a href={`https://x.com/${bot.builder.x}`} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">
-              @{bot.builder.x}
-            </a>
-          </p>
         </div>
         {category && (
           <Link href={`/bots/category/${category.slug}`} className="badge shrink-0 hover:text-accent">

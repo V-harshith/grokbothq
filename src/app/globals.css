@@ -173,3 +173,122 @@ body {
   background-size: 44px 44px;
   mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, black 30%, transparent 75%);
 }
+
+/* ---------- Grok bot faces (cards) ---------- */
+
+@keyframes bot-blink {
+  0%, 90%, 100% { transform: scaleY(1); }
+  94%, 96% { transform: scaleY(0.08); }
+}
+
+.bot-eye {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: bot-blink var(--bd, 5s) ease-in-out var(--bdel, 0s) infinite;
+}
+
+/* ---------- Hero bot (3D tilt + float + blink) ---------- */
+
+@keyframes hero-float {
+  0%, 100% { margin-top: 0; }
+  50% { margin-top: -12px; }
+}
+
+.hero-bot {
+  display: grid;
+  place-items: center;
+  perspective: 750px;
+  margin-inline: auto;
+}
+
+.hero-bot-head {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  border-radius: 36px;
+  background: linear-gradient(150deg, #26262b 0%, #0d0d10 58%);
+  border: 1px solid var(--border-c);
+  box-shadow:
+    0 34px 70px -24px rgba(0, 0, 0, 0.65),
+    0 0 90px -18px color-mix(in srgb, var(--accent) 38%, transparent);
+  transform: rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
+  transform-style: preserve-3d;
+  animation: hero-float 6s ease-in-out infinite;
+  will-change: transform;
+}
+
+.hero-bot-head::before {
+  /* glossy 3D shine */
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background:
+    radial-gradient(130% 90% at 22% 6%, rgba(255, 255, 255, 0.18), transparent 44%),
+    linear-gradient(165deg, color-mix(in srgb, var(--accent) 26%, transparent), transparent 56%);
+  pointer-events: none;
+}
+
+.hero-bot-antenna {
+  position: absolute;
+  top: -24px;
+  left: 50%;
+  width: 3px;
+  height: 22px;
+  border-radius: 2px;
+  background: var(--border-c);
+  transform: translateZ(-6px);
+}
+
+.hero-bot-antenna::after {
+  content: "";
+  position: absolute;
+  top: -9px;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  transform: translateX(-50%);
+  background: var(--accent);
+  box-shadow: 0 0 16px color-mix(in srgb, var(--accent) 85%, transparent);
+  animation: bot-blink var(--bd, 5s) steps(1) var(--bdel, 0s) infinite;
+}
+
+.hero-bot-eyes {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.hero-bot-eye {
+  width: 17px;
+  height: 36px;
+  border-radius: 999px;
+  background: #ffffff;
+  box-shadow:
+    0 0 18px color-mix(in srgb, var(--accent) 80%, transparent),
+    0 0 4px rgba(255, 255, 255, 0.55);
+  transform-origin: center;
+  animation: bot-blink var(--bd, 5s) ease-in-out var(--bdel, 0s) infinite;
+}
+
+.hero-bot-shadow {
+  width: 110px;
+  height: 14px;
+  margin-top: 18px;
+  border-radius: 999px;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.35), transparent 70%);
+  filter: blur(2px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-bot-head,
+  .hero-bot-eye,
+  .hero-bot-antenna::after,
+  .bot-eye {
+    animation: none !important;
+  }
+}

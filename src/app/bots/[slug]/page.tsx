@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BotCard, OpenButton } from "@/components/bot-card";
+import { BotFace } from "@/components/bot-face";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { bots, botMap, relatedBots } from "@/data/bots";
@@ -59,19 +60,21 @@ export default async function BotPage({ params }: Props) {
         ]}
       />
 
-      <header>
-        <div className="flex flex-wrap items-center gap-2">
-          {category && (
-            <Link href={`/bots/category/${category.slug}`} className="badge hover:text-accent">
-              {category.name}
-            </Link>
-          )}
-          {bot.trending && <span className="badge badge-accent">Trending</span>}
-          <span className="text-xs text-muted">
-            Added {new Date(bot.addedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
-          </span>
-        </div>
-        <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{bot.name}</h1>
+      <header className="flex items-start gap-5">
+        <BotFace slug={bot.slug} name={bot.name} size={64} />
+        <div className="min-w-0">
+          <div className="flex flex-wrap items-center gap-2">
+            {category && (
+              <Link href={`/bots/category/${category.slug}`} className="badge hover:text-accent">
+                {category.name}
+              </Link>
+            )}
+            {bot.trending && <span className="badge badge-accent">Trending</span>}
+            <span className="text-xs text-muted">
+              Added {new Date(bot.addedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
+            </span>
+          </div>
+          <h1 className="mt-3 text-3xl font-semibold tracking-tight md:text-4xl">{bot.name}</h1>
         <p className="mt-2 text-lg text-muted">
           {bot.tagline}{" "}
           <span className="text-sm">
@@ -86,6 +89,7 @@ export default async function BotPage({ params }: Props) {
           <a href={`https://x.ai/bot`} target="_blank" rel="noopener noreferrer" className="btn btn-ghost">
             What is this?
           </a>
+        </div>
         </div>
       </header>
 
