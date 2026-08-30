@@ -1,9 +1,9 @@
-name: Weekly ops
-# Mondays: expire finished featured slots (auto-deploy if changed) and ping IndexNow.
+name: Daily ops
+# Daily: expire finished featured slots (auto-deploy if changed), refresh install metrics, ping IndexNow.
 
 on:
   schedule:
-    - cron: "0 4 * * 1"
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:

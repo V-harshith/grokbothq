@@ -40,4 +40,3 @@ dashboard, that's the Supabase upgrade path documented in the README.
   honest interim signal.
 - **User accounts / dashboards** — not needed for a directory.
 - **Sponsor self-serve checkout** — email-based sales flow is fine until volume justifies Stripe.
-- **Auto-refreshing news** — Hermes weekly batch keeps it fresh; a realtime feed needs an API budget.
