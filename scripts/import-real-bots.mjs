@@ -120,6 +120,7 @@ function toBot(r) {
     ...(r.prompt ? { instructions: String(r.prompt).slice(0, 1200) } : {}),
     ...(features.length ? { features } : {}),
     ...(tagList.length ? { bestFor: tagList } : {}),
+    ...(Array.isArray(r.integrations) && r.integrations.length ? { integrations: r.integrations.slice(0, 6) } : {}),
     ...(typeof r.install_count === "number" && r.install_count > 0 ? { installs: r.install_count } : {}),
     url: r.link,
     addedAt: String(r.created_at ?? "").slice(0, 10) || new Date().toISOString().slice(0, 10),

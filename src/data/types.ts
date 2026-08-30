@@ -21,6 +21,8 @@ export type Bot = {
   source?: string;
   /** Install count from the source directory, when published */
   installs?: number;
+  /** Tools this bot connects to (slug form: gmail, slack, ...) */
+  integrations?: string[];
 };
 
 export type Category = {

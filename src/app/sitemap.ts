@@ -5,6 +5,7 @@ import { categories } from "@/data/categories";
 import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
 import { comparePages } from "@/data/compare";
+import { allIntegrations } from "@/lib/integrations";
 
 export const dynamic = "force-static";
 
@@ -17,6 +18,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/bots`, lastModified: now, changeFrequency: "daily", priority: 0.9 },
     { url: `${base}/new`, lastModified: now, changeFrequency: "daily", priority: 0.8 },
     { url: `${base}/use-cases`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${base}/agent`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${base}/integrations`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
     { url: `${base}/news`, lastModified: now, changeFrequency: "daily", priority: 0.7 },
     { url: `${base}/privacy`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
     { url: `${base}/terms`, lastModified: now, changeFrequency: "yearly", priority: 0.3 },
@@ -57,6 +60,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
+  const integrationRoutes: MetadataRoute.Sitemap = allIntegrations().map((i) => ({
+    url: `${base}/integrations/${i.slug}`,
+    lastModified: now,
+    changeFrequency: "weekly" as const,
+    priority: 0.6,
+  }));
+
   const compareRoutes: MetadataRoute.Sitemap = comparePages.map((c) => ({
     url: `${base}/compare/${c.slug}`,
     lastModified: new Date(c.updatedAt),
@@ -64,5 +74,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticRoutes, ...botRoutes, ...categoryRoutes, ...comboRoutes, ...guideRoutes, ...compareRoutes];
+  return [...staticRoutes, ...botRoutes, ...categoryRoutes, ...comboRoutes, ...guideRoutes, ...compareRoutes, ...integrationRoutes];
 }

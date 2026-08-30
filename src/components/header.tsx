@@ -11,9 +11,9 @@ const nav = [
   { href: "/use-cases", label: "Use cases" },
   { href: "/groups", label: "Combos" },
   { href: "/guides", label: "Guides" },
+  { href: "/agent", label: "Agent" },
   { href: "/compare", label: "Compare" },
-  { href: "/new", label: "New" },
-  { href: "/faq", label: "FAQ" },
+  { href: "/news", label: "News" },
 ];
 
 export function Header() {

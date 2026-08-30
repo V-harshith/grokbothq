@@ -12,6 +12,9 @@
     "features": [
       "Connects with Claude Code"
     ],
+    "integrations": [
+      "claude-code"
+    ],
     "installs": 15,
     "url": "https://x.ai/bot/oq-mYZXM23ShlY7UbJWeB",
     "addedAt": "2026-08-30",
@@ -46,6 +49,10 @@
     "features": [
       "Connects with Convex, React"
     ],
+    "integrations": [
+      "convex",
+      "react"
+    ],
     "url": "https://x.ai/bot/OPLop__-mqSsyQheR5JYv",
     "addedAt": "2026-08-30",
     "status": "published",
@@ -78,6 +85,10 @@
     "category": "productivity",
     "features": [
       "Connects with Notion, Gmail"
+    ],
+    "integrations": [
+      "notion",
+      "gmail"
     ],
     "url": "https://x.ai/bot/GiBPBQR2WrHNul4k9Tz6Q",
     "addedAt": "2026-08-30",
@@ -158,6 +169,9 @@
     "features": [
       "Connects with Github"
     ],
+    "integrations": [
+      "github"
+    ],
     "url": "https://x.ai/bot/z4r7D8iILsTQDf7r7DwKR",
     "addedAt": "2026-08-30",
     "status": "published",
@@ -190,6 +204,13 @@
     "category": "productivity",
     "features": [
       "Connects with Google Calendar, Google Slides, Granola, Figma"
+    ],
+    "integrations": [
+      "google-calendar",
+      "google-slides",
+      "granola",
+      "figma",
+      "gmail"
     ],
     "url": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
     "addedAt": "2026-08-30",
@@ -284,6 +305,9 @@
     "features": [
       "Connects with Grok Bot"
     ],
+    "integrations": [
+      "grok-bot"
+    ],
     "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
     "addedAt": "2026-08-30",
     "status": "published"
@@ -331,6 +355,9 @@
     "features": [
       "Connects with Github"
     ],
+    "integrations": [
+      "github"
+    ],
     "url": "https://x.ai/bot/-TlSH1rNkA-c2JLsFFVc7",
     "addedAt": "2026-08-30",
     "status": "published"
@@ -347,6 +374,12 @@
     "category": "engineering",
     "features": [
       "Connects with Hacker News, Youtube, Github, Reddit"
+    ],
+    "integrations": [
+      "hacker-news",
+      "youtube",
+      "github",
+      "reddit"
     ],
     "installs": 3,
     "url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
@@ -381,6 +414,9 @@
     "category": "engineering",
     "features": [
       "Connects with Pstack"
+    ],
+    "integrations": [
+      "pstack"
     ],
     "installs": 1,
     "url": "https://x.ai/bot/Ub3T7usX-c6yRQibQq83P",
@@ -448,6 +484,9 @@
     "features": [
       "Connects with Slack"
     ],
+    "integrations": [
+      "slack"
+    ],
     "url": "https://x.ai/bot/IiWYN5QOjQeYw0KTISFEQ",
     "addedAt": "2026-08-30",
     "status": "published",
@@ -465,6 +504,9 @@
     "category": "engineering",
     "features": [
       "Connects with Gmail"
+    ],
+    "integrations": [
+      "gmail"
     ],
     "url": "https://x.ai/bot/Gd-cqXG8xG_RPmKGixa73",
     "addedAt": "2026-08-30",
@@ -498,6 +540,10 @@
     "category": "engineering",
     "features": [
       "Connects with Linkedin, Threads"
+    ],
+    "integrations": [
+      "linkedin",
+      "threads"
     ],
     "installs": 3,
     "url": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
@@ -628,6 +674,10 @@
     "features": [
       "Connects with Gmail, Google Calendar"
     ],
+    "integrations": [
+      "gmail",
+      "google-calendar"
+    ],
     "installs": 5,
     "url": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
     "addedAt": "2026-08-29",
@@ -651,6 +701,10 @@
       "personal",
       "saving-money",
       "life-hacks"
+    ],
+    "integrations": [
+      "gmail",
+      "google-drive"
     ],
     "url": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
     "addedAt": "2026-08-29",
@@ -731,6 +785,9 @@
       "marketer",
       "content"
     ],
+    "integrations": [
+      "x"
+    ],
     "url": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
     "addedAt": "2026-08-29",
     "status": "published",
@@ -754,6 +811,11 @@
       "sales",
       "ops"
     ],
+    "integrations": [
+      "gmail",
+      "google-calendar",
+      "slack"
+    ],
     "url": "https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq",
     "addedAt": "2026-08-29",
     "status": "published",
@@ -776,6 +838,9 @@
       "personal",
       "developer",
       "productivity"
+    ],
+    "integrations": [
+      "pstack"
     ],
     "url": "https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
     "addedAt": "2026-08-29",
@@ -819,6 +884,11 @@
       "personal",
       "productivity",
       "email"
+    ],
+    "integrations": [
+      "gmail",
+      "google-drive",
+      "google-calendar"
     ],
     "url": "https://x.ai/bot/tttQVA2UtlNwCzITNCIr0",
     "addedAt": "2026-08-29",
@@ -903,6 +973,12 @@
       "business",
       "ops"
     ],
+    "integrations": [
+      "gmail",
+      "google-calendar",
+      "slack",
+      "notion"
+    ],
     "url": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
     "addedAt": "2026-08-29",
     "status": "published",
@@ -925,6 +1001,12 @@
       "personal",
       "business",
       "ops"
+    ],
+    "integrations": [
+      "gmail",
+      "google-calendar",
+      "slack",
+      "notion"
     ],
     "url": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
     "addedAt": "2026-08-29",
@@ -1044,6 +1126,9 @@
       "email",
       "productivity"
     ],
+    "integrations": [
+      "gmail"
+    ],
     "installs": 5,
     "url": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
     "addedAt": "2026-08-29",
@@ -1088,6 +1173,9 @@
       "finance",
       "travel"
     ],
+    "integrations": [
+      "gmail"
+    ],
     "url": "https://x.ai/bot/PFD95widaEeqjkYLLUZmD",
     "addedAt": "2026-08-29",
     "status": "published",
@@ -1111,6 +1199,9 @@
       "automation",
       "monitoring"
     ],
+    "integrations": [
+      "github"
+    ],
     "url": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
     "addedAt": "2026-08-29",
     "status": "published",
@@ -1133,6 +1224,10 @@
       "business",
       "ops",
       "developer"
+    ],
+    "integrations": [
+      "notion",
+      "slack"
     ],
     "installs": 1,
     "url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
@@ -1219,6 +1314,9 @@
       "creator",
       "research"
     ],
+    "integrations": [
+      "firecrawl"
+    ],
     "url": "https://x.ai/bot/cV7nGFO88pb2WXNN56h8A",
     "addedAt": "2026-08-29",
     "status": "published",
@@ -1236,6 +1334,9 @@
     "category": "productivity",
     "features": [
       "Connects with Gmail"
+    ],
+    "integrations": [
+      "gmail"
     ],
     "url": "https://x.ai/bot/l8p6rXw-lalL-UNiHySnJ",
     "addedAt": "2026-08-29",
@@ -1299,6 +1400,10 @@
       "personal",
       "family",
       "email"
+    ],
+    "integrations": [
+      "gmail",
+      "google-calendar"
     ],
     "url": "https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9",
     "addedAt": "2026-08-29",
