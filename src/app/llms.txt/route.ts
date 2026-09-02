@@ -25,7 +25,17 @@ function build(): string {
   lines.push(`Current directory: ${stats.bots} bots, ${stats.builders} builders, ${stats.categories} categories. Last updated ${SITE.lastUpdated}.`);
   lines.push("");
 
-  lines.push("## Key pages");
+  lines.push("## Key facts");
+  lines.push("");
+  lines.push(`- Every listing is opened and tested by a human before publication; dead links are removed.`);
+  lines.push(`- Install counts shown on listings are reported by each bot's public source listing.`);
+  lines.push(`- The directory is independent and unaffiliated with xAI. Grok is a trademark of xAI.`);
+  lines.push(`- Content license: CC BY 4.0 with attribution (link to the site). Code is source-available and restricted.`);
+  lines.push(`- Operator: Harshith Rao (@harshithOG on X). Contact: ${SITE.email}`);
+  lines.push(`- Machine index: ${base}/api/v1/index.json - the full directory as JSON. RSS: ${base}/rss.xml`);
+  lines.push("");
+
+  lines.push("");
   lines.push("");
   lines.push(`- [Home](${base}/): the directory hub, featured bots, new additions`);
   lines.push(`- [All bots](${base}/bots): every hand-reviewed Grok bot, filterable by category`);

@@ -25,7 +25,18 @@ export default function AboutPage() {
       />
 
       <div className="prose-block">
-        <h2 className="text-xl font-semibold tracking-tight">Why this site exists</h2>
+        <h2 className="text-xl font-semibold tracking-tight">What is GrokBot HQ?</h2>
+        <p className="text-[15px] leading-relaxed text-muted">
+          GrokBot HQ is an independent, hand-reviewed directory of Grok bots: custom assistants built on xAI&apos;s Grok
+          platform that anyone can open in one click at x.ai/bot. As of {new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", year: "numeric" })} it
+          lists {stats.bots} bots from {stats.builders} builders across {stats.categories} categories, each one opened and tested by a human
+          before publication. Listings link to the bot, its builder, and the X post where it was introduced, and every
+          page is served as plain HTML plus a JSON index so Grok bots themselves can read the directory. It is operated
+          daily by Harshith Rao (@harshithOG) and is not affiliated with xAI. Directory content is licensed CC BY 4.0
+          with attribution.
+        </p>
+
+        <h2 className="mt-8 text-xl font-semibold tracking-tight">Why this site exists</h2>
         <p className="text-[15px] leading-relaxed text-muted">
           Grok bots are tiny, useful, and scattered. The good ones spread by word of mouth and die in reply threads; the
           bad ones wear the same clothes. We started GrokBot HQ as the missing layer between builders and users: a

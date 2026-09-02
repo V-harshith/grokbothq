@@ -6,7 +6,7 @@ import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { guides, guideMap } from "@/data/guides";
 import { SITE } from "@/data/site";
-import { pageMetadata, breadcrumbsJsonLd, articleJsonLd } from "@/lib/seo";
+import { pageMetadata, breadcrumbsJsonLd, articleJsonLd, personJsonLd } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -39,12 +39,13 @@ export default async function GuidePage({ params }: Props) {
     <div className="container-x max-w-3xl py-12">
       <JsonLd
         data={[
+          personJsonLd(),
           articleJsonLd({
             title: guide.title,
             description: guide.description,
             path: `/guides/${guide.slug}`,
             dateModified: guide.updatedAt,
-            author: SITE.name,
+            author: "Harshith Rao (@harshithOG)",
             tags: guide.tags,
           }),
           breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Guides", path: "/guides" }, { name: guide.title, path: `/guides/${guide.slug}` }]),

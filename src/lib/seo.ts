@@ -72,7 +72,7 @@ export function organizationJsonLd() {
     description: SITE.description,
     foundingDate: SITE.founded,
     email: SITE.email,
-    sameAs: [`https://x.com/${SITE.twitter.replace("@", "")}`],
+    sameAs: [`https://x.com/${SITE.twitter.replace("@", "")}`, "https://github.com/V-harshith/grokbothq"],
   };
 }
 
@@ -116,6 +116,19 @@ export function faqJsonLd(faqs: { q: string; a: string }[], opts?: { dateModifie
       name: f.q,
       acceptedAnswer: { "@type": "Answer", text: f.a },
     })),
+  };
+}
+
+/** The operator entity - entity linking for AI engines (sameAs across platforms). */
+export function personJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: "Harshith Rao",
+    alternateName: "harshithOG",
+    url: "https://x.com/harshithOG",
+    sameAs: ["https://x.com/harshithOG", "https://github.com/V-harshith"],
+    worksFor: { "@type": "Organization", name: SITE.name, url: absUrl("/") },
   };
 }
 
