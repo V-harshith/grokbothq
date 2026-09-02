@@ -417,3 +417,24 @@ a {
     animation: none !important;
   }
 }
+
+/* ---------- Dot-matrix divider (quiet, one keyframe + delays) ---------- */
+
+.dot-divider {
+  color: var(--muted);
+  opacity: 0.55;
+  margin: 0.75rem auto;
+  max-width: 72rem;
+  padding-inline: 1rem;
+}
+.dot-divider circle {
+  animation: dot-travel 5.6s linear infinite;
+}
+@keyframes dot-travel {
+  0%, 100% { opacity: 0.18; }
+  10% { opacity: 1; }
+  24% { opacity: 0.18; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dot-divider circle { animation: none; opacity: 0.3; }
+}

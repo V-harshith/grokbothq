@@ -51,6 +51,7 @@ export function Footer() {
             <li><Link href="/guides/what-are-grok-bots" className="hover:text-foreground">What are Grok bots?</Link></li>
             <li><Link href="/guides/how-to-create-a-grok-bot" className="hover:text-foreground">Create a Grok bot</Link></li>
             <li><Link href="/agent" className="hover:text-foreground">Point your bot here</Link></li>
+            <li><Link href="/stats" className="hover:text-foreground">State of Grok Bots</Link></li>
             <li><Link href="/compare" className="hover:text-foreground">Grok bots vs the world</Link></li>
             <li><Link href="/faq" className="hover:text-foreground">FAQ</Link></li>
             <li><Link href="/about" className="hover:text-foreground">About</Link></li>

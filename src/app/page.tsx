@@ -18,6 +18,7 @@ import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
 import { SITE } from "@/data/site";
 import { faqs } from "@/data/faqs";
+import { DotDivider } from "@/components/dot-divider";
 import { botsByCategory } from "@/data/bots";
 import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
 
@@ -187,7 +188,7 @@ export default function HomePage() {
           title="More than a list"
           description="The directory is machine-readable. Point your own Grok Bot at it, browse by the tools you already use, or subscribe to the feed."
         />
-        <div className="grid gap-4 md:grid-cols-3">
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <Link href="/agent" className="card card-hover flex flex-col p-6">
             <h3 className="font-semibold">Point your Grok Bot here</h3>
             <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
@@ -212,6 +213,13 @@ export default function HomePage() {
               <a href="/api/v1/index.json" className="text-accent hover:underline">JSON API →</a>
             </span>
           </div>
+          <Link href="/stats" className="card card-hover flex flex-col p-6">
+            <h3 className="font-semibold">State of Grok Bots</h3>
+            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
+              Original daily-computed statistics: category distribution, installs, builders, growth. Citable under CC BY.
+            </p>
+            <span className="mt-4 text-xs font-semibold text-accent">See the data →</span>
+          </Link>
         </div>
       </section>
 
@@ -265,6 +273,8 @@ export default function HomePage() {
           <NewsletterForm />
         </div>
       </section>
+
+      <DotDivider />
 
       {/* FAQ */}
       <section className="border-t border-border bg-surface">

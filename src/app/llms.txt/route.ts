@@ -42,6 +42,7 @@ function build(): string {
   lines.push(`- [New this week](${base}/new): the freshest reviewed additions`);
   lines.push(`- [Use cases](${base}/use-cases): real-world examples of people using Grok bots, sourced from X posts`);
   lines.push(`- [News](${base}/news): curated Grok ecosystem news with source links`);
+  lines.push(`- [State of Grok Bots](${base}/stats): original daily-computed directory statistics, CC BY`);
   lines.push(`- [Combos](${base}/groups): tested sets of bots that work together in pipelines`);
   lines.push(`- [Guides](${base}/guides): how to create, write instructions for, chain, and monetize Grok bots`);
   lines.push(`- [Compare](${base}/compare): Grok bots vs Custom GPTs, Claude Skills, Gemini Gems, agent frameworks`);
