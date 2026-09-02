@@ -418,23 +418,172 @@ a {
   }
 }
 
-/* ---------- Dot-matrix divider (quiet, one keyframe + delays) ---------- */
+/* ---------- Hero bot (matches the Grok app mascot: dark squircle head,
+   two glowing pill eyes; anchored in place, tracks the cursor in a
+   circular arc; transform-only motion, no layout properties) ---------- */
 
-.dot-divider {
+.hero-glow {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(58% 52% at 50% 16%, color-mix(in srgb, var(--accent) 9%, transparent), transparent 72%);
+  pointer-events: none;
+}
+
+.hero-bot {
+  display: grid;
+  place-items: center;
+  perspective: 800px;
+  margin-inline: auto;
+}
+
+.hero-bot-head {
+  position: relative;
+  width: 172px;
+  height: 152px;
+  border-radius: 46px;
+  background: radial-gradient(140% 105% at 30% 0%, #2e2e34 0%, #16161a 46%, #0a0a0c 100%);
+  border: 1px solid #303038;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.07),
+    0 26px 55px -22px rgba(0, 0, 0, 0.55);
+  transform: rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+.hero-bot-eyes {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+  will-change: transform;
+}
+
+.hero-bot-eye {
+  width: 19px;
+  height: 46px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #ffffff 0%, #e9e9ec 100%);
+  box-shadow:
+    0 0 12px rgba(255, 255, 255, 0.28),
+    0 0 34px color-mix(in srgb, var(--accent) 24%, transparent);
+  transform-origin: center;
+  animation: bot-blink var(--bd, 5s) cubic-bezier(0.34, 1.56, 0.64, 1) var(--bdel, 0s) infinite;
+}
+
+.hero-bot-shadow {
+  width: 116px;
+  height: 12px;
+  margin-top: 22px;
+  border-radius: 999px;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.5), transparent 72%);
+  filter: blur(3px);
+  transform-origin: center;
+}
+
+:root:not(.dark) .hero-bot-shadow {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.28), transparent 72%);
+}
+
+/* ---------- Ad unit (Carbon-ads style: small, tidy, top of page) ---------- */
+
+.ad-slot {
+  width: 100%;
+  max-width: 21rem;
+}
+
+.ad-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 1rem 1.125rem;
+  border-radius: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border-c);
+  transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1), transform 0.25s cubic-bezier(0.32, 0.72, 0, 1);
+}
+.ad-card:hover {
+  border-color: color-mix(in srgb, var(--accent) 55%, var(--border-c));
+  transform: translateY(-1px);
+}
+.ad-card:active {
+  transform: scale(0.98);
+}
+
+.ad-card-open {
+  border-style: dashed;
+}
+
+.ad-label {
+  font-family: var(--font-mono), monospace;
+  font-size: 0.625rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.ad-title {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.ad-desc {
+  font-size: 0.8125rem;
+  line-height: 1.5;
   color: var(--muted);
-  opacity: 0.55;
-  margin: 0.75rem auto;
-  max-width: 72rem;
-  padding-inline: 1rem;
 }
-.dot-divider circle {
-  animation: dot-travel 5.6s linear infinite;
+
+.ad-cta {
+  margin-top: 0.375rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
 }
-@keyframes dot-travel {
-  0%, 100% { opacity: 0.18; }
-  10% { opacity: 1; }
-  24% { opacity: 0.18; }
+
+.ad-via {
+  margin-top: 0.375rem;
+  text-align: right;
+  font-family: var(--font-mono), monospace;
+  font-size: 0.625rem;
+  color: var(--muted);
+  opacity: 0.7;
 }
+
+/* ---------- Scroll reveal (site-wide, transform/opacity only) ---------- */
+
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s cubic-bezier(0.32, 0.72, 0, 1), transform 0.6s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+[data-reveal].reveal-in {
+  opacity: 1;
+  transform: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .dot-divider circle { animation: none; opacity: 0.3; }
+  [data-reveal] {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+@media (prefers-reduced-transparency: reduce) {
+  header.sticky {
+    backdrop-filter: none !important;
+    background: var(--background) !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-bot-eye,
+  .bot-eye {
+    animation: none !important;
+  }
 }

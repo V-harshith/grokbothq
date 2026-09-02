@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
-import { DotDivider } from "@/components/dot-divider";
 import { siteStats } from "@/lib/site-stats";
 import { pageMetadata, breadcrumbsJsonLd, absUrl } from "@/lib/seo";
 import { SITE } from "@/data/site";
@@ -14,15 +13,12 @@ export const metadata: Metadata = pageMetadata({
   path: "/stats",
 });
 
-/** Dot-matrix bar: each dot is one unit, capped for display. */
-function DotBar({ count, max, hue = 0 }: { count: number; max: number; hue?: number }) {
-  const dots = Math.max(1, Math.round((count / Math.max(max, 1)) * 24));
+function MeasureBar({ count, max }: { count: number; max: number }) {
+  const pct = Math.max(4, Math.round((count / Math.max(max, 1)) * 100));
   return (
-    <svg width="100%" height="10" viewBox={`0 0 ${24 * 12} 10`} preserveAspectRatio="xMinYMid meet" className="block" aria-hidden>
-      {Array.from({ length: dots }, (_, i) => (
-        <circle key={i} cx={i * 12 + 6} cy={5} r={3.2} fill={i < count ? "currentColor" : "transparent"} opacity={i < count ? 1 : 0.12} data-hue={hue} />
-      ))}
-    </svg>
+    <div className="h-1.5 w-full rounded-full bg-elevated" role="presentation">
+      <div className="h-full rounded-full bg-accent transition-[width] duration-700" style={{ width: `${pct}%` }} />
+    </div>
   );
 }
 
@@ -95,7 +91,6 @@ export default function StatsPage() {
         </div>
       </section>
 
-      <DotDivider />
 
       {/* categories */}
       <section className="mt-10" data-reveal>
@@ -108,7 +103,7 @@ export default function StatsPage() {
                 <span className="tnum font-mono text-muted">{c.count}</span>
               </div>
               <div className="text-accent">
-                <DotBar count={c.count} max={maxCategory} />
+                <MeasureBar count={c.count} max={maxCategory} />
               </div>
             </div>
           ))}
@@ -128,7 +123,7 @@ export default function StatsPage() {
                 <span className="tnum font-mono text-muted">{i.count}</span>
               </div>
               <div className="text-accent">
-                <DotBar count={i.count} max={maxIntegration} />
+                <MeasureBar count={i.count} max={maxIntegration} />
               </div>
             </div>
           ))}

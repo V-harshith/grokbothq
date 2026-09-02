@@ -18,7 +18,6 @@ import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
 import { SITE } from "@/data/site";
 import { faqs } from "@/data/faqs";
-import { DotDivider } from "@/components/dot-divider";
 import { botsByCategory } from "@/data/bots";
 import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
 
@@ -273,8 +272,6 @@ export default function HomePage() {
           <NewsletterForm />
         </div>
       </section>
-
-      <DotDivider />
 
       {/* FAQ */}
       <section className="border-t border-border bg-surface">
