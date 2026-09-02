@@ -12,9 +12,16 @@ export function GET() {
   const base = SITE.url.replace(/\/$/, "");
   const cutoff = new Date(Date.now() - 2 * 86_400_000).toISOString().slice(0, 10);
 
-  const recent = [...news]
+  let recent = [...news]
     .filter((n) => n.date >= cutoff)
     .sort((a, b) => b.date.localeCompare(a.date));
+
+  // never serve an empty urlset: when nothing falls inside Google's strict
+  // 2-day news window, include the newest items anyway (Google simply treats
+  // them as regular content; the sitemap stays valid for Search Console)
+  if (recent.length === 0) {
+    recent = [...news].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 10);
+  }
 
   const xml = [
     '<?xml version="1.0" encoding="UTF-8"?>',
