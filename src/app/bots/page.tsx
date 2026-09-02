@@ -4,6 +4,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { AdSlot } from "@/components/ad-slot";
 import { bots } from "@/data/bots";
+import { SITE } from "@/data/site";
 import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
@@ -29,6 +30,30 @@ export default function BotsPage() {
         </div>
       </div>
       <BotsBrowser bots={bots} />
+      <section className="card mt-10 p-6" aria-label="Methodology">
+        <h2 className="text-lg font-semibold">How the numbers are counted</h2>
+        <dl className="mt-4 grid gap-4 text-sm leading-relaxed text-muted sm:grid-cols-2">
+          <div>
+            <dt className="font-semibold text-foreground">Every listing was opened and tested</dt>
+            <dd>Each bot is run against real prompts before it earns a page here. Listings that fail or die are set to hidden, not shown.</dd>
+          </div>
+          <div>
+            <dt className="font-semibold text-foreground">Install counts come from the source listing</dt>
+            <dd>Where a bot&apos;s public listing publishes install data, we show that number and link the bot and builder.</dd>
+          </div>
+          <div>
+            <dt className="font-semibold text-foreground">Data freshness</dt>
+            <dd>
+              The directory is re-verified daily and was last updated on{" "}
+              {new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}.
+            </dd>
+          </div>
+          <div>
+            <dt className="font-semibold text-foreground">Limitations</dt>
+            <dd>Bot behavior depends on xAI&apos;s platform and each builder&apos;s instructions - test a bot yourself before relying on it.</dd>
+          </div>
+        </dl>
+      </section>
     </div>
   );
 }

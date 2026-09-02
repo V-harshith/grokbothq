@@ -5,7 +5,7 @@ import { Breadcrumbs } from "@/components/ui";
 import { FaqList } from "@/components/faq-list";
 import { JsonLd } from "@/components/json-ld";
 import { comparePages, compareMap } from "@/data/compare";
-import { pageMetadata, breadcrumbsJsonLd, articleJsonLd, } from "@/lib/seo";
+import { pageMetadata, breadcrumbsJsonLd, articleJsonLd, faqJsonLd, } from "@/lib/seo";
 import { SITE } from "@/data/site";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -37,6 +37,7 @@ export default async function CompareDetailPage({ params }: Props) {
     <div className="container-x max-w-4xl py-12">
       <JsonLd
         data={[
+          faqJsonLd(page.faqs, { dateModified: page.updatedAt }),
           articleJsonLd({ title: page.title, description: page.description, path: `/compare/${page.slug}`, dateModified: page.updatedAt, author: SITE.name }),
           breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Compare", path: "/compare" }, { name: page.title, path: `/compare/${page.slug}` }]),
         ]}

@@ -19,7 +19,7 @@ import { guides } from "@/data/guides";
 import { SITE } from "@/data/site";
 import { faqs } from "@/data/faqs";
 import { botsByCategory } from "@/data/bots";
-import { pageMetadata, absUrl } from "@/lib/seo";
+import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "GrokBot HQ - The Hand-Reviewed Directory of Grok Bots",
@@ -36,7 +36,7 @@ export default function HomePage() {
 
   return (
     <>
-      <JsonLd data={[{ "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
+      <JsonLd data={[faqJsonLd(faqs.slice(0, 8), { dateModified: SITE.lastUpdated }), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
 
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-border">

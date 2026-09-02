@@ -105,6 +105,20 @@ export function articleJsonLd(opts: { title: string; description: string; path: 
   };
 }
 
+/** FAQPage stays valuable for AI citation even though Google retired its rich-result display. */
+export function faqJsonLd(faqs: { q: string; a: string }[], opts?: { dateModified?: string }) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    ...(opts?.dateModified ? { datePublished: opts.dateModified, dateModified: opts.dateModified } : {}),
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  };
+}
+
 export function botListJsonLd(bots: Bot[], path: string) {
   return {
     "@context": "https://schema.org",

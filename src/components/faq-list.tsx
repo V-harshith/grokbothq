@@ -1,10 +1,14 @@
 import type { Faq } from "@/data/faqs";
 
+function faqId(q: string): string {
+  return "faq-" + q.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60);
+}
+
 export function FaqList({ faqs }: { faqs: Faq[] }) {
   return (
     <div className="divide-y divide-border">
       {faqs.map((faq) => (
-        <details key={faq.q} className="group py-4">
+        <details key={faq.q} id={faqId(faq.q)} className="group scroll-mt-24 py-4">
           <summary className="flex cursor-pointer list-none items-center justify-between gap-4 text-[15px] font-medium [&::-webkit-details-marker]:hidden">
             <h3 className="text-[15px] font-medium">{faq.q}</h3>
             <svg

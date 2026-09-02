@@ -4,7 +4,8 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { FaqList } from "@/components/faq-list";
 import { JsonLd } from "@/components/json-ld";
 import { faqs } from "@/data/faqs";
-import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
+import { SITE } from "@/data/site";
+import { pageMetadata, breadcrumbsJsonLd, faqJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "Grok Bots FAQ - Every Question, Answered Plainly",
@@ -16,7 +17,7 @@ export const metadata: Metadata = pageMetadata({
 export default function FaqPage() {
   return (
     <div className="container-x max-w-3xl py-12">
-      <JsonLd data={[breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "FAQ", path: "/faq" }])]} />
+      <JsonLd data={[faqJsonLd(faqs, { dateModified: SITE.lastUpdated }), breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "FAQ", path: "/faq" }])]} />
       <Breadcrumbs items={[{ name: "Home", path: "/" }, { name: "FAQ" }]} />
       <SectionHeader
         kicker="FAQ"
