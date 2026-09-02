@@ -75,6 +75,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <noscript><style>{`[data-reveal]{opacity:1 !important;transform:none !important}`}</style></noscript>
+        <link rel="alternate" type="application/rss+xml" title="GrokBot HQ" href="/rss.xml" />
       </head>
       <body className="flex min-h-full flex-col">
         {umamiUrl && umamiId && (
