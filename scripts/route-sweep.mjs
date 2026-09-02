@@ -1,11 +1,14 @@
 // Route sweep: hit every sitemap URL, report anything that is not a 200.
 import http from "node:http";
+import https from "node:https";
 
 const BASE = process.argv[2] ?? "http://localhost:3133";
+const mod = BASE.startsWith("https") ? https : http;
+const origin = new URL(BASE).origin;
 
 function get(url) {
   return new Promise((resolve) => {
-    http
+    mod
       .get(url, (r) => {
         r.resume();
         resolve(r.statusCode);
@@ -16,7 +19,7 @@ function get(url) {
 
 function getText(path) {
   return new Promise((resolve) => {
-    http
+    mod
       .get(BASE + path, (r) => {
         let d = "";
         r.on("data", (c) => (d += c));
@@ -27,7 +30,9 @@ function getText(path) {
 }
 
 const xml = await getText("/sitemap.xml");
-const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace("https://grokbothq.xyz", BASE));
+const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) =>
+  m[1].replace("https://grokbothq.xyz", origin)
+);
 
 const bad = [];
 for (const u of urls) {
