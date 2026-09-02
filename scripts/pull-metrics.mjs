@@ -31,9 +31,9 @@ async function api(path) {
   return res.json();
 }
 
-// Umami (v2) event endpoint: /api/websites/:id/events?start_at&end_at
-// Each entry: { x: event name, y: count, ... } flattened per property value.
-const events = await api(`/api/websites/${siteId}/events?start_at=${Date.parse(start)}&end_at=${Date.parse(end)}`);
+// Umami (v3) endpoint: /api/websites/:id/metrics?startAt&endAt&type=event
+// Entry shape: { x: event name, y: count, ... } with property breakdowns.
+const events = await api(`/api/websites/${siteId}/metrics?startAt=${Date.parse(start)}&endAt=${Date.parse(end)}&type=event`);
 const counts = {};
 let sponsorClicks30d = 0;
 for (const e of events) {
@@ -52,7 +52,7 @@ const prev = (() => {
   }
 })();
 
-const sponsorClicks = ((prev.sponsorClicks ?? 0) as number) + sponsorClicks30d;
+const sponsorClicks = (prev.sponsorClicks ?? 0) + sponsorClicks30d;
 const merged = { updatedAt: new Date().toISOString().slice(0, 10), opens: { ...prev.opens, ...counts }, sponsorClicks };
 writeFileSync("content/metrics.json", JSON.stringify(merged, null, 2) + "\n", "utf8");
 const total = Object.values(merged.opens).reduce((a, b) => a + b, 0);
