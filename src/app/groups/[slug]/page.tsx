@@ -5,7 +5,7 @@ import { BotFace } from "@/components/bot-face";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { combos, comboMap, comboBots } from "@/data/combos";
-import { pageMetadata, breadcrumbsJsonLd, howToJsonLd } from "@/lib/seo";
+import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -37,7 +37,6 @@ export default async function ComboPage({ params }: Props) {
     <div className="container-x max-w-4xl py-12">
       <JsonLd
         data={[
-          howToJsonLd(`${combo.name} workflow`, combo.description, combo.steps, combo.addedAt),
           breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Combos", path: "/groups" }, { name: combo.name, path: `/groups/${combo.slug}` }]),
         ]}
       />

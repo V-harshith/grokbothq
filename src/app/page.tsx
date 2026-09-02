@@ -16,10 +16,10 @@ import { categories } from "@/data/categories";
 import { featuredBots, latestBots, stats } from "@/data/bots";
 import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
-import { faqs } from "@/data/faqs";
 import { SITE } from "@/data/site";
+import { faqs } from "@/data/faqs";
 import { botsByCategory } from "@/data/bots";
-import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
+import { pageMetadata, absUrl } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   title: "GrokBot HQ - The Hand-Reviewed Directory of Grok Bots",
@@ -28,7 +28,6 @@ export const metadata: Metadata = pageMetadata({
   path: "/",
 });
 
-const homeFaqs = faqs.slice(0, 8);
 
 export default function HomePage() {
   const featured = (featuredBots().length ? featuredBots() : latestBots(3)).slice(0, 3);
@@ -37,7 +36,7 @@ export default function HomePage() {
 
   return (
     <>
-      <JsonLd data={[faqJsonLd(homeFaqs), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
+      <JsonLd data={[{ "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
 
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-border">
@@ -271,7 +270,7 @@ export default function HomePage() {
       <section className="border-t border-border bg-surface">
         <div className="container-x max-w-3xl py-16 md:py-24">
           <SectionHeader title="Questions, answered" description="The questions we get most, answered plainly. More on the full FAQ page." link="/faq" />
-          <FaqList faqs={homeFaqs} />
+          <FaqList faqs={faqs.slice(0, 8)} />
         </div>
       </section>
 

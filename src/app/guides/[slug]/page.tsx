@@ -6,7 +6,7 @@ import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { guides, guideMap } from "@/data/guides";
 import { SITE } from "@/data/site";
-import { pageMetadata, breadcrumbsJsonLd, articleJsonLd, howToJsonLd } from "@/lib/seo";
+import { pageMetadata, breadcrumbsJsonLd, articleJsonLd } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -33,7 +33,6 @@ export default async function GuidePage({ params }: Props) {
   const guide = guideMap.get(slug);
   if (!guide) notFound();
 
-  const howTo = guide.sections.find((s) => s.steps);
   const others = guides.filter((g) => g.slug !== guide.slug).slice(0, 3);
 
   return (
@@ -48,7 +47,6 @@ export default async function GuidePage({ params }: Props) {
             author: SITE.name,
             tags: guide.tags,
           }),
-          ...(howTo?.steps ? [howToJsonLd(guide.title, guide.description, howTo.steps, guide.updatedAt)] : []),
           breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Guides", path: "/guides" }, { name: guide.title, path: `/guides/${guide.slug}` }]),
         ]}
       />

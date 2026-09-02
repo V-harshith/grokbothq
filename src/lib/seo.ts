@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { SITE } from "@/data/site";
 import type { Bot } from "@/data/bots";
-import type { Faq } from "@/data/faqs";
 
 export function absUrl(path = "/"): string {
   const base = SITE.url.replace(/\/$/, "");
@@ -86,34 +85,6 @@ export function breadcrumbsJsonLd(items: { name: string; path: string }[]) {
       position: i + 1,
       name: item.name,
       item: absUrl(item.path),
-    })),
-  };
-}
-
-export function faqJsonLd(faqs: Faq[]) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: faqs.map((f) => ({
-      "@type": "Question",
-      name: f.q,
-      acceptedAnswer: { "@type": "Answer", text: f.a },
-    })),
-  };
-}
-
-export function howToJsonLd(name: string, description: string, steps: { name: string; text: string }[], datePublished?: string) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    name,
-    description,
-    ...(datePublished ? { datePublished } : {}),
-    step: steps.map((s, i) => ({
-      "@type": "HowToStep",
-      position: i + 1,
-      name: s.name,
-      text: s.text,
     })),
   };
 }

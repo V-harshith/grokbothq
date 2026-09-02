@@ -10,7 +10,7 @@ import { botsByCategory } from "@/data/bots";
 import { categories, categoryMap } from "@/data/categories";
 import { combos } from "@/data/combos";
 import { comboBots } from "@/data/combos";
-import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, faqJsonLd, collectionPageJsonLd } from "@/lib/seo";
+import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -43,7 +43,6 @@ export default async function CategoryPage({ params }: Props) {
         data={[
           botListJsonLd(list, `/bots/category/${category.slug}`),
           collectionPageJsonLd(`${category.name} Grok bots`, category.intro, `/bots/category/${category.slug}`),
-          faqJsonLd(category.faqs),
           breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Bots", path: "/bots" }, { name: category.name, path: `/bots/category/${category.slug}` }]),
         ]}
       />
