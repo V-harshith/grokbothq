@@ -14,14 +14,16 @@ type PageMetaInput = {
   type?: "website" | "article";
   publishedTime?: string;
   tags?: string[];
+  keywords?: string[];
 };
 
 /** Standard metadata block: canonical, OG, Twitter. OG images come from app/opengraph-image. */
-export function pageMetadata({ title, description, path, type = "website", publishedTime, tags }: PageMetaInput): Metadata {
+export function pageMetadata({ title, description, path, type = "website", publishedTime, tags, keywords }: PageMetaInput): Metadata {
   const url = absUrl(path);
   return {
     title,
     description,
+    keywords,
     alternates: { canonical: url },
     openGraph: {
       title,

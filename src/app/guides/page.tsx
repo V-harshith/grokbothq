@@ -10,6 +10,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Free, practical Grok bot guides: what bots are, how to create one in 10 minutes, instruction-writing patterns, chaining bots into workflows, safety, and monetization.",
   path: "/guides",
+  keywords: ["grok bot guides", "how to create a grok bot", "grok bot instructions", "grok bot tutorial", "grok bot tips", "grok bot workflow"],
 });
 
 export default function GuidesPage() {

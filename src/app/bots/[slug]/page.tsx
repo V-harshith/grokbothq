@@ -5,7 +5,7 @@ import { BotCard, OpenButton } from "@/components/bot-card";
 import { BotFace } from "@/components/bot-face";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
-import { bots, botMap, relatedBots } from "@/data/bots";
+import { bots, botMap, relatedBots, botOpens } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
 import { pageMetadata, botSoftwareJsonLd, breadcrumbsJsonLd, absUrl } from "@/lib/seo";
 
@@ -172,7 +172,11 @@ export default async function BotPage({ params }: Props) {
             </div>
             <div className="mt-4 grid gap-2 text-sm">
               <OpenButton bot={bot} />
-              {typeof bot.installs === "number" && bot.installs > 0 && (
+              {botOpens(bot.slug) > 0 ? (
+                <p className="text-center text-xs text-muted">
+                  <strong className="tnum font-mono text-foreground">{botOpens(bot.slug)}</strong> opens from GrokBot HQ readers
+                </p>
+              ) : typeof bot.installs === "number" && bot.installs > 0 && (
                 <p className="text-center text-xs text-muted">
                   <strong className="tnum font-mono text-foreground">{bot.installs}</strong> installs reported so far
                 </p>

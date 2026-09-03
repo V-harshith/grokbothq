@@ -13,7 +13,7 @@ import { NewsletterForm } from "@/components/newsletter-form";
 import { news } from "@/lib/news";
 import { CopyAgentPrompt } from "@/components/copy-agent-prompt";
 import { categories } from "@/data/categories";
-import { featuredBots, latestBots, stats } from "@/data/bots";
+import { featuredBots, latestBots, stats, bots } from "@/data/bots";
 import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
 import { SITE } from "@/data/site";
@@ -26,12 +26,32 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.",
   path: "/",
+  keywords: [
+    "grok bots",
+    "grok bot directory",
+    "best grok bots",
+    "grok bot list",
+    "free grok bots",
+    "grok bot combos",
+    "grok xai bots",
+    "grok bots that work",
+  ],
 });
 
 
 export default function HomePage() {
-  const featured = (featuredBots().length ? featuredBots() : latestBots(3)).slice(0, 3);
   const fresh = latestBots(4);
+  const freshSlugs = new Set(fresh.map((b) => b.slug));
+  // Standouts: paid featured placements first, then top-installed bots - always
+  // excluding the fresh row so the same bot never appears in both sections.
+  const standouts = (() => {
+    const featured = featuredBots().filter((b) => !freshSlugs.has(b.slug));
+    if (featured.length >= 3) return featured.slice(0, 3);
+    const rest = [...bots]
+      .filter((b) => !freshSlugs.has(b.slug))
+      .sort((a, b) => (b.installs ?? 0) - (a.installs ?? 0));
+    return [...featured, ...rest].slice(0, 3);
+  })();
   const useCases = latestBots(30).filter((b) => b.source).slice(0, 3);
 
   return (
@@ -88,7 +108,7 @@ export default function HomePage() {
           linkLabel="All bots"
         />
         <div className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {featured.map((bot) => (
+          {standouts.map((bot) => (
             <BotCard key={bot.slug} bot={bot} />
           ))}
           <AdSlotCard />
