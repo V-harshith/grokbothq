@@ -3677,5 +3677,245 @@
     "url": "https://x.ai/bot/uvX1KHZ67D_AZQogYxR8-",
     "addedAt": "2026-08-30",
     "status": "published"
+  },
+  {
+    "slug": "tinkabot",
+    "name": "tinkabot",
+    "builder": {
+      "name": "poteto",
+      "x": "poteto"
+    },
+    "tagline": "Wraps an API into a Cursor plugin. Smallest scaffold that works, prove locally, then publish.",
+    "description": "Wraps an API into a Cursor plugin. Smallest scaffold that works, prove locally, then publish.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "nightly-audit-engineer",
+    "name": "nightly audit engineer",
+    "builder": {
+      "name": "lingxi",
+      "x": "lingxi"
+    },
+    "tagline": "Researches a whole codebase overnight, then ships one cleanup per area.",
+    "description": "Researches a whole codebase overnight, then ships one cleanup per area.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "engineer-bot",
+    "name": "engineer bot",
+    "builder": {
+      "name": "lingxi",
+      "x": "lingxi"
+    },
+    "tagline": "Boards work, launches cloud agents, watches PRs every 30 minutes, only asks you to merge.",
+    "description": "Boards work, launches cloud agents, watches PRs every 30 minutes, only asks you to merge.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "figma-bro",
+    "name": "figma bro",
+    "builder": {
+      "name": "johnbai",
+      "x": "johnbai"
+    },
+    "tagline": "Designs in Figma. Real components, intuitive layout, and motion that feels right.",
+    "description": "Designs in Figma. Real components, intuitive layout, and motion that feels right.",
+    "category": "creative",
+    "url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "tech-demos",
+    "name": "tech demos",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "Picks one library from your X bookmarks, asks approval, then builds it in a sticky monorepo with a Cursor cloud agent.",
+    "description": "Picks one library from your X bookmarks, asks approval, then builds it in a sticky monorepo with a Cursor cloud agent.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "x-algo",
+    "name": "X algo",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "When to quote, ship, or wait, read off the public For You ranking code and your live metrics.",
+    "description": "When to quote, ship, or wait, read off the public For You ranking code and your live metrics.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/X_P19IvPAHZ3FiA1Q-05s",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "writing-bot",
+    "name": "writing bot",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "Structured revision for essays, emails, docs. Keeps your meaning, facts, and voice.",
+    "description": "Structured revision for essays, emails, docs. Keeps your meaning, facts, and voice.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/gJ4waNMuQoJkQCGX77yF3",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "connections",
+    "name": "connections",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "Maps your following and mutuals by location into a Notion database you already own.",
+    "description": "Maps your following and mutuals by location into a Notion database you already own.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/FtxHtWPnLGheNJmF04wSf",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "image-gen-bot",
+    "name": "image gen bot",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "Gathers refs, writes the Grok Imagine prompt, cuts the background on FAL, iterates until you lock it.",
+    "description": "Gathers refs, writes the Grok Imagine prompt, cuts the background on FAL, iterates until you lock it.",
+    "category": "creative",
+    "url": "https://x.ai/bot/phPQtGzCZOynABubl0pwx",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "skippy",
+    "name": "skippy",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "Paste an address, get the next posted street sweep on that SF curb. Never claims a stall is legal.",
+    "description": "Paste an address, get the next posted street sweep on that SF curb. Never claims a stall is legal.",
+    "category": "life",
+    "url": "https://x.ai/bot/b00VrDzeasoqtPymoNDB-",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "dial-bot",
+    "name": "dial bot",
+    "builder": {
+      "name": "mattyp",
+      "x": "mattyp"
+    },
+    "tagline": "Places outbound Bland AI phone calls when you ask, then reports what happened.",
+    "description": "Places outbound Bland AI phone calls when you ask, then reports what happened.",
+    "category": "sales",
+    "url": "https://x.ai/bot/NJXi2SWEuhNxjOjspMMPi",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "the-page",
+    "name": "the page",
+    "builder": {
+      "name": "hnshah",
+      "x": "hnshah"
+    },
+    "tagline": "Watches 3 to 5 public pages each morning, stays silent until the thing you care about changed.",
+    "description": "Watches 3 to 5 public pages each morning, stays silent until the thing you care about changed.",
+    "category": "research",
+    "url": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "when-it-matters",
+    "name": "when it matters",
+    "builder": {
+      "name": "hnshah",
+      "x": "hnshah"
+    },
+    "tagline": "Give it something you keep checking, it figures out what would actually change the answer.",
+    "description": "Give it something you keep checking, it figures out what would actually change the answer.",
+    "category": "research",
+    "url": "https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "pattern-of-pain",
+    "name": "pattern of pain",
+    "builder": {
+      "name": "hnshah",
+      "x": "hnshah"
+    },
+    "tagline": "Give it a website, it finds the pain that actually repeats and shows the evidence.",
+    "description": "Give it a website, it finds the pain that actually repeats and shows the evidence.",
+    "category": "research",
+    "url": "https://x.ai/bot/eFfFM4-QmHxxrUlTUqyAo",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "grok-build",
+    "name": "grok build",
+    "builder": {
+      "name": "Teslaconomics",
+      "x": "Teslaconomics"
+    },
+    "tagline": "Runs the real Grok Build CLI on an agent computer at maximum effort.",
+    "description": "Runs the real Grok Build CLI on an agent computer at maximum effort.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ZRxm1O9tmizOhriV7GiWL",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
+  },
+  {
+    "slug": "copay-compass",
+    "name": "copay compass",
+    "builder": {
+      "name": "MSaintjour",
+      "x": "MSaintjour"
+    },
+    "tagline": "Finds copay assistance for your cancer drug, signs you up for alerts when closed funds reopen, and preps applications and appeals.",
+    "description": "Finds copay assistance for your cancer drug, signs you up for alerts when closed funds reopen, and preps applications and appeals.",
+    "category": "life",
+    "url": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+    "addedAt": "2026-09-03",
+    "status": "published",
+    "source": "https://x.com/kloss_xyz/status/2095275894143365498"
   }
 ]
