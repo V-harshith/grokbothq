@@ -2,7 +2,7 @@
   "version": 1,
   "ports": {"preview": 3000, "additional": {}},
   "scripts": {
-    "setup": {"enabled": true, "command": null},
+    "setup": {"enabled": true, "command": "sudo apt-get update -qq && sudo apt-get install -y -qq git-lfs"},
     "run": {"enabled": true, "command": "npm run dev"},
     "archive": {"enabled": true, "command": null},
     "check": {"enabled": true, "command": null}
