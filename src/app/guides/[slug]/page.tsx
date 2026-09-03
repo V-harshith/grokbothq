@@ -6,7 +6,7 @@ import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { guides, guideMap } from "@/data/guides";
 import { SITE } from "@/data/site";
-import { pageMetadata, breadcrumbsJsonLd, articleJsonLd, personJsonLd } from "@/lib/seo";
+import { pageMetadata, breadcrumbsJsonLd, articleJsonLd } from "@/lib/seo";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -39,13 +39,12 @@ export default async function GuidePage({ params }: Props) {
     <div className="container-x max-w-3xl py-12">
       <JsonLd
         data={[
-          personJsonLd(),
           articleJsonLd({
             title: guide.title,
             description: guide.description,
             path: `/guides/${guide.slug}`,
             dateModified: guide.updatedAt,
-            author: "Harshith Rao (@harshithOG)",
+            author: "GrokBot HQ team",
             tags: guide.tags,
           }),
           breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Guides", path: "/guides" }, { name: guide.title, path: `/guides/${guide.slug}` }]),
@@ -58,12 +57,7 @@ export default async function GuidePage({ params }: Props) {
           <div className="flex items-center gap-2 text-xs text-muted">
             <span className="badge">{guide.readingMinutes} min read</span>
             <span>Updated {new Date(guide.updatedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</span>
-            <span>
-              Reviewed by{" "}
-              <a href="https://x.com/harshithOG" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-accent">
-                @harshithOG
-              </a>
-            </span>
+            <span>Reviewed by the GrokBot HQ team</span>
           </div>
           <h1 className="mt-3 text-3xl md:text-4xl font-semibold tracking-tighter md:text-5xl">{guide.title}</h1>
         </header>

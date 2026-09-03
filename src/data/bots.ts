@@ -1,7 +1,16 @@
 import type { Bot } from "./types";
 import botsJson from "../../content/bots.json";
+import metricsJson from "../../content/metrics.json";
 
 export type { Bot };
+
+type MetricsFile = { updatedAt?: string; opens?: Record<string, number>; sponsorClicks?: number };
+const metrics = metricsJson as MetricsFile;
+
+/** Live per-bot open counts (Open-button clicks) from the daily metrics pipeline. */
+export function botOpens(slug: string): number {
+  return metrics.opens?.[slug] ?? 0;
+}
 
 /** Only published bots are rendered; pending/spam entries never reach the site. */
 export const bots: Bot[] = (botsJson as Bot[]).filter((b) => (b as { status?: string }).status !== "pending");

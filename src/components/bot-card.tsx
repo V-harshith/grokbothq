@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Bot } from "@/data/bots";
+import { botOpens } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
 import { BotFace } from "./bot-face";
 import { OpenButton } from "./open-button";
@@ -17,6 +18,7 @@ function relDate(iso: string): string {
 export function BotCard({ bot }: { bot: Bot }) {
   const category = categoryMap.get(bot.category);
   const fresh = Date.now() - new Date(bot.addedAt).getTime() < 7 * 86_400_000;
+  const opens = botOpens(bot.slug);
 
   return (
     <article className="card card-hover flex flex-col p-5">
@@ -49,7 +51,11 @@ export function BotCard({ bot }: { bot: Bot }) {
             {category.name}
           </Link>
         )}
-        {typeof bot.installs === "number" && bot.installs > 0 && (
+        {opens > 0 ? (
+          <span title="Opens from GrokBot HQ readers">
+            <strong className="tnum font-mono font-semibold text-foreground">{opens}</strong> opens
+          </span>
+        ) : typeof bot.installs === "number" && bot.installs > 0 && (
           <span title="Installs reported by the source directory">
             <strong className="tnum font-mono font-semibold text-foreground">{bot.installs}</strong> installs
           </span>

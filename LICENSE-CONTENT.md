@@ -30,7 +30,7 @@ summaries, FAQs, and everything else written by hand for this site.
 
 ## What this does NOT cover
 
-- The source code (see `LICENSE` — separate, restrictive terms).
+- The source code (see `LICENSE` — MIT).
 - Third-party data embedded in listings: bot names, descriptions sourced from builders' own
   posts, and x.ai links belong to their respective owners.
 - "Grok" is a trademark of xAI. This directory is independent and unaffiliated.

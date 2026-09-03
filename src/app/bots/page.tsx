@@ -12,6 +12,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Browse every hand-reviewed Grok bot in one place: assistants, engineering agents, research bots, money hunters, sales tools, creative helpers, and life admin. Filter by category and open any bot in Grok with one click.",
   path: "/bots",
+  keywords: ["grok bots list", "grok bot directory", "all grok bots", "browse grok bots", "grok bot categories", "grok bots free"],
 });
 
 export default function BotsPage() {

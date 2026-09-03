@@ -11,7 +11,9 @@ export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = SITE.url.replace(/\/$/, "");
-  const now = new Date(SITE.lastUpdated);
+  // date-only strings (YYYY-MM-DD) - the format Google's sitemap docs use and
+  // unambiguously valid for Search Console, unlike full ISO timestamps
+  const now = SITE.lastUpdated;
 
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${base}/`, lastModified: now, changeFrequency: "daily", priority: 1 },
@@ -35,7 +37,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const botRoutes: MetadataRoute.Sitemap = bots.map((bot) => ({
     url: `${base}/bots/${bot.slug}`,
-    lastModified: new Date(bot.addedAt),
+    lastModified: bot.addedAt,
     changeFrequency: "weekly",
     priority: 0.7,
   }));
@@ -49,14 +51,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const comboRoutes: MetadataRoute.Sitemap = combos.map((c) => ({
     url: `${base}/groups/${c.slug}`,
-    lastModified: new Date(c.addedAt),
+    lastModified: c.addedAt,
     changeFrequency: "weekly",
     priority: 0.6,
   }));
 
   const guideRoutes: MetadataRoute.Sitemap = guides.map((g) => ({
     url: `${base}/guides/${g.slug}`,
-    lastModified: new Date(g.updatedAt),
+    lastModified: g.updatedAt,
     changeFrequency: "monthly",
     priority: 0.7,
   }));
@@ -70,7 +72,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const compareRoutes: MetadataRoute.Sitemap = comparePages.map((c) => ({
     url: `${base}/compare/${c.slug}`,
-    lastModified: new Date(c.updatedAt),
+    lastModified: c.updatedAt,
     changeFrequency: "monthly",
     priority: 0.7,
   }));

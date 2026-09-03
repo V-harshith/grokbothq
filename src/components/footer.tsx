@@ -76,6 +76,8 @@ export function Footer() {
           <div className="max-w-xl md:text-right">
             <p>{DISCLAIMER}</p>
             <p className="mt-1 space-x-3">
+              <a href={SITE.githubUrl} target="_blank" rel="noopener noreferrer" className="hover:text-foreground">GitHub</a>
+              <Link href="/about" className="hover:text-foreground">Open source</Link>
               <Link href="/privacy" className="hover:text-foreground">Privacy</Link>
               <Link href="/terms" className="hover:text-foreground">Terms</Link>
             </p>

@@ -15,7 +15,8 @@ export const SITE = {
   /** Recomputed at every build - stays fresh automatically as content updates flow in. */
   lastUpdated: new Date().toISOString().slice(0, 10),
   /** GitHub repo ("owner/repo") that receives bot submissions as issues. Enables the automated submission pipeline. */
-  githubRepo: process.env.NEXT_PUBLIC_GITHUB_REPO ?? "",
+  githubRepo: process.env.NEXT_PUBLIC_GITHUB_REPO ?? "V-harshith/grokbothq",
+  githubUrl: `https://github.com/${process.env.NEXT_PUBLIC_GITHUB_REPO ?? "V-harshith/grokbothq"}`,
   /** xAI's bot builder - where every listed bot opens */
   builderUrl: "https://x.ai/bot",
   xaiUrl: "https://x.ai",
