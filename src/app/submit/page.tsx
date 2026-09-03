@@ -10,6 +10,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Get your Grok bot in front of people searching for it. Submit to GrokBot HQ for a free, hand-reviewed listing within 48 hours - or apply for a featured launch slot.",
   path: "/submit",
+  keywords: ["submit a grok bot", "get your grok bot listed", "grok bot submission", "free grok bot listing"],
 });
 
 export default function SubmitPage() {

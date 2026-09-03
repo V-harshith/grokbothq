@@ -25,6 +25,8 @@ export type Bot = {
   integrations?: string[];
   /** Per-bot identity hue from the source listing (0-359) */
   hue?: number;
+  /** Optional keyword phrases merged into the bot page's meta keywords + OG tags */
+  keywords?: string[];
 };
 
 export type Category = {

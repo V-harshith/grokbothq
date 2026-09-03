@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: `${intg.count} Grok Bot${intg.count === 1 ? "" : "s"} That Work With ${intg.name}`,
     description: `Every hand-reviewed Grok bot that connects to ${intg.name}. Real listings, tested before they were published - open any of them in Grok with one click.`,
     path: `/integrations/${intg.slug}`,
+    keywords: [`grok bots for ${intg.name}`, `${intg.name} grok bot`, `${intg.name} grok integration`],
   });
 }
 

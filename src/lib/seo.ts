@@ -17,13 +17,21 @@ type PageMetaInput = {
   keywords?: string[];
 };
 
-/** Standard metadata block: canonical, OG, Twitter. OG images come from app/opengraph-image. */
+/** Every page ships these; page-specific keywords merge on top. */
+const BASE_KEYWORDS = ["grok bots", "grok bot directory", "grokbot hq"];
+
+function mergeKeywords(...groups: (string[] | undefined)[]): string[] {
+  return [...new Set(groups.flat().filter((k): k is string => Boolean(k)))];
+}
+
+/** Standard metadata block: canonical, keywords, OG, Twitter. OG images come from app/opengraph-image. */
 export function pageMetadata({ title, description, path, type = "website", publishedTime, tags, keywords }: PageMetaInput): Metadata {
   const url = absUrl(path);
+  const allKeywords = mergeKeywords(keywords, tags, BASE_KEYWORDS);
   return {
     title,
     description,
-    keywords,
+    keywords: allKeywords,
     alternates: { canonical: url },
     openGraph: {
       title,
@@ -33,7 +41,7 @@ export function pageMetadata({ title, description, path, type = "website", publi
       type,
       locale: SITE.locale,
       ...(publishedTime ? { publishedTime } : {}),
-      ...(tags ? { tags } : {}),
+      tags: allKeywords,
     },
     twitter: {
       card: "summary_large_image",

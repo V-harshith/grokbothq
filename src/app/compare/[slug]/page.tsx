@@ -25,6 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     type: "article",
     publishedTime: page.updatedAt,
     tags: ["grok bots", page.other],
+    keywords: [`grok vs ${page.other}`, `grok bots vs ${page.other}`],
   });
 }
 

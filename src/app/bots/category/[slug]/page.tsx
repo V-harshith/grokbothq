@@ -28,6 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: `The best ${category.name.toLowerCase()} Grok bots, reviewed by hand. ${category.short}. Open any bot in Grok with one click.`,
     path: `/bots/category/${category.slug}`,
     keywords: [
+      `grok bots for ${category.name.toLowerCase()}`,
       `${category.name.toLowerCase()} grok bots`,
       `best ${category.name.toLowerCase()} grok bots`,
       `${category.name.toLowerCase()} grok bot list`,

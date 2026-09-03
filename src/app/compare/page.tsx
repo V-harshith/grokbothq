@@ -10,7 +10,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Grok bots compared to Custom GPTs, Claude Skills, Gemini Gems, and agent frameworks - honest verdicts, feature tables, and when to choose each.",
   path: "/compare",
-  keywords: ["grok bots vs custom gpts", "grok bots vs claude skills", "grok bots vs gemini gems", "grok bots vs agents", "grok bot comparison"],
+keywords: ["grok bots vs custom gpts", "grok bots vs chatgpt", "grok bots vs claude skills", "grok bots vs gemini gems", "grok bots vs agents", "grok bot comparison"],
 });
 
 export default function ComparePage() {

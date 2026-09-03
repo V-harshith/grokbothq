@@ -12,7 +12,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Real-world Grok bot use cases, sourced from the X posts that introduced each bot. See how people automate email, coding, research, money, and daily life with Grok bots.",
   path: "/use-cases",
-  keywords: ["grok bot use cases", "grok bot examples", "what grok bots can do", "grok bot automation", "grok bots for work"],
+keywords: ["grok bot use cases", "grok bot examples", "what grok bots can do", "what can grok bots do", "grok bot automation", "grok bots for work"],
 });
 
 export default function UseCasesPage() {

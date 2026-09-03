@@ -11,6 +11,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Original data from the GrokBot HQ directory: how many Grok bots exist, category distribution, builder counts, install numbers, and weekly growth - updated daily, citable under CC BY.",
   path: "/stats",
+  keywords: ["grok bot statistics", "how many grok bots are there", "grok bots stats", "grok ecosystem data"],
 });
 
 function MeasureBar({ count, max }: { count: number; max: number }) {

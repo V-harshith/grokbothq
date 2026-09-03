@@ -10,7 +10,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Curated Grok bot combos: sets of two or three bots that hand work to each other - Ship Desk for overnight engineering, Research Desk for cited briefs, Money Hunters for real cash back.",
   path: "/groups",
-  keywords: ["grok bot combos", "grok bot workflows", "grok bot combinations", "chain grok bots", "grok bot stacks"],
+keywords: ["grok bot combos", "grok bot workflows", "grok bot combinations", "chain grok bots", "grok bot stacks"],
 });
 
 export default function GroupsPage() {

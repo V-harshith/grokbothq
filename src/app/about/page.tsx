@@ -11,6 +11,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Who runs GrokBot HQ, how the review process works, why independence matters, and how to contact us. The directory of Grok bots built for users first.",
   path: "/about",
+  keywords: ["about grokbot hq", "independent grok bot directory", "hand-reviewed grok bots"],
 });
 
 export default function AboutPage() {

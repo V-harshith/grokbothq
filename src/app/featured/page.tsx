@@ -12,6 +12,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Sponsor the top slots on GrokBot HQ. Not just bots: any product that fits people actively exploring Grok. Transparent pricing, always labeled, one sponsor per slot.",
   path: "/featured",
+  keywords: ["sponsor grokbot hq", "advertise to grok users", "grok bot directory sponsorship"],
 });
 
 const plans = [

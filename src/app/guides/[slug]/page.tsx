@@ -25,6 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     type: "article",
     publishedTime: guide.updatedAt,
     tags: guide.tags,
+    keywords: ["grok bot guide"],
   });
 }
 

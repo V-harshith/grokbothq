@@ -11,6 +11,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Browse Grok bots by the tools they connect to: Gmail, Google Calendar, Slack, Notion, GitHub, YouTube and more. Every integration is a real page with the bots that use it.",
   path: "/integrations",
+  keywords: ["grok bot integrations", "grok bots for gmail", "grok bots for slack", "grok bots for notion", "grok bots for github"],
 });
 
 export default function IntegrationsPage() {

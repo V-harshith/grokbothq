@@ -10,6 +10,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "The latest Grok and Grok Bot news, curated and summarized: launches, model releases, builder tools, and ecosystem moves - with links to the original sources.",
   path: "/news",
+  keywords: ["grok news", "grok bot news", "grok ecosystem news", "xai grok updates"],
 });
 
 export default function NewsPage() {

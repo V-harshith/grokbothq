@@ -26,16 +26,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.",
   path: "/",
-  keywords: [
-    "grok bots",
-    "grok bot directory",
-    "best grok bots",
-    "grok bot list",
-    "free grok bots",
-    "grok bot combos",
-    "grok xai bots",
-    "grok bots that work",
-  ],
+keywords: ["grok bots", "grok bot directory", "best grok bots", "grok bot list", "free grok bots", "grok bot combos", "grok xai bots", "grok ai bots", "grok bots that work"],
 });
 
 
