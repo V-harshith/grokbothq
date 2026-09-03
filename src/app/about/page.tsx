@@ -32,7 +32,7 @@ export default function AboutPage() {
           lists {stats.bots} bots from {stats.builders} builders across {stats.categories} categories, each one opened and tested by a human
           before publication. Listings link to the bot, its builder, and the X post where it was introduced, and every
           page is served as plain HTML plus a JSON index so Grok bots themselves can read the directory. It is operated
-          daily by Harshith Rao (@harshithOG) and is not affiliated with xAI. Directory content is licensed CC BY 4.0
+          by the GrokBot HQ team and is not affiliated with xAI. Directory content is licensed CC BY 4.0
           with attribution.
         </p>
 
@@ -57,6 +57,16 @@ export default function AboutPage() {
           Browsing is free, listings are free, and rankings are never for sale. Sponsored placements are clearly labeled,
           and sponsors pass the same review as everyone else. If those two sentences ever stop being true, this section
           is where we’ll say so.
+        </p>
+
+        <h2 className="mt-8 text-xl font-semibold tracking-tight">Open source</h2>
+        <p className="text-[15px] leading-relaxed text-muted">
+          GrokBot HQ is an open-source project: the engine that powers this site lives on{" "}
+          <a href={SITE.githubUrl} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">GitHub</a>{" "}
+          under the MIT license, and the directory data (every bot, guide, and comparison) is CC BY 4.0. Star the repo
+          if the directory is useful, report bugs, or contribute a feature — the{" "}
+          <a href={`${SITE.githubUrl}/blob/main/CONTRIBUTING.md`} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">contributing guide</a>{" "}
+          covers everything from content edits to local setup.
         </p>
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Trademarks and affiliation</h2>

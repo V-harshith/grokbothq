@@ -1,81 +1,28 @@
 # GrokBot HQ
 
-The independent, hand-reviewed directory of **Grok bots** - one place for Grok bot users to find, combine, and master bots on xAI's Grok platform. A clone of the grokbots.page model expanded into an SEO/AEO/GEO-optimized hub.
+[![CI](https://github.com/V-harshith/grokbothq/actions/workflows/ci.yml/badge.svg)](https://github.com/V-harshith/grokbothq/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+[![Content: CC BY 4.0](https://img.shields.io/badge/content-CC_BY_4.0-green.svg)](LICENSE-CONTENT.md)
 
-Built with **Next.js 16 / React 19 / Tailwind v4**. **Fully automated after launch**: content lives in `content/*.json`, submissions arrive as GitHub issues, and a bot turns them into pull requests that auto-deploy. The code is never touched again.
+**The independent, hand-reviewed directory of Grok bots** — live at [grokbothq.xyz](https://grokbothq.xyz).
 
-## Launch setup
+One place for Grok bot users to find, combine, and master bots on xAI's Grok platform. Every listing is opened and tested by a human before publication.
 
-**Done already:** repo `V-harshith/grokbothq` (private) is live with all workflows pushed, the `bot-submission` label created, and the `SITE_URL` repo variable set.
+## What's inside
 
-**Your remaining steps:**
+- **Directory** — 230+ Grok bots, filterable by category, with install counts and source links
+- **Bot combos** — tested sets of bots that work together in pipelines
+- **Guides** — how to create, write instructions for, chain, and monetize Grok bots
+- **Comparisons** — Grok bots vs Custom GPTs, Claude Skills, Gemini Gems, and agent frameworks
+- **News & use cases** — curated ecosystem news and real-world usage from X
+- **Stats** — original, citable directory statistics
+- **Submission pipeline** — visitors submit via GitHub issue template → an Action validates (URL pattern, category, spam blocklist, duplicates) → a pull request adds the bot to the data file → merge deploys
 
-1. **Deploy:** `npx vercel` → log in → import `grokbothq`. Set env var `NEXT_PUBLIC_SITE_URL=https://grokbothq.xyz`.
-2. **Buy the domain** (`grokbothq.xyz`) and point it at Vercel (Vercel → Project → Domains).
-3. **Submit** `https://<domain>/sitemap.xml` in Google Search Console + Bing Webmaster Tools (imports from GSC).
-4. **When ready for automated submissions** (repo is currently private, and anonymous visitors can't open issues on private repos): GitHub → Settings → General → Danger zone → **Change visibility → Public**, and set env var `NEXT_PUBLIC_GITHUB_REPO=V-harshith/grokbothq` in Vercel. Until then, `/submit` falls back to email automatically.
-5. Optional: repo → Settings → Secrets and variables → Actions → **Variables** → `AUTO_MERGE=true` for zero-touch publishing (default is one-click PR merge, which keeps "hand-reviewed" honest).
+The site is fully static and data-driven: **all content lives in `content/*.json`**, and every page (sitemap, RSS, llms.txt, JSON API, counts) regenerates on every build. No database, no backend.
 
-**Done.** From here on the site runs itself:
+## Tech stack
 
-```
-Visitor submits bot (GitHub issue template, spam-screened client-side)
-        ↓
-GitHub Action validates: URL pattern, category, spam blocklist, duplicates
-        ↓ valid
-Pull request with the bot appended to content/bots.json (+ comment on the issue)
-        ↓ merged (1 click from your phone, or fully automatic - see below)
-Vercel auto-deploys → new bot page, updated /new, sitemap, llms.txt, stats, OG image
-        ↓
-Weekly action: featured placements auto-expire · IndexNow re-crawl ping · build health check
-```
-
-### Full-auto mode (optional)
-
-By default each submission opens a **pull request** - merge it with one click and the bot is live (this keeps the "hand-reviewed" claim honest). If you want zero involvement: repo **Settings → Secrets and variables → Actions → Variables → New variable** → `AUTO_MERGE` = `true`. Valid submissions then publish automatically; invalid ones are closed with a reason and can resubmit.
-
-### Editing content without touching code
-
-- **GitHub web editor**: open `content/bots.json`, click ✏️, edit, commit to `main` → auto-deploys. This is "touching GitHub," not the code.
-- **Featured slots**: add `"featured": true, "featuredUntil": "2026-09-27"` to any bot - the weekly action expires it automatically. That's the whole featured-placement business loop.
-- **Everything regenerates on every build**: counts, `/new`, sitemap, `llms.txt`, canonical dates. No manual steps exist.
-
-## Architecture
-
-| Piece | What it does |
-|---|---|
-| `content/*.json` | **All content** - bots, categories, combos, guides, comparisons, FAQs. The only thing that ever changes after launch. |
-| `src/data/*.ts` | Typed loaders over the JSON (filtering `status: "pending"`, featured expiry). Stable API - pages never change. |
-| `src/app/` | Routes: `/`, `/bots` + detail + 8 category pages, `/groups` (6 combos), `/guides` (8), `/compare` (4), `/new`, `/faq`, `/submit`, `/featured`, `/about` |
-| `src/lib/seo.ts` | Metadata factory + JSON-LD builders (WebSite, Organization, FAQPage, HowTo, Article, ItemList, SoftwareApplication, BreadcrumbList) |
-| `.github/workflows/process-submission.yml` | Issue → validate → PR → optional auto-merge |
-| `.github/workflows/daily-ops.yml` | Featured expiry, Umami metrics pull, IndexNow ping, build check (daily 04:00 UTC) |
-| `.github/workflows/ci.yml` | Every PR (incl. automated ones) must build cleanly |
-| `scripts/*.mjs` | CI helpers: `parse-submission`, `expire-featured`, `ping-indexnow` |
-
-## Submission pipeline rules
-
-Baked into `scripts/parse-submission.mjs`: link must be `https://x.ai/bot/…`, valid category, pitch 10–280 chars, no external URLs anywhere, spam blocklist (crypto/casino/SEO-services/etc.), duplicate-URL rejection, auto-slug with dedupe. Rejections close the issue with the reason; resubmission is welcome.
-
-## Domain plan (DNS-checked 2026-08-30)
-
-Taken/parked: `grokbot.xyz`, `grokbots.xyz`, and all the obvious `.com`s. **Available:**
-
-| Domain | First year | Renewal | Verdict |
-|---|---|---|---|
-| **grokbothq.xyz** ✅ current default | ~$1–3 | ~$10–13/yr | Best cheap start; brand match |
-| grokbot.lol / grokbots.lol | ~$2–6 | ~$20–28/yr | Fun, but pricey renewals + weakens directory trust |
-| grokbothq.xyz | ~$10 | ~$10/yr | The trust upgrade when revenue justifies it |
-
-Buy at Porkbun / Cloudflare Registrar / Namecheap. `.xyz` is a normal ICANN gTLD - Google treats it like `.com`; its spam-fleet reputation only matters for spammy sites, and this is a content-rich directory. **Swap domains any time without touching code**: point DNS at Vercel, set `NEXT_PUBLIC_SITE_URL`, redeploy. Set auto-renew with a funded card - the one thing automation can't do.
-
-> ⚠️ **Trademark note:** "Grok" is xAI's trademark. The site is positioned as an independent third-party directory (nominative use - same as grokbots.page), with disclaimers in the footer, about page, and metadata. Don't copy xAI's logo or imply endorsement. Rebranding later is a one-file change (`src/data/site.ts` + `content/site.json`).
-
-## SEO / AEO / GEO (all built in)
-
-**SEO:** unique title/description/canonical per page · 67-URL sitemap with changefreqs · semantic HTML · hub-and-spoke internal linking · static rendering · `max-image-preview:large`.
-**AEO:** FAQPage/HowTo/Article/ItemList/SoftwareApplication/BreadcrumbList JSON-LD · "Quick answer" blocks on every guide · question-formatted headings · crawlable FAQ accordions.
-**GEO:** `llms.txt` + `llms-full.txt` content feeds · robots.txt explicitly allows GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Applebot, CCBot… · quotable verdicts and stats · comparison tables in the format LLMs cite.
+Next.js 16 (App Router, static rendering) · React 19 · Tailwind CSS 4 · TypeScript · Vercel Analytics
 
 ## Local development
 
@@ -83,37 +30,59 @@ Buy at Porkbun / Cloudflare Registrar / Namecheap. `.xyz` is a normal ICANN gTLD
 npm install
 npm run dev     # http://localhost:3000
 npm run build   # production build
+npm run lint    # eslint
 ```
 
-Edit `content/*.json` and the dev server picks it up. The repo's automation means local dev is only needed for engine changes - which, per the plan, you'll never make.
+Edit anything in `content/*.json` and the dev server picks it up.
 
-## Backlinks playbook (first 60 days)
+## Project structure
 
-**Tier 1 - launch week:** publish the repo public + an `awesome-grok-bots` list repo linking the hub (GitHub do-follow) · Product Hunt · Show HN · X launch thread with bot demos · 50+ AI tool directories (StartupBase, Uneed, Peerlist, ToolPilot…).
+```
+content/*.json      All content: bots, categories, combos, guides, comparisons, FAQs, news, ads
+src/data/*.ts       Typed loaders over the JSON (filters pending status, featured expiry)
+src/app/            Routes: /, /bots (+ detail + categories), /groups, /guides, /compare,
+                    /new, /news, /stats, /use-cases, /integrations, /faq, /submit,
+                    /featured, /about, /privacy, /terms
+src/lib/seo.ts      Metadata factory + JSON-LD builders (WebSite, Organization, FAQPage,
+                    Article, ItemList, SoftwareApplication, BreadcrumbList)
+src/app/api/v1/     JSON index of the full directory (for bots/LLMs)
+scripts/*.mjs       CI helpers: submission parsing, featured expiry, metrics pull, IndexNow ping
+.github/workflows/  ci.yml (build check) · process-submission.yml (issue → PR) · daily-ops.yml
+```
 
-**Tier 2 - weeks 2–6:** weekly "New this week" posts (builders link back - they want discovery) · Dev.to/Medium/Hashnode cross-posts with canonical URLs · r/Grok and r/SideProject as genuine comments · "Featured on GrokBot HQ" badge for builders' sites · a monthly "state of Grok bots" stats graphic.
+### Bot entry schema (`content/bots.json`)
 
-**Tier 3 - ongoing:** builder outreach ("you're listed - grab the badge") · HARO/Qwoted as ecosystem source · resource-page + broken-link outreach to AI roundups · a quarterly data study (linkable research).
+```json
+{
+  "slug": "my-bot",
+  "name": "My Bot",
+  "builder": { "name": "", "x": "" },
+  "tagline": "One-line summary",
+  "description": "What it does, in a sentence or two.",
+  "category": "productivity",
+  "features": ["Connects with Slack"],
+  "integrations": ["slack"],
+  "installs": 12,
+  "url": "https://x.ai/bot/…",
+  "addedAt": "2026-09-01",
+  "status": "published",
+  "source": "https://x.com/…"
+}
+```
 
-Keep anchors natural (brand, "grok bot directory", "hand-reviewed grok bots", bare URL) - especially important on a trademark-adjacent brand.
+## Submitting a bot
 
-## Upgrade path (if you ever outgrow this)
+Open a [bot submission issue](https://github.com/V-harshith/grokbothq/issues/new?template=bot-submission.yml) (or use [the site's submit page](https://grokbothq.xyz/submit)). Rules baked into the validator: the link must be an `https://x.ai/bot/…` URL, the pitch is 10–280 characters, no external URLs in the pitch, no duplicates, and a spam blocklist (crypto, casino, SEO services, …). Rejections close the issue with the reason; resubmission is welcome.
 
-Static + rebuilds updates the site on every merge (usually seconds after approval; worst case a few minutes for CI). If you ever want truly instant writes, the move is Supabase + ISR with on-demand revalidation - the data layer (`src/data/*.ts`) is the only thing that changes. Not needed until submissions outpace a few per day.
+## Contributing
 
-## Analytics, metrics, newsletter, ad slot, and contact
-
-**Analytics (Umami):** set `NEXT_PUBLIC_UMAMI_URL` (your `/script.js` URL) and `NEXT_PUBLIC_UMAMI_WEBSITE_ID` in Vercel. The script loads only when both are set; nothing else changes. Umami is cookieless, so no consent banner needed for most jurisdictions.
-
-**Install metrics:** the Open button fires a Umami event per bot. Set `UMAMI_URL` / `UMAMI_TOKEN` / `UMAMI_SITE_ID` repo secrets and the daily cron pulls per-bot click counts into `content/metrics.json` - the site displays real interest numbers with zero backend.
-
-**Newsletter:** set `NEXT_PUBLIC_NEWSLETTER_ENDPOINT` to a form endpoint (Buttondown, Loops, Formspree) and the homepage form POSTs emails there. Unset, it falls back to a compose-email flow. Wire the endpoint once; the section ships.
-
-**Ad slot:** one slot exists on the homepage (below the hero) and at the bottom of `/bots`. It is fully data-driven from `content/ads.json`: set `"active": true` and fill `title` / `description` / `cta` / `url` to run a sponsor; set `"active": false` to fall back to the quiet house ad that links to `/featured` (the "get featured" pipeline fills this slot with paying sponsors). The slot is always labeled. One sponsor per slot, never more.
-
-**Contact:** the footer carries `hello@harshithOG.xyz` (mailto) and the `@harshithOG` X handle; the About page has the same. To use a different X handle, change `SITE.twitter` in `src/data/site.ts` - one line, it propagates everywhere.
+Contributions are welcome — content fixes, new features, and bug reports alike. See [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md). Every PR must build cleanly (CI enforces this).
 
 ## License
 
-- **Code**: visible for review and contribution, all-rights-reserved — see `LICENSE`. Cloning the engine to compete is a violation, not inspiration.
-- **Content** (`content/*.json` + editorial pages): **CC BY 4.0** — see `LICENSE-CONTENT.md`. Quote or republish it freely *with attribution* (a link to grokbothq.xyz). Clones are welcome to the data; the license makes them send the credit back to the source that stays current.
+- **Code** — [MIT](LICENSE). You may use, modify, and redistribute the engine, including commercially. Attribution appreciated but not required.
+- **Content** (`content/*.json` + editorial prose) — [CC BY 4.0](LICENSE-CONTENT.md). Quote or republish freely **with attribution**: *Source: GrokBot HQ (https://grokbothq.xyz)*.
+
+## Trademark notice
+
+"Grok" is a trademark of xAI. GrokBot HQ is an independent third-party directory (nominative use) and is not affiliated with, endorsed by, or sponsored by xAI.
