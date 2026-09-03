@@ -14,6 +14,13 @@
     "summary": "Two SpaceXAI product managers who ship Grok Bot walked through their own bot teams in a 47-minute interview, with the headline claim that you should never be watching a context meter. A companion guide covers bots, skills, routines, plugins, and the shared cloud computer."
   },
   {
+    "date": "2026-09-01",
+    "title": "Musk: automatic token optimization is coming to Grok Bot",
+    "source": "Elon Musk on X",
+    "url": "https://x.com/elonmusk/status/2094577304647164374",
+    "summary": "Elon Musk confirmed that automatic token optimization is coming to Grok Bot, part of a broader efficiency push across xAI. No percentages or pricing details yet, but the feature would cut usage costs for bot teams at the platform level."
+  },
+  {
     "date": "2026-08-30",
     "title": "Grok Bot vs Grok Automations vs Grok Build: the builder's map",
     "source": "Kingy AI",
@@ -24,8 +31,15 @@
     "date": "2026-08-29",
     "title": "Grok Bot now works with X",
     "source": "xAI",
-    "url": "https://x.ai/news",
-    "summary": "Bots can now plug into X directly, reading posts and acting inside the platform where most of the ecosystem's builders already live."
+    "url": "https://x.ai/news/grok-bot-and-x",
+    "summary": "Bots can now plug into X directly, reading posts and acting inside the platform where most of the ecosystem's builders already live. Paid Grok Bot users get free X API credits to start, plus an X plugin for search, timelines, and bookmarks."
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Grok Bot is now included with more plans",
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-bot-more-plans",
+    "summary": "Grok Bot expanded beyond the top tiers to all SuperGrok, Cursor Pro, and Cursor Teams plans. Bot usage is separate from Grok and Cursor allowances, so delegated work no longer eats a subscriber's main quota."
   },
   {
     "date": "2026-08-26",
@@ -40,6 +54,13 @@
     "source": "Vellum",
     "url": "https://www.vellum.ai/blog/official-grok-bot-breakdown",
     "summary": "A technical breakdown clarifying that Grok Bot is a separate product from the consumer chatbot on grok.com and X, and from the xAI API."
+  },
+  {
+    "date": "2026-08-21",
+    "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-4-6-vertex-ai",
+    "summary": "Grok 4.6 became available on Google's enterprise agent platform, giving teams that standardize on Vertex AI a path to xAI's latest model."
   },
   {
     "date": "2026-08-20",
