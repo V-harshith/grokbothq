@@ -12,7 +12,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "The freshest hand-reviewed Grok bots, updated weekly. See what was just added to the directory and open any new bot in Grok with one click.",
   path: "/new",
-  keywords: ["new grok bots", "newest grok bots", "grok bots this week", "fresh grok bots", "latest grok bots"],
+keywords: ["new grok bots", "newest grok bots", "grok bots this week", "fresh grok bots", "latest grok bots"],
 });
 
 export default function NewPage() {

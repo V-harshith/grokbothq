@@ -26,7 +26,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     path: `/bots/${bot.slug}`,
     type: "article",
     publishedTime: bot.addedAt,
-    tags: [`${bot.name} grok bot`, `${category?.name ?? ""} grok bot`, "grok bots"],
+    keywords: [
+      ...(bot.keywords ?? []),
+      `${bot.name} grok bot`,
+      bot.name,
+      ...(category ? [`${category.name} grok bot`, `grok bots for ${category.name.toLowerCase()}`] : []),
+      `${bot.name} review`,
+    ],
   });
 }
 

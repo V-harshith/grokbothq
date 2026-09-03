@@ -11,6 +11,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "Copy-paste routines that turn your Grok Bot into a client of the GrokBot HQ directory: find bots for any task, get a weekly digest, and study real bot instructions before writing your own.",
   path: "/agent",
+  keywords: ["grok bot directory api", "grok bot agent routines", "grok bot json feed"],
 });
 
 const routines = [
@@ -44,7 +45,7 @@ const endpoints = [
   { what: "Directory index (JSON)", url: "/api/v1/index.json", note: "Every bot, category, integration, and news item in one document." },
   { what: "RSS feed", url: "/rss.xml", note: "New listings and curated news, newest first." },
   { what: "For humans (and LLMs)", url: "/llms.txt", note: "Site map plus a full-text content feed." },
-  { what: "Per-bot pages", url: "/bots/[slug]", note: "Stable HTML pages with the listing, source post, and links." },
+  { what: "Per-bot pages", url: "/bots", note: "Stable HTML pages at /bots/<slug> with the listing, source post, and links." },
 ];
 
 export default function AgentPage() {

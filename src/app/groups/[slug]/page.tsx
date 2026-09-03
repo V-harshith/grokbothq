@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     path: `/groups/${combo.slug}`,
     type: "article",
     publishedTime: combo.addedAt,
+    keywords: [`${combo.name} grok bot combo`, `${combo.name} combo`, "grok bot workflow", ...combo.bestFor.map((b) => `grok bots for ${b.toLowerCase()}`)],
   });
 }
 

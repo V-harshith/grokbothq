@@ -12,7 +12,7 @@ export const metadata: Metadata = pageMetadata({
   description:
     "What are Grok bots, how do you open one, are they free and safe, how do you get listed, and what's the difference from Custom GPTs? The complete Grok bot FAQ.",
   path: "/faq",
-  keywords: ["grok bots faq", "what are grok bots", "are grok bots free", "are grok bots safe", "grok bot questions"],
+keywords: ["grok bots faq", "what are grok bots", "are grok bots free", "are grok bots safe", "how do grok bots work", "grok bot questions"],
 });
 
 export default function FaqPage() {
