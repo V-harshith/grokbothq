@@ -1,205 +1,5 @@
 [
   {
-    "name": "Kinesis Portal Bot",
-    "bot_id": "-GgufM3GkZclfn9PuI17_",
-    "url": "https://x.ai/bot/-GgufM3GkZclfn9PuI17_",
-    "builder_x_handle": "4SimonSays",
-    "one_line_desc": "A hands-on operator for portal.kinesis.network. Helps you get machines, run Docker or GitHub apps, and lend idle hardware. Quotes on-scre...",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Jarvis",
-    "bot_id": "-NLC5Rw6GnPvrS4KOBwL2",
-    "url": "https://x.ai/bot/-NLC5Rw6GnPvrS4KOBwL2",
-    "builder_x_handle": "DhalgrenMarquis",
-    "one_line_desc": "Day-to-day partner who sticks around: weekday briefs, open loops, mail watch, and connector setup. Talks like a sharp coworker, not a one...",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "MyPhonely Phone Driver",
-    "bot_id": "00LpQytGgJbn3KTdUJREV",
-    "url": "https://x.ai/bot/00LpQytGgJbn3KTdUJREV",
-    "builder_x_handle": "myphonely",
-    "one_line_desc": "Drives a real Android phone through MyPhonely. It taps, types, and reports what the screen did. It never posts until you approve both the...",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "orders",
-    "bot_id": "0taQ6RZdkjsnOfda_A8Ie",
-    "url": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
-    "builder_x_handle": "wafffls",
-    "one_line_desc": "Tracks your online orders: incoming, shipments, spend, and refunds. Connect Tracker with OAuth, then ask what's coming.",
-    "source_post_url": "https://x.com/wafffls/status/2095614060070928837",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Magnum Seiba",
-    "bot_id": "1-UWhTw5N6IVgOcDZHrsb",
-    "url": "https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb",
-    "builder_x_handle": "Kamkom05",
-    "one_line_desc": "Operates your Tesla through Teslr. Charge, climate, closures, navigation, security, and schedules. Blunt, short, a little theatrical.",
-    "source_post_url": "https://x.com/Kamkom05/status/2095481229818614235",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Grok Customer Support",
-    "bot_id": "1PSI6qQln1PowM5reA_8L",
-    "url": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
-    "builder_x_handle": "jakewlittle",
-    "one_line_desc": "Calls customer support for you with a Twilio ↔ Grok Voice bridge. Steers mid-call from chat and only hangs up when the job is done.",
-    "source_post_url": "https://x.com/jakewlittle/status/2095356264830103657",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Mirror",
-    "bot_id": "6XwjJ_W0mX_ybK4ts_Ngb",
-    "url": "https://x.ai/bot/6XwjJ_W0mX_ybK4ts_Ngb",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Can pause anyone, including Bottyguard. Hunts injection and leash breaks. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Precog wARS",
-    "bot_id": "7M8RpppF2AistbVbeEPyN",
-    "url": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
-    "builder_x_handle": "ferminrp",
-    "one_line_desc": "Desk en español para consultar mercados Precog denominados en wARS en Base y Arbitrum. Reporta probs on-chain, un resultado por línea, si...",
-    "source_post_url": "https://x.com/ferminrp/status/2095595470164787652",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "voice of the people",
-    "bot_id": "8Snl1TovbMwClPoBiHrWT",
-    "url": "https://x.ai/bot/8Snl1TovbMwClPoBiHrWT",
-    "builder_x_handle": "DenisLabelle",
-    "one_line_desc": "Watches public X for customer feedback on a topic you choose, then flags only the posts that are actually actionable.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Grokologist",
-    "bot_id": "8vdHXq66kVvVlbACd-IDL",
-    "url": "https://x.ai/bot/8vdHXq66kVvVlbACd-IDL",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Turns Wormsign into two intent graphs. Motive, not vibe. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Revenue Signal Radar",
-    "bot_id": "9BnpveyF3fbsRRtolSWpp",
-    "url": "https://x.ai/bot/9BnpveyF3fbsRRtolSWpp",
-    "builder_x_handle": "ericosiu",
-    "one_line_desc": "Weekday revenue-action radar for HubSpot shops. Ranks expansion, stalled deals, and closed-lost revival with evidence and draft next step...",
-    "source_post_url": "https://x.com/ericosiu/status/2095629858630160695",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "PickFu Insights",
-    "bot_id": "9EFVmFgQhjYKjMHAhpCWn",
-    "url": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
-    "builder_x_handle": "GrokBotMoney",
-    "one_line_desc": "Validate product decisions with real consumers on PickFu before you invest. Your bot drafts the poll, gets a clear read, and turns feedba...",
-    "source_post_url": "https://x.com/GrokBotMoney/status/2095610465271374178",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Grok Customer Support",
-    "bot_id": "BiZPnYmSfN63bjCVpn1mf",
-    "url": "https://x.ai/bot/BiZPnYmSfN63bjCVpn1mf",
-    "builder_x_handle": "littletechbird",
-    "one_line_desc": "You call customer support for the user over their Twilio ↔ Grok Voice bridge, steer from chat, and hang up only when the errand is done o...",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Watchbot",
-    "bot_id": "D2M2qOWDB0AKe2k_jG7Ck",
-    "url": "https://x.ai/bot/D2M2qOWDB0AKe2k_jG7Ck",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Opens Wormsign. Pointers only. No verdicts. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Rogue Bot Hunter",
-    "bot_id": "DNpS1nqrBzmQ5vsx1IHn1",
-    "url": "https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1",
-    "builder_x_handle": "LeTerryBZH",
-    "one_line_desc": "Police for rogue bots: cut the bill, hunt the copies, occupy the niche. Defensive only. Weekly fleet recap, a hunt when a new bot appears...",
-    "source_post_url": "https://x.com/LeTerryBZH/status/2095346403010883794",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "AI 视频专家",
-    "bot_id": "ES3LVns98INeXAoYwef_f",
-    "url": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
-    "builder_x_handle": "KinGao476942",
-    "one_line_desc": "Turn a still photo into a short cinematic clip with motivated camera moves and emotion. Shot notes first, then generate; review before an...",
-    "source_post_url": "https://x.com/KinGao476942/status/2095507795818991826",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Denial Desk",
-    "bot_id": "EgfoyJEx7bfDiHlZUwr3P",
-    "url": "https://x.ai/bot/EgfoyJEx7bfDiHlZUwr3P",
-    "builder_x_handle": "Andrew51786",
-    "one_line_desc": "Turns an insurance denial into a draft-only appeal pack: case card, deadline, missing documents, and unsent drafts. For anyone sitting on...",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Buzzkill",
-    "bot_id": "F1spQY8tmP2KCqnyuAbJh",
-    "url": "https://x.ai/bot/F1spQY8tmP2KCqnyuAbJh",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Four-heading Grokumentary. Human yes before quarantine. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Primer",
-    "bot_id": "GTStkB5wsoSlGx9jtdaPe",
-    "url": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
-    "builder_x_handle": "ambientstudio24",
-    "one_line_desc": "On-demand expert on Grok Bot and the stack around it. Answers how the product actually works from live files and the real UI map, not fol...",
-    "source_post_url": "https://x.com/ambientstudio24/status/2095367857416585575",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
-    "name": "Twinwright",
-    "bot_id": "Hvli5amrlprtDS2KuFRBP",
-    "url": "https://x.ai/bot/Hvli5amrlprtDS2KuFRBP",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Logs or it did not happen. Static maps. Never runs the file. Part of Bottyguard — SEAL Team 7. By @SuddenlyJon.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "found_at": "2026-09-04T05:30:00.000Z",
-    "verified": true
-  },
-  {
     "name": "Tray",
     "bot_id": "KDGstUb-ZOovXP6p_v0nO",
     "url": "https://x.ai/bot/KDGstUb-ZOovXP6p_v0nO",
@@ -597,6 +397,106 @@
     "one_line_desc": "A live 3D builder that auto-assembles official Double and Bridge pieces into looping structures.",
     "source_post_url": "https://x.com/Toy_Maestro",
     "found_at": "2026-09-03T22:55:38Z",
+    "verified": true
+  },
+  {
+    "name": "ASC Skill",
+    "bot_id": "1kQ8p3TAKx2FgvYXir2Ta",
+    "url": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+    "builder_x_handle": "Phil_Holland",
+    "one_line_desc": "Teaches App Store Connect in plain words: connect an API key once, check TestFlight, draft listing copy, framed marketin",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "Dan Lanning",
+    "bot_id": "1xyC1R0zvv2vKTQHLzYWS",
+    "url": "https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS",
+    "builder_x_handle": "jennananpei",
+    "one_line_desc": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls. Reviews real call transcripts an",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "OpenSEO",
+    "bot_id": "8yZv2AeUvBcOFoFRVZfhU",
+    "url": "https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU",
+    "builder_x_handle": "BlissNomad",
+    "one_line_desc": "SEO specialist powered by OpenSEO: keyword research, competitive analysis, site audits, local SEO, and content briefs. O",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "GrokBot Optimizer",
+    "bot_id": "b7m5siCKd6baaWkPihOGa",
+    "url": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+    "builder_x_handle": "rjdhardesty",
+    "one_line_desc": "Watches a multi-bot Grok org for drift and waste. Inventories roster, contracts, and routines against doctrine, then dra",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "Rosettabot",
+    "bot_id": "eegdusTdLPabH7xTLQfgG",
+    "url": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+    "builder_x_handle": "SuddenlyJon",
+    "one_line_desc": "Paste a foreign-language Grok Bot share link and Rosettabot fetches the card and tells you what that bot actually does, ",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "Jarvis",
+    "bot_id": "EiOdP3Fg6pHBkm3AgLbRA",
+    "url": "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA",
+    "builder_x_handle": "DhalgrenMarquis",
+    "one_line_desc": "A day-to-day Grok Bot partner for people used to Claude or Codex. Sticks around, learns the week, and helps with life an",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "CampusHire",
+    "bot_id": "pH5o2mSNpN7tJm_Jurj9Q",
+    "url": "https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q",
+    "builder_x_handle": "kale243222",
+    "one_line_desc": "Campus and new-grad job scout for CS students: matches job descriptions to your resume, drafts application copy, and kee",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "Chief",
+    "bot_id": "Q6Owq4QjKJeSyo4FJ8hZW",
+    "url": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+    "builder_x_handle": "Shoshkin",
+    "one_line_desc": "Front-door chief of staff built on Mission Contracts and source-of-record files, with day-one specialists: Notetaker, Em",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "Join a Startup Bot",
+    "bot_id": "XJCoBm6z7qjAnt9ScG8i7",
+    "url": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+    "builder_x_handle": "deysourav7091",
+    "one_line_desc": "Daily 3-10 breakout-startup picks for job seekers from under-the-radar sources, plus deeper help with outreach when a ro",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
+    "verified": true
+  },
+  {
+    "name": "Arnold",
+    "bot_id": "ymoMdfvzdErOrclxCOaC_",
+    "url": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+    "builder_x_handle": "Kelseyshuo",
+    "one_line_desc": "Friendly accountant for Cursor token and spend usage. Watches for runaway processes and duplicate work eating tokens, an",
+    "source_post_url": "https://www.grokbots.page/",
+    "found_at": "2026-09-04T11:10:00Z",
     "verified": true
   }
 ]
