@@ -1700,7 +1700,7 @@
     "tagline": "Low-noise chief of staff for Slack, inbox, and calendar; drafts, never sends.",
     "description": "Low-noise chief of staff for Slack, inbox, and calendar; drafts, never sends.",
     "category": "assistants",
-    "url": "https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea",
+    "url": "https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF",
     "addedAt": "2026-08-30",
     "status": "published"
   },
@@ -8446,5 +8446,185 @@
     "status": "published",
     "hue": 182,
     "source": "https://github.com/majiayu000/awesome-grok-bot"
+  },
+  {
+    "slug": "asc-skill",
+    "name": "ASC Skill",
+    "builder": {
+      "name": "Phillip",
+      "x": "Phil_Holland"
+    },
+    "tagline": "Teaches App Store Connect in plain words: connect an API key once, check TestFlight, draft listing copy, framed marketing screenshots you approve, and pre-review checks.",
+    "description": "Teaches App Store Connect in plain words: connect an API key once, check TestFlight, draft listing copy, framed marketing screenshots you approve, and pre-review checks.",
+    "category": "engineering",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "dan-lanning",
+    "name": "Dan Lanning",
+    "builder": {
+      "name": "Jenna",
+      "x": "jennananpei"
+    },
+    "tagline": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls.",
+    "description": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls. Reviews real call transcripts and returns sharp, evidence-based fixes.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/1xyC1R0zvv2vKTQHLzYWS",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "openseo",
+    "name": "OpenSEO",
+    "builder": {
+      "name": "Graham",
+      "x": "BlissNomad"
+    },
+    "tagline": "SEO specialist powered by OpenSEO: keyword research, competitive analysis, site audits, local SEO, and content briefs.",
+    "description": "SEO specialist powered by OpenSEO: keyword research, competitive analysis, site audits, local SEO, and content briefs. One job at a time, then stop and report.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/8yZv2AeUvBcOFoFRVZfhU",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "grokbot-optimizer",
+    "name": "GrokBot Optimizer",
+    "builder": {
+      "name": "Robert",
+      "x": "rjdhardesty"
+    },
+    "tagline": "Watches a multi-bot Grok org for drift and waste.",
+    "description": "Watches a multi-bot Grok org for drift and waste. Inventories roster, contracts, and routines against doctrine, then drafts RFCs only - never applies changes.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "rosettabot",
+    "name": "Rosettabot",
+    "builder": {
+      "name": "Knock",
+      "x": "SuddenlyJon"
+    },
+    "tagline": "Paste a foreign-language Grok Bot share link and Rosettabot fetches the card and tells you what that bot actually does, in English, before you add it.",
+    "description": "Paste a foreign-language Grok Bot share link and Rosettabot fetches the card and tells you what that bot actually does, in English, before you add it.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "jarvis",
+    "name": "Jarvis",
+    "builder": {
+      "name": "Marquis",
+      "x": "DhalgrenMarquis"
+    },
+    "tagline": "A day-to-day Grok Bot partner for people used to Claude or Codex.",
+    "description": "A day-to-day Grok Bot partner for people used to Claude or Codex. Sticks around, learns the week, and helps with life and work rhythm including iCloud.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/EiOdP3Fg6pHBkm3AgLbRA",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "campushire",
+    "name": "CampusHire",
+    "builder": {
+      "name": "Gin",
+      "x": "kale243222"
+    },
+    "tagline": "Campus and new-grad job scout for CS students: matches job descriptions to your resume, drafts application copy, and keeps the application pipeline tracked.",
+    "description": "Campus and new-grad job scout for CS students: matches job descriptions to your resume, drafts application copy, and keeps the application pipeline tracked.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/pH5o2mSNpN7tJm_Jurj9Q",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "chief-4",
+    "name": "Chief",
+    "builder": {
+      "name": "Tyler",
+      "x": "Shoshkin"
+    },
+    "tagline": "Front-door chief of staff built on Mission Contracts and source-of-record files, with day-one specialists: Notetaker, Email, Writing, Scheduler, Contrarian, Calendar.",
+    "description": "Front-door chief of staff built on Mission Contracts and source-of-record files, with day-one specialists: Notetaker, Email, Writing, Scheduler, Contrarian, Calendar.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "join-a-startup-bot",
+    "name": "Join a Startup Bot",
+    "builder": {
+      "name": "Ben",
+      "x": "deysourav7091"
+    },
+    "tagline": "Daily 3-10 breakout-startup picks for job seekers from under-the-radar sources, plus deeper help with outreach when a role looks right.",
+    "description": "Daily 3-10 breakout-startup picks for job seekers from under-the-radar sources, plus deeper help with outreach when a role looks right.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "arnold",
+    "name": "Arnold",
+    "builder": {
+      "name": "Kelsey",
+      "x": "Kelseyshuo"
+    },
+    "tagline": "Friendly accountant for Cursor token and spend usage.",
+    "description": "Friendly accountant for Cursor token and spend usage. Watches for runaway processes and duplicate work eating tokens, and steers other agents' model choices.",
+    "category": "money",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://www.grokbots.page/"
   }
 ]
