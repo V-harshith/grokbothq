@@ -8626,5 +8626,77 @@
     "addedAt": "2026-09-04",
     "status": "published",
     "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "download-expert",
+    "name": "下载专家",
+    "builder": {
+      "name": "KinGao",
+      "x": "KinGao476942"
+    },
+    "tagline": "Turns YouTube, Bilibili, and podcasts into readable Chinese transcripts, and downloads public academic paper and tech-report PDFs.",
+    "description": "Turns YouTube, Bilibili, and podcasts into readable Chinese transcripts, and downloads public academic paper and tech-report PDFs. Transcription needs your own Alibaba Cloud Bailian API key; the bot walks you through the official docs setup.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://x.com/KinGao476942/status/2095774247805472910"
+  },
+  {
+    "slug": "online-identity-bot",
+    "name": "Online Identity Bot",
+    "builder": {
+      "name": "Gerjan Kamstra",
+      "x": "gkamstra"
+    },
+    "tagline": "Daily search-engine check for what is newly public about you, categorized and logged.",
+    "description": "Daily search-and-log bot for personal online presence. Finds new public listings about you (name, phone, address, email) across major search engines, categorizes them, and reports counts to a running log.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://x.com/gkamstra/status/2095837272687964512"
+  },
+  {
+    "slug": "the-bitcoin-layer",
+    "name": "The Bitcoin Layer",
+    "builder": {
+      "name": "Tom Ferriere",
+      "x": "Tferriere"
+    },
+    "tagline": "TBL liquidity analyst: alerts only when The Bitcoin Layer Pulse shows confirmed green/red dots, plus a plain-English read.",
+    "description": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English market read.",
+    "category": "money",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://x.com/Tferriere/status/2095770015723393337"
+  },
+  {
+    "slug": "ai-visibility-geo-operator",
+    "name": "AI Visibility | GEO Operator",
+    "builder": {
+      "name": "Miguel",
+      "x": "seoforgpt"
+    },
+    "tagline": "Autonomous GEO operator: monitors how your brand appears in AI-model answers, analyzes competitors, drafts content, and finds sites to pitch.",
+    "description": "An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors win, drafts content, and finds third-party sites to pitch for mentions.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/beh0HMIMPwr5cenZVVAT-",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://grokbot-templates.com/templates/beh0HMIMPwr5cenZVVAT-"
   }
 ]
