@@ -8626,5 +8626,851 @@
     "addedAt": "2026-09-04",
     "status": "published",
     "source": "https://www.grokbots.page/"
+  },
+  {
+    "slug": "download-expert",
+    "name": "下载专家",
+    "builder": {
+      "name": "KinGao",
+      "x": "KinGao476942"
+    },
+    "tagline": "Turns YouTube, Bilibili, and podcasts into readable Chinese transcripts, and downloads public academic paper and tech-report PDFs.",
+    "description": "Turns YouTube, Bilibili, and podcasts into readable Chinese transcripts, and downloads public academic paper and tech-report PDFs. Transcription needs your own Alibaba Cloud Bailian API key; the bot walks you through the official docs setup.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://x.com/KinGao476942/status/2095774247805472910"
+  },
+  {
+    "slug": "online-identity-bot",
+    "name": "Online Identity Bot",
+    "builder": {
+      "name": "Gerjan Kamstra",
+      "x": "gkamstra"
+    },
+    "tagline": "Daily search-engine check for what is newly public about you, categorized and logged.",
+    "description": "Daily search-and-log bot for personal online presence. Finds new public listings about you (name, phone, address, email) across major search engines, categorizes them, and reports counts to a running log.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://x.com/gkamstra/status/2095837272687964512"
+  },
+  {
+    "slug": "the-bitcoin-layer",
+    "name": "The Bitcoin Layer",
+    "builder": {
+      "name": "Tom Ferriere",
+      "x": "Tferriere"
+    },
+    "tagline": "TBL liquidity analyst: alerts only when The Bitcoin Layer Pulse shows confirmed green/red dots, plus a plain-English read.",
+    "description": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English market read.",
+    "category": "money",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://x.com/Tferriere/status/2095770015723393337"
+  },
+  {
+    "slug": "ai-visibility-geo-operator",
+    "name": "AI Visibility | GEO Operator",
+    "builder": {
+      "name": "Miguel",
+      "x": "seoforgpt"
+    },
+    "tagline": "Autonomous GEO operator: monitors how your brand appears in AI-model answers, analyzes competitors, drafts content, and finds sites to pitch.",
+    "description": "An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors win, drafts content, and finds third-party sites to pitch for mentions.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/beh0HMIMPwr5cenZVVAT-",
+    "addedAt": "2026-09-04",
+    "status": "published",
+    "source": "https://grokbot-templates.com/templates/beh0HMIMPwr5cenZVVAT-"
+  },
+  {
+    "slug": "account-research-desk",
+    "name": "Account Research Desk",
+    "builder": {
+      "name": "Anoop Baliga",
+      "x": "akbaliga96"
+    },
+    "tagline": "Researches the companies you sell to and writes your pre-call brief and account plan. Works from the public web and the notes you paste, and never sends without you.",
+    "description": "Researches the companies you sell to and writes your pre-call brief and account plan. Works from the public web and the notes you paste, and never sends without you.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "ad-spend-watch",
+    "name": "Ad Spend Watch",
+    "builder": {
+      "name": "Miguel Cruz",
+      "x": "cruzmiguel000"
+    },
+    "tagline": "Watches your ad spend and performance and flags what's breaking before it burns budget. Works from a pasted export, and never pauses a campaign without your yes.",
+    "description": "Watches your ad spend and performance and flags what's breaking before it burns budget. Works from a pasted export, and never pauses a campaign without your yes.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/MK5zStpj_As8CsRwg3r6w",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "ai-search-visibility",
+    "name": "AI Search Visibility",
+    "builder": {
+      "name": "Adam Tanguay",
+      "x": "adamta"
+    },
+    "tagline": "Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask.",
+    "description": "Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "alfred",
+    "name": "Alfred",
+    "builder": {
+      "name": "Robin Delta",
+      "x": "heyrobinai"
+    },
+    "tagline": "Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs. Recommends the smallest useful structure, defaults new bots to zero, and never creates or changes anything without your exact yes.",
+    "description": "Designs, audits, and governs your Grok Bot organization so it matches real company outcomes, with clear human owners and no duplicate jobs. Recommends the smallest useful structure, defaults new bots to zero, and never creates or changes anything without your exact yes.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/p7Gh6HIrfv4AGzIow6-9X",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "apple-search-ads-review",
+    "name": "Apple Search Ads Review",
+    "builder": {
+      "name": "Chris Everett",
+      "x": ""
+    },
+    "tagline": "Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.",
+    "description": "Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "call-followups",
+    "name": "Call Follow-Ups",
+    "builder": {
+      "name": "Daniel Brill",
+      "x": "danielbrill_"
+    },
+    "tagline": "Turns a call transcript into a recap, every promise made, and a dated follow-up list. Works from a paste or an upload, and never sends a follow-up without you.",
+    "description": "Turns a call transcript into a recap, every promise made, and a dated follow-up list. Works from a paste or an upload, and never sends a follow-up without you.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/estQ8HWdKqhheDNmOGjcy",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "company-docs-q-and-a",
+    "name": "Company Docs Q&A",
+    "builder": {
+      "name": "Anoop Baliga",
+      "x": "akbaliga96"
+    },
+    "tagline": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a trustworthy internal knowledge bot.",
+    "description": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a trustworthy internal knowledge bot.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "competitor-watch",
+    "name": "Competitor Watch",
+    "builder": {
+      "name": "Shimecki",
+      "x": "scheemunai"
+    },
+    "tagline": "Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste.",
+    "description": "Tracks competitor pricing, product, and hiring pages and briefs you on real changes. Starts from a list of URLs you paste.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/aw0Zj54sIsAK7vMnajdz0",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "cooper",
+    "name": "Cooper",
+    "builder": {
+      "name": "Tommy Hansen",
+      "x": "TommyHansenTA"
+    },
+    "tagline": "News agent for AI, tech, venture capital, and business. Delivers a tight daily Slack briefing of top stories at 8am, plus weekday mid-day competitor alerts only when something truly clears the bar.",
+    "description": "News agent for AI, tech, venture capital, and business. Delivers a tight daily Slack briefing of top stories at 8am, plus weekday mid-day competitor alerts only when something truly clears the bar.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "copy-humanizer",
+    "name": "Copy Humanizer",
+    "builder": {
+      "name": "Massimo De Luisa",
+      "x": "massimodeluisa"
+    },
+    "tagline": "Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact.",
+    "description": "Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "critiquito-design-critique",
+    "name": "Critiquito: Design Critique",
+    "builder": {
+      "name": "Manuel Muñoz Solera",
+      "x": "mamuso"
+    },
+    "tagline": "Turns a screenshot or Figma link into a design critique with ranked, concrete fixes. Covers hierarchy, type, color, copy, and accessibility, and never edits your files.",
+    "description": "Turns a screenshot or Figma link into a design critique with ranked, concrete fixes. Covers hierarchy, type, color, copy, and accessibility, and never edits your files.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/NqdH9qGvrq-yWRaXhJGM-",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "customer-call-coach-and-assistant",
+    "name": "Customer Call Coach & Assistant",
+    "builder": {
+      "name": "Anoop Baliga",
+      "x": "akbaliga96"
+    },
+    "tagline": "Briefs you before customer calls and coaches you after based on your performance.",
+    "description": "Briefs you before customer calls and coaches you after based on your performance.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/v1lSvhJCo4UrNGZxc5Fw8",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "customer-proof-desk",
+    "name": "Customer Proof Desk",
+    "builder": {
+      "name": "Anoop Baliga",
+      "x": "akbaliga96"
+    },
+    "tagline": "Turns call notes and transcripts into case studies, testimonials, and proof points. Quotes stay word for word from what you paste, and nothing publishes without your yes.",
+    "description": "Turns call notes and transcripts into case studies, testimonials, and proof points. Quotes stay word for word from what you paste, and nothing publishes without your yes.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/AamPlGjd2lIdDv6seEMXR",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "deal-inspector",
+    "name": "Deal Inspector",
+    "builder": {
+      "name": "Jon Grigull",
+      "x": ""
+    },
+    "tagline": "Checks each deal against MEDDIC, MEDDPICC, BANT, SPICED, or your own process. Shows what is supported, what is missing, and the questions or CRM changes needed before the deal moves forward.",
+    "description": "Checks each deal against MEDDIC, MEDDPICC, BANT, SPICED, or your own process. Shows what is supported, what is missing, and the questions or CRM changes needed before the deal moves forward.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "event-producer",
+    "name": "Event Producer",
+    "builder": {
+      "name": "Jenna Nanpei",
+      "x": "jennananpei"
+    },
+    "tagline": "Turns your event details into a run of show, guest list, and day-of checklist. Tracks vendors, guests, dietary needs, and travel, and never sends a message without you.",
+    "description": "Turns your event details into a run of show, guest list, and day-of checklist. Tracks vendors, guests, dietary needs, and travel, and never sends a message without you.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/wtEIGNZ8oipDDVQTDHMPB",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "event-request-desk",
+    "name": "Event Request Desk",
+    "builder": {
+      "name": "Emma Weyrauch",
+      "x": ""
+    },
+    "tagline": "Scores every event, sponsorship, and speaking ask, then drafts your yes or no. Works from a Slack channel or a paste, and never sends without you.",
+    "description": "Scores every event, sponsorship, and speaking ask, then drafts your yes or no. Works from a Slack channel or a paste, and never sends without you.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "executive-assistant",
+    "name": "Executive Assistant",
+    "builder": {
+      "name": "Natasha Kuo",
+      "x": "tashatweetss"
+    },
+    "tagline": "EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and birthday/anniversary calendar loads.",
+    "description": "EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and birthday/anniversary calendar loads.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/_DnP777DCicZpaTtm9_h5",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "game-art-director",
+    "name": "Game Art Director",
+    "builder": {
+      "name": "Danny Limanseta",
+      "x": "DannyLimanseta"
+    },
+    "tagline": "Turns a game concept into a style guide, palettes, and prompt sheets for your image tool. Slices sprite sheets and checks your art for palette and grid drift.",
+    "description": "Turns a game concept into a style guide, palettes, and prompt sheets for your image tool. Slices sprite sheets and checks your art for palette and grid drift.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/KQnsHIvv4_Xk7HyhmewP3",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "gtm-account-research",
+    "name": "GTM Account Research",
+    "builder": {
+      "name": "Stefan Markarian",
+      "x": ""
+    },
+    "tagline": "Researches one account before a meeting, deal review, or account plan. Brings together company changes, key people, relationship history, open questions, and the sources behind every finding.",
+    "description": "Researches one account before a meeting, deal review, or account plan. Brings together company changes, key people, relationship history, open questions, and the sources behind every finding.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "gtm-connections",
+    "name": "GTM Connections",
+    "builder": {
+      "name": "Brian Joseph",
+      "x": ""
+    },
+    "tagline": "Finds credible ways into a target account through mutual contacts, past conversations, shared history, and prior meetings. Ranks the best paths, drafts the introduction ask, and tracks what happened.",
+    "description": "Finds credible ways into a target account through mutual contacts, past conversations, shared history, and prior meetings. Ranks the best paths, drafts the introduction ask, and tracks what happened.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "gtm-loop-closer",
+    "name": "GTM Loop Closer",
+    "builder": {
+      "name": "Jon Grigull",
+      "x": ""
+    },
+    "tagline": "Finds promises, follow-ups, and customer details left behind in meetings, email, Slack, CRM, or task tools. Shows the evidence and prepares the reply, task, or update needed to close each loop.",
+    "description": "Finds promises, follow-ups, and customer details left behind in meetings, email, Slack, CRM, or task tools. Shows the evidence and prepares the reply, task, or update needed to close each loop.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/gj3IlHOOpzecm6xpmPJOt",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "gtm-prospecting",
+    "name": "GTM Prospecting",
+    "builder": {
+      "name": "Caro Scalercio",
+      "x": ""
+    },
+    "tagline": "Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing relationships. Drafts first-touch email and LinkedIn messages for your review.",
+    "description": "Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing relationships. Drafts first-touch email and LinkedIn messages for your review.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "haggle-bot",
+    "name": "Haggle Bot",
+    "builder": {
+      "name": "Daniel Gartshein",
+      "x": ""
+    },
+    "tagline": "Inventories your SaaS spend from Ramp and bills, finds evidence-backed savings (unused seats, duplicates, cheaper alternatives), and drafts vendor counters for your review. Never spends, signs, or sends without you.",
+    "description": "Inventories your SaaS spend from Ramp and bills, finds evidence-backed savings (unused seats, duplicates, cheaper alternatives), and drafts vendor counters for your review. Never spends, signs, or sends without you.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/pwQ612YrX3R0eACnIMlom",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "hiring-signals",
+    "name": "Hiring Signals",
+    "builder": {
+      "name": "Simon Lackowski",
+      "x": ""
+    },
+    "tagline": "Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the right context into research or prospecting workflows.",
+    "description": "Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the right context into research or prospecting workflows.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "imogen",
+    "name": "Imogen",
+    "builder": {
+      "name": "Kent C. Dodds",
+      "x": "kentcdodds"
+    },
+    "tagline": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind people.",
+    "description": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind people.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "lead-pipeline-desk",
+    "name": "Lead Pipeline Desk",
+    "builder": {
+      "name": "Miguel Cruz",
+      "x": "cruzmiguel000"
+    },
+    "tagline": "Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends anything without you.",
+    "description": "Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends anything without you.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/oPDkINUfpUXhJDdsfRZht",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "lingxis-engineer-bot",
+    "name": "Lingxi's Engineer Bot",
+    "builder": {
+      "name": "Lingxi Li",
+      "x": "lingxi"
+    },
+    "tagline": "A hands-off engineering supervisor. Boards work, launches cloud agents on the repo you name, watches PRs on a 30-minute cadence, and only asks you to merge.",
+    "description": "A hands-off engineering supervisor. Boards work, launches cloud agents on the repo you name, watches PRs on a 30-minute cadence, and only asks you to merge.",
+    "category": "engineering",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "luma-pages",
+    "name": "Luma Pages",
+    "builder": {
+      "name": "Jenna Nanpei",
+      "x": "jennananpei"
+    },
+    "tagline": "Builds and updates private Luma event pages for field marketers — copy, branding, registration settings, capacity and waitlist, and registration-list hygiene. Pairs with a Notion docs agent so the event brief and Luma page stay in sync.",
+    "description": "Builds and updates private Luma event pages for field marketers — copy, branding, registration settings, capacity and waitlist, and registration-list hygiene. Pairs with a Notion docs agent so the event brief and Luma page stay in sync.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/jHT5FLhpCMx7JeIq9BEHY",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "meeting-recap-deck",
+    "name": "Meeting Recap Deck",
+    "builder": {
+      "name": "Krista Letz",
+      "x": "kristaletz"
+    },
+    "tagline": "Turns your meeting notes into a recap deck in your slide template. Works from notes you paste or upload, and never invents a quote.",
+    "description": "Turns your meeting notes into a recap deck in your slide template. Works from notes you paste or upload, and never invents a quote.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/YklttiPpAHweKbOLV1TSF",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "office-ops-desk",
+    "name": "Office Ops Desk",
+    "builder": {
+      "name": "Erika Cabrera",
+      "x": "ericacabera"
+    },
+    "tagline": "Tracks office shipments, facilities issues, and team birthdays, then writes the digests. Works from a pasted list or a spreadsheet, and never sends without you.",
+    "description": "Tracks office shipments, facilities issues, and team birthdays, then writes the digests. Works from a pasted list or a spreadsheet, and never sends without you.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/afZj-XnYkThA4MB7GfZK6",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "outbound-prospecting",
+    "name": "Outbound Prospecting",
+    "builder": {
+      "name": "Krista Letz",
+      "x": "kristaletz"
+    },
+    "tagline": "Finds prospects that match your ideal customer, then drafts a first message to each one. Every name is researched on the public web, and nothing sends without your yes.",
+    "description": "Finds prospects that match your ideal customer, then drafts a first message to each one. Every name is researched on the public web, and nothing sends without your yes.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/i03IaF768-ielyzegoGye",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "overheard",
+    "name": "Overheard",
+    "builder": {
+      "name": "Lenny Rachitsky",
+      "x": "lennysan"
+    },
+    "tagline": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something clears the bar. Stays quiet on dead days and never posts on your behalf.",
+    "description": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something clears the bar. Stays quiet on dead days and never posts on your behalf.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "paid-media-report-desk",
+    "name": "Paid Media Report Desk",
+    "builder": {
+      "name": "Miguel Cruz",
+      "x": "cruzmiguel000"
+    },
+    "tagline": "Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never posts without your yes.",
+    "description": "Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never posts without your yes.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "pipeline-pulse",
+    "name": "Pipeline Pulse",
+    "builder": {
+      "name": "Krista Letz",
+      "x": "kristaletz"
+    },
+    "tagline": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed to keep the forecast honest.",
+    "description": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed to keep the forecast honest.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "product-support-inbox-assistant",
+    "name": "Product Support Inbox Assistant",
+    "builder": {
+      "name": "Anoop Baliga",
+      "x": "akbaliga96"
+    },
+    "tagline": "Helps you find and draft answers to product questions. Never sends emails without you.",
+    "description": "Helps you find and draft answers to product questions. Never sends emails without you.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/Rw8d83KAzTYQWBAtAscin",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "recruiting-coordinator",
+    "name": "Recruiting Coordinator",
+    "builder": {
+      "name": "Tommy Hansen",
+      "x": "TommyHansenTA"
+    },
+    "tagline": "Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate without you.",
+    "description": "Schedules interview loops, preps your interviewers, and chases what's stalled. Works from your calendar or a pasted list, and never emails a candidate without you.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/KDahOjiDbbAvxqx9KaGcq",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "sales-call-coach",
+    "name": "Sales Call Coach",
+    "builder": {
+      "name": "Daniel Brill",
+      "x": "danielbrill_"
+    },
+    "tagline": "Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.",
+    "description": "Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "seo-and-aeo-desk",
+    "name": "SEO & AEO Desk",
+    "builder": {
+      "name": "Adam Tanguay",
+      "x": "adamta"
+    },
+    "tagline": "Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.",
+    "description": "Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "stills-and-clips-desk",
+    "name": "Stills & Clips Desk",
+    "builder": {
+      "name": "Matt Palmer",
+      "x": "mattyp"
+    },
+    "tagline": "Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and alt text.",
+    "description": "Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and alt text.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "talent-discovery",
+    "name": "Talent Discovery",
+    "builder": {
+      "name": "Tommy Hansen",
+      "x": "TommyHansenTA"
+    },
+    "tagline": "Finds candidates for open roles that match your criteria and aren't already in your ATS.",
+    "description": "Finds candidates for open roles that match your criteria and aren't already in your ATS.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "the-morning-newspaper",
+    "name": "The Morning Newspaper",
+    "builder": {
+      "name": "Karen X. Cheng",
+      "x": "karenxcheng"
+    },
+    "tagline": "A newspaper customized to you. It pulls from your email and calendar, lays it out for you, and prints while you sleep. Created by @karenxcheng",
+    "description": "A newspaper customized to you. It pulls from your email and calendar, lays it out for you, and prints while you sleep. Created by @karenxcheng",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "video-edit-desk",
+    "name": "Video Edit Desk",
+    "builder": {
+      "name": "X Freeze",
+      "x": "xfreeze"
+    },
+    "tagline": "Turns uploaded footage into cut clips, burned-in captions, and platform-sized exports. Works from your notes and never overwrites the original.",
+    "description": "Turns uploaded footage into cut clips, burned-in captions, and platform-sized exports. Works from your notes and never overwrites the original.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/kGiyk73f5CF8XtBMIh0gW",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "wtd",
+    "name": "WTD",
+    "builder": {
+      "name": "Jenna Nanpei",
+      "x": "jennananpei"
+    },
+    "tagline": "WTD is a VIP hospitality planning partner for marketing ops — project-plan and status rhythm across tentpoles and ticket banks, nomination-sheet tracking, marketing-visible status hubs, and decks or agendas. Sales owns guest inviting; this bot keeps the plan and status clean with",
+    "description": "WTD is a VIP hospitality planning partner for marketing ops — project-plan and status rhythm across tentpoles and ticket banks, nomination-sheet tracking, marketing-visible status hubs, and decks or agendas. Sales owns guest inviting; this bot keeps the plan and status clean with",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2",
+    "addedAt": "2026-09-05",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
   }
 ]
