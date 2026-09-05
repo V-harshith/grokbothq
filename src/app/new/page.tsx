@@ -7,6 +7,8 @@ import { latestBots, stats } from "@/data/bots";
 import { SITE } from "@/data/site";
 import { pageMetadata, breadcrumbsJsonLd, botListJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "New Grok Bots This Week",
   description:

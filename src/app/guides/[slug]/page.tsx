@@ -8,6 +8,8 @@ import { guides, guideMap } from "@/data/guides";
 import { SITE } from "@/data/site";
 import { pageMetadata, breadcrumbsJsonLd, articleJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {

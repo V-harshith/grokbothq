@@ -13,6 +13,8 @@ import { combos } from "@/data/combos";
 import { comboBots } from "@/data/combos";
 import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd, faqJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {

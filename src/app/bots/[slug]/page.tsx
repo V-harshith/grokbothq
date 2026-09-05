@@ -9,6 +9,8 @@ import { bots, botMap, relatedBots, botOpens } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
 import { pageMetadata, botSoftwareJsonLd, breadcrumbsJsonLd, absUrl } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {

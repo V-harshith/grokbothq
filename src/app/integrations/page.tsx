@@ -6,6 +6,8 @@ import { allIntegrations } from "@/lib/integrations";
 import { bots } from "@/data/bots";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "Grok Bots by Integration - Gmail, Slack, Notion, GitHub & More",
   description:

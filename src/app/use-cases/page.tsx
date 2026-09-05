@@ -7,6 +7,8 @@ import { bots } from "@/data/bots";
 import { categories } from "@/data/categories";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd, botListJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "How People Use Grok Bots - Real Use Cases from X",
   description:

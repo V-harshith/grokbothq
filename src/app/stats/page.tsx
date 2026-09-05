@@ -6,6 +6,8 @@ import { siteStats } from "@/lib/site-stats";
 import { pageMetadata, breadcrumbsJsonLd, absUrl } from "@/lib/seo";
 import { SITE } from "@/data/site";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "State of Grok Bots - Original Directory Statistics",
   description:

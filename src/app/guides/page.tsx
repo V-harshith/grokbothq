@@ -5,6 +5,8 @@ import { JsonLd } from "@/components/json-ld";
 import { guides } from "@/data/guides";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "Grok Bot Guides - Create, Write Instructions, Chain & Monetize",
   description:

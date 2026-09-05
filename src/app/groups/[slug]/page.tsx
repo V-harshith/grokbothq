@@ -7,6 +7,8 @@ import { JsonLd } from "@/components/json-ld";
 import { combos, comboMap, comboBots } from "@/data/combos";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {

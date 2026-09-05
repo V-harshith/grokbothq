@@ -21,6 +21,8 @@ import { faqs } from "@/data/faqs";
 import { botsByCategory } from "@/data/bots";
 import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "GrokBot HQ - The Hand-Reviewed Directory of Grok Bots",
   description:
@@ -93,7 +95,7 @@ export default function HomePage() {
       {/* Featured */}
       <section className="container-x py-16 md:py-24" data-reveal>
         <SectionHeader
-          title="This week's standouts"
+          kicker="Featured" title="This week's standouts"
           description="Rotating picks from the directory. Each one was opened and tested before it earned a listing."
           link="/bots"
           linkLabel="All bots"
@@ -110,7 +112,7 @@ export default function HomePage() {
       <section className="border-y border-border bg-surface">
         <div className="container-x py-16 md:py-24" data-reveal>
           <SectionHeader
-            title="Fresh this week"
+            kicker="New listings" title="Fresh this week"
             description="Just cleared a full review pass."
             link="/new"
             linkLabel="See all new bots"
@@ -125,7 +127,7 @@ export default function HomePage() {
 
       {/* Categories */}
       <section className="container-x py-16 md:py-24" data-reveal>
-        <SectionHeader title="Browse by job" description="Eight categories. Every listing tested against real prompts before it went live." />
+        <SectionHeader kicker="Categories" title="Browse by job" description="Eight categories. Every listing tested against real prompts before it went live." />
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {categories.map((cat) => {
             const count = botsByCategory(cat.slug).length;
@@ -145,7 +147,7 @@ export default function HomePage() {
       <section className="border-y border-border bg-surface">
         <div className="container-x py-16 md:py-24" data-reveal>
           <SectionHeader
-            title="Chain bots into workflows"
+            kicker="Combos" title="Chain bots into workflows"
             description="Two or three bots that hand work to each other. Tested end to end."
             link="/groups"
             linkLabel="All combos"
@@ -161,7 +163,7 @@ export default function HomePage() {
       {/* Guides */}
       <section className="container-x py-16 md:py-24" data-reveal>
         <SectionHeader
-          title="Get good, fast"
+          kicker="Guides" title="Get good, fast"
           description="Everything we learned reviewing hundreds of bots, written into short guides."
           link="/guides"
           linkLabel="All guides"
@@ -237,7 +239,7 @@ export default function HomePage() {
       <section className="border-y border-border bg-surface">
         <div className="container-x py-16 md:py-24" data-reveal>
           <SectionHeader
-            title="Real use, real receipts"
+            kicker="Use cases" title="Real use, real receipts"
             description="Every example pairs a listed bot with the X post where it was put to work."
             link="/use-cases"
             linkLabel="All use cases"
@@ -253,7 +255,7 @@ export default function HomePage() {
       {/* News */}
       <section className="container-x py-16 md:py-24" data-reveal>
         <SectionHeader
-          title="Grok news, curated"
+          kicker="Ecosystem" title="Grok news, curated"
           description="Launches and ecosystem moves, one line each, always linked to the source."
           link="/news"
           linkLabel="All news"
@@ -287,7 +289,7 @@ export default function HomePage() {
       {/* FAQ */}
       <section className="border-t border-border bg-surface">
         <div className="container-x max-w-3xl py-16 md:py-24">
-          <SectionHeader title="Questions, answered" description="The questions we get most, answered plainly. More on the full FAQ page." link="/faq" />
+          <SectionHeader kicker="FAQ" title="Questions, answered" description="The questions we get most, answered plainly. More on the full FAQ page." link="/faq" />
           <FaqList faqs={faqs.slice(0, 8)} />
         </div>
       </section>

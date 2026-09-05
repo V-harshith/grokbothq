@@ -10,6 +10,7 @@ import { ScrollReveal } from "@/components/scroll-reveal";
 import { SponsorRail } from "@/components/sponsor-rail";
 import { AgentNudge } from "@/components/agent-nudge";
 import { SiteKeys } from "@/components/site-keys";
+import { BackToTop } from "@/components/back-to-top";
 import { JsonLd } from "@/components/json-ld";
 import { SITE } from "@/data/site";
 import { organizationJsonLd, websiteJsonLd } from "@/lib/seo";
@@ -88,6 +89,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SponsorRail />
         <AgentNudge />
         <SiteKeys />
+        <BackToTop />
         <main className="flex-1">{children}</main>
         <Footer />
         <Analytics />

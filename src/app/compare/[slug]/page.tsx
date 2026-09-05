@@ -8,6 +8,8 @@ import { comparePages, compareMap } from "@/data/compare";
 import { pageMetadata, breadcrumbsJsonLd, articleJsonLd, faqJsonLd, } from "@/lib/seo";
 import { SITE } from "@/data/site";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {

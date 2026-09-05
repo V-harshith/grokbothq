@@ -5,6 +5,8 @@ import { JsonLd } from "@/components/json-ld";
 import { comparePages } from "@/data/compare";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "Grok Bots vs Everything - Honest Comparisons",
   description:

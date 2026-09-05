@@ -5,6 +5,8 @@ import { news } from "@/lib/news";
 import { SITE } from "@/data/site";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd, absUrl } from "@/lib/seo";
 
+export const revalidate = 300; // pages refresh within 5 minutes of content changes
+
 export const metadata: Metadata = pageMetadata({
   title: "Grok News - What's New in the Grok Bot Ecosystem",
   description:
