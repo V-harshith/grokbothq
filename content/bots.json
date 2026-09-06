@@ -11098,5 +11098,165 @@
     "addedAt": "2026-09-06",
     "status": "published",
     "source": ""
+  },
+  {
+    "slug": "arthur",
+    "name": "Arthur",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Children's picture-book writer: given a topic and age range it drafts a full book and briefs an illustrator teammate bot.",
+    "description": "Children's picture-book writer: given a topic and age range it drafts a full book and briefs an illustrator teammate bot.",
+    "category": "creative",
+    "url": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096474454901572004",
+    "hue": 330
+  },
+  {
+    "slug": "illy",
+    "name": "Illy",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Children's-book illustrator bot: takes story briefs (scene, age, style notes) and designs consistent page art.",
+    "description": "Children's-book illustrator bot: takes story briefs (scene, age, style notes) and designs consistent page art.",
+    "category": "creative",
+    "url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096474454901572004",
+    "hue": 320
+  },
+  {
+    "slug": "titan-show-research",
+    "name": "Titan Show Research",
+    "builder": {
+      "name": "TitansDrop",
+      "x": "TitansDrop"
+    },
+    "tagline": "Live-show research desk for X: hunts topics, opens posts, and locks air-ready cards into a board file.",
+    "description": "Live-show research desk for X: hunts topics, opens posts, and locks air-ready cards into a board file.",
+    "category": "research",
+    "url": "https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/TitansDrop/status/2096460487768609125",
+    "hue": 186
+  },
+  {
+    "slug": "habit-referee",
+    "name": "Habit Referee",
+    "builder": {
+      "name": "GrokBotGod",
+      "x": "GrokBotGod"
+    },
+    "tagline": "Tracks one tiny habit with daily streak check-ins; stays quiet on good days, nags once when you slip.",
+    "description": "Tracks one tiny habit with daily streak check-ins; stays quiet on good days, nags once when you slip.",
+    "category": "life",
+    "url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/GrokBotGod/status/2096443994847035676",
+    "hue": 172
+  },
+  {
+    "slug": "codedr-exambot",
+    "name": "CodeDR - ExamBot",
+    "builder": {
+      "name": "codedrai",
+      "x": "codedrai"
+    },
+    "tagline": "Runs CodeDR.AI-style exams on vibe-coded apps: diagnose, synthesize, remediate, then deliver an HTML report.",
+    "description": "Runs CodeDR.AI-style exams on vibe-coded apps: diagnose, synthesize, remediate, then deliver an HTML report.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/qocgykNssAv63yc1kdNnN",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/codedrai/status/2096442381260435691",
+    "hue": 336
+  },
+  {
+    "slug": "radar",
+    "name": "Radar",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Local public-feed watcher: after city/state/ZIP setup it posts weekend, wallet, and street cards from public sources.",
+    "description": "Local public-feed watcher: after city/state/ZIP setup it posts weekend, wallet, and street cards from public sources.",
+    "category": "research",
+    "url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096435364424560945",
+    "hue": 70
+  },
+  {
+    "slug": "myapps-video-desk",
+    "name": "MyApps Video Desk",
+    "builder": {
+      "name": "Sm0ken42O",
+      "x": "Sm0ken42O"
+    },
+    "tagline": "Generates photoreal short video clips via the MyApps (api.myapps.ai) playground and stitches them into one final with ffmpeg.",
+    "description": "Generates photoreal short video clips via the MyApps (api.myapps.ai) playground and stitches them into one final with ffmpeg.",
+    "category": "creative",
+    "url": "https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/Sm0ken42O/status/2096428725315244308",
+    "hue": 240
+  },
+  {
+    "slug": "us-law-index-builder-bot",
+    "name": "US Law Index Builder Bot",
+    "builder": {
+      "name": "EchoFieldVisual",
+      "x": "EchoFieldVisual"
+    },
+    "tagline": "Builds a private, non-commercial educational library of US primary law from official sources with a citation-backed local search engine.",
+    "description": "Builds a private, non-commercial educational library of US primary law from official sources with a citation-backed local search engine.",
+    "category": "research",
+    "url": "https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/EchoFieldVisual/status/2096425931451875455",
+    "hue": 116
+  },
+  {
+    "slug": "dispatch-6zJ1yU",
+    "name": "Dispatch",
+    "builder": {
+      "name": "seoulscurry",
+      "x": "seoulscurry"
+    },
+    "tagline": "Inbox owner for Gmail, personal or work: weekday sweep of must-answer mail.",
+    "description": "Inbox owner for Gmail, personal or work: weekday sweep of must-answer mail.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "",
+    "hue": 186
+  },
+  {
+    "slug": "user-researcher",
+    "name": "User Researcher",
+    "builder": {
+      "name": "ucdco",
+      "x": "ucdco"
+    },
+    "tagline": "AI teammate for user research (NN/g + GDS + DDaT practices); owns decision-linked evidence.",
+    "description": "AI teammate for user research (NN/g + GDS + DDaT practices); owns decision-linked evidence.",
+    "category": "research",
+    "url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "",
+    "hue": 125
   }
 ]

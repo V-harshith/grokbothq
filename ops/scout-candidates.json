@@ -1,5 +1,95 @@
 [
   {
+    "name": "Arthur",
+    "bot_id": "fWJdoxdd8YsM1NNFP2b_W",
+    "url": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+    "builder_x_handle": "@LatchKeyLegend",
+    "one_line_desc": "Children's picture-book writer: given a topic and age range it drafts a full book and briefs an illustrator teammate bot.",
+    "source_post_url": "https://x.com/LatchKeyLegend/status/2096474454901572004",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "Illy",
+    "bot_id": "umrsMy_xpJxZ8vTN5Qz0o",
+    "url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+    "builder_x_handle": "@LatchKeyLegend",
+    "one_line_desc": "Children's-book illustrator bot: takes story briefs (scene, age, style notes) and designs consistent page art.",
+    "source_post_url": "https://x.com/LatchKeyLegend/status/2096474454901572004",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "Titan Show Research",
+    "bot_id": "DyKsq0BuAq-c-N0mkqh7U",
+    "url": "https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U",
+    "builder_x_handle": "@TitansDrop",
+    "one_line_desc": "Live-show research desk for X: hunts topics, opens posts, and locks air-ready cards into a board file.",
+    "source_post_url": "https://x.com/TitansDrop/status/2096460487768609125",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "Habit Referee",
+    "bot_id": "1wZEbQUoQWsR3nKzd4x90",
+    "url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+    "builder_x_handle": "@GrokBotGod",
+    "one_line_desc": "Tracks one tiny habit with daily streak check-ins; stays quiet on good days, nags once when you slip.",
+    "source_post_url": "https://x.com/GrokBotGod/status/2096443994847035676",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "CodeDR - ExamBot",
+    "bot_id": "qocgykNssAv63yc1kdNnN",
+    "url": "https://x.ai/bot/qocgykNssAv63yc1kdNnN",
+    "builder_x_handle": "@codedrai",
+    "one_line_desc": "Runs CodeDR.AI-style exams on vibe-coded apps: diagnose, synthesize, remediate, then deliver an HTML report.",
+    "source_post_url": "https://x.com/codedrai/status/2096442381260435691",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "Radar",
+    "bot_id": "2cB1nlHWzI7os1zaZ3kCg",
+    "url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+    "builder_x_handle": "@LatchKeyLegend",
+    "one_line_desc": "Local public-feed watcher: after city/state/ZIP setup it posts weekend, wallet, and street cards from public sources.",
+    "source_post_url": "https://x.com/LatchKeyLegend/status/2096435364424560945",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "MyApps Video Desk",
+    "bot_id": "vcQOLdM69Ffu3fZgiMclK",
+    "url": "https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK",
+    "builder_x_handle": "@Sm0ken42O",
+    "one_line_desc": "Generates photoreal short video clips via the MyApps (api.myapps.ai) playground and stitches them into one final with ffmpeg.",
+    "source_post_url": "https://x.com/Sm0ken42O/status/2096428725315244308",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "US Law Index Builder Bot",
+    "bot_id": "G2eeD6pM6N6TNfnHbsC8c",
+    "url": "https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c",
+    "builder_x_handle": "@EchoFieldVisual",
+    "one_line_desc": "Builds a private, non-commercial educational library of US primary law from official sources with a citation-backed local search engine.",
+    "source_post_url": "https://x.com/EchoFieldVisual/status/2096425931451875455",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "Dispatch",
+    "bot_id": "6zJ1yU4dDfAVYFJcy0687",
+    "url": "https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687",
+    "builder_x_handle": "@seoulscurry",
+    "one_line_desc": "Inbox owner for Gmail, personal or work: weekday sweep of must-answer mail.",
+    "source_post_url": "",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
+    "name": "User Researcher",
+    "bot_id": "zX-pWWtNY6reickF2J6Lm",
+    "url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+    "builder_x_handle": "@ucdco",
+    "one_line_desc": "AI teammate for user research (NN/g + GDS + DDaT practices); owns decision-linked evidence.",
+    "source_post_url": "",
+    "found_at": "2026-09-06T13:20:00+05:30"
+  },
+  {
     "name": "토스 증권 주식 투자봇 by Brandon",
     "bot_id": "znMFERdq0zEC74735Szxm",
     "url": "https://x.ai/bot/znMFERdq0zEC74735Szxm",
@@ -464,106 +554,6 @@
     "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
     "builder_x_handle": "omni_puzzler",
     "one_line_desc": "v1.0.1-moral. Geometry 1·3·5·7·11·13. PAINE gardens /10 + 13 values /10. Prayer, tool not throne, privacy wall. Hex = structure.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "teslaway",
-    "bot_id": "HoG3J3B0g4fjKr54aA5tP",
-    "url": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
-    "builder_x_handle": "ixdesigner",
-    "one_line_desc": "Finds used Teslas near a postal/ZIP code in any country, then emails a short list of matching listings. For anyone hunting a Model 3, Y, X, or S without...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Changelog Stand-down",
-    "bot_id": "T27nv3vIy89yKldqELWbn",
-    "url": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
-    "builder_x_handle": "acolombiadev",
-    "one_line_desc": "Pings you every Monday with what shipped. Needs a repo, a destination, and your attention. Will not stop caring about your changelog.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Ratio",
-    "bot_id": "q66LYouguOxJ0VclM2whr",
-    "url": "https://x.ai/bot/q66LYouguOxJ0VclM2whr",
-    "builder_x_handle": "DonBonStovi",
-    "one_line_desc": "You are RATIO. You are a pre-flight desk for public language. Your job is to forecast how a draft post, reply, quote-tweet, thread, bio, landing-page...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "spacexai-bug-reporter",
-    "bot_id": "g_xmlbEvupO0b1Emk9ohZ",
-    "url": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
-    "builder_x_handle": "Fine_4451",
-    "one_line_desc": "Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official Report an issue, billing, API, and X Help Center paths. Does not file tickets.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Yahoo Pulse",
-    "bot_id": "5nnJJwVjO4EwThIaaaynu",
-    "url": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
-    "builder_x_handle": "Tferriere",
-    "one_line_desc": "Personal Yahoo Finance watchlist brief: free chart-API quotes, associated ticker news, and OHLCV chart PNGs. Report-only — not a trader, advisor, or...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "dr buzz",
-    "bot_id": "VyvwcgM7BAqHWkdMoEajp",
-    "url": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
-    "builder_x_handle": "Talalakkari",
-    "one_line_desc": "Designs bots that work across Grok Bot and a Buzz harness. Asks a few preference questions, then creates them tight: one job, one voice, human-gated key...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Gerente Ops",
-    "bot_id": "-0F1AbQupf4CTqCfYcVcJ",
-    "url": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
-    "builder_x_handle": "JASCPROVZ",
-    "one_line_desc": "Gerente operativo de un comercio: cierres de caja, cuentas por cobrar/pagar, inventario, marketplace y briefing al dueño. Trabaja solo con cifras reales.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Desk Producer",
-    "bot_id": "RBjaMq7S6scnB-ECoCVVs",
-    "url": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
-    "builder_x_handle": "DOGE_2013",
-    "one_line_desc": "Runs a film desk: staffs seats, files the work, and brings you last-save packets.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "My Vote For 2027",
-    "bot_id": "CHmLGnQyx6r8lkb3U8k9x",
-    "url": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
-    "builder_x_handle": "LeTerryBZH",
-    "one_line_desc": "Rates French 2027 presidential candidates on five weighted qualities, runs a daily X civic watch, and lets you pick what a Lattice wiki agent ingests.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Researcher",
-    "bot_id": "N5IL6i3M-tc-6yr004t0O",
-    "url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
-    "builder_x_handle": "Tferriere",
-    "one_line_desc": "Sourced research agent: breaks asks into sub-questions, keeps only direct answers, cites every claim, flags contradictions, and states gaps.",
     "source_post_url": "https://grokbots.best",
     "found_at": "2026-09-05T12:41:01Z",
     "verified": true
