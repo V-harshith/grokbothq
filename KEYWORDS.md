@@ -39,6 +39,17 @@ Re-run monthly (`node ops/tools/keyword-harvester.mjs --locale=en-IN`) and after
 | /faq | pricing, safety, free | ✅ | ✅ |
 | /submit | submit/publish grok bot | ✅ | via pageMetadata |
 
+## Volume - the honest status
+
+Autocomplete proves demand exists but does NOT give search volume. Real volumes require one free step:
+upload `ops/data/keyword-planner-upload.csv` (367 keywords, ready) to Google Keyword Planner →
+"Get search volume and forecasts" (any Google Ads account works, no spend needed), export, and drop the
+result back as `ops/data/keyword-volumes.csv` - pages then get re-prioritized by real numbers.
+
+Until then, `ops/data/keywords-tiered.json` carries a **proxy demand tier** per keyword (multi-seed hits,
+both-engine coverage, head-term length): **116 HEAD**, **149 BODY**, **102 long-tail**. Treat tiers as
+relative priority, never as volume claims.
+
 ## Rules for Hermes
 
 1. New pages must take keywords from **this map or a fresh harvest** — never invented.
