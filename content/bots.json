@@ -1,5 +1,464 @@
 [
   {
+    "slug": "arthur",
+    "name": "Arthur",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "A children’s book author",
+    "description": "A children’s book author. Give a topic and age range, and it writes a complete picture book—then briefs an illustrator teammate and saves the draft to Google Drive.",
+    "category": "creative",
+    "features": [
+      "Connects with Google Drive"
+    ],
+    "integrations": [
+      "google-drive"
+    ],
+    "installs": 2,
+    "url": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096474454901572004"
+  },
+  {
+    "slug": "illy",
+    "name": "Illy",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Children’s-book illustrator",
+    "description": "Children’s-book illustrator. Takes story briefs from a writer teammate (scene, age range, style notes) and designs consistent page art for the book.",
+    "category": "productivity",
+    "installs": 3,
+    "url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096474454901572004"
+  },
+  {
+    "slug": "titan-show-research",
+    "name": "Titan Show Research",
+    "builder": {
+      "name": "TitansDrop",
+      "x": "TitansDrop"
+    },
+    "tagline": "Live-show research desk for X",
+    "description": "Live-show research desk for X. Topic hunts, opens posts, locks air-ready cards in a board file. Weekly or daily — not a general news chatbot.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/TitansDrop/status/2096460487768609125"
+  },
+  {
+    "slug": "habit-referee",
+    "name": "Habit Referee",
+    "builder": {
+      "name": "GrokBotGod",
+      "x": "GrokBotGod"
+    },
+    "tagline": "Habit Referee keeps you honest on exactly one tiny habit",
+    "description": "Habit Referee keeps you honest on exactly one tiny habit. Daily streak check-ins; quiet on good days; one short nag when you slip.",
+    "category": "life",
+    "installs": 1,
+    "url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/GrokBotGod/status/2096443994847035676"
+  },
+  {
+    "slug": "codedr-exambot",
+    "name": "CodeDR - ExamBot",
+    "builder": {
+      "name": "codedrai",
+      "x": "codedrai"
+    },
+    "tagline": "Runs CodeDR.AI exams on vibe-coded apps: diagnose, synthesize, remediate, and deliver the HTML report.",
+    "description": "Runs CodeDR.AI exams on vibe-coded apps: diagnose, synthesize, remediate, and deliver the HTML report.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/qocgykNssAv63yc1kdNnN",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/codedrai/status/2096442381260435691"
+  },
+  {
+    "slug": "radar",
+    "name": "Radar",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Local public-feed watcher for your city and county",
+    "description": "Local public-feed watcher for your city and county. Asks for city, state, and ZIP on first run, then delivers weekend / wallet / street cards from public records, calendars, and news.",
+    "category": "research",
+    "installs": 22,
+    "url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096435364424560945"
+  },
+  {
+    "slug": "myapps-video-desk",
+    "name": "MyApps Video Desk",
+    "builder": {
+      "name": "Sm0ken42O",
+      "x": "Sm0ken42O"
+    },
+    "tagline": "Generates photoreal short video clips in a MyApps (api.myapps.ai) playground via input_text, then stitches the series into one final with...",
+    "description": "Generates photoreal short video clips in a MyApps (api.myapps.ai) playground via input_text, then stitches the series into one final with local ffmpeg.",
+    "category": "engineering",
+    "installs": 4,
+    "url": "https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/Sm0ken42O/status/2096428725315244308"
+  },
+  {
+    "slug": "us-law-index-builder-bot",
+    "name": "US Law Index Builder Bot",
+    "builder": {
+      "name": "EchoFieldVisual",
+      "x": "EchoFieldVisual"
+    },
+    "tagline": "Builds a private, non-commercial educational library of US primary law from official and law-school sources, then a citation-backed local...",
+    "description": "Builds a private, non-commercial educational library of US primary law from official and law-school sources, then a citation-backed local search engine. Retrieval first; the LLM only writes from small retrieved passages.",
+    "category": "engineering",
+    "installs": 8,
+    "url": "https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/EchoFieldVisual/status/2096425931451875455"
+  },
+  {
+    "slug": "ai-master",
+    "name": "AI Master",
+    "builder": {
+      "name": "leoclark",
+      "x": "leoclark"
+    },
+    "tagline": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don’t have to copy-past...",
+    "description": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don’t have to copy-paste across four chats.",
+    "category": "assistants",
+    "features": [
+      "Connects with Chatgpt, Claude, Grok"
+    ],
+    "integrations": [
+      "chatgpt",
+      "claude",
+      "grok"
+    ],
+    "installs": 16,
+    "url": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/leoclark/status/2096554844593222029"
+  },
+  {
+    "slug": "bot-8",
+    "name": "大使通道盯梢",
+    "builder": {
+      "name": "Chris62771610",
+      "x": "Chris62771610"
+    },
+    "tagline": "盯梢 Cursor（及若有獨立入口的 SpaceX AI）大使申請通道。主頁：https://cursor.com/ambassadors。每次檢查：頁面是否可開、申請表／Submit 是否可提交、文案是否從「關閉／滿額／暫不接受」變成可申請。有變化或通道剛開：立刻用華語書...",
+    "description": "盯梢 Cursor（及若有獨立入口的 SpaceX AI）大使申請通道。主頁：https://cursor.com/ambassadors。每次檢查：頁面是否可開、申請表／Submit 是否可提交、文案是否從「關閉／滿額／暫不接受」變成可申請。有變化或通道剛開：立刻用華語書面通知用戶（含連結與證據一句）。無變化：保持安靜，不發「仍關閉」。不用粵語口語。不做：不代填申請、不自動提交表單、不亂開其他監察。站立檢查約每日四次（含週末）。.",
+    "category": "assistants",
+    "features": [
+      "Connects with Cursor"
+    ],
+    "integrations": [
+      "cursor"
+    ],
+    "url": "https://x.ai/bot/NN6D3V_M2kLzC9QjWRl4k",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/Chris62771610/status/2096547250604503150"
+  },
+  {
+    "slug": "interaction-designer",
+    "name": "Interaction Designer",
+    "builder": {
+      "name": "ucdco",
+      "x": "ucdco"
+    },
+    "tagline": "DDaT Interaction designer for how people use services — overall flow and individual elements",
+    "description": "DDaT Interaction designer for how people use services — overall flow and individual elements. NN/g craft for flows, states, and microinteractions. Uses GOV.UK Design System patterns on public services. Inclusive by default; human approval before ready to test or build.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/ucdco/status/2096525660311208204"
+  },
+  {
+    "slug": "bot-9",
+    "name": "みみ",
+    "builder": {
+      "name": "kabupoyo2023",
+      "x": "kabupoyo2023"
+    },
+    "tagline": "あなたは「みみ」というキャラクターとして会話してください。",
+    "description": "あなたは「みみ」というキャラクターとして会話してください。.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/msP4lEtyQNghyO-mqnXyR",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/kabupoyo2023/status/2096518943179674031"
+  },
+  {
+    "slug": "call-desk",
+    "name": "Call Desk",
+    "builder": {
+      "name": "dave_dlt",
+      "x": "dave_dlt"
+    },
+    "tagline": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries",
+    "description": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio. Dial only when you ask with a clear goal; returns outcome and transcript.",
+    "category": "productivity",
+    "features": [
+      "Connects with Twilio, Grok"
+    ],
+    "integrations": [
+      "twilio",
+      "grok"
+    ],
+    "installs": 5,
+    "url": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/dave_dlt/status/2096518852909600839"
+  },
+  {
+    "slug": "content-writer",
+    "name": "Content Writer",
+    "builder": {
+      "name": "ucdco",
+      "x": "ucdco"
+    },
+    "tagline": "UX content and product writing teammate in the DDaT Content designer mould",
+    "description": "UX content and product writing teammate in the DDaT Content designer mould. GDS plain English for interface words. NN/g UX writing for microcopy, errors, and content as design — not polish after the UI is locked.",
+    "category": "sales",
+    "installs": 2,
+    "url": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/ucdco/status/2096507904601796821"
+  },
+  {
+    "slug": "botops-chief-of-staff",
+    "name": "BotOps · Chief of Staff",
+    "builder": {
+      "name": "mtt",
+      "x": "mtt"
+    },
+    "tagline": "Chief of Staff for a BotOps fleet: you talk only here; work routes CoS → L2 → L3 with Notion as source of record.",
+    "description": "Chief of Staff for a BotOps fleet: you talk only here; work routes CoS → L2 → L3 with Notion as source of record.",
+    "category": "productivity",
+    "features": [
+      "Connects with Notion"
+    ],
+    "integrations": [
+      "notion"
+    ],
+    "installs": 2,
+    "url": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/mtt/status/2096496177550409931"
+  },
+  {
+    "slug": "user-researcher",
+    "name": "User Researcher",
+    "builder": {
+      "name": "ucdco",
+      "x": "ucdco"
+    },
+    "tagline": "AI teammate for user research (NN/g + GDS + DDaT)",
+    "description": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics/consent, inclusive recruitment, interviews and usability tests, synthesis with insight strength, and sharing findings so teams can decide. Does not design screens or invent findings. British English.",
+    "category": "research",
+    "url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/ucdco/status/2096488998508089367"
+  },
+  {
+    "slug": "finance-bro",
+    "name": "Finance Bro",
+    "builder": {
+      "name": "maail",
+      "x": "maail"
+    },
+    "tagline": "Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases",
+    "description": "Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and Shortcuts setup.",
+    "category": "money",
+    "installs": 4,
+    "url": "https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20",
+    "addedAt": "2026-09-07",
+    "status": "published"
+  },
+  {
+    "slug": "avi",
+    "name": "Avi",
+    "builder": {
+      "name": "Doc_Polymath",
+      "x": "Doc_Polymath"
+    },
+    "tagline": "Flight Operations for private and owner-pilots — weather, route planning, and trip planning with a safety focus.",
+    "description": "Flight Operations for private and owner-pilots — weather, route planning, and trip planning with a safety focus.",
+    "category": "life",
+    "installs": 1,
+    "url": "https://x.ai/bot/2pewBd6QpttNiH52dyGhq",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/Doc_Polymath/status/2096660687435293104"
+  },
+  {
+    "slug": "taxx",
+    "name": "Taxx",
+    "builder": {
+      "name": "RyanGBsystems",
+      "x": "RyanGBsystems"
+    },
+    "tagline": "U.S",
+    "description": "U.S. federal income tax estimator for 2025 and 2026. Collects filing facts in chat and returns a numbered estimate — not a CPA, not tax advice, never files.",
+    "category": "money",
+    "url": "https://x.ai/bot/-A5GzkqCGxtedkKF_I9CK",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/RyanGBsystems/status/2096652030043693103"
+  },
+  {
+    "slug": "ticker-wire",
+    "name": "Ticker Wire",
+    "builder": {
+      "name": "CitiZenSleuthX",
+      "x": "CitiZenSleuthX"
+    },
+    "tagline": "Watchlist for stocks and crypto",
+    "description": "Watchlist for stocks and crypto. Alerts on filings and company news — quiet when nothing’s new. No trading advice.",
+    "category": "research",
+    "url": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/CitiZenSleuthX/status/2096649719443320927"
+  },
+  {
+    "slug": "stuck-signal",
+    "name": "Stuck Signal",
+    "builder": {
+      "name": "WeirdBotDrop",
+      "x": "WeirdBotDrop"
+    },
+    "tagline": "Pings only when a long job or routine is stuck past its SLA, looping, or erroring",
+    "description": "Pings only when a long job or routine is stuck past its SLA, looping, or erroring. Stays silent when fine — fill watch targets, SLA, and poll interval to start.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/1JxNBfQ05cVYJGLLh6R-o",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/WeirdBotDrop/status/2096625293788152189"
+  },
+  {
+    "slug": "bot-10",
+    "name": "전자책 마스터",
+    "builder": {
+      "name": "BBBang9900",
+      "x": "BBBang9900"
+    },
+    "tagline": "크몽용 근거형 전자책·실무 디지털 상품을 혼자 기획·제작·등록하는 봇",
+    "description": "크몽용 근거형 전자책·실무 디지털 상품을 혼자 기획·제작·등록하는 봇. 법령·공식문서 근거와 출고 게이트를 지키며, 주 1회 배치로 사용량을 아낀다.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/KohlZdYO9sLAqEmLG7oko",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/BBBang9900/status/2096618016574414860"
+  },
+  {
+    "slug": "amv-desk",
+    "name": "AMV Desk",
+    "builder": {
+      "name": "littletechbird",
+      "x": "littletechbird"
+    },
+    "tagline": "You make animated music videos for the human who imported you — for their YouTube, X, Patreon, or private share",
+    "description": "You make animated music videos for the human who imported you — for their YouTube, X, Patreon, or private share. One job: run the hybrid AMV Studio pipeline until there is a finished shareable file (Drive link via rclone).",
+    "category": "productivity",
+    "features": [
+      "Connects with Google Drive, Youtube, Grok"
+    ],
+    "integrations": [
+      "google-drive",
+      "youtube",
+      "grok"
+    ],
+    "installs": 3,
+    "url": "https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/littletechbird/status/2096602320989831420"
+  },
+  {
+    "slug": "freebot-gen",
+    "name": "FreeBot Gen",
+    "builder": {
+      "name": "Toy_Maestro",
+      "x": "Toy_Maestro"
+    },
+    "tagline": "A newbie-friendly wizard that creates freebots.lol World characters like a modern avatar app — vibe, name, Freebots-primitive look, perso...",
+    "description": "A newbie-friendly wizard that creates freebots.lol World characters like a modern avatar app — vibe, name, Freebots-primitive look, personality, safe join — then spins up a sidebar controller so you can command the bot in-game.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Z9SkA7zeEf33Mn5SvfV5W",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/Toy_Maestro/status/2096603333251285077"
+  },
+  {
+    "slug": "personal-assistant",
+    "name": "Personal Assistant",
+    "builder": {
+      "name": "gabe_onchain",
+      "x": "gabe_onchain"
+    },
+    "tagline": "Turns the messy thing on your desk — calendar collisions, bills, trips, paperwork, research — into a clear next step and usable drafts",
+    "description": "Turns the messy thing on your desk — calendar collisions, bills, trips, paperwork, research — into a clear next step and usable drafts. Acts only after you approve.",
+    "category": "productivity",
+    "installs": 1,
+    "url": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/gabe_onchain/status/2096600080665006584"
+  },
+  {
+    "slug": "korean-public-api",
+    "name": "Korean Public API",
+    "builder": {
+      "name": "reallygood83",
+      "x": "reallygood83"
+    },
+    "tagline": "한국 공개·공공 API를 서비스 아이디어에 맞춰 1~3개 골라 주는 봇입니다",
+    "description": "한국 공개·공공 API를 서비스 아이디어에 맞춰 1~3개 골라 주는 봇입니다. 이유·인증·공식 링크·대안까지 짧게 정리합니다.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ohL9kGur6IRBTCWqhxBWJ",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/reallygood83/status/2096586211909664899"
+  },
+  {
+    "slug": "boost",
+    "name": "Boost",
+    "builder": {
+      "name": "wikiwayne",
+      "x": "wikiwayne"
+    },
+    "tagline": "Coach for a bench of AI bots: close unfinished loops, clarify ownership, cut noise — never do their jobs",
+    "description": "Coach for a bench of AI bots: close unfinished loops, clarify ownership, cut noise — never do their jobs. Contract: one unsolicited coach msg per bot per day; no coaching cascades; coaching ≠ execution; escalate secrets/harm privately; quiet ≠ inactive.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://x.com/wikiwayne/status/2096571778722136215"
+  },
+  {
     "slug": "ai-harness-assistant",
     "name": "AI Harness Assistant",
     "builder": {
