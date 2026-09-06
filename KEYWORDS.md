@@ -50,6 +50,19 @@ Until then, `ops/data/keywords-tiered.json` carries a **proxy demand tier** per 
 both-engine coverage, head-term length): **116 HEAD**, **149 BODY**, **102 long-tail**. Treat tiers as
 relative priority, never as volume claims.
 
+## Real forecast data (2026-09-06)
+
+Google Keyword Planner forecast for the full 367-keyword set (India locale, October, max-clicks bid):
+
+- **~143,336 forecast impressions / month** across the keyword universe
+- **~3,310 clicks / month** available at paid position (organic share is the prize)
+- Device split: Desktop ~63%, Mobile ~36%, Tablet ~1%
+- Avg CPC ₹4.31 - cheap to sponsor against if paid ever makes sense
+
+Proof of real demand at scale. File: `ops/data/keyword-forecast-aggregate-2026-09.csv`.
+Per-keyword volumes: re-export from the **Keywords tab** of the forecast view (the campaign-summary
+export omits them), drop it here as `keyword-volumes.csv`, and pages get re-ranked by real numbers.
+
 ## Rules for Hermes
 
 1. New pages must take keywords from **this map or a fresh harvest** — never invented.
