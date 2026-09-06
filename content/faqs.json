@@ -12,6 +12,26 @@
     "a": "Opening and using Grok bots requires a Grok account; availability may depend on your subscription tier. The bots themselves are free to open - the creators don't charge per bot. GrokBot HQ is free to browse, always."
   },
   {
+    "q": "How much does Grok Bot cost?",
+    "a": "Opening and chatting with community Grok bots is free beyond your Grok subscription. xAI's separate Grok Bot agent product carries its own plan - check x.ai for current pricing. This directory lists no paid bots."
+  },
+  {
+    "q": "How do I get a Grok Bot?",
+    "a": "Browse the directory, open a bot with one click at x.ai/bot, and sign in with your X account. To build your own, use xAI's bot builder - our guide walks through the full process in about ten minutes."
+  },
+  {
+    "q": "Is Grok a chatbot?",
+    "a": "Grok is xAI's AI chatbot, and Grok bots are small custom assistants built on top of it. The chatbot is the general assistant; bots are single-purpose tools - an inbox triager, a PR reviewer - tuned by their creators for one job."
+  },
+  {
+    "q": "Do Grok bots work on Windows, Mac, and Android?",
+    "a": "Grok bots run inside Grok, so they work wherever Grok works: the web app, iOS, and Android. There is nothing to download or install per bot - open the link and start using it in your browser."
+  },
+  {
+    "q": "What is Grok best at?",
+    "a": "Grok is strong at real-time context through X, coding help, and fast reasoning. Grok bots shine when that power is pointed at one repeatable job - triaging an inbox, reviewing a diff, or chasing an invoice."
+  },
+  {
     "q": "Is GrokBot HQ affiliated with xAI?",
     "a": "No. GrokBot HQ is an independent directory maintained by fans of the Grok bot ecosystem. We are not affiliated with, endorsed by, or sponsored by xAI. Grok is a trademark of xAI, used here for identification purposes only."
   },

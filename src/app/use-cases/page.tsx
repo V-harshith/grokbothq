@@ -10,7 +10,7 @@ import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd, botListJsonLd } 
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "How People Use Grok Bots - Real Use Cases from X",
+  title: "Grok Bot Use Cases - Real Examples from X",
   description:
     "Real-world Grok bot use cases, sourced from the X posts that introduced each bot. See how people automate email, coding, research, money, and daily life with Grok bots.",
   path: "/use-cases",

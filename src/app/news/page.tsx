@@ -8,7 +8,7 @@ import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd, absUrl } from "@
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "Grok News - What's New in the Grok Bot Ecosystem",
+  title: "Grok Bot News & xAI Updates - Curated Daily",
   description:
     "The latest Grok and Grok Bot news, curated and summarized: launches, model releases, builder tools, and ecosystem moves - with links to the original sources.",
   path: "/news",

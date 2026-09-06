@@ -10,7 +10,7 @@ import { pageMetadata, breadcrumbsJsonLd, botListJsonLd } from "@/lib/seo";
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "New Grok Bots This Week",
+  title: "New Grok Bots This Week - Fresh Drops",
   description:
     "The freshest hand-reviewed Grok bots, updated weekly. See what was just added to the directory and open any new bot in Grok with one click.",
   path: "/new",

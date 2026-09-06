@@ -9,7 +9,7 @@ import { SITE } from "@/data/site";
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "State of Grok Bots - Original Directory Statistics",
+  title: "Grok Bot Statistics - How Many Grok Bots Exist?",
   description:
     "Original data from the GrokBot HQ directory: how many Grok bots exist, category distribution, builder counts, install numbers, and weekly growth - updated daily, citable under CC BY.",
   path: "/stats",

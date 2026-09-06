@@ -8,7 +8,7 @@ import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "Grok Bots vs Everything - Honest Comparisons",
+  title: "Grok Bots vs Custom GPTs, Claude, OpenClaw & More",
   description:
     "Grok bots compared to Custom GPTs, Claude Skills, Gemini Gems, and agent frameworks - honest verdicts, feature tables, and when to choose each.",
   path: "/compare",

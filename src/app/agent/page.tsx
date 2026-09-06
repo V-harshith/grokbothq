@@ -7,7 +7,7 @@ import { SITE, DISCLAIMER } from "@/data/site";
 import { stats } from "@/data/bots";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Point Your Grok Bot at This Directory",
+  title: "Grok Bot API & Routines - Point Your Bot at This Directory",
   description:
     "Copy-paste routines that turn your Grok Bot into a client of the GrokBot HQ directory: find bots for any task, get a weekly digest, and study real bot instructions before writing your own.",
   path: "/agent",

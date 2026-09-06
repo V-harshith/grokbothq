@@ -8,7 +8,7 @@ import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "Grok Bot Combos - Sets of Bots That Work Together",
+  title: "Grok Bot Combos & Workflows - Bots That Team Up",
   description:
     "Curated Grok bot combos: sets of two or three bots that hand work to each other - Ship Desk for overnight engineering, Research Desk for cited briefs, Money Hunters for real cash back.",
   path: "/groups",
