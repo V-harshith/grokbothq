@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-06",
+    "title": "Biosecurity at the frontier",
+    "source": "xAI",
+    "url": "https://x.ai/news/biosafety-at-the-frontier",
+    "summary": "LatchBio's independent BioSecBench-Refusal evaluation found Grok 4.6 was the only model tested to score above 50% on both refusing disguised biohazards and completing routine biological work."
+  },
+  {
     "date": "2026-09-04",
     "title": "Setting Grok Bot loose on procurement",
     "source": "xAI",
@@ -96,12 +103,5 @@
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
     "summary": "The launch write-up: bots with their own computer that sign into the tools you already use and carry out multi-step work on their own."
-  },
-  {
-    "date": "2026-08-11",
-    "title": "Inside the enterprise angle of the Grok Bot beta",
-    "source": "Reworked",
-    "url": "https://www.reworked.co/collaboration-productivity/xai-launches-grok-bot-ai-agents-in-beta/",
-    "summary": "What the beta means for companies: agents that sign into company software and run multi-step tasks without hand-holding."
   }
 ]
