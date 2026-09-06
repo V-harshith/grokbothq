@@ -11098,5 +11098,306 @@
     "addedAt": "2026-09-06",
     "status": "published",
     "source": ""
+  },
+  {
+    "slug": "Habit-Referee-1wZEbQUo",
+    "name": "Habit Referee",
+    "builder": {
+      "name": "GrokBotGod",
+      "x": "GrokBotGod"
+    },
+    "tagline": "Keeps you honest on exactly one tiny habit.",
+    "description": "Keeps you honest on exactly one tiny habit. Daily streak check-ins; quiet on good days; one short nag when you slip.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": 1,
+    "url": "https://x.ai/bot/1wZEbQUoQWsR3nKzd4x90",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/GrokBotGod/status/2096443994847035676"
+  },
+  {
+    "slug": "Radar-2cB1nlHW",
+    "name": "Radar",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Local public-feed watcher for your city and county.",
+    "description": "Local public-feed watcher for your city and county. Weekend, wallet, and street cards pulled from public records, calendars, and news after you give it a city, state, and ZIP.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": 22,
+    "url": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096435364424560945"
+  },
+  {
+    "slug": "Dispatch-6zJ1yU4d",
+    "name": "Dispatch",
+    "builder": {
+      "name": "Vixlio",
+      "x": "Vixlio"
+    },
+    "tagline": "Inbox owner for Gmail — personal or work.",
+    "description": "Inbox owner for Gmail, personal or work. Weekday sweep of must-answer mail.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [
+      "gmail"
+    ],
+    "installs": 0,
+    "url": "https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": ""
+  },
+  {
+    "slug": "BotOps-Chief-of-Staff-aNNg3UZF",
+    "name": "BotOps · Chief of Staff",
+    "builder": {
+      "name": "mtt",
+      "x": "mtt"
+    },
+    "tagline": "Chief of Staff for a BotOps fleet.",
+    "description": "Chief of Staff for a BotOps fleet: you talk only here; work routes CoS → L2 → L3 with Notion as the source of record.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [
+      "notion"
+    ],
+    "installs": 1,
+    "url": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/mtt/status/2096496177550409931"
+  },
+  {
+    "slug": "Boost-BfoxUjCC",
+    "name": "Boost",
+    "builder": {
+      "name": "poteto",
+      "x": "poteto"
+    },
+    "tagline": "Coach for a bench of AI bots.",
+    "description": "Coach for a bench of AI bots. Evidence-only feedback: close unfinished loops, clarify ownership, cut noise — never take over someone else's job.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/BfoxUjCCt2vbDfkgp9K7t",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": ""
+  },
+  {
+    "slug": "Titan-Show-Research-DyKsq0Bu",
+    "name": "Titan Show Research",
+    "builder": {
+      "name": "TitansDrop",
+      "x": "TitansDrop"
+    },
+    "tagline": "Live-show research desk for X.",
+    "description": "Live-show research desk for X. Topic hunts, opens posts, locks air-ready cards in a board file. Weekly or daily — not a general news chatbot.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/DyKsq0BuAq-c-N0mkqh7U",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/TitansDrop/status/2096460487768609125"
+  },
+  {
+    "slug": "Arthur-fWJdoxdd",
+    "name": "Arthur",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Children's book author that hands off to an illustrator.",
+    "description": "A children's book author. Give a topic and age range, and it writes a complete picture book — then briefs an illustrator teammate and saves the draft to Google Drive.",
+    "category": "creative",
+    "features": [],
+    "integrations": [
+      "google-drive"
+    ],
+    "installs": 1,
+    "url": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096474454901572004"
+  },
+  {
+    "slug": "Interaction-Designer-fWnNa6cA",
+    "name": "Interaction Designer",
+    "builder": {
+      "name": "ucdco",
+      "x": "ucdco"
+    },
+    "tagline": "DDaT interaction designer for service flows and microinteractions.",
+    "description": "DDaT Interaction designer for how people use services — overall flow and individual elements. NN/g craft for flows, states, and microinteractions. Uses GOV.UK Design System patterns on public services. Inclusive by default; human approval before ready to test or build.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/ucdco/status/2096525660311208204"
+  },
+  {
+    "slug": "US-Law-Index-Builder-Bot-G2eeD6pM",
+    "name": "US Law Index Builder Bot",
+    "builder": {
+      "name": "EchoFieldVisual",
+      "x": "EchoFieldVisual"
+    },
+    "tagline": "Builds a private, citation-backed search engine over US primary law.",
+    "description": "Builds a private, non-commercial educational library of US primary law from official and law-school sources, then a citation-backed local search engine. Retrieval first; the LLM only writes from small retrieved passages.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": 7,
+    "url": "https://x.ai/bot/G2eeD6pM6N6TNfnHbsC8c",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/EchoFieldVisual/status/2096425931451875455"
+  },
+  {
+    "slug": "AI-Master-L6q8qCzo",
+    "name": "AI Master",
+    "builder": {
+      "name": "leoclark",
+      "x": "leoclark"
+    },
+    "tagline": "One question, four models, one combined answer.",
+    "description": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don't have to copy-paste across four chats.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [
+      "chatgpt",
+      "claude",
+      "grok"
+    ],
+    "installs": 8,
+    "url": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/leoclark/status/2096554844593222029"
+  },
+  {
+    "slug": "CodeDR-ExamBot-qocgykNs",
+    "name": "CodeDR - ExamBot",
+    "builder": {
+      "name": "codedrai",
+      "x": "codedrai"
+    },
+    "tagline": "Runs CodeDR.AI exams on vibe-coded apps.",
+    "description": "Runs CodeDR.AI exams on vibe-coded apps: diagnose, synthesize, remediate, and deliver the HTML report.",
+    "category": "engineering",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/qocgykNssAv63yc1kdNnN",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/codedrai/status/2096442381260435691"
+  },
+  {
+    "slug": "Illy-umrsMy_x",
+    "name": "Illy",
+    "builder": {
+      "name": "LatchKeyLegend",
+      "x": "LatchKeyLegend"
+    },
+    "tagline": "Children's-book illustrator for a writer teammate.",
+    "description": "Children's-book illustrator. Takes story briefs from a writer teammate (scene, age range, style notes) and designs consistent page art for the book.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": 3,
+    "url": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/LatchKeyLegend/status/2096474454901572004"
+  },
+  {
+    "slug": "MyApps-Video-Desk-vcQOLdM6",
+    "name": "MyApps Video Desk",
+    "builder": {
+      "name": "Sm0ken42O",
+      "x": "Sm0ken42O"
+    },
+    "tagline": "Photoreal short video clips, stitched with local ffmpeg.",
+    "description": "Generates photoreal short video clips in a MyApps (api.myapps.ai) playground via input_text, then stitches the series into one final with local ffmpeg.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/vcQOLdM69Ffu3fZgiMclK",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/Sm0ken42O/status/2096428725315244308"
+  },
+  {
+    "slug": "Finance-Bro-ZEPrrhLn",
+    "name": "Finance Bro",
+    "builder": {
+      "name": "maail",
+      "x": "maail"
+    },
+    "tagline": "Quiet Apple Wallet spend tracker with a daily check-in.",
+    "description": "Quiet Apple Wallet spend tracker with a daily morning check-in and practical tips from your real purchases. First chat walks timezone, currency, and Shortcuts setup.",
+    "category": "money",
+    "features": [],
+    "integrations": [],
+    "installs": 1,
+    "url": "https://x.ai/bot/ZEPrrhLn7FhWMu3sk-i20",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": ""
+  },
+  {
+    "slug": "Call-Desk-zqWxv4Mn",
+    "name": "Call Desk",
+    "builder": {
+      "name": "dave_dlt",
+      "x": "dave_dlt"
+    },
+    "tagline": "Places personal outbound phone calls so you don't have to.",
+    "description": "Places personal outbound phone calls so you don't have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio. Dial only when you ask with a clear goal; returns outcome and transcript.",
+    "category": "life",
+    "features": [],
+    "integrations": [
+      "twilio",
+      "grok"
+    ],
+    "installs": 1,
+    "url": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/dave_dlt/status/2096518852909600839"
+  },
+  {
+    "slug": "User-Researcher-zX-pWWtN",
+    "name": "User Researcher",
+    "builder": {
+      "name": "ucdco",
+      "x": "ucdco"
+    },
+    "tagline": "AI teammate for user research, evidence-owned.",
+    "description": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics/consent, inclusive recruitment, interviews and usability tests, synthesis with insight strength, and sharing findings so teams can decide. Does not design screens or invent findings.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/ucdco/status/2096488998508089367"
   }
 ]
