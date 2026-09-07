@@ -1,8 +1,6 @@
 import Link from "next/link";
 import type { Bot } from "@/data/bots";
 import { botOpens } from "@/data/bots";
-import { categoryMap } from "@/data/categories";
-import { BotFace } from "./bot-face";
 import { OpenButton } from "./open-button";
 
 export { OpenButton };
@@ -16,60 +14,61 @@ function relDate(iso: string): string {
 }
 
 export function BotCard({ bot }: { bot: Bot }) {
-  const category = categoryMap.get(bot.category);
   const fresh = Date.now() - new Date(bot.addedAt).getTime() < 7 * 86_400_000;
   const opens = botOpens(bot.slug);
+  const installs = typeof bot.installs === "number" ? bot.installs : null;
 
   return (
-    <article className="card card-hover flex flex-col p-5">
-      {/* identity row: face + name + handle only - nothing competes with the name */}
-      <div className="flex items-start gap-3">
-        <BotFace slug={bot.slug} name={bot.name} hue={bot.hue} />
-        <div className="min-w-0 flex-1">
-          <Link href={`/bots/${bot.slug}`} className="block text-[15px] font-semibold leading-snug hover:text-accent">
+    <article className="card card-hover flex flex-col gap-3 p-[22px]">
+      <div className="flex items-center justify-between gap-[10px]">
+        <h3 className="text-base font-medium tracking-[-0.01em]">
+          <Link href={`/bots/${bot.slug}`}>
             {bot.name}
           </Link>
-          {bot.builder.x && (
-            <a
-              href={`https://x.com/${bot.builder.x}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-0.5 block text-xs text-muted hover:text-foreground"
-            >
-              @{bot.builder.x}
-            </a>
-          )}
-        </div>
+        </h3>
+        <span className="whitespace-nowrap rounded-md border border-border px-2 py-[3px] font-mono text-[10.5px] uppercase tracking-[0.08em] text-muted">
+          {bot.category}
+        </span>
       </div>
 
-      <p className="mt-3 flex-1 text-sm leading-relaxed text-muted">{bot.tagline}</p>
+      <p className="flex-1 text-[13.5px] text-muted">{bot.tagline}</p>
 
-      {/* meta row: category + installs + freshness, all with room to breathe */}
-      <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted">
-        {category && (
-          <Link href={`/bots/category/${category.slug}`} className="hover:text-foreground">
-            {category.name}
-          </Link>
+      <div className="flex items-center justify-between border-t border-border pt-3 text-[12.5px] text-muted">
+        {bot.builder.x ? (
+          <a
+            href={`https://x.com/${bot.builder.x}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="transition-[color] duration-[180ms] ease-out hover:text-foreground"
+          >
+            by @{bot.builder.x}
+          </a>
+        ) : (
+          <span>{bot.builder.name}</span>
         )}
         {opens > 0 ? (
-          <span title="Opens from GrokBot HQ readers">
-            <strong className="tnum font-mono font-semibold text-foreground">{opens}</strong> opens
+          <span title="Opens from GrokBot HQ readers" className="tnum font-mono text-foreground">
+            {opens} opens
           </span>
-        ) : typeof bot.installs === "number" && bot.installs > 0 && (
-          <span title="Installs reported by the source directory">
-            <strong className="tnum font-mono font-semibold text-foreground">{bot.installs}</strong> installs
+        ) : installs !== null && installs > 0 ? (
+          <span title="Installs reported by the source directory" className="tnum font-mono text-foreground">
+            {installs} installs
           </span>
+        ) : (
+          <span />
         )}
-        {fresh && <span className="font-medium text-accent">new · {relDate(bot.addedAt)}</span>}
       </div>
 
-      <div className="mt-4 flex items-center justify-between gap-3">
-        <Link
-          href={`/bots/${bot.slug}`}
-          className="text-xs font-medium text-muted underline-offset-4 hover:text-foreground hover:underline"
-        >
-          Details
-        </Link>
+      <div className="flex items-center justify-between gap-3">
+        <span className="flex items-center gap-3">
+          <Link
+            href={`/bots/${bot.slug}`}
+            className="text-xs font-medium text-muted underline-offset-4 hover:text-foreground hover:underline"
+          >
+            Details
+          </Link>
+          {fresh && <span className="text-xs font-medium text-accent">new · {relDate(bot.addedAt)}</span>}
+        </span>
         <OpenButton bot={bot} small />
       </div>
     </article>
