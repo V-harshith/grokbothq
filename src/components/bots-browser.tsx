@@ -37,10 +37,10 @@ export function BotsBrowser({ bots, initialCategory = "all" }: { bots: Bot[]; in
               role="tab"
               aria-selected={active === tab.slug}
               onClick={() => setActive(tab.slug)}
-              className={`rounded-full px-3 py-1.5 text-xs font-semibold transition-colors ${
+              className={`rounded-[10px] px-3 py-1.5 text-xs font-semibold transition-colors ${
                 active === tab.slug
                   ? "bg-accent text-accent-foreground"
-                  : "border border-border text-muted hover:border-accent hover:text-foreground"
+                  : "border border-border text-muted hover:border-[var(--border-hov)] hover:text-foreground"
               }`}
             >
               {tab.name}
