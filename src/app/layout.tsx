@@ -60,22 +60,12 @@ export const metadata: Metadata = {
   formatDetection: { telephone: false },
 };
 
-/** Applies the saved theme before first paint to avoid a flash. */
-const themeScript = `
-try {
-  var t = localStorage.getItem('gbh-theme');
-  var dark = t ? t === 'dark' : true;
-  document.documentElement.classList.toggle('dark', dark);
-} catch (e) {}
-`;
-
 export default function RootLayout({ children }: LayoutProps<"/">) {
   const umamiUrl = process.env.NEXT_PUBLIC_UMAMI_URL;
   const umamiId = process.env.NEXT_PUBLIC_UMAMI_WEBSITE_ID;
   return (
     <html lang="en" data-scroll-behavior="smooth" className={`${geistSans.variable} ${geistMono.variable} dark h-full antialiased`}>
       <head>
-        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <noscript><style>{`[data-reveal]{opacity:1 !important;transform:none !important}`}</style></noscript>
         <link rel="alternate" type="application/rss+xml" title="GrokBot HQ" href="/rss.xml" />
       </head>
