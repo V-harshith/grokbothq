@@ -33,6 +33,7 @@ function build(): string {
   lines.push(`- Content license: CC BY 4.0 with attribution (link to the site). Code is open source under the MIT license.`);
   lines.push(`- Operator: the GrokBot HQ team. Contact: ${SITE.email}`);
   lines.push(`- Machine index: ${base}/api/v1/index.json - the full directory as JSON. RSS: ${base}/rss.xml`);
+  lines.push(`- Markdown variants: append \`.md\` to any bot or guide page URL for a plain-text version (e.g. ${base}/bots/multibot.md, ${base}/guides/what-are-grok-bots.md); index versions: ${base}/guides.md and ${base}/use-cases.md.`);
   lines.push("");
 
   lines.push("");
