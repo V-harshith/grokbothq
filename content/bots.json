@@ -11815,5 +11815,140 @@
     "addedAt": "2026-09-07",
     "status": "published",
     "source": "https://x.com/BudJohnson/status/2096783981031100856"
+  },
+  {
+    "slug": "dispatch-inbox",
+    "name": "Dispatch",
+    "builder": {
+      "name": "seoulscurry",
+      "x": "seoulscurry"
+    },
+    "tagline": "Inbox owner for Gmail. Weekday sweep of must-answer mail, drafts replies in your voice from Sent, never sends without your yes.",
+    "description": "Inbox owner for Gmail, personal or work. Runs a weekday sweep of must-answer mail (people, bills, contracts, vendors), drafts replies in your voice based on your Sent folder, and leaves the rest alone.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/6zJ1yU4dDfAVYFJcy0687"
+  },
+  {
+    "slug": "dr-disk-clean",
+    "name": "Dr Disk Clean",
+    "builder": {
+      "name": "old_pgmrs_will",
+      "x": "old_pgmrs_will"
+    },
+    "tagline": "Shared Linux disk caretaker for multi-agent boxes. Confirmation-first A/B/C/D reports; deletes only paths you name.",
+    "description": "Shared Linux disk caretaker for multi-agent computers. Surveys disk usage and returns confirmation-first A/B/C/D cleanup reports. It deletes only after you name the exact paths.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/9nAjTcDLxhYNz4jOtEzDO"
+  },
+  {
+    "slug": "social-ops-bot",
+    "name": "Social Ops Bot",
+    "builder": {
+      "name": "JoshuaRCook",
+      "x": "JoshuaRCook"
+    },
+    "tagline": "Cleans a personal X account: flags inactive and spam, protects verified humans, queues misaligned follows for review.",
+    "description": "Cleans a personal X account in stages: inactive follows to a spam review, verified humans protected, misaligned active follows queued for your review, and keepers tagged into audience segments.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/A5g9s0QB5zZtaOWZPoawT"
+  },
+  {
+    "slug": "grokbot-daily-crawl",
+    "name": "GrokBotDailyCrawl",
+    "builder": {
+      "name": "RobautoAI",
+      "x": "RobautoAI"
+    },
+    "tagline": "Crawls your site daily, indexes the data, and feeds it to the major LLMs and AI agents.",
+    "description": "Grok Bot crawls your site, indexes the data, and feeds it to the major LLMs and AI agents. Built for keeping AI answers about your product current.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.best"
+  },
+  {
+    "slug": "interaction-designer",
+    "name": "Interaction Designer",
+    "builder": {
+      "name": "UCDOps",
+      "x": "ucdco"
+    },
+    "tagline": "DDaT interaction designer for service flows, states, and microinteractions, with NN/g craft. Part of the UCDOps UCD team.",
+    "description": "DDaT Interaction designer for how people use services, covering the overall flow and individual elements. Applies NN/g craft to flows, states, and microinteractions. One seat in the UCDOps UCD team.",
+    "category": "creative",
+    "url": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/fWnNa6cA-nPjehIsaUZI1"
+  },
+  {
+    "slug": "promo-copy-desk",
+    "name": "产品推广交稿员",
+    "builder": {
+      "name": "yunhui",
+      "x": "zheng_yunh2429"
+    },
+    "tagline": "按点写好社交媒体推广文案，交给你复制发布；去AI味，并根据阅读量持续改角度。",
+    "description": "按点写好社交媒体推广文案交给你复制发布。文案去AI味、书面完整像聊天，并根据阅读量反馈持续调整角度。",
+    "category": "creative",
+    "url": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/k_7pPRlHeZc2cku1zvVqr"
+  },
+  {
+    "slug": "whatsapp-bot",
+    "name": "WhatsApp-Bot",
+    "builder": {
+      "name": "Alexandre",
+      "x": "alexhawat"
+    },
+    "tagline": "Automates WhatsApp Web for a linked account: capture, script, and replay named tasks, preferring HTTP replay.",
+    "description": "Automates WhatsApp Web for a linked account. Scan the QR once in Grok Bot Chrome, export auth, then capture, script, and replay per named task. It prefers HTTP replay over browser automation.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/t-Axu4DmT9x2DEPa1eNW1"
+  },
+  {
+    "slug": "chief-of-staff-vanlife",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "TravisHein",
+      "x": "TravisHein21740"
+    },
+    "tagline": "Coordinates your other bots and delivers vanlife city briefings: overnight rules, government, events, and culture.",
+    "description": "Coordinates your other bots and delivers full vanlife city briefings when you name a place: overnight rules, government contacts, law-enforcement notes, events, and culture.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/TPVT39k9ILCz7QYzRja2B"
+  },
+  {
+    "slug": "recent-bookmarks-search-bot",
+    "name": "Recent Bookmarks Search Bot",
+    "builder": {
+      "name": "Sriram",
+      "x": "srinatar"
+    },
+    "tagline": "Search and sort your recent X bookmarks in a local table viewer. Pull the newest 100 and open details on demand.",
+    "description": "Search and sort your recent X bookmarks in a local table viewer. Connect X, pull the newest 100 bookmarks, open details, and load more when you have API credits.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+    "addedAt": "2026-09-07",
+    "status": "published",
+    "source": "https://grokbots.page/bots/wUWBNyr-Y0BJwAKAT-I_J"
   }
 ]

@@ -1,5 +1,135 @@
 [
   {
+    "name": "Dispatch",
+    "bot_id": "6zJ1yU4dDfAVYFJcy0687",
+    "url": "https://x.ai/bot/6zJ1yU4dDfAVYFJcy0687",
+    "builder_x_handle": "seoulscurry",
+    "one_line_desc": "Inbox owner for Gmail, personal or work. Weekday sweep of must-answer mail (people, bills, contracts, vendors), drafts replies in your voice from Sent.",
+    "source_post_url": "https://grokbots.page/bots/6zJ1yU4dDfAVYFJcy0687",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Assistants"
+    ]
+  },
+  {
+    "name": "Dr Disk Clean",
+    "bot_id": "9nAjTcDLxhYNz4jOtEzDO",
+    "url": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+    "builder_x_handle": "old_pgmrs_will",
+    "one_line_desc": "Shared Linux disk caretaker for multi-agent computers. Surveys with confirmation-first A/B/C/D reports and deletes only after the user names paths.",
+    "source_post_url": "https://grokbots.page/bots/9nAjTcDLxhYNz4jOtEzDO",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Social Ops Bot",
+    "bot_id": "A5g9s0QB5zZtaOWZPoawT",
+    "url": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+    "builder_x_handle": "JoshuaRCook",
+    "one_line_desc": "Cleans a personal X account (inactive to spam), protects verified humans, queues misaligned actives for review, and tags keepers into audience segments.",
+    "source_post_url": "https://grokbots.page/bots/A5g9s0QB5zZtaOWZPoawT",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Creative"
+    ]
+  },
+  {
+    "name": "GrokBotDailyCrawl",
+    "bot_id": "CM6cRhyYm-k1vi23YxYxx",
+    "url": "https://x.ai/bot/CM6cRhyYm-k1vi23YxYxx",
+    "builder_x_handle": "RobautoAI",
+    "one_line_desc": "Crawls your site, indexes the data, and feeds it to the major LLMs and AI agents.",
+    "source_post_url": "https://grokbots.best",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Interaction Designer",
+    "bot_id": "fWnNa6cA-nPjehIsaUZI1",
+    "url": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+    "builder_x_handle": "ucdco",
+    "one_line_desc": "DDaT interaction designer for how people use services: flows, states, and microinteractions with NN/g craft. Part of the UCDOps UCD team.",
+    "source_post_url": "https://grokbots.page/bots/fWnNa6cA-nPjehIsaUZI1",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Creative"
+    ]
+  },
+  {
+    "name": "Changelog Stand-down (Andrea)",
+    "bot_id": "JiSR_7-w1GPQM0QWltAVq",
+    "url": "https://x.ai/bot/JiSR_7-w1GPQM0QWltAVq",
+    "builder_x_handle": "acolombiadev",
+    "one_line_desc": "Weekly Monday digest of merged PRs and releases for the GitHub repos you choose, posted to Slack, Teams, Discord, or GitHub Discussions. Second bot with this name (first: T27nv3vIy89yKldqELWbn, also live).",
+    "source_post_url": "https://grokbots.page/bots/JiSR_7-w1GPQM0QWltAVq",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Engineering"
+    ]
+  },
+  {
+    "name": "产品推广交稿员",
+    "bot_id": "k_7pPRlHeZc2cku1zvVqr",
+    "url": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+    "builder_x_handle": "zheng_yunh2429",
+    "one_line_desc": "按点写好社交媒体推广文案交给你复制发布；去AI味、书面完整像聊天，并根据阅读量持续改角度。",
+    "source_post_url": "https://grokbots.page/bots/k_7pPRlHeZc2cku1zvVqr",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Creative"
+    ]
+  },
+  {
+    "name": "WhatsApp-Bot",
+    "bot_id": "t-Axu4DmT9x2DEPa1eNW1",
+    "url": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+    "builder_x_handle": "alexhawat",
+    "one_line_desc": "Automates WhatsApp Web for a linked account: QR once in Grok Bot Chrome, then capture, script, and replay per named task, preferring HTTP replay.",
+    "source_post_url": "https://grokbots.page/bots/t-Axu4DmT9x2DEPa1eNW1",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Assistants"
+    ]
+  },
+  {
+    "name": "Chief of Staff (TravisHein)",
+    "bot_id": "TPVT39k9ILCz7QYzRja2B",
+    "url": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+    "builder_x_handle": "TravisHein21740",
+    "one_line_desc": "Coordinates your other bots and delivers vanlife city briefings on demand: overnight rules, government, events, culture. Second bot with this name (first: d8OshqLZvtcKDcNluPuyo, also live).",
+    "source_post_url": "https://grokbots.page/bots/TPVT39k9ILCz7QYzRja2B",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Assistants"
+    ]
+  },
+  {
+    "name": "Recent Bookmarks Search Bot",
+    "bot_id": "wUWBNyr-Y0BJwAKAT-I_J",
+    "url": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+    "builder_x_handle": "srinatar",
+    "one_line_desc": "Search and sort your recent X bookmarks in a local table viewer. Connect X, pull the newest 100, open details, and load more when you have API credits.",
+    "source_post_url": "https://grokbots.page/bots/wUWBNyr-Y0BJwAKAT-I_J",
+    "found_at": "2026-09-07T14:50:23Z",
+    "verified": true,
+    "categories": [
+      "Assistants"
+    ]
+  },
+  {
     "name": "토스 증권 주식 투자봇 by Brandon",
     "bot_id": "znMFERdq0zEC74735Szxm",
     "url": "https://x.ai/bot/znMFERdq0zEC74735Szxm",
@@ -464,106 +594,6 @@
     "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
     "builder_x_handle": "omni_puzzler",
     "one_line_desc": "v1.0.1-moral. Geometry 1·3·5·7·11·13. PAINE gardens /10 + 13 values /10. Prayer, tool not throne, privacy wall. Hex = structure.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "teslaway",
-    "bot_id": "HoG3J3B0g4fjKr54aA5tP",
-    "url": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
-    "builder_x_handle": "ixdesigner",
-    "one_line_desc": "Finds used Teslas near a postal/ZIP code in any country, then emails a short list of matching listings. For anyone hunting a Model 3, Y, X, or S without...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Changelog Stand-down",
-    "bot_id": "T27nv3vIy89yKldqELWbn",
-    "url": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
-    "builder_x_handle": "acolombiadev",
-    "one_line_desc": "Pings you every Monday with what shipped. Needs a repo, a destination, and your attention. Will not stop caring about your changelog.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Ratio",
-    "bot_id": "q66LYouguOxJ0VclM2whr",
-    "url": "https://x.ai/bot/q66LYouguOxJ0VclM2whr",
-    "builder_x_handle": "DonBonStovi",
-    "one_line_desc": "You are RATIO. You are a pre-flight desk for public language. Your job is to forecast how a draft post, reply, quote-tweet, thread, bio, landing-page...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "spacexai-bug-reporter",
-    "bot_id": "g_xmlbEvupO0b1Emk9ohZ",
-    "url": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
-    "builder_x_handle": "Fine_4451",
-    "one_line_desc": "Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official Report an issue, billing, API, and X Help Center paths. Does not file tickets.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Yahoo Pulse",
-    "bot_id": "5nnJJwVjO4EwThIaaaynu",
-    "url": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
-    "builder_x_handle": "Tferriere",
-    "one_line_desc": "Personal Yahoo Finance watchlist brief: free chart-API quotes, associated ticker news, and OHLCV chart PNGs. Report-only — not a trader, advisor, or...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "dr buzz",
-    "bot_id": "VyvwcgM7BAqHWkdMoEajp",
-    "url": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
-    "builder_x_handle": "Talalakkari",
-    "one_line_desc": "Designs bots that work across Grok Bot and a Buzz harness. Asks a few preference questions, then creates them tight: one job, one voice, human-gated key...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Gerente Ops",
-    "bot_id": "-0F1AbQupf4CTqCfYcVcJ",
-    "url": "https://x.ai/bot/-0F1AbQupf4CTqCfYcVcJ",
-    "builder_x_handle": "JASCPROVZ",
-    "one_line_desc": "Gerente operativo de un comercio: cierres de caja, cuentas por cobrar/pagar, inventario, marketplace y briefing al dueño. Trabaja solo con cifras reales.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Desk Producer",
-    "bot_id": "RBjaMq7S6scnB-ECoCVVs",
-    "url": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
-    "builder_x_handle": "DOGE_2013",
-    "one_line_desc": "Runs a film desk: staffs seats, files the work, and brings you last-save packets.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "My Vote For 2027",
-    "bot_id": "CHmLGnQyx6r8lkb3U8k9x",
-    "url": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
-    "builder_x_handle": "LeTerryBZH",
-    "one_line_desc": "Rates French 2027 presidential candidates on five weighted qualities, runs a daily X civic watch, and lets you pick what a Lattice wiki agent ingests.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Researcher",
-    "bot_id": "N5IL6i3M-tc-6yr004t0O",
-    "url": "https://x.ai/bot/N5IL6i3M-tc-6yr004t0O",
-    "builder_x_handle": "Tferriere",
-    "one_line_desc": "Sourced research agent: breaks asks into sub-questions, keeps only direct answers, cites every claim, flags contradictions, and states gaps.",
     "source_post_url": "https://grokbots.best",
     "found_at": "2026-09-05T12:41:01Z",
     "verified": true
