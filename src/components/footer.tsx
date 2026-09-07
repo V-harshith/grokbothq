@@ -80,6 +80,7 @@ export function Footer() {
               <Link href="/about" className="hover:text-foreground">Open source</Link>
               <Link href="/privacy" className="hover:text-foreground">Privacy</Link>
               <Link href="/terms" className="hover:text-foreground">Terms</Link>
+              <a href="/llms.txt" className="hover:text-foreground">llms.txt</a>
             </p>
           </div>
         </div>
