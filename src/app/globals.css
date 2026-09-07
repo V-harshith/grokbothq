@@ -3,31 +3,19 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 :root {
-  --background: #ffffff;
-  --surface: #ffffff;
-  --elevated: #f5f5f5;
-  --border-c: #e5e5e5;
-  --foreground: #0a0a0a;
-  --muted: #6b6b6b;
-  --accent: #0a0a0a;
-  --accent-soft: rgba(0, 0, 0, 0.05);
-  --accent-foreground: #ffffff;
-  --code-bg: #0d0d0f;
-  --code-fg: #e5e5e5;
-}
-
-.dark {
-  --background: #050505;
-  --surface: #101012;
-  --elevated: #19191c;
-  --border-c: #262629;
+  --background: #000;
+  --surface: #0a0a0a;
+  --elevated: #111111;
+  --border-c: #1f1f1f;
+  --border-hov: #3d3d3d;
   --foreground: #f5f5f5;
-  --muted: #9c9ca3;
+  --muted: #8f8f94;
   --accent: #f5f5f5;
   --accent-soft: rgba(255, 255, 255, 0.08);
-  --accent-foreground: #050505;
-  --code-bg: #101013;
+  --accent-foreground: #000;
+  --code-bg: #111111;
   --code-fg: #e5e5e5;
+  --r: 10px;
 }
 
 @theme inline {
@@ -35,6 +23,7 @@
   --color-surface: var(--surface);
   --color-elevated: var(--elevated);
   --color-border: var(--border-c);
+  --color-border-hover: var(--border-hov);
   --color-foreground: var(--foreground);
   --color-muted: var(--muted);
   --color-accent: var(--accent);
@@ -46,10 +35,6 @@
 
 html {
   scroll-behavior: smooth;
-  color-scheme: light;
-}
-
-html.dark {
   color-scheme: dark;
 }
 
@@ -57,12 +42,15 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   font-feature-settings: 'kern' 1, 'liga' 1;
   text-rendering: optimizeLegibility;
 }
 
 a {
+  color: inherit;
   text-underline-offset: 2px;
   text-decoration-thickness: 1px;
 }
@@ -79,24 +67,22 @@ a {
 @layer components {
   .container-x {
     width: 100%;
-    max-width: 72rem;
+    max-width: 67.5rem;
     margin-inline: auto;
-    padding-inline: 1rem;
+    padding-inline: 1.5rem;
   }
 
   .card {
     background: var(--surface);
     border: 1px solid var(--border-c);
-    border-radius: 0.875rem;
+    border-radius: var(--r);
   }
 
   .card-hover {
-    transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1), transform 0.25s cubic-bezier(0.32, 0.72, 0, 1), box-shadow 0.25s cubic-bezier(0.32, 0.72, 0, 1);
+    transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1);
   }
   .card-hover:hover {
-    border-color: color-mix(in srgb, var(--accent) 55%, var(--border-c));
-    transform: translateY(-2px);
-    box-shadow: 0 12px 32px -18px color-mix(in srgb, var(--accent) 40%, transparent);
+    border-color: var(--border-hov);
   }
 
   .btn {
@@ -104,13 +90,14 @@ a {
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
-    border-radius: 999px;
-    font-size: 0.875rem;
-    font-weight: 600;
-    padding: 0.625rem 1.25rem;
+    height: 44px;
+    padding: 0 20px;
+    border-radius: var(--r);
+    font-size: 14px;
+    font-weight: 500;
     line-height: 1;
     white-space: nowrap;
-    transition: transform 0.18s cubic-bezier(0.32, 0.72, 0, 1), opacity 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+    transition: opacity 0.18s ease-out, background 0.18s ease-out, border-color 0.18s ease-out;
     cursor: pointer;
   }
   .btn:active {
@@ -122,7 +109,7 @@ a {
     color: var(--background);
   }
   .btn-primary:hover {
-    opacity: 0.85;
+    opacity: 0.86;
   }
 
   .btn-accent {
@@ -139,8 +126,7 @@ a {
     color: var(--foreground);
   }
   .btn-ghost:hover {
-    border-color: var(--accent);
-    color: var(--accent);
+    border-color: var(--border-hov);
   }
 
   .badge {
@@ -152,7 +138,7 @@ a {
     letter-spacing: 0.04em;
     text-transform: uppercase;
     padding: 0.25rem 0.5rem;
-    border-radius: 999px;
+    border-radius: var(--r);
     border: 1px solid var(--border-c);
     color: var(--muted);
   }
@@ -165,11 +151,11 @@ a {
 
   .kicker {
     font-family: var(--font-mono), monospace;
-    font-size: 0.75rem;
+    font-size: 11px;
     font-weight: 500;
-    letter-spacing: 0.12em;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--accent);
+    color: var(--muted);
   }
 
   .prose-block p {
@@ -182,44 +168,6 @@ a {
   }
 }
 
-.grid-bg {
-  background-image:
-    linear-gradient(to right, color-mix(in srgb, var(--border-c) 60%, transparent) 1px, transparent 1px),
-    linear-gradient(to bottom, color-mix(in srgb, var(--border-c) 60%, transparent) 1px, transparent 1px);
-  background-size: 44px 44px;
-  mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, black 30%, transparent 75%);
-}
-
-/* ---------- Grok bot faces (cards) ---------- */
-
-@keyframes bot-blink {
-  0%, 90%, 100% { transform: scaleY(1); }
-  94%, 96% { transform: scaleY(0.08); }
-}
-
-.bot-eye {
-  transform-box: fill-box;
-  transform-origin: center;
-  animation: bot-blink var(--bd, 5s) ease-in-out var(--bdel, 0s) infinite;
-}
-
-/* ---------- Card face animations ---------- */
-
-@keyframes bot-glance {
-  0%, 100% { transform: translateX(0); }
-  35% { transform: translateX(2.6px); }
-  70% { transform: translateX(-2.2px); }
-}
-
-.card-hover:hover .bot-eye {
-  animation: bot-glance 0.8s ease-in-out;
-}
-
-.card-hover:hover .bot-face {
-  transform: rotate(-5deg) scale(1.05);
-}
-
-/* staggered entrance for grids inside a revealed section */
 [data-reveal] .stagger > * {
   opacity: 0;
   transform: translateY(10px);
@@ -241,83 +189,7 @@ a {
     transform: none;
     transition: none;
   }
-  .card-hover:hover .bot-eye,
-  .card-hover:hover .bot-face {
-    animation: none;
-    transform: none;
-  }
 }
-
-/* ---------- Hero bot (matches the Grok app mascot: dark squircle head,
-   two glowing pill eyes; anchored in place, tracks the cursor in a
-   circular arc; transform-only motion, no layout properties) ---------- */
-
-.hero-glow {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(58% 52% at 50% 16%, color-mix(in srgb, var(--accent) 9%, transparent), transparent 72%);
-  pointer-events: none;
-}
-
-.hero-bot {
-  display: grid;
-  place-items: center;
-  perspective: 800px;
-  margin-inline: auto;
-}
-
-.hero-bot-head {
-  position: relative;
-  width: 172px;
-  height: 152px;
-  border-radius: 46px;
-  background: radial-gradient(140% 105% at 30% 0%, #2e2e34 0%, #16161a 46%, #0a0a0c 100%);
-  border: 1px solid #303038;
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.07),
-    0 26px 55px -22px rgba(0, 0, 0, 0.55);
-  transform: rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
-  transform-style: preserve-3d;
-  will-change: transform;
-}
-
-.hero-bot-eyes {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 26px;
-  will-change: transform;
-}
-
-.hero-bot-eye {
-  width: 19px;
-  height: 46px;
-  border-radius: 999px;
-  background: linear-gradient(180deg, #ffffff 0%, #e9e9ec 100%);
-  box-shadow:
-    0 0 12px rgba(255, 255, 255, 0.28),
-    0 0 34px color-mix(in srgb, var(--accent) 24%, transparent);
-  transform-origin: center;
-  animation: bot-blink var(--bd, 5s) cubic-bezier(0.34, 1.56, 0.64, 1) var(--bdel, 0s) infinite;
-}
-
-.hero-bot-shadow {
-  width: 116px;
-  height: 12px;
-  margin-top: 22px;
-  border-radius: 999px;
-  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.5), transparent 72%);
-  filter: blur(3px);
-  transform-origin: center;
-}
-
-:root:not(.dark) .hero-bot-shadow {
-  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.28), transparent 72%);
-}
-
-/* ---------- Ad unit (Carbon-ads style: small, tidy, top of page) ---------- */
 
 .ad-slot {
   width: 100%;
@@ -329,14 +201,13 @@ a {
   flex-direction: column;
   gap: 0.25rem;
   padding: 1rem 1.125rem;
-  border-radius: 1rem;
+  border-radius: var(--r);
   background: var(--surface);
   border: 1px solid var(--border-c);
-  transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1), transform 0.25s cubic-bezier(0.32, 0.72, 0, 1);
+  transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1);
 }
 .ad-card:hover {
-  border-color: color-mix(in srgb, var(--accent) 55%, var(--border-c));
-  transform: translateY(-1px);
+  border-color: var(--border-hov);
 }
 .ad-card:active {
   transform: scale(0.98);
@@ -382,8 +253,6 @@ a {
   color: var(--muted);
   opacity: 0.7;
 }
-
-/* ---------- Page transition ---------- */
 
 @keyframes page-in {
   from { opacity: 0; transform: translateY(8px); }
@@ -396,8 +265,6 @@ a {
   .page-enter { animation: none; }
 }
 
-/* ---------- Scroll reveal (site-wide, transform/opacity only) ---------- */
-
 [data-reveal] {
   opacity: 0;
   transform: translateY(16px);
@@ -417,186 +284,16 @@ a {
   }
 }
 
-@media (prefers-reduced-transparency: reduce) {
-  header.sticky {
-    backdrop-filter: none !important;
-    background: var(--background) !important;
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes in {
+    to { opacity: 1; transform: none; }
   }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .hero-bot-eye,
-  .bot-eye {
-    animation: none !important;
+  .in {
+    opacity: 0;
+    transform: translateY(8px);
+    animation: in 0.24s ease-out forwards;
   }
-}
-
-/* ---------- Hero bot (matches the Grok app mascot: dark squircle head,
-   two glowing pill eyes; anchored in place, tracks the cursor in a
-   circular arc; transform-only motion, no layout properties) ---------- */
-
-.hero-glow {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(58% 52% at 50% 16%, color-mix(in srgb, var(--accent) 9%, transparent), transparent 72%);
-  pointer-events: none;
-}
-
-.hero-bot {
-  display: grid;
-  place-items: center;
-  perspective: 800px;
-  margin-inline: auto;
-}
-
-.hero-bot-head {
-  position: relative;
-  width: 172px;
-  height: 152px;
-  border-radius: 46px;
-  background: radial-gradient(140% 105% at 30% 0%, #2e2e34 0%, #16161a 46%, #0a0a0c 100%);
-  border: 1px solid #303038;
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.07),
-    0 26px 55px -22px rgba(0, 0, 0, 0.55);
-  transform: rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
-  transform-style: preserve-3d;
-  will-change: transform;
-}
-
-.hero-bot-eyes {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 26px;
-  will-change: transform;
-}
-
-.hero-bot-eye {
-  width: 19px;
-  height: 46px;
-  border-radius: 999px;
-  background: linear-gradient(180deg, #ffffff 0%, #e9e9ec 100%);
-  box-shadow:
-    0 0 12px rgba(255, 255, 255, 0.28),
-    0 0 34px color-mix(in srgb, var(--accent) 24%, transparent);
-  transform-origin: center;
-  animation: bot-blink var(--bd, 5s) cubic-bezier(0.34, 1.56, 0.64, 1) var(--bdel, 0s) infinite;
-}
-
-.hero-bot-shadow {
-  width: 116px;
-  height: 12px;
-  margin-top: 22px;
-  border-radius: 999px;
-  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.5), transparent 72%);
-  filter: blur(3px);
-  transform-origin: center;
-}
-
-:root:not(.dark) .hero-bot-shadow {
-  background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.28), transparent 72%);
-}
-
-/* ---------- Ad unit (Carbon-ads style: small, tidy, top of page) ---------- */
-
-.ad-slot {
-  width: 100%;
-  max-width: 21rem;
-}
-
-.ad-card {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  padding: 1rem 1.125rem;
-  border-radius: 1rem;
-  background: var(--surface);
-  border: 1px solid var(--border-c);
-  transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1), transform 0.25s cubic-bezier(0.32, 0.72, 0, 1);
-}
-.ad-card:hover {
-  border-color: color-mix(in srgb, var(--accent) 55%, var(--border-c));
-  transform: translateY(-1px);
-}
-.ad-card:active {
-  transform: scale(0.98);
-}
-
-.ad-card-open {
-  border-style: dashed;
-}
-
-.ad-label {
-  font-family: var(--font-mono), monospace;
-  font-size: 0.625rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--accent);
-}
-
-.ad-title {
-  font-size: 0.9375rem;
-  font-weight: 600;
-  color: var(--foreground);
-}
-
-.ad-desc {
-  font-size: 0.8125rem;
-  line-height: 1.5;
-  color: var(--muted);
-}
-
-.ad-cta {
-  margin-top: 0.375rem;
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--accent);
-}
-
-.ad-via {
-  margin-top: 0.375rem;
-  text-align: right;
-  font-family: var(--font-mono), monospace;
-  font-size: 0.625rem;
-  color: var(--muted);
-  opacity: 0.7;
-}
-
-/* ---------- Scroll reveal (site-wide, transform/opacity only) ---------- */
-
-[data-reveal] {
-  opacity: 0;
-  transform: translateY(16px);
-  transition: opacity 0.6s cubic-bezier(0.32, 0.72, 0, 1), transform 0.6s cubic-bezier(0.32, 0.72, 0, 1);
-}
-
-[data-reveal].reveal-in {
-  opacity: 1;
-  transform: none;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  [data-reveal] {
-    opacity: 1;
-    transform: none;
-    transition: none;
-  }
-}
-
-@media (prefers-reduced-transparency: reduce) {
-  header.sticky {
-    backdrop-filter: none !important;
-    background: var(--background) !important;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .hero-bot-eye,
-  .bot-eye {
-    animation: none !important;
-  }
+  .d1 { animation-delay: 0.03s; }
+  .d2 { animation-delay: 0.08s; }
+  .d3 { animation-delay: 0.13s; }
 }
