@@ -34,6 +34,13 @@ export function latestBots(count = 8): Bot[] {
   return [...bots].sort((a, b) => b.addedAt.localeCompare(a.addedAt)).slice(0, count);
 }
 
+export function topInstalledBots(count = 6): Bot[] {
+  return [...bots]
+    .filter((b) => typeof b.installs === "number")
+    .sort((a, b) => (b.installs ?? 0) - (a.installs ?? 0))
+    .slice(0, count);
+}
+
 const today = () => new Date().toISOString().slice(0, 10);
 
 /** Featured placements auto-expire via featuredUntil - no manual takedowns needed. */
