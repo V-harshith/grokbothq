@@ -92,6 +92,27 @@ kill any residual `hero-glow`/`grid-bg`/blue-tinted utility classes, align page 
 to the mono-kicker + tight-H2 pattern, ensure buttons follow the solid-white /
 hairline-outline pair. No layout restructuring beyond that.
 
+### 7. Identity system (`src/components/bot-face.tsx`, `public/logo.svg`, `src/app/icon.svg`)
+The current BotFace renders a glossy gradient bot head with two vertical bar eyes —
+literally the pause glyph `‖` — and the logo is a smiley in a box. Neither matches the
+real x.ai bot aesthetic (stark white, plain typography, no mascot, no gradients) or the
+Grok Dark direction. Fix while preserving every consumer:
+
+- **`bot-face.tsx`**: rewrite internals to a monochrome monogram tile. Keep the export
+  name and full prop signature (`slug`, `name`, `size`, `hue`) so all 5 consumers
+  (`bot-card.tsx`, `use-case-card.tsx`, `combo-card.tsx`, `groups/[slug]/page.tsx`,
+  `bots/[slug]/page.tsx`) compile untouched. Tile: `--panel` fill, 1px `--line` border,
+  radius 8px (viewBox 40), the first character of `bot.name` in Geist 500 `--ink`.
+  `hue` and `slug` are accepted but unused (deterministic identity now comes from the
+  name, not the hash). No gradients, no shine, no blink animation. The `bot-eye`
+  CSS and `hashString` are removed.
+- **`public/logo.svg` + `src/app/icon.svg`** (currently identical smileys): replace both
+  with the same monogram tile at 64x64 with the letter "G". Path stays `/logo.svg`, so
+  consumers (`seo.ts`, `manifest.ts`, `header.tsx`, `footer.tsx`) need zero changes.
+  This is our own independent directory mark, not xAI's logo.
+- **`src/app/favicon.ico`**: left as-is — a letter tile is unreadable at 16px and the
+  current favicon is fine.
+
 ## Interaction rules
 
 - Entrance animation: 240ms ease-out fade + 8px translateY, staggered 30/80/130ms,
@@ -138,7 +159,7 @@ hairline-outline pair. No layout restructuring beyond that.
 
 - Whether `next/font/google` Geist swap is needed or layout.tsx already uses a
   compatible setup.
-- OG image / favicon updates to match the new aesthetic (probably out of scope; PR #22
-  just shipped OG cards).
+- ~~OG image / favicon updates~~ — decided: OG images stay (PR #22), `favicon.ico`
+  stays, `logo.svg`/`icon.svg` become the "G" monogram tile (section 7).
 - The `/agent` and `/compare` pages' specific layouts (they inherit tokens; only token
   sweep, not redesign).
