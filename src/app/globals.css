@@ -219,6 +219,17 @@ body {
   border-style: dashed;
 }
 
+.ad-card-live {
+  animation: ad-pulse 1.8s ease-in-out infinite;
+}
+@keyframes ad-pulse {
+  0%, 100% { border-color: var(--border-c); }
+  50% { border-color: var(--border-hov); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ad-card-live { animation: none; }
+}
+
 .ad-label {
   font-family: var(--font-mono), monospace;
   font-size: 0.625rem;

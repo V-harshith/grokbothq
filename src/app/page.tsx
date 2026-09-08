@@ -3,8 +3,9 @@ import type { Metadata } from "next";
 import { JsonLd } from "@/components/json-ld";
 import { HeroMascot } from "@/components/hero-mascot";
 import { RotatingAdSlot } from "@/components/rotating-ad-slot";
+import { BotCard } from "@/components/bot-card";
 import { categories } from "@/data/categories";
-import { botsByCategory, stats, topInstalledBots } from "@/data/bots";
+import { botsByCategory, newThisWeek, stats, topInstalledBots } from "@/data/bots";
 import { guides, type Guide } from "@/data/guides";
 import { SITE } from "@/data/site";
 import { absUrl, pageMetadata } from "@/lib/seo";
@@ -43,6 +44,7 @@ function levelFor(guide: Guide): string {
 
 export default function HomePage() {
   const installed = topInstalledBots(6);
+  const fresh = newThisWeek(4);
   const readFirst = READ_FIRST_SLUGS.map((slug) => guides.find((guide) => guide.slug === slug)).filter(
     (guide): guide is Guide => Boolean(guide),
   );
@@ -131,6 +133,26 @@ export default function HomePage() {
         </div>
       </section>
 
+      {fresh.length > 0 && (
+        <section className="container-x py-[72px]">
+          <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
+            <h2 className="text-2xl font-medium tracking-[-0.02em]">New this week</h2>
+            <Link href="/new" className="text-[13.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+              See all new bots →
+            </Link>
+          </div>
+          <div className="grid gap-[14px] sm:grid-cols-2 lg:grid-cols-4">
+            {fresh.map((bot) => (
+              <BotCard key={bot.slug} bot={bot} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      <div className="container-x flex justify-center py-10">
+        <RotatingAdSlot offset={1} />
+      </div>
+
       <section className="container-x py-[72px]">
         <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
           <h2 className="text-2xl font-medium tracking-[-0.02em]">Browse by job</h2>
@@ -176,6 +198,10 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+
+      <div className="container-x flex justify-center pb-[72px]">
+        <RotatingAdSlot offset={2} />
+      </div>
     </>
   );
 }

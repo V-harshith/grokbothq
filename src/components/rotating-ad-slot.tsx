@@ -32,41 +32,49 @@ function paidUnits(): Unit[] {
 
 const UNITS = paidUnits();
 
-export function RotatingAdSlot() {
-  const [index, setIndex] = useState(0);
+const DEMO: Unit[] = [
+  {
+    title: "Your product here",
+    description: "Reach people at the moment they pick their next tool.",
+    cta: "Get featured",
+    url: "/featured",
+  },
+  {
+    title: "Sponsor the directory",
+    description: "Developer tools, productivity apps, learning platforms - if it fits the audience, it fits.",
+    cta: "See plans",
+    url: "/featured",
+  },
+  {
+    title: "Launch week slot",
+    description: "The homepage slot, exclusively yours for 7 days. $99.",
+    cta: "Reserve it",
+    url: "/featured",
+  },
+];
+
+export function RotatingAdSlot({ offset = 0 }: { offset?: number }) {
+  const units = UNITS.length > 0 ? UNITS : DEMO;
+  const [index, setIndex] = useState(offset % units.length);
 
   useEffect(() => {
-    if (UNITS.length < 2) return;
+    if (units.length < 2) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    const id = window.setInterval(() => setIndex((i) => (i + 1) % UNITS.length), 7000);
+    const id = window.setInterval(() => setIndex((i) => (i + 1) % units.length), 7000);
     return () => window.clearInterval(id);
-  }, []);
+  }, [units.length]);
 
-  if (UNITS.length === 0) {
-    return (
-      <aside className="ad-slot" aria-label="Get featured">
-        <TrackedLink href="/featured" event="sponsor-slot-open" className="ad-card ad-card-open">
-          <span className="ad-label">Sponsored</span>
-          <span className="ad-title">This slot is open</span>
-          <span className="ad-desc">Reach people at the moment they pick their next tool.</span>
-          <span className="ad-cta">Get featured →</span>
-        </TrackedLink>
-        <p className="ad-via">ads via GrokBot HQ</p>
-      </aside>
-    );
-  }
-
-  const unit = UNITS[index % UNITS.length];
+  const unit = units[index % units.length];
 
   return (
     <aside className="ad-slot" aria-label="Sponsored">
       <TrackedLink
-        key={unit.url}
+        key={unit.url + unit.title}
         href={sponsorHref(unit.url)}
-        external
+        external={/^https?:\/\//i.test(unit.url)}
         event="sponsor-click"
         data={{ placement: "rotating" }}
-        className="ad-card"
+        className="ad-card ad-card-live"
       >
         <span className="ad-label">Sponsored</span>
         <span className="ad-title">{unit.title}</span>

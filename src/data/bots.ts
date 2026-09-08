@@ -34,6 +34,15 @@ export function latestBots(count = 8): Bot[] {
   return [...bots].sort((a, b) => b.addedAt.localeCompare(a.addedAt)).slice(0, count);
 }
 
+export function newThisWeek(count = 4): Bot[] {
+  const week = 7 * 86_400_000;
+  const now = Date.now();
+  return bots
+    .filter((b) => now - new Date(b.addedAt).getTime() < week)
+    .sort((a, b) => b.addedAt.localeCompare(a.addedAt))
+    .slice(0, count);
+}
+
 export function topInstalledBots(count = 6): Bot[] {
   return [...bots]
     .filter((b) => typeof b.installs === "number")
