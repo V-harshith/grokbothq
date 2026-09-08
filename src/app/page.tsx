@@ -84,7 +84,7 @@ export default function HomePage() {
             { value: `${stats.categories}`, label: "categories" },
             { value: "100%", label: "opened by hand before listing" },
           ].map((stat, index, list) => (
-            <div key={stat.label} className={`min-w-[200px] flex-1 py-[26px] ${index < list.length - 1 ? "border-r border-border pr-6" : ""}`}>
+            <div key={stat.label} className={`min-w-[200px] flex-1 py-[26px] ${index < list.length - 1 ? "border-r border-border pr-6" : ""} ${index > 0 ? "pl-6" : ""}`}>
               <p className="tnum font-mono text-[26px] font-medium tracking-[-0.02em]">{stat.value}</p>
               <p className="mt-1 text-[12.5px] text-muted">{stat.label}</p>
             </div>

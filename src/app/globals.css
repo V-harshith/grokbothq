@@ -306,6 +306,9 @@ body {
 .mascot-eye-late {
   animation-delay: 0.45s;
 }
+.mascot-pose {
+  transition: transform 0.45s ease-out;
+}
 @keyframes mascot-bob {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-12px); }
