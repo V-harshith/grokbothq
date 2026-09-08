@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { JsonLd } from "@/components/json-ld";
+import { HeroMascot } from "@/components/hero-mascot";
 import { categories } from "@/data/categories";
 import { botsByCategory, stats, topInstalledBots } from "@/data/bots";
 import { guides, type Guide } from "@/data/guides";
@@ -49,7 +50,8 @@ export default function HomePage() {
       <JsonLd data={[{ "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: HOME_DESCRIPTION }]} />
 
       <section className="border-b border-border">
-        <div className="container-x pb-[72px] pt-[96px]">
+        <div className="container-x grid items-center gap-12 pb-[72px] pt-[96px] md:grid-cols-[1.05fr_0.95fr]">
+          <div>
           <p className="kicker in">The independent Grok bot directory</p>
           <h1 className="in d1 mb-[18px] mt-5 max-w-[14ch] text-[clamp(40px,6.4vw,64px)] font-medium leading-[1.05] tracking-[-0.035em]">
             Find a Grok bot worth opening.
@@ -64,6 +66,10 @@ export default function HomePage() {
             <Link href="/submit" className="btn btn-ghost">
               Submit a bot
             </Link>
+          </div>
+          </div>
+          <div className="in d2 mx-auto w-full max-w-[320px]">
+            <HeroMascot className="h-auto w-full" />
           </div>
         </div>
       </section>
