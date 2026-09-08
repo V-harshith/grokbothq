@@ -10,47 +10,31 @@ import metricsJson from "../../../content/metrics.json";
 export const metadata: Metadata = pageMetadata({
   title: "Sponsor GrokBot HQ - Reach People Choosing Their Next Tool",
   description:
-    "Sponsor the top slots on GrokBot HQ. Not just bots: any product that fits people actively exploring Grok. Transparent pricing, always labeled, one sponsor per slot.",
+    "Sponsor the top slots on GrokBot HQ. Not just bots: any product that fits people actively exploring Grok. Always labeled, one sponsor per slot. Contact us to reserve.",
   path: "/featured",
   keywords: ["sponsor grokbot hq", "advertise to grok users", "grok bot directory sponsorship"],
 });
 
-const plans = [
+const slots = [
   {
-    name: "Featured listing",
-    price: "$29",
-    period: "4 weeks",
-    features: [
-      "Pinned to the top of one category page",
-      "Always labeled, so it reads as a pick, not an ad",
-      "Rotates through the homepage ad slot",
-      "Direct do-follow link to your site or X profile",
-    ],
-    subject: "Featured listing",
+    name: "Homepage",
+    detail: "A rotating cell inside the Most installed grid plus a closing slot after the guides.",
+    subject: "Homepage sponsorship",
   },
   {
-    name: "Launch week",
-    price: "$99",
-    period: "7 days",
-    features: [
-      "The homepage ad slot, exclusively yours for 7 days",
-      "Top placement on the /bots directory page",
-      "A pinned spot at the top of New this week",
-      "Direct do-follow link",
-    ],
-    subject: "Launch week",
+    name: "Directory",
+    detail: "Compact slot beside the /bots header and in-grid cards on category and New pages.",
+    subject: "Directory sponsorship",
   },
   {
-    name: "Category takeover",
-    price: "$199",
-    period: "per month",
-    features: [
-      "Your card pinned above every listing on one category page",
-      "Homepage ad-slot rotation for the whole month",
-      "One sponsor per category, never shared",
-      "Direct do-follow link",
-    ],
-    subject: "Category takeover",
+    name: "Detail pages",
+    detail: "Inside all 700+ bot pages and every guide, beside the content being read.",
+    subject: "Detail page sponsorship",
+  },
+  {
+    name: "Desktop rails",
+    detail: "Fixed gutter cards on very wide screens, visible across the whole site.",
+    subject: "Rail sponsorship",
   },
 ];
 
@@ -66,26 +50,13 @@ export default function FeaturedPage() {
         description="People browsing this site are actively picking a bot to open. If your product helps them work smarter, a slot here puts you inside that decision. Sponsors are not limited to bots: developer tools, productivity apps, learning platforms - if it fits the audience, it fits."
       />
 
-      <div className="grid gap-4 lg:grid-cols-3">
-        {plans.map((plan) => (
-          <article key={plan.name} className="card flex flex-col p-6">
-            <h2 className="text-lg font-semibold">{plan.name}</h2>
-            <p className="mt-2">
-              <span className="font-mono text-3xl font-semibold">{plan.price}</span>{" "}
-              <span className="text-xs text-muted">{plan.period}</span>
-            </p>
-            <ul className="mt-4 flex-1 space-y-2">
-              {plan.features.map((f) => (
-                <li key={f.slice(0, 24)} className="flex items-start gap-2 text-sm leading-relaxed text-muted">
-                  <svg className="mt-1.5 shrink-0 text-accent" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                    <path d="M20 6 9 17l-5-5" />
-                  </svg>
-                  {f}
-                </li>
-              ))}
-            </ul>
-            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(plan.subject)}`} className="btn btn-ghost mt-5">
-              Reserve this slot
+      <div className="grid gap-4 sm:grid-cols-2">
+        {slots.map((slot) => (
+          <article key={slot.name} className="card flex flex-col p-6">
+            <h2 className="text-lg font-semibold">{slot.name}</h2>
+            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">{slot.detail}</p>
+            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(slot.subject)}`} className="btn btn-ghost mt-5">
+              Contact to reserve
             </a>
           </article>
         ))}
@@ -118,8 +89,8 @@ export default function FeaturedPage() {
             <p className="text-xs text-muted">listing pages your unit rotates across</p>
           </div>
           <div>
-            <p className="tnum font-mono text-2xl font-semibold text-accent">4</p>
-            <p className="text-xs text-muted">surfaces carry the sponsored unit (home, directory, categories, new)</p>
+            <p className="tnum font-mono text-2xl font-semibold text-accent">7</p>
+            <p className="text-xs text-muted">surfaces carry the sponsored unit (home, directory, categories, new, detail pages, guides, rails)</p>
           </div>
           <div>
             <p className="tnum font-mono text-2xl font-semibold text-accent">

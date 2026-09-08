@@ -158,10 +158,10 @@ export default function HomePage() {
             <Link
               key={category.slug}
               href={`/bots/category/${category.slug}`}
-              className="inline-flex items-center gap-2 rounded-[10px] border border-border px-[14px] py-[9px] text-[13.5px] transition-[border-color] duration-[180ms] ease-out hover:border-[var(--border-hov)]"
+              className="inline-flex items-center gap-2.5 rounded-[10px] border border-border px-5 py-3 text-[15px] transition-[border-color] duration-[180ms] ease-out hover:border-[var(--border-hov)]"
             >
               {category.name}
-              <span className="tnum font-mono text-[11px] text-muted">{botsByCategory(category.slug).length}</span>
+              <span className="tnum font-mono text-xs text-muted">{botsByCategory(category.slug).length}</span>
             </Link>
           ))}
         </div>
