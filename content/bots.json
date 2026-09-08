@@ -233,21 +233,6 @@
     "source": "https://x.com/unicodef1wn/status/2093706272885420402"
   },
   {
-    "slug": "freebots-lol",
-    "name": "freebots.lol",
-    "builder": {
-      "name": "Daniel_Farinax",
-      "x": "Daniel_Farinax"
-    },
-    "tagline": "A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats.",
-    "description": "A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats. For anyone who wants a Bot Mesh member they can import and run. Keys stay local.",
-    "category": "sales",
-    "url": "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
-    "addedAt": "2026-08-30",
-    "status": "published",
-    "source": "https://x.com/Daniel_Farinax/status/2093592700587331679"
-  },
-  {
     "slug": "frontier-model-watch",
     "name": "Frontier Model Watch",
     "builder": {
@@ -291,26 +276,6 @@
     "addedAt": "2026-08-30",
     "status": "published",
     "source": "https://x.com/Av1dlive/status/2093747886324645924"
-  },
-  {
-    "slug": "grokbots-best",
-    "name": "grokbots.best",
-    "builder": {
-      "name": "",
-      "x": ""
-    },
-    "tagline": "Submits public Grok Bot templates to the grokbots.best directory.",
-    "description": "Submits public Grok Bot templates to the grokbots.best directory. Paste a template link or an X post and it publishes the listing.",
-    "category": "sales",
-    "features": [
-      "Connects with Grok Bot"
-    ],
-    "integrations": [
-      "grok-bot"
-    ],
-    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
-    "addedAt": "2026-08-30",
-    "status": "published"
   },
   {
     "slug": "growth-desk",
