@@ -11098,5 +11098,150 @@
     "addedAt": "2026-09-06",
     "status": "published",
     "source": ""
+  },
+  {
+    "slug": "producthunter",
+    "name": "ProductHunter",
+    "builder": {
+      "name": "Davidwuuu92",
+      "x": "Davidwuuu92"
+    },
+    "tagline": "每天两班产品雷达：新品 + 访谈拆解。Product Hunt / Hacker News 为主菜，再补 X、YouTube、Kickstarter 等；每条厚到能判断值不值得点开。",
+    "description": "每天两班产品雷达：新品 + 访谈拆解。Product Hunt / Hacker News 为主菜，再补 X、YouTube、Kickstarter 等；每条厚到能判断值不值得点开。.",
+    "category": "research",
+    "url": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/Davidwuuu92/status/2097283714946670889",
+    "integrations": [
+      "hacker-news",
+      "youtube"
+    ]
+  },
+  {
+    "slug": "opticalkernel",
+    "name": "OpticalKernel",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Computes a labeled numeric kernel between two vectors, capped at 8 modes.",
+    "description": "Computes a labeled numeric kernel between two vectors, capped at 8 modes. For demos, not a quantum computer.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/YYr1SAiufBW0I2R4h1VHv",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097252292127019447"
+  },
+  {
+    "slug": "macpowertools",
+    "name": "MacPowerTools",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Dry-run helper for user caches, Trash, and old Downloads.",
+    "description": "Dry-run helper for user caches, Trash, and old Downloads. A local cleanup script, not a swarm.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/SktrYfnj1vy3eG90uQ971",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097252172341875076"
+  },
+  {
+    "slug": "polabea",
+    "name": "PolaBea",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Runs a labeled driving simulation that emergency-stops when camera confidence is short.",
+    "description": "Runs a labeled driving simulation that emergency-stops when camera confidence is short. For demos, not a car.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/qYt504_yN3YBrxNhGaX7S",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097252018994000111"
+  },
+  {
+    "slug": "waveletworld",
+    "name": "WaveletWorld",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Runs one labeled Haar step on a numeric state vector.",
+    "description": "Runs one labeled Haar step on a numeric state vector. For demos, not a world model.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/iqY9SAcdwm-mV96I0Y7gE",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097251912852840657"
+  },
+  {
+    "slug": "promptmeme",
+    "name": "PromptMeme",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Runs a five-phase civilization debate and returns a prime meme.",
+    "description": "Runs a five-phase civilization debate and returns a prime meme. For anyone who wants a structured argument, not a live model claim.",
+    "category": "creative",
+    "url": "https://x.ai/bot/PkziTZhwFzrUvMm3cqfeD",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097251799988375627"
+  },
+  {
+    "slug": "neuralentropy",
+    "name": "NeuralEntropy",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Runs a labeled neural simulation that maps synthetic cosine-tuned spikes to a cursor path.",
+    "description": "Runs a labeled neural simulation that maps synthetic cosine-tuned spikes to a cursor path. For demos, not a brain decoder.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/KR-yPzr3sLAAlsnbnVPXs",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097251539954049080",
+    "integrations": [
+      "cursor"
+    ]
+  },
+  {
+    "slug": "spaceautonomy",
+    "name": "SpaceAutonomy",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Labels a sensor vector in a simulation and may enter safe mode.",
+    "description": "Labels a sensor vector in a simulation and may enter safe mode. For demos, not a spacecraft.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/6X-ZITq7zfRZWpFz5MCme",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097251361754919270"
+  },
+  {
+    "slug": "pappu",
+    "name": "pappu",
+    "builder": {
+      "name": "krisadipap",
+      "x": "krisadipap"
+    },
+    "tagline": "Cuts cinematic shorts and reviews GitHub and skill listings honestly, then rebuilds the one thing that actually runs.",
+    "description": "Cuts cinematic shorts and reviews GitHub and skill listings honestly, then rebuilds the one thing that actually runs.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/_t_vyuhFM8ev2flbZoYnU",
+    "addedAt": "2026-09-08",
+    "status": "published",
+    "source": "https://x.com/krisadipap/status/2097244031181066745",
+    "integrations": [
+      "github"
+    ]
   }
 ]
