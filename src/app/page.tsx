@@ -11,15 +11,15 @@ import { SITE } from "@/data/site";
 import { absUrl, pageMetadata } from "@/lib/seo";
 
 const HOME_DESCRIPTION =
-  "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.";
+  "GrokBot HQ is the grok bot directory: a hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.";
 
 export const revalidate = 300;
 
 export const metadata: Metadata = pageMetadata({
-  title: "GrokBot HQ - The Hand-Reviewed Directory of Grok Bots",
+  title: "Grok Bot Directory: Every Hand-Reviewed Grok Bot",
   description: HOME_DESCRIPTION,
   path: "/",
-  keywords: ["grok bots", "grok bot directory", "best grok bots", "grok bot list", "free grok bots", "grok bot combos", "grok xai bots", "grok ai bots", "grok bots that work"],
+  keywords: ["grok bot directory", "grok bots directory", "grok bot list", "list of grok bots", "best grok bots", "grok bots", "free grok bots", "grok bot combos", "grok xai bots", "grok ai bots", "grok bots that work"],
 });
 
 const READ_FIRST_SLUGS = [

@@ -10,11 +10,11 @@ import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd } 
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 export const metadata: Metadata = pageMetadata({
-  title: "All Grok Bots - Hand-Reviewed Directory",
+  title: "Grok Bot Directory: Browse All Hand-Reviewed Grok Bots",
   description:
-    "Browse every hand-reviewed Grok bot in one place: assistants, engineering agents, research bots, money hunters, sales tools, creative helpers, and life admin. Filter by category and open any bot in Grok with one click.",
+    "The grok bots directory: browse every hand-reviewed Grok bot in one place: assistants, engineering agents, research bots, money hunters, sales tools, creative helpers, and life admin. Filter by category and open any bot in Grok with one click.",
   path: "/bots",
-keywords: ["grok bots list", "all grok bots", "best grok bots", "free grok bots", "grok bot categories", "browse grok bots"],
+  keywords: ["grok bot directory", "grok bots directory", "grok bots list", "all grok bots", "best grok bots", "free grok bots", "grok bot categories", "browse grok bots"],
 });
 
 export default function BotsPage() {
