@@ -34,21 +34,21 @@ const UNITS = paidUnits();
 
 const DEMO: Unit[] = [
   {
-    title: "Northwind Analytics",
-    description: "Product analytics your Grok bot can query.",
-    cta: "Try it free",
+    title: "Your ad here",
+    description: "Reach people at the moment they pick their next tool.",
+    cta: "Get featured",
     url: "/featured",
   },
   {
-    title: "Promptdesk",
-    description: "Version, test, and ship bot instructions.",
-    cta: "Learn more",
+    title: "Sell to bot builders",
+    description: "SaaS, dev tools, productivity apps - if it fits the audience, it fits.",
+    cta: "See plans",
     url: "/featured",
   },
   {
-    title: "Kernel & Co.",
-    description: "GPU runtimes for automation builders.",
-    cta: "Get started",
+    title: "This slot is open",
+    description: "Rotating placements across the homepage, directory, and 700+ bot pages.",
+    cta: "Reserve it",
     url: "/featured",
   },
 ];
