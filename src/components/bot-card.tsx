@@ -20,10 +20,10 @@ export function BotCard({ bot }: { bot: Bot }) {
   const hasMeta = Boolean(bot.builder.x || bot.builder.name) || opens > 0 || (installs !== null && installs > 0);
 
   return (
-    <article className="card card-hover flex flex-col gap-3 p-[22px]">
+    <article className="card card-hover relative flex flex-col gap-3 p-[22px]">
       <div className="flex items-center justify-between gap-[10px]">
         <h3 className="text-base font-medium tracking-[-0.01em]">
-          <Link href={`/bots/${bot.slug}`}>
+          <Link href={`/bots/${bot.slug}`} className="stretched">
             {bot.name}
           </Link>
         </h3>
@@ -44,7 +44,7 @@ export function BotCard({ bot }: { bot: Bot }) {
             href={`https://x.com/${bot.builder.x}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="transition-[color] duration-[180ms] ease-out hover:text-foreground"
+            className="relative z-10 transition-[color] duration-[180ms] ease-out hover:text-foreground"
           >
             by @{bot.builder.x}
           </a>
@@ -72,7 +72,9 @@ export function BotCard({ bot }: { bot: Bot }) {
         >
           Details
         </Link>
-        <OpenButton bot={bot} small />
+        <span className="relative z-10">
+          <OpenButton bot={bot} small />
+        </span>
       </div>
     </article>
   );

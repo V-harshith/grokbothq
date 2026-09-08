@@ -97,10 +97,6 @@ export default function HomePage() {
         </p>
       </section>
 
-      <div className="container-x flex justify-center py-10">
-        <RotatingAdSlot />
-      </div>
-
       <section className="container-x py-[72px]" id="bots">
         <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
           <h2 className="text-2xl font-medium tracking-[-0.02em]">Most installed</h2>

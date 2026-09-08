@@ -100,7 +100,7 @@ export default function FeaturedPage() {
         />
         <div className="grid gap-4 md:grid-cols-3">
           {[
-            { page: "Homepage", where: "Directly below the hero and stats", detail: "First content block every visitor sees" },
+            { page: "Homepage", where: "In the Most installed grid and page end", detail: "Beside the top picks, plus a closing slot after the guides" },
             { page: "Directory", where: "Compact slot beside the /bots header", detail: "Beside the filters every browser uses" },
             { page: "Category & New pages", where: "Pinned inside the listings", detail: "Among the cards people are actively picking from" },
           ].map((s) => (

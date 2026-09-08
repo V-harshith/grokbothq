@@ -87,6 +87,12 @@ body {
     border-color: var(--border-hov);
   }
 
+  .stretched::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+  }
+
   .btn {
     display: inline-flex;
     align-items: center;

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { GuideCard } from "@/components/guide-card";
+import { RotatingAdSlot } from "@/components/rotating-ad-slot";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { guides, guideMap } from "@/data/guides";
@@ -113,6 +114,10 @@ export default async function GuidePage({ params }: Props) {
           </section>
         ))}
       </article>
+
+      <div className="mt-14 flex justify-center">
+        <RotatingAdSlot />
+      </div>
 
       <section className="mt-14 border-t border-border pt-8">
         <h2 className="text-lg font-semibold tracking-tight">Keep reading</h2>

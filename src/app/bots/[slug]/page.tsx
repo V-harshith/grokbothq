@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BotCard, OpenButton } from "@/components/bot-card";
 import { BotFace } from "@/components/bot-face";
+import { RotatingAdSlot } from "@/components/rotating-ad-slot";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { bots, botMap, relatedBots, botOpens } from "@/data/bots";
@@ -232,6 +233,10 @@ export default async function BotPage({ params }: Props) {
             <Link href="/guides/grok-bot-safety-and-privacy" className="mt-3 inline-block text-xs font-semibold text-accent hover:underline">
               Safety guide →
             </Link>
+          </div>
+
+          <div className="mt-4 flex justify-center">
+            <RotatingAdSlot />
           </div>
         </aside>
       </div>
