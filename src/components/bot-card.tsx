@@ -32,7 +32,10 @@ export function BotCard({ bot }: { bot: Bot }) {
         </span>
       </div>
 
-      <p className="flex-1 text-[13.5px] text-muted">{bot.tagline}</p>
+      <p className="flex-1 text-[13.5px] text-muted">
+        {bot.tagline}{" "}
+        {fresh && <span className="font-medium text-accent">new · {relDate(bot.addedAt)}</span>}
+      </p>
 
       {hasMeta && (
       <div className="flex items-center justify-between border-t border-border pt-3 text-[12.5px] text-muted">
@@ -63,15 +66,12 @@ export function BotCard({ bot }: { bot: Bot }) {
       )}
 
       <div className="flex items-center justify-between gap-3">
-        <span className="flex items-center gap-3">
-          <Link
-            href={`/bots/${bot.slug}`}
-            className="text-xs font-medium text-muted underline-offset-4 hover:text-foreground hover:underline"
-          >
-            Details
-          </Link>
-          {fresh && <span className="text-xs font-medium text-accent">new · {relDate(bot.addedAt)}</span>}
-        </span>
+        <Link
+          href={`/bots/${bot.slug}`}
+          className="text-xs font-medium text-muted underline-offset-4 hover:text-foreground hover:underline"
+        >
+          Details
+        </Link>
         <OpenButton bot={bot} small />
       </div>
     </article>
