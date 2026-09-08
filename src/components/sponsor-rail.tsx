@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { TrackedLink } from "./tracked-link";
+import { sponsorHref } from "@/lib/ads";
 import adsJson from "../../content/ads.json";
 
 /**
@@ -22,7 +23,7 @@ export function SponsorRail() {
           <p className="mt-1.5 text-sm font-semibold leading-snug">{s.title}</p>
           {s.description && <p className="mt-1 text-xs leading-relaxed text-muted">{s.description}</p>}
           <TrackedLink
-            href={s.url}
+            href={sponsorHref(s.url)}
             external={Boolean(s.url.startsWith("http"))}
             event="sponsor-click"
             data={{ placement: "rail" }}

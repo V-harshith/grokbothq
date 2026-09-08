@@ -101,7 +101,7 @@ export default function FeaturedPage() {
         <div className="grid gap-4 md:grid-cols-3">
           {[
             { page: "Homepage", where: "Directly below the hero and stats", detail: "First content block every visitor sees" },
-            { page: "This week's standouts", where: "Inside the featured grid", detail: "Styled like a listing, labeled as sponsored" },
+            { page: "Directory", where: "Compact slot beside the /bots header", detail: "Beside the filters every browser uses" },
             { page: "Category & New pages", where: "Pinned inside the listings", detail: "Among the cards people are actively picking from" },
           ].map((s) => (
             <div key={s.page} className="card p-5">
@@ -118,7 +118,7 @@ export default function FeaturedPage() {
             <p className="text-xs text-muted">listing pages your unit rotates across</p>
           </div>
           <div>
-            <p className="tnum font-mono text-2xl font-semibold text-accent">5</p>
+            <p className="tnum font-mono text-2xl font-semibold text-accent">4</p>
             <p className="text-xs text-muted">surfaces carry the sponsored unit (home, directory, categories, new)</p>
           </div>
           <div>

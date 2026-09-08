@@ -2,9 +2,11 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { JsonLd } from "@/components/json-ld";
 import { HeroMascot } from "@/components/hero-mascot";
+import { RotatingAdSlot } from "@/components/rotating-ad-slot";
 import { categories } from "@/data/categories";
 import { botsByCategory, stats, topInstalledBots } from "@/data/bots";
 import { guides, type Guide } from "@/data/guides";
+import { SITE } from "@/data/site";
 import { absUrl, pageMetadata } from "@/lib/seo";
 
 const HOME_DESCRIPTION =
@@ -88,7 +90,14 @@ export default function HomePage() {
             </div>
           ))}
         </div>
+        <p className="container-x pb-5 text-right font-mono text-[11px] text-muted">
+          directory updated {new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
+        </p>
       </section>
+
+      <div className="container-x flex justify-center py-10">
+        <RotatingAdSlot />
+      </div>
 
       <section className="container-x py-[72px]" id="bots">
         <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">

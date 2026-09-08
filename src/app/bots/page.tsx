@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { BotsBrowser } from "@/components/bots-browser";
 import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
-import { AdSlot } from "@/components/ad-slot";
+import { RotatingAdSlot } from "@/components/rotating-ad-slot";
 import { bots } from "@/data/bots";
 import { SITE } from "@/data/site";
 import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
@@ -29,7 +29,7 @@ export default function BotsPage() {
           description="Every listing below was opened, tested against real prompts, and checked against its description. Use the tabs to filter by category or search to find a specific job."
         />
         <div className="shrink-0 lg:pt-1">
-          <AdSlot />
+          <RotatingAdSlot />
         </div>
       </div>
       <BotsBrowser bots={bots} />
