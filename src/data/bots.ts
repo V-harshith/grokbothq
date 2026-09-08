@@ -4,7 +4,7 @@ import metricsJson from "../../content/metrics.json";
 
 export type { Bot };
 
-type MetricsFile = { updatedAt?: string; opens?: Record<string, number>; sponsorClicks?: number };
+type MetricsFile = { updatedAt?: string; opens?: Record<string, number>; sponsorClicks?: number; sponsors?: Record<string, number> };
 const metrics = metricsJson as MetricsFile;
 
 /** Live per-bot open counts (Open-button clicks) from the daily metrics pipeline. */

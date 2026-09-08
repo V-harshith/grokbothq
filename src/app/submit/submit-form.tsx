@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { SITE } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 
 const CATEGORIES = [
   "assistants",
@@ -107,9 +108,9 @@ export function SubmitForm() {
           ? "You'll be redirected to a pre-filled submission form. Reviews take about 48 hours; approved bots go live automatically."
           : "This opens your email client with everything pre-filled. Reviews usually take 48 hours."}
         {" "}
-        <a href={`mailto:${SITE.submitEmail}?subject=${encodeURIComponent("Bot submission")}`} className="underline underline-offset-2 hover:text-foreground">
+        <EmailLink to={SITE.submitEmail} subject="Bot submission" className="underline underline-offset-2 hover:text-foreground">
           Prefer plain email?
-        </a>
+        </EmailLink>
       </p>
     </form>
   );

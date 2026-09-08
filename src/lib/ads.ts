@@ -1,3 +1,12 @@
+export function sponsorId(href: string): string {
+  if (!/^https?:\/\//i.test(href)) return "house";
+  try {
+    return new URL(href).hostname.replace(/^www\./, "");
+  } catch {
+    return "house";
+  }
+}
+
 export function sponsorHref(href: string): string {
   if (!/^https?:\/\//i.test(href)) return href;
   try {

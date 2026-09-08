@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { EmailLink } from "./email-link";
 import { stats } from "@/data/bots";
 
 export function Footer() {
@@ -19,9 +20,9 @@ export function Footer() {
             <Link href="/faq" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
               FAQ
             </Link>
-            <a href="mailto:hello@grokbothq.xyz" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            <EmailLink className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
               hello@grokbothq.xyz
-            </a>
+            </EmailLink>
           </div>
         </div>
         <p className="mt-[26px] font-mono text-[11.5px] tracking-[0.02em] text-muted">

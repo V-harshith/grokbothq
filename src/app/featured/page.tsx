@@ -4,6 +4,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 import { bots } from "@/data/bots";
 import metricsJson from "../../../content/metrics.json";
 
@@ -39,7 +40,8 @@ const slots = [
 ];
 
 export default function FeaturedPage() {
-  const m = metricsJson as unknown as { sponsorClicks?: number };const sponsorClicks = typeof m.sponsorClicks === "number" ? m.sponsorClicks : 0;
+  const m = metricsJson as unknown as { sponsorClicks?: number; sponsors?: Record<string, number> };const sponsorClicks = typeof m.sponsorClicks === "number" ? m.sponsorClicks : 0;
+  const sponsorRows = Object.entries(m.sponsors ?? {}).sort((a, b) => b[1] - a[1]).slice(0, 8);
   return (
     <div className="container-x max-w-5xl py-12">
       <JsonLd data={[breadcrumbsJsonLd([{ name: "Home", path: "/" }, { name: "Sponsor", path: "/featured" }])]} />
@@ -55,9 +57,9 @@ export default function FeaturedPage() {
           <article key={slot.name} className="card flex flex-col p-6">
             <h2 className="text-lg font-semibold">{slot.name}</h2>
             <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">{slot.detail}</p>
-            <a href={`mailto:${SITE.email}?subject=${encodeURIComponent(slot.subject)}`} className="btn btn-ghost mt-5">
+            <EmailLink subject={slot.subject} className="btn btn-ghost mt-5">
               Contact to reserve
-            </a>
+            </EmailLink>
           </article>
         ))}
       </div>
@@ -103,6 +105,16 @@ export default function FeaturedPage() {
             </p>
           </div>
         </div>
+        {sponsorRows.length > 0 && (
+          <ul className="mt-4 space-y-1.5">
+            {sponsorRows.map(([id, count]) => (
+              <li key={id} className="flex items-baseline justify-between gap-4 border-b border-border pb-1.5 text-sm">
+                <span className="font-mono text-xs text-muted">{id}</span>
+                <span className="tnum font-mono text-sm font-semibold">{count} clicks</span>
+              </li>
+            ))}
+          </ul>
+        )}
         <p className="mt-3 text-xs text-muted">
           Measurement is cookieless (Umami). Clicks on your unit are counted per placement and reported at the end of
           the run. No personal data, ever.
@@ -120,7 +132,7 @@ export default function FeaturedPage() {
         </ul>
         <p className="mt-4 text-sm text-muted">
           Want to see the slots first? <Link href="/bots" className="text-accent hover:underline">Browse the directory</Link>, or
-          email <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a> with what you’d like to run.
+          email <EmailLink className="text-accent hover:underline">{SITE.email}</EmailLink> with what you’d like to run.
         </p>
       </section>
     </div>

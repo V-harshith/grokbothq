@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { TrackedLink } from "./tracked-link";
-import { sponsorHref } from "@/lib/ads";
+import { sponsorHref, sponsorId } from "@/lib/ads";
 import adsJson from "../../content/ads.json";
 
 type Unit = { title: string; description: string; cta: string; url: string };
@@ -34,21 +34,21 @@ const UNITS = paidUnits();
 
 const DEMO: Unit[] = [
   {
-    title: "Your ad here",
-    description: "Reach people at the moment they pick their next tool.",
-    cta: "Get featured",
+    title: "Your buyers are already here",
+    description: "Bot builders browse this directory while deciding what to open next.",
+    cta: "Claim this slot",
     url: "/featured",
   },
   {
-    title: "Sell to bot builders",
-    description: "SaaS, dev tools, productivity apps - if it fits the audience, it fits.",
-    cta: "See plans",
+    title: "Advertise without tricking anyone",
+    description: "Every placement is labeled sponsored. Readers trust the directory because ads never pretend to be picks.",
+    cta: "See open slots",
     url: "/featured",
   },
   {
-    title: "This slot is open",
-    description: "Rotating placements across the homepage, directory, and 700+ bot pages.",
-    cta: "Reserve it",
+    title: "Launching something?",
+    description: "Put it where Grok bot builders are already looking.",
+    cta: "Reserve your slot",
     url: "/featured",
   },
 ];
@@ -83,7 +83,7 @@ export function RotatingAdSlot({ offset = 0 }: { offset?: number }) {
         href={sponsorHref(unit.url)}
         external={isExternal(unit.url)}
         event="sponsor-click"
-        data={{ placement: "rotating" }}
+        data={{ placement: "rotating", sponsor: sponsorId(unit.url) }}
         className="ad-card ad-card-live"
       >
         <span className="ad-label">Sponsored</span>
@@ -111,7 +111,7 @@ export function RotatingAdSlotCard({ offset = 0 }: { offset?: number }) {
           href={sponsorHref(unit.url)}
           external={isExternal(unit.url)}
           event="sponsor-click"
-          data={{ placement: "grid" }}
+          data={{ placement: "grid", sponsor: sponsorId(unit.url) }}
           className="text-xs font-semibold text-accent hover:underline"
         >
           {unit.cta} →

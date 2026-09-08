@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { TrackedLink } from "./tracked-link";
-import { sponsorHref } from "@/lib/ads";
+import { sponsorHref, sponsorId } from "@/lib/ads";
 import adsJson from "../../content/ads.json";
 
 /**
@@ -16,7 +16,7 @@ export function AdSlotCard() {
         <h3 className="mt-2 text-base font-semibold">{adsJson.title}</h3>
         <p className="mt-1.5 flex-1 text-sm leading-relaxed text-muted">{adsJson.description}</p>
         <div className="mt-4 flex items-center justify-between gap-3">
-          <TrackedLink href={sponsorHref(adsJson.url)} external event="sponsor-click" data={{ placement: "grid" }} className="text-xs font-semibold text-accent hover:underline">
+          <TrackedLink href={sponsorHref(adsJson.url)} external event="sponsor-click" data={{ placement: "grid", sponsor: sponsorId(adsJson.url) }} className="text-xs font-semibold text-accent hover:underline">
             {adsJson.cta || "Learn more"} →
           </TrackedLink>
           <span className="font-mono text-[10px] text-muted opacity-70">ads via GrokBot HQ</span>
