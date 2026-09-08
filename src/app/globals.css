@@ -204,14 +204,19 @@ body {
   max-width: 21rem;
 }
 
+.ad-surface {
+  background: #17171a;
+  border-color: #333338;
+}
+
 .ad-card {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
   padding: 1rem 1.125rem;
   border-radius: var(--r);
-  background: var(--surface);
-  border: 1px solid var(--border-c);
+  background: #17171a;
+  border: 1px solid #333338;
   transition: border-color 0.25s cubic-bezier(0.32, 0.72, 0, 1);
 }
 .ad-card:hover {

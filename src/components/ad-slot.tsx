@@ -11,7 +11,7 @@ import adsJson from "../../content/ads.json";
 export function AdSlotCard() {
   if (adsJson.active && adsJson.title && adsJson.url) {
     return (
-      <article className="card relative flex flex-col border-accent/50 bg-accent-soft p-5" aria-label="Sponsored">
+      <article className="card ad-surface relative flex flex-col p-5" aria-label="Sponsored">
         <span className="badge badge-accent w-fit">Sponsored</span>
         <h3 className="mt-2 text-base font-semibold">{adsJson.title}</h3>
         <p className="mt-1.5 flex-1 text-sm leading-relaxed text-muted">{adsJson.description}</p>
@@ -26,7 +26,7 @@ export function AdSlotCard() {
   }
 
   return (
-    <article className="card relative flex flex-col border-dashed border-accent/40 bg-accent-soft p-5" aria-label="Sponsored slot available">
+    <article className="card ad-surface relative flex flex-col border-dashed p-5" aria-label="Sponsored slot available">
       <span className="badge badge-accent w-fit">Sponsored</span>
       <h3 className="mt-2 text-base font-semibold">Your product here</h3>
       <p className="mt-1.5 flex-1 text-sm leading-relaxed text-muted">

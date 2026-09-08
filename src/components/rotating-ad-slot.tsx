@@ -101,7 +101,7 @@ export function RotatingAdSlotCard({ offset = 0 }: { offset?: number }) {
   const unit = units[useRotation(units.length, offset)];
 
   return (
-    <article className="card card-hover ad-card-live relative flex flex-col p-5" aria-label="Sponsored">
+    <article className="card card-hover ad-card-live ad-surface relative flex flex-col p-5" aria-label="Sponsored">
       <span className="badge badge-accent w-fit">Sponsored</span>
       <h3 className="mt-2 text-base font-semibold">{unit.title}</h3>
       <p className="mt-1.5 flex-1 text-sm leading-relaxed text-muted">{unit.description}</p>

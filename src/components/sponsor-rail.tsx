@@ -16,7 +16,7 @@ export function SponsorRail() {
   return (
     <aside className="fixed right-4 top-20 z-40 hidden w-44 space-y-3 2xl:block" aria-label="Partners">
       {sponsors.map((s, i) => (
-        <div key={i} className="card p-4">
+        <div key={i} className="card ad-surface p-4">
           <p className="font-mono text-[9px] uppercase tracking-[0.14em] text-muted">
             {paid ? "Sponsored" : "Sponsored"}
           </p>
