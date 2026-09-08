@@ -220,11 +220,11 @@ body {
 }
 
 .ad-card-live {
-  animation: ad-pulse 1.8s ease-in-out infinite;
+  animation: ad-pulse 1.4s ease-in-out infinite;
 }
 @keyframes ad-pulse {
   0%, 100% { border-color: var(--border-c); }
-  50% { border-color: var(--border-hov); }
+  50% { border-color: var(--foreground); }
 }
 @media (prefers-reduced-motion: reduce) {
   .ad-card-live { animation: none; }

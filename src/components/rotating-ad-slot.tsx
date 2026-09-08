@@ -34,44 +34,54 @@ const UNITS = paidUnits();
 
 const DEMO: Unit[] = [
   {
-    title: "Your product here",
-    description: "Reach people at the moment they pick their next tool.",
-    cta: "Get featured",
+    title: "Northwind Analytics",
+    description: "Product analytics your Grok bot can query.",
+    cta: "Try it free",
     url: "/featured",
   },
   {
-    title: "Sponsor the directory",
-    description: "Developer tools, productivity apps, learning platforms - if it fits the audience, it fits.",
-    cta: "See plans",
+    title: "Promptdesk",
+    description: "Version, test, and ship bot instructions.",
+    cta: "Learn more",
     url: "/featured",
   },
   {
-    title: "Launch week slot",
-    description: "The homepage slot, exclusively yours for 7 days. $99.",
-    cta: "Reserve it",
+    title: "Kernel & Co.",
+    description: "GPU runtimes for automation builders.",
+    cta: "Get started",
     url: "/featured",
   },
 ];
 
-export function RotatingAdSlot({ offset = 0 }: { offset?: number }) {
-  const units = UNITS.length > 0 ? UNITS : DEMO;
-  const [index, setIndex] = useState(offset % units.length);
+function activeUnits(): Unit[] {
+  return UNITS.length > 0 ? UNITS : DEMO;
+}
 
+function isExternal(url: string): boolean {
+  return /^https?:\/\//i.test(url);
+}
+
+function useRotation(length: number, offset: number): number {
+  const [index, setIndex] = useState(offset % length);
   useEffect(() => {
-    if (units.length < 2) return;
+    if (length < 2) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    const id = window.setInterval(() => setIndex((i) => (i + 1) % units.length), 7000);
+    const id = window.setInterval(() => setIndex((i) => (i + 1) % length), 7000);
     return () => window.clearInterval(id);
-  }, [units.length]);
+  }, [length]);
+  return index % length;
+}
 
-  const unit = units[index % units.length];
+export function RotatingAdSlot({ offset = 0 }: { offset?: number }) {
+  const units = activeUnits();
+  const unit = units[useRotation(units.length, offset)];
 
   return (
     <aside className="ad-slot" aria-label="Sponsored">
       <TrackedLink
         key={unit.url + unit.title}
         href={sponsorHref(unit.url)}
-        external={/^https?:\/\//i.test(unit.url)}
+        external={isExternal(unit.url)}
         event="sponsor-click"
         data={{ placement: "rotating" }}
         className="ad-card ad-card-live"
@@ -83,5 +93,31 @@ export function RotatingAdSlot({ offset = 0 }: { offset?: number }) {
       </TrackedLink>
       <p className="ad-via">ads via GrokBot HQ</p>
     </aside>
+  );
+}
+
+export function RotatingAdSlotCard({ offset = 0 }: { offset?: number }) {
+  const units = activeUnits();
+  const unit = units[useRotation(units.length, offset)];
+
+  return (
+    <article className="card card-hover ad-card-live relative flex flex-col p-5" aria-label="Sponsored">
+      <span className="badge badge-accent w-fit">Sponsored</span>
+      <h3 className="mt-2 text-base font-semibold">{unit.title}</h3>
+      <p className="mt-1.5 flex-1 text-sm leading-relaxed text-muted">{unit.description}</p>
+      <div className="mt-4 flex items-center justify-between gap-3">
+        <TrackedLink
+          key={unit.url + unit.title}
+          href={sponsorHref(unit.url)}
+          external={isExternal(unit.url)}
+          event="sponsor-click"
+          data={{ placement: "grid" }}
+          className="text-xs font-semibold text-accent hover:underline"
+        >
+          {unit.cta} →
+        </TrackedLink>
+        <span className="font-mono text-[10px] text-muted opacity-70">ads via GrokBot HQ</span>
+      </div>
+    </article>
   );
 }
