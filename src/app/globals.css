@@ -299,3 +299,17 @@ body {
   .d2 { animation-delay: 0.08s; }
   .d3 { animation-delay: 0.13s; }
 }
+
+.mascot-eye {
+  animation: mascot-bob 3.4s ease-in-out infinite;
+}
+.mascot-eye-late {
+  animation-delay: 0.45s;
+}
+@keyframes mascot-bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mascot-eye { animation: none; }
+}
