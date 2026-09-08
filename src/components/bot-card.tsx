@@ -17,6 +17,7 @@ export function BotCard({ bot }: { bot: Bot }) {
   const fresh = Date.now() - new Date(bot.addedAt).getTime() < 7 * 86_400_000;
   const opens = botOpens(bot.slug);
   const installs = typeof bot.installs === "number" ? bot.installs : null;
+  const hasMeta = Boolean(bot.builder.x || bot.builder.name) || opens > 0 || (installs !== null && installs > 0);
 
   return (
     <article className="card card-hover flex flex-col gap-3 p-[22px]">
@@ -33,6 +34,7 @@ export function BotCard({ bot }: { bot: Bot }) {
 
       <p className="flex-1 text-[13.5px] text-muted">{bot.tagline}</p>
 
+      {hasMeta && (
       <div className="flex items-center justify-between border-t border-border pt-3 text-[12.5px] text-muted">
         {bot.builder.x ? (
           <a
@@ -58,6 +60,7 @@ export function BotCard({ bot }: { bot: Bot }) {
           <span />
         )}
       </div>
+      )}
 
       <div className="flex items-center justify-between gap-3">
         <span className="flex items-center gap-3">
