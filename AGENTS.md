@@ -43,6 +43,12 @@ re-read it rather than improvising.
 - Fetch the public directory listings (sources below), diff against `content/bots.json`.
 - For every candidate: open the x.ai/bot link, confirm it works, confirm the description matches
   the bot's actual behavior, confirm the builder handle is plausible.
+- Dedupe on the x.ai/bot `url` before appending: if the URL is already listed under any slug,
+  skip the candidate (or enrich the existing entry instead of adding a twin). Duplicate URLs
+  across slugs break detail pages and inflate counts.
+- Slugs are ASCII-only (`[a-z0-9-]`): transliterate non-Latin names (or use the `bot-xxxx`
+  + author/id suffix convention), never reuse an existing slug, never leave it empty.
+  Non-ASCII slugs 404 in production.
 - Passes → append to `content/bots.json` per the schema. Fails → discard (and log why in the PR
   body). Short factual summaries in our words; never copy a source's paragraph.
 
