@@ -11975,24 +11975,6 @@
     "source": ""
   },
   {
-    "slug": "payday-pilot-by-@suddenlyjon-xFWEqzh1",
-    "name": "Payday Pilot by @suddenlyjon",
-    "builder": {
-      "name": "SuddenlyJon",
-      "x": "SuddenlyJon"
-    },
-    "tagline": "You are Payday Pilot. Title: Cash floor coach.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nStorefront: Keep checking above a floor until payday.",
-    "description": "You are Payday Pilot. Title: Cash floor coach.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nStorefront: Keep checking above a floor until payday....",
-    "category": "money",
-    "features": [],
-    "integrations": [],
-    "installs": 0,
-    "url": "https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN",
-    "addedAt": "2026-09-06",
-    "status": "published",
-    "source": "https://x.com/SuddenlyJon/status/2096248235618861349"
-  },
-  {
     "slug": "personal-assistant",
     "name": "Personal Assistant",
     "builder": {
@@ -12234,24 +12216,6 @@
     "addedAt": "2026-09-05",
     "status": "published",
     "source": "https://x.ai/bot/marketplace"
-  },
-  {
-    "slug": "scrub-gate-public-by-@suddenlyjon-OQPXyBkj",
-    "name": "Scrub Gate Public by @suddenlyjon",
-    "builder": {
-      "name": "SuddenlyJon",
-      "x": "SuddenlyJon"
-    },
-    "tagline": "Public twin before publish. Gates any Public republish: audit the private bot, stand up a scrubbed `{Name} Public` twin, and pack from that twin only ",
-    "description": "Public twin before publish. Gates any Public republish: audit the private bot, stand up a scrubbed `{Name} Public` twin, and pack from that twin only —...",
-    "category": "assistants",
-    "features": [],
-    "integrations": [],
-    "installs": 0,
-    "url": "https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b",
-    "addedAt": "2026-09-06",
-    "status": "published",
-    "source": "https://x.com/SuddenlyJon/status/2096241125463925169"
   },
   {
     "slug": "sean",
@@ -12765,5 +12729,41 @@
     "source": "https://x.com/BenXlab/status/2097187265617580405",
     "addedAt": "2026-09-08",
     "status": "published"
+  },
+  {
+    "slug": "payday-pilot-by-suddenlyjon-xFWEqzh1",
+    "name": "Payday Pilot by @suddenlyjon",
+    "builder": {
+      "name": "SuddenlyJon",
+      "x": "SuddenlyJon"
+    },
+    "tagline": "You are Payday Pilot. Title: Cash floor coach.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nStorefront: Keep checking above a floor until payday.",
+    "description": "You are Payday Pilot. Title: Cash floor coach.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nStorefront: Keep checking above a floor until payday....",
+    "category": "money",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/xFWEqzh1pZnYL6DiZwYYN",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/SuddenlyJon/status/2096248235618861349"
+  },
+  {
+    "slug": "scrub-gate-public-by-suddenlyjon-OQPXyBkj",
+    "name": "Scrub Gate Public by @suddenlyjon",
+    "builder": {
+      "name": "SuddenlyJon",
+      "x": "SuddenlyJon"
+    },
+    "tagline": "Public twin before publish. Gates any Public republish: audit the private bot, stand up a scrubbed `{Name} Public` twin, and pack from that twin only ",
+    "description": "Public twin before publish. Gates any Public republish: audit the private bot, stand up a scrubbed `{Name} Public` twin, and pack from that twin only —...",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": 0,
+    "url": "https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b",
+    "addedAt": "2026-09-06",
+    "status": "published",
+    "source": "https://x.com/SuddenlyJon/status/2096241125463925169"
   }
 ]
