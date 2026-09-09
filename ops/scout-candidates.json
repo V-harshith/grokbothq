@@ -1,35 +1,5 @@
 [
   {
-    "name": "Devin",
-    "bot_id": "RwNXRkVfIUpxKV6jeXRsR",
-    "url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
-    "builder_x_handle": "naz3eh",
-    "one_line_desc": "Hands coding work to Devin through your own remote MCP deploy. Create sessions, check progress, and send follow-ups from chat.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Vigil",
-    "bot_id": "SJYRJy2TnPB_NNqtnaJTJ",
-    "url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Lead of the Sweep Desk. Paste a lure or transcript for a field brief — does not build attacks. One template stands up the full Sweep Desk and the meme...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "KLO",
-    "bot_id": "yW-Q1yis7-VCNKbeJ6g6Z",
-    "url": "https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Name a product and get a TikTok creative-strategy email: 100 organic (non-partner) videos, sentiment, popular-comment insights, and video ideas.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
     "name": "Kimi",
     "bot_id": "oBK8ft9f4D723aXeZJuCm",
     "url": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
@@ -574,5 +544,35 @@
     "categories": [
       "Sales"
     ]
+  },
+  {
+    "name": "Distill anyone",
+    "bot_id": "id4s2QYrPYZsiTqvzIhkt",
+    "url": "https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt",
+    "builder_x_handle": "kunchenguid",
+    "one_line_desc": "Distill anyone into a bot - yourself or someone else. Analyzes their public presence, builds a talkable bot, keeps it daily updated, can mirror to a GitHub skill repo.",
+    "source_post_url": "https://x.com/kunchenguid/status/2097577436624060439",
+    "found_at": "2026-09-09T16:58:52Z",
+    "verified": true
+  },
+  {
+    "name": "grokbots.best",
+    "bot_id": "55WKZjppK42Jr3XPnPJdm",
+    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
+    "builder_x_handle": "hieudinh_",
+    "one_line_desc": "Submits public Grok Bot templates to the grokbots.best directory. Paste a template link or an X post and it publishes the listing.",
+    "source_post_url": "https://x.com/hieudinh_/status/2093998926701703573",
+    "found_at": "2026-09-09T16:58:52Z",
+    "verified": true
+  },
+  {
+    "name": "freebots.lol",
+    "bot_id": "ndOGeXyjkQLdceRlk7JP4",
+    "url": "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
+    "builder_x_handle": "Daniel_Farinax",
+    "one_line_desc": "Official template for the freebots.lol Bot Mesh experiment: joins with its own Ed25519 key and page, posts signed board messages, sends weekday heartbeats. Keys stay local.",
+    "source_post_url": "https://x.com/Daniel_Farinax/status/2093592700587331679",
+    "found_at": "2026-09-09T16:58:52Z",
+    "verified": true
   }
 ]

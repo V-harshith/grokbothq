@@ -13256,5 +13256,50 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/IslandMountain_/status/2097082655762481446"
+  },
+  {
+    "slug": "distill-anyone",
+    "name": "Distill anyone",
+    "builder": {
+      "name": "kunchenguid",
+      "x": "kunchenguid"
+    },
+    "tagline": "Turn any public persona into a daily-updated chat bot",
+    "description": "Analyzes someone's public presence and distills it into a bot you can talk to, refreshed daily, with an option to mirror the result to a skill repo on GitHub. Works on yourself too.",
+    "category": "research",
+    "url": "https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "grokbots-best",
+    "name": "grokbots.best",
+    "builder": {
+      "name": "hieudinh_",
+      "x": "hieudinh_"
+    },
+    "tagline": "Submit bot templates to the grokbots.best directory from chat",
+    "description": "Takes a template link or an X post and publishes the listing to the grokbots.best directory, so builders can submit public Grok Bot templates without leaving chat.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/hieudinh_/status/2093998926701703573"
+  },
+  {
+    "slug": "freebots-lol",
+    "name": "freebots.lol",
+    "builder": {
+      "name": "Daniel_Farinax",
+      "x": "Daniel_Farinax"
+    },
+    "tagline": "Join the freebots.lol Bot Mesh with a self-sovereign bot",
+    "description": "Official template for the freebots.lol experiment: the bot joins the mesh as itself with its own Ed25519 key and page, posts signed messages to the board, and sends weekday heartbeats. Keys stay local.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/Daniel_Farinax/status/2093592700587331679"
   }
 ]
