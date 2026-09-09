@@ -22,7 +22,7 @@ export function OpenButton({ bot, small }: { bot: Bot; small?: boolean }) {
       target="_blank"
       rel="noopener noreferrer nofollow"
       onClick={track}
-      className={`btn btn-accent ${small ? "!px-3 !py-1.5 !text-xs" : ""}`}
+      className={`btn btn-accent ${small ? "!h-7 !px-3 !py-1.5 !text-xs" : ""}`}
       aria-label={`Open ${bot.name} in Grok`}
     >
       Open in Grok

@@ -4,6 +4,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { pageMetadata, breadcrumbsJsonLd, absUrl } from "@/lib/seo";
 import { SITE, DISCLAIMER } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 import { stats } from "@/data/bots";
 
 export const metadata: Metadata = pageMetadata({
@@ -116,7 +117,7 @@ export default function AgentPage() {
 
       <p className="mt-8 text-sm text-muted">
         Prefer browsing like a human? <Link href="/bots" className="text-accent hover:underline">Open the directory</Link> - it&apos;s
-        the same data, prettier. Questions? {SITE.email}.
+        the same data, prettier. Questions? <EmailLink className="text-accent hover:underline">{SITE.email}</EmailLink>.
       </p>
     </div>
   );

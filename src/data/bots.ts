@@ -4,7 +4,7 @@ import metricsJson from "../../content/metrics.json";
 
 export type { Bot };
 
-type MetricsFile = { updatedAt?: string; opens?: Record<string, number>; sponsorClicks?: number };
+type MetricsFile = { updatedAt?: string; opens?: Record<string, number>; sponsorClicks?: number; sponsors?: Record<string, number> };
 const metrics = metricsJson as MetricsFile;
 
 /** Live per-bot open counts (Open-button clicks) from the daily metrics pipeline. */
@@ -32,6 +32,22 @@ export function relatedBots(bot: Bot, count = 4): Bot[] {
 
 export function latestBots(count = 8): Bot[] {
   return [...bots].sort((a, b) => b.addedAt.localeCompare(a.addedAt)).slice(0, count);
+}
+
+export function newThisWeek(count = 4): Bot[] {
+  const week = 7 * 86_400_000;
+  const now = Date.now();
+  return bots
+    .filter((b) => now - new Date(b.addedAt).getTime() < week)
+    .sort((a, b) => b.addedAt.localeCompare(a.addedAt))
+    .slice(0, count);
+}
+
+export function topInstalledBots(count = 6): Bot[] {
+  return [...bots]
+    .filter((b) => typeof b.installs === "number")
+    .sort((a, b) => (b.installs ?? 0) - (a.installs ?? 0))
+    .slice(0, count);
 }
 
 const today = () => new Date().toISOString().slice(0, 10);

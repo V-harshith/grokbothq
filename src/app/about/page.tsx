@@ -4,6 +4,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE, DISCLAIMER } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 import { stats } from "@/data/bots";
 
 export const metadata: Metadata = pageMetadata({
@@ -75,8 +76,8 @@ export default function AboutPage() {
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Contact</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          General: <a href={`mailto:${SITE.email}`} className="text-accent hover:underline">{SITE.email}</a>, Submissions:{" "}
-          <a href={`mailto:${SITE.submitEmail}`} className="text-accent hover:underline">{SITE.submitEmail}</a>, On X:{" "}
+          General: <EmailLink className="text-accent hover:underline">{SITE.email}</EmailLink>, Submissions:{" "}
+          <EmailLink to={SITE.submitEmail} className="text-accent hover:underline">{SITE.submitEmail}</EmailLink>, On X:{" "}
           <a href={`https://x.com/${SITE.twitter.replace("@", "")}`} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
             {SITE.twitter}
           </a>

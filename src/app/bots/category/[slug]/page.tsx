@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const category = categoryMap.get(slug);
   if (!category) return {};
   return pageMetadata({
-    title: `${category.name} Grok Bots - Hand-Reviewed Picks`,
+    title: `Best ${category.name} Grok Bots - Hand-Reviewed Directory`,
     description: `The best ${category.name.toLowerCase()} Grok bots, reviewed by hand. ${category.short}. Open any bot in Grok with one click.`,
     path: `/bots/category/${category.slug}`,
     keywords: [

@@ -3,6 +3,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE, DISCLAIMER } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 
 export const metadata: Metadata = pageMetadata({
   title: "Terms of Use",
@@ -52,7 +53,7 @@ export default function TermsPage() {
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Contact</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          Questions, takedown requests, or corrections: {SITE.email}.
+          Questions, takedown requests, or corrections: <EmailLink className="text-accent hover:underline">{SITE.email}</EmailLink>.
         </p>
       </div>
     </div>

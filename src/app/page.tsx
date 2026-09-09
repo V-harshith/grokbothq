@@ -1,318 +1,200 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { BotCard } from "@/components/bot-card";
-import { ComboCard } from "@/components/combo-card";
-import { GuideCard } from "@/components/guide-card";
-import { FaqList } from "@/components/faq-list";
-import { SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
-import { HeroBot } from "@/components/hero-bot";
-import { AdSlotCard } from "@/components/ad-slot";
-import { UseCaseCard } from "@/components/use-case-card";
-import { NewsletterForm } from "@/components/newsletter-form";
-import { news } from "@/lib/news";
-import { CopyAgentPrompt } from "@/components/copy-agent-prompt";
+import { HeroMascot } from "@/components/hero-mascot";
+import { RotatingAdSlot, RotatingAdSlotCard } from "@/components/rotating-ad-slot";
+import { BotCard } from "@/components/bot-card";
 import { categories } from "@/data/categories";
-import { featuredBots, latestBots, stats, bots } from "@/data/bots";
-import { combos } from "@/data/combos";
-import { guides } from "@/data/guides";
+import { botsByCategory, newThisWeek, stats, topInstalledBots } from "@/data/bots";
+import { guides, type Guide } from "@/data/guides";
 import { SITE } from "@/data/site";
-import { faqs } from "@/data/faqs";
-import { botsByCategory } from "@/data/bots";
-import { pageMetadata, faqJsonLd, absUrl } from "@/lib/seo";
+import { absUrl, pageMetadata } from "@/lib/seo";
 
-export const revalidate = 300; // pages refresh within 5 minutes of content changes
+const HOME_DESCRIPTION =
+  "GrokBot HQ is the grok bot directory: a hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.";
+
+export const revalidate = 300;
 
 export const metadata: Metadata = pageMetadata({
-  title: "GrokBot HQ - The Hand-Reviewed Directory of Grok Bots",
-  description:
-    "Find a Grok bot worth opening. Hand-reviewed directory of the best Grok bots on xAI's platform - browse by category, learn bot combos, and master bot instructions with free guides.",
+  title: "Grok Bot Directory: Every Hand-Reviewed Grok Bot",
+  description: HOME_DESCRIPTION,
   path: "/",
-keywords: ["grok bots", "grok bot directory", "best grok bots", "grok bot list", "free grok bots", "grok bot combos", "grok xai bots", "grok ai bots", "grok bots that work"],
+  keywords: ["grok bot directory", "grok bots directory", "grok bot list", "list of grok bots", "best grok bots", "grok bots", "free grok bots", "grok bot combos", "grok xai bots", "grok ai bots", "grok bots that work"],
 });
 
+const READ_FIRST_SLUGS = [
+  "what-are-grok-bots",
+  "how-to-create-a-grok-bot",
+  "how-to-write-bot-instructions",
+];
+
+const LEVELS: Record<string, string> = {
+  "what-are-grok-bots": "Beginner",
+  "how-to-create-a-grok-bot": "Builder",
+  "how-to-write-bot-instructions": "Craft",
+};
+
+function levelFor(guide: Guide): string {
+  const level = LEVELS[guide.slug];
+  if (level) return level;
+  const tag = guide.tags[0];
+  if (!tag) return "Guide";
+  return tag.charAt(0).toUpperCase() + tag.slice(1);
+}
 
 export default function HomePage() {
-  const fresh = latestBots(4);
-  const freshSlugs = new Set(fresh.map((b) => b.slug));
-  // Standouts: paid featured placements first, then top-installed bots - always
-  // excluding the fresh row so the same bot never appears in both sections.
-  const standouts = (() => {
-    const featured = featuredBots().filter((b) => !freshSlugs.has(b.slug));
-    if (featured.length >= 3) return featured.slice(0, 3);
-    const rest = [...bots]
-      .filter((b) => !freshSlugs.has(b.slug))
-      .sort((a, b) => (b.installs ?? 0) - (a.installs ?? 0));
-    return [...featured, ...rest].slice(0, 3);
-  })();
-  const useCases = latestBots(30).filter((b) => b.source).slice(0, 3);
+  const installed = topInstalledBots(5);
+  const fresh = newThisWeek(4);
+  const readFirst = READ_FIRST_SLUGS.map((slug) => guides.find((guide) => guide.slug === slug)).filter(
+    (guide): guide is Guide => Boolean(guide),
+  );
 
   return (
     <>
-      <JsonLd data={[faqJsonLd(faqs.slice(0, 8), { dateModified: SITE.lastUpdated }), { "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: SITE.description }]} />
+      <JsonLd data={[{ "@context": "https://schema.org", "@type": "WebPage", name: "GrokBot HQ - Grok bot directory", url: absUrl("/"), description: HOME_DESCRIPTION }]} />
 
-      {/* Hero */}
-      <section className="relative overflow-hidden border-b border-border">
-        <div className="hero-glow" aria-hidden />
-        <div className="container-x relative pb-16 pt-10 text-center md:pb-20 md:pt-14">
-          <HeroBot />
-          <h1 className="mx-auto mt-8 max-w-3xl text-4xl md:text-7xl font-semibold tracking-tighter leading-[1.05]">
-            Find a Grok bot <span className="text-accent">worth opening</span>
+      <section className="border-b border-border">
+        <div className="container-x grid items-center gap-12 pb-[72px] pt-[96px] md:grid-cols-[1.05fr_0.95fr]">
+          <div>
+          <p className="kicker in">The independent Grok bot directory</p>
+          <h1 className="in d1 mb-[18px] mt-5 max-w-[14ch] text-[clamp(40px,6.4vw,64px)] font-medium leading-[1.05] tracking-[-0.035em]">
+            Find a Grok bot worth opening.
           </h1>
-          <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-muted md:text-lg">
+          <p className="in d2 max-w-[44ch] text-[17px] text-muted">
             Every listing tested by hand. One click opens it in Grok.
           </p>
-          <div className="mt-7 flex flex-wrap items-center justify-center gap-3">
-            <Link href="/bots" className="btn btn-accent !px-6 !py-3 !text-base">
-              Browse {stats.bots} bots
+          <div className="in d3 mt-[34px] flex flex-wrap gap-3">
+            <Link href="/bots" className="btn btn-primary">
+              Browse all {stats.bots} bots
             </Link>
-            <Link href="/guides/what-are-grok-bots" className="btn btn-ghost !px-6 !py-3 !text-base">
-              New to Grok bots?
+            <Link href="/submit" className="btn btn-ghost">
+              Submit a bot
             </Link>
-            <CopyAgentPrompt />
+          </div>
+          </div>
+          <div className="in d2 mx-auto w-full max-w-[320px]">
+            <HeroMascot className="h-auto w-full" />
           </div>
         </div>
       </section>
 
-      {/* Stats strip */}
-      <section className="border-b border-border bg-surface">
-        <div className="container-x flex justify-center py-6" data-reveal>
-          <dl className="flex flex-wrap items-center justify-center divide-x divide-border">
-            {[
-              { label: "bots listed", value: `${stats.bots}` },
-              { label: "builders", value: `${stats.builders}` },
-              { label: "categories", value: `${stats.categories}` },
-            ].map((s) => (
-              <div key={s.label} className="px-8 text-center">
-                <dt className="text-xs text-muted">{s.label}</dt>
-                <dd className="tnum font-mono text-xl font-semibold text-accent">{s.value}</dd>
-              </div>
-            ))}
-          </dl>
-        </div>
-      </section>
-
-      {/* Featured */}
-      <section className="container-x py-16 md:py-24" data-reveal>
-        <SectionHeader
-          kicker="Featured" title="This week's standouts"
-          description="Rotating picks from the directory. Each one was opened and tested before it earned a listing."
-          link="/bots"
-          linkLabel="All bots"
-        />
-        <div className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {standouts.map((bot) => (
-            <BotCard key={bot.slug} bot={bot} />
+      <section className="border-b border-border">
+        <div className="container-x flex flex-wrap">
+          {[
+            { value: `${stats.bots}`, label: "verified bots" },
+            { value: `${stats.builders}`, label: "builders" },
+            { value: `${stats.categories}`, label: "categories" },
+            { value: "100%", label: "opened by hand before listing" },
+          ].map((stat, index, list) => (
+            <div key={stat.label} className={`min-w-[200px] flex-1 py-[26px] ${index < list.length - 1 ? "border-r border-border pr-6" : ""} ${index > 0 ? "pl-6" : ""}`}>
+              <p className="tnum font-mono text-[26px] font-medium tracking-[-0.02em]">{stat.value}</p>
+              <p className="mt-1 text-[12.5px] text-muted">{stat.label}</p>
+            </div>
           ))}
-          <AdSlotCard />
+        </div>
+        <p className="container-x pb-5 text-right font-mono text-[11px] text-muted">
+          directory updated {new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
+        </p>
+      </section>
+
+      <section className="container-x py-[72px]" id="bots">
+        <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
+          <h2 className="text-2xl font-medium tracking-[-0.02em]">Most installed</h2>
+          <Link href="/bots" className="text-[13.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            All bots →
+          </Link>
+        </div>
+        <div className="grid gap-[14px] min-[560px]:grid-cols-2 min-[860px]:grid-cols-3">
+          {installed.map((bot) => (
+            <a
+              key={bot.slug}
+              href={bot.url}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              className="card card-hover flex flex-col gap-3 p-[22px]"
+            >
+              <div className="flex items-center justify-between gap-[10px]">
+                <h3 className="text-base font-medium tracking-[-0.01em]">{bot.name}</h3>
+                <span className="whitespace-nowrap rounded-md border border-border px-2 py-[3px] font-mono text-[10.5px] uppercase tracking-[0.08em] text-muted">
+                  {bot.category}
+                </span>
+              </div>
+              <p className="flex-1 text-[13.5px] text-muted">{bot.tagline}</p>
+              <div className="flex items-center justify-between border-t border-border pt-3 text-[12.5px] text-muted">
+                <span>{bot.builder.x ? `by ${bot.builder.x}` : bot.builder.name}</span>
+                <span className="tnum font-mono text-foreground">{bot.installs ?? 0} installs</span>
+              </div>
+            </a>
+          ))}
+          <RotatingAdSlotCard offset={2} />
         </div>
       </section>
 
-      {/* New this week */}
-      <section className="border-y border-border bg-surface">
-        <div className="container-x py-16 md:py-24" data-reveal>
-          <SectionHeader
-            kicker="New listings" title="Fresh this week"
-            description="Just cleared a full review pass."
-            link="/new"
-            linkLabel="See all new bots"
-          />
-          <div className="stagger grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      {fresh.length > 0 && (
+        <section className="container-x py-[72px]">
+          <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
+            <h2 className="text-2xl font-medium tracking-[-0.02em]">New this week</h2>
+            <Link href="/new" className="text-[13.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+              See all new bots →
+            </Link>
+          </div>
+          <div className="grid gap-[14px] sm:grid-cols-2 lg:grid-cols-4">
             {fresh.map((bot) => (
               <BotCard key={bot.slug} bot={bot} />
             ))}
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
-      {/* Categories */}
-      <section className="container-x py-16 md:py-24" data-reveal>
-        <SectionHeader kicker="Categories" title="Browse by job" description="Eight categories. Every listing tested against real prompts before it went live." />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {categories.map((cat) => {
-            const count = botsByCategory(cat.slug).length;
-            return (
-              <Link key={cat.slug} href={`/bots/category/${cat.slug}`} className="card card-hover p-5">
-                <h3 className="font-semibold">
-                  {cat.name} <span className="font-mono text-sm text-accent">{count}</span>
-                </h3>
-                <p className="mt-2 text-sm leading-relaxed text-muted">{cat.short}</p>
-              </Link>
-            );
-          })}
+      <section className="container-x py-[72px]">
+        <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
+          <h2 className="text-2xl font-medium tracking-[-0.02em]">Browse by job</h2>
+          <Link href="/use-cases" className="text-[13.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            All use cases →
+          </Link>
         </div>
-      </section>
-
-      {/* Combos */}
-      <section className="border-y border-border bg-surface">
-        <div className="container-x py-16 md:py-24" data-reveal>
-          <SectionHeader
-            kicker="Combos" title="Chain bots into workflows"
-            description="Two or three bots that hand work to each other. Tested end to end."
-            link="/groups"
-            linkLabel="All combos"
-          />
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {combos.slice(0, 3).map((combo) => (
-              <ComboCard key={combo.slug} combo={combo} />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Guides */}
-      <section className="container-x py-16 md:py-24" data-reveal>
-        <SectionHeader
-          kicker="Guides" title="Get good, fast"
-          description="Everything we learned reviewing hundreds of bots, written into short guides."
-          link="/guides"
-          linkLabel="All guides"
-        />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {guides.slice(0, 4).map((guide) => (
-            <GuideCard key={guide.slug} guide={guide} />
+        <div className="flex flex-wrap gap-[10px]">
+          {categories.map((category) => (
+            <Link
+              key={category.slug}
+              href={`/bots/category/${category.slug}`}
+              className="inline-flex items-center gap-2.5 rounded-[10px] border border-border px-5 py-3 text-[15px] transition-[border-color] duration-[180ms] ease-out hover:border-[var(--border-hov)]"
+            >
+              {category.name}
+              <span className="tnum font-mono text-xs text-muted">{botsByCategory(category.slug).length}</span>
+            </Link>
           ))}
         </div>
-        <div className="mt-8 flex flex-wrap gap-2">
-          <span className="text-sm text-muted">Compare:</span>
-          <Link href="/compare/grok-bots-vs-custom-gpts" className="text-sm text-accent hover:underline">
-            Grok bots vs Custom GPTs
-          </Link>
-          <span className="text-muted">·</span>
-          <Link href="/compare/grok-bots-vs-claude-skills" className="text-sm text-accent hover:underline">
-            vs Claude Skills
-          </Link>
-          <span className="text-muted">·</span>
-          <Link href="/compare/grok-bots-vs-gemini-gems" className="text-sm text-accent hover:underline">
-            vs Gemini Gems
-          </Link>
-          <span className="text-muted">·</span>
-          <Link href="/compare" className="text-sm text-muted hover:text-foreground hover:underline">
-            all comparisons
-          </Link>
-        </div>
       </section>
 
-      {/* Power tools */}
-      <section className="container-x py-16 md:py-24" data-reveal>
-        <SectionHeader
-          kicker="Power tools"
-          title="More than a list"
-          description="The directory is machine-readable. Point your own Grok Bot at it, browse by the tools you already use, or subscribe to the feed."
-        />
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          <Link href="/agent" className="card card-hover flex flex-col p-6">
-            <h3 className="font-semibold">Point your Grok Bot here</h3>
-            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
-              Copy one prompt and your bot fetches the directory itself - recommends bots for any task, on your schedule.
-            </p>
-            <span className="mt-4 text-xs font-semibold text-accent">Get the routines →</span>
-          </Link>
-          <Link href="/integrations" className="card card-hover flex flex-col p-6">
-            <h3 className="font-semibold">Browse by integration</h3>
-            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
-              Gmail, Slack, Notion, GitHub - every tool a listed bot connects to gets its own page.
-            </p>
-            <span className="mt-4 text-xs font-semibold text-accent">Find yours →</span>
-          </Link>
-          <div className="card flex flex-col p-6">
-            <h3 className="font-semibold">Read it like a feed</h3>
-            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
-              RSS for new drops and news, or the whole directory as one JSON document. No key, no account.
-            </p>
-            <span className="mt-4 space-x-4 text-xs font-semibold">
-              <a href="/rss.xml" className="text-accent hover:underline">RSS →</a>
-              <a href="/api/v1/index.json" className="text-accent hover:underline">JSON API →</a>
-            </span>
-          </div>
-          <Link href="/stats" className="card card-hover flex flex-col p-6">
-            <h3 className="font-semibold">State of Grok Bots</h3>
-            <p className="mt-2 flex-1 text-sm leading-relaxed text-muted">
-              Original daily-computed statistics: category distribution, installs, builders, growth. Citable under CC BY.
-            </p>
-            <span className="mt-4 text-xs font-semibold text-accent">See the data →</span>
+      <section className="container-x py-[72px]">
+        <div className="mb-7 flex flex-wrap items-baseline justify-between gap-4">
+          <h2 className="text-2xl font-medium tracking-[-0.02em]">Read first</h2>
+          <Link href="/guides" className="text-[13.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            All guides →
           </Link>
         </div>
-      </section>
-
-      {/* Use cases */}
-      <section className="border-y border-border bg-surface">
-        <div className="container-x py-16 md:py-24" data-reveal>
-          <SectionHeader
-            kicker="Use cases" title="Real use, real receipts"
-            description="Every example pairs a listed bot with the X post where it was put to work."
-            link="/use-cases"
-            linkLabel="All use cases"
-          />
-          <div className="grid gap-4 sm:grid-cols-3">
-            {useCases.map((bot) => (
-              <UseCaseCard key={bot.slug} bot={bot} />
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* News */}
-      <section className="container-x py-16 md:py-24" data-reveal>
-        <SectionHeader
-          kicker="Ecosystem" title="Grok news, curated"
-          description="Launches and ecosystem moves, one line each, always linked to the source."
-          link="/news"
-          linkLabel="All news"
-        />
-        <ol className="divide-y divide-border">
-          {news.slice(0, 3).map((item) => (
-            <li key={item.url + item.date} className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 py-4">
-              <a href={item.url} target="_blank" rel="noopener noreferrer" className="font-medium hover:text-accent">
-                {item.title}
-              </a>
-              <span className="text-xs text-muted">
-                {item.source}, {new Date(item.date).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
-              </span>
-            </li>
+        <div className="grid gap-[14px] min-[860px]:grid-cols-3">
+          {readFirst.map((guide) => (
+            <Link
+              key={guide.slug}
+              href={`/guides/${guide.slug}`}
+              className="card card-hover flex flex-col gap-[10px] p-5"
+            >
+              <p className="text-xs text-muted">{levelFor(guide)}</p>
+              <h3 className="text-[15.5px] font-medium leading-[1.35] tracking-[-0.01em]">{guide.title}</h3>
+              <p className="flex gap-[10px] font-mono text-xs text-muted">
+                <span>{guide.readingMinutes} min</span>
+                <span>updated {new Date(guide.updatedAt).toLocaleDateString("en-US", { month: "short", day: "numeric" })}</span>
+              </p>
+            </Link>
           ))}
-        </ol>
-      </section>
-
-      {/* Newsletter */}
-      <section className="container-x max-w-xl py-16 md:py-24 text-center" data-reveal>
-        <p className="kicker">The weekly drop</p>
-        <h2 className="mt-2 text-2xl font-semibold tracking-tight md:text-3xl">New bots, every week</h2>
-        <p className="mt-3 text-sm leading-relaxed text-muted">
-          One email with the freshest listings and one combo worth stealing. No spam, unsubscribe anytime.
-        </p>
-        <div className="mt-6">
-          <NewsletterForm />
         </div>
       </section>
 
-      {/* FAQ */}
-      <section className="border-t border-border bg-surface">
-        <div className="container-x max-w-3xl py-16 md:py-24">
-          <SectionHeader kicker="FAQ" title="Questions, answered" description="The questions we get most, answered plainly. More on the full FAQ page." link="/faq" />
-          <FaqList faqs={faqs.slice(0, 8)} />
-        </div>
-      </section>
-
-      {/* CTA */}
-      <section className="container-x py-16 md:py-24">
-        <div className="card relative overflow-hidden p-10 text-center md:p-14">
-          <div className="relative">
-            <h2 className="text-3xl md:text-4xl font-semibold tracking-tighter">Built a Grok bot? Put it where people are looking.</h2>
-            <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-muted md:text-base">
-              Listings are free and reviewed within 48 hours. Want the top slot instead? That’s what featured is for.
-            </p>
-            <div className="mt-6 flex flex-wrap justify-center gap-3">
-              <Link href="/submit" className="btn btn-accent !px-6 !py-3">
-                List your bot
-              </Link>
-              <Link href="/featured" className="btn btn-ghost !px-6 !py-3">
-                Sponsor the site
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
+      <div className="container-x flex justify-center pb-[72px]">
+        <RotatingAdSlot offset={1} />
+      </div>
     </>
   );
 }

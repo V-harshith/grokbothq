@@ -3,6 +3,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { pageMetadata, breadcrumbsJsonLd } from "@/lib/seo";
 import { SITE, DISCLAIMER } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 
 export const metadata: Metadata = pageMetadata({
   title: "Privacy Policy",
@@ -51,7 +52,7 @@ export default function PrivacyPage() {
 
         <h2 className="mt-8 text-xl font-semibold tracking-tight">Contact and changes</h2>
         <p className="text-[15px] leading-relaxed text-muted">
-          Questions or deletion requests: {SITE.email}. If this policy changes materially, the change gets a date and a
+          Questions or deletion requests: <EmailLink className="text-accent hover:underline">{SITE.email}</EmailLink>. If this policy changes materially, the change gets a date and a
           plain-English summary at the top of this page.
         </p>
         <p className="text-[15px] leading-relaxed text-muted">{DISCLAIMER}</p>

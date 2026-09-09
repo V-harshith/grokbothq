@@ -3,14 +3,11 @@
 import { useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { SITE } from "@/data/site";
-import { ThemeToggle } from "./theme-toggle";
 import { HomeLink } from "./home-link";
 
 const nav = [
   { href: "/bots", label: "Bots" },
   { href: "/use-cases", label: "Use cases" },
-  { href: "/groups", label: "Combos" },
   { href: "/guides", label: "Guides" },
   { href: "/agent", label: "Agent" },
   { href: "/compare", label: "Compare" },
@@ -22,37 +19,27 @@ export function Header() {
   const pathname = usePathname();
 
   return (
-    <header className="sticky top-0 z-50 border-b border-border bg-background/70 backdrop-blur-xl backdrop-saturate-150">
-      <div className="container-x flex h-14 items-center justify-between gap-4">
-        <HomeLink className="flex items-center gap-2.5 font-semibold tracking-tight">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/logo.svg" alt="" width={24} height={24} className="rounded-md" />
+    <header className="sticky top-0 z-50 border-b border-border bg-background">
+      <div className="container-x flex h-[60px] items-center justify-between gap-4">
+        <HomeLink className="text-[15px] font-semibold tracking-[-0.01em]">
           <span>
-            GrokBot<span className="text-accent">HQ</span>
+            GrokBot<span className="font-semibold text-muted">HQ</span>
           </span>
         </HomeLink>
 
-        <nav className="hidden items-center gap-5 md:flex" aria-label="Main">
+        <nav className="hidden items-center gap-[26px] md:flex" aria-label="Main">
           {nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className={`text-sm transition-colors hover:text-foreground ${pathname === item.href ? "text-foreground" : "text-muted"}`}
+              className={`text-[13.5px] transition-[color] duration-[180ms] ease-out hover:text-foreground ${pathname === item.href ? "text-foreground" : "text-muted"}`}
             >
               {item.label}
             </Link>
           ))}
         </nav>
-
-        <div className="flex items-center gap-2">
-          <ThemeToggle />
-          <Link href="/submit" className="btn btn-accent hidden sm:inline-flex">
-            List a bot
-          </Link>
-        </div>
       </div>
 
-      {/* mobile nav */}
       <div className="border-t border-border md:hidden">
         <button
           type="button"
@@ -77,9 +64,6 @@ export function Header() {
                 {item.label}
               </Link>
             ))}
-            <Link href="/submit" onClick={() => setOpen(false)} className="btn btn-accent mt-1">
-              List a bot
-            </Link>
           </nav>
         )}
       </div>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { TrackedLink } from "./tracked-link";
+import { sponsorHref, sponsorId } from "@/lib/ads";
 import adsJson from "../../content/ads.json";
 
 /**
@@ -15,17 +16,17 @@ export function SponsorRail() {
   return (
     <aside className="fixed right-4 top-20 z-40 hidden w-44 space-y-3 2xl:block" aria-label="Partners">
       {sponsors.map((s, i) => (
-        <div key={i} className="card p-4">
+        <div key={i} className="card ad-surface p-4">
           <p className="font-mono text-[9px] uppercase tracking-[0.14em] text-muted">
             {paid ? "Sponsored" : "Sponsored"}
           </p>
           <p className="mt-1.5 text-sm font-semibold leading-snug">{s.title}</p>
           {s.description && <p className="mt-1 text-xs leading-relaxed text-muted">{s.description}</p>}
           <TrackedLink
-            href={s.url}
+            href={sponsorHref(s.url)}
             external={Boolean(s.url.startsWith("http"))}
             event="sponsor-click"
-            data={{ placement: "rail" }}
+            data={{ placement: "rail", sponsor: sponsorId(s.url) }}
             className="mt-2 inline-block text-xs font-semibold text-accent hover:underline"
           >
             {s.cta || "Learn more"} →

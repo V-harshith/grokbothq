@@ -8,8 +8,10 @@
  *   UMAMI_SITE_ID  the website id for this site
  *
  * Umami event shape produced by the Open button: name "install-click",
- * property bot = slug. We query website events for the last 30 days and
- * aggregate counts per bot slug.
+ * property bot = slug. Sponsor links fire name "sponsor-click" with
+ * properties placement (rotating/grid/rail) and sponsor (destination
+ * hostname, or "house" for slot promos). We query website events for the
+ * last 30 days and aggregate counts per bot slug and per sponsor id.
  */
 import { writeFileSync, readFileSync } from "node:fs";
 
@@ -35,9 +37,16 @@ async function api(path) {
 // Entry shape: { x: event name, y: count, ... } with property breakdowns.
 const events = await api(`/api/websites/${siteId}/metrics?startAt=${Date.parse(start)}&endAt=${Date.parse(end)}&type=event`);
 const counts = {};
+const sponsorCounts = {};
 let sponsorClicks30d = 0;
 for (const e of events) {
-  if (e.x === "sponsor-click") { sponsorClicks30d += e.y ?? e.count ?? 1; continue; }
+  if (e.x === "sponsor-click") {
+    const count = e.y ?? e.count ?? 1;
+    sponsorClicks30d += count;
+    const id = typeof e.sponsor === "string" && e.sponsor ? e.sponsor : "unknown";
+    sponsorCounts[id] = (sponsorCounts[id] ?? 0) + count;
+    continue;
+  }
   if (e.x !== "install-click") continue;
   // Umami groups by event property; entries carry the bot slug in `p`/`pv` fields
   const slug = e.p ?? e.bot ?? e.property;
@@ -53,7 +62,11 @@ const prev = (() => {
 })();
 
 const sponsorClicks = (prev.sponsorClicks ?? 0) + sponsorClicks30d;
-const merged = { updatedAt: new Date().toISOString().slice(0, 10), opens: { ...prev.opens, ...counts }, sponsorClicks };
+const sponsors = { ...(prev.sponsors ?? {}) };
+for (const [id, count] of Object.entries(sponsorCounts)) {
+  sponsors[id] = (sponsors[id] ?? 0) + count;
+}
+const merged = { updatedAt: new Date().toISOString().slice(0, 10), opens: { ...prev.opens, ...counts }, sponsorClicks, sponsors };
 writeFileSync("content/metrics.json", JSON.stringify(merged, null, 2) + "\n", "utf8");
 const total = Object.values(merged.opens).reduce((a, b) => a + b, 0);
 console.log(`CHANGED: metrics.json updated, ${Object.keys(counts).length} bots with clicks, ${total} total in last 30d`);

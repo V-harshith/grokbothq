@@ -3,6 +3,7 @@ import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { news } from "@/lib/news";
 import { SITE } from "@/data/site";
+import { EmailLink } from "@/components/email-link";
 import { pageMetadata, breadcrumbsJsonLd, collectionPageJsonLd, absUrl } from "@/lib/seo";
 
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
@@ -70,9 +71,9 @@ export default function NewsPage() {
 
       <p className="mt-10 text-sm text-muted">
         Found Grok news we missed?{" "}
-        <a href={`mailto:${SITE.email}?subject=${encodeURIComponent("News tip")}`} className="text-accent hover:underline">
+        <EmailLink subject="News tip" className="text-accent hover:underline">
           Send the link
-        </a>
+        </EmailLink>
         . Items are added with a summary and always link back to the source.
       </p>
     </div>
