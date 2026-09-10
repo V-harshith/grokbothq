@@ -13491,5 +13491,98 @@
     "addedAt": "2026-09-10",
     "status": "published",
     "source": "https://grokdex.net/templates/engineer"
+  },
+  {
+    "slug": "rizalbot",
+    "name": "RIZALBOT",
+    "builder": {
+      "name": "AetaneoRizal",
+      "x": "AetaneoRizal"
+    },
+    "tagline": "On-device continuity for an offline-capable AI companion app",
+    "description": "Handles companion continuity on-device for an offline-capable AI app: ping/pong checks, feed operations, mind handoffs, and Function 0 gain-first decisions alongside a coordinator bot.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Af9XNmozBcRoZM85eylOW",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/AetaneoRizal/status/2097503692723515503"
+  },
+  {
+    "slug": "security-bot-midkernel",
+    "name": "Security Bot",
+    "builder": {
+      "name": "midkernel",
+      "x": "midkernel"
+    },
+    "tagline": "Scan a GitHub repo for vulnerabilities straight from chat",
+    "description": "By Midkernel. Point it at a GitHub repository from chat and it runs a sandboxed scan, returning a security report with the full log. Credits are consumed per run.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Ci1UvQUguruSmxhiGmMI6",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "integrations": [
+      "github"
+    ],
+    "source": "https://x.com/midkernel/status/2097502526975492312"
+  },
+  {
+    "slug": "macos-disk-cleaner",
+    "name": "MacOS Disk Cleaner",
+    "builder": {
+      "name": "MapachesAlexis",
+      "x": "MapachesAlexis"
+    },
+    "tagline": "Approve-only Mac cleanup for caches, simulators and bloat",
+    "description": "Scans your Mac against a rule catalog, shows what can go and how much space it frees, then deletes only what you approve: dev caches, simulators, browser data, and unused apps.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/Z0WBoK2sucsOAqAXRpRb8",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/MapachesAlexis/status/2097487811251237364"
+  },
+  {
+    "slug": "insidermillions-big-insider-stock-buys",
+    "name": "InsiderMillions: big insider stock buys",
+    "builder": {
+      "name": "rmarwah",
+      "x": "rmarwah"
+    },
+    "tagline": "Digest of $1M+ insider stock purchases",
+    "description": "A brief digest of large insider activity: officer and director stock buys over $1M. Not financial advice.",
+    "category": "money",
+    "url": "https://x.ai/bot/yaix3I-36pEloG1XpLVOb",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/rmarwah/status/2097559669338456090"
+  },
+  {
+    "slug": "termlock",
+    "name": "Termlock",
+    "builder": {
+      "name": "IslandMountain_",
+      "x": "IslandMountain_"
+    },
+    "tagline": "Draft-only freelance counter-offer desk",
+    "description": "Builds a counter-offer for freelance work against a market rate band and drafts the email for you. Draft-only: nothing is sent without your review.",
+    "category": "sales",
+    "url": "https://x.ai/bot/ChuFYfELJdp6iA-5ImjFU",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/IslandMountain_/status/2097082655762481446"
+  },
+  {
+    "slug": "distill-anyone",
+    "name": "Distill anyone",
+    "builder": {
+      "name": "kunchenguid",
+      "x": "kunchenguid"
+    },
+    "tagline": "Turn any public persona into a daily-updated chat bot",
+    "description": "Analyzes someone's public presence and distills it into a bot you can talk to, refreshed daily, with an option to mirror the result to a skill repo on GitHub. Works on yourself too.",
+    "category": "research",
+    "url": "https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt",
+    "addedAt": "2026-09-09",
+    "status": "published",
+    "source": "https://x.com/kunchenguid/status/2097577436624060439"
   }
 ]
