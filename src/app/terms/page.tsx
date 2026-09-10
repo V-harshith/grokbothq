@@ -20,6 +20,7 @@ export default function TermsPage() {
         kicker="Legal"
         title="Terms of use"
         description="Plain-language terms. The gist: use the site, verify before you rely on anything, and remember the bots live on xAI's platform, not here."
+        asH1
       />
 
       <div className="prose-block mt-10">

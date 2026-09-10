@@ -24,6 +24,7 @@ export default function GroupsPage() {
         kicker="Combos"
         title="Bots that work better together"
         description="Single-purpose bots are the unit - combos are the workflow. Each combo is a paste-outputs-forward pipeline we've tested end to end. They're starting ideas, not integrations: you are the transport layer."
+        asH1
       />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {combos.map((combo) => (

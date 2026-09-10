@@ -25,6 +25,23 @@ export function Footer() {
             </EmailLink>
           </div>
         </div>
+        <nav aria-label="Footer" className="mt-6 flex flex-wrap gap-x-5 gap-y-2">
+          <Link href="/privacy" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            Privacy
+          </Link>
+          <Link href="/terms" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            Terms
+          </Link>
+          <Link href="/integrations" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            Integrations
+          </Link>
+          <Link href="/stats" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            Stats
+          </Link>
+          <Link href="/groups" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+            Combos
+          </Link>
+        </nav>
         <p className="mt-[26px] font-mono text-[11.5px] tracking-[0.02em] text-muted">
           grokbothq.xyz · {stats.bots} bots indexed · every listing opened by hand
         </p>

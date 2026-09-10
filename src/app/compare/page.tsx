@@ -24,6 +24,7 @@ export default function ComparePage() {
         kicker="Compare"
         title="Grok bots vs everything else"
         description="Same idea, different platforms - or genuinely different tools? Each comparison gives the honest overlap, the real differences, and a verdict you can act on."
+        asH1
       />
       <div className="grid gap-4 sm:grid-cols-2">
         {comparePages.map((page) => (

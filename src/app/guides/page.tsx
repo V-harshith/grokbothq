@@ -24,6 +24,7 @@ export default function GuidesPage() {
         kicker="Learn"
         title="Grok bot guides, written by reviewers"
         description="Everything we've learned hand-testing hundreds of bots, distilled into practical guides. No fluff, no course upsells - each guide ends with something you can do today."
+        asH1
       />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {guides.map((guide) => (

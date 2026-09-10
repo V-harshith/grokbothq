@@ -24,6 +24,7 @@ export default function AboutPage() {
         kicker="About"
         title="One place for Grok bot users"
         description={`GrokBot HQ exists because the Grok bot ecosystem grew faster than anyone's ability to browse it. ${stats.bots} bots in, the thesis holds: human review beats algorithmic feeds.`}
+        asH1
       />
 
       <div className="prose-block">

@@ -20,6 +20,7 @@ export default function PrivacyPage() {
         kicker="Legal"
         title="Privacy policy"
         description="Short version: this site has no accounts, no logins, and nothing to sell about you. Here is exactly what touches your data."
+        asH1
       />
 
       <div className="prose-block mt-10">

@@ -27,6 +27,7 @@ export default function BotsPage() {
           kicker="Directory"
           title="Every Grok bot, reviewed by hand"
           description="Every listing below was opened, tested against real prompts, and checked against its description. Use the tabs to filter by category or search to find a specific job."
+          asH1
         />
         <div className="shrink-0 lg:pt-1">
           <RotatingAdSlot />

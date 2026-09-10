@@ -22,6 +22,7 @@ export default function SubmitPage() {
         kicker="Free listing"
         title="List your Grok bot"
         description="You built something useful. Put it in front of people searching for exactly that. Every submission is opened and tested against real prompts - reviews take about 48 hours."
+        asH1
       />
 
       <SubmitForm />

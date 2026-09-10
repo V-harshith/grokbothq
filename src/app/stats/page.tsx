@@ -56,6 +56,7 @@ export default function StatsPage() {
         kicker="Original data"
         title="State of Grok Bots"
         description={`Computed daily from the GrokBot HQ directory itself - every number traces back to verified listings. Last updated ${new Date(SITE.lastUpdated).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}.`}
+        asH1
       />
 
       {/* headline numbers */}

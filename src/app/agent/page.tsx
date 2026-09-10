@@ -58,6 +58,7 @@ export default function AgentPage() {
         kicker="For your bot"
         title="The directory your Grok Bot can read"
         description={`${stats.bots} hand-reviewed bots, served as plain JSON and RSS. No key, no account. Paste one of the routines below into your own Grok Bot and it can find listings, watch for new drops, and study real instructions - on your schedule.`}
+        asH1
       />
 
       <div className="space-y-10">

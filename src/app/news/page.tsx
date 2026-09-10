@@ -43,6 +43,7 @@ export default function NewsPage() {
         kicker="Ecosystem"
         title="Grok news, curated"
         description="Launches, model releases, and builder-tool moves - summarized in one line each, always linked to the original source."
+        asH1
       />
 
       <ol className="mt-4 divide-y divide-border">
