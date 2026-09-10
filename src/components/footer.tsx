@@ -45,6 +45,12 @@ export function Footer() {
         <p className="mt-[26px] font-mono text-[11.5px] tracking-[0.02em] text-muted">
           grokbothq.xyz · {stats.bots} bots indexed · every listing opened by hand
         </p>
+        <div className="mt-6">
+          <a href="https://toolfame.com/item/grokbot-hq" target="_blank" rel="noopener noreferrer" aria-label="Featured on Tool Fame">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="https://toolfame.com/badge-light.svg" alt="Featured on toolfame.com" loading="lazy" height={54} className="h-[54px] w-auto" />
+          </a>
+        </div>
       </div>
     </footer>
   );
