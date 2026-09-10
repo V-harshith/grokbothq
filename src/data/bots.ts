@@ -43,6 +43,26 @@ export function newThisWeek(count = 4): Bot[] {
     .slice(0, count);
 }
 
+export type BotPreview = Pick<
+  Bot,
+  "slug" | "name" | "builder" | "tagline" | "description" | "category" | "url" | "addedAt" | "installs" | "hue"
+>;
+
+export function previewBots(): BotPreview[] {
+  return bots.map((b) => ({
+    slug: b.slug,
+    name: b.name,
+    builder: b.builder,
+    tagline: b.tagline,
+    description: b.description,
+    category: b.category,
+    url: b.url,
+    addedAt: b.addedAt,
+    installs: b.installs,
+    hue: b.hue,
+  }));
+}
+
 export function topInstalledBots(count = 6): Bot[] {
   return [...bots]
     .filter((b) => typeof b.installs === "number")

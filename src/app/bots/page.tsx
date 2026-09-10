@@ -3,7 +3,7 @@ import { BotsBrowser } from "@/components/bots-browser";
 import { Breadcrumbs, SectionHeader } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
 import { RotatingAdSlot } from "@/components/rotating-ad-slot";
-import { bots } from "@/data/bots";
+import { bots, previewBots } from "@/data/bots";
 import { SITE } from "@/data/site";
 import { pageMetadata, botListJsonLd, breadcrumbsJsonLd, collectionPageJsonLd } from "@/lib/seo";
 
@@ -33,7 +33,7 @@ export default function BotsPage() {
           <RotatingAdSlot />
         </div>
       </div>
-      <BotsBrowser bots={bots} />
+      <BotsBrowser bots={previewBots()} />
       <section className="card mt-10 p-6" aria-label="Methodology">
         <h2 className="text-lg font-semibold">How the numbers are counted</h2>
         <dl className="mt-4 grid gap-4 text-sm leading-relaxed text-muted sm:grid-cols-2">

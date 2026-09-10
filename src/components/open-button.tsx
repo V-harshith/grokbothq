@@ -1,12 +1,12 @@
 "use client";
 
-import type { Bot } from "@/data/bots";
+import type { BotPreview } from "@/data/bots";
 
 /**
  * The Open in Grok button. Fires a Umami event per bot when analytics are
  * active, so install interest is measurable without any backend of our own.
  */
-export function OpenButton({ bot, small }: { bot: Bot; small?: boolean }) {
+export function OpenButton({ bot, small }: { bot: BotPreview; small?: boolean }) {
   function track() {
     const w = window as unknown as { umami?: { track: (name: string, data: object) => void } };
     try {
