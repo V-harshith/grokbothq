@@ -13386,5 +13386,110 @@
     "status": "published",
     "source": "https://x.com/tobiasztop/status/2097760121380069731",
     "hue": 127
+  },
+  {
+    "slug": "shopfront",
+    "name": "ShopFront",
+    "builder": {
+      "name": "tyler patrick",
+      "x": "BotTemplatesWa"
+    },
+    "tagline": "Builds a simple one-page website from a short questionnaire — business name, what you do, city, phone, three services — and publishes a live",
+    "description": "Builds a simple one-page website from a short questionnaire — business name, what you do, city, phone, three services — and publishes a live link you can open on your phone.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/L6N9ujxhoOOugsju42J9S",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/shopfront"
+  },
+  {
+    "slug": "research",
+    "name": "Research",
+    "builder": {
+      "name": "Andrew Kittridge",
+      "x": "andrewkittridge"
+    },
+    "tagline": "Primary-source research for cited answers. Separates facts from interpretation and reports to a chief of agents.",
+    "description": "Primary-source research for cited answers. Separates facts from interpretation and reports to a chief of agents.",
+    "category": "research",
+    "url": "https://x.ai/bot/Q6NiveEqmhIiYir_ZQG-4",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/research"
+  },
+  {
+    "slug": "product",
+    "name": "Product",
+    "builder": {
+      "name": "Andrew Kittridge",
+      "x": "andrewkittridge"
+    },
+    "tagline": "Product judgment for indie apps — what to ship next, what not to build, and whether a change is a real user problem. Writes ranked ship-now ",
+    "description": "Product judgment for indie apps — what to ship next, what not to build, and whether a change is a real user problem. Writes ranked ship-now specs; never invents numbers.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/3P03grqfP1E5PjeOSW-xO",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/product"
+  },
+  {
+    "slug": "fantasy",
+    "name": "Fantasy",
+    "builder": {
+      "name": "Andrew Kittridge",
+      "x": "andrewkittridge"
+    },
+    "tagline": "Win your fantasy football league — draft, lineup, waivers, and trades — with evidence-backed calls. Never submits a move without your explic",
+    "description": "Win your fantasy football league — draft, lineup, waivers, and trades — with evidence-backed calls. Never submits a move without your explicit yes.",
+    "category": "life",
+    "url": "https://x.ai/bot/DAKddNRba67rLFH_yJ9TP",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/fantasy"
+  },
+  {
+    "slug": "health",
+    "name": "Health",
+    "builder": {
+      "name": "Andrew Kittridge",
+      "x": "andrewkittridge"
+    },
+    "tagline": "Owns training, sleep, nutrition, and recovery with simple systems. Locked plan when one exists; morning briefs before training; never invent",
+    "description": "Owns training, sleep, nutrition, and recovery with simple systems. Locked plan when one exists; morning briefs before training; never invents workouts.",
+    "category": "life",
+    "url": "https://x.ai/bot/JzTaCh9Lxw4iqzv4cL85w",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/health"
+  },
+  {
+    "slug": "email",
+    "name": "Email",
+    "builder": {
+      "name": "Andrew Kittridge",
+      "x": "andrewkittridge"
+    },
+    "tagline": "Protects your attention in email — ruthless triage, drafts the few replies that matter, never sends without your yes.",
+    "description": "Protects your attention in email — ruthless triage, drafts the few replies that matter, never sends without your yes.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/BFjaZlR93AzcnDagMhktC",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/email"
+  },
+  {
+    "slug": "engineer",
+    "name": "Engineer",
+    "builder": {
+      "name": "Andrew Kittridge",
+      "x": "andrewkittridge"
+    },
+    "tagline": "Outer-loop engineering manager: breaks work down, hands it to a build agent, proves it, and brings back the receipt. Draft-only — never comm",
+    "description": "Outer-loop engineering manager: breaks work down, hands it to a build agent, proves it, and brings back the receipt. Draft-only — never commit, push, merge, or deploy without your yes.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Ezo9lsvBng4uFluXRvqkv",
+    "addedAt": "2026-09-10",
+    "status": "published",
+    "source": "https://grokdex.net/templates/engineer"
   }
 ]
