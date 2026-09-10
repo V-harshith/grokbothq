@@ -24,6 +24,7 @@ export default function FaqPage() {
         kicker="FAQ"
         title="Grok bot questions, answered plainly"
         description="Everything people ask us about Grok bots - no hedging, no fluff. If your question isn't here, email us and we'll answer it (and probably add it)."
+        asH1
       />
       <FaqList faqs={faqs} />
       <p className="mt-10 text-sm text-muted">

@@ -40,6 +40,7 @@ export default function UseCasesPage() {
       <SectionHeader
         title="How people are using Grok bots"
         description="Every example below is a real, listed bot paired with the X post where its builder put it to work. No hypotheticals - actual use, with a link you can check."
+        asH1
       />
 
       {grouped.map(({ category, items }) => (

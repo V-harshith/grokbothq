@@ -32,6 +32,7 @@ export default function IntegrationsPage() {
         kicker="Works with"
         title="Browse by integration"
         description={`${bots.length} listed bots, grouped by the tools they connect to. Every integration below is its own page listing the bots that use it.`}
+        asH1
       />
 
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

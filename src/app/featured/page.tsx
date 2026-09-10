@@ -50,6 +50,7 @@ export default function FeaturedPage() {
         kicker="Sponsorship"
         title="Be there at the moment of choice"
         description="People browsing this site are actively picking a bot to open. If your product helps them work smarter, a slot here puts you inside that decision. Sponsors are not limited to bots: developer tools, productivity apps, learning platforms - if it fits the audience, it fits."
+        asH1
       />
 
       <div className="grid gap-4 sm:grid-cols-2">

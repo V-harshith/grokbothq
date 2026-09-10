@@ -27,18 +27,24 @@ export function SectionHeader({
   description,
   link,
   linkLabel,
+  asH1,
 }: {
   kicker?: string;
   title: string;
   description?: string;
   link?: string;
   linkLabel?: string;
+  asH1?: boolean;
 }) {
   return (
     <div className="mb-8 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
       <div className="max-w-2xl">
         {kicker && <p className="kicker">{kicker}</p>}
-        <h2 className="mt-2 text-3xl md:text-4xl font-semibold tracking-tighter leading-[1.1]">{title}</h2>
+        {asH1 ? (
+          <h1 className="mt-2 text-3xl md:text-4xl font-semibold tracking-tighter leading-[1.1]">{title}</h1>
+        ) : (
+          <h2 className="mt-2 text-3xl md:text-4xl font-semibold tracking-tighter leading-[1.1]">{title}</h2>
+        )}
         {description && <p className="mt-3 text-[15px] leading-relaxed text-muted md:text-base">{description}</p>}
       </div>
       {link && (
