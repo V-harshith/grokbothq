@@ -1,5 +1,5 @@
 import Link from "next/link";
-import type { Bot } from "@/data/bots";
+import type { BotPreview } from "@/data/bots";
 import { botOpens } from "@/data/bots";
 import { OpenButton } from "./open-button";
 
@@ -13,7 +13,7 @@ function relDate(iso: string): string {
   return new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric" });
 }
 
-export function BotCard({ bot }: { bot: Bot }) {
+export function BotCard({ bot }: { bot: BotPreview }) {
   const fresh = Date.now() - new Date(bot.addedAt).getTime() < 7 * 86_400_000;
   const opens = botOpens(bot.slug);
   const installs = typeof bot.installs === "number" ? bot.installs : null;
