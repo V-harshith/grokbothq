@@ -13584,5 +13584,35 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "2a",
+    "name": "2A",
+    "builder": {
+      "name": "",
+      "x": "ChiefBeers"
+    },
+    "tagline": "Interstate carry trip planner for US gun owners with state-by-state reciprocity checklists",
+    "description": "Interstate carry trip planner for US gun owners. Builds state-by-state reciprocity checklists for a route. Shared as a Grok Bot template; listing verified live on x.ai on 2026-09-11.",
+    "category": "life",
+    "url": "https://x.ai/bot/N9eJfkuupWb3EpWFt76va",
+    "addedAt": "2026-09-11",
+    "status": "published",
+    "source": "https://x.com/ChiefBeers"
+  },
+  {
+    "slug": "throttle-token-officer",
+    "name": "Throttle · Token Officer",
+    "builder": {
+      "name": "",
+      "x": "james_ailton"
+    },
+    "tagline": "Watches a Grok Bot fleet for token burn and wasteful loops and reports without deleting anything",
+    "description": "Audits a Grok Bot fleet for token burn and wasteful loops, producing short reports. It flags waste but never deletes anything silently. Shared as a Grok Bot template; listing verified live on x.ai on 2026-09-11.",
+    "category": "money",
+    "url": "https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP",
+    "addedAt": "2026-09-11",
+    "status": "published",
+    "source": "https://x.com/james_ailton"
   }
 ]
