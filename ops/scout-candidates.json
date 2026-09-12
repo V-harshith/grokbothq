@@ -1,562 +1,702 @@
 [
   {
-    "name": "printerbot by Federico",
-    "bot_id": "nPwfPZq-OWf7_HDUH777R",
-    "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
-    "builder_x_handle": "viticci",
-    "one_line_desc": "Prints fleet-style 3D Grok Bot avatars — matte white head, black pill eyes, role props, domain background motifs. Hand it a bot name and role cue; it...",
-    "source_post_url": "https://x.com/viticci/status/2096287330940129357",
-    "found_at": "2026-09-05T19:00:26.570943Z",
+    "name": "Renewals Invoice Bot",
+    "bot_id": "-9hlUkQbsgE7oUyQvUPum",
+    "url": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+    "builder_x_handle": "compileinstyle",
+    "one_line_desc": "Pays renewals and invoices from its own computer inside a weekly ceiling it cannot exceed.",
+    "source_post_url": "https://x.com/compileinstyle/status/2097809676242956768",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "YR Mailchimp by Lovable",
-    "bot_id": "lcGQv8_I7UvJEWs3833LR",
-    "url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
+    "name": "Optima",
+    "bot_id": "-E8sQr0Yrd_oSQlTaAzWy",
+    "url": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+    "builder_x_handle": "TOATspace",
+    "one_line_desc": "Cleans stale rules and old chat clutter out of your bots so they stop following dead jobs.",
+    "source_post_url": "https://x.com/TOATspace/status/2098378374905565625",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "X402 Merchant",
+    "bot_id": "-miS0AF-lema7i8Z019Qp",
+    "url": "https://x.ai/bot/-miS0AF-lema7i8Z019Qp",
+    "builder_x_handle": "rrrkren",
+    "one_line_desc": "Stands up a paid x402 content store on Cloudflare Workers with a USDC paywall on Base.",
+    "source_post_url": "https://x.com/rrrkren/status/2093587465290514846",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "engineering"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Spenny",
+    "bot_id": "2yC0HrEtcJe-XWxMO-4-M",
+    "url": "https://x.ai/bot/2yC0HrEtcJe-XWxMO-4-M",
+    "builder_x_handle": "zilarwitch",
+    "one_line_desc": "Researches comfort purchases, picks the best option, and fits it into a budget you set.",
+    "source_post_url": "https://x.com/zilarwitch/status/2095992717805547980",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Claims",
+    "bot_id": "4c6rlyshWwOpTN_d9HNhm",
+    "url": "https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm",
+    "builder_x_handle": "ashen_one",
+    "one_line_desc": "Sweeps unclaimed property, settlements, and rebates, then walks the claim paperwork.",
+    "source_post_url": "https://x.com/ashen_one/status/2097657019755123132",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "CrowdReply - Finder",
+    "bot_id": "5HgM7_cL2xIikkIxLa_4v",
+    "url": "https://x.ai/bot/5HgM7_cL2xIikkIxLa_4v",
+    "builder_x_handle": "dawoodkhan254",
+    "one_line_desc": "Finds and verifies the people who can add your brand to a shortlisted editorial page.",
+    "source_post_url": "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Clip Bot X Saver",
+    "bot_id": "8-gwIOWrsPEjOvqZsT2PX",
+    "url": "https://x.ai/bot/8-gwIOWrsPEjOvqZsT2PX",
+    "builder_x_handle": "oddreport",
+    "one_line_desc": "Cuts captioned 16:9 podcast highlights from YouTube and files the clips where you want them.",
+    "source_post_url": "https://x.com/oddreport/status/2094463964394447328",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "creative"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Evie the San Francisco Events Finder",
+    "bot_id": "8_jxHdRiFMSC-Jqh66I2Q",
+    "url": "https://x.ai/bot/8_jxHdRiFMSC-Jqh66I2Q",
+    "builder_x_handle": "veenapanicker",
+    "one_line_desc": "Builds a personalized San Francisco event one-pager every Monday.",
+    "source_post_url": "https://x.com/veenapanicker/status/2096028530996068544",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "life"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Throttle",
+    "bot_id": "9-VBOKZkj7_QZoKDuZWIP",
+    "url": "https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP",
+    "builder_x_handle": "james_ailton",
+    "one_line_desc": "Token officer for a Grok Bot fleet: flags burn, wasteful loops, and duplicate watches.",
+    "source_post_url": "https://x.com/james_ailton/status/2097796886279098871",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "记忆管家",
+    "bot_id": "9Tq1f0aSurCP7UJHm98zy",
+    "url": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+    "builder_x_handle": "cgnot996",
+    "one_line_desc": "持续把各 Grok Bot 的设定与独立记忆备份到私有 Git 仓库。",
+    "source_post_url": "https://x.com/cgnot996/status/2098222795847315967",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Sales Orchestrator",
+    "bot_id": "AMFF7LG8gxX1bLIH-_D3A",
+    "url": "https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A",
+    "builder_x_handle": "idleshubh",
+    "one_line_desc": "Control tower for a sales bot team: routes each ask to one specialist and gates handoffs.",
+    "source_post_url": "https://x.com/idleshubh/status/2098352807858626561",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Citation Outreach - Chief of Staff",
+    "bot_id": "AloagFdLLL5SoNPyIszRb",
+    "url": "https://x.ai/bot/AloagFdLLL5SoNPyIszRb",
+    "builder_x_handle": "dawoodkhan254",
+    "one_line_desc": "Keeps a citation-outreach pipeline honest: weekly numbers and stalled items from the ops sheet.",
+    "source_post_url": "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Sarah Connor",
+    "bot_id": "Bw-JDTu5BhTFki1GhAy9k",
+    "url": "https://x.ai/bot/Bw-JDTu5BhTFki1GhAy9k",
+    "builder_x_handle": "liam_fallen",
+    "one_line_desc": "Risk manager for the owner: operational and business risk, tracked like an employee.",
+    "source_post_url": "https://x.com/liam_fallen/status/2094782529555313128",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "assistants"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Marketing Head by Divyansh",
+    "bot_id": "GUz8QMB4I9RQzIDiIwSOB",
+    "url": "https://x.ai/bot/GUz8QMB4I9RQzIDiIwSOB",
     "builder_x_handle": null,
-    "one_line_desc": "Drafts and sends a Young Republicans club monthly member email and meeting-night reminder in Mailchimp. One fact per section, club voice, first-of-month...",
-    "source_post_url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
-    "found_at": "2026-09-05T19:00:26.570939Z",
+    "one_line_desc": "Owns social strategy, voice, and cadence, and posts nothing without confirmation.",
+    "source_post_url": "https://x.ai/bot/GUz8QMB4I9RQzIDiIwSOB",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Period cycles Tracker by Lovable",
-    "bot_id": "e-l7rGeYuc_cVuydcNvBc",
-    "url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
+    "name": "Trial Reels",
+    "bot_id": "HktaB2ID5y5djGCrRAxvf",
+    "url": "https://x.ai/bot/HktaB2ID5y5djGCrRAxvf",
+    "builder_x_handle": "ericosiu",
+    "one_line_desc": "Turns long video into trial Reels, then reports which ones beat the day's median.",
+    "source_post_url": "https://x.com/ericosiu/status/2095207617610256720",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "creative"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Outreach Closer",
+    "bot_id": "IOSFiZskNs_IB7p0gys4R",
+    "url": "https://x.ai/bot/IOSFiZskNs_IB7p0gys4R",
+    "builder_x_handle": "dawoodkhan254",
+    "one_line_desc": "Sorts publisher replies and drafts approve-or-decline offer cards, never prices.",
+    "source_post_url": "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "dr eggbot saver edition",
+    "bot_id": "K2a-eoP273zFu1LO4UZ42",
+    "url": "https://x.ai/bot/K2a-eoP273zFu1LO4UZ42",
+    "builder_x_handle": "oddreport",
+    "one_line_desc": "Designs focused Grok Bots from a few questions, with credit-saving image handling built in.",
+    "source_post_url": "https://x.com/oddreport/status/2094463964394447328",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "assistants"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Kids Corner",
+    "bot_id": "KINOQ4CQiKcP57kjuYGps",
+    "url": "https://x.ai/bot/KINOQ4CQiKcP57kjuYGps",
+    "builder_x_handle": "tommydotkeeley",
+    "one_line_desc": "A one-sheet daily newspaper for kids 12 and under, printed front and back.",
+    "source_post_url": "https://x.com/tommydotkeeley/status/2098065976033984798",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "life"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Citation Outreach Writer",
+    "bot_id": "L4sWZ2981T7YzegQffkVz",
+    "url": "https://x.ai/bot/L4sWZ2981T7YzegQffkVz",
+    "builder_x_handle": "dawoodkhan254",
+    "one_line_desc": "Writes short mention-outreach emails and loads them as drafts in a Smartlead sequence.",
+    "source_post_url": "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "2A",
+    "bot_id": "N9eJfkuupWb3EpWFt76va",
+    "url": "https://x.ai/bot/N9eJfkuupWb3EpWFt76va",
+    "builder_x_handle": "ChiefBeers",
+    "one_line_desc": "Plans interstate trips for US gun owners with state-by-state carry rules.",
+    "source_post_url": "https://x.com/ChiefBeers/status/2097781972038811986",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "life"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Shortform Scaler",
+    "bot_id": "NA1zDLMoKJZVcjl3mZ2tT",
+    "url": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+    "builder_x_handle": "ericosiu",
+    "one_line_desc": "Turns one long podcast into a daily short-form packet: four clips proposed, two shipped.",
+    "source_post_url": "https://x.com/ericosiu/status/2095207617610256720",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "creative"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "CTO",
+    "bot_id": "N_ziMli8oxzdFJgTKV3DV",
+    "url": "https://x.ai/bot/N_ziMli8oxzdFJgTKV3DV",
     "builder_x_handle": null,
-    "one_line_desc": "Tracks your period without getting faked out by spotting. Logs real Day 1 vs false-start bleeding, predicts the next one, and checks in on pre-period...",
-    "source_post_url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
-    "found_at": "2026-09-05T19:00:26.570935Z",
+    "one_line_desc": "Level 1 CTO for a personal bot org: turns direction into working software.",
+    "source_post_url": "https://x.ai/bot/N_ziMli8oxzdFJgTKV3DV",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "engineering"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Callsheet by DBCrypto",
-    "bot_id": "d-KSCbVm1lXffGeVoFTxJ",
-    "url": "https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ",
-    "builder_x_handle": "Shoshkin",
-    "one_line_desc": "Fleet routine board for Grok Bot: morning schedule sheet, collision flags, and quiet alerts when a routine fails, misses, or never ran. Built for people...",
-    "source_post_url": "https://x.com/Shoshkin/status/2096297907129311358",
-    "found_at": "2026-09-05T19:00:26.570931Z",
+    "name": "Talent Bot",
+    "bot_id": "P2cMMcajyHuHZ4OsZOWfe",
+    "url": "https://x.ai/bot/P2cMMcajyHuHZ4OsZOWfe",
+    "builder_x_handle": "ericosiu",
+    "one_line_desc": "Inbound recruiting reviewer that scores applicants against a frozen role pack.",
+    "source_post_url": "https://x.com/ericosiu/status/2095207617610256720",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "dr eggbot",
-    "bot_id": "_jOdbfkB16zxu7MRcmReE",
-    "url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
-    "builder_x_handle": "poteto",
-    "one_line_desc": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job,...",
-    "source_post_url": "https://x.com/poteto/status/2093392701005946931",
-    "found_at": "2026-09-05T19:00:26.570927Z",
+    "name": "基础设施和api接入",
+    "bot_id": "PqgO8EMZjN_SUdcvEmsRF",
+    "url": "https://x.ai/bot/PqgO8EMZjN_SUdcvEmsRF",
+    "builder_x_handle": "Valstry",
+    "one_line_desc": "接共用 LLM API、配好密钥，并创建职责清晰的 Agent。",
+    "source_post_url": "https://x.com/Valstry/status/2098459028732911761",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "engineering"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Serenity 티커 알림 by krong",
-    "bot_id": "ZYVnoJMU4earifCeQzJdQ",
-    "url": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
-    "builder_x_handle": "Krongggggg",
-    "one_line_desc": "@aleabitoreddit의 $TICKER 매수·롱·추가매수 의견을 FxTwitter로 15분마다 확인해 이 채팅에만 알립니다. X API 크레딧 0. Not investment advice.",
-    "source_post_url": "https://x.com/Krongggggg/status/2096241494529392945",
-    "found_at": "2026-09-05T19:00:26.570923Z",
+    "name": "inbox manager",
+    "bot_id": "Q4Ll-gU_l-lvvpxq-quwr",
+    "url": "https://x.ai/bot/Q4Ll-gU_l-lvvpxq-quwr",
+    "builder_x_handle": "joshkim",
+    "one_line_desc": "Read-only first line of defense on email, Slack, and DMs: surfaces the few that matter.",
+    "source_post_url": "https://x.com/joshkim/status/2095633918611636627",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Article Access by Don",
-    "bot_id": "YenfJofScFkEnwvOQiq6k",
-    "url": "https://x.ai/bot/YenfJofScFkEnwvOQiq6k",
-    "builder_x_handle": "UroDonMD",
-    "one_line_desc": "Paste a DOI, PMID, or citation. Gets you the open-access copy, your library proxy link, and the publisher page — in that order. Never invents access.",
-    "source_post_url": "https://x.com/UroDonMD/status/2096281595212640691",
-    "found_at": "2026-09-05T19:00:26.570918Z",
+    "name": "intel scout",
+    "bot_id": "TuRdVfJIJ2t0O8-jQm4ah",
+    "url": "https://x.ai/bot/TuRdVfJIJ2t0O8-jQm4ah",
+    "builder_x_handle": "joshkim",
+    "one_line_desc": "Twice-daily brief of what you saw and missed across inbox, Slack, and meeting notes.",
+    "source_post_url": "https://x.com/joshkim/status/2095633918611636627",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Internship Finder by Rushmore",
-    "bot_id": "YTNSFtHdol3LvuZeAmcXZ",
-    "url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
+    "name": "Sponsorship Deal Desk",
+    "bot_id": "bFrGNsUsXpsIfnCIUEvKy",
+    "url": "https://x.ai/bot/bFrGNsUsXpsIfnCIUEvKy",
+    "builder_x_handle": "ericosiu",
+    "one_line_desc": "Qualifies inbound creator sponsorships and holds exceptions for a human.",
+    "source_post_url": "https://x.com/ericosiu/status/2095207617610256720",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "The Chief",
+    "bot_id": "dlSO3hj__nTZlJwpQB6oP",
+    "url": "https://x.ai/bot/dlSO3hj__nTZlJwpQB6oP",
+    "builder_x_handle": "PolymarketPoke",
+    "one_line_desc": "Chief of staff for a multi-bot roster: audits skills, fixes seats, routes intel.",
+    "source_post_url": "https://x.com/PolymarketPoke/status/2098257428244783508",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "assistants"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Gen X Saver",
+    "bot_id": "eIdc-PoIqkMb99CUwr0EQ",
+    "url": "https://x.ai/bot/eIdc-PoIqkMb99CUwr0EQ",
+    "builder_x_handle": "oddreport",
+    "one_line_desc": "Routes image, video, voice, and long-script jobs to the cheapest machine that can run them.",
+    "source_post_url": "https://x.com/oddreport/status/2094463964394447328",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "x402 Marketplace Operator",
+    "bot_id": "gC5Kmx6p0ALPtnN7W6Xou",
+    "url": "https://x.ai/bot/gC5Kmx6p0ALPtnN7W6Xou",
+    "builder_x_handle": "OmgawdMadeit",
+    "one_line_desc": "Packages skills and bots into listing files for LVL and public share.",
+    "source_post_url": "https://x.com/OmgawdMadeit/status/2096212980295684555",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "OweNo",
+    "bot_id": "gDBMpvw8W4H3KqliukLty",
+    "url": "https://x.ai/bot/gDBMpvw8W4H3KqliukLty",
+    "builder_x_handle": "SuddenlyJon",
+    "one_line_desc": "Pays down debt on purpose: statements first, bank access only after you approve.",
+    "source_post_url": "https://x.com/SuddenlyJon/status/2096233136434844051",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "CrowdReply - Scout",
+    "bot_id": "gDvJh38CGXP1Jumemg4d-",
+    "url": "https://x.ai/bot/gDvJh38CGXP1Jumemg4d-",
+    "builder_x_handle": "dawoodkhan254",
+    "one_line_desc": "Collects the pages AI engines cite for buying questions, then shortlists pitchable ones.",
+    "source_post_url": "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "research"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "Announcr Voice",
+    "bot_id": "h-Vxewn8CGFLx6qrzNUJJ",
+    "url": "https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ",
+    "builder_x_handle": "the_davey",
+    "one_line_desc": "Reads bot updates out loud through your speakers from an Announcr hub.",
+    "source_post_url": "https://x.com/the_davey/status/2098211142694764750",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
+  },
+  {
+    "name": "GrokHub Bot",
+    "bot_id": "hU1hS8Ug9bx3B4C2vUX91",
+    "url": "https://x.ai/bot/hU1hS8Ug9bx3B4C2vUX91",
     "builder_x_handle": null,
-    "one_line_desc": "Finds high-quality internships and drafts short, personal outreach emails. Built for students and early builders who want human-sounding cold outreach,...",
-    "source_post_url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
-    "found_at": "2026-09-05T19:00:26.570914Z",
+    "one_line_desc": "Suggests one new Grok Bot to try, matched to what you care about.",
+    "source_post_url": "https://www.grokhub.io/",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "assistants"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "登記とりよせ by sat0xshi",
-    "bot_id": "WAQAF0bSQTRrrTb1q-J9Y",
-    "url": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
-    "builder_x_handle": "sat0xshi",
-    "one_line_desc": "かんたん登記で履歴事項全部証明書を申請〜支払い〜郵送待ちまで、日本語で案内する。日本の会社・個人向け。",
-    "source_post_url": "https://x.com/sat0xshi/status/2096207930043629670",
-    "found_at": "2026-09-05T19:00:26.570910Z",
+    "name": "Bot Boss",
+    "bot_id": "i336HYHYVhW2aMQjXhbxF",
+    "url": "https://x.ai/bot/i336HYHYVhW2aMQjXhbxF",
+    "builder_x_handle": "joshkim",
+    "one_line_desc": "One stream for your bot team: routes, quality-gates, and consolidates reports.",
+    "source_post_url": "https://x.com/joshkim/status/2095633918611636627",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "assistants"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Tesla Fleet Oracle by Joseph",
-    "bot_id": "TC4HAdm7oBVo-oAouU8iw",
-    "url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
-    "builder_x_handle": null,
-    "one_line_desc": "Read-only Tesla Trek / XYO quest briefs. Does not lock, unlock, honk, or send any Fleet Command. Ask it to command a car and it answers BLOCKED.",
-    "source_post_url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
-    "found_at": "2026-09-05T19:00:26.570899Z",
+    "name": "Clickbait skipper",
+    "bot_id": "i8WsjKB8KRL-kQ25VPwaB",
+    "url": "https://x.ai/bot/i8WsjKB8KRL-kQ25VPwaB",
+    "builder_x_handle": "S_Padival",
+    "one_line_desc": "Handed a YouTube or podcast link, it returns the point in the fewest tokens.",
+    "source_post_url": "https://x.com/S_Padival/status/2098227132300452236",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Multi-model consensus by Austen",
-    "bot_id": "PrgTl_LbGkXg5d2IcdLvc",
-    "url": "https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc",
-    "builder_x_handle": "Shoshkin",
-    "one_line_desc": "Runs Claude Code, Codex, and Grok on the same hard question — one-shot sanity checks or multi-round debate until they agree. Built for forecasts,...",
-    "source_post_url": "https://x.com/Shoshkin/status/2096239397058265490",
-    "found_at": "2026-09-05T19:00:26.570895Z",
+    "name": "Billionairebot",
+    "bot_id": "jq-BFHkNoiJEtieswOYTc",
+    "url": "https://x.ai/bot/jq-BFHkNoiJEtieswOYTc",
+    "builder_x_handle": "ChrisJBakke",
+    "one_line_desc": "Solves annoyances the outsourced way: finds the paid path and the vendor who does it.",
+    "source_post_url": "https://x.com/ChrisJBakke/status/2098168461772079333",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "life"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "SmallPE-Managing-Partner by Abhishek",
-    "bot_id": "Opp17hS9gyOg8xEsQIcU8",
-    "url": "https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8",
-    "builder_x_handle": "parolkar",
-    "one_line_desc": "SmallPE is a community initiative started in June 2025, backed by 2,000+ members at https://smallpe.com who are collaboratively building what an...",
-    "source_post_url": "https://x.com/parolkar/status/2096272058653217010",
-    "found_at": "2026-09-05T19:00:26.570890Z",
+    "name": "Albert",
+    "bot_id": "jtFHKaEKzEZ0zSDVCl6BP",
+    "url": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+    "builder_x_handle": "Skyler_Miller56",
+    "one_line_desc": "Reads municipal police union contracts and builds comparable wage and benefit summaries.",
+    "source_post_url": "https://x.com/Skyler_Miller56/status/2098360124494516261",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "research"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Scrub Gate Public by @suddenlyjon",
-    "bot_id": "OQPXyBkjMhSEZxeZiE36b",
-    "url": "https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Public twin before publish. Gates any Public republish: audit the private bot, stand up a scrubbed `{Name} Public` twin, and pack from that twin only —...",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2096241125463925169",
-    "found_at": "2026-09-05T19:00:26.570886Z",
+    "name": "Quotewise Daily",
+    "bot_id": "kmmBn74qwBr9lgedW4naf",
+    "url": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+    "builder_x_handle": "quotewiser",
+    "one_line_desc": "Daily quote desk: one stable pick, semantic search, and attribution checks.",
+    "source_post_url": "https://x.com/quotewiser/status/2097819326506008642",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "creative"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "讲解视频调度台 by 独孤",
-    "bot_id": "OFLbKRObiwj-tH6BTVsMA",
-    "url": "https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA",
-    "builder_x_handle": "dugujun12",
-    "one_line_desc": "讲解视频四件套调度台：你丢语音 demo、PPT、可选虚拟形象和带翻页文案，它调度配音与成片，交付字幕对齐的 1080p。适合口播切片与产品介绍。",
-    "source_post_url": "https://x.com/dugujun12/status/2095774455922614753",
-    "found_at": "2026-09-05T19:00:26.570881Z",
+    "name": "slack radar",
+    "bot_id": "m4WfJ0ODD0O1runkfq0Ak",
+    "url": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+    "builder_x_handle": "parkersmith",
+    "one_line_desc": "Read-only Slack watcher for your mentions and chosen keywords, filtered hard.",
+    "source_post_url": "https://x.com/parkersmith/status/2097827032646529500",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Overheard",
-    "bot_id": "NIEguoGUjA648fUPle8F5",
-    "url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
-    "builder_x_handle": "lennysan",
-    "one_line_desc": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something...",
-    "source_post_url": "https://x.com/greg_carbon/status/2096037601010442622",
-    "found_at": "2026-09-05T19:00:26.570876Z",
+    "name": "参谋长",
+    "bot_id": "nSzhldgXfVuC93CjjQptM",
+    "url": "https://x.ai/bot/nSzhldgXfVuC93CjjQptM",
+    "builder_x_handle": "0xlangeai",
+    "one_line_desc": "把任务转交给 Cursor Cloud Agent，并把结果原样回传。",
+    "source_post_url": "https://x.com/0xlangeai/status/2098313794179207552",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "assistants"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "dr eggbot by Brandon",
-    "bot_id": "McCLpiHvnIIGVZDaIPXIW",
-    "url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
-    "builder_x_handle": null,
-    "one_line_desc": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them. Coding bots get the poteto-mode bar; non-coding bots get one job,...",
-    "source_post_url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
-    "found_at": "2026-09-05T19:00:26.570871Z",
+    "name": "Fed + X Brief",
+    "bot_id": "ojDgaVLzjbxpPV74VzQrM",
+    "url": "https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM",
+    "builder_x_handle": "0xashrk",
+    "one_line_desc": "Weekday Fed and markets brief for X posters, plus when-to-post judgement calls.",
+    "source_post_url": "https://x.com/0xashrk/status/2098379880375124215",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "The Bitcoin Layer by Thomas",
-    "bot_id": "LS2cnDAX30vNkWNb1Rv_7",
-    "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
-    "builder_x_handle": "Tferriere",
-    "one_line_desc": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English...",
-    "source_post_url": "https://x.com/Tferriere/status/2095770015723393337",
-    "found_at": "2026-09-05T19:00:26.570866Z",
+    "name": "LinkedIn Watch",
+    "bot_id": "qbBlMjsKq-1coFvbmnEaR",
+    "url": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+    "builder_x_handle": "AnnouncrFM",
+    "one_line_desc": "Scheduled LinkedIn digest covering feed, DMs, invites, views, and jobs.",
+    "source_post_url": "https://x.com/AnnouncrFM/status/2098210496356680113",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "productivity"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "teslapilot by UCDOps",
-    "bot_id": "CJayoQDcSkhNlHsBqsy1s",
-    "url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
-    "builder_x_handle": null,
-    "one_line_desc": "All things Tesla — news desk for owners and fans. Digests software updates, offers, Superchargers, Cybercab/Robotaxi, Powerwall, and top X creators....",
-    "source_post_url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
-    "found_at": "2026-09-05T19:00:26.570860Z",
+    "name": "Options Premium Desk",
+    "bot_id": "qi4tUvKkQelzwsV2siUwR",
+    "url": "https://x.ai/bot/qi4tUvKkQelzwsV2siUwR",
+    "builder_x_handle": "JCChristopher",
+    "one_line_desc": "Options desk with a 45 to 60 day put-credit sleeve and a premarket flow briefing.",
+    "source_post_url": "https://x.com/JCChristopher/status/2096455411956126118",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "UCD Bot by UCDOps",
-    "bot_id": "An0FCP00zUniB7QdfedQX",
-    "url": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
-    "builder_x_handle": "ucdco",
-    "one_line_desc": "Full-pipeline UCD teammate grounded in NN/g, GOV.UK GDS Service Manual, and DDaT. Orchestrates discovery to live with draft artefacts, evidence trails,...",
-    "source_post_url": "https://x.com/ucdco/status/2096249819291336907",
-    "found_at": "2026-09-05T19:00:26.570852Z",
+    "name": "Personal Trainer",
+    "bot_id": "t9TIKE_igItEQd6tOyyRd",
+    "url": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+    "builder_x_handle": "nathanglass",
+    "one_line_desc": "Logs meals and workouts for one client, then compiles a weekly report for the trainer.",
+    "source_post_url": "https://x.com/nathanglass/status/2097769379274326161",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "life"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Online Identity Bot by Greg",
-    "bot_id": "4VEl6mp1QrsvvjTFR-qE_",
-    "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
-    "builder_x_handle": "gkamstra",
-    "one_line_desc": "Daily search-and-log bot for personal online presence. Finds new public listings across search engines, categorizes them, and reports counts to a...",
-    "source_post_url": "https://x.com/gkamstra/status/2095837272687964512",
-    "found_at": "2026-09-05T19:00:26.570787Z",
+    "name": "Tony Montana",
+    "bot_id": "tbuow4aHucVEAgNbF7qzU",
+    "url": "https://x.ai/bot/tbuow4aHucVEAgNbF7qzU",
+    "builder_x_handle": "liam_fallen",
+    "one_line_desc": "Procurement manager that owns buying across software, services, equipment, and subscriptions.",
+    "source_post_url": "https://x.com/liam_fallen/status/2094782525256212626",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
     "verified": true,
     "categories": [
-      "Assistants"
-    ]
+      "money"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "After I Post",
-    "bot_id": "WfsP3VQPxB46wzL4nMwGN",
-    "url": "https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN",
-    "builder_x_handle": "hnshah",
-    "one_line_desc": "Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
+    "name": "Disk Janitor",
+    "bot_id": "v9qOXYXnHXvr_XN7fPZIE",
+    "url": "https://x.ai/bot/v9qOXYXnHXvr_XN7fPZIE",
+    "builder_x_handle": "chiefjeeb",
+    "one_line_desc": "Frees disk by clearing dead git worktrees and clones, and reports the GB recovered.",
+    "source_post_url": "https://x.com/chiefjeeb/status/2097762870595342442",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "engineering"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "X Scout",
-    "bot_id": "4iz8VYK_cG482_vIA8WR4",
-    "url": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
-    "builder_x_handle": "ericzakariasson",
-    "one_line_desc": "Weekday scout for Grok Bot use cases on X. Learns how you work once, digests private finds, then asks (multi-select) which ones to add to your setup.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
+    "name": "Outreach Agent",
+    "bot_id": "wexM_NUvEByvLwrnTR_F3",
+    "url": "https://x.ai/bot/wexM_NUvEByvLwrnTR_F3",
+    "builder_x_handle": "ericosiu",
+    "one_line_desc": "Daily warm-outreach operator: a small evidence-backed queue, nothing sent without you.",
+    "source_post_url": "https://x.com/ericosiu/status/2095207617610256720",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Hermes Bridge",
-    "bot_id": "EFC0e7EDDAC32LxnNyJzP",
-    "url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
-    "builder_x_handle": "alltheputs",
-    "one_line_desc": "Bridge to your Hermes Agent so you can talk, collaborate, and delegate — including coaching Hermes install and API setup when needed.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
+    "name": "Signal Prospector",
+    "bot_id": "wsbOPOkHApmIYLrErnC4e",
+    "url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+    "builder_x_handle": "kristaletz",
+    "one_line_desc": "Ranks CRM and product accounts showing fresh intent, then drafts the first touch.",
+    "source_post_url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   },
   {
-    "name": "Human browser",
-    "bot_id": "hPX3NYTSIW6t3POJuas_m",
-    "url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
-    "builder_x_handle": "Pakhaliuk",
-    "one_line_desc": "Browses any captcha-sensitive site like a person: one sequential session, natural mouse and scroll, variable dwell, no bursts. Stops on captcha....",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Mission Control",
-    "bot_id": "GGnJOdH3hv321H2QES9UE",
-    "url": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet. After install it walks you through a required one-time Chrome Load unpacked...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Devin",
-    "bot_id": "RwNXRkVfIUpxKV6jeXRsR",
-    "url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
-    "builder_x_handle": "naz3eh",
-    "one_line_desc": "Hands coding work to Devin through your own remote MCP deploy. Create sessions, check progress, and send follow-ups from chat.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Vigil",
-    "bot_id": "SJYRJy2TnPB_NNqtnaJTJ",
-    "url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Lead of the Sweep Desk. Paste a lure or transcript for a field brief — does not build attacks. One template stands up the full Sweep Desk and the meme...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "KLO",
-    "bot_id": "yW-Q1yis7-VCNKbeJ6g6Z",
-    "url": "https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Name a product and get a TikTok creative-strategy email: 100 organic (non-partner) videos, sentiment, popular-comment insights, and video ideas.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Kimi",
-    "bot_id": "oBK8ft9f4D723aXeZJuCm",
-    "url": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Turns business podcasts and YouTube episodes into short, no-fluff cheat sheets of advice you can actually run. Drop a link and get Core idea → Do this →...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Herbet",
-    "bot_id": "zFDmYYQKE8dUS9Z8r2LAd",
-    "url": "https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd",
-    "builder_x_handle": "derek_all_gusto",
-    "one_line_desc": "HubSpot how-to expert for Solutions Partner work. Answers which object, setting, and click; defaults to the client portal (not the agency CRM); prefers...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Token Maxxing",
-    "bot_id": "f6srhE3vkMevccaw8DLPf",
-    "url": "https://x.ai/bot/f6srhE3vkMevccaw8DLPf",
-    "builder_x_handle": "iggynore",
-    "one_line_desc": "Routes builds so Grok Bot limits don’t die first. Makes a default 20/30/50 vest between Bot, Build and Cursor limits. Nudges enrolled builders with...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Colliebot",
-    "bot_id": "UKQArSeY_eDxd26k_ZdoD",
-    "url": "https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD",
-    "builder_x_handle": "charlswfeelings",
-    "one_line_desc": "A sheepdog for Grok Bot fleets. Audits other bots for drift, slop, and scope creep, proposes tighter descriptions, and never applies a change until you...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "CPA助手",
-    "bot_id": "hrfWPhRRr-DEMCKEF-WyA",
-    "url": "https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA",
-    "builder_x_handle": "licoycn",
-    "one_line_desc": "在云电脑上部署与维护 CLIProxyAPI：安装升级、Cloudflare 正式隧道、公网保活，以及日常功能维护。",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Rude Bot",
-    "bot_id": "7z0WNYmnERTnXKmxI12gB",
-    "url": "https://x.ai/bot/7z0WNYmnERTnXKmxI12gB",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Extremely rude, dismissive comedy bot — roasts your ask and refuses to be helpful. Tired group-chat...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "LetsMove Agent",
-    "bot_id": "4T3OhOtwYn4L3j_TpOaRL",
-    "url": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
-    "builder_x_handle": "ixdesigner",
-    "one_line_desc": "A real-estate search assistant. Agrees countries, areas, and home preferences at first setup, then finds matching listings and emails quiet digests on...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Court",
-    "bot_id": "mA4Ik2mIduPANDqFVmVMX",
-    "url": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
-    "builder_x_handle": "DonBonStovi",
-    "one_line_desc": "You dump the thread. Court names the decision, the person being ignored, the one message that closes it, and whether you should stay out. It never...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "OMNI Grok-Bot",
-    "bot_id": "HAIGA0nUYgv85CtV5SMWa",
-    "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
-    "builder_x_handle": "omni_puzzler",
-    "one_line_desc": "v1.0.1-moral. Geometry 1·3·5·7·11·13. PAINE gardens /10 + 13 values /10. Prayer, tool not throne, privacy wall. Hex = structure.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Tolstoy",
-    "bot_id": "42Clq7Vdn2X7zcwJ9OGxR",
-    "url": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Conversational Tolstoy embodiment: moral attention, truth-telling, simplicity, with a weekly necessary-vs-vanity ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706995507675535",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Woolf",
-    "bot_id": "4fP33DHTBJudWglJyeMB_",
-    "url": "https://x.ai/bot/4fP33DHTBJudWglJyeMB_",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Virginia Woolf embodiment: consciousness, rooms, time, and the women's work of mind, via her major novels and essays.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707008958812527",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dostoyevsky",
-    "bot_id": "DR1LNk5p_M_7hv_wJfTPu",
-    "url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Dostoyevsky as living conscience: guilt, freedom, redemption in conversational form.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707028177142220",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shakespeare",
-    "bot_id": "E8XC3NO5V_u63vWoHxJF0",
-    "url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Shakespeare as living stage: interactive embodiment of the plays' spirit for conversation and performance.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707015376081147",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Poe",
-    "bot_id": "EcUpzABnh3MfZQTN7inmP",
-    "url": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Poe's macabre reason: detective logic, dread, beauty in darkness, mysteries and a midnight riddle ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706986187948143",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shelley",
-    "bot_id": "SzGYytJglwB_dqRt5OaTO",
-    "url": "https://x.ai/bot/SzGYytJglwB_dqRt5OaTO",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mary Shelley's gothic responsibility: creation, hubris, care for what you make, in conversation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707002352832766",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dickinson",
-    "bot_id": "UUZnEDx7jk_nNkkLJTvfo",
-    "url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Emily Dickinson's compressed voltage: death, awe, small eternity, with a dawn one-poem-spark ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706973273661917",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Twain",
-    "bot_id": "_OV6ItDEAbbpvi3qg3VKH",
-    "url": "https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mark Twain's American irony: river sense, fraud-spotting, humor with teeth, plus a Saturday yarn ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706979582005657",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Austen",
-    "bot_id": "c8sA8W1YcoRaYu5vjYFoa",
-    "url": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Austen as living wit: conversational embodiment of the novels' irony and social observation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707021822742699",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Kafka",
-    "bot_id": "ewFkIRV929jhuW5mHqL_a",
-    "url": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Kafka's clarity inside absurd systems: guilt without charge, doors that won't open, with a Thursday bureaucracy parable.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706966038556867",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "I'm not old yet",
-    "bot_id": "izlQpnudtxbmDRKr7GvRs",
-    "url": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Drafts comedy memes aimed at AARP age-bait marketing, draft-only until you say send; punches at corporate mailers, not elders.",
-    "source_post_url": "https://x.com/AdventureNLearn/status/2097741271456776259",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Meeting prep",
-    "bot_id": "Hd3GphmPZ4aHWyFiBSmu5",
-    "url": "https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Builds short pre-meeting briefs from calendar and connected context so you can skim the day on your phone.",
-    "source_post_url": "https://x.com/scottxmetcalf/status/2097690576476901450",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Webhook Guide",
-    "bot_id": "Q__pHX8RB4jsF5U3JtC66",
-    "url": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
-    "builder_x_handle": "tobiasztop",
-    "one_line_desc": "Explains that Grok Bot can set up webhook routines and walks through triggering them step by step; asks which platform to connect.",
-    "source_post_url": "https://x.com/tobiasztop/status/2097760121380069731",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
+    "name": "CrowdReply - Watcher",
+    "bot_id": "xGvgD-GCpkaWCp-akkVj7",
+    "url": "https://x.ai/bot/xGvgD-GCpkaWCp-akkVj7",
+    "builder_x_handle": "dawoodkhan254",
+    "one_line_desc": "Verifies placements went live and tracks whether AI answers name the brand.",
+    "source_post_url": "https://x.com/dawoodkhan254/status/2094451439573881015",
+    "source_note": "verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "verified": true,
+    "categories": [
+      "sales"
+    ],
+    "found_at": "2026-09-11T18:54:08+00:00"
   }
 ]
