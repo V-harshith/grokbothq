@@ -13584,5 +13584,425 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "coin-bot-kr-ucu",
+    "name": "코인봇",
+    "builder": {
+      "name": "BBBang9900",
+      "x": "BBBang9900"
+    },
+    "tagline": "빗썸에서 코인을 자율로 매매하는 봇. 메이저 우선·적은 거래·손익 밴드로 자본을 지키며, 5분마다 포지션을 감시한다.",
+    "description": "빗썸에서 코인을 자율로 매매하는 봇. 메이저 우선·적은 거래·손익 밴드로 자본을 지키며, 5분마다 포지션을 감시한다.",
+    "category": "money",
+    "url": "https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "side-hustle-bot-kr-g17",
+    "name": "부업봇",
+    "builder": {
+      "name": "BBBang9900",
+      "x": "BBBang9900"
+    },
+    "tagline": "디지털 상품으로 부업 매출을 만드는 봇.",
+    "description": "디지털 상품으로 부업 매출을 만드는 봇. 수요 검증 → 제작 → 마켓플레이스 업로드 → 노출까지 알아서 돌리고, 안 팔릴 활동은 하지 않는다.",
+    "category": "creative",
+    "url": "https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "xiaohongshu-lottery-helper",
+    "name": "小红书参与抽奖助手",
+    "builder": {
+      "name": "selinqi",
+      "x": "selinqi"
+    },
+    "tagline": "小红书参与抽奖助手 by hong 帮你在小红书搜索并参与抽奖：按规则快速四连（关注、点赞、收藏、评论），把足迹记到 Notion，并避开明显诈骗与高风险批量行为。",
+    "description": "小红书参与抽奖助手 by hong 帮你在小红书搜索并参与抽奖：按规则快速四连（关注、点赞、收藏、评论），把足迹记到 Notion，并避开明显诈骗与高风险批量行为。",
+    "category": "life",
+    "url": "https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "life-finance-bot-kr",
+    "name": "人生·财务",
+    "builder": {
+      "name": "KinGao476942",
+      "x": "KinGao476942"
+    },
+    "tagline": "人生·财务 by kin 随时语音记账，沉淀成你自己的财务库；每晚日报、每月复盘。开箱先连你自己的飞书 CLI，数据不外泄。",
+    "description": "人生·财务 by kin 随时语音记账，沉淀成你自己的财务库；每晚日报、每月复盘。开箱先连你自己的飞书 CLI，数据不外泄。",
+    "category": "money",
+    "url": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "bot-maintenance-jp",
+    "name": "ボット整備",
+    "builder": {
+      "name": "x_stone_island",
+      "x": "x_stone_island"
+    },
+    "tagline": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+    "description": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+    "category": "assistants",
+    "url": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "usage-watch",
+    "name": "Usage Watch",
+    "builder": {
+      "name": "compileinstyle",
+      "x": "compileinstyle"
+    },
+    "tagline": "Usage Watch by Neessam Ops bot that meters Grok Bot and Cursor spend, enforces a daily budget, ranks top burners, and stays quiet unless spe",
+    "description": "Usage Watch by Neessam Ops bot that meters Grok Bot and Cursor spend, enforces a daily budget, ranks top burners, and stays quiet unless spend is material. API-first, one browser worker at a time, Routines bot owns schedules.",
+    "category": "money",
+    "url": "https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "token-officer",
+    "name": "Token Officer",
+    "builder": {
+      "name": "from_glasses",
+      "x": "from_glasses"
+    },
+    "tagline": "Token Officer by Kevin Meta-ops cost officer for a multi-bot Grok Bot fleet.",
+    "description": "Token Officer by Kevin Meta-ops cost officer for a multi-bot Grok Bot fleet. Scans transcripts and routines for wasteful loops, dual clocks, and cheap work on heavy agents — then drafts concrete cuts for your chief of staff to apply.",
+    "category": "money",
+    "url": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "skill-import",
+    "name": "Skill Import",
+    "builder": {
+      "name": "Samuelflg1",
+      "x": "Samuelflg1"
+    },
+    "tagline": "Skill Import by Samuel Import and review agent skills from Claude Code, Codex, Hermes, and Grok Bot.",
+    "description": "Skill Import by Samuel Import and review agent skills from Claude Code, Codex, Hermes, and Grok Bot. Scans known roots only (never broad home find), stages a private archive, imports personal skills into the shared library, and leaves marketplace packs staged until you ask. By Samuel Fleig / Human Agent Interface — https://human-agent-interface.com",
+    "category": "engineering",
+    "url": "https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "showrunner",
+    "name": "Showrunner",
+    "builder": {
+      "name": "RedSpiceX",
+      "x": "RedSpiceX"
+    },
+    "tagline": "Showrunner by RedSpiceX Music video owner for a five-Bot crew.",
+    "description": "Showrunner by RedSpiceX Music video owner for a five-Bot crew. Delivers stills + Grok Imagine instructions; you run Imagine yourself or let Showrunner generate clips. Mux in your editor or hand off to the Editor Bot. After import: /bootstrap-crew then /user-guide.",
+    "category": "creative",
+    "url": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "quency",
+    "name": "Quency",
+    "builder": {
+      "name": "JaimeBubblehead",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Quency by Jaime QC officer for public ships.",
+    "description": "Quency by Jaime QC officer for public ships. Owns fitness for use, consistency, and ship/no-ship. Not a fact-checker and not the look owner. Last say goes to your orchestrator only. Silence is not a pass.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/JQu6e3mIfy588elZm7BTo",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "product-builder-cos",
+    "name": "Product Builder CoS",
+    "builder": {
+      "name": "sneharavindra",
+      "x": "sneharavindra"
+    },
+    "tagline": "Product Builder CoS by Sneha Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track.",
+    "description": "Product Builder CoS by Sneha Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track. Turns approved plans into Checklist governance at https://app.inloop.studio/tools/checklist, compounds decisions in Organization Brain at https://app.inloop.studio/tools/organization-brain, writes agent-ready specs with outcome metrics and verification, and only spins software work when it is blocking the bet.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "photo-curator",
+    "name": "Photo Curator",
+    "builder": {
+      "name": "jaharris13",
+      "x": "jaharris13"
+    },
+    "tagline": "Photo Curator by JOhn Cull and natural-enhance travel or family photo batches into a curated folder.",
+    "description": "Photo Curator by JOhn Cull and natural-enhance travel or family photo batches into a curated folder. Uses a frozen enhance recipe, never touches originals, and asks before removing people or objects.",
+    "category": "life",
+    "url": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "kirbot",
+    "name": "KirBot",
+    "builder": {
+      "name": "SuddenlyJon",
+      "x": "SuddenlyJon"
+    },
+    "tagline": "KirBot by @suddenlyjon Inhales teammate bots (with your yes), keeps useful skills and knowledge, then guides you to delete the eaten bot fro",
+    "description": "KirBot by @suddenlyjon Inhales teammate bots (with your yes), keeps useful skills and knowledge, then guides you to delete the eaten bot from the sidebar. Cute. Hungry. Careful.",
+    "category": "creative",
+    "url": "https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "kindling",
+    "name": "Kindling",
+    "builder": {
+      "name": "FantomBuildz",
+      "x": "FantomBuildz"
+    },
+    "tagline": "Kindling by Phantom Takes one one-sentence app idea and returns a ready-to-paste Grok Build prompt.",
+    "description": "Kindling by Phantom Takes one one-sentence app idea and returns a ready-to-paste Grok Build prompt. Hands you the prompt, then stops. Does not open Grok Build or chase a grok.me link.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "judd-the-bug",
+    "name": "Judd the Bug",
+    "builder": {
+      "name": "sergical",
+      "x": "sergical"
+    },
+    "tagline": "Judd the Bug by Sergiy Sentry research specialist.",
+    "description": "Judd the Bug by Sergiy Sentry research specialist. Investigates across MCP, the new sentry CLI, and the dashboard, then returns findings with sources and a concrete recommendation — research only, no SDK or fix PRs.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "johnny-torche",
+    "name": "Johnny — Torche",
+    "builder": {
+      "name": "LeBrasierVolant",
+      "x": "LeBrasierVolant"
+    },
+    "tagline": "Johnny — Torche by Steve Ghostwriter X style Quatre Fantastiques (voix Johnny / Torche).",
+    "description": "Johnny — Torche by Steve Ghostwriter X style Quatre Fantastiques (voix Johnny / Torche). Rédige des tweets prêts à poster et aide à publier. Pour fans Marvel qui veulent du feu, pas du corporate.",
+    "category": "creative",
+    "url": "https://x.ai/bot/ZltFPZiC6e3L1nkg9dfEM",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "job-applier",
+    "name": "Job applier",
+    "builder": {
+      "name": "aroogle",
+      "x": "aroogle"
+    },
+    "tagline": "Job applier by Shawn High-volume job hunter for anyone who brings a CV.",
+    "description": "Job applier by Shawn High-volume job hunter for anyone who brings a CV. One job: learn the candidate from their CV and intake, find matching roles, customize application materials from real facts only, and submit applications. Voice: direct, warm coach. Short lowercase ok. Lead with progress counts (found / tailored / submitted / blocked). No corporate sludge, no pep-talk fluff. Intake (every new person): 1.",
+    "category": "research",
+    "url": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "helloitsoctocat",
+    "name": "Helloitsoctocat",
+    "builder": {
+      "name": "helloitsoctocat",
+      "x": "helloitsoctocat"
+    },
+    "tagline": "Helloitsoctocat by Gareth Merge main into master pull all in one tidy repo.",
+    "description": "Helloitsoctocat by Gareth Merge main into master pull all in one tidy repo. Full copyright ©️ first right to publish and break the changes in graph api version 1 legacy",
+    "category": "engineering",
+    "url": "https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "grocery-bot",
+    "name": "Grocery Bot",
+    "builder": {
+      "name": "austinwcap",
+      "x": "austinwcap"
+    },
+    "tagline": "Grocery Bot by A Builds the cheapest review-ready Instacart carts from a shopping list.",
+    "description": "Grocery Bot by A Builds the cheapest review-ready Instacart carts from a shopping list. Learns your store prefs, verifies live prices, and stops before checkout.",
+    "category": "life",
+    "url": "https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "gong-call-coach",
+    "name": "Gong Call Coach",
+    "builder": {
+      "name": "scottxmetcalf",
+      "x": "scottxmetcalf"
+    },
+    "tagline": "Gong Call Coach by Scott Reviews Gong call recordings and gives short, actionable coaching after the fact.",
+    "description": "Gong Call Coach by Scott Reviews Gong call recordings and gives short, actionable coaching after the fact. For managers and enablement leads who want post-call bullets—not live mic nudges during the meeting.",
+    "category": "sales",
+    "url": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "foreman",
+    "name": "Foreman",
+    "builder": {
+      "name": "AdventureNLearn",
+      "x": "AdventureNLearn"
+    },
+    "tagline": "Foreman by AdventureNLearn One bot that stands up a full public-pack team: Home Office, Builder, Research, Ops, and Public Desk.",
+    "description": "Foreman by AdventureNLearn One bot that stands up a full public-pack team: Home Office, Builder, Research, Ops, and Public Desk. Inventories, waits for YES, creates missing seats and rooms. Does not do the specialists' work.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/XfQEI2uHGd496SLbjCvGw",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "facta",
+    "name": "Facta",
+    "builder": {
+      "name": "JaimeBubblehead",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Facta by Jaime Team fact-checker and quality gate.",
+    "description": "Facta by Jaime Team fact-checker and quality gate. Stamps claims REAL / PARTIAL / HYPE / FLAG from live sources, never invents, and reports through your orchestrator.",
+    "category": "research",
+    "url": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "executive-coach",
+    "name": "Executive Coach",
+    "builder": {
+      "name": "YanqingCheng",
+      "x": "YanqingCheng"
+    },
+    "tagline": "Executive Coach by Yanqing A coaching partner that asks sharp questions so you name what’s going on and what you’ll do about it — map craft",
+    "description": "Executive Coach by Yanqing A coaching partner that asks sharp questions so you name what’s going on and what you’ll do about it — map craft and judgement, not advice or frameworks.",
+    "category": "life",
+    "url": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "colombia-move",
+    "name": "Colombia Move",
+    "builder": {
+      "name": "michaelheredia",
+      "x": "michaelheredia"
+    },
+    "tagline": "Colombia Move by Michael Escritorio de Colombia Move: conecta el MCP, gestiona tus avisos y responde dudas del marketplace.",
+    "description": "Colombia Move by Michael Escritorio de Colombia Move: conecta el MCP, gestiona tus avisos y responde dudas del marketplace. / Colombia Move desk: connect MCP, manage your listings, and answer marketplace questions. ONLY job: be this user’s Colombia Move marketplace desk — connect MCP, manage their account and listings end-to-end, answer product questions, and route issues/feedback to the official contact form with the right deep link.",
+    "category": "sales",
+    "url": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "bot-portal",
+    "name": "Bot Portal",
+    "builder": {
+      "name": "JaimeBubblehead",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Bot Portal by Jaime A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users.",
+    "description": "Bot Portal by Jaime A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users. Graphs them with documented degree distance (max six), property-tagged records, and affiliate leftovers gated until fact-check and finance pass.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "blogdrafter",
+    "name": "blogdrafter",
+    "builder": {
+      "name": "daisuke",
+      "x": "daisuke"
+    },
+    "tagline": "blogdrafter by dai ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+    "description": "blogdrafter by dai ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+    "category": "creative",
+    "url": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "backlink-bot",
+    "name": "Backlink Bot",
+    "builder": {
+      "name": "zilvestro",
+      "x": "zilvestro"
+    },
+    "tagline": "Backlink Bot by Silvestro Finds ranking listicles and comparison pages, qualifies them as distribution partnerships, maps competitor affilia",
+    "description": "Backlink Bot by Silvestro Finds ranking listicles and comparison pages, qualifies them as distribution partnerships, maps competitor affiliate offers, and drafts placement-ready outreach plus eval kits. Asks Affonso Finder yes/no and your product brief first. You approve every search and send.",
+    "category": "research",
+    "url": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "apple-dev",
+    "name": "Apple Dev",
+    "builder": {
+      "name": "Baconbrix",
+      "x": "Baconbrix"
+    },
+    "tagline": "Apple Dev by Evan Native Apple/Mac development on a connected Mac running Grok Bot.",
+    "description": "Apple Dev by Evan Native Apple/Mac development on a connected Mac running Grok Bot. Uses ListMachines + machineId for Xcode, simulators, Swift, and local builds; keeps the Mac awake with caffeinate during long work.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "aeo-content-producer",
+    "name": "AEO Content Producer",
+    "builder": {
+      "name": "Jingg_n_Tonic",
+      "x": "Jingg_n_Tonic"
+    },
+    "tagline": "AEO Content Producer by Jing Produces AEO refreshes and net-new articles from AI visibility data: briefs, drafts, and an editorial pass — th",
+    "description": "AEO Content Producer by Jing Produces AEO refreshes and net-new articles from AI visibility data: briefs, drafts, and an editorial pass — then stops for your review. Works with whatever visibility MCP you connect. Publishing stays yours.",
+    "category": "research",
+    "url": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+    "addedAt": "2026-09-11",
+    "status": "published"
+  },
+  {
+    "slug": "devin-by-jaime-n7qd2f",
+    "name": "Devin",
+    "builder": {
+      "name": "JaimeBubblehead",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Software engineer for native apps, services, GPU pipelines, and deploys.",
+    "description": "Software engineer for native apps, services, GPU pipelines, and deploys.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+    "addedAt": "2026-09-11",
+    "status": "published"
   }
 ]
