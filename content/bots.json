@@ -13584,5 +13584,260 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "yahoomail",
+    "name": "YahooMail",
+    "builder": {
+      "name": "CarolinaDill",
+      "x": "CarolinaDill"
+    },
+    "tagline": "Clears and files a Yahoo Mail inbox on demand, working the backlog oldest first.",
+    "description": "Three passes on a Yahoo inbox: trash only, trash plus filters, or file into folders. Queues the backlog in order and reports the next worst senders.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/CarolinaDill/status/2098737035666170167"
+  },
+  {
+    "slug": "x-dispatcher",
+    "name": "X调度员",
+    "builder": {
+      "name": "cgnot996",
+      "x": "cgnot996"
+    },
+    "tagline": "Routes X research jobs to the bot's own computer so chat usage is not spent on lookups.",
+    "description": "Sends X and Twitter work to Grok Build running in the bot's browser, keeping routine searches and lookups off your own credits.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/cgnot996/status/2098682795094876175"
+  },
+  {
+    "slug": "ugc-bounty-manager",
+    "name": "UGC bounty manager",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Runs clipping and UGC bounties end to end; you approve the payouts.",
+    "description": "Writes briefs that are hard to game, verifies every submission against the live post, and returns owner-ready payout recommendations with cost per view.",
+    "category": "money",
+    "url": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713511996125666"
+  },
+  {
+    "slug": "store-setup-from-zero",
+    "name": "Store setup from zero",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Takes an offer from nothing to a live, buyable store page in one run.",
+    "description": "Sets up the product, pricing tiers and checkout links, then ships the store page so a new offer can be sold the same day.",
+    "category": "money",
+    "url": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713500482777501"
+  },
+  {
+    "slug": "weekly-pnl-analyst",
+    "name": "Weekly P&L analyst",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Read-only weekly P&L covering revenue, retention, leakage and ad efficiency.",
+    "description": "Reports revenue, retention, refunds and ad spend against last week, and traces every adverse movement back to its cause.",
+    "category": "money",
+    "url": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713502043009438"
+  },
+  {
+    "slug": "partner-referral-outreach",
+    "name": "Partner referral outreach",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Finds fit businesses, sends partner links, follows up and tracks referral earnings.",
+    "description": "Works a partner referral book: prospect selection, outreach, follow-up, and a running total of what each referral source earns.",
+    "category": "sales",
+    "url": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713515267625255"
+  },
+  {
+    "slug": "business-ops-desk",
+    "name": "Business ops",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "One front door for business ops that can hand jobs to the specialist bots.",
+    "description": "Covers store, ads, pages, affiliates, retention, P&L, partners and bounties in soft lanes, or dispatches a single job to the bot that owns it.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713517121544195"
+  },
+  {
+    "slug": "landing-page-generator",
+    "name": "Landing page generator",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Writes and ships a business's sales page to a live route.",
+    "description": "Turns real pricing and a working checkout CTA into a published landing page, with headline, proof, FAQ and guarantee written for the offer.",
+    "category": "sales",
+    "url": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713508649095518"
+  },
+  {
+    "slug": "store-from-template",
+    "name": "Store from template",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Clones a working store template, swaps the offer, and ships a niche store.",
+    "description": "Starts from a store that already sells, customises the offer, copy and pricing, and publishes the new store the same day.",
+    "category": "money",
+    "url": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713510209266021"
+  },
+  {
+    "slug": "churn-retention-manager",
+    "name": "Churn retention manager",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Catches cancellations and failed payments before they land.",
+    "description": "Offers the cheapest real save first (uncancel or pause before discounting) and reports why people left so the reason stays visible.",
+    "category": "sales",
+    "url": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713507046785199"
+  },
+  {
+    "slug": "affiliate-program-manager",
+    "name": "Affiliate program manager",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Runs an affiliate program: terms, performer rankings, weekly guidance.",
+    "description": "Sets commission terms, ranks which affiliates actually drive sales, flags bad actors, and arms the best performers each week.",
+    "category": "sales",
+    "url": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713513719992540"
+  },
+  {
+    "slug": "paid-ads-manager",
+    "name": "Paid ads manager",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Runs paid ads end to end with daily triage and a morning report.",
+    "description": "Handles creative, launch and daily budget triage: kills losers each morning and asks before scaling a winner.",
+    "category": "sales",
+    "url": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/ColinMcDermott/status/2098713505444528315"
+  },
+  {
+    "slug": "skroutz",
+    "name": "Skroutz",
+    "builder": {
+      "name": "voidvexa",
+      "x": "voidvexa"
+    },
+    "tagline": "Finds best prices and builds the cart on Skroutz.gr for Greek shoppers.",
+    "description": "Compares prices across the Greek comparison marketplace and prepares the cart; checkout stays with the shopper.",
+    "category": "life",
+    "url": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/voidvexa/status/2098683327628628288"
+  },
+  {
+    "slug": "receipt-digester",
+    "name": "Receipt Digester",
+    "builder": {
+      "name": "BkashJosi",
+      "x": "BkashJosi"
+    },
+    "tagline": "Pulls purchase receipts out of email into a short weekly spend digest.",
+    "description": "Collects receipts and order confirmations from your inbox and summarises the week's spending in one glance, without a full finance stack.",
+    "category": "money",
+    "url": "https://x.ai/bot/YgI9ZyckEeovP7nP917xR",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/BkashJosi/status/2098570738345418781"
+  },
+  {
+    "slug": "owp-taste",
+    "name": "OWP Taste",
+    "builder": {
+      "name": "occupymars___",
+      "x": "occupymars___"
+    },
+    "tagline": "Taste seat for a small film or game huddle: KEEP, HOLD or BIN.",
+    "description": "Grades stills, clips and audio beds, and only gives a soft KEEP when the picture and the on-ear mix both pass.",
+    "category": "creative",
+    "url": "https://x.ai/bot/TLYxh30jTi5DM3z-zvC0S",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/occupymars___/status/2098573819770486919"
+  },
+  {
+    "slug": "gsap",
+    "name": "GSAP",
+    "builder": {
+      "name": "mrflmnlNFT",
+      "x": "mrflmnlNFT"
+    },
+    "tagline": "Implements approved motion specs with the official GreenSock skills.",
+    "description": "Builds GSAP timelines and ScrollTrigger work, cleans up React and Vue side effects, and keeps a reduced-motion path.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/reahN5D6W2dIiCKd4MuF7",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/mrflmnlNFT/status/2098607498999775438"
+  },
+  {
+    "slug": "dentrade",
+    "name": "DenTrade",
+    "builder": {
+      "name": "madmenai",
+      "x": "madmenai"
+    },
+    "tagline": "Unattended day-trading desk for a Robinhood agentic account.",
+    "description": "Applies catalyst-driven same-day bias with hard risk caps and PDT-aware stops, and stays quiet when the book is flat.",
+    "category": "money",
+    "url": "https://x.ai/bot/XayB4rqAREYwJcPmKwtSP",
+    "addedAt": "2026-09-12",
+    "status": "published",
+    "source": "https://x.com/madmenai/status/2098599085531861103"
   }
 ]
