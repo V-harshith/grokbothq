@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:55:00Z",
+  "generated_at": "2026-09-14T01:42:00Z",
   "purpose": "Urls already verified and staged in open scout PRs, plus delisted competitors. Dedupe against this before verifying or opening a new scout PR so we stop re-queueing the same bots.",
   "delisted_never_list": [
     "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
@@ -47,7 +47,7 @@
       "branch": "ops/scout-2026-09-13-1922"
     }
   ],
-  "note": "PR 53 (2026-09-13 evening) adds 6 verified bots (optima-by-toatspace, cto-bot, dungeon-master, sweeper-mai, grok-bot-directory, jre-campaign-bot). PRs 43-50 superseded by #50 (consolidate).",
+  "note": "PR 53 (2026-09-13 evening) adds 6 verified bots (optima-by-toatspace, cto-bot, dungeon-master, sweeper-mai, grok-bot-directory, jre-campaign-bot). PRs 43-50 superseded by #50 (consolidate). 2026-09-14 01:40 pass: 2 X-sourced candidates found (danielxu_ chief of staff + pm), both 404 -> logged in ops/scout-rejected.json, nothing queued. Directory firehose now DRAINED: all share ids from botdirectory.ai (210), grokbottemplates.dev (484), grokbot-templates.com (48), gtemplate.net (11) are already in bots.json / staged_urls / candidates. New bots now only arrive via fresh X posts.",
   "staged_urls": [
     "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
     "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
@@ -194,5 +194,9 @@
     "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
     "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
     "https://x.ai/bot/zsxwic_IlmyavESnhLiWZ"
+  ],
+  "dead_share_links": [
+    "https://x.ai/bot/-sOdLVj33yh8hh7OlHogi",
+    "https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq"
   ]
 }
