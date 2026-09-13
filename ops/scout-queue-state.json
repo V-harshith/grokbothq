@@ -41,9 +41,13 @@
     {
       "pr": 52,
       "branch": "ops/scout-2026-09-13-1340"
+    },
+    {
+      "pr": 53,
+      "branch": "ops/scout-2026-09-13-1922"
     }
   ],
-  "note": "PR 52 (2026-09-13 midday) adds 3 verified bots (text-cleanup, gtm-expert, nuggetbot). PRs 43-50 remain superseded by #50 (consolidate); PR 51 is the earlier 2026-09-13 scout batch.",
+  "note": "PR 53 (2026-09-13 evening) adds 6 verified bots (optima-by-toatspace, cto-bot, dungeon-master, sweeper-mai, grok-bot-directory, jre-campaign-bot). PRs 43-50 superseded by #50 (consolidate).",
   "staged_urls": [
     "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
     "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
