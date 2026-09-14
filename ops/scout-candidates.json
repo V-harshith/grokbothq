@@ -1,25 +1,5 @@
 [
  {
-  "name": "Family Safety Monitor",
-  "bot_id": "Dc0ZGUypwwBQZE9pNxLYy",
-  "url": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
-  "builder_x_handle": "KevinTweets1",
-  "one_line_desc": "Parental usage monitor: logs which apps a child opens and how often, then reports the pattern to the parent.",
-  "source_post_url": "https://x.com/KevinTweets1/status/2099251469266608138",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "About Me",
-  "bot_id": "7dfQ6zC2X2hmnIlnF4rSN",
-  "url": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
-  "builder_x_handle": "TAftermath2020",
-  "one_line_desc": "Personal-metrics desk that learns what matters to you and feeds short deltas to a chief-of-staff bot.",
-  "source_post_url": "https://x.com/TAftermath2020/status/2099183022193123784",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
   "name": "Vigil",
   "bot_id": "SJYRJy2TnPB_NNqtnaJTJ",
   "url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
@@ -558,5 +538,28 @@
   "source_post_url": null,
   "found_at": "2026-09-14T08:15:00Z",
   "verified": true
+ },
+ {
+  "name": "Reply Radar",
+  "bot_id": "lJYaUExPBMZfLWfZEFVGc",
+  "url": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+  "builder_x_handle": "sam_builds_ai",
+  "one_line_desc": "Scans a niche for posts worth replying to before they cool off, then drafts short replies for you to send yourself; you set the topics and a weekly spend cap.",
+  "source_post_url": "https://x.com/sam_builds_ai/status/2099463729796755818",
+  "found_at": "2026-09-14T14:30:00Z",
+  "verified": true,
+  "category_hint": "sales"
+ },
+ {
+  "name": "日本語チェック (Japanese Check)",
+  "bot_id": "Szq07dsrlo5T2qcPxjqvT",
+  "url": "https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT",
+  "builder_x_handle": "gold24k9999",
+  "one_line_desc": "Proofreads Japanese text meant for a boss or a decision-maker: fixes grammar, notation, keigo and readability without changing the meaning, and does not write new text or send anything.",
+  "source_post_url": "https://x.com/gold24k9999/status/2099428518111400150",
+  "found_at": "2026-09-14T14:30:00Z",
+  "verified": true,
+  "category_hint": "productivity",
+  "note": "Non-ASCII display name; needs an ASCII slug (transliteration or bot-xxxx convention) if listed."
  }
 ]
