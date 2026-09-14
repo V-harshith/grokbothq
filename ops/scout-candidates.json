@@ -1,85 +1,5 @@
 [
  {
-  "name": "账单进口",
-  "bot_id": "A3pcjyO0dAkvRGxD4VGeH",
-  "url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
-  "builder_x_handle": "coolbat1999",
-  "one_line_desc": "Imports WeChat and Alipay bills into a personal ledger after a preview confirm; never touches payment passwords.",
-  "source_post_url": "https://x.com/coolbat1999/status/2099141007887777987",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "Visa割bot",
-  "bot_id": "e9p9lk8EcUrrGXPI_cf4c",
-  "url": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
-  "builder_x_handle": "countertek",
-  "one_line_desc": "Spins the unused Visa割 lottery and roulette offers in a Japanese Visa account and reports what it claimed.",
-  "source_post_url": "https://x.com/countertek/status/2099118954799321172",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "Unstick Me",
-  "bot_id": "EahHaI-kwO0hgWj6I45jC",
-  "url": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
-  "builder_x_handle": "YanqingCheng",
-  "one_line_desc": "One short question at a time until you start the task you are stuck on.",
-  "source_post_url": "https://x.com/YanqingCheng/status/2099206038368977179",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "Travel Agent",
-  "bot_id": "d8C0ufUatv_fgoCRbfXZ4",
-  "url": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
-  "builder_x_handle": "scottxmetcalf",
-  "one_line_desc": "Plans trips and drafts bookings for approval; never pays or confirms without you.",
-  "source_post_url": "https://x.com/scottxmetcalf/status/2099161443455385977",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "TIDAL",
-  "bot_id": "iH7-gcR-McO8Eel9frMUA",
-  "url": "https://x.ai/bot/iH7-gcR-McO8Eel9frMUA",
-  "builder_x_handle": "hottubjohn",
-  "one_line_desc": "TIDAL search, radio, favourites and playlists from chat; returns name, link and track count per request.",
-  "source_post_url": "https://x.com/hottubjohn/status/2099220079242072575",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "Grocery Bot",
-  "bot_id": "K-bz2_bFptZdWAAW7Phxp",
-  "url": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
-  "builder_x_handle": "ZestStream",
-  "one_line_desc": "Receipt-first grocery tracker: logs spend and perishables from a receipt, warns before food spoils, builds lists.",
-  "source_post_url": "https://x.com/ZestStream/status/2099214073829499320",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "Gird Coach",
-  "bot_id": "H8XFB8Ly0EGOyU3VDmwi1",
-  "url": "https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1",
-  "builder_x_handle": "ryness",
-  "one_line_desc": "Coaches whatever you practise in Gird AI and runs daily check-ins plus weekly reviews.",
-  "source_post_url": "https://x.com/ryness/status/2099189159776944510",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
-  "name": "Fomo Live Bot",
-  "bot_id": "4fmde5VhCGJGeCiqn96D3",
-  "url": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
-  "builder_x_handle": "theadvisorbtc",
-  "one_line_desc": "Hourly paper-first copy of the traders you follow on FOMO; size and exits locked by rule, live only on your go.",
-  "source_post_url": "https://x.com/theadvisorbtc/status/2099268257983455720",
-  "found_at": "2026-09-14T02:10:00Z",
-  "verified": true
- },
- {
   "name": "Family Safety Monitor",
   "bot_id": "Dc0ZGUypwwBQZE9pNxLYy",
   "url": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
@@ -557,6 +477,86 @@
   "one_line_desc": "Austen as living wit: conversational embodiment of the novels' irony and social observation.",
   "source_post_url": "https://x.com/SuddenlyJon/status/2097707021822742699",
   "found_at": "2026-09-09T23:10:00Z",
+  "verified": true
+ },
+ {
+  "name": "Outbound Scout",
+  "bot_id": "7FPx_GNADVyb36VRYoKz1",
+  "url": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+  "builder_x_handle": "iammutex",
+  "one_line_desc": "Finds outbound customers from a product URL or description: sets up Glasser, locks an ICP, then finds companies and decision-maker emails and phones.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "Nessie",
+  "bot_id": "8-OG0rLmfAna8vs_0PBO_",
+  "url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+  "builder_x_handle": "AlecSnelling",
+  "one_line_desc": "Design partner for a US citizen dividend and sovereign wealth package; built for legislative drafting teams and policy shops.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "Competitor Monitor",
+  "bot_id": "9msshkJeF5cnzAw8tF4vi",
+  "url": "https://x.ai/bot/9msshkJeF5cnzAw8tF4vi",
+  "builder_x_handle": "iammutex",
+  "one_line_desc": "Monitors competitors' market and tech moves across social, ads, SEO, traffic, launches, funding and hiring, preferring Glasser.ai data.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "tree counter",
+  "bot_id": "GUoroKpfPq-CLL_206JzT",
+  "url": "https://x.ai/bot/GUoroKpfPq-CLL_206JzT",
+  "builder_x_handle": "wreinhardt",
+  "one_line_desc": "Counts street trees from Google Street View and compares them with city inventory data, one street or sub-ZIP per session.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "Invest DD",
+  "bot_id": "S6LUcG5yeDYV-GglG7_FO",
+  "url": "https://x.ai/bot/S6LUcG5yeDYV-GglG7_FO",
+  "builder_x_handle": "iammutex",
+  "one_line_desc": "Investment due diligence via Glasser.ai across traffic, funding, team, product, ads and SEO; runs Basic then Deep DD.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "X Writer",
+  "bot_id": "UUsZRoInD7OHp4sjrZ-we",
+  "url": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+  "builder_x_handle": "starzq",
+  "one_line_desc": "Learns any X account's writing style, then drafts tweets, edits and long-form posts in that voice.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "Glasser",
+  "bot_id": "pYFETnU1TFsADlz0hJD1y",
+  "url": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+  "builder_x_handle": "iammutex",
+  "one_line_desc": "Gives an agent access to Glasser.ai premium research data: enrichment, SEO, ads, traffic, funding, competitor intel and outbound contacts.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
+  "verified": true
+ },
+ {
+  "name": "SEO Expert",
+  "bot_id": "sg2dZMjlprpit0y0PNyhL",
+  "url": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+  "builder_x_handle": "iammutex",
+  "one_line_desc": "SEO expert for product websites: takes a site URL, runs SEO monitoring via Glasser, and only runs the plan after user confirmation.",
+  "source_post_url": null,
+  "found_at": "2026-09-14T08:15:00Z",
   "verified": true
  }
 ]

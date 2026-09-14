@@ -40,6 +40,26 @@
    "source_post_url": "https://x.com/danielxu_/status/2093480750146552176",
    "found_at": "2026-09-14T01:40:00Z",
    "reason": "HTTP 404 on https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq (x.ai SPA 404 page, no bot title). Same post's other two share links return 200 and are already listed."
+  },
+  {
+   "name": "OpenZoo.fun Grok Bot Demo",
+   "bot_id": "QhfOU5SJ60U8g2x2pUFcT",
+   "url": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+   "builder_x_handle": "STACCoverflow",
+   "one_line_desc": "Repo/book/log retrieval demo bot listed in the grokbot-templates.com directory.",
+   "source_post_url": null,
+   "found_at": "2026-09-14T08:15:00Z",
+   "reason": "HTTP 404 on https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT (x.ai 404 shell page, no bot name). Directory entry was scraped 2026-08-29; the share link is dead. Not queued."
+  },
+  {
+   "name": "真Deviフレーム Type2トライアル",
+   "bot_id": "aeE3iKjj5xfDmx_dolbll",
+   "url": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+   "builder_x_handle": "Fermion_Boson17",
+   "one_line_desc": "Personal Devi framework bot (星宮専用) listed in the awesome-grok-bot catalog.",
+   "source_post_url": null,
+   "found_at": "2026-09-14T08:15:00Z",
+   "reason": "Live (HTTP 200, title '真Deviフレーム Type2トライアル by 星宮') but the description marks it as 星宮専用 (private, single-user) with a non-Latin name and no general use. Skipped deliberately: not a shareable template for our audience."
   }
  ]
 }
