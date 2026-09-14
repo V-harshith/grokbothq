@@ -17,9 +17,13 @@
   {
    "pr": 53,
    "branch": "ops/scout-2026-09-13-1922"
+  },
+  {
+   "pr": 54,
+   "branch": "ops/scout-2026-09-14-0735"
   }
  ],
- "note": "PR 53 (2026-09-13 evening) adds 6 verified bots (optima-by-toatspace, cto-bot, dungeon-master, sweeper-mai, grok-bot-directory, jre-campaign-bot). PRs 43-50 superseded by #50 (consolidate). 2026-09-14 07:40 IST pass: NEW FIREHOSE FOUND, majiayu000/awesome-grok-bot catalog.json (837 live shares, regenerated 2026-09-14) - 13 ids there were unknown to us, 10 verified live with real pages and are staged in this PR, 2 rejected (see ops/scout-rejected.json), 1 skipped (personal /専用 bot). grokbot-templates.com API re-checked: its 48 ids are all known. grokbot.dev / somi.ai / usegrokbot.com render client-side and exposed nothing new; botdirectory.ai 210 ids all known. Treat raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json as a daily source alongside the existing four directories.",
+ "note": "PR 53 (2026-09-13 evening) adds 6 verified bots (optima-by-toatspace, cto-bot, dungeon-master, sweeper-mai, grok-bot-directory, jre-campaign-bot). PRs 43-50 superseded by #50 (consolidate). 2026-09-14 07:40 IST pass: NEW FIREHOSE FOUND, majiayu000/awesome-grok-bot catalog.json (837 live shares, regenerated 2026-09-14) - 13 ids there were unknown to us, 10 verified live with real pages and are staged in this PR, 2 rejected (see ops/scout-rejected.json), 1 skipped (personal /専用 bot). grokbot-templates.com API re-checked: its 48 ids are all known. grokbot.dev / somi.ai / usegrokbot.com render client-side and exposed nothing new; botdirectory.ai 210 ids all known. Treat raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json as a daily source alongside the existing four directories. PR 54 opened 2026-09-14 07:45 IST from main with the 10 bots + state carry-forward.",
  "staged_urls": [
   "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
   "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
