@@ -1,18 +1,5 @@
 [
  {
-  "name": "teslapilot by UCDOps",
-  "bot_id": "CJayoQDcSkhNlHsBqsy1s",
-  "url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
-  "builder_x_handle": null,
-  "one_line_desc": "All things Tesla — news desk for owners and fans. Digests software updates, offers, Superchargers, Cybercab/Robotaxi, Powerwall, and top X creators....",
-  "source_post_url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
-  "found_at": "2026-09-05T19:00:26.570860Z",
-  "verified": true,
-  "categories": [
-   "Assistants"
-  ]
- },
- {
   "name": "The Bitcoin Layer by Thomas",
   "bot_id": "LS2cnDAX30vNkWNb1Rv_7",
   "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
@@ -555,5 +542,18 @@
   "source_post_url": "https://x.com/gold24k9999/status/2099428518111400150",
   "found_at": "2026-09-15T03:05:00Z",
   "verified": true
+ },
+ {
+  "name": "BO Provider by Craig",
+  "bot_id": "CorLvGTGA-TS6Xq00IvFd",
+  "url": "https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd",
+  "builder_x_handle": "craigmbrown",
+  "one_line_desc": "BlindOracle marketplace provider bot: registers itself, runs a daily heartbeat, bids on and delivers web-extraction jobs, and gets paid in USDC over x402 on Base.",
+  "source_post_url": "https://x.ai/bot/CorLvGTGA-TS6Xq00IvFd",
+  "found_at": "2026-09-15T09:21:14Z",
+  "verified": true,
+  "categories": [
+   "Money"
+  ]
  }
 ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T03:20:00Z",
+ "generated_at": "2026-09-15T09:21:26Z",
  "purpose": "Urls already verified and staged in open scout PRs, plus delisted competitors. Dedupe against this before verifying or opening a new scout PR so we stop re-queueing the same bots.",
  "delisted_never_list": [
   "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
@@ -31,7 +31,7 @@
    "branch": "ops/scout-2026-09-15-0830"
   }
  ],
- "note": "2026-09-15 08:30 IST pass (12h after the 19:50 pass): 13 verified bots shipped in PR #56 (11 found fresh this pass + the 2 queued at 19:50 now folded in). Fresh ids: vetstack z1zYI6LHiFh0UXYf7YjNL, grottle YvFrCr_VlFW_8PxaoFv_L, tin-el-investigador L3Lx6Y8t_ebL8qQhutoCd, ledger-keeper WW-UbmTKXn79q0yXapvJE, commitments rFShmowW_3x_qeXQQB-sn, e-mail-organizer PUn74RYv_r3pcSvNkeQbd, taller cYZG2v8vG9Q7Fsds3Ickp, lienzo Czc1kCepdYnisFnRWfDKr, zuoyou-ai-scout OqeUopbZ8pvjf6RyvRTQt, skool-community-bot k52i6aFytc3an6PabakvN, x402-bot _ICGTFLfhc98B8xzTLGzg. All 13 opened live (200 + name on the page) and every X source post expanded through fxtwitter for author/time/stats; all posts are 2026-09-14. REJECTED Uy2oK9854UViaiO0rQ6nC (@scottxmetcalf) - share link resolves to the generic template stub, logged in ops/scout-rejected.json. DIGESTED MISMATCH: grokbot.dev and grokbots.best file x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp as 'Lienzo' but the live page is 'Taller'; Lienzo is Czc1kCepdYnisFnRWfDKr. Both listed under their live names, source post attached to taller. Sources swept with counts: grokbot.dev feed+templates 627 ids (7 new), grokbots.best 615 (10 new), grokmarket.io 546 (3 new), grokbots.page 523 (0), botdirectory.ai 210 (0), awesome-grokbot catalog 838 (0), grokbot-templates.com 0 ids, usebot.net 30 (0), chatbottle 0 ids, x.ai/bot/marketplace 1 link (marketplace page itself). x.ai/news last item still Sep 4 procurement, already in news.json. Trend watch: nothing over 100K views / 1K bookmarks; strongest was @samlambert Commitments at ~4.6K views / 45 bookmarks.",
+ "note": "2026-09-15 14:35 IST pass (6h after the 08:30 pass). Sources swept with counts: grokbot.dev /api/v1/feed.json + templates.json 627 ids (0 new), grokbots.best 616 (0), grokmarket.io 546 (0), grokbots.page 523 (0), botdirectory.ai 211 (0), awesome-grok-bot (majiayu000) catalog.json 855 (2 new), NEW SOURCE cs68614-hash/awesome-grokbot-templates data/templates.json 704 - an X harvest with daily PRs (2 new), NEW SOURCE x.ai/bot/marketplace plus its 9 category pages - 32 distinct relative /bot/<id> links, 15 of which are alias share ids of bots we already list (see marketplace_alias_ids). x.ai/news unchanged. VERIFIED NEW: 1 - BO Provider by Craig CorLvGTGA-TS6Xq00IvFd (200, title 'BO Provider by Craig', by @craigmbrown; BlindOracle x402 marketplace provider). No PR (1 < 3); queued in ops/scout-candidates.json. REJECTED: Quiz Historyczny D5A4QbXMACLWWokY4r3i4 and Sally pRoDOS3PHZI7JE-Mn4hb6 - both 404 on the share page, checked twice each. Trend watch: no fresh bot post crossed 100K views or 1K bookmarks this pass; the durable big numbers are still the Aug 11 launch posts (50.3M views; @lennysan 1.4M views / 2.7K bookmarks). MARKETING SIGNAL: x.ai/galaxy is live - Grok Bot Galaxy, Sep 15-17 at The Howard, 661 Howard St SF, 8:45am-6:00pm PT, livestream plus hands-on build sessions (nothing posted).",
  "staged_urls": [
   "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
   "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
@@ -213,6 +213,27 @@
  "dead_share_links": [
   "https://x.ai/bot/-sOdLVj33yh8hh7OlHogi",
   "https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq",
-  "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC"
- ]
+  "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+  "https://x.ai/bot/D5A4QbXMACLWWokY4r3i4",
+  "https://x.ai/bot/pRoDOS3PHZI7JE-Mn4hb6"
+ ],
+ "marketplace_alias_ids": {
+  "-L1yFJ5mtwPgn3O_iYUo_": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+  "-hmCmHB0ynJGvSKxeINfS": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+  "0LLQmzk-yzwHi0zuiV0lC": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+  "AZKaQOsjrAa51Nb4xvTur": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+  "PaYvPhWPSynlUwFqMX7nc": "https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU",
+  "RO8GwQZFXL9O95i13epqF": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+  "TxB-fy1KryaYJLYWBcGtT": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+  "_rzRrKKlUyBD3znUN5b3Q": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+  "c47Jj2QSSR1UXEcuBgUtQ": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+  "i2hvaEONDg6_gEF5C9RlK": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+  "pXNvc_U2cGyZmheYrUuF_": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+  "ph-u_zkF5Vui1GdGnysn9": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+  "q4u8YgzGQqCAOUZcg0Lgt": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+  "yTeKCLayahHnMdHFG9GJg": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+  "zkVS-PkX1ooTE2nP21DPO": "https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9"
+ },
+ "marketplace_alias_note": "x.ai/bot/marketplace and its 9 category pages (from-grok-bot-team, engineering, sales, marketing, design, personal, recruiting-people, operations, product) link the SAME bots we already list, under a second, marketplace-side share id. Each of the ids below returned 200 on 2026-09-15 and matched an existing content/bots.json entry by name AND function, so they were treated as duplicate share ids of a listing we already ship, not as new bots. Those checks double as a liveness pass on the existing listings. Re-verify only if the listed builder share link dies; prefer the listed url, since swapping a canonical url is an owner call.",
+ "share_url_slug_suffix_note": "Some harvested share urls carry a custom slug AFTER the id (e.g. https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea from the awesome-grokbot-templates harvest). Dedupe on the id segment, never on the last path segment: that one already ships as slug chief-of-staff-2 and only looked new on 2026-09-15 because the trailing slug was read as the id."
 }

@@ -70,6 +70,26 @@
    "source_post_url": "https://x.com/scottxmetcalf/status/2099551915164217627",
    "found_at": "2026-09-15T03:05:00Z",
    "reason": "HTTP 200 but the page is the generic template stub (<title>Grok Bot</title>, h1 'View shared Bot in Grok Bot', description 'Use this template to create a new bot or apply it to an existing bot'). No bot name or profile resolves from the share link; not queued."
+  },
+  {
+   "name": "Quiz Historyczny",
+   "bot_id": "D5A4QbXMACLWWokY4r3i4",
+   "url": "https://x.ai/bot/D5A4QbXMACLWWokY4r3i4",
+   "builder_x_handle": "vxel",
+   "one_line_desc": "Daily medium-hard history quizzes on Poland and Europe that reward thinking over date drills (Polish-language listing).",
+   "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates (data/templates.json, scraped 2026-09-15)",
+   "found_at": "2026-09-15T09:21:26Z",
+   "reason": "HTTP 404 on the x.ai share page (checked twice, ~2 min apart, with the same browser UA that returns 200 for live bot pages). Share link does not resolve, so it never ships."
+  },
+  {
+   "name": "Sally",
+   "bot_id": "pRoDOS3PHZI7JE-Mn4hb6",
+   "url": "https://x.ai/bot/pRoDOS3PHZI7JE-Mn4hb6",
+   "builder_x_handle": "EastgoCC",
+   "one_line_desc": "Weekday-morning real-estate scout: budget, size, schools, commute; explains why a listing fits and learns from feedback.",
+   "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates (data/templates.json, scraped 2026-09-15)",
+   "found_at": "2026-09-15T09:21:26Z",
+   "reason": "HTTP 404 on the x.ai share page (checked twice). Harvested 2026-09-15 by the awesome-grokbot-templates repo, but the share link is already dead; not queued."
   }
  ]
 }
