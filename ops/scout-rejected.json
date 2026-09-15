@@ -60,6 +60,16 @@
    "source_post_url": null,
    "found_at": "2026-09-14T08:15:00Z",
    "reason": "Live (HTTP 200, title '真Deviフレーム Type2トライアル by 星宮') but the description marks it as 星宮専用 (private, single-user) with a non-Latin name and no general use. Skipped deliberately: not a shareable template for our audience."
+  },
+  {
+   "name": "Grok Bot",
+   "bot_id": "Uy2oK9854UViaiO0rQ6nC",
+   "url": "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+   "builder_x_handle": "scottxmetcalf",
+   "one_line_desc": "Share link listed by grokbots.best and grokmarket.io as a template from @scottxmetcalf.",
+   "source_post_url": "https://x.com/scottxmetcalf/status/2099551915164217627",
+   "found_at": "2026-09-15T03:05:00Z",
+   "reason": "HTTP 200 but the page is the generic template stub (<title>Grok Bot</title>, h1 'View shared Bot in Grok Bot', description 'Use this template to create a new bot or apply it to an existing bot'). No bot name or profile resolves from the share link; not queued."
   }
  ]
 }

@@ -13874,5 +13874,263 @@
     "url": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
     "addedAt": "2026-09-14",
     "status": "published"
+  },
+  {
+    "slug": "vetstack",
+    "name": "VetStack",
+    "builder": {
+      "name": "Kenny",
+      "x": "kenashe"
+    },
+    "tagline": "Military and veteran savings desk: what applies, who qualifies, how to verify it.",
+    "description": "Takes something you are about to buy, already pay for, or already shop for and returns the current military and veteran discounts and benefits that apply, with who qualifies and how to verify it. Runs on demand only, with an optional email scan for purchase mail, and never asks for service documents, passwords or ID photos.",
+    "category": "money",
+    "features": [
+      "Purchase, subscription and receipt lookups",
+      "Optional email scan, off until you ask",
+      "Never asks for service documents or passwords"
+    ],
+    "url": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+    "addedAt": "2026-09-15",
+    "status": "published"
+  },
+  {
+    "slug": "grottle",
+    "name": "Grottle",
+    "builder": {
+      "name": "BCORN",
+      "x": "BCornTexas"
+    },
+    "tagline": "A clearer fuel gauge for your weekly Grok Bot usage.",
+    "description": "You paste your usage percentage and where the weekly window resets; it returns an easier to read gauge and, where the reset moment can be pinned down, the exact date and time. Advisory only, it measures usage and never touches your account, plan or spend.",
+    "category": "productivity",
+    "features": [
+      "Tick usage % and reset window",
+      "Reports the reset datetime when it can",
+      "Read-only: never changes account or spend"
+    ],
+    "url": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/BCornTexas/status/2099580443943227590"
+  },
+  {
+    "slug": "tin-el-investigador",
+    "name": "Tin El Investigador",
+    "builder": {
+      "name": "Valentin",
+      "x": "valengiulimor"
+    },
+    "tagline": "Turns a question into a ready-to-post Spanish update every day.",
+    "description": "Researches a subject across the web and the tools you have connected, then brings back a daily Spanish draft for X that braids a short reflection, one entertainment story and a line of psychology. Optional extras: formal email drafts and a weekly inbox cleanup. Publishing stays with you.",
+    "category": "creative",
+    "features": [
+      "Daily Spanish X draft",
+      "Reflection, entertainment and psychology strands",
+      "Optional formal email and weekly inbox cleanup"
+    ],
+    "url": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/valengiulimor/status/2099607798766084217"
+  },
+  {
+    "slug": "ledger-keeper",
+    "name": "记账管家",
+    "builder": {
+      "name": "铁柱AGI",
+      "x": "cgnot996"
+    },
+    "tagline": "A private spending ledger fed by text, receipt photos or voice notes.",
+    "description": "Records spending however it arrives, whether that is a typed line, a photo of a receipt or bill, or a spoken note, and writes the entries to a CSV on your own device with an optional Feishu or Lark bitable mirror. Setup walks you through installing and authorising the Feishu CLI first, so nothing syncs until you agree.",
+    "category": "money",
+    "features": [
+      "Text, photo or voice entries",
+      "CSV kept on your own machine",
+      "Optional Feishu/Lark mirror, opt-in only"
+    ],
+    "url": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/cgnot996/status/2099527147882942853"
+  },
+  {
+    "slug": "commitments",
+    "name": "Commitments",
+    "builder": {
+      "name": "Sam",
+      "x": "samlambert"
+    },
+    "tagline": "Logs the promises you make at work and holds them open until they are done.",
+    "description": "Watches Slack, Notion and email for commitments you make in passing, writes each one as a row in a Notion database, and leaves the row open until the work is genuinely finished. Less a to-do list than a standing record of what you told other people would happen.",
+    "category": "productivity",
+    "features": [
+      "Spots commitments in Slack, Notion and email",
+      "One Notion row per promise",
+      "Rows stay open until the work is done"
+    ],
+    "url": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/samlambert/status/2099584402045210992"
+  },
+  {
+    "slug": "e-mail-organizer",
+    "name": "E-mail Organizer",
+    "builder": {
+      "name": "Lein",
+      "x": "leingoedbloed"
+    },
+    "tagline": "Files one Gmail account by vendor and keeps invoices in their own label.",
+    "description": "Labels a business Gmail account by vendor, clears the noise out of the inbox, keeps PDF invoices in a separate payments label, and runs a daily check that reports only the mail that needs action.",
+    "category": "productivity",
+    "features": [
+      "Vendor labels",
+      "Payments label for PDF invoices",
+      "Daily action-only check"
+    ],
+    "url": "https://x.ai/bot/PUn74RYv_r3pcSvNkeQbd",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/leingoedbloed/status/2099569404115624094"
+  },
+  {
+    "slug": "taller",
+    "name": "Taller",
+    "builder": {
+      "name": "Franco",
+      "x": "FrancoE114696"
+    },
+    "tagline": "Dev-tools inbox that files repos, npm packages and CLI finds as short cards.",
+    "description": "Drop a repo, npm package, CLI tool or link and it saves a short Spanish card under taller/ on the bot's machine. Ask later and it recommends only from that library. Sibling of the Lienzo design inbox by the same builder.",
+    "category": "engineering",
+    "features": [
+      "Files repo, npm, CLI and link finds",
+      "Recommends only from the saved cards",
+      "Spanish-language notes"
+    ],
+    "url": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/FrancoE114696/status/2099646811992424632"
+  },
+  {
+    "slug": "lienzo",
+    "name": "Lienzo",
+    "builder": {
+      "name": "Franco",
+      "x": "FrancoE114696"
+    },
+    "tagline": "Saves design links as notes you can ask questions of later.",
+    "description": "Send it a design link, whether that is a design system, a component, a freebie or a shot you rate, and it catalogs a durable markdown note under design-resources on the bot's machine. Ask later and it recalls from that growing library, with optional light UI taste advice.",
+    "category": "creative",
+    "features": [
+      "Catalogs design links as markdown notes",
+      "Answers from the saved library",
+      "Optional UI taste notes"
+    ],
+    "url": "https://x.ai/bot/Czc1kCepdYnisFnRWfDKr",
+    "addedAt": "2026-09-15",
+    "status": "published"
+  },
+  {
+    "slug": "zuoyou-ai-scout",
+    "name": "左左的AI情报员",
+    "builder": {
+      "name": "Bbbb",
+      "x": "zuoyou_ai"
+    },
+    "tagline": "Daily Chinese AI briefing checked against 46 fixed sources.",
+    "description": "Runs a fixed list of 46 sources, verifies and de-duplicates what it finds, scores the items by importance and returns a short Chinese-language intelligence brief. Nothing is padded and nothing is sent outward, and a weekday morning-report routine recipe ships with it.",
+    "category": "research",
+    "features": [
+      "46 fixed sources",
+      "Verification, de-duplication and importance scoring",
+      "Weekday morning-report routine recipe"
+    ],
+    "url": "https://x.ai/bot/OqeUopbZ8pvjf6RyvRTQt",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/zuoyou_ai/status/2099531082375012572"
+  },
+  {
+    "slug": "skool-community-bot",
+    "name": "Skool Community Bot",
+    "builder": {
+      "name": "Shawn",
+      "x": "shawnjooste"
+    },
+    "tagline": "Runs a Skool community through the browser, with no Skool connector.",
+    "description": "Helps community admins work a Skool group: members, posts, personalised follow-ups and Q&A collation. It drives Skool through the browser rather than a connector, so it works on the pages an admin actually sees.",
+    "category": "productivity",
+    "features": [
+      "Member and post handling",
+      "Personalised follow-ups",
+      "Q&A collation"
+    ],
+    "url": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/shawnjooste/status/2099536605396586527"
+  },
+  {
+    "slug": "x402-bot",
+    "name": "x402 bot",
+    "builder": {
+      "name": "Jeff",
+      "x": "0rdlibrary"
+    },
+    "tagline": "Solana trading desk that runs Jupiter, Pump, Phoenix and more.",
+    "description": "A natural-language trading desk for Solana from SolGPT and x402.life. It runs Jupiter, Pump, Phoenix, Backpack and StonkFun with Solflare as the default signer, and it never stores seed phrases.",
+    "category": "money",
+    "features": [
+      "Jupiter, Pump, Phoenix, Backpack, StonkFun",
+      "Solflare as the default signer",
+      "Never stores seed phrases"
+    ],
+    "url": "https://x.ai/bot/_ICGTFLfhc98B8xzTLGzg",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/0rdlibrary/status/2099643576774775290"
+  },
+  {
+    "slug": "x-reply-radar",
+    "name": "X Reply Radar",
+    "builder": {
+      "name": "Sam",
+      "x": "sam_builds_ai"
+    },
+    "tagline": "Finds posts in your niche worth replying to, then drafts the replies.",
+    "description": "Scans a niche for posts worth replying to before they cool off and drafts short replies for you to send yourself. You set the topics and a weekly spend cap, and nothing goes out without you.",
+    "category": "sales",
+    "features": [
+      "Watches a niche for fresh posts",
+      "Drafts short replies",
+      "Topic and weekly spend controls"
+    ],
+    "url": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/sam_builds_ai/status/2099463729796755818"
+  },
+  {
+    "slug": "japanese-check",
+    "name": "日本語チェック",
+    "builder": {
+      "name": "24K",
+      "x": "gold24k9999"
+    },
+    "tagline": "Proofreads Japanese text bound for a boss or a decision-maker.",
+    "description": "Checks Japanese text you are about to hand to a manager or decision-maker: grammar, notation, keigo and readability, without changing the meaning. It does not write new text and it does not send anything on your behalf.",
+    "category": "productivity",
+    "features": [
+      "Grammar, notation and keigo fixes",
+      "Meaning preserved",
+      "No new writing, nothing sent"
+    ],
+    "url": "https://x.ai/bot/Szq07dsrlo5T2qcPxjqvT",
+    "addedAt": "2026-09-15",
+    "status": "published",
+    "source": "https://x.com/gold24k9999/status/2099428518111400150"
   }
 ]
