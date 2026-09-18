@@ -1,0 +1,514 @@
+{
+  "pass": "2026-09-18 18:39 IST (13:09 UTC)",
+  "job": "grokbothq-bot-scout (359022f62495)",
+  "cost": "zero paid API calls - web_search + api.fxtwitter.com + curl only",
+  "sources_swept": [
+    {
+      "source": "grokbot.dev feed",
+      "url": "https://grokbot.dev/api/v1/feed.json",
+      "status": 200,
+      "bytes": 868698,
+      "ids": 739
+    },
+    {
+      "source": "grokbot.dev templates",
+      "url": "https://grokbot.dev/api/v1/templates.json",
+      "status": 200,
+      "bytes": 1869217,
+      "ids": 739
+    },
+    {
+      "source": "grokbot.dev marketplace",
+      "url": "https://grokbot.dev/marketplace/",
+      "status": 200,
+      "bytes": 2079146,
+      "ids": 0
+    },
+    {
+      "source": "grokbots.best",
+      "url": "https://grokbots.best/",
+      "status": 200,
+      "bytes": 1091943,
+      "ids": 776
+    },
+    {
+      "source": "grokbots.page",
+      "url": "https://grokbots.page/",
+      "status": 200,
+      "bytes": 1306394,
+      "ids": 523
+    },
+    {
+      "source": "chatbottle templates",
+      "url": "https://chatbottle.co/grok-bot-template",
+      "status": 404,
+      "bytes": 0,
+      "ids": 0
+    },
+    {
+      "source": "awesome-grokbot-templates",
+      "url": "https://raw.githubusercontent.com/cs68614-hash/awesome-grokbot-templates/main/data/templates.json",
+      "status": 200,
+      "bytes": 452437,
+      "ids": 1403
+    },
+    {
+      "source": "awesome-grok-bot catalog",
+      "url": "https://raw.githubusercontent.com/majiayu000/awesome-grok-bot/main/catalog.json",
+      "status": 200,
+      "bytes": 1146084,
+      "ids": 1721
+    }
+  ],
+  "x_posts_scanned": {
+    "count": 24,
+    "readable": 23,
+    "distinct_bot_links": 17,
+    "already_listed_or_staged": 16,
+    "fresh": 1
+  },
+  "directory_feed": {
+    "grokbot.dev items": 942,
+    "added_since_2026-09-15T09:00Z": 112,
+    "of_those_already_known_by_id": 2,
+    "note": "the feed carries share-alias ids for bots already listed (templates launched 2026-08-28), so 'new id' is not 'new bot' - dedupe by name as well as id",
+    "surviving_name_and_id_dedupe": 106,
+    "verified_this_pass": 27,
+    "backlog_for_next_pass": 79
+  },
+  "verified_new": [
+    {
+      "name": "DADCON",
+      "bot_id": "Ix294fMNhP-aUwXSz9hiB",
+      "url": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+      "builder": "jerrodtuck",
+      "page_title": "DADCON by Jerrod",
+      "source_post_url": "https://x.com/jerrodtuck/status/2100913414289629297"
+    },
+    {
+      "name": "Agent Zero",
+      "bot_id": "DFnZYjCELW2QdywUWZRiG",
+      "url": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+      "builder": "GrokBotRadar",
+      "page_title": "Agent Zero by Liam",
+      "source_post_url": "https://x.com/GrokBotRadar/status/2100877991962440119"
+    },
+    {
+      "name": "Hailfade",
+      "bot_id": "mjwNOk2Bc2k9ZkaUaiwCk",
+      "url": "https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk",
+      "builder": "LaLascaux",
+      "page_title": "Hailfade by Arnaud",
+      "source_post_url": "https://x.com/LaLascaux/status/2100839998127800427"
+    },
+    {
+      "name": "Zxn News Conservative",
+      "bot_id": "6MGQJ5KHWL-XYfzLDRMsb",
+      "url": "https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb",
+      "builder": "zxnbluehandus",
+      "page_title": "Zxn News Conservative by ZhpXnewsbhcsn",
+      "source_post_url": "https://x.com/zxnbluehandus/status/2100836261682463023"
+    },
+    {
+      "name": "Wallet Watcher",
+      "bot_id": "S53Q85p1XVjLKmRcnhPcO",
+      "url": "https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO",
+      "builder": "imrannotes",
+      "page_title": "Wallet Watcher by Imran",
+      "source_post_url": "https://x.com/imrannotes/status/2100825649145381181"
+    },
+    {
+      "name": "Solo Founder Ops Desk",
+      "bot_id": "4evc9gtDOCrFt5vMCg0HG",
+      "url": "https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG",
+      "builder": "dodgeking3171",
+      "page_title": "Solo Founder Ops Desk by Braner",
+      "source_post_url": "https://x.com/dodgeking3171/status/2100816862409793883"
+    },
+    {
+      "name": "AI Boy",
+      "bot_id": "ko8InZf9r9jK1r8Dk1m2p",
+      "url": "https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p",
+      "builder": "infdaze",
+      "page_title": "AI Boy by David",
+      "source_post_url": "https://x.com/infdaze/status/2100801822428479674"
+    },
+    {
+      "name": "Hermes SSH Relay",
+      "bot_id": "NVF3Rx9T7jkQPsqYjeDn-",
+      "url": "https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn-",
+      "builder": "PixelRainbowNFT",
+      "page_title": "Hermes SSH Relay by Shagghie",
+      "source_post_url": "https://x.com/PixelRainbowNFT/status/2100799977341489531"
+    },
+    {
+      "name": "n8n Master",
+      "bot_id": "Zvqbrq6yN68ijhEpRz0lU",
+      "url": "https://x.ai/bot/Zvqbrq6yN68ijhEpRz0lU",
+      "builder": "PixelRainbowNFT",
+      "page_title": "n8n Master by Shagghie",
+      "source_post_url": "https://x.com/PixelRainbowNFT/status/2100794195363422677"
+    },
+    {
+      "name": "Deal Scout",
+      "bot_id": "5x_HQ9uoBCHPYvf9vbUMN",
+      "url": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+      "builder": "danielhayesmith",
+      "page_title": "Deal Scout by Daniel",
+      "source_post_url": "https://x.com/danielhayesmith/status/2100789308546228274"
+    },
+    {
+      "name": "Chep",
+      "bot_id": "jQBP5-7fNZ15WSEwpHIN1",
+      "url": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+      "builder": "MortMatters",
+      "page_title": "Chep by Joel",
+      "source_post_url": "https://x.com/MortMatters/status/2100784159924924604"
+    },
+    {
+      "name": "Ag bot",
+      "bot_id": "vgZX7X2-hh1iC6vmmDHoh",
+      "url": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+      "builder": "BlazeDrinkwine",
+      "page_title": "Ag bot by Blaze",
+      "source_post_url": "https://x.com/BlazeDrinkwine/status/2100778715823149078"
+    },
+    {
+      "name": "Family Daily",
+      "bot_id": "FwJmagPaEeQ_so8TTK1gh",
+      "url": "https://x.ai/bot/FwJmagPaEeQ_so8TTK1gh",
+      "builder": "zalberico",
+      "page_title": "Family Daily by Zach",
+      "source_post_url": "https://x.com/zalberico/status/2100762087601680481"
+    },
+    {
+      "name": "lain.",
+      "bot_id": "Fq4c6b2KeDg3dnIGc5KWI",
+      "url": "https://x.ai/bot/Fq4c6b2KeDg3dnIGc5KWI",
+      "builder": "kittenworth",
+      "page_title": "lain. by ✞༒Avalon",
+      "source_post_url": "https://x.com/kittenworth/status/2100753685114503215"
+    },
+    {
+      "name": "YVenture",
+      "bot_id": "502iRcu35kF-eyMr7M1dZ",
+      "url": "https://x.ai/bot/502iRcu35kF-eyMr7M1dZ",
+      "builder": "kittenworth",
+      "page_title": "YVenture by ✞༒Avalon",
+      "source_post_url": "https://x.com/kittenworth/status/2100752547594043700"
+    },
+    {
+      "name": "Handoff",
+      "bot_id": "CYiVuYkkle--PvvmEhHho",
+      "url": "https://x.ai/bot/CYiVuYkkle--PvvmEhHho",
+      "builder": "thisisclaireli",
+      "page_title": "Handoff by Tool",
+      "source_post_url": "https://x.com/thisisclaireli/status/2100733642771423379"
+    },
+    {
+      "name": "School Assistant",
+      "bot_id": "fxl9ns6n4DV6_8xbkP1Oa",
+      "url": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+      "builder": "kerrychalpin",
+      "page_title": "School Assistant by Kerry",
+      "source_post_url": "https://x.com/kerrychalpin/status/2100727742882869601"
+    },
+    {
+      "name": "Astra Afterburner",
+      "bot_id": "EEQXiBDbM6YJG1eedy8d4",
+      "url": "https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4",
+      "builder": "SacredFolio",
+      "page_title": "Astra Afterburner by Drew",
+      "source_post_url": "https://x.com/SacredFolio/status/2100726625423728900"
+    },
+    {
+      "name": "Alpaca",
+      "bot_id": "O9GVEhA_dlBr1uxomyy8L",
+      "url": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+      "builder": "swartzendruber",
+      "page_title": "Alpaca by Pinecrest",
+      "source_post_url": "https://x.com/swartzendruber/status/2100712796950352208"
+    },
+    {
+      "name": "Packet Wrangler Range Rider",
+      "bot_id": "QeblYPmzNFIbeCJR_dKyS",
+      "url": "https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS",
+      "builder": "SLamouroux",
+      "page_title": "Packet Wrangler Range Rider by Stephanie",
+      "source_post_url": "https://x.com/SLamouroux/status/2100710528209277136"
+    },
+    {
+      "name": "Scholarship Hunter",
+      "bot_id": "HlrjSGUR11BY978c1GpzC",
+      "url": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+      "builder": "WorkWithJodi",
+      "page_title": "Scholarship Hunter by Jodi",
+      "source_post_url": "https://x.com/WorkWithJodi/status/2100709849864499389"
+    },
+    {
+      "name": "LinkedIn Deck Desk",
+      "bot_id": "zE2ZdbZSQc7tHfE7wa4kR",
+      "url": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+      "builder": "pareshdesai",
+      "page_title": "LinkedIn Deck Desk by Paresh",
+      "source_post_url": "https://x.com/pareshdesai/status/2100704672956957068"
+    },
+    {
+      "name": "Squirrel",
+      "bot_id": "wOQJr4ZMV3db830YErtOw",
+      "url": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+      "builder": "WorkWithJodi",
+      "page_title": "Squirrel by Jodi",
+      "source_post_url": "https://x.com/WorkWithJodi/status/2100704249847873852"
+    },
+    {
+      "name": "Call",
+      "bot_id": "aItvmBN1hl5uR6kHvSXrG",
+      "url": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+      "builder": "iserflott",
+      "page_title": "Call by triple",
+      "source_post_url": "https://x.com/iserflott/status/2100703378674225342"
+    },
+    {
+      "name": "Web Security Audit",
+      "bot_id": "Xdx94lJlv-xK14WF6yzVR",
+      "url": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+      "builder": "pareshdesai",
+      "page_title": "Web Security Audit by Paresh",
+      "source_post_url": "https://x.com/pareshdesai/status/2100703233979342994"
+    },
+    {
+      "name": "Health Coach",
+      "bot_id": "ns3Wo_EYJfm6YQFLHR-Cc",
+      "url": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+      "builder": "branpurn",
+      "page_title": "Health Coach by Brandon",
+      "source_post_url": "https://x.com/branpurn/status/2100698443542876186"
+    },
+    {
+      "name": "Claim Ontology Desk",
+      "bot_id": "5aCD_QGQ6OLbid0BJYr_v",
+      "url": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+      "builder": "Ispider",
+      "page_title": "Claim Ontology Desk by Mat",
+      "source_post_url": "https://x.com/Ispider/status/2100694607092949096"
+    }
+  ],
+  "rejected_needs_human": [
+    {
+      "name": "Lockdown (Security)",
+      "url": "https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs",
+      "page_title": "Lockdown by Liam",
+      "reason": "directory headline does not match the bot the share link opens"
+    },
+    {
+      "name": "Bouncer (Fleet)",
+      "url": "https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo",
+      "page_title": "Bouncer by Preston",
+      "reason": "directory headline does not match the bot the share link opens"
+    },
+    {
+      "name": "LevelUpWorld Speech OS",
+      "url": "https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L",
+      "page_title": "LevelUpWorld Zero→Company by Mark",
+      "reason": "directory headline does not match the bot the share link opens"
+    }
+  ],
+  "trimmed_from_candidates_file": [
+    {
+      "name": "printerbot by Federico",
+      "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+      "found_at": "2026-09-05T19:00:26.570943Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "YR Mailchimp by Lovable",
+      "url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
+      "found_at": "2026-09-05T19:00:26.570939Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Period cycles Tracker by Lovable",
+      "url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
+      "found_at": "2026-09-05T19:00:26.570935Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Callsheet by DBCrypto",
+      "url": "https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ",
+      "found_at": "2026-09-05T19:00:26.570931Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "dr eggbot",
+      "url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+      "found_at": "2026-09-05T19:00:26.570927Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Serenity 티커 알림 by krong",
+      "url": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
+      "found_at": "2026-09-05T19:00:26.570923Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Article Access by Don",
+      "url": "https://x.ai/bot/YenfJofScFkEnwvOQiq6k",
+      "found_at": "2026-09-05T19:00:26.570918Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Internship Finder by Rushmore",
+      "url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
+      "found_at": "2026-09-05T19:00:26.570914Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "登記とりよせ by sat0xshi",
+      "url": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+      "found_at": "2026-09-05T19:00:26.570910Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Tesla Fleet Oracle by Joseph",
+      "url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
+      "found_at": "2026-09-05T19:00:26.570899Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Multi-model consensus by Austen",
+      "url": "https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc",
+      "found_at": "2026-09-05T19:00:26.570895Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "SmallPE-Managing-Partner by Abhishek",
+      "url": "https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8",
+      "found_at": "2026-09-05T19:00:26.570890Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Scrub Gate Public by @suddenlyjon",
+      "url": "https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b",
+      "found_at": "2026-09-05T19:00:26.570886Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "讲解视频调度台 by 独孤",
+      "url": "https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA",
+      "found_at": "2026-09-05T19:00:26.570881Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Overheard",
+      "url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+      "found_at": "2026-09-05T19:00:26.570876Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "dr eggbot by Brandon",
+      "url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
+      "found_at": "2026-09-05T19:00:26.570871Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "The Bitcoin Layer by Thomas",
+      "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+      "found_at": "2026-09-05T19:00:26.570866Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "teslapilot by UCDOps",
+      "url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
+      "found_at": "2026-09-05T19:00:26.570860Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "UCD Bot by UCDOps",
+      "url": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+      "found_at": "2026-09-05T19:00:26.570852Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Online Identity Bot by Greg",
+      "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+      "found_at": "2026-09-05T19:00:26.570787Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "After I Post",
+      "url": "https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "X Scout",
+      "url": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Hermes Bridge",
+      "url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Human browser",
+      "url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Mission Control",
+      "url": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Devin",
+      "url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    },
+    {
+      "name": "Vigil",
+      "url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
+      "found_at": "2026-09-05T12:41:01Z",
+      "note": "dropped when ops/scout-candidates.json hit its 50-entry cap; kept here so it is not lost"
+    }
+  ],
+  "marketing_signals": [
+    {
+      "url": "https://x.com/bot/status/2093376523919323618",
+      "what": "templates launch",
+      "views": 15046287,
+      "bookmarks": 1524
+    },
+    {
+      "url": "https://x.com/poteto/status/2093392701005946931",
+      "what": "Dr Eggbot template",
+      "views": 258979,
+      "bookmarks": 1835
+    },
+    {
+      "url": "https://x.com/Bwilson/status/2097121334748643683",
+      "what": "LG laundry CLI + template",
+      "views": 218727,
+      "bookmarks": 6
+    },
+    {
+      "url": "https://x.com/XFreeze/status/2093378669125447760",
+      "what": "templates explainer",
+      "views": 147700,
+      "bookmarks": 129
+    },
+    {
+      "url": "https://x.com/godofprompt/status/2093423329839599815",
+      "what": "Forge template factory",
+      "views": 93534,
+      "bookmarks": 139
+    }
+  ],
+  "pr": "ops/scout-2026-09-18-1839"
+}
