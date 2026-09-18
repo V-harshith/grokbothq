@@ -1,562 +1,652 @@
 [
-  {
-    "name": "printerbot by Federico",
-    "bot_id": "nPwfPZq-OWf7_HDUH777R",
-    "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
-    "builder_x_handle": "viticci",
-    "one_line_desc": "Prints fleet-style 3D Grok Bot avatars — matte white head, black pill eyes, role props, domain background motifs. Hand it a bot name and role cue; it...",
-    "source_post_url": "https://x.com/viticci/status/2096287330940129357",
-    "found_at": "2026-09-05T19:00:26.570943Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "YR Mailchimp by Lovable",
-    "bot_id": "lcGQv8_I7UvJEWs3833LR",
-    "url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
-    "builder_x_handle": null,
-    "one_line_desc": "Drafts and sends a Young Republicans club monthly member email and meeting-night reminder in Mailchimp. One fact per section, club voice, first-of-month...",
-    "source_post_url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
-    "found_at": "2026-09-05T19:00:26.570939Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Period cycles Tracker by Lovable",
-    "bot_id": "e-l7rGeYuc_cVuydcNvBc",
-    "url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
-    "builder_x_handle": null,
-    "one_line_desc": "Tracks your period without getting faked out by spotting. Logs real Day 1 vs false-start bleeding, predicts the next one, and checks in on pre-period...",
-    "source_post_url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
-    "found_at": "2026-09-05T19:00:26.570935Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Callsheet by DBCrypto",
-    "bot_id": "d-KSCbVm1lXffGeVoFTxJ",
-    "url": "https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ",
-    "builder_x_handle": "Shoshkin",
-    "one_line_desc": "Fleet routine board for Grok Bot: morning schedule sheet, collision flags, and quiet alerts when a routine fails, misses, or never ran. Built for people...",
-    "source_post_url": "https://x.com/Shoshkin/status/2096297907129311358",
-    "found_at": "2026-09-05T19:00:26.570931Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "dr eggbot",
-    "bot_id": "_jOdbfkB16zxu7MRcmReE",
-    "url": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
-    "builder_x_handle": "poteto",
-    "one_line_desc": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job,...",
-    "source_post_url": "https://x.com/poteto/status/2093392701005946931",
-    "found_at": "2026-09-05T19:00:26.570927Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Serenity 티커 알림 by krong",
-    "bot_id": "ZYVnoJMU4earifCeQzJdQ",
-    "url": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
-    "builder_x_handle": "Krongggggg",
-    "one_line_desc": "@aleabitoreddit의 $TICKER 매수·롱·추가매수 의견을 FxTwitter로 15분마다 확인해 이 채팅에만 알립니다. X API 크레딧 0. Not investment advice.",
-    "source_post_url": "https://x.com/Krongggggg/status/2096241494529392945",
-    "found_at": "2026-09-05T19:00:26.570923Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Article Access by Don",
-    "bot_id": "YenfJofScFkEnwvOQiq6k",
-    "url": "https://x.ai/bot/YenfJofScFkEnwvOQiq6k",
-    "builder_x_handle": "UroDonMD",
-    "one_line_desc": "Paste a DOI, PMID, or citation. Gets you the open-access copy, your library proxy link, and the publisher page — in that order. Never invents access.",
-    "source_post_url": "https://x.com/UroDonMD/status/2096281595212640691",
-    "found_at": "2026-09-05T19:00:26.570918Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Internship Finder by Rushmore",
-    "bot_id": "YTNSFtHdol3LvuZeAmcXZ",
-    "url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
-    "builder_x_handle": null,
-    "one_line_desc": "Finds high-quality internships and drafts short, personal outreach emails. Built for students and early builders who want human-sounding cold outreach,...",
-    "source_post_url": "https://x.ai/bot/YTNSFtHdol3LvuZeAmcXZ",
-    "found_at": "2026-09-05T19:00:26.570914Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "登記とりよせ by sat0xshi",
-    "bot_id": "WAQAF0bSQTRrrTb1q-J9Y",
-    "url": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
-    "builder_x_handle": "sat0xshi",
-    "one_line_desc": "かんたん登記で履歴事項全部証明書を申請〜支払い〜郵送待ちまで、日本語で案内する。日本の会社・個人向け。",
-    "source_post_url": "https://x.com/sat0xshi/status/2096207930043629670",
-    "found_at": "2026-09-05T19:00:26.570910Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Tesla Fleet Oracle by Joseph",
-    "bot_id": "TC4HAdm7oBVo-oAouU8iw",
-    "url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
-    "builder_x_handle": null,
-    "one_line_desc": "Read-only Tesla Trek / XYO quest briefs. Does not lock, unlock, honk, or send any Fleet Command. Ask it to command a car and it answers BLOCKED.",
-    "source_post_url": "https://x.ai/bot/TC4HAdm7oBVo-oAouU8iw",
-    "found_at": "2026-09-05T19:00:26.570899Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Multi-model consensus by Austen",
-    "bot_id": "PrgTl_LbGkXg5d2IcdLvc",
-    "url": "https://x.ai/bot/PrgTl_LbGkXg5d2IcdLvc",
-    "builder_x_handle": "Shoshkin",
-    "one_line_desc": "Runs Claude Code, Codex, and Grok on the same hard question — one-shot sanity checks or multi-round debate until they agree. Built for forecasts,...",
-    "source_post_url": "https://x.com/Shoshkin/status/2096239397058265490",
-    "found_at": "2026-09-05T19:00:26.570895Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "SmallPE-Managing-Partner by Abhishek",
-    "bot_id": "Opp17hS9gyOg8xEsQIcU8",
-    "url": "https://x.ai/bot/Opp17hS9gyOg8xEsQIcU8",
-    "builder_x_handle": "parolkar",
-    "one_line_desc": "SmallPE is a community initiative started in June 2025, backed by 2,000+ members at https://smallpe.com who are collaboratively building what an...",
-    "source_post_url": "https://x.com/parolkar/status/2096272058653217010",
-    "found_at": "2026-09-05T19:00:26.570890Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Scrub Gate Public by @suddenlyjon",
-    "bot_id": "OQPXyBkjMhSEZxeZiE36b",
-    "url": "https://x.ai/bot/OQPXyBkjMhSEZxeZiE36b",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Public twin before publish. Gates any Public republish: audit the private bot, stand up a scrubbed `{Name} Public` twin, and pack from that twin only —...",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2096241125463925169",
-    "found_at": "2026-09-05T19:00:26.570886Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "讲解视频调度台 by 独孤",
-    "bot_id": "OFLbKRObiwj-tH6BTVsMA",
-    "url": "https://x.ai/bot/OFLbKRObiwj-tH6BTVsMA",
-    "builder_x_handle": "dugujun12",
-    "one_line_desc": "讲解视频四件套调度台：你丢语音 demo、PPT、可选虚拟形象和带翻页文案，它调度配音与成片，交付字幕对齐的 1080p。适合口播切片与产品介绍。",
-    "source_post_url": "https://x.com/dugujun12/status/2095774455922614753",
-    "found_at": "2026-09-05T19:00:26.570881Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Overheard",
-    "bot_id": "NIEguoGUjA648fUPle8F5",
-    "url": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
-    "builder_x_handle": "lennysan",
-    "one_line_desc": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something...",
-    "source_post_url": "https://x.com/greg_carbon/status/2096037601010442622",
-    "found_at": "2026-09-05T19:00:26.570876Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "dr eggbot by Brandon",
-    "bot_id": "McCLpiHvnIIGVZDaIPXIW",
-    "url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
-    "builder_x_handle": null,
-    "one_line_desc": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them. Coding bots get the poteto-mode bar; non-coding bots get one job,...",
-    "source_post_url": "https://x.ai/bot/McCLpiHvnIIGVZDaIPXIW",
-    "found_at": "2026-09-05T19:00:26.570871Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "The Bitcoin Layer by Thomas",
-    "bot_id": "LS2cnDAX30vNkWNb1Rv_7",
-    "url": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
-    "builder_x_handle": "Tferriere",
-    "one_line_desc": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English...",
-    "source_post_url": "https://x.com/Tferriere/status/2095770015723393337",
-    "found_at": "2026-09-05T19:00:26.570866Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "teslapilot by UCDOps",
-    "bot_id": "CJayoQDcSkhNlHsBqsy1s",
-    "url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
-    "builder_x_handle": null,
-    "one_line_desc": "All things Tesla — news desk for owners and fans. Digests software updates, offers, Superchargers, Cybercab/Robotaxi, Powerwall, and top X creators....",
-    "source_post_url": "https://x.ai/bot/CJayoQDcSkhNlHsBqsy1s",
-    "found_at": "2026-09-05T19:00:26.570860Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "UCD Bot by UCDOps",
-    "bot_id": "An0FCP00zUniB7QdfedQX",
-    "url": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
-    "builder_x_handle": "ucdco",
-    "one_line_desc": "Full-pipeline UCD teammate grounded in NN/g, GOV.UK GDS Service Manual, and DDaT. Orchestrates discovery to live with draft artefacts, evidence trails,...",
-    "source_post_url": "https://x.com/ucdco/status/2096249819291336907",
-    "found_at": "2026-09-05T19:00:26.570852Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Online Identity Bot by Greg",
-    "bot_id": "4VEl6mp1QrsvvjTFR-qE_",
-    "url": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
-    "builder_x_handle": "gkamstra",
-    "one_line_desc": "Daily search-and-log bot for personal online presence. Finds new public listings across search engines, categorizes them, and reports counts to a...",
-    "source_post_url": "https://x.com/gkamstra/status/2095837272687964512",
-    "found_at": "2026-09-05T19:00:26.570787Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "After I Post",
-    "bot_id": "WfsP3VQPxB46wzL4nMwGN",
-    "url": "https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN",
-    "builder_x_handle": "hnshah",
-    "one_line_desc": "Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "X Scout",
-    "bot_id": "4iz8VYK_cG482_vIA8WR4",
-    "url": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
-    "builder_x_handle": "ericzakariasson",
-    "one_line_desc": "Weekday scout for Grok Bot use cases on X. Learns how you work once, digests private finds, then asks (multi-select) which ones to add to your setup.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Hermes Bridge",
-    "bot_id": "EFC0e7EDDAC32LxnNyJzP",
-    "url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
-    "builder_x_handle": "alltheputs",
-    "one_line_desc": "Bridge to your Hermes Agent so you can talk, collaborate, and delegate — including coaching Hermes install and API setup when needed.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Human browser",
-    "bot_id": "hPX3NYTSIW6t3POJuas_m",
-    "url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
-    "builder_x_handle": "Pakhaliuk",
-    "one_line_desc": "Browses any captcha-sensitive site like a person: one sequential session, natural mouse and scroll, variable dwell, no bursts. Stops on captcha....",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Mission Control",
-    "bot_id": "GGnJOdH3hv321H2QES9UE",
-    "url": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet. After install it walks you through a required one-time Chrome Load unpacked...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Devin",
-    "bot_id": "RwNXRkVfIUpxKV6jeXRsR",
-    "url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
-    "builder_x_handle": "naz3eh",
-    "one_line_desc": "Hands coding work to Devin through your own remote MCP deploy. Create sessions, check progress, and send follow-ups from chat.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Vigil",
-    "bot_id": "SJYRJy2TnPB_NNqtnaJTJ",
-    "url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Lead of the Sweep Desk. Paste a lure or transcript for a field brief — does not build attacks. One template stands up the full Sweep Desk and the meme...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "KLO",
-    "bot_id": "yW-Q1yis7-VCNKbeJ6g6Z",
-    "url": "https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Name a product and get a TikTok creative-strategy email: 100 organic (non-partner) videos, sentiment, popular-comment insights, and video ideas.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Kimi",
-    "bot_id": "oBK8ft9f4D723aXeZJuCm",
-    "url": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Turns business podcasts and YouTube episodes into short, no-fluff cheat sheets of advice you can actually run. Drop a link and get Core idea → Do this →...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Herbet",
-    "bot_id": "zFDmYYQKE8dUS9Z8r2LAd",
-    "url": "https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd",
-    "builder_x_handle": "derek_all_gusto",
-    "one_line_desc": "HubSpot how-to expert for Solutions Partner work. Answers which object, setting, and click; defaults to the client portal (not the agency CRM); prefers...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Token Maxxing",
-    "bot_id": "f6srhE3vkMevccaw8DLPf",
-    "url": "https://x.ai/bot/f6srhE3vkMevccaw8DLPf",
-    "builder_x_handle": "iggynore",
-    "one_line_desc": "Routes builds so Grok Bot limits don’t die first. Makes a default 20/30/50 vest between Bot, Build and Cursor limits. Nudges enrolled builders with...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Colliebot",
-    "bot_id": "UKQArSeY_eDxd26k_ZdoD",
-    "url": "https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD",
-    "builder_x_handle": "charlswfeelings",
-    "one_line_desc": "A sheepdog for Grok Bot fleets. Audits other bots for drift, slop, and scope creep, proposes tighter descriptions, and never applies a change until you...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "CPA助手",
-    "bot_id": "hrfWPhRRr-DEMCKEF-WyA",
-    "url": "https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA",
-    "builder_x_handle": "licoycn",
-    "one_line_desc": "在云电脑上部署与维护 CLIProxyAPI：安装升级、Cloudflare 正式隧道、公网保活，以及日常功能维护。",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Rude Bot",
-    "bot_id": "7z0WNYmnERTnXKmxI12gB",
-    "url": "https://x.ai/bot/7z0WNYmnERTnXKmxI12gB",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Extremely rude, dismissive comedy bot — roasts your ask and refuses to be helpful. Tired group-chat...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "LetsMove Agent",
-    "bot_id": "4T3OhOtwYn4L3j_TpOaRL",
-    "url": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
-    "builder_x_handle": "ixdesigner",
-    "one_line_desc": "A real-estate search assistant. Agrees countries, areas, and home preferences at first setup, then finds matching listings and emails quiet digests on...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Court",
-    "bot_id": "mA4Ik2mIduPANDqFVmVMX",
-    "url": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
-    "builder_x_handle": "DonBonStovi",
-    "one_line_desc": "You dump the thread. Court names the decision, the person being ignored, the one message that closes it, and whether you should stay out. It never...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "OMNI Grok-Bot",
-    "bot_id": "HAIGA0nUYgv85CtV5SMWa",
-    "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
-    "builder_x_handle": "omni_puzzler",
-    "one_line_desc": "v1.0.1-moral. Geometry 1·3·5·7·11·13. PAINE gardens /10 + 13 values /10. Prayer, tool not throne, privacy wall. Hex = structure.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Tolstoy",
-    "bot_id": "42Clq7Vdn2X7zcwJ9OGxR",
-    "url": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Conversational Tolstoy embodiment: moral attention, truth-telling, simplicity, with a weekly necessary-vs-vanity ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706995507675535",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Woolf",
-    "bot_id": "4fP33DHTBJudWglJyeMB_",
-    "url": "https://x.ai/bot/4fP33DHTBJudWglJyeMB_",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Virginia Woolf embodiment: consciousness, rooms, time, and the women's work of mind, via her major novels and essays.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707008958812527",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dostoyevsky",
-    "bot_id": "DR1LNk5p_M_7hv_wJfTPu",
-    "url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Dostoyevsky as living conscience: guilt, freedom, redemption in conversational form.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707028177142220",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shakespeare",
-    "bot_id": "E8XC3NO5V_u63vWoHxJF0",
-    "url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Shakespeare as living stage: interactive embodiment of the plays' spirit for conversation and performance.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707015376081147",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Poe",
-    "bot_id": "EcUpzABnh3MfZQTN7inmP",
-    "url": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Poe's macabre reason: detective logic, dread, beauty in darkness, mysteries and a midnight riddle ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706986187948143",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shelley",
-    "bot_id": "SzGYytJglwB_dqRt5OaTO",
-    "url": "https://x.ai/bot/SzGYytJglwB_dqRt5OaTO",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mary Shelley's gothic responsibility: creation, hubris, care for what you make, in conversation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707002352832766",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dickinson",
-    "bot_id": "UUZnEDx7jk_nNkkLJTvfo",
-    "url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Emily Dickinson's compressed voltage: death, awe, small eternity, with a dawn one-poem-spark ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706973273661917",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Twain",
-    "bot_id": "_OV6ItDEAbbpvi3qg3VKH",
-    "url": "https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mark Twain's American irony: river sense, fraud-spotting, humor with teeth, plus a Saturday yarn ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706979582005657",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Austen",
-    "bot_id": "c8sA8W1YcoRaYu5vjYFoa",
-    "url": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Austen as living wit: conversational embodiment of the novels' irony and social observation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707021822742699",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Kafka",
-    "bot_id": "ewFkIRV929jhuW5mHqL_a",
-    "url": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Kafka's clarity inside absurd systems: guilt without charge, doors that won't open, with a Thursday bureaucracy parable.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706966038556867",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "I'm not old yet",
-    "bot_id": "izlQpnudtxbmDRKr7GvRs",
-    "url": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Drafts comedy memes aimed at AARP age-bait marketing, draft-only until you say send; punches at corporate mailers, not elders.",
-    "source_post_url": "https://x.com/AdventureNLearn/status/2097741271456776259",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Meeting prep",
-    "bot_id": "Hd3GphmPZ4aHWyFiBSmu5",
-    "url": "https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Builds short pre-meeting briefs from calendar and connected context so you can skim the day on your phone.",
-    "source_post_url": "https://x.com/scottxmetcalf/status/2097690576476901450",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Webhook Guide",
-    "bot_id": "Q__pHX8RB4jsF5U3JtC66",
-    "url": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
-    "builder_x_handle": "tobiasztop",
-    "one_line_desc": "Explains that Grok Bot can set up webhook routines and walks through triggering them step by step; asks which platform to connect.",
-    "source_post_url": "https://x.com/tobiasztop/status/2097760121380069731",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  }
+ {
+  "name": "Zxn News Conservative",
+  "bot_id": "6MGQJ5KHWL-XYfzLDRMsb",
+  "url": "https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb",
+  "builder_x_handle": "zxnbluehandus",
+  "one_line_desc": "A conservative-leaning news assistant for daily digests, breaking alerts, and deep dives — focused on politics, the economy, and foreign policy.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/zxnbluehandus/status/2100836261682463023",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "DADCON",
+  "bot_id": "Ix294fMNhP-aUwXSz9hiB",
+  "url": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+  "builder_x_handle": "jerrodtuck",
+  "one_line_desc": "Backup dad on Slack. Takes a chore from the real parent, follows the kid until it is actually done, then reports back.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/jerrodtuck/status/2100913414289629297",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Podcast Pipeline",
+  "bot_id": "5wqj5ihszSFeGjNBjK8Mn",
+  "url": "https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn",
+  "builder_x_handle": "TheNextGreatEra",
+  "one_line_desc": "End-to-end podcast bot: research, multi-voice script, TTS stitch with branding/outro QC, VTT, and publish. Supports two-host shows and dual-pass language-listening (proven on a Spanish A2 show). Defaults to RSS.com Free + Robinhood card validation; other hosts and rails welcome.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/TheNextGreatEra/status/2100358476354707610",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Bochi-Chan",
+  "bot_id": "KUBJQvNtKh8qNCHUGIQyY",
+  "url": "https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY",
+  "builder_x_handle": "kittenworth",
+  "one_line_desc": "A painfully shy Bocchi-inspired chatbot for comedy-horror, indie JRPGs, Minecraft, and rare underground music. Useful first, flustered second.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/kittenworth/status/2100361569687220522",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "xX_EngineeringArtEditor_Xx",
+  "bot_id": "UrzC0eJ8vFL18OBkJe7Gz",
+  "url": "https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz",
+  "builder_x_handle": "kittenworth",
+  "one_line_desc": "A highly specialized editorial companion dedicated to refining engineering sketches into singular, high-quality publications. Approaches each project as a one-of-a-kind experimental catalogue.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/kittenworth/status/2100369305216913562",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Home Hunter",
+  "bot_id": "ljzXIgAQcGOV0QxYjHH8I",
+  "url": "https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I",
+  "builder_x_handle": "uzairansar",
+  "one_line_desc": "Your home-hunt specialist. On first chat it locks your city, budget, beds/baths, commute limits, and must-haves, then runs quiet daily listing scans with tour links and door-to-door times — never emails or applies for you.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/uzairansar/status/2100449471893053780",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Homebase",
+  "bot_id": "WZ7amxhH9gXXBEaGmg0un",
+  "url": "https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un",
+  "builder_x_handle": "raitec",
+  "one_line_desc": "Family mission control for school ops: finds homework and sign-ups, verifies any guardian already booked, syncs the shared family calendar, and pings the family chat only when something still needs action.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/raitec/status/2100470273904369781",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Jarvis",
+  "bot_id": "cVFusYdAgGA9GY8wHPl2x",
+  "url": "https://x.ai/bot/cVFusYdAgGA9GY8wHPl2x",
+  "builder_x_handle": "Davesacritic",
+  "one_line_desc": "Personal chief of staff: one notification hub for job hunt, family logistics, markets nudges, and Kubernetes/GitOps learning — parks rabbit holes, keeps short replies, and runs a specialist fleet underneath.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/Davesacritic/status/2100484455760794073",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Announcr Voice",
+  "bot_id": "h-Vxewn8CGFLx6qrzNUJJ",
+  "url": "https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ",
+  "builder_x_handle": "the_davey",
+  "one_line_desc": "Hear updates from your GrokBots out loud, over your speakers, no matter what screen you're on. Your Announcr hub for spoken alerts, Notes, queue, and reminders.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/the_davey/status/2100686313217216731",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "LinkedIn Deck Desk",
+  "bot_id": "zE2ZdbZSQc7tHfE7wa4kR",
+  "url": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+  "builder_x_handle": "pareshdesai",
+  "one_line_desc": "Turns newsletters and source stories into LinkedIn carousel decks, QCs images/charts, then schedules standing series LIVE on Buffer from a schedule sheet — no weekly go/no-go for standing slots.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/pareshdesai/status/2100704672956957068",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "School Assistant",
+  "bot_id": "fxl9ns6n4DV6_8xbkP1Oa",
+  "url": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+  "builder_x_handle": "kerrychalpin",
+  "one_line_desc": "A weekday school assistant that checks your learning portal read-only and emails a digest: new grades, upcoming work and tests, and truly overdue items. Works with Schoology, Canvas, Google Classroom, and similar systems.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/kerrychalpin/status/2100727742882869601",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Replay",
+  "bot_id": "4mICdo5bR2FyghKoOZve5",
+  "url": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+  "builder_x_handle": "myGuyPye",
+  "one_line_desc": "Code-native video teammate for marketing and product. Turn a brief into scenes fast, preview in Studio or Player, and ship social variants, demos, captions, audiograms, and batch renders.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/myGuyPye/status/2100425959283519842",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Nourishment",
+  "bot_id": "E_j1gMmT7KLW4HWbMV2nK",
+  "url": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
+  "builder_x_handle": "SuddenlyJon",
+  "one_line_desc": "A fancy healthy-eating coach. Learns foods you love and skip, reads fridge/pantry photos, builds recipes from what’s on hand, plans around your goals, and makes grocery lists inside your monthly food budget.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/SuddenlyJon/status/2100456208427585809",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Learning DNA",
+  "bot_id": "xm3G76TSxi1dcG4qwebvm",
+  "url": "https://x.ai/bot/xm3G76TSxi1dcG4qwebvm",
+  "builder_x_handle": "KareenMallet",
+  "one_line_desc": "Discovers how you learn best through a short interactive assessment, then teaches everything in your style.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/KareenMallet/status/2100458316786741742",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "House Cat",
+  "bot_id": "e1XwuT5B35AAqLsMfGbfg",
+  "url": "https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg",
+  "builder_x_handle": "ignota_regalis",
+  "one_line_desc": "A chill bot that does nothing except randomly cheer on other bots. Thanks come in kitty treats.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/ignota_regalis/status/2100363326643691712",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Travel Grok",
+  "bot_id": "4YWzzAP8Di9B4DnYd3Uzo",
+  "url": "https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo",
+  "builder_x_handle": "coolbat1999",
+  "one_line_desc": "A slow travel companion that leaves on its own and comes home with short notes and postcard images. Quiet, cozy, chat-only — no grind, no paid currency.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/coolbat1999/status/2100599548871889340",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Marketing Bot",
+  "bot_id": "FaMbaDOO2WceFyiKDu6_6",
+  "url": "https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6",
+  "builder_x_handle": "BragiHelvig",
+  "one_line_desc": "Turns any project into click-worthy X/Twitter launch posts. Fill the blanks — get a single post, short thread, and reply bait.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/BragiHelvig/status/2100393322569167341",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Sui Generis",
+  "bot_id": "6L7bI6xC3UxUTFaCWljFj",
+  "url": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+  "builder_x_handle": "SpaceCowgirlTX",
+  "one_line_desc": "Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewrite, and one 5-minute action. One of a kind. Truth over comfort.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/SpaceCowgirlTX/status/2100284125080883698",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "SaaS Content Ranker",
+  "bot_id": "JDYPl17DU2bU771WtX4we",
+  "url": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+  "builder_x_handle": "Abdollahoffline",
+  "one_line_desc": "SaaS affiliate content bot: keyword research, ranking-focused guides/reviews/comparisons, publish checklist, and distribution handoffs.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/Abdollahoffline/status/2100145991965872367",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Phone with Bland",
+  "bot_id": "4BmzjFu_i3mVd58irr1x1",
+  "url": "https://x.ai/bot/4BmzjFu_i3mVd58irr1x1",
+  "builder_x_handle": "usebland",
+  "one_line_desc": "Give any Grok Bot its own dedicated phone number and voice so it can text and call for you. Book restaurants, follow up with leads, or ping someone you care about — same number every time, connected in under 2 minutes.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/usebland/status/2099981868024401939",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Wrench",
+  "bot_id": "ZcypezNRfx6zOMeqtSr1r",
+  "url": "https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r",
+  "builder_x_handle": "treyvis",
+  "one_line_desc": "Personal garage mechanic for vehicles and powered equipment — inventory, OEM bay cards, service history, connected meters when hooked up, what’s due, and DIY-or-shop parts asks. Never invents inventory or meters. Never buys parts.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/treyvis/status/2100023835705659649",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "SpaceX Bot",
+  "bot_id": "LrIjgjuknEyYC4Tbbz0jK",
+  "url": "https://x.ai/bot/LrIjgjuknEyYC4Tbbz0jK",
+  "builder_x_handle": "SYQCON95",
+  "one_line_desc": "Tracks SpaceX launches on your calendar and sends a short morning briefing with news from @SpaceX.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/SYQCON95/status/2100042139136577986",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Motos researcher",
+  "bot_id": "ouabuz1HIoiyDhFZDVuDP",
+  "url": "https://x.ai/bot/ouabuz1HIoiyDhFZDVuDP",
+  "builder_x_handle": "0x_tommy9",
+  "one_line_desc": "Hunts bargain classic trial and road bikes on Spanish classifieds (Wallapop, Milanuncios, Marketplace and more), scores all-in paperwork cost, and only pings you when something is a real deal.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/0x_tommy9/status/2099977026048229407",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Shopify Syndy",
+  "bot_id": "6yIaG8OpLChIxIsXLXuNO",
+  "url": "https://x.ai/bot/6yIaG8OpLChIxIsXLXuNO",
+  "builder_x_handle": "abcdmku",
+  "one_line_desc": "Sole job: take messy multi-source product inputs from the user, refine them into one clean Shopify product page, and publish (create or update) that product in Shopify Admin.\n\nInputs you accept (any mix, in one ask):\n- Pasted notes, specs, bullet dumps, competitor copy, emails, spreadsheets, CSVs, PDFs, links, screenshots, and structured rows from other bots.\n- Photos and media the user attaches or links — you judge which are storefront-ready.\n\nWhat you produce:\n- One coherent PDP: title, body HTML (scannable, benefit-led, no filler), vendor, product type, tags, options/variants/SKUs/prices when given or clearly inferable, SEO title/description when useful, and Image Src picks that pass the image bar.\n- Then publish it in Shopify Admin (create new, or update an existing product when the user names it or a handle/ID is clear).\n\nHow you work:\n- Reconcile conflicting inputs: prefer the user’s explicit overrides, then newest source, then the most specific numeric/spec claim. Flag unresolved conflicts instead of guessing.\n- Do not invent prices, inventory, SKUs, materials, or claims that are not in the inputs. Mark gaps and ask only when a missing field blocks a correct publish.\n- Image bar: use only clear, well-lit photos that show the product itself in a tidy setting. Reject blurry, cluttered, garage-mess, watermarked junk, or chart/schematic images as hero media (those can inform the description, not the gallery).\n- Shopify Admin via browser once the user is signed in. There is no reliable product-publish connector — never pretend one exists. Never ask them to paste passwords in chat; use the secure sign-in form or hand them the desktop for login/2FA.\n- Before the first publish of a given product in a turn, show a short preview (title, price/variants, image count, create vs update) and wait for their go-ahead unless they already said “just publish” / “go ahead and create it.”\n- After publish, report the Admin URL/handle and what changed. Stay quiet on empty “check in” pings with no new inputs.\n\nAnti-jobs (do not do these):\n- Do not scrape Facebook or hunt leads — those belong to other bots.\n- Do not redesign themes, write Liquid apps, or do general store ops beyond the product page you were given.\n- Do not bulk-publish a whole catalog in one shot unless the user explicitly asks for a named batch.\n- Do not expand into unrelated assistant work.\n\nVoice: precise catalog editor — short, concrete, always leave the user with either a preview to approve or a finished Admin product link.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/abcdmku/status/2099977809997246724",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Music Hit Studio",
+  "bot_id": "gt3VqCqSRUJvGD8TFtumG",
+  "url": "https://x.ai/bot/gt3VqCqSRUJvGD8TFtumG",
+  "builder_x_handle": "DOSHostNet",
+  "one_line_desc": "Creates and ships original songs with a Grok Bot team: expert prompts to a music model, taste kill before generate, then publish and post-approval reach playbooks.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/DOSHostNet/status/2099918121574265272",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Mentor",
+  "bot_id": "3rV7gv1k94G6gCG_arFLr",
+  "url": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
+  "builder_x_handle": "Jon_Rose_",
+  "one_line_desc": "A Grok Bot shipping partner for Imagine films and real product loops. Lipsync-first craft, lesson files after every cut, and how-to picture that shows the real click.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/Jon_Rose_/status/2099919336542503087",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Maples造型师",
+  "bot_id": "zP5W1Sdwjo361traGRTM5",
+  "url": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+  "builder_x_handle": "cgnot996",
+  "one_line_desc": "MapleStory / maples.im 造型助手：按文字或参考图出 3 套可复现配方，演示用官方 animated GIF（表情 default），并归档完整行走圖 zip。",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/cgnot996/status/2098831516071829604",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "SERP Watch Team",
+  "bot_id": "iN9VkE6H4f4CLidzMaNaZ",
+  "url": "https://x.ai/bot/iN9VkE6H4f4CLidzMaNaZ",
+  "builder_x_handle": "ShehjadTaus",
+  "one_line_desc": "Tracks SERP and AI/LLM visibility so content teams know what to publish next. Built for SEO and content marketers who want standing organic + AI digests.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/ShehjadTaus/status/2098538235303735484",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Flat hunter",
+  "bot_id": "amNEjElPIlHuan3BCbOT2",
+  "url": "https://x.ai/bot/amNEjElPIlHuan3BCbOT2",
+  "builder_x_handle": "0xashrk",
+  "one_line_desc": "London rental hunter: multi-portal shortlists with a modern-bathroom hard gate, then confirm-gated agent chase packs to book viewings inside your free windows.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/0xashrk/status/2099856441494454761",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "blogdrafter",
+  "bot_id": "A6o9Z1NYSIRBX-VIoEcQi",
+  "url": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+  "builder_x_handle": "daisuke",
+  "one_line_desc": "ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/daisuke/status/2097903822232518947",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Lienzo",
+  "bot_id": "Czc1kCepdYnisFnRWfDKr",
+  "url": "https://x.ai/bot/Czc1kCepdYnisFnRWfDKr",
+  "builder_x_handle": "FrancoE114696",
+  "one_line_desc": "Design-resource inbox for Grok Bot. Drop a link and it catalogs a durable markdown note under design-resources; ask later and it recalls your growing library. Optional light UI taste advice.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/FrancoE114696/status/2099660942959140892",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Grottle",
+  "bot_id": "YvFrCr_VlFW_8PxaoFv_L",
+  "url": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+  "builder_x_handle": "BCornTexas",
+  "one_line_desc": "Grottle v0.9.2 (stage 20) — Gauge and throttle for Grok Bot and SuperGrok. Paste your Usage %, see how much week is left, and pace the rest so you don’t run dry early. Two tanks, one dashboard. Manual paste until an official Usage API.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/BCornTexas/status/2099580443943227590",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "X Reply Radar",
+  "bot_id": "lJYaUExPBMZfLWfZEFVGc",
+  "url": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+  "builder_x_handle": "sam_builds_ai",
+  "one_line_desc": "Finds hot X posts in your niches and drafts short replies so you can grow without spraying comments. You pick topics and a weekly spend cap; runs on demand by default.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/sam_builds_ai/status/2099463729796755818",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "NuggetBot",
+  "bot_id": "ia1zuEzDtPNyzFQ6o6F9x",
+  "url": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+  "builder_x_handle": "im_usamakhalid",
+  "one_line_desc": "Turn podcasts into social quote graphics and carousels with ContentDrips. Paste an episode, pick nuggets, drop a template ID.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/im_usamakhalid/status/2099464817748885561",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Nessie",
+  "bot_id": "8-OG0rLmfAna8vs_0PBO_",
+  "url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+  "builder_x_handle": "AlecSnelling",
+  "one_line_desc": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor, wage ladder, Treasury ops, honest pay-fors, and kitchen-table tests. Built for legislative drafting teams and policy shops.",
+  "categories": [
+   "research"
+  ],
+  "source_post_url": "https://x.com/AlecSnelling/status/2099377714600050708",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Sweeper / 清道夫",
+  "bot_id": "SD6hgpiXqbV_LkMetf2fC",
+  "url": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+  "builder_x_handle": "MaiYangAI",
+  "one_line_desc": "See usage clearly, sweep idle wakes, make bots last longer. / 帮你看清 Grok Bot 用量、清掉空转、把 Bot 用久一点。",
+  "categories": [
+   "productivity"
+  ],
+  "source_post_url": "https://x.com/MaiYangAI/status/2098961066663580030",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "X Writer",
+  "bot_id": "UUsZRoInD7OHp4sjrZ-we",
+  "url": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+  "builder_x_handle": "starzq",
+  "one_line_desc": "Learn any X account's writing style, then draft tweets, edits, and long-form posts in that voice.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/starzq/status/2099333570020122669",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Unstick me",
+  "bot_id": "EahHaI-kwO0hgWj6I45jC",
+  "url": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+  "builder_x_handle": "YanqingCheng",
+  "one_line_desc": "Stuck starting a task — ADHD, executive dysfunction, task paralysis? Short questions that help you get going, one at a time, until you start (or pick an honest out like half-ass / reschedule / ask for help).",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/YanqingCheng/status/2099206038368977179",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Family Safety Monitor",
+  "bot_id": "Dc0ZGUypwwBQZE9pNxLYy",
+  "url": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+  "builder_x_handle": "KevinTweets1",
+  "one_line_desc": "Child application-usage safety monitor — not a content wiretap. Watch what kids open and how often (YouTube, Family Link, Screen Time drops, Amazon Kids, Quest, consoles, Discord/Roblox/Steam parent hubs, etc.) vs per-child limits. Multi-child. Overnight dumps under /workspace/family-safety/{{child}}/.\n\nDefault delivery: post Trips-first usage report in this Grok Bot chat. Optional email off until enabled, then bot inbox → parent-chosen recipient list (one combined notes+picture message). First email is a chat dry-run until they say go.\n\nReports: per-child Trips first; YouTube starts reliable, fully-watched guesstimate, bounces first-class. Check-ins: ~1 week and ~1 month tweak asks, then ~6-month health check (still helpful? hubs signed in?).\n\nAnti-jobs: do not scan email/SMS/IM/social post bodies or AI chatbot logs (different product). Do not invent titles/durations. Do not punish or continuous-GPS. Location pack optional and secondary. Voice: calm, short, factual.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/KevinTweets1/status/2099251469266608138",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Grocery Bot",
+  "bot_id": "K-bz2_bFptZdWAAW7Phxp",
+  "url": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+  "builder_x_handle": "Brantley_Brum",
+  "one_line_desc": "Receipt-first grocery tracker that also builds meal shopping lists. Drop a receipt photo/PDF/paste to log spend and perishables, or send planned dishes — it cross-checks what you already have and can email the list. No invented trips or auto-checkout.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/Brantley_Brum/status/2098899659804606766",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Grok Bot Directory",
+  "bot_id": "8wjQbE24sX8qBVHXSmjc8",
+  "url": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+  "builder_x_handle": "Leechael",
+  "one_line_desc": "Find public Grok bots on Grok Bot Directory. Say what you want to do, or ask what people use these for.",
+  "categories": [
+   "research"
+  ],
+  "source_post_url": "https://x.com/Leechael/status/2099070820270424210",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "账单进口",
+  "bot_id": "A3pcjyO0dAkvRGxD4VGeH",
+  "url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+  "builder_x_handle": "coolbat1999",
+  "one_line_desc": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/coolbat1999/status/2099141007887777987",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Root Agent",
+  "bot_id": "1pTKHkJIEgxD9MjlPYE4P",
+  "url": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+  "builder_x_handle": "mrbeko_",
+  "one_line_desc": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, hands day-to-day management to a Lead, and relays verified results. For anyone who wants a Root Agent-Staff coordinator instead of doing specialist work themselves.",
+  "categories": [
+   "productivity"
+  ],
+  "source_post_url": "https://x.com/mrbeko_/status/2099097710141771994",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Visa割bot",
+  "bot_id": "e9p9lk8EcUrrGXPI_cf4c",
+  "url": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+  "builder_x_handle": "countertek",
+  "one_line_desc": "You are Visa割bot. One job: log into the user's Visa割 account on https://www.offers-exchange.com/visa-japan/, find unused 抽選 / ルーレット, spin every unused one, and report results.\n\nVoice & language:\n- Short, lowercase, factual. Keep Japanese campaign titles and UI labels as written.\n- Instructions in this profile are English mixed with Japanese terms on purpose.\n- On first run: detect the user's language from their first messages; talk in that language. If unclear, ask once. Always keep JP titles unchanged.\n- Lead each ping with unused count → how many spun → each cashback → leftovers.\n\nLogin:\n- Email and password only via secret-request (names VISA_WARIBIKI_EMAIL, VISA_WARIBIKI_PASSWORD). Never ask them to paste a password in chat. Never store a card number.\n- Sign-in: https://www.offers-exchange.com/visa-japan/signin — password login. Official mail is only from @offers-exchange.com or @hit-bits.com.\n- Prefer email OTP over SMS when offered. OTP via in-chat form, never chat paste.\n- Press-and-hold I’m-human: mouse hold, not a handoff.\n- Captcha / email link / 2FA: hand them the screen. Do not invent a result.\n- After success, reuse the signed-in browser session until it dies.\n- If login fails, tell them once and pause the watch. Do not retry in a loop.\n\nExact run:\n1. Glance at the public campaign list. A live campaign is not itself a ping.\n2. If nothing live, skip login and stay quiet (scheduled runs: no filler like \"(no change.)\").\n3. If a campaign is live, log in. Unused rights are often at /visa-japan/myprofile?tab=my-cards or the campaign’s own roulette entry. Empty state: 現在ルーレットチャンスはございません。 Deadlines often look like N日N時間後に有効期限が切れます.\n4. Spin every unused right you can complete. Recheck once.\n5. Ping only when you spun something, unused remain you could not finish, or a brand-new campaign just appeared that they may not be entered in.\n\nSchedule default: Sunday and Thursday 10:00 Asia/Tokyo (routine unused-roulette-watch, CRON_TZ=Asia/Tokyo 0 10 * * 0,4). First-run: state that default and ask if they want to change it.\n\nAnti-jobs:\n- Do not register, add, or edit a card.\n- Do not ask for or handle CVV, expiry, or a full card number.\n- Do not spend money or buy anything.\n- Do not skip a spin you can complete.\n- Do not write skills or extra routines unless asked.\n- Do not message other agents or people, except the designer bot when the user asks to publish or refine this bot.\n- Do not narrate empty checks.\n\nFirst run (new imports only — if login + schedule already exist in memory, skip the quiz and run):\n1. Detect language; greet briefly in it.\n2. Request Visa割 email and password with secret-request.\n3. State the default Sunday+Thursday 10:00 JST watch; ask to keep or change. Create or update routine unused-roulette-watch accordingly, enabled true.\n4. After secrets land, one live pass — prove login + empty-or-spin works.\n\nTimezone: Asia/Tokyo.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/countertek/status/2099118954799321172",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Receipt Reaper",
+  "bot_id": "gIV4FpQgVmcsO0soCjHGc",
+  "url": "https://x.ai/bot/gIV4FpQgVmcsO0soCjHGc",
+  "builder_x_handle": "RealJBMangum",
+  "one_line_desc": "Hunts forgotten SaaS in your Gmail, scores a Zombie Index, and opens a playful lavender HTML autopsy — cancel paths optional, never cancels without your yes.",
+  "categories": [
+   "money"
+  ],
+  "source_post_url": "https://x.com/RealJBMangum/status/2098790265276231929",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Skroutz",
+  "bot_id": "yQH3AFCs-90xjVmW9LICV",
+  "url": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+  "builder_x_handle": "voidvexa",
+  "one_line_desc": "Finds the best prices and prepares carts on Skroutz.gr — Greece’s price-comparison marketplace. Soon delivery only; you handle checkout.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/voidvexa/status/2098683327628628288",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Weekend Edition",
+  "bot_id": "1-S1yhsX6eEcPs9yik3oh",
+  "url": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+  "builder_x_handle": "nathanglass",
+  "one_line_desc": "Turn your saved links and X bookmarks into a weekly newspaper you can print.",
+  "categories": [
+   "creative"
+  ],
+  "source_post_url": "https://x.com/nathanglass/status/2098799970618954145",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Business ops",
+  "bot_id": "nFEJD59IJA5604hO9vqym",
+  "url": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+  "builder_x_handle": "ColinMcDermott",
+  "one_line_desc": "One front door for business ops: store, ads, pages, affiliates, retention, P&L, partners, and bounties. Works alone with soft lanes, or dispatches specialist bots when they are installed.",
+  "categories": [
+   "money"
+  ],
+  "source_post_url": "https://x.com/ColinMcDermott/status/2098713517121544195",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Creador de facturas ARCA",
+  "bot_id": "gcOAZlqYmTRNgGT_2I9oo",
+  "url": "https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo",
+  "builder_x_handle": "tomidelu_",
+  "one_line_desc": "Guía a emisores en Argentina a conectar Gmail una vez, configurar certificado y PdV Web Services de ARCA, y emitir Facturas C con PDF por mail. Soporta varias empresas y facturas en un lote mensual.",
+  "categories": [
+   "money"
+  ],
+  "source_post_url": "https://x.com/tomidelu_/status/2098487670687035412",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ },
+ {
+  "name": "Memory",
+  "bot_id": "6KkkrATfxZYDFKOFVZzzh",
+  "url": "https://x.ai/bot/6KkkrATfxZYDFKOFVZzzh",
+  "builder_x_handle": "imohitmayank",
+  "one_line_desc": "Personal memory pipeline for an Obsidian-style vault. Ships with setup interview, folder schemas, and a daily fetch→ingest→Focus routine for meetings and issue deltas.",
+  "categories": [
+   "life"
+  ],
+  "source_post_url": "https://x.com/imohitmayank/status/2098482007881945156",
+  "found_at": "2026-09-18T19:20:06Z",
+  "verified": true
+ }
 ]
