@@ -6,7 +6,7 @@ import { guides } from "@/data/guides";
 import { comparePages } from "@/data/compare";
 import { allIntegrations } from "@/lib/integrations";
 
-export const dynamic = "force-static";
+export const dynamic = "force-dynamic";
 
 /**
  * /sitemap.xml as an explicit route handler.
