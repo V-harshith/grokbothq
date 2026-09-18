@@ -510,5 +510,15 @@
       "bookmarks": 139
     }
   ],
-  "pr": "ops/scout-2026-09-18-1839"
+  "pr": "ops/scout-2026-09-18-1839",
+  "pr_url": "https://github.com/V-harshith/grokbothq/pull/57",
+  "ci": "build pass (49s), Vercel preview pass, GitGuardian pass - 2026-09-18",
+  "tools_added": [
+    "ops/tools/scout-harvest.py",
+    "ops/tools/scout-verify.py"
+  ],
+  "notes": [
+    "a 200 from x.ai/bot/<id> is not proof on its own - the page body must contain the bot name (3 directory headlines failed that check)",
+    "fxtwitter needs the full /<handle>/status/<id> path - /status/<id> alone returns the site HTML"
+  ]
 }
