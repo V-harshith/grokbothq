@@ -409,5 +409,108 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "what-is-grok",
+    "title": "What Is Grok? xAI's AI Assistant Explained",
+    "seoTitle": "What Is Grok? A Plain-English Explanation",
+    "description": "Grok is the family of AI models built by xAI, available at grok.com, in the iOS and Android apps, and inside X. What it is, where to use it, and how Grok bots fit.",
+    "readingMinutes": 5,
+    "updatedAt": "2026-09-19",
+    "tags": [
+      "beginner",
+      "grok"
+    ],
+    "quickAnswer": "Grok is a family of large language models built by xAI. You can use it at grok.com, in the iOS and Android apps, or inside X, and developers can reach the same models through the xAI API. It answers questions, writes and reviews code, and can search the web or X when you turn those tools on.",
+    "intro": "Grok is the model; Grok bots are what people build on top of it. That distinction is the source of most of the confusion, so this guide starts with the model itself — what it is, where you use it, and what it can and cannot do — before connecting it back to the bots in this directory.",
+    "sections": [
+      {
+        "heading": "The one-paragraph definition",
+        "body": [
+          "Grok is a family of large language models developed by xAI. It is the assistant you reach at grok.com, in the official iOS and Android apps, and inside X — the same underlying models, different front doors.",
+          "For developers, the xAI API exposes those models programmatically at api.x.ai/v1. The documentation notes the API is compatible with the OpenAI and Anthropic SDKs, so switching from another provider is largely a change of base URL, key and model name."
+        ]
+      },
+      {
+        "heading": "Where you can actually use it",
+        "body": [
+          "There are four routes, and they are separate products rather than one account with four screens. Grok.com is the standalone assistant. The iOS and Android apps mirror it with the conversations, settings and subscription syncing across platforms once you sign in.",
+          "Grok in X is the third route: fewer features than the standalone app, but tighter integration with X itself — reading and analysing posts is the point there. The fourth is the xAI API, which is what you use to build something rather than to chat.",
+          "One practical consequence worth knowing: xAI's own documentation states that a purchase on X, such as X Premium, does not affect your service status on the xAI API, and vice versa. They are billed and provisioned separately."
+        ]
+      },
+      {
+        "heading": "The models underneath",
+        "body": [
+          "Grok is not a single model. xAI's documentation lists a flagship reasoning and coding model, alongside dedicated models and APIs for images, video and voice.",
+          "The flagship at the time of writing is listed with a 500,000-token context window and configurable reasoning — the reasoning setting is the one that most changes both the quality and the cost of a request.",
+          "For anything beyond text, xAI points to separate products: its Imagine API for image generation and editing, and a video API. Treating Grok as a text model with bolt-on media generation is roughly how the documentation describes it."
+        ]
+      },
+      {
+        "heading": "What it cannot do by itself",
+        "body": [
+          "The most useful limitation to understand: Grok has no knowledge of current events or data beyond what was present in its training data. That is stated plainly in xAI's documentation.",
+          "To get real-time information you enable server-side search tools — Web Search and X Search. This matters for how you prompt: if you ask about something recent without those tools on, a confident-sounding answer can be built on nothing. Turning them on is the difference between a model recalling and a model looking something up.",
+          "The second limitation is structural rather than technical: a general assistant is not configured for your specific task. That gap is exactly what Grok bots exist to close."
+        ]
+      },
+      {
+        "heading": "How Grok bots fit in",
+        "body": [
+          "A Grok bot is a saved set of instructions running on top of Grok. The creator writes plain-English instructions defining a persona and its rules, and the result has its own link anyone can open and use immediately.",
+          "So: Grok is the intelligence, and a bot is a reusable configuration of it. If you are asking what Grok is, you probably want the assistant. If you keep re-explaining the same task to it, you want a bot — and that is what you will find throughout this directory."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "how-to-use-grok",
+    "title": "How to Use Grok: A Practical Walkthrough",
+    "seoTitle": "How to Use Grok (A Practical Guide)",
+    "description": "How to use Grok on the web, in the apps and inside X - the search setting most people never turn on, how to prompt it well, and when a Grok bot is the faster answer.",
+    "readingMinutes": 5,
+    "updatedAt": "2026-09-19",
+    "tags": [
+      "beginner",
+      "how-to"
+    ],
+    "quickAnswer": "Sign in at grok.com or in the official iOS and Android app and type what you want - or use Grok inside X. Turn on the web and X search tools when you need current information, because Grok has no knowledge of events beyond its training data unless those tools are enabled.",
+    "intro": "Using Grok is not complicated, but most people use a fraction of it. The gap is almost always the same one: search tools left off, and a task re-explained from scratch every session. Both are fixable in minutes.",
+    "sections": [
+      {
+        "heading": "Getting in",
+        "body": [
+          "Pick your route first, because they are separate products. Grok.com is the standalone assistant in a browser. The iOS and Android apps give you the same assistant on a phone, with conversations and settings syncing once you sign in.",
+          "Grok in X is the third option — fewer features than the standalone assistant, but it can read and work with posts on X directly, which the other two cannot do as naturally.",
+          "If you are building rather than chatting, that is the xAI API at api.x.ai/v1 with an API key, not any of the three apps."
+        ]
+      },
+      {
+        "heading": "The setting that changes the most",
+        "body": [
+          "Search tools. xAI's documentation is explicit that Grok has no knowledge of current events or data beyond its training data, and that realtime data requires enabling the server-side Web Search or X Search tools.",
+          "This is the single highest-value thing to understand about using Grok well. With search off, you are talking to a model recalling its training. With search on, it is looking things up. The interface does not make that distinction obvious, and it is the difference between an answer you can use for anything time-sensitive and one you cannot.",
+          "The practical habit: if your question contains a date, a price, a version number, or the word 'latest', turn search on before you ask."
+        ]
+      },
+      {
+        "heading": "Prompting it without wasting turns",
+        "body": [
+          "State the job, the constraints and the output shape in one message. 'Rewrite this for a non-technical reader, keep it under 150 words, no bullet points' gets there in one turn; a vague request gets a generic answer you then have to steer three times.",
+          "Ask for the reasoning separately when you are checking work. If you want to verify an answer, ask it to show the steps or the sources rather than asking 'are you sure' — the second question invites agreement, not evidence.",
+          "And if the answer matters, ask it what would change its mind. It is a fast way to surface the assumption the whole answer rests on."
+        ]
+      },
+      {
+        "heading": "When a bot beats plain Grok",
+        "body": [
+          "If you find yourself pasting the same preamble into Grok — the same role, the same rules, the same output format — you are doing a bot's job manually.",
+          "A Grok bot is that preamble saved and given a link. The creator defines the persona and the rules once, and anyone opening the link gets the configured assistant instead of a blank prompt. For a repeated task, that is the difference between re-explaining and just working.",
+          "Use plain Grok for thinking through something new. Use a bot for the tasks you already know the shape of."
+        ]
+      }
+    ]
   }
+
 ]
