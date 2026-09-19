@@ -1,0 +1,139 @@
+{
+ "note": "x.ai/bot/marketplace serves its own share ID for bots that builders also shared directly. These IDs are ALIASES of listings already in content/bots.json - adding them would create duplicate twins. Match marketplace candidates by name/description, not by URL.",
+ "aliases": {
+  "LEbVr_WZ-cym7XwIm7xf5": {
+   "slug": "speed-lab",
+   "listed_url": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+   "name": "Speed Lab",
+   "first_seen": "2026-09-20"
+  },
+  "yztAMds3EQ2J5OjG_tBgw": {
+   "slug": "pain-in-the-task",
+   "listed_url": "https://x.ai/bot/yztAMds3EQ2J5OjG_tBgw",
+   "name": "Pain in the Task",
+   "first_seen": "2026-09-20"
+  },
+  "cGcG0msqfz7o7J3QMLhbE": {
+   "slug": "bouncer",
+   "listed_url": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+   "name": "Bouncer",
+   "first_seen": "2026-09-20"
+  },
+  "wOE4e95HNxhSbrzyLkSI-": {
+   "slug": "tradbot",
+   "listed_url": "https://x.ai/bot/uY_7s1TZILVzUeJ9lLOx9",
+   "name": "Tradbot",
+   "first_seen": "2026-09-20"
+  },
+  "AZKaQOsjrAa51Nb4xvTur": {
+   "slug": "projects-manager",
+   "listed_url": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+   "name": "Projects Manager",
+   "first_seen": "2026-09-20"
+  },
+  "i2hvaEONDg6_gEF5C9RlK": {
+   "slug": "researchy",
+   "listed_url": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+   "name": "Researchy",
+   "first_seen": "2026-09-20"
+  },
+  "q4u8YgzGQqCAOUZcg0Lgt": {
+   "slug": "credit-card-max",
+   "listed_url": "https://x.ai/bot/D831qeIZ5QrobdVh-X79U",
+   "name": "Credit Card Max",
+   "first_seen": "2026-09-20"
+  },
+  "pXNvc_U2cGyZmheYrUuF_": {
+   "slug": "figma-bro",
+   "listed_url": "https://x.ai/bot/VHMdjIGjGpgDSJR7dW6Gz",
+   "name": "figma bro",
+   "first_seen": "2026-09-20"
+  },
+  "zkVS-PkX1ooTE2nP21DPO": {
+   "slug": "pitch-deck-coach",
+   "listed_url": "https://x.ai/bot/mqVPHm0oB3WPsnxbU1qB9",
+   "name": "Pitch Deck Coach",
+   "first_seen": "2026-09-20"
+  },
+  "-L1yFJ5mtwPgn3O_iYUo_": {
+   "slug": "clip-bot",
+   "listed_url": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+   "name": "Clip Bot",
+   "first_seen": "2026-09-20"
+  },
+  "-hmCmHB0ynJGvSKxeINfS": {
+   "slug": "tinkabot",
+   "listed_url": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+   "name": "tinkabot",
+   "first_seen": "2026-09-20"
+  },
+  "c47Jj2QSSR1UXEcuBgUtQ": {
+   "slug": "home-robots",
+   "listed_url": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+   "name": "Home robots",
+   "first_seen": "2026-09-20"
+  },
+  "0LLQmzk-yzwHi0zuiV0lC": {
+   "slug": "nightly-audit-engineer",
+   "listed_url": "https://x.ai/bot/hkGSHcqKjGc5dm3ugNc2U",
+   "name": "Nightly Audit Engineer",
+   "first_seen": "2026-09-20"
+  },
+  "PaYvPhWPSynlUwFqMX7nc": {
+   "slug": "tech-demos",
+   "listed_url": "https://x.ai/bot/zvkkoHMbclsUBWX8MRGpU",
+   "name": "Tech Demos",
+   "first_seen": "2026-09-20"
+  },
+  "yTeKCLayahHnMdHFG9GJg": {
+   "slug": "deal-hunting",
+   "listed_url": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+   "name": "Deal Hunting",
+   "first_seen": "2026-09-20"
+  },
+  "TxB-fy1KryaYJLYWBcGtT": {
+   "slug": "last30days",
+   "listed_url": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+   "name": "last30days",
+   "first_seen": "2026-09-20"
+  },
+  "_rzRrKKlUyBD3znUN5b3Q": {
+   "slug": "site-audit",
+   "listed_url": "https://x.ai/bot/s6JVFYDIDMsCQMBeTcznW",
+   "name": "Site Audit",
+   "first_seen": "2026-09-20"
+  },
+  "RO8GwQZFXL9O95i13epqF": {
+   "slug": "x-brief",
+   "listed_url": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+   "name": "X Brief",
+   "first_seen": "2026-09-20"
+  },
+  "ph-u_zkF5Vui1GdGnysn9": {
+   "slug": "product-idea-stress-test",
+   "listed_url": "https://x.ai/bot/JeFTvcDX-7QT2evKGIb52",
+   "name": "Product Idea Stress Test",
+   "first_seen": "2026-09-20"
+  }
+ },
+ "enrichment_queued": {
+  "slug": "credit-card-max",
+  "builder": {
+   "name": "trevin",
+   "x": "trevin"
+  },
+  "evidence": [
+   "https://x.com/trevin/status/2093390512925610067",
+   "grokbotlist.com/bots/credit-card-max citation \"sameAs\" == https://x.ai/bot/D831qeIZ5QrobdVh-X79U"
+  ],
+  "why": "credit-card-max builder fields are empty in content/bots.json; @trevin published the bot (his 28 Aug post lists it)."
+ },
+ "marketing_signal": {
+  "post": "https://x.com/bot/status/2093376523919323618",
+  "text": "You can now share templates of your Bots with others.",
+  "views": 15049540,
+  "bookmarks": 1524,
+  "date": "2026-08-28",
+  "why": "Template sharing is the highest-engagement Grok Bot post found; a 'template/blueprint' content angle for @harshithOG."
+ }
+}
