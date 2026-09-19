@@ -13584,5 +13584,50 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "stalk-bot",
+    "name": "Stalk Bot",
+    "builder": {
+      "name": "shubgaur",
+      "x": "shubgaur"
+    },
+    "tagline": "Watches a competitor's site, pricing, changelog, hiring page, and X account, then reports what changed against your positioning.",
+    "description": "Signs up for competitors' newsletters and products with its own research email, records their onboarding, and pulses every change it finds. Each report closes with counterpositioning moves, and it never posts or contacts anyone.",
+    "category": "research",
+    "url": "https://x.ai/bot/Y7iWVNiPdorgu6oFY-PRG",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace/bots/stalk-bot"
+  },
+  {
+    "slug": "ebr-value-deck-builder",
+    "name": "EBR & Value Deck Builder",
+    "builder": {
+      "name": "kristaletz",
+      "x": "kristaletz"
+    },
+    "tagline": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data.",
+    "description": "Drafts an EBR or value deck on your brand from CRM records, call history, and usage data, then hands you an editable file. Never invents a number, and nothing reaches the customer without your yes.",
+    "category": "sales",
+    "url": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace/bots/ebr-value-deck-builder"
+  },
+  {
+    "slug": "signal-prospector",
+    "name": "Signal Prospector",
+    "builder": {
+      "name": "kristaletz",
+      "x": "kristaletz"
+    },
+    "tagline": "Finds the accounts in your CRM and product data that just showed intent, ranks them, and drafts the first touch.",
+    "description": "Scans CRM and product data for accounts showing fresh intent, ranks them, and drafts a first message for each. Runs on a schedule, explains every signal behind a pick, and nothing sends without your approval.",
+    "category": "sales",
+    "url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace/bots/signal-prospector"
   }
 ]
