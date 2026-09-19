@@ -260,46 +260,6 @@
     ]
   },
   {
-    "name": "After I Post",
-    "bot_id": "WfsP3VQPxB46wzL4nMwGN",
-    "url": "https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN",
-    "builder_x_handle": "hnshah",
-    "one_line_desc": "Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "X Scout",
-    "bot_id": "4iz8VYK_cG482_vIA8WR4",
-    "url": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
-    "builder_x_handle": "ericzakariasson",
-    "one_line_desc": "Weekday scout for Grok Bot use cases on X. Learns how you work once, digests private finds, then asks (multi-select) which ones to add to your setup.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Hermes Bridge",
-    "bot_id": "EFC0e7EDDAC32LxnNyJzP",
-    "url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
-    "builder_x_handle": "alltheputs",
-    "one_line_desc": "Bridge to your Hermes Agent so you can talk, collaborate, and delegate — including coaching Hermes install and API setup when needed.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Human browser",
-    "bot_id": "hPX3NYTSIW6t3POJuas_m",
-    "url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
-    "builder_x_handle": "Pakhaliuk",
-    "one_line_desc": "Browses any captcha-sensitive site like a person: one sequential session, natural mouse and scroll, variable dwell, no bursts. Stops on captcha....",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
     "name": "Mission Control",
     "bot_id": "GGnJOdH3hv321H2QES9UE",
     "url": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
@@ -558,5 +518,57 @@
     "source_post_url": "https://x.com/tobiasztop/status/2097760121380069731",
     "found_at": "2026-09-09T23:10:00Z",
     "verified": true
+  },
+  {
+    "name": "Stalk Bot",
+    "bot_id": "Y7iWVNiPdorgu6oFY-PRG",
+    "url": "https://x.ai/bot/Y7iWVNiPdorgu6oFY-PRG",
+    "builder_x_handle": "shubgaur",
+    "one_line_desc": "Signs up for competitors' products under its own research email, records their onboarding on video, and tracks their site, pricing, changelog, jobs and X.",
+    "source_post_url": "https://x.ai/bot/marketplace",
+    "found_at": "2026-09-19T07:40:00Z",
+    "verified": true,
+    "categories": [
+      "Research"
+    ]
+  },
+  {
+    "name": "Signal Prospector",
+    "bot_id": "wsbOPOkHApmIYLrErnC4e",
+    "url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+    "builder_x_handle": "kristaletz",
+    "one_line_desc": "Finds accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch for approval.",
+    "source_post_url": "https://x.ai/bot/marketplace",
+    "found_at": "2026-09-19T07:40:00Z",
+    "verified": true,
+    "categories": [
+      "Sales"
+    ]
+  },
+  {
+    "name": "EBR & Value Deck Builder",
+    "bot_id": "yA2-Ti3sPVNFO-zRzkwuX",
+    "url": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+    "builder_x_handle": "kristaletz",
+    "one_line_desc": "Builds an executive business review or value deck for a named account from CRM, call history and usage data, on your brand, as an editable file.",
+    "source_post_url": "https://x.ai/bot/marketplace",
+    "found_at": "2026-09-19T07:40:00Z",
+    "verified": true,
+    "categories": [
+      "Sales"
+    ]
+  },
+  {
+    "name": "grokbots.best",
+    "bot_id": "55WKZjppK42Jr3XPnPJdm",
+    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
+    "builder_x_handle": "hieudinh_",
+    "one_line_desc": "Submits public Grok Bot templates to the grokbots.best directory: paste a template link or an X post and it publishes the listing.",
+    "source_post_url": "https://grokbots.best",
+    "found_at": "2026-09-19T07:40:00Z",
+    "verified": true,
+    "categories": [
+      "Productivity"
+    ]
   }
 ]
