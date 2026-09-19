@@ -13584,5 +13584,243 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "yc-startup-job-applier",
+    "name": "YC Startup Job Applier",
+    "builder": {
+      "name": "Fiona",
+      "x": "fwhittington_24"
+    },
+    "tagline": "Fills your workatastartup.com profile, ranks openings by fit, and sends founder notes under a weekly cap.",
+    "description": "Onboards you for workatastartup.com, fills in your profile on the bot's own computer, then ranks open roles by fit and sends short founder notes, capped at about 25 best-fit applications a week.",
+    "category": "life",
+    "url": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "weekend-edition",
+    "name": "Weekend Edition",
+    "builder": {
+      "name": "Nathan",
+      "x": "nathanglass"
+    },
+    "tagline": "Turns saved links and X bookmarks into a weekly newspaper you can print.",
+    "description": "Collects the links and X bookmarks you saved over the week and lays them out as a personal newspaper, ready to print.",
+    "category": "life",
+    "url": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "task-farming",
+    "name": "Task Farming",
+    "builder": {
+      "name": "Scott",
+      "x": "scottxmetcalf"
+    },
+    "tagline": "Farms action items from meeting notes and Slack into your tracker as deduped issues.",
+    "description": "Pulls action items out of meeting notes and Slack, dedupes and triages them, then files clean issues in your task tracker with their sources attached.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/MmcPTdwYwr6ebmmZzswYe",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "swe-job-applier",
+    "name": "SWE Job Applier",
+    "builder": {
+      "name": "Fiona",
+      "x": "fwhittington_24"
+    },
+    "tagline": "Applies to SWE internships via Simplify using your own cover-letter framework.",
+    "description": "Collects your preferences, then applies to software engineering internships through Simplify. Uses your own cover-letter framework instead of writing generic letters.",
+    "category": "life",
+    "url": "https://x.ai/bot/ZNfBRZeVANNSVza6Xyywf",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "sue-bouclier",
+    "name": "Sue — Bouclier",
+    "builder": {
+      "name": "Steve",
+      "x": "LArchitecteuh"
+    },
+    "tagline": "French-language X comment support that clarifies an argument without attacking it.",
+    "description": "Comment-mode support on X, written in French: it restates the point, adds one sourced fact and a link, and keeps the reply short, factual and human rather than confrontational.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "sift",
+    "name": "Sift",
+    "builder": {
+      "name": "Texas Based G-Pa",
+      "x": "TexasBasedGpa"
+    },
+    "tagline": "Sifts an X post's comments into a ranked shortlist for picks, hiring or leads.",
+    "description": "Asks a few intake questions, then narrows the comments on an X post down to a ranked shortlist for whatever you are selecting for: giveaways, hiring, feedback or leads.",
+    "category": "research",
+    "url": "https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "servel-ops",
+    "name": "Servel Ops",
+    "builder": {
+      "name": "Kerem",
+      "x": "serveldev"
+    },
+    "tagline": "Manages Servel Docker Swarm clusters through the servel CLI, not raw docker or ssh.",
+    "description": "Runs Servel (Docker Swarm) clusters through the servel CLI: deploys, nodes, capacity, logs and day-to-day operations, using native servel commands instead of raw docker or ssh.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Puh0gY4xFLf8g7SBaXQUQ",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "root-agent",
+    "name": "Root Agent",
+    "builder": {
+      "name": "Berkay",
+      "x": "mrbeko_"
+    },
+    "tagline": "Coordinates your other Grok Bots: scopes the outcome, sizes the team, manages a Lead.",
+    "description": "Coordinates work across Grok Bots: pins down the outcome, sizes the smallest useful team, hands day-to-day management to a Lead bot, and relays results it has already verified.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "recruiter-email-finder",
+    "name": "Recruiter Email Finder",
+    "builder": {
+      "name": "Fiona",
+      "x": "fwhittington_24"
+    },
+    "tagline": "Finds university and technical recruiter emails, delivered as a company-grouped CSV.",
+    "description": "Finds university, early-careers and technical recruiter addresses at companies you care about, then returns them as a CSV grouped by company.",
+    "category": "life",
+    "url": "https://x.ai/bot/lbf-biMZO02RdXeOBks_-",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "receipt-reaper",
+    "name": "Receipt Reaper",
+    "builder": {
+      "name": "Brian",
+      "x": "RealJBMangum"
+    },
+    "tagline": "Hunts forgotten SaaS in Gmail, scores a Zombie Index, and never cancels without your OK.",
+    "description": "Scans your Gmail for forgotten SaaS subscriptions, scores them on a Zombie Index and opens an HTML autopsy report. Cancellation paths are optional, and it never cancels without you saying yes.",
+    "category": "money",
+    "url": "https://x.ai/bot/gIV4FpQgVmcsO0soCjHGc",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "paige-turner",
+    "name": "Paige Turner",
+    "builder": {
+      "name": "RealLifeTech",
+      "x": "omnithnkr"
+    },
+    "tagline": "Fleet documentation librarian: Docling extraction, embeddings and pgvector indexes.",
+    "description": "Documentation librarian for multi-agent fleets. Owns the Docling extraction, mxbai embeddings and pgvector indexes so specialist bots query grounded chunks instead of each keeping a separate store.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "maples-outfit-stylist",
+    "name": "Maples造型师",
+    "builder": {
+      "name": "铁柱AGI",
+      "x": "cgnot996"
+    },
+    "tagline": "Builds three reproducible MapleStory looks from text or a reference image.",
+    "description": "MapleStory and maples.im outfit helper that produces three reproducible looks from a written brief or a reference image, shows them off with official animated GIFs and archives a full walking-sprite zip.",
+    "category": "creative",
+    "url": "https://x.ai/bot/zP5W1Sdwjo361traGRTM5",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "handshake-job-applier",
+    "name": "Handshake Job Applier",
+    "builder": {
+      "name": "Fiona",
+      "x": "fwhittington_24"
+    },
+    "tagline": "Hunts matching Handshake jobs and applies with your résumé or cover letters.",
+    "description": "Onboards you on Handshake, hunts jobs that match your search, then applies with your own résumé or a cover-letter factory. Built to apply as you, never from anyone else's files.",
+    "category": "life",
+    "url": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "do-not-pay",
+    "name": "Do Not Pay",
+    "builder": {
+      "name": "Dennison",
+      "x": "DennisonBertram"
+    },
+    "tagline": "Drafts disputes for unfair tickets, fees, deposits and refunds.",
+    "description": "Helps you challenge unfair parking tickets, fines, bank and credit-card fees, housing deposits, travel refunds and tax penalties, and drafts the disputes that ask for them to be dismissed, waived or refunded.",
+    "category": "money",
+    "url": "https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "berliner",
+    "name": "Berliner",
+    "builder": {
+      "name": "Matt Vagni",
+      "x": "mattvagni"
+    },
+    "tagline": "Weekly Berlin techno playlist on Spotify with short notes on each pick.",
+    "description": "Sends a weekly Berlin techno playlist to Spotify with short notes on what you are hearing, and stays quiet between drops unless you ping it.",
+    "category": "creative",
+    "url": "https://x.ai/bot/YhRPa_eYk4yramoMJOo6F",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "alumni-coffee-chat-finder",
+    "name": "Alumni Coffee Chat Finder",
+    "builder": {
+      "name": "Fiona",
+      "x": "fwhittington_24"
+    },
+    "tagline": "Builds a CSV of alumni for coffee chats from LinkedIn. Collects only, never emails.",
+    "description": "Builds a CSV of university alumni to approach for coffee chats, with name, company, role, email and whether you have already written, sourced from LinkedIn and an alumni directory. It only collects and never sends email.",
+    "category": "life",
+    "url": "https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp",
+    "addedAt": "2026-09-13",
+    "status": "published"
+  },
+  {
+    "slug": "alibaba-buyer-ops",
+    "name": "Alibaba Buyer Ops",
+    "builder": {
+      "name": "Domenic",
+      "x": "DomenicFotino"
+    },
+    "tagline": "Runs Alibaba sourcing from SOPs and never pays without your explicit OK.",
+    "description": "Buyer operations on Alibaba for any business that sources from factories. Onboards your sourcing model and tracker, drives the Alibaba interface from full SOPs, and never pays without an explicit OK.",
+    "category": "money",
+    "url": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+    "addedAt": "2026-09-13",
+    "status": "published"
   }
 ]
