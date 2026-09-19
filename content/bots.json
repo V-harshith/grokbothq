@@ -13584,5 +13584,410 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "dadcon",
+    "name": "DADCON",
+    "builder": {
+      "name": "Jerrod",
+      "x": "jerrodtuck"
+    },
+    "tagline": "Slack bot that rides a second parent through a household chore until it is actually finished.",
+    "description": "Slack bot that rides a second parent through a household chore until it is actually finished.",
+    "category": "life",
+    "url": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/jerrodtuck/status/2100913414289629297"
+  },
+  {
+    "slug": "agent-zero",
+    "name": "Agent Zero",
+    "builder": {
+      "name": "Liam",
+      "x": "GrokBotRadar"
+    },
+    "tagline": "Finds the data-broker listings that hold your details and files the official opt-out for each.",
+    "description": "Finds the data-broker listings that hold your details and files the official opt-out for each.",
+    "category": "life",
+    "url": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/GrokBotRadar/status/2100877991962440119"
+  },
+  {
+    "slug": "hailfade",
+    "name": "Hailfade",
+    "builder": {
+      "name": "Arnaud",
+      "x": "LaLascaux"
+    },
+    "tagline": "Reads dips in a Starlink dish's link quality as an early hail warning for farms.",
+    "description": "Reads dips in a Starlink dish's link quality as an early hail warning for farms.",
+    "category": "research",
+    "url": "https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/LaLascaux/status/2100839998127800427"
+  },
+  {
+    "slug": "zxn-news-conservative",
+    "name": "Zxn News Conservative",
+    "builder": {
+      "name": "ZhpXnewsbhcsn",
+      "x": "zxnbluehandus"
+    },
+    "tagline": "Conservative-leaning news desk: a morning brief, alerts when something breaks, and longer reads.",
+    "description": "Conservative-leaning news desk: a morning brief, alerts when something breaks, and longer reads.",
+    "category": "research",
+    "url": "https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/zxnbluehandus/status/2100836261682463023"
+  },
+  {
+    "slug": "wallet-watcher",
+    "name": "Wallet Watcher",
+    "builder": {
+      "name": "Imran",
+      "x": "imrannotes"
+    },
+    "tagline": "Sweeps a receipts inbox for subscriptions and free trials that are about to renew, then drafts the cancellations.",
+    "description": "Sweeps a receipts inbox for subscriptions and free trials that are about to renew, then drafts the cancellations.",
+    "category": "money",
+    "url": "https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/imrannotes/status/2100825649145381181"
+  },
+  {
+    "slug": "solo-founder-ops-desk",
+    "name": "Solo Founder Ops Desk",
+    "builder": {
+      "name": "Braner",
+      "x": "dodgeking3171"
+    },
+    "tagline": "Runs a one-person company like a COO, splitting work out to the specialist bots underneath it and chasing what stalls.",
+    "description": "Runs a one-person company like a COO, splitting work out to the specialist bots underneath it and chasing what stalls.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/dodgeking3171/status/2100816862409793883"
+  },
+  {
+    "slug": "ai-boy",
+    "name": "AI Boy",
+    "builder": {
+      "name": "David",
+      "x": "infdaze"
+    },
+    "tagline": "Launches and supervises Claude Code or Codex runs without leaving the Grok chat.",
+    "description": "Launches and supervises Claude Code or Codex runs without leaving the Grok chat.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/infdaze/status/2100801822428479674"
+  },
+  {
+    "slug": "hermes-ssh-relay",
+    "name": "Hermes SSH Relay",
+    "builder": {
+      "name": "Shagghie",
+      "x": "PixelRainbowNFT"
+    },
+    "tagline": "Opens a Tailscale SSH path into a Hermes agent when no HTTP endpoint exists yet.",
+    "description": "Opens a Tailscale SSH path into a Hermes agent when no HTTP endpoint exists yet.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn-",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/PixelRainbowNFT/status/2100799977341489531"
+  },
+  {
+    "slug": "n8n-master",
+    "name": "n8n Master",
+    "builder": {
+      "name": "Shagghie",
+      "x": "PixelRainbowNFT"
+    },
+    "tagline": "Writes n8n workflow JSON from a plain description and ships it to a live instance.",
+    "description": "Writes n8n workflow JSON from a plain description and ships it to a live instance.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Zvqbrq6yN68ijhEpRz0lU",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/PixelRainbowNFT/status/2100794195363422677"
+  },
+  {
+    "slug": "deal-scout",
+    "name": "Deal Scout",
+    "builder": {
+      "name": "Daniel",
+      "x": "danielhayesmith"
+    },
+    "tagline": "Trawls resale sites for genuinely underpriced second-hand finds and filters out the scam listings.",
+    "description": "Trawls resale sites for genuinely underpriced second-hand finds and filters out the scam listings.",
+    "category": "money",
+    "url": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/danielhayesmith/status/2100789308546228274"
+  },
+  {
+    "slug": "chep",
+    "name": "Chep",
+    "builder": {
+      "name": "Joel",
+      "x": "MortMatters"
+    },
+    "tagline": "Hunts the lowest all-in US price for a product with shipping and coupon codes counted.",
+    "description": "Hunts the lowest all-in US price for a product with shipping and coupon codes counted.",
+    "category": "money",
+    "url": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/MortMatters/status/2100784159924924604"
+  },
+  {
+    "slug": "ag-bot",
+    "name": "Ag bot",
+    "builder": {
+      "name": "Blaze",
+      "x": "BlazeDrinkwine"
+    },
+    "tagline": "Finds and ranks real growers and suppliers near a location for whatever ingredient you need.",
+    "description": "Finds and ranks real growers and suppliers near a location for whatever ingredient you need.",
+    "category": "research",
+    "url": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/BlazeDrinkwine/status/2100778715823149078"
+  },
+  {
+    "slug": "family-daily",
+    "name": "Family Daily",
+    "builder": {
+      "name": "Zach",
+      "x": "zalberico"
+    },
+    "tagline": "Prints a one-page morning household brief: plans, weather and the family notes that matter today.",
+    "description": "Prints a one-page morning household brief: plans, weather and the family notes that matter today.",
+    "category": "life",
+    "url": "https://x.ai/bot/FwJmagPaEeQ_so8TTK1gh",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/zalberico/status/2100762087601680481"
+  },
+  {
+    "slug": "lain",
+    "name": "lain.",
+    "builder": {
+      "name": "Avalon",
+      "x": "kittenworth"
+    },
+    "tagline": "A quiet companion for thinking out loud about technology, identity and living online.",
+    "description": "A quiet companion for thinking out loud about technology, identity and living online.",
+    "category": "life",
+    "url": "https://x.ai/bot/Fq4c6b2KeDg3dnIGc5KWI",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/kittenworth/status/2100753685114503215"
+  },
+  {
+    "slug": "yventure",
+    "name": "YVenture",
+    "builder": {
+      "name": "Avalon",
+      "x": "kittenworth"
+    },
+    "tagline": "Moves a founder from rough idea to first hires in short ordered passes.",
+    "description": "Moves a founder from rough idea to first hires in short ordered passes.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/502iRcu35kF-eyMr7M1dZ",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/kittenworth/status/2100752547594043700"
+  },
+  {
+    "slug": "handoff",
+    "name": "Handoff",
+    "builder": {
+      "name": "Tool",
+      "x": "thisisclaireli"
+    },
+    "tagline": "Compresses a mid-project thread into one task, three steps and a single owner.",
+    "description": "Compresses a mid-project thread into one task, three steps and a single owner.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/CYiVuYkkle--PvvmEhHho",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/thisisclaireli/status/2100733642771423379"
+  },
+  {
+    "slug": "school-assistant",
+    "name": "School Assistant",
+    "builder": {
+      "name": "Kerry",
+      "x": "kerrychalpin"
+    },
+    "tagline": "One weekday email covering grades, work coming up and what is genuinely late.",
+    "description": "One weekday email covering grades, work coming up and what is genuinely late.",
+    "category": "life",
+    "url": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/kerrychalpin/status/2100727742882869601"
+  },
+  {
+    "slug": "astra-afterburner",
+    "name": "Astra Afterburner",
+    "builder": {
+      "name": "Drew",
+      "x": "SacredFolio"
+    },
+    "tagline": "Points a stalled coding agent's research queue at an idle second plan.",
+    "description": "Points a stalled coding agent's research queue at an idle second plan.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/SacredFolio/status/2100726625423728900"
+  },
+  {
+    "slug": "alpaca",
+    "name": "Alpaca",
+    "builder": {
+      "name": "Pinecrest",
+      "x": "swartzendruber"
+    },
+    "tagline": "Paper-only trading desk for rehearsing options and equity decisions before real money moves.",
+    "description": "Paper-only trading desk for rehearsing options and equity decisions before real money moves.",
+    "category": "money",
+    "url": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/swartzendruber/status/2100712796950352208"
+  },
+  {
+    "slug": "packet-wrangler-range-rider",
+    "name": "Packet Wrangler Range Rider",
+    "builder": {
+      "name": "Stephanie",
+      "x": "SLamouroux"
+    },
+    "tagline": "Read-only watchdog for hosted sites that drafts a fix for your approval instead of touching anything.",
+    "description": "Read-only watchdog for hosted sites that drafts a fix for your approval instead of touching anything.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/SLamouroux/status/2100710528209277136"
+  },
+  {
+    "slug": "scholarship-hunter",
+    "name": "Scholarship Hunter",
+    "builder": {
+      "name": "Jodi",
+      "x": "WorkWithJodi"
+    },
+    "tagline": "Builds a ranked scholarship shortlist with deadlines and a next step for each one.",
+    "description": "Builds a ranked scholarship shortlist with deadlines and a next step for each one.",
+    "category": "life",
+    "url": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/WorkWithJodi/status/2100709849864499389"
+  },
+  {
+    "slug": "linkedin-deck-desk",
+    "name": "LinkedIn Deck Desk",
+    "builder": {
+      "name": "Paresh",
+      "x": "pareshdesai"
+    },
+    "tagline": "Turns a newsletter into a fact-checked LinkedIn carousel and queues it in Buffer.",
+    "description": "Turns a newsletter into a fact-checked LinkedIn carousel and queues it in Buffer.",
+    "category": "creative",
+    "url": "https://x.ai/bot/zE2ZdbZSQc7tHfE7wa4kR",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/pareshdesai/status/2100704672956957068"
+  },
+  {
+    "slug": "squirrel",
+    "name": "Squirrel",
+    "builder": {
+      "name": "Jodi",
+      "x": "WorkWithJodi"
+    },
+    "tagline": "Catch-all desk that absorbs side quests so the day's original plan survives.",
+    "description": "Catch-all desk that absorbs side quests so the day's original plan survives.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/WorkWithJodi/status/2100704249847873852"
+  },
+  {
+    "slug": "call",
+    "name": "Call",
+    "builder": {
+      "name": "triple",
+      "x": "iserflott"
+    },
+    "tagline": "Places and steers live phone calls through a SIP and voice-model bridge.",
+    "description": "Places and steers live phone calls through a SIP and voice-model bridge.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/iserflott/status/2100703378674225342"
+  },
+  {
+    "slug": "web-security-audit",
+    "name": "Web Security Audit",
+    "builder": {
+      "name": "Paresh",
+      "x": "pareshdesai"
+    },
+    "tagline": "Defensive security review for sites and repos you own, scored P0 to P2.",
+    "description": "Defensive security review for sites and repos you own, scored P0 to P2.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/pareshdesai/status/2100703233979342994"
+  },
+  {
+    "slug": "health-coach",
+    "name": "Health Coach",
+    "builder": {
+      "name": "Brandon",
+      "x": "branpurn"
+    },
+    "tagline": "Turns sleep, recovery and lab numbers into a single daily coaching brief.",
+    "description": "Turns sleep, recovery and lab numbers into a single daily coaching brief.",
+    "category": "life",
+    "url": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/branpurn/status/2100698443542876186"
+  },
+  {
+    "slug": "claim-ontology-desk",
+    "name": "Claim Ontology Desk",
+    "builder": {
+      "name": "Mat",
+      "x": "Ispider"
+    },
+    "tagline": "Breaks a contested claim into the entities, sources and framing it rests on.",
+    "description": "Breaks a contested claim into the entities, sources and framing it rests on.",
+    "category": "research",
+    "url": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+    "addedAt": "2026-09-18",
+    "status": "published",
+    "source": "https://x.com/Ispider/status/2100694607092949096"
   }
 ]
