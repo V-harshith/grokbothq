@@ -13584,5 +13584,140 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "blogdrafter",
+    "name": "blogdrafter",
+    "builder": {
+      "name": "dai",
+      "x": "daisuke"
+    },
+    "tagline": "Drafts, edits, and pitches blog posts in the writer's own voice.",
+    "description": "A writing seat for blog work, from notes to finished post. It builds a voice profile from your writing and holds drafts to anti-slop rules, so the text still sounds like you wrote it.",
+    "category": "creative",
+    "url": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "devin-native-systems-engineer",
+    "name": "Devin",
+    "builder": {
+      "name": "Jaime",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Native apps, services, and GPU pipelines, with the front end left out.",
+    "description": "An engineering teammate for native apps, services, GPU pipelines, and deploys, strongest in C++, Python, regex, and PowerShell. It deliberately leaves website HTML, CSS, and JS to another bot.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "affiliate-recruiter",
+    "name": "Affiliate Recruiter",
+    "builder": {
+      "name": "Silvestro",
+      "x": "zilvestro"
+    },
+    "tagline": "Shortlists affiliate partners, then drafts the first outreach.",
+    "description": "Runs affiliate recruitment research through the Affonso Affiliate Finder MCP: searches by topic and competitor, scores the candidates, builds a shortlist with contact details, and drafts outreach for you to review.",
+    "category": "sales",
+    "url": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+    "source": "https://x.com/zilvestro/status/2097995020217323736",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "apple-dev",
+    "name": "Apple Dev",
+    "builder": {
+      "name": "Evan",
+      "x": "Baconbrix"
+    },
+    "tagline": "Native Apple development on a Mac the Bot drives itself.",
+    "description": "Builds native Apple and Mac software on a connected Mac, working in Xcode, simulators, Swift, and local builds. It looks up which machine it should use before it starts, so build and test loops run on real hardware.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "aeo-content-producer",
+    "name": "AEO Content Producer",
+    "builder": {
+      "name": "Jing",
+      "x": "Jingg_n_Tonic"
+    },
+    "tagline": "Turns AI-visibility data into briefs, drafts, and refreshes.",
+    "description": "Produces AEO refreshes and new articles from AI visibility data: briefs, drafts, and an editorial pass, then stops for your review. It works with whichever visibility MCP you connect, and publishing stays with you.",
+    "category": "creative",
+    "url": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+    "source": "https://x.com/Jingg_n_Tonic/status/2098115261861675268",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "foreman-bot-team",
+    "name": "Foreman",
+    "builder": {
+      "name": "AdventureNLearn",
+      "x": "AdventureNLearn"
+    },
+    "tagline": "Stands up a whole bot team, and waits for your yes first.",
+    "description": "One bot that assembles a full team: home office, builder, research, ops, and public desk. It inventories what already exists, waits for your go-ahead, then creates the seats that are missing.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/XfQEI2uHGd496SLbjCvGw",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "facta",
+    "name": "Facta",
+    "builder": {
+      "name": "Jaime",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Stamps each claim REAL, PARTIAL, HYPE, or FLAG from live sources.",
+    "description": "A fact-checker and quality gate for a team. It checks claims against live sources and labels each one REAL, PARTIAL, HYPE, or FLAG, never invents a verdict, and reports back through your orchestrator.",
+    "category": "research",
+    "url": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "executive-coach",
+    "name": "Executive Coach",
+    "builder": {
+      "name": "Yanqing",
+      "x": "YanqingCheng"
+    },
+    "tagline": "Asks the questions that make you name the problem yourself.",
+    "description": "A coaching partner that asks sharp questions so you say what is actually going on and what you will do about it. It works on craft and judgement rather than handing over advice or frameworks.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
+  },
+  {
+    "slug": "colombia-move",
+    "name": "Colombia Move",
+    "builder": {
+      "name": "Michael",
+      "x": "michaelheredia"
+    },
+    "tagline": "A relocation desk for the Colombia Move marketplace.",
+    "description": "A desk for Colombia Move: connect the marketplace MCP, manage your own listings, and get its marketplace questions answered in the same thread.",
+    "category": "life",
+    "url": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "addedAt": "2026-09-12",
+    "status": "published"
   }
 ]
