@@ -1,0 +1,26 @@
+[
+  {
+    "bot_id": "j1-ISFFzWDSzihs9xz2MA",
+    "url": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+    "reason": "companion persona (\"GB GF: Victoria\") with no job or deliverable in the description; fails the listing bar for a work bot",
+    "checked_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "bot_id": "hEmSUvWxccmfAVDGri1R8",
+    "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
+    "reason": "page returns 200 but renders only the generic 'Grok Bot' shell - the bot name and description are absent from the body, so the listing cannot be confirmed live",
+    "checked_at": "2026-09-12T19:28:39Z"
+  },
+  {
+    "bot_id": "QhfOU5SJ60U8g2x2pUFcT",
+    "url": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+    "reason": "404 - share link no longer resolves",
+    "checked_at": "2026-09-12T19:28:39Z"
+  },
+  {
+    "bot_id": "XjQ-AZTMrGLmQOTeMu3LF",
+    "url": "https://x.ai/bot/XjQ-AZTMrGLmQOTeMu3LF/ary-s-ea",
+    "reason": "malformed share URL (extra path segment) that duplicates the already-listed Chief of Staff by Aryaman",
+    "checked_at": "2026-09-12T19:28:39Z"
+  }
+]
