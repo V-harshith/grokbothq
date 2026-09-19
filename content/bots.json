@@ -13584,5 +13584,295 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "about-me",
+    "name": "About Me",
+    "builder": {
+      "name": "MAGS",
+      "x": "TAftermath2020"
+    },
+    "tagline": "Personal-metrics desk that learns what matters to you and feeds short deltas to a chief-of-staff bot.",
+    "description": "Tracks the things that shape your week, from stress and energy to family, beliefs and decisions, and reports short deltas to a chief-of-staff bot instead of dumping long logs on you.",
+    "category": "life",
+    "url": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+    "source": "https://x.com/TAftermath2020/status/2099183022193123784",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "family-safety-monitor",
+    "name": "Family Safety Monitor",
+    "builder": {
+      "name": "Kevin Rank",
+      "x": "KevinTweets1"
+    },
+    "tagline": "Tracks which apps a child opens and how often, and reports the pattern to the parent.",
+    "description": "A parental usage monitor: it watches which applications a child opens and how frequently across the sources it can reach, and reports the pattern back to the parent. Its own profile frames it as usage monitoring rather than a content wiretap.",
+    "category": "life",
+    "url": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+    "source": "https://x.com/KevinTweets1/status/2099251469266608138",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "fomo-live-bot",
+    "name": "Fomo Live Bot",
+    "builder": {
+      "name": "The Advisor.btc",
+      "x": "theadvisorbtc"
+    },
+    "tagline": "Mirrors the traders you follow on FOMO hourly, paper-first, with size and exits locked by rule.",
+    "description": "Copies the traders you already follow on FOMO on an hourly cadence. It runs paper-first by default, size and exits are locked with no discretion, and it only goes live when you tell it to.",
+    "category": "money",
+    "url": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
+    "source": "https://x.com/theadvisorbtc/status/2099268257983455720",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "gird-coach",
+    "name": "Gird Coach",
+    "builder": {
+      "name": "Rip Ryness",
+      "x": "ryness"
+    },
+    "tagline": "Coaches whatever you practise in Gird AI, with daily check-ins and weekly reviews.",
+    "description": "Reads what you are practising in Gird AI, whether that is fitness, music, a language, art or study, and coaches it: it authors workouts and cycles, then runs daily check-ins and weekly reviews to keep the practice moving.",
+    "category": "life",
+    "url": "https://x.ai/bot/H8XFB8Ly0EGOyU3VDmwi1",
+    "source": "https://x.com/ryness/status/2099189159776944510",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "grocery-bot",
+    "name": "Grocery Bot",
+    "builder": {
+      "name": "JoshuaN",
+      "x": "ZestStream"
+    },
+    "tagline": "Receipt-first grocery tracker that also builds meal shopping lists.",
+    "description": "Drop in a receipt as a photo, PDF or pasted text and it logs the spend and the perishables, nudges you before food spoils, and turns the dishes you plan to cook into a shopping list. It does not invent trips or auto-checkout your cart.",
+    "category": "life",
+    "url": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+    "source": "https://x.com/ZestStream/status/2099214073829499320",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "tidal",
+    "name": "TIDAL",
+    "builder": {
+      "name": "John",
+      "x": "hottubjohn"
+    },
+    "tagline": "Runs TIDAL search, radio, favourites and playlists from chat for any vibe.",
+    "description": "A TIDAL bot that handles search, radio, favourites and playlists. Ask for a vibe and it answers with the name, link and track count, and it is not tied to one genre.",
+    "category": "creative",
+    "url": "https://x.ai/bot/iH7-gcR-McO8Eel9frMUA",
+    "source": "https://x.com/hottubjohn/status/2099220079242072575",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "travel-agent-scott",
+    "name": "Travel Agent",
+    "builder": {
+      "name": "Scott Metcalf",
+      "x": "scottxmetcalf"
+    },
+    "tagline": "Plans trips and drafts bookings for approval, and never pays or confirms on its own.",
+    "description": "Turns a trip idea into a plan and drafts the bookings, then waits for your approval. It does not pay for or confirm anything without you.",
+    "category": "life",
+    "url": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+    "source": "https://x.com/scottxmetcalf/status/2099161443455385977",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "unstick-me",
+    "name": "Unstick Me",
+    "builder": {
+      "name": "Yanqing",
+      "x": "YanqingCheng"
+    },
+    "tagline": "Asks one short question at a time until you start the task you are stuck on.",
+    "description": "Built for task paralysis, ADHD and executive dysfunction: it asks one short question at a time until you actually start the thing, or until you pick a different one to do instead.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/EahHaI-kwO0hgWj6I45jC",
+    "source": "https://x.com/YanqingCheng/status/2099206038368977179",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "visa-waribiki-bot",
+    "name": "Visa割bot",
+    "builder": {
+      "name": "Daru",
+      "x": "countertek"
+    },
+    "tagline": "Spins the unused Visa割 lottery and roulette offers in a Japanese Visa account and reports what it claimed.",
+    "description": "Logs into a Visa割 account on offers-exchange.com, finds the lottery and roulette offers still sitting unused, spins them, and reports the outcome. Chore automation for Japanese Visa cardholders who do not want to click through the offers by hand.",
+    "category": "money",
+    "url": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+    "source": "https://x.com/countertek/status/2099118954799321172",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "bill-import",
+    "name": "账单进口",
+    "builder": {
+      "name": "Coolbat",
+      "x": "coolbat1999"
+    },
+    "tagline": "Imports WeChat and Alipay bills into a personal ledger, with a preview before anything is written.",
+    "description": "Parses WeChat and Alipay statements from CSV exports or screenshots, de-duplicates and categorises the entries, then shows a preview before writing anything into the ledger. It does not touch payment passwords and does not sign in on your behalf.",
+    "category": "money",
+    "url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+    "source": "https://x.com/coolbat1999/status/2099141007887777987",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "outbound-scout",
+    "name": "Outbound Scout",
+    "builder": {
+      "name": "Mark Li",
+      "x": "iammutex"
+    },
+    "tagline": "Turns a product URL into a target list, then finds decision-maker emails and phones.",
+    "description": "Starts from a product URL or short description, sets up Glasser, locks an ideal-customer profile, then hunts companies and the decision-makers behind them, returning emails and phone numbers to work from.",
+    "category": "sales",
+    "features": [
+      "Starts from a product URL or description",
+      "Locks an ICP, then finds companies and contacts",
+      "Returns decision-maker emails and phone numbers"
+    ],
+    "url": "https://x.ai/bot/7FPx_GNADVyb36VRYoKz1",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "nessie",
+    "name": "Nessie",
+    "builder": {
+      "name": "Alec Snelling",
+      "x": "AlecSnelling"
+    },
+    "tagline": "Policy design partner for a US citizen dividend and sovereign wealth package.",
+    "description": "Works through a US citizen dividend plus sovereign wealth package: a locked $500 floor, a wage ladder, Treasury operations, honest pay-fors and kitchen-table tests. Built for legislative drafting teams and policy shops.",
+    "category": "money",
+    "url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "competitor-monitor",
+    "name": "Competitor Monitor",
+    "builder": {
+      "name": "Mark Li",
+      "x": "iammutex"
+    },
+    "tagline": "Tracks competitor moves across social, ads, SEO, traffic, launches, funding and hiring.",
+    "description": "Watches what competitors do across social, ads, SEO, traffic, product launches, funding and hiring, prefers Glasser.ai data, and returns change insights rather than a dump of everything it saw.",
+    "category": "research",
+    "url": "https://x.ai/bot/9msshkJeF5cnzAw8tF4vi",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "tree-counter",
+    "name": "tree counter",
+    "builder": {
+      "name": "wreinhardt",
+      "x": "wreinhardt"
+    },
+    "tagline": "Counts street trees from Street View and checks them against city inventory data.",
+    "description": "Counts street trees from Google Street View and compares the count with city inventory data. A handoff queue keeps each session to one street or sub-ZIP so the work can be picked up again.",
+    "category": "research",
+    "features": [
+      "Counts trees from Google Street View",
+      "Compares against city inventory",
+      "One street or sub-ZIP per session"
+    ],
+    "integrations": [
+      "github"
+    ],
+    "url": "https://x.ai/bot/GUoroKpfPq-CLL_206JzT",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "invest-dd",
+    "name": "Invest DD",
+    "builder": {
+      "name": "Mark Li",
+      "x": "iammutex"
+    },
+    "tagline": "Company due diligence through Glasser, run basic then deep, ending in an investability call.",
+    "description": "Researches a company through Glasser.ai across traffic, funding, team, product, ads, SEO and marketing. Runs a basic pass first and then a deep one, keeps only findings it trusts, and finishes with an investability call.",
+    "category": "money",
+    "features": [
+      "Basic DD then Deep DD",
+      "Covers traffic, funding, team, product and ads",
+      "Ends with an investability call"
+    ],
+    "url": "https://x.ai/bot/S6LUcG5yeDYV-GglG7_FO",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "x-writer",
+    "name": "X Writer",
+    "builder": {
+      "name": "Star",
+      "x": "starzq"
+    },
+    "tagline": "Learns an X account's writing style, then drafts tweets and long-form posts in that voice.",
+    "description": "Studies how a chosen X account writes, then drafts tweets, edits and long-form posts in that voice, so the output reads like the account instead of generic copy.",
+    "category": "creative",
+    "url": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "glasser",
+    "name": "Glasser",
+    "builder": {
+      "name": "Mark Li",
+      "x": "iammutex"
+    },
+    "tagline": "Gives an agent Glasser.ai research data: enrichment, SEO, ads, traffic, funding, contacts.",
+    "description": "Connects an agent to Glasser.ai premium research data, covering company and people enrichment, SEO, ads, traffic, funding, competitor intelligence and outbound contacts.",
+    "category": "research",
+    "features": [
+      "Company and people enrichment",
+      "SEO, ads, traffic and funding data",
+      "Competitor intel and outbound contacts"
+    ],
+    "url": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+    "addedAt": "2026-09-14",
+    "status": "published"
+  },
+  {
+    "slug": "seo-expert",
+    "name": "SEO Expert",
+    "builder": {
+      "name": "Mark Li",
+      "x": "iammutex"
+    },
+    "tagline": "Audits a product site's SEO through Glasser, then acts only after you confirm the plan.",
+    "description": "Takes a site URL, runs SEO monitoring through Glasser and comes back with an action plan for product websites. It runs that plan only once the user confirms, so nothing changes without a yes.",
+    "category": "sales",
+    "features": [
+      "Works from a site URL",
+      "SEO monitoring through Glasser",
+      "Runs the plan only after confirmation"
+    ],
+    "url": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+    "addedAt": "2026-09-14",
+    "status": "published"
   }
 ]

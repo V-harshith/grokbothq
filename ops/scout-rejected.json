@@ -1,0 +1,65 @@
+{
+ "purpose": "Candidates that FAILED live verification. Logged with a reason, never queued. Dedupe here to avoid re-verifying known-dead share links.",
+ "entries": [
+  {
+   "name": "Clay Guest Research",
+   "bot_id": "hEmSUvWxccmfAVDGri1R8",
+   "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
+   "builder_x_handle": null,
+   "one_line_desc": "Guest-research template listed in the awesome-grok-bot catalog.",
+   "source_post_url": null,
+   "found_at": "2026-09-14T02:10:00Z",
+   "reason": "HTTP 200 but the page is the generic template stub (<title>Grok Bot</title>, description 'Use this template to create a new bot or apply it to an existing bot') with no bot name or profile. Share link does not resolve to a live bot; not queued."
+  },
+  {
+   "name": "GB GF Victoria test",
+   "bot_id": "j1-ISFFzWDSzihs9xz2MA",
+   "url": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+   "builder_x_handle": null,
+   "one_line_desc": "Live companion bot (page title 'GB GF: Victoria by Aaron').",
+   "source_post_url": null,
+   "found_at": "2026-09-14T02:10:00Z",
+   "reason": "Live (HTTP 200) but no source post and no verifiable builder handle, and the catalog entry names it a test template. Attribution cannot be confirmed, so it was left off the directory rather than guessed."
+  },
+  {
+   "name": "Chief of Staff",
+   "bot_id": "-sOdLVj33yh8hh7OlHogi",
+   "url": "https://x.ai/bot/-sOdLVj33yh8hh7OlHogi",
+   "builder_x_handle": "danielxu_",
+   "one_line_desc": "Student chief of staff demo bot (aggregates internship applications, org event forms, coursework portals).",
+   "source_post_url": "https://x.com/danielxu_/status/2093480750146552176",
+   "found_at": "2026-09-14T01:40:00Z",
+   "reason": "HTTP 404 on https://x.ai/bot/-sOdLVj33yh8hh7OlHogi (x.ai SPA 404 page, no bot title). Share link no longer resolves; two sibling links from the same post are live and already listed, so this is a withdrawn/expired template, not a crawl issue."
+  },
+  {
+   "name": "The PM",
+   "bot_id": "1HFC3QdqPtcj1FIbKf8oq",
+   "url": "https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq",
+   "builder_x_handle": "danielxu_",
+   "one_line_desc": "Student product-manager demo bot listed alongside the same author's chief of staff bot.",
+   "source_post_url": "https://x.com/danielxu_/status/2093480750146552176",
+   "found_at": "2026-09-14T01:40:00Z",
+   "reason": "HTTP 404 on https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq (x.ai SPA 404 page, no bot title). Same post's other two share links return 200 and are already listed."
+  },
+  {
+   "name": "OpenZoo.fun Grok Bot Demo",
+   "bot_id": "QhfOU5SJ60U8g2x2pUFcT",
+   "url": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+   "builder_x_handle": "STACCoverflow",
+   "one_line_desc": "Repo/book/log retrieval demo bot listed in the grokbot-templates.com directory.",
+   "source_post_url": null,
+   "found_at": "2026-09-14T08:15:00Z",
+   "reason": "HTTP 404 on https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT (x.ai 404 shell page, no bot name). Directory entry was scraped 2026-08-29; the share link is dead. Not queued."
+  },
+  {
+   "name": "真Deviフレーム Type2トライアル",
+   "bot_id": "aeE3iKjj5xfDmx_dolbll",
+   "url": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+   "builder_x_handle": "Fermion_Boson17",
+   "one_line_desc": "Personal Devi framework bot (星宮専用) listed in the awesome-grok-bot catalog.",
+   "source_post_url": null,
+   "found_at": "2026-09-14T08:15:00Z",
+   "reason": "Live (HTTP 200, title '真Deviフレーム Type2トライアル by 星宮') but the description marks it as 星宮専用 (private, single-user) with a non-Latin name and no general use. Skipped deliberately: not a shareable template for our audience."
+  }
+ ]
+}
