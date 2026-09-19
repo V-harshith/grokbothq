@@ -13584,5 +13584,77 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "stalk-bot",
+    "name": "Stalk Bot",
+    "builder": {
+      "name": "Shub Gaur",
+      "x": "shubgaur"
+    },
+    "tagline": "Signs up to competitors’ products under its own research email, films onboarding, and tracks their site, pricing, changelog, jobs and X.",
+    "description": "Competitive watch bot. It sets up its own research email, signs up for a competitor’s newsletter and product, records the onboarding on video, then keeps checking their site, pricing, changelog, job listings and X account. Each pulse reports what changed against your own positioning and closes with counter-positioning moves. It never posts or contacts anyone.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/Y7iWVNiPdorgu6oFY-PRG",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "signal-prospector",
+    "name": "Signal Prospector",
+    "builder": {
+      "name": "Krista Letz",
+      "x": "kristaletz"
+    },
+    "tagline": "Finds accounts and people in your CRM and product data that just showed intent, ranks them, and drafts the first touch for your approval.",
+    "description": "Sales prospecting bot. It scans your CRM and product data for accounts and people showing fresh intent signals, ranks them, and drafts the first outreach message. It runs on a schedule rather than on demand, explains the signal behind every name, and holds the drafts until you say yes.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/wsbOPOkHApmIYLrErnC4e",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "ebr-value-deck-builder",
+    "name": "EBR & Value Deck Builder",
+    "builder": {
+      "name": "Krista Letz",
+      "x": "kristaletz"
+    },
+    "tagline": "Builds an executive business review or value deck for one named account from your CRM, call history and usage data, on your own brand.",
+    "description": "Account deck builder. It assembles an executive business review or value deck for one named account out of your CRM records, call history and usage data, styles it in your brand, and hands back an editable file. It works only from the data it was given and nothing reaches the customer without your approval.",
+    "category": "sales",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "grokbots-best",
+    "name": "grokbots.best",
+    "builder": {
+      "name": "Hieu Dinh",
+      "x": "hieudinh_"
+    },
+    "tagline": "Submits public Grok Bot templates to the grokbots.best directory: hand it a template link or an X post and it publishes the listing.",
+    "description": "Listing tool from the grokbots.best team. Give it a public Grok Bot template link, or an X post about a bot, and it writes and publishes that entry in the grokbots.best directory.",
+    "category": "productivity",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/55WKZjppK42Jr3XPnPJdm",
+    "addedAt": "2026-09-19",
+    "status": "published",
+    "source": "https://grokbots.best"
   }
 ]
