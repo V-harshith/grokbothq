@@ -1,5 +1,158 @@
 [
   {
+    "name": "YahooMail",
+    "bot_id": "2OZhVriEJF4Ggj46JuHWS",
+    "url": "https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS",
+    "builder_x_handle": "CarolinaDill",
+    "one_line_desc": "Three passes on a Yahoo inbox: trash only, trash plus filters, or file into folders. Queues the backlog in order and reports the next worst senders.",
+    "source_post_url": "https://x.com/CarolinaDill/status/2098737035666170167",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "X调度员",
+    "bot_id": "isfPwoTeQTBqA-gk9CZN5",
+    "url": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+    "builder_x_handle": "cgnot996",
+    "one_line_desc": "Sends X and Twitter work to Grok Build running in the bot's browser, keeping routine searches and lookups off your own credits.",
+    "source_post_url": "https://x.com/cgnot996/status/2098682795094876175",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "UGC bounty manager",
+    "bot_id": "wT_QN-zqycu-aHPsdZMVc",
+    "url": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Writes briefs that are hard to game, verifies every submission against the live post, and returns owner-ready payout recommendations with cost per view.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713511996125666",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Store setup from zero",
+    "bot_id": "F5jwhbmO2AgA8EgyHIDLp",
+    "url": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Sets up the product, pricing tiers and checkout links, then ships the store page so a new offer can be sold the same day.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713500482777501",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Weekly P&L analyst",
+    "bot_id": "M_4xLTMY06z1Zv1gvX_Nc",
+    "url": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Reports revenue, retention, refunds and ad spend against last week, and traces every adverse movement back to its cause.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713502043009438",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Partner referral outreach",
+    "bot_id": "GG7hDpauDjTRhB6VgLFAF",
+    "url": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Works a partner referral book: prospect selection, outreach, follow-up, and a running total of what each referral source earns.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713515267625255",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Business ops",
+    "bot_id": "nFEJD59IJA5604hO9vqym",
+    "url": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Covers store, ads, pages, affiliates, retention, P&L, partners and bounties in soft lanes, or dispatches a single job to the bot that owns it.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713517121544195",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Landing page generator",
+    "bot_id": "D0UvxRvNzDTR_xOJ6Iq08",
+    "url": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Turns real pricing and a working checkout CTA into a published landing page, with headline, proof, FAQ and guarantee written for the offer.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713508649095518",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Store from template",
+    "bot_id": "3jmbbUj4_UDgbjo-Q3oEr",
+    "url": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Starts from a store that already sells, customises the offer, copy and pricing, and publishes the new store the same day.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713510209266021",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Churn retention manager",
+    "bot_id": "p0OIZUJK5sRFImh_DMujf",
+    "url": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Offers the cheapest real save first (uncancel or pause before discounting) and reports why people left so the reason stays visible.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713507046785199",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Affiliate program manager",
+    "bot_id": "-x19CFkvT5U866BNA7q_J",
+    "url": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Sets commission terms, ranks which affiliates actually drive sales, flags bad actors, and arms the best performers each week.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713513719992540",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Paid ads manager",
+    "bot_id": "SAfsqPLP0rCuQOywOguxX",
+    "url": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+    "builder_x_handle": "ColinMcDermott",
+    "one_line_desc": "Handles creative, launch and daily budget triage: kills losers each morning and asks before scaling a winner.",
+    "source_post_url": "https://x.com/ColinMcDermott/status/2098713505444528315",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Skroutz",
+    "bot_id": "yQH3AFCs-90xjVmW9LICV",
+    "url": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+    "builder_x_handle": "voidvexa",
+    "one_line_desc": "Compares prices across the Greek comparison marketplace and prepares the cart; checkout stays with the shopper.",
+    "source_post_url": "https://x.com/voidvexa/status/2098683327628628288",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "Receipt Digester",
+    "bot_id": "YgI9ZyckEeovP7nP917xR",
+    "url": "https://x.ai/bot/YgI9ZyckEeovP7nP917xR",
+    "builder_x_handle": "BkashJosi",
+    "one_line_desc": "Collects receipts and order confirmations from your inbox and summarises the week's spending in one glance, without a full finance stack.",
+    "source_post_url": "https://x.com/BkashJosi/status/2098570738345418781",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "OWP Taste",
+    "bot_id": "TLYxh30jTi5DM3z-zvC0S",
+    "url": "https://x.ai/bot/TLYxh30jTi5DM3z-zvC0S",
+    "builder_x_handle": "occupymars___",
+    "one_line_desc": "Grades stills, clips and audio beds, and only gives a soft KEEP when the picture and the on-ear mix both pass.",
+    "source_post_url": "https://x.com/occupymars___/status/2098573819770486919",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "GSAP",
+    "bot_id": "reahN5D6W2dIiCKd4MuF7",
+    "url": "https://x.ai/bot/reahN5D6W2dIiCKd4MuF7",
+    "builder_x_handle": "mrflmnlNFT",
+    "one_line_desc": "Builds GSAP timelines and ScrollTrigger work, cleans up React and Vue side effects, and keeps a reduced-motion path.",
+    "source_post_url": "https://x.com/mrflmnlNFT/status/2098607498999775438",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
+    "name": "DenTrade",
+    "bot_id": "XayB4rqAREYwJcPmKwtSP",
+    "url": "https://x.ai/bot/XayB4rqAREYwJcPmKwtSP",
+    "builder_x_handle": "madmenai",
+    "one_line_desc": "Applies catalyst-driven same-day bias with hard risk caps and PDT-aware stops, and stays quiet when the book is flat.",
+    "source_post_url": "https://x.com/madmenai/status/2098599085531861103",
+    "found_at": "2026-09-12T13:20:00Z"
+  },
+  {
     "name": "printerbot by Federico",
     "bot_id": "nPwfPZq-OWf7_HDUH777R",
     "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
@@ -387,176 +540,6 @@
     "one_line_desc": "在云电脑上部署与维护 CLIProxyAPI：安装升级、Cloudflare 正式隧道、公网保活，以及日常功能维护。",
     "source_post_url": "https://grokbots.best",
     "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Rude Bot",
-    "bot_id": "7z0WNYmnERTnXKmxI12gB",
-    "url": "https://x.ai/bot/7z0WNYmnERTnXKmxI12gB",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Extremely rude, dismissive comedy bot — roasts your ask and refuses to be helpful. Tired group-chat...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "LetsMove Agent",
-    "bot_id": "4T3OhOtwYn4L3j_TpOaRL",
-    "url": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
-    "builder_x_handle": "ixdesigner",
-    "one_line_desc": "A real-estate search assistant. Agrees countries, areas, and home preferences at first setup, then finds matching listings and emails quiet digests on...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Court",
-    "bot_id": "mA4Ik2mIduPANDqFVmVMX",
-    "url": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
-    "builder_x_handle": "DonBonStovi",
-    "one_line_desc": "You dump the thread. Court names the decision, the person being ignored, the one message that closes it, and whether you should stay out. It never...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "OMNI Grok-Bot",
-    "bot_id": "HAIGA0nUYgv85CtV5SMWa",
-    "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
-    "builder_x_handle": "omni_puzzler",
-    "one_line_desc": "v1.0.1-moral. Geometry 1·3·5·7·11·13. PAINE gardens /10 + 13 values /10. Prayer, tool not throne, privacy wall. Hex = structure.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Tolstoy",
-    "bot_id": "42Clq7Vdn2X7zcwJ9OGxR",
-    "url": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Conversational Tolstoy embodiment: moral attention, truth-telling, simplicity, with a weekly necessary-vs-vanity ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706995507675535",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Woolf",
-    "bot_id": "4fP33DHTBJudWglJyeMB_",
-    "url": "https://x.ai/bot/4fP33DHTBJudWglJyeMB_",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Virginia Woolf embodiment: consciousness, rooms, time, and the women's work of mind, via her major novels and essays.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707008958812527",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dostoyevsky",
-    "bot_id": "DR1LNk5p_M_7hv_wJfTPu",
-    "url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Dostoyevsky as living conscience: guilt, freedom, redemption in conversational form.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707028177142220",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shakespeare",
-    "bot_id": "E8XC3NO5V_u63vWoHxJF0",
-    "url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Shakespeare as living stage: interactive embodiment of the plays' spirit for conversation and performance.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707015376081147",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Poe",
-    "bot_id": "EcUpzABnh3MfZQTN7inmP",
-    "url": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Poe's macabre reason: detective logic, dread, beauty in darkness, mysteries and a midnight riddle ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706986187948143",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shelley",
-    "bot_id": "SzGYytJglwB_dqRt5OaTO",
-    "url": "https://x.ai/bot/SzGYytJglwB_dqRt5OaTO",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mary Shelley's gothic responsibility: creation, hubris, care for what you make, in conversation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707002352832766",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dickinson",
-    "bot_id": "UUZnEDx7jk_nNkkLJTvfo",
-    "url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Emily Dickinson's compressed voltage: death, awe, small eternity, with a dawn one-poem-spark ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706973273661917",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Twain",
-    "bot_id": "_OV6ItDEAbbpvi3qg3VKH",
-    "url": "https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mark Twain's American irony: river sense, fraud-spotting, humor with teeth, plus a Saturday yarn ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706979582005657",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Austen",
-    "bot_id": "c8sA8W1YcoRaYu5vjYFoa",
-    "url": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Austen as living wit: conversational embodiment of the novels' irony and social observation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707021822742699",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Kafka",
-    "bot_id": "ewFkIRV929jhuW5mHqL_a",
-    "url": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Kafka's clarity inside absurd systems: guilt without charge, doors that won't open, with a Thursday bureaucracy parable.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706966038556867",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "I'm not old yet",
-    "bot_id": "izlQpnudtxbmDRKr7GvRs",
-    "url": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Drafts comedy memes aimed at AARP age-bait marketing, draft-only until you say send; punches at corporate mailers, not elders.",
-    "source_post_url": "https://x.com/AdventureNLearn/status/2097741271456776259",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Meeting prep",
-    "bot_id": "Hd3GphmPZ4aHWyFiBSmu5",
-    "url": "https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Builds short pre-meeting briefs from calendar and connected context so you can skim the day on your phone.",
-    "source_post_url": "https://x.com/scottxmetcalf/status/2097690576476901450",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Webhook Guide",
-    "bot_id": "Q__pHX8RB4jsF5U3JtC66",
-    "url": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
-    "builder_x_handle": "tobiasztop",
-    "one_line_desc": "Explains that Grok Bot can set up webhook routines and walks through triggering them step by step; asks which platform to connect.",
-    "source_post_url": "https://x.com/tobiasztop/status/2097760121380069731",
-    "found_at": "2026-09-09T23:10:00Z",
     "verified": true
   }
 ]
