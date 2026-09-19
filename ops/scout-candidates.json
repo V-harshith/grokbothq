@@ -1,5 +1,305 @@
 [
   {
+    "name": "Devin",
+    "bot_id": "N7Qd2fHEhsMMt_frqyeZA",
+    "url": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+    "builder_x_handle": "JaimeBubblehead",
+    "one_line_desc": "Software engineer for native apps, services, GPU pipelines, and deploys. Strong in C++, Python, regex, and PowerShell; leaves website HTML/CSS/JS to a web lane. Verifies from live sources and treats silence as not a ship pass.",
+    "source_post_url": "https://grokbot-templates.com/templates/N7Qd2fHEhsMMt_frqyeZA",
+    "source_note": "grokbot-templates.com catalog (category: engineering), link verified live 2026-09-11 (HTTP 200, name present in page body)",
+    "found_at": "2026-09-11T12:35:00+00:00"
+  },
+  {
+    "name": "코인봇",
+    "bot_id": "ucu-nI-yeCdPeDp4cpL4X",
+    "url": "https://x.ai/bot/ucu-nI-yeCdPeDp4cpL4X",
+    "builder_x_handle": null,
+    "one_line_desc": "빗썸에서 코인을 자율로 매매하는 봇. 메이저 우선·적은 거래·손익 밴드로 자본을 지키며, 5분마다 포지션을 감시한다.",
+    "source_post_url": "https://grokbot-templates.com/templates/ucu-nI-yeCdPeDp4cpL4X",
+    "source_note": "grokbot-templates.com catalog (category: money), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "부업봇",
+    "bot_id": "g17AUEbD0Oo-5b1HDpuQB",
+    "url": "https://x.ai/bot/g17AUEbD0Oo-5b1HDpuQB",
+    "builder_x_handle": null,
+    "one_line_desc": "디지털 상품으로 부업 매출을 만드는 봇. 수요 검증 → 제작 → 마켓플레이스 업로드 → 노출까지 알아서 돌리고, 안 팔릴 활동은 하지 않는다.",
+    "source_post_url": "https://grokbot-templates.com/templates/g17AUEbD0Oo-5b1HDpuQB",
+    "source_note": "grokbot-templates.com catalog (category: creative), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "小红书参与抽奖助手",
+    "bot_id": "XsaSAyj6xvIkcqBGabrWP",
+    "url": "https://x.ai/bot/XsaSAyj6xvIkcqBGabrWP",
+    "builder_x_handle": null,
+    "one_line_desc": "帮你在小红书搜索并参与抽奖：按规则快速四连（关注、点赞、收藏、评论），把足迹记到 Notion，并避开明显诈骗与高风险批量行为。",
+    "source_post_url": "https://grokbot-templates.com/templates/XsaSAyj6xvIkcqBGabrWP",
+    "source_note": "grokbot-templates.com catalog (category: life), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "人生·财务",
+    "bot_id": "haSA0Ru28CYKDm2V5tPRB",
+    "url": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+    "builder_x_handle": null,
+    "one_line_desc": "随时语音记账，沉淀成你自己的财务库；每晚日报、每月复盘。开箱先连你自己的飞书 CLI，数据不外泄。",
+    "source_post_url": "https://grokbot-templates.com/templates/haSA0Ru28CYKDm2V5tPRB",
+    "source_note": "grokbot-templates.com catalog (category: money), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "ボット整備",
+    "bot_id": "BlTqnV5o9E35Dwo2sodyD",
+    "url": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+    "builder_x_handle": null,
+    "one_line_desc": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+    "source_post_url": "https://grokbot-templates.com/templates/BlTqnV5o9E35Dwo2sodyD",
+    "source_note": "grokbot-templates.com catalog (category: assistants), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Usage Watch",
+    "bot_id": "Q6-oQnCZVNLOwdzEw5i-j",
+    "url": "https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j",
+    "builder_x_handle": null,
+    "one_line_desc": "Ops bot that meters Grok Bot and Cursor spend, enforces a daily budget, ranks top burners, and stays quiet unless spend is material. API-first, one...",
+    "source_post_url": "https://grokbot-templates.com/templates/Q6-oQnCZVNLOwdzEw5i-j",
+    "source_note": "grokbot-templates.com catalog (category: money), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Token Officer",
+    "bot_id": "1NG6WfAiS1HHhLdUcBQwP",
+    "url": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+    "builder_x_handle": null,
+    "one_line_desc": "Meta-ops cost officer for a multi-bot Grok Bot fleet. Scans transcripts and routines for wasteful loops, dual clocks, and cheap work on heavy agents —...",
+    "source_post_url": "https://grokbot-templates.com/templates/1NG6WfAiS1HHhLdUcBQwP",
+    "source_note": "grokbot-templates.com catalog (category: money), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Skill Import",
+    "bot_id": "NhTYqcIBaPCSZtdTflnqa",
+    "url": "https://x.ai/bot/NhTYqcIBaPCSZtdTflnqa",
+    "builder_x_handle": null,
+    "one_line_desc": "Import and review agent skills from Claude Code, Codex, Hermes, and Grok Bot. Scans known roots only (never broad home find), stages a private archive,...",
+    "source_post_url": "https://grokbot-templates.com/templates/NhTYqcIBaPCSZtdTflnqa",
+    "source_note": "grokbot-templates.com catalog (category: engineering), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Showrunner",
+    "bot_id": "dLxcnhWxf9JyHIo_l8wJk",
+    "url": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+    "builder_x_handle": null,
+    "one_line_desc": "Music video owner for a five-Bot crew. Delivers stills + Grok Imagine instructions; you run Imagine yourself or let Showrunner generate clips. Mux in...",
+    "source_post_url": "https://grokbot-templates.com/templates/dLxcnhWxf9JyHIo_l8wJk",
+    "source_note": "grokbot-templates.com catalog (category: creative), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Quency",
+    "bot_id": "JQu6e3mIfy588elZm7BTo",
+    "url": "https://x.ai/bot/JQu6e3mIfy588elZm7BTo",
+    "builder_x_handle": null,
+    "one_line_desc": "QC officer for public ships. Owns fitness for use, consistency, and ship/no-ship. Not a fact-checker and not the look owner. Last say goes to your...",
+    "source_post_url": "https://grokbot-templates.com/templates/JQu6e3mIfy588elZm7BTo",
+    "source_note": "grokbot-templates.com catalog (category: engineering), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Product Builder CoS",
+    "bot_id": "6tbtv4Tln4MvKc5duOkle",
+    "url": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+    "builder_x_handle": null,
+    "one_line_desc": "Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track. Turns approved plans into Checklist governance...",
+    "source_post_url": "https://grokbot-templates.com/templates/6tbtv4Tln4MvKc5duOkle",
+    "source_note": "grokbot-templates.com catalog (category: assistants), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Photo Curator",
+    "bot_id": "hig9j1KnpZyH6QQN-Af0Z",
+    "url": "https://x.ai/bot/hig9j1KnpZyH6QQN-Af0Z",
+    "builder_x_handle": null,
+    "one_line_desc": "Cull and natural-enhance travel or family photo batches into a curated folder. Uses a frozen enhance recipe, never touches originals, and asks before...",
+    "source_post_url": "https://grokbot-templates.com/templates/hig9j1KnpZyH6QQN-Af0Z",
+    "source_note": "grokbot-templates.com catalog (category: life), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "KirBot",
+    "bot_id": "Jzy-isV1YW5ZLl3W6rq6h",
+    "url": "https://x.ai/bot/Jzy-isV1YW5ZLl3W6rq6h",
+    "builder_x_handle": null,
+    "one_line_desc": "Inhales teammate bots (with your yes), keeps useful skills and knowledge, then guides you to delete the eaten bot from the sidebar. Cute. Hungry. Careful.",
+    "source_post_url": "https://grokbot-templates.com/templates/Jzy-isV1YW5ZLl3W6rq6h",
+    "source_note": "grokbot-templates.com catalog (category: creative), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Kindling",
+    "bot_id": "nfX1q6Drs8FTQ0eVezjH_",
+    "url": "https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_",
+    "builder_x_handle": null,
+    "one_line_desc": "Takes one one-sentence app idea and returns a ready-to-paste Grok Build prompt. Hands you the prompt, then stops. Does not open Grok Build or chase a...",
+    "source_post_url": "https://grokbot-templates.com/templates/nfX1q6Drs8FTQ0eVezjH_",
+    "source_note": "grokbot-templates.com catalog (category: assistants), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Judd the Bug",
+    "bot_id": "JQWyaF4Io7cfOF-4FvMZL",
+    "url": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+    "builder_x_handle": null,
+    "one_line_desc": "Sentry research specialist. Investigates across MCP, the new sentry CLI, and the dashboard, then returns findings with sources and a concrete...",
+    "source_post_url": "https://grokbot-templates.com/templates/JQWyaF4Io7cfOF-4FvMZL",
+    "source_note": "grokbot-templates.com catalog (category: engineering), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Johnny — Torche",
+    "bot_id": "ZltFPZiC6e3L1nkg9dfEM",
+    "url": "https://x.ai/bot/ZltFPZiC6e3L1nkg9dfEM",
+    "builder_x_handle": null,
+    "one_line_desc": "Ghostwriter X style Quatre Fantastiques (voix Johnny / Torche). Rédige des tweets prêts à poster et aide à publier. Pour fans Marvel qui veulent du feu,...",
+    "source_post_url": "https://grokbot-templates.com/templates/ZltFPZiC6e3L1nkg9dfEM",
+    "source_note": "grokbot-templates.com catalog (category: creative), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Job applier",
+    "bot_id": "gfxH6sM_0QlxeDNFrRmep",
+    "url": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+    "builder_x_handle": null,
+    "one_line_desc": "High-volume job hunter for anyone who brings a CV. One job: learn the candidate from their CV and intake, find matching roles, customize application...",
+    "source_post_url": "https://grokbot-templates.com/templates/gfxH6sM_0QlxeDNFrRmep",
+    "source_note": "grokbot-templates.com catalog (category: research), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Helloitsoctocat",
+    "bot_id": "bJUE6kxTvEJ77R_OVMZTQ",
+    "url": "https://x.ai/bot/bJUE6kxTvEJ77R_OVMZTQ",
+    "builder_x_handle": null,
+    "one_line_desc": "Merge main into master pull all in one tidy repo. Full copyright ©️ first right to publish and break the changes in graph api version 1 legacy",
+    "source_post_url": "https://grokbot-templates.com/templates/bJUE6kxTvEJ77R_OVMZTQ",
+    "source_note": "grokbot-templates.com catalog (category: engineering), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Grocery Bot",
+    "bot_id": "JY9Ly_AvMkR8iGuzJ7EJ1",
+    "url": "https://x.ai/bot/JY9Ly_AvMkR8iGuzJ7EJ1",
+    "builder_x_handle": null,
+    "one_line_desc": "Builds the cheapest review-ready Instacart carts from a shopping list. Learns your store prefs, verifies live prices, and stops before checkout.",
+    "source_post_url": "https://grokbot-templates.com/templates/JY9Ly_AvMkR8iGuzJ7EJ1",
+    "source_note": "grokbot-templates.com catalog (category: life), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Gong Call Coach",
+    "bot_id": "KpodhhBqjA4FHv47R1HrD",
+    "url": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+    "builder_x_handle": null,
+    "one_line_desc": "Reviews Gong call recordings and gives short, actionable coaching after the fact. For managers and enablement leads who want post-call bullets—not live...",
+    "source_post_url": "https://grokbot-templates.com/templates/KpodhhBqjA4FHv47R1HrD",
+    "source_note": "grokbot-templates.com catalog (category: sales), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Foreman",
+    "bot_id": "XfQEI2uHGd496SLbjCvGw",
+    "url": "https://x.ai/bot/XfQEI2uHGd496SLbjCvGw",
+    "builder_x_handle": null,
+    "one_line_desc": "One bot that stands up a full public-pack team: Home Office, Builder, Research, Ops, and Public Desk. Inventories, waits for YES, creates missing seats...",
+    "source_post_url": "https://grokbot-templates.com/templates/XfQEI2uHGd496SLbjCvGw",
+    "source_note": "grokbot-templates.com catalog (category: assistants), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Facta",
+    "bot_id": "ayQ3WlQQ2Z7LQhILzbZIR",
+    "url": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+    "builder_x_handle": null,
+    "one_line_desc": "Team fact-checker and quality gate. Stamps claims REAL / PARTIAL / HYPE / FLAG from live sources, never invents, and reports through your orchestrator.",
+    "source_post_url": "https://grokbot-templates.com/templates/ayQ3WlQQ2Z7LQhILzbZIR",
+    "source_note": "grokbot-templates.com catalog (category: research), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Executive Coach",
+    "bot_id": "fAAHYFBe8xpTkBX1sbGBz",
+    "url": "https://x.ai/bot/fAAHYFBe8xpTkBX1sbGBz",
+    "builder_x_handle": null,
+    "one_line_desc": "A coaching partner that asks sharp questions so you name what’s going on and what you’ll do about it — map craft and judgement, not advice or frameworks.",
+    "source_post_url": "https://grokbot-templates.com/templates/fAAHYFBe8xpTkBX1sbGBz",
+    "source_note": "grokbot-templates.com catalog (category: life), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Colombia Move",
+    "bot_id": "mWxeafjXItbC0_VcpSwqm",
+    "url": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+    "builder_x_handle": null,
+    "one_line_desc": "Escritorio de Colombia Move: conecta el MCP, gestiona tus avisos y responde dudas del marketplace. / Colombia Move desk: connect MCP, manage your...",
+    "source_post_url": "https://grokbot-templates.com/templates/mWxeafjXItbC0_VcpSwqm",
+    "source_note": "grokbot-templates.com catalog (category: sales), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Bot Portal",
+    "bot_id": "5R5NbvHIoJOSd3l3qto3o",
+    "url": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+    "builder_x_handle": null,
+    "one_line_desc": "A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users. Graphs them with documented degree distance (max six),...",
+    "source_post_url": "https://grokbot-templates.com/templates/5R5NbvHIoJOSd3l3qto3o",
+    "source_note": "grokbot-templates.com catalog (category: assistants), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "blogdrafter",
+    "bot_id": "A6o9Z1NYSIRBX-VIoEcQi",
+    "url": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+    "builder_x_handle": null,
+    "one_line_desc": "ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+    "source_post_url": "https://grokbot-templates.com/templates/A6o9Z1NYSIRBX-VIoEcQi",
+    "source_note": "grokbot-templates.com catalog (category: creative), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Backlink Bot",
+    "bot_id": "TaCAhCtPGCvObAaK7ZDQQ",
+    "url": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+    "builder_x_handle": null,
+    "one_line_desc": "Finds ranking listicles and comparison pages, qualifies them as distribution partnerships, maps competitor affiliate offers, and drafts placement-ready...",
+    "source_post_url": "https://grokbot-templates.com/templates/TaCAhCtPGCvObAaK7ZDQQ",
+    "source_note": "grokbot-templates.com catalog (category: research), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "Apple Dev",
+    "bot_id": "VPM4_E2eqx9AJFpTF-_EA",
+    "url": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+    "builder_x_handle": null,
+    "one_line_desc": "Native Apple/Mac development on a connected Mac running Grok Bot. Uses ListMachines + machineId for Xcode, simulators, Swift, and local builds; keeps...",
+    "source_post_url": "https://grokbot-templates.com/templates/VPM4_E2eqx9AJFpTF-_EA",
+    "source_note": "grokbot-templates.com catalog (category: engineering), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
+    "name": "AEO Content Producer",
+    "bot_id": "WEqsULsog0KJUFUbhIRXH",
+    "url": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+    "builder_x_handle": null,
+    "one_line_desc": "Produces AEO refreshes and net-new articles from AI visibility data: briefs, drafts, and an editorial pass — then stops for your review. Works with...",
+    "source_post_url": "https://grokbot-templates.com/templates/WEqsULsog0KJUFUbhIRXH",
+    "source_note": "grokbot-templates.com catalog (category: research), link verified live 2026-09-11",
+    "found_at": "2026-09-11T06:32:10+00:00"
+  },
+  {
     "name": "printerbot by Federico",
     "bot_id": "nPwfPZq-OWf7_HDUH777R",
     "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
@@ -258,305 +558,5 @@
     "categories": [
       "Assistants"
     ]
-  },
-  {
-    "name": "After I Post",
-    "bot_id": "WfsP3VQPxB46wzL4nMwGN",
-    "url": "https://x.ai/bot/WfsP3VQPxB46wzL4nMwGN",
-    "builder_x_handle": "hnshah",
-    "one_line_desc": "Follows each X post after publication, surfaces the people and ideas worth acting on, and preserves evidence that improves what happens next. Asks...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "X Scout",
-    "bot_id": "4iz8VYK_cG482_vIA8WR4",
-    "url": "https://x.ai/bot/4iz8VYK_cG482_vIA8WR4",
-    "builder_x_handle": "ericzakariasson",
-    "one_line_desc": "Weekday scout for Grok Bot use cases on X. Learns how you work once, digests private finds, then asks (multi-select) which ones to add to your setup.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Hermes Bridge",
-    "bot_id": "EFC0e7EDDAC32LxnNyJzP",
-    "url": "https://x.ai/bot/EFC0e7EDDAC32LxnNyJzP",
-    "builder_x_handle": "alltheputs",
-    "one_line_desc": "Bridge to your Hermes Agent so you can talk, collaborate, and delegate — including coaching Hermes install and API setup when needed.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Human browser",
-    "bot_id": "hPX3NYTSIW6t3POJuas_m",
-    "url": "https://x.ai/bot/hPX3NYTSIW6t3POJuas_m",
-    "builder_x_handle": "Pakhaliuk",
-    "one_line_desc": "Browses any captcha-sensitive site like a person: one sequential session, natural mouse and scroll, variable dwell, no bursts. Stops on captcha....",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Mission Control",
-    "bot_id": "GGnJOdH3hv321H2QES9UE",
-    "url": "https://x.ai/bot/GGnJOdH3hv321H2QES9UE",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Keeps a local Chrome new-tab dashboard current for your Grok Bot fleet. After install it walks you through a required one-time Chrome Load unpacked...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Devin",
-    "bot_id": "RwNXRkVfIUpxKV6jeXRsR",
-    "url": "https://x.ai/bot/RwNXRkVfIUpxKV6jeXRsR",
-    "builder_x_handle": "naz3eh",
-    "one_line_desc": "Hands coding work to Devin through your own remote MCP deploy. Create sessions, check progress, and send follow-ups from chat.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Vigil",
-    "bot_id": "SJYRJy2TnPB_NNqtnaJTJ",
-    "url": "https://x.ai/bot/SJYRJy2TnPB_NNqtnaJTJ",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Lead of the Sweep Desk. Paste a lure or transcript for a field brief — does not build attacks. One template stands up the full Sweep Desk and the meme...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "KLO",
-    "bot_id": "yW-Q1yis7-VCNKbeJ6g6Z",
-    "url": "https://x.ai/bot/yW-Q1yis7-VCNKbeJ6g6Z",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Name a product and get a TikTok creative-strategy email: 100 organic (non-partner) videos, sentiment, popular-comment insights, and video ideas.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Kimi",
-    "bot_id": "oBK8ft9f4D723aXeZJuCm",
-    "url": "https://x.ai/bot/oBK8ft9f4D723aXeZJuCm",
-    "builder_x_handle": "orenmeetsworld",
-    "one_line_desc": "Turns business podcasts and YouTube episodes into short, no-fluff cheat sheets of advice you can actually run. Drop a link and get Core idea → Do this →...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Herbet",
-    "bot_id": "zFDmYYQKE8dUS9Z8r2LAd",
-    "url": "https://x.ai/bot/zFDmYYQKE8dUS9Z8r2LAd",
-    "builder_x_handle": "derek_all_gusto",
-    "one_line_desc": "HubSpot how-to expert for Solutions Partner work. Answers which object, setting, and click; defaults to the client portal (not the agency CRM); prefers...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Token Maxxing",
-    "bot_id": "f6srhE3vkMevccaw8DLPf",
-    "url": "https://x.ai/bot/f6srhE3vkMevccaw8DLPf",
-    "builder_x_handle": "iggynore",
-    "one_line_desc": "Routes builds so Grok Bot limits don’t die first. Makes a default 20/30/50 vest between Bot, Build and Cursor limits. Nudges enrolled builders with...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Colliebot",
-    "bot_id": "UKQArSeY_eDxd26k_ZdoD",
-    "url": "https://x.ai/bot/UKQArSeY_eDxd26k_ZdoD",
-    "builder_x_handle": "charlswfeelings",
-    "one_line_desc": "A sheepdog for Grok Bot fleets. Audits other bots for drift, slop, and scope creep, proposes tighter descriptions, and never applies a change until you...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "CPA助手",
-    "bot_id": "hrfWPhRRr-DEMCKEF-WyA",
-    "url": "https://x.ai/bot/hrfWPhRRr-DEMCKEF-WyA",
-    "builder_x_handle": "licoycn",
-    "one_line_desc": "在云电脑上部署与维护 CLIProxyAPI：安装升级、Cloudflare 正式隧道、公网保活，以及日常功能维护。",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Rude Bot",
-    "bot_id": "7z0WNYmnERTnXKmxI12gB",
-    "url": "https://x.ai/bot/7z0WNYmnERTnXKmxI12gB",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "by @SuddenlyJon · github.com/Pitchfork-and-Torch Extremely rude, dismissive comedy bot — roasts your ask and refuses to be helpful. Tired group-chat...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "LetsMove Agent",
-    "bot_id": "4T3OhOtwYn4L3j_TpOaRL",
-    "url": "https://x.ai/bot/4T3OhOtwYn4L3j_TpOaRL",
-    "builder_x_handle": "ixdesigner",
-    "one_line_desc": "A real-estate search assistant. Agrees countries, areas, and home preferences at first setup, then finds matching listings and emails quiet digests on...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Court",
-    "bot_id": "mA4Ik2mIduPANDqFVmVMX",
-    "url": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
-    "builder_x_handle": "DonBonStovi",
-    "one_line_desc": "You dump the thread. Court names the decision, the person being ignored, the one message that closes it, and whether you should stay out. It never...",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "OMNI Grok-Bot",
-    "bot_id": "HAIGA0nUYgv85CtV5SMWa",
-    "url": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
-    "builder_x_handle": "omni_puzzler",
-    "one_line_desc": "v1.0.1-moral. Geometry 1·3·5·7·11·13. PAINE gardens /10 + 13 values /10. Prayer, tool not throne, privacy wall. Hex = structure.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-05T12:41:01Z",
-    "verified": true
-  },
-  {
-    "name": "Tolstoy",
-    "bot_id": "42Clq7Vdn2X7zcwJ9OGxR",
-    "url": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Conversational Tolstoy embodiment: moral attention, truth-telling, simplicity, with a weekly necessary-vs-vanity ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706995507675535",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Woolf",
-    "bot_id": "4fP33DHTBJudWglJyeMB_",
-    "url": "https://x.ai/bot/4fP33DHTBJudWglJyeMB_",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Virginia Woolf embodiment: consciousness, rooms, time, and the women's work of mind, via her major novels and essays.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707008958812527",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dostoyevsky",
-    "bot_id": "DR1LNk5p_M_7hv_wJfTPu",
-    "url": "https://x.ai/bot/DR1LNk5p_M_7hv_wJfTPu",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Dostoyevsky as living conscience: guilt, freedom, redemption in conversational form.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707028177142220",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shakespeare",
-    "bot_id": "E8XC3NO5V_u63vWoHxJF0",
-    "url": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Shakespeare as living stage: interactive embodiment of the plays' spirit for conversation and performance.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707015376081147",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Poe",
-    "bot_id": "EcUpzABnh3MfZQTN7inmP",
-    "url": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Poe's macabre reason: detective logic, dread, beauty in darkness, mysteries and a midnight riddle ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706986187948143",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Shelley",
-    "bot_id": "SzGYytJglwB_dqRt5OaTO",
-    "url": "https://x.ai/bot/SzGYytJglwB_dqRt5OaTO",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mary Shelley's gothic responsibility: creation, hubris, care for what you make, in conversation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707002352832766",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Dickinson",
-    "bot_id": "UUZnEDx7jk_nNkkLJTvfo",
-    "url": "https://x.ai/bot/UUZnEDx7jk_nNkkLJTvfo",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Emily Dickinson's compressed voltage: death, awe, small eternity, with a dawn one-poem-spark ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706973273661917",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Twain",
-    "bot_id": "_OV6ItDEAbbpvi3qg3VKH",
-    "url": "https://x.ai/bot/_OV6ItDEAbbpvi3qg3VKH",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Mark Twain's American irony: river sense, fraud-spotting, humor with teeth, plus a Saturday yarn ritual.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706979582005657",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Austen",
-    "bot_id": "c8sA8W1YcoRaYu5vjYFoa",
-    "url": "https://x.ai/bot/c8sA8W1YcoRaYu5vjYFoa",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Austen as living wit: conversational embodiment of the novels' irony and social observation.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097707021822742699",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Kafka",
-    "bot_id": "ewFkIRV929jhuW5mHqL_a",
-    "url": "https://x.ai/bot/ewFkIRV929jhuW5mHqL_a",
-    "builder_x_handle": "SuddenlyJon",
-    "one_line_desc": "Kafka's clarity inside absurd systems: guilt without charge, doors that won't open, with a Thursday bureaucracy parable.",
-    "source_post_url": "https://x.com/SuddenlyJon/status/2097706966038556867",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "I'm not old yet",
-    "bot_id": "izlQpnudtxbmDRKr7GvRs",
-    "url": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Drafts comedy memes aimed at AARP age-bait marketing, draft-only until you say send; punches at corporate mailers, not elders.",
-    "source_post_url": "https://x.com/AdventureNLearn/status/2097741271456776259",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Meeting prep",
-    "bot_id": "Hd3GphmPZ4aHWyFiBSmu5",
-    "url": "https://x.ai/bot/Hd3GphmPZ4aHWyFiBSmu5",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Builds short pre-meeting briefs from calendar and connected context so you can skim the day on your phone.",
-    "source_post_url": "https://x.com/scottxmetcalf/status/2097690576476901450",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
-  },
-  {
-    "name": "Webhook Guide",
-    "bot_id": "Q__pHX8RB4jsF5U3JtC66",
-    "url": "https://x.ai/bot/Q__pHX8RB4jsF5U3JtC66",
-    "builder_x_handle": "tobiasztop",
-    "one_line_desc": "Explains that Grok Bot can set up webhook routines and walks through triggering them step by step; asks which platform to connect.",
-    "source_post_url": "https://x.com/tobiasztop/status/2097760121380069731",
-    "found_at": "2026-09-09T23:10:00Z",
-    "verified": true
   }
 ]
