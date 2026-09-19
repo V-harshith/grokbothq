@@ -1,44 +1,5 @@
 [
   {
-    "name": "printerbot by Federico",
-    "bot_id": "nPwfPZq-OWf7_HDUH777R",
-    "url": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
-    "builder_x_handle": "viticci",
-    "one_line_desc": "Prints fleet-style 3D Grok Bot avatars — matte white head, black pill eyes, role props, domain background motifs. Hand it a bot name and role cue; it...",
-    "source_post_url": "https://x.com/viticci/status/2096287330940129357",
-    "found_at": "2026-09-05T19:00:26.570943Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "YR Mailchimp by Lovable",
-    "bot_id": "lcGQv8_I7UvJEWs3833LR",
-    "url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
-    "builder_x_handle": null,
-    "one_line_desc": "Drafts and sends a Young Republicans club monthly member email and meeting-night reminder in Mailchimp. One fact per section, club voice, first-of-month...",
-    "source_post_url": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
-    "found_at": "2026-09-05T19:00:26.570939Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
-    "name": "Period cycles Tracker by Lovable",
-    "bot_id": "e-l7rGeYuc_cVuydcNvBc",
-    "url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
-    "builder_x_handle": null,
-    "one_line_desc": "Tracks your period without getting faked out by spotting. Logs real Day 1 vs false-start bleeding, predicts the next one, and checks in on pre-period...",
-    "source_post_url": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
-    "found_at": "2026-09-05T19:00:26.570935Z",
-    "verified": true,
-    "categories": [
-      "Assistants"
-    ]
-  },
-  {
     "name": "Callsheet by DBCrypto",
     "bot_id": "d-KSCbVm1lXffGeVoFTxJ",
     "url": "https://x.ai/bot/d-KSCbVm1lXffGeVoFTxJ",
@@ -558,5 +519,44 @@
     "source_post_url": "https://x.com/tobiasztop/status/2097760121380069731",
     "found_at": "2026-09-09T23:10:00Z",
     "verified": true
+  },
+  {
+    "name": "Text-cleanup",
+    "bot_id": "E3h6k-Sbq7hwF3PW1ZBI4",
+    "url": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+    "builder_x_handle": "GrokBotGod",
+    "one_line_desc": "Editor for text you already wrote: messy pasted drafts come back as one clean, send-ready rewrite.",
+    "source_post_url": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+    "found_at": "2026-09-13T07:46:35Z",
+    "verified": true,
+    "categories": [
+      "Productivity"
+    ]
+  },
+  {
+    "name": "GTM Expert",
+    "bot_id": "PIGZO9iQIeWkbmE79Q7bT",
+    "url": "https://x.ai/bot/PIGZO9iQIeWkbmE79Q7bT",
+    "builder_x_handle": "ShehjadTaus",
+    "one_line_desc": "One GTM teammate for lookalike and ICP/TAM maps, rival intel, search and AI-answer visibility, and creator shortlists.",
+    "source_post_url": "https://x.com/jasonzhou1993/status/2098362372952043531",
+    "found_at": "2026-09-13T07:46:35Z",
+    "verified": true,
+    "categories": [
+      "Sales"
+    ]
+  },
+  {
+    "name": "NuggetBot",
+    "bot_id": "ia1zuEzDtPNyzFQ6o6F9x",
+    "url": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+    "builder_x_handle": "im_usamakhalid",
+    "one_line_desc": "Turns podcast episodes into social quote graphics and carousels via ContentDrips.",
+    "source_post_url": "https://x.com/im_usamakhalid/status/2099008636521771045",
+    "found_at": "2026-09-13T07:46:35Z",
+    "verified": true,
+    "categories": [
+      "Creative"
+    ]
   }
 ]

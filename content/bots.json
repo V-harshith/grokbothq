@@ -13584,5 +13584,50 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "text-cleanup",
+    "name": "Text-cleanup",
+    "builder": {
+      "name": "GrokBotGod",
+      "x": "GrokBotGod"
+    },
+    "tagline": "Turns rough pasted text into one clean, send-ready rewrite.",
+    "description": "An editor for writing you already have. Paste a rushed reply, notes, or clumsy translated wording and it returns a single cleaned version. It rewrites what is there instead of writing new copy, so the result stays yours.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4"
+  },
+  {
+    "slug": "gtm-expert",
+    "name": "GTM Expert",
+    "builder": {
+      "name": "ShehjadTaus",
+      "x": "ShehjadTaus"
+    },
+    "tagline": "One GTM teammate for lookalikes, rival intel, search visibility, creator shortlists, and ICP or TAM maps.",
+    "description": "A single go-to-market teammate instead of a stack of dashboards. It builds lookalike and ICP or TAM maps, tracks rival moves, checks search and AI-answer visibility, and keeps a shortlist of creators worth contacting.",
+    "category": "sales",
+    "url": "https://x.ai/bot/PIGZO9iQIeWkbmE79Q7bT",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/jasonzhou1993/status/2098362372952043531"
+  },
+  {
+    "slug": "nuggetbot",
+    "name": "NuggetBot",
+    "builder": {
+      "name": "Usama Khalid",
+      "x": "im_usamakhalid"
+    },
+    "tagline": "Turns a podcast episode into social quote graphics and carousels through ContentDrips.",
+    "description": "Paste an episode, pick the nuggets worth posting, and hand over a template ID. It produces quote graphics and carousels through ContentDrips, aimed at creators cutting one long recording into social posts.",
+    "category": "creative",
+    "url": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/im_usamakhalid/status/2099008636521771045"
   }
 ]
