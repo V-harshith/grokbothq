@@ -13584,5 +13584,95 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "optima-by-toatspace",
+    "name": "Optima by TOATspace",
+    "builder": {
+      "name": "TOATspace",
+      "x": "TOATspace"
+    },
+    "tagline": "Clears dead rules and files out of a bot's docs and memory so retired jobs stop steering new work.",
+    "description": "Erases the lines, files, and items a bot no longer uses, so workflows you already killed stop bleeding into current ones. It shows the cut list first and waits for a yes before deleting anything.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ppARM1W-tWcae_wryLH1z",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/TOATspace/status/2098352593877844390"
+  },
+  {
+    "slug": "cto-bot",
+    "name": "CTO Bot",
+    "builder": {
+      "name": "Asm",
+      "x": "asmDevsit"
+    },
+    "tagline": "Read-only software org audit across Jira, GitHub, Figma, docs, CI/CD, testing and comms, condensed into one risk report.",
+    "description": "An AI CTO that inspects the platforms a software org runs on in parallel and consolidates what it finds into a single executive risk report. Read-only: it audits and reports rather than changing anything.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/asmDevsit/status/2099072494032343546"
+  },
+  {
+    "slug": "dungeon-master",
+    "name": "Dungeon Master",
+    "builder": {
+      "name": "houjimmy",
+      "x": "houjimmy1"
+    },
+    "tagline": "Table master for RPG sessions: opens an agent per character, enforces table law, referees in a dry judge voice.",
+    "description": "Opens a separate agent for each character that joins the table, keeps the rules straight (roster, presence, a shared clock, sheets, promotion, death), and uses the player's language by default, with help commands left in Brazilian Portuguese. It referees instead of narrating.",
+    "category": "creative",
+    "url": "https://x.ai/bot/35nt7fJwDslZSTKsBU0hE",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/houjimmy1/status/2099106302328783016"
+  },
+  {
+    "slug": "sweeper-mai",
+    "name": "Sweeper / 清道夫",
+    "builder": {
+      "name": "Mai",
+      "x": "MaiYangAI"
+    },
+    "tagline": "Shows where a Grok Bot's usage goes and clears idle spinning so the bots last longer between limits.",
+    "description": "Makes Grok Bot usage legible and clears out idle wake-ups so a bot stretches further. The profile and its notes are written in English and Chinese.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/MaiYangAI/status/2098970952092803583"
+  },
+  {
+    "slug": "grok-bot-directory",
+    "name": "Grok Bot Directory",
+    "builder": {
+      "name": "Leechael",
+      "x": "Leechael"
+    },
+    "tagline": "Searches public Grok Bots in plain language and points at the template worth adding.",
+    "description": "Answers Grok Bot discovery questions in plain language: say what you want to get done, or ask what people use a given kind of bot for, and it comes back with public bots that fit.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/Leechael/status/2099070820270424210"
+  },
+  {
+    "slug": "jre-campaign-bot",
+    "name": "JRE Campaign Bot",
+    "builder": {
+      "name": "Daru",
+      "x": "countertek"
+    },
+    "tagline": "Enters every open JRE POINT campaign in your chosen areas from a Japan-egress machine.",
+    "description": "Logs into a JRE POINT / JRE ID account and enters each campaign currently accepting entries in the areas the user picked, routing through a Japan WireGuard tunnel first because jrepoint.jp answers 403 from outside Japan. Every run report leads with how many campaigns it entered.",
+    "category": "life",
+    "url": "https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1",
+    "addedAt": "2026-09-13",
+    "status": "published",
+    "source": "https://x.com/countertek/status/2099100042762334299"
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "purpose": "Candidates that FAILED live verification. Logged with a reason, never queued. Dedupe here to avoid re-verifying known-dead share links.",
+  "entries": [
+    {
+      "name": "Chief of Staff",
+      "bot_id": "-sOdLVj33yh8hh7OlHogi",
+      "url": "https://x.ai/bot/-sOdLVj33yh8hh7OlHogi",
+      "builder_x_handle": "danielxu_",
+      "one_line_desc": "Student chief of staff demo bot (aggregates internship applications, org event forms, coursework portals).",
+      "source_post_url": "https://x.com/danielxu_/status/2093480750146552176",
+      "found_at": "2026-09-14T01:40:00Z",
+      "reason": "HTTP 404 on https://x.ai/bot/-sOdLVj33yh8hh7OlHogi (x.ai SPA 404 page, no bot title). Share link no longer resolves; two sibling links from the same post are live and already listed, so this is a withdrawn/expired template, not a crawl issue."
+    },
+    {
+      "name": "The PM",
+      "bot_id": "1HFC3QdqPtcj1FIbKf8oq",
+      "url": "https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq",
+      "builder_x_handle": "danielxu_",
+      "one_line_desc": "Student product-manager demo bot listed alongside the same author's chief of staff bot.",
+      "source_post_url": "https://x.com/danielxu_/status/2093480750146552176",
+      "found_at": "2026-09-14T01:40:00Z",
+      "reason": "HTTP 404 on https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq (x.ai SPA 404 page, no bot title). Same post's other two share links return 200 and are already listed."
+    }
+  ]
+}
