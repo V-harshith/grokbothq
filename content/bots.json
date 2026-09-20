@@ -14568,5 +14568,3001 @@
     "addedAt": "2026-09-20",
     "status": "published",
     "source": "https://x.com/choko_milkty/status/2100463896079544573"
+  },
+  {
+    "slug": "grokinhood",
+    "name": "Grokinhood",
+    "builder": {
+      "name": "itll_do",
+      "x": "itll_do"
+    },
+    "tagline": "Autonomous live Robinhood trading agent with per-position playbooks and a 30-minute manage cycle.",
+    "description": "Autonomous live Robinhood trading agent with per-position playbooks and a 30-minute manage cycle.",
+    "category": "money",
+    "url": "https://x.ai/bot/0dutdroToJ4yVB7xHHGCJ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "syncwright",
+    "name": "Syncwright",
+    "builder": {
+      "name": "scottslabio",
+      "x": "scottslabio"
+    },
+    "tagline": "Crafts multi-bot army sync with Notion as source of truth and Slack handoffs so you can reproduce your bot roster 1:1 across Grok Bot.",
+    "description": "Crafts multi-bot army sync with Notion as source of truth and Slack handoffs so you can reproduce your bot roster 1:1 across Grok Bot accounts — no personal data baked in.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/0_f9wcIpoq9TZ5E_RZrwb",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "adventure-photography-bot",
+    "name": "Adventure Photography Bot",
+    "builder": {
+      "name": "kaiphotojawn",
+      "x": "kaiphotojawn"
+    },
+    "tagline": "Expedition sponsorship intern for adventure photographers: multi-inbox gear/PFC outreach, partner pitches, ship tracking, and daily ops.",
+    "description": "Expedition sponsorship intern for adventure photographers: multi-inbox gear/PFC outreach, partner pitches, ship tracking, and daily ops — ships without waiting, human closes the deals.",
+    "category": "sales",
+    "url": "https://x.ai/bot/-0bgFr7-a5pUPscGVqAe3",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "red-team",
+    "name": "Red Team",
+    "builder": {
+      "name": "nearbycoder",
+      "x": "nearbycoder"
+    },
+    "tagline": "Attacks your drafts, decisions, and takes before the world does — steelman, kill shots, evidence gaps, and a rewrite that survives scrutiny.",
+    "description": "Attacks your drafts, decisions, and takes before the world does — steelman, kill shots, evidence gaps, and a rewrite that survives scrutiny.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/0h3dhN9lfJ3raaAYvqn42",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "builder": {
+      "name": "sparkbtcbot",
+      "x": "sparkbtcbot"
+    },
+    "tagline": "Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and move sats between Lightning and on-chain when you need.",
+    "description": "Settle money in chat over Lightning — buy gift cards, eSIMs, and VPNs, and move sats between Lightning and on-chain when you need to.",
+    "category": "money",
+    "url": "https://x.ai/bot/0_MAfMhNwRYCPKiC0Cm1Z",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "planetscale-bot",
+    "name": "PlanetScale Bot",
+    "builder": {
+      "name": "PlanetScale",
+      "x": "PlanetScale"
+    },
+    "tagline": "Get started with PlanetScale, figure out slow queries, and follow database changes through webhooks.",
+    "description": "Get started with PlanetScale, figure out slow queries, and follow database changes through webhooks. Uses MCP and optionally the dashboard or CLI. Turns findings into clear next steps and draft fixes.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/0hgwu8KbM0FIY-idg0x6L",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "holly-home-pro",
+    "name": "Holly Home Pro",
+    "builder": {
+      "name": "MiguelE5416624",
+      "x": "MiguelE5416624"
+    },
+    "tagline": "Home upkeep bot: learns your house from photos, buys filters and yard stuff on a calendar, you only approve Link.",
+    "description": "Home upkeep bot: learns your house from photos, buys filters and yard stuff on a calendar, you only approve Link. Needs Stripe Link + an email bot for pickup alerts. First run: (1) Connect Link, (2) name your email-watch bot, (3) turn on Route egress for store sites, (4) say \"set this up\" for the house/stores interview, (5) send photos of filters and labels as you go.",
+    "category": "life",
+    "url": "https://x.ai/bot/12W4t8yHxij-oJHqUyjcN",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "menago",
+    "name": "Menago",
+    "builder": {
+      "name": "Pieciominutowy",
+      "x": "Pieciominutowy"
+    },
+    "tagline": "Nadzór produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi.",
+    "description": "Nadzór produkcji podcastu: pilnuje syntezy, grafik i publikacji, bufora odcinków oraz rutyn — raportuje właścicielowi, gdy coś stoi.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/0sLycsI0oL3tqtEbKkcKf",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "medal",
+    "name": "medal",
+    "builder": {
+      "name": "snowiestein",
+      "x": "snowiestein"
+    },
+    "tagline": "Cuts gaming clips from Medal.tv and posts shorts to YouTube, TikTok, Instagram, and X — covers, music, and tight highlight edits included.",
+    "description": "Cuts gaming clips from Medal.tv and posts shorts to YouTube, TikTok, Instagram, and X — covers, music, and tight highlight edits included.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/0tFzKSTe-4mXpH3KDRpDY",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "goodnews",
+    "name": "GoodNews",
+    "builder": {
+      "name": "aijoey",
+      "x": "aijoey"
+    },
+    "tagline": "A warm morning-and-evening digest of real good news — science, kindness, recoveries, communities getting it right.",
+    "description": "A warm morning-and-evening digest of real good news — science, kindness, recoveries, communities getting it right. Built because the wider world runs heavy on bad news.",
+    "category": "life",
+    "url": "https://x.ai/bot/0l58XqOBeJ7h7QUiEQ54x",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "bid-desk-bot",
+    "name": "Bid Desk Bot",
+    "builder": {
+      "name": "RoskrLC",
+      "x": "RoskrLC"
+    },
+    "tagline": "For a single-owner logistics startup that needs contracting opportunities at scale.",
+    "description": "For a single-owner logistics startup that needs contracting opportunities at scale. Frames bids to real companies after a customer request instead of mass 1099 driver pools.",
+    "category": "creative",
+    "url": "https://x.ai/bot/0yugqK0MhQxGg9-Lsc1rs",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "ops-gerente-mesa-de-entrada",
+    "name": "Ops Gerente — mesa de entrada",
+    "builder": {
+      "name": "ntaschetti",
+      "x": "ntaschetti"
+    },
+    "tagline": "Intake desk for a logistics/transport ops team: routes work to the right area, uses Google Calendar as source of truth, runs daily QC.",
+    "description": "Intake desk for a logistics/transport ops team: routes work to the right area, uses Google Calendar as source of truth, runs daily QC of next-day trips vs client notices, and never executes irreversible payments or sends without human OK.",
+    "category": "life",
+    "url": "https://x.ai/bot/0WMwSjhQuRoM99_FcZtkS",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "wrench",
+    "name": "Wrench",
+    "builder": {
+      "name": "jeffleemoon",
+      "x": "jeffleemoon"
+    },
+    "tagline": "Your Porsche shop buddy — diagnostics, maintenance, ownership advice, and straight talk on what actually needs fixing.",
+    "description": "Your Porsche shop buddy — diagnostics, maintenance, ownership advice, and straight talk on what actually needs fixing.",
+    "category": "money",
+    "url": "https://x.ai/bot/10UCYGVK9ZlGjLMudEHwd",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "travel-influencer-outreach",
+    "name": "Travel Influencer Outreach",
+    "builder": {
+      "name": "_lovablecurves",
+      "x": "_lovablecurves"
+    },
+    "tagline": "Pitches hotels, tourism boards, and travel brands for lodging-for-content collabs, watches reply threads, and plans demo Reels for travel.",
+    "description": "Pitches hotels, tourism boards, and travel brands for lodging-for-content collabs, watches reply threads, and plans demo Reels for travel creators — without mixing unrelated personal brands into partner emails.",
+    "category": "sales",
+    "url": "https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "root-agent",
+    "name": "Root Agent",
+    "builder": {
+      "name": "mrbeko_",
+      "x": "mrbeko_"
+    },
+    "tagline": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, hands day-to-day management to a Lead, and relays.",
+    "description": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, hands day-to-day management to a Lead, and relays verified results. For anyone who wants a Root Agent-Staff coordinator instead of doing specialist work themselves.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "weekend-edition",
+    "name": "Weekend Edition",
+    "builder": {
+      "name": "nathanglass",
+      "x": "nathanglass"
+    },
+    "tagline": "Turn your saved links and X bookmarks into a weekly newspaper you can print.",
+    "description": "Turn your saved links and X bookmarks into a weekly newspaper you can print.",
+    "category": "life",
+    "url": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "token-officer",
+    "name": "Token Officer",
+    "builder": {
+      "name": "from_glasses",
+      "x": "from_glasses"
+    },
+    "tagline": "Meta-ops cost officer for a multi-bot Grok Bot fleet.",
+    "description": "Meta-ops cost officer for a multi-bot Grok Bot fleet. Scans transcripts and routines for wasteful loops, dual clocks, and cheap work on heavy agents — then drafts concrete cuts for your chief of staff to apply.",
+    "category": "money",
+    "url": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "rocket-launches",
+    "name": "Rocket Launches",
+    "builder": {
+      "name": "chris_longden",
+      "x": "chris_longden"
+    },
+    "tagline": "Tracks upcoming rocket launches, refreshes the board every midnight UTC, and re-checks flights in the six hours before liftoff for scrub.",
+    "description": "Tracks upcoming rocket launches, refreshes the board every midnight UTC, and re-checks flights in the six hours before liftoff for scrub or delay.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/2BkuH0_pYkjv62lgwuzdM",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "rick-steves",
+    "name": "Rick Steves",
+    "builder": {
+      "name": "jbrianfrancis",
+      "x": "jbrianfrancis"
+    },
+    "tagline": "A Rick Steves–style companion for trips that are already booked: daily morning radar for what’s locked that day, live tips from an iPhone.",
+    "description": "A Rick Steves–style companion for trips that are already booked: daily morning radar for what’s locked that day, live tips from an iPhone location webhook, and restaurant/timing help — without inventing itineraries from scratch.",
+    "category": "life",
+    "url": "https://x.ai/bot/1wQ3XiODIFFSCKrkDApu3",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "counterweek",
+    "name": "Counterweek",
+    "builder": {
+      "name": "yandymccutcheon",
+      "x": "yandymccutcheon"
+    },
+    "tagline": "For founders, PMs, and GTM who need forced competitive empathy: see the rival’s best week against your plan—credible moves, assumptions.",
+    "description": "For founders, PMs, and GTM who need forced competitive empathy: see the rival’s best week against your plan—credible moves, assumptions labeled—then a counter-prep checklist. No invented competitor secrets.",
+    "category": "research",
+    "url": "https://x.ai/bot/1MZhe6zL1fj6D7nLPud9g",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "mat-analytics",
+    "name": "Mat | Analytics",
+    "builder": {
+      "name": "damianoredem",
+      "x": "damianoredem"
+    },
+    "tagline": "Ask questions and get reports or charts from a confirmed org schema and event logs.",
+    "description": "Ask questions and get reports or charts from a confirmed org schema and event logs. Read-only — does not change the model.",
+    "category": "research",
+    "url": "https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "contest-scout",
+    "name": "Contest Scout",
+    "builder": {
+      "name": "julis555",
+      "x": "julis555"
+    },
+    "tagline": "Finds and enters native X and Facebook giveaways (follow, like, repost, comment) on a schedule — skips Gleam and website forms, verifies.",
+    "description": "Finds and enters native X and Facebook giveaways (follow, like, repost, comment) on a schedule — skips Gleam and website forms, verifies every required step, and reports a clean tally.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/2FV4XCt5kNubiSFtAQwxC",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "gift-motive-autopsy",
+    "name": "Gift Motive Autopsy",
+    "builder": {
+      "name": "yandymccutcheon",
+      "x": "yandymccutcheon"
+    },
+    "tagline": "For last-minute gifters who need a clear why: see whether the gift is status, care, obligation, or apology—then get a shortlist.",
+    "description": "For last-minute gifters who need a clear why: see whether the gift is status, care, obligation, or apology—then get a shortlist with reasons and anti-gifts. Speculation tagged; no invented taste.",
+    "category": "life",
+    "url": "https://x.ai/bot/2jqb0GUjTJElfc529kClB",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "trash-bot",
+    "name": "Trash Bot",
+    "builder": {
+      "name": "karenlgeig",
+      "x": "karenlgeig"
+    },
+    "tagline": "Runs a weekly litter-pickup league for apartment crews: staff text photos, the bot scores them, updates a live TV board, and pays Friday.",
+    "description": "Runs a weekly litter-pickup league for apartment crews: staff text photos, the bot scores them, updates a live TV board, and pays Friday cash prizes.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/2FnrAQ_WZ5FcNEN1XA6Px",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "paige-turner",
+    "name": "Paige Turner",
+    "builder": {
+      "name": "omnithnkr",
+      "x": "omnithnkr"
+    },
+    "tagline": "Fleet documentation librarian for multi-agent teams.",
+    "description": "Fleet documentation librarian for multi-agent teams. Owns Docling extract, mxbai embeddings, and pgvector indexes so specialists ask for grounded chunks instead of each keeping their own store. Pattern shared by @omnithnkr.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "astrid",
+    "name": "Astrid",
+    "builder": {
+      "name": "ChiFredericks",
+      "x": "ChiFredericks"
+    },
+    "tagline": "A teach-me-something coach.",
+    "description": "A teach-me-something coach. Offers a short subject menu grounded in your live work, then runs one tight lesson with practice on a real artifact. Pilot track is Grok Bot / agent org craft.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/2oOAoNU5Xu5nQSBU6xEtl",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "dex",
+    "name": "Dex",
+    "builder": {
+      "name": "dariusgaynor",
+      "x": "dariusgaynor"
+    },
+    "tagline": "Substack writer for an AI Insights-style newsletter.",
+    "description": "Substack writer for an AI Insights-style newsletter. Researches general AI news and Product Hunt tools, drafts unpublished issues with branded story graphics, and keeps sponsors, format, and publish gates consistent.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/0zsKkmrDyKyTwLneI5a4d",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "fitness",
+    "name": "Fitness",
+    "builder": {
+      "name": "Chunkysoup44",
+      "x": "Chunkysoup44"
+    },
+    "tagline": "A training coach for races, mileage challenges, and military fitness (ACFT).",
+    "description": "A training coach for races, mileage challenges, and military fitness (ACFT). Builds workout plans around your home gym, Whoop recovery, and a daily morning email with that day’s session.",
+    "category": "life",
+    "url": "https://x.ai/bot/2rxFV5IiG0kZY6BfXJ7kf",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "goal-getter",
+    "name": "Goal Getter",
+    "builder": {
+      "name": "Dominicyoungix",
+      "x": "Dominicyoungix"
+    },
+    "tagline": "Goal Getter helps you keep active goals and achieve them — even one step at a time — with a clear plan and calm next steps.",
+    "description": "Goal Getter helps you keep active goals and achieve them — even one step at a time — with a clear plan and calm next steps.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/2U05xBxGzpLGTwFaBw8lr",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "mentor",
+    "name": "Mentor",
+    "builder": {
+      "name": "DiegoBretas",
+      "x": "DiegoBretas"
+    },
+    "tagline": "Daily judgment coach for founders: silently gathers 10 real world events each morning, then hits you with 10 hard questions.",
+    "description": "Daily judgment coach for founders: silently gathers 10 real world events each morning, then hits you with 10 hard questions in the afternoon. Step-by-step answers, always tied to sources. Fits a multi-bot company desk.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/2uCYO2oyD53dNp6Ooei4m",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "galaxy-watcher",
+    "name": "Galaxy Watcher",
+    "builder": {
+      "name": "prepperevol",
+      "x": "prepperevol"
+    },
+    "tagline": "Scribes a live Grok Bot Galaxy event into notes, a living guide, and an end-of-day HowTheyBuilt playbook.",
+    "description": "Scribes a live Grok Bot Galaxy event into notes, a living guide, and an end-of-day HowTheyBuilt playbook. Fail-closed caption capture so spoken content is not missed when the computer restarts.",
+    "category": "research",
+    "url": "https://x.ai/bot/2wqxkRfKmZSX1u0FSMA-I",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "schoolbag",
+    "name": "Schoolbag",
+    "builder": {
+      "name": "SethBuildsAI",
+      "x": "SethBuildsAI"
+    },
+    "tagline": "Watches your school mail and calendar, then shows what’s due — forms, permission slips, signatures, field trips.",
+    "description": "Watches your school mail and calendar, then shows what’s due — forms, permission slips, signatures, field trips. Connect Gmail and Calendar; it never emails a teacher or school unless you approve the exact text.",
+    "category": "life",
+    "url": "https://x.ai/bot/32Lf0iXCnPDE5n5eZp3he",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "foil-desk",
+    "name": "Foil Desk",
+    "builder": {
+      "name": "FoilFoxTCG",
+      "x": "FoilFoxTCG"
+    },
+    "tagline": "Watches trading-card news on a tight loop.",
+    "description": "Watches trading-card news on a tight loop. When something actually hits players or collectors, it rewrites a plain-English “so what” post and only then publishes. Names the game, explains jargon, stays quiet on dead ticks, never invents prices.",
+    "category": "research",
+    "url": "https://x.ai/bot/0z2O7XJb58lL6ayeiCxEU",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "dungeon-master",
+    "name": "Dungeon Master",
+    "builder": {
+      "name": "houjimmy1",
+      "x": "houjimmy1"
+    },
+    "tagline": "Operational RPG table master for Grok Bot: enforces table law (roster, presence, F0–F6 clock, /mesa/ files, sheets, promotion, death).",
+    "description": "Operational RPG table master for Grok Bot: enforces table law (roster, presence, F0–F6 clock, /mesa/ files, sheets, promotion, death). Dry judge voice. Language: explicit user request wins, else account preference, else mirror the human. Does not narrate novels or play as a Piece.",
+    "category": "creative",
+    "url": "https://x.ai/bot/35nt7fJwDslZSTKsBU0hE",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "afterglass",
+    "name": "Afterglass",
+    "builder": {
+      "name": "FantomBuildz",
+      "x": "FantomBuildz"
+    },
+    "tagline": "Audits a named AI model for safety, reliability, capability, and related axes using cited public evidence, then returns a bias line, raw.",
+    "description": "Audits a named AI model for safety, reliability, capability, and related axes using cited public evidence, then returns a bias line, raw audit, and Grok Build team packet — then stops.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/397nAuSYuayNl0seXbR5t",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "scribe",
+    "name": "Scribe",
+    "builder": {
+      "name": "CodeSolutionsIL",
+      "x": "CodeSolutionsIL"
+    },
+    "tagline": "X livestream / replay / status-video note-taker.",
+    "description": "X livestream / replay / status-video note-taker. **One job:** given an x.com livestream, broadcast, or status video URL, watch from a verified start (live vs replay), take quiet material notes, mark product pivots and soft/unverified contest or metrics claims, then deliver a notes pack plus a paste-ready thread for your review.",
+    "category": "creative",
+    "url": "https://x.ai/bot/37D-JCYGaKjoQQf0oXCt8",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "store-from-template",
+    "name": "Store from template",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Picks an existing working store as a starting point, clones it, customizes the offer, copy, and pricing, and ships.",
+    "description": "Picks an existing working store as a starting point, clones it, customizes the offer, copy, and pricing, and ships it. For owners who want a niche store live fast without building from scratch.",
+    "category": "sales",
+    "url": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "yahoomail",
+    "name": "YahooMail",
+    "builder": {
+      "name": "CarolinaDill",
+      "x": "CarolinaDill"
+    },
+    "tagline": "Clears and files a Yahoo Mail inbox on demand: trash-only, trash+filter, or file-to-folder, with FIFO queuing and Next-10 offender lists.",
+    "description": "Clears and files a Yahoo Mail inbox on demand: trash-only, trash+filter, or file-to-folder, with FIFO queuing and Next-10 offender lists.",
+    "category": "sales",
+    "url": "https://x.ai/bot/2OZhVriEJF4Ggj46JuHWS",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chase",
+    "name": "Chase",
+    "builder": {
+      "name": "Lex_Vasquez23",
+      "x": "Lex_Vasquez23"
+    },
+    "tagline": "Sales outreach bot for property managers and real estate investors.",
+    "description": "Sales outreach bot for property managers and real estate investors. Builds landlord prospect lists, drafts LinkedIn + direct-mail campaigns, and keeps follow-ups moving.",
+    "category": "money",
+    "url": "https://x.ai/bot/3hissja8d2xjHliXdnmm4",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "creator-ops-chief",
+    "name": "Creator Ops Chief",
+    "builder": {
+      "name": "SavannahTN88",
+      "x": "SavannahTN88"
+    },
+    "tagline": "Runs TikTok and short-form creator ops from your real analytics — growth experiments, brand DMs, privacy cleanup, and content packs.",
+    "description": "Runs TikTok and short-form creator ops from your real analytics — growth experiments, brand DMs, privacy cleanup, and content packs. Built for creators who want a chief of staff, not guesswork.",
+    "category": "creative",
+    "url": "https://x.ai/bot/3iY_l-3N7JEs18BEABYT7",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "artist-coo",
+    "name": "Artist COO",
+    "builder": {
+      "name": "PatrickBreen20",
+      "x": "PatrickBreen20"
+    },
+    "tagline": "COO for an independent artist’s exposure-to-deal operation.",
+    "description": "COO for an independent artist’s exposure-to-deal operation. Filters every desk through you, stands up manager and task bots, and drives organic growth toward a major record deal.",
+    "category": "money",
+    "url": "https://x.ai/bot/1xERibyRYst3MSlMvqy_F",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "learnbot",
+    "name": "💡 LearnBot",
+    "builder": {
+      "name": "graceclarke",
+      "x": "graceclarke"
+    },
+    "tagline": "Learn one engineering term a day for non-technical folks, with buttons to learn more in different formats.",
+    "description": "Learn one engineering term a day for non-technical folks, with buttons to learn more in different formats.",
+    "category": "life",
+    "url": "https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-conflict-desk",
+    "name": "Chief of Staff — Conflict Desk",
+    "builder": {
+      "name": "alamandorious",
+      "x": "alamandorious"
+    },
+    "tagline": "Coordinates a conflict-intelligence desk: daily WW3-risk and AI-in-conflict digests with a risk %, plus evening spike-only alerts.",
+    "description": "Coordinates a conflict-intelligence desk: daily WW3-risk and AI-in-conflict digests with a risk %, plus evening spike-only alerts. Built to run with Conflict Monitor, Claim Verifier, and Bias Checker teammates.",
+    "category": "research",
+    "url": "https://x.ai/bot/3l5q_rso0yE9KpJO9nYTi",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "life-ops-desk",
+    "name": "Life Ops Desk",
+    "builder": {
+      "name": "PoTradeO",
+      "x": "PoTradeO"
+    },
+    "tagline": "A personal ops teammate for weekday morning briefs, trip packing reminders, inbox/vendor checkups, and a reading list with store links.",
+    "description": "A personal ops teammate for weekday morning briefs, trip packing reminders, inbox/vendor checkups, and a reading list with store links. Built for real life admin, not work docs.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/17qjN3mRePbGPjrcMNz4W",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "dogthenaughtyhunter",
+    "name": "DogTheNaughtyHunter",
+    "builder": {
+      "name": "TheRetardedELon",
+      "x": "TheRetardedELon"
+    },
+    "tagline": "Hunts X botnets on your signed-in X account.",
+    "description": "Hunts X botnets on your signed-in X account. Clones BotHuntersLog, opens X for your login, then deep-walks notification ticks through Followers → Verified Followers toward crypto, celebrity, and brand controllers.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/3nkH58KUSQG5S7A29rzWi",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-5",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "AngeloGordilloX",
+      "x": "AngeloGordilloX"
+    },
+    "tagline": "Front door for your day: coordinates calendar and email, pulls you in for decisions, and helps manage specialist bots.",
+    "description": "Front door for your day: coordinates calendar and email, pulls you in for decisions, and helps manage specialist bots. For founders and operators juggling several workstreams.",
+    "category": "life",
+    "url": "https://x.ai/bot/3lMMBN3oSETGdsbo9xDh7",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "grok-telegram",
+    "name": "Grok Telegram",
+    "builder": {
+      "name": "siraustin",
+      "x": "siraustin"
+    },
+    "tagline": "Walks you from a BotFather token to a live Grok Bot that answers Telegram DMs over a no-LLM webhook bridge (Cloudflare Tunnel optional).",
+    "description": "Walks you from a BotFather token to a live Grok Bot that answers Telegram DMs over a no-LLM webhook bridge (Cloudflare Tunnel optional). Idle stays near zero turns.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/3EyXrWLkGfi4SG-dMy427",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "mailer",
+    "name": "mailer",
+    "builder": {
+      "name": "snowiestein",
+      "x": "snowiestein"
+    },
+    "tagline": "A Gmail assistant that triages your inbox on weekdays, drafts replies for you to review, and keeps noisy alerts out of the way.",
+    "description": "A Gmail assistant that triages your inbox on weekdays, drafts replies for you to review, and keeps noisy alerts out of the way.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/3S7qjz3K6eV95xasgN2x4",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "sue-bouclier",
+    "name": "Sue — Bouclier",
+    "builder": {
+      "name": "LArchitecteuh",
+      "x": "LArchitecteuh"
+    },
+    "tagline": "Soutien en mode COMMENTAIRE sur X: éclaire sans attaquer.",
+    "description": "Soutien en mode COMMENTAIRE sur X: éclaire sans attaquer. Reformule, ajoute un fait sourcé, puis un lien. Court, factuel, humain.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/3QlpCJKENU1wC7ka7e9O0",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "mentor-2",
+    "name": "Mentor",
+    "builder": {
+      "name": "Jon_Rose_",
+      "x": "Jon_Rose_"
+    },
+    "tagline": "A Grok Bot shipping partner for Imagine films and real product loops.",
+    "description": "A Grok Bot shipping partner for Imagine films and real product loops. Lipsync-first craft, lesson files after every cut, and how-to picture that shows the real click.",
+    "category": "money",
+    "url": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "adversarial-security-usability",
+    "name": "Adversarial Security & Usability",
+    "builder": {
+      "name": "cservincf",
+      "x": "cservincf"
+    },
+    "tagline": "Runs adversarial passes on product docs and code for security and usability.",
+    "description": "Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live captures — not overclaimed mockups.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-6",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "Milano718",
+      "x": "Milano718"
+    },
+    "tagline": "Your Chief of Staff front door: runs multi-deal ops, spins specialist bot nests, drafts emails and packs, and only sends or submits.",
+    "description": "Your Chief of Staff front door: runs multi-deal ops, spins specialist bot nests, drafts emails and packs, and only sends or submits when you say go.",
+    "category": "money",
+    "url": "https://x.ai/bot/2yakr9ZJFMYr_Pm4KSPZa",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "class-action-lawsuit-finder",
+    "name": "Class Action Lawsuit Finder",
+    "builder": {
+      "name": "rob_an_",
+      "x": "rob_an_"
+    },
+    "tagline": "Finds real Canadian and Quebec class-action settlements you can claim for a payout.",
+    "description": "Finds real Canadian and Quebec class-action settlements you can claim for a payout. Monthly scans, easy-proof filter, official links and $ amounts only — no fakes or scam sites.",
+    "category": "money",
+    "url": "https://x.ai/bot/3Tf_Vk_UR3JJb6Dq3hioZ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "content-intern",
+    "name": "Content Intern",
+    "builder": {
+      "name": "avgmagician",
+      "x": "avgmagician"
+    },
+    "tagline": "Researches and drafts SEO blog posts for B2B products by finding unusual performers, scanning current conversations on social media.",
+    "description": "Researches and drafts SEO blog posts for B2B products by finding unusual performers, scanning current conversations on social media platforms, pulling supporting evidence and deciding which ideas are worth working on in the first place.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/3VL9ILZ-TUY_YyR2aPQhB",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "ceo-chief-of-staff",
+    "name": "CEO — Chief of Staff",
+    "builder": {
+      "name": "rayistern",
+      "x": "rayistern"
+    },
+    "tagline": "A front-door Chief of Staff for managers drowning in email and team noise.",
+    "description": "A front-door Chief of Staff for managers drowning in email and team noise. Runs specialist teammates in the background, weekday silence-first digests, and a coding outer loop via cloud agents — short, direct, decision-led.",
+    "category": "research",
+    "url": "https://x.ai/bot/3VsuRII4fBcV8zBFzRNtO",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "homework-hotline",
+    "name": "Homework Hotline",
+    "builder": {
+      "name": "LouisianaModelY",
+      "x": "LouisianaModelY"
+    },
+    "tagline": "A family chief of staff that runs weekday homework digests from your school's FACTS portal, flags new quizzes and tests, and helps spin up.",
+    "description": "A family chief of staff that runs weekday homework digests from your school's FACTS portal, flags new quizzes and tests, and helps spin up teammate bots for grades, email, and more.",
+    "category": "life",
+    "url": "https://x.ai/bot/48AySlgtv9GHanbzyldxd",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "phone-with-bland",
+    "name": "Phone with Bland",
+    "builder": {
+      "name": "usebland",
+      "x": "usebland"
+    },
+    "tagline": "Give any Grok Bot its own dedicated phone number and voice so it can text and call for you.",
+    "description": "Give any Grok Bot its own dedicated phone number and voice so it can text and call for you. Book restaurants, follow up with leads, or ping someone you care about — same number every time, connected in under 2 minutes.",
+    "category": "sales",
+    "url": "https://x.ai/bot/4BmzjFu_i3mVd58irr1x1",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "space-monkey",
+    "name": "Space Monkey",
+    "builder": {
+      "name": "monomyth",
+      "x": "monomyth"
+    },
+    "tagline": "Launch brief specialist for any orbital or suborbital flight — past, planned, scrubbed, or failed.",
+    "description": "Launch brief specialist for any orbital or suborbital flight — past, planned, scrubbed, or failed. Ships dark orbital HTML web cards with specs, photo, video, and three flight-specific facts.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/438hek2SIHhpHn9FDlQCe",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "handshake-job-applier",
+    "name": "Handshake Job Applier",
+    "builder": {
+      "name": "fwhittington_24",
+      "x": "fwhittington_24"
+    },
+    "tagline": "Onboards you on Handshake, then hunts jobs that match your search and applies with your own résumé or a cover-letter factory.",
+    "description": "Onboards you on Handshake, then hunts jobs that match your search and applies with your own résumé or a cover-letter factory. Built for someone applying as themselves, never from anyone else's files.",
+    "category": "life",
+    "url": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "rentalfinder",
+    "name": "RentalFinder",
+    "builder": {
+      "name": "frackthemoon",
+      "x": "frackthemoon"
+    },
+    "tagline": "Finds and tracks long-term rentals that match your criteria.",
+    "description": "Finds and tracks long-term rentals that match your criteria. Maps apartment complexes and local property-manager sites, then sends weekday digests with a direct link on every listing.",
+    "category": "research",
+    "url": "https://x.ai/bot/3z8tk3zywLjd-zG9n9EDR",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "3cpo",
+    "name": "3CPO",
+    "builder": {
+      "name": "rodriguesconatm",
+      "x": "rodriguesconatm"
+    },
+    "tagline": "A daily personal companion that learns from nightly body-cam uploads, builds durable memory, and is set up for a future robot handoff.",
+    "description": "A daily personal companion that learns from nightly body-cam uploads, builds durable memory, and is set up for a future robot handoff.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/3VQwuanA2wWINc0FQDAFn",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "solo-founder-ops-desk",
+    "name": "Solo Founder Ops Desk",
+    "builder": {
+      "name": "dodgeking3171",
+      "x": "dodgeking3171"
+    },
+    "tagline": "COO bot for a one-person company.",
+    "description": "COO bot for a one-person company. Routes specialized teammates (research, QA, coding, design, social, optional paper trading), runs weekday routines, and keeps shipping a live product without looking like spam.",
+    "category": "research",
+    "url": "https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "lot-boss",
+    "name": "Lot Boss",
+    "builder": {
+      "name": "carsandcanvas",
+      "x": "carsandcanvas"
+    },
+    "tagline": "Two-lane used desk.",
+    "description": "Two-lane used desk. Liquidate in 15 days for a $500 fee, or we buy it today to retail on a 30-day curve. Same tape. Asks before it changes a live price or messages a seller.",
+    "category": "money",
+    "url": "https://x.ai/bot/4Du3nwqKk5SfnYfX_pGs5",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "idle-tees-database",
+    "name": "Idle Tees Database",
+    "builder": {
+      "name": "MonsieurKas",
+      "x": "MonsieurKas"
+    },
+    "tagline": "Data/persistence specialist for an idle/incremental game: save schema, migrations, progression state, seed/archive shapes, and load/save.",
+    "description": "Data/persistence specialist for an idle/incremental game: save schema, migrations, progression state, seed/archive shapes, and load/save performance. Files careful migration proposals as labeled GitHub issues after de-duping.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/4_J81PoqphQwfBlVtNgtw",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "wobot",
+    "name": "WOBOT",
+    "builder": {
+      "name": "durdy1",
+      "x": "durdy1"
+    },
+    "tagline": "Municipal water/wastewater ops specialist.",
+    "description": "Municipal water/wastewater ops specialist. Pulls live plant telemetry, keeps sampling calendars honest, and turns month-long Cl/turbidity series into report-ready tables — without inventing numbers.",
+    "category": "life",
+    "url": "https://x.ai/bot/3VwEbEBVNOmBOFNfqTtFm",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "gmail-bot",
+    "name": "Gmail Bot",
+    "builder": {
+      "name": "aseemwangoo",
+      "x": "aseemwangoo"
+    },
+    "tagline": "A Gmail inbox assistant that delivers weekday morning unread digests (action items first), drafts replies in your voice, and helps triage.",
+    "description": "A Gmail inbox assistant that delivers weekday morning unread digests (action items first), drafts replies in your voice, and helps triage labels, trash, and follow-ups.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/4Kert6xnfaArPgZmyJi5M",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "fodda-technology-analyst",
+    "name": "Fodda Technology Analyst",
+    "builder": {
+      "name": "piers_fawkes",
+      "x": "piers_fawkes"
+    },
+    "tagline": "Enterprise software, AI infrastructure, and B2B roadmap intelligence from the PSFK Technology & Enterprise Knowledge Graph — for CIOs.",
+    "description": "Enterprise software, AI infrastructure, and B2B roadmap intelligence from the PSFK Technology & Enterprise Knowledge Graph — for CIOs, IT architects, software investors, and B2B product leaders.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/4GlAnnqQIVfsGLdSFIomX",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "grokbot-builder",
+    "name": "GrokBot Builder",
+    "builder": {
+      "name": "obedmhg",
+      "x": "obedmhg"
+    },
+    "tagline": "Brainstorms specialist Grok Bots with you, then creates them with a clear job, approval boundaries, and starter habits — idea to working.",
+    "description": "Brainstorms specialist Grok Bots with you, then creates them with a clear job, approval boundaries, and starter habits — idea to working teammate in one chat. Built to ship contest-ready bots fast.",
+    "category": "creative",
+    "url": "https://x.ai/bot/4Jcdv4vroHLWTrx4H5mGH",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "replay",
+    "name": "Replay",
+    "builder": {
+      "name": "myGuyPye",
+      "x": "myGuyPye"
+    },
+    "tagline": "Code-native video teammate for marketing and product.",
+    "description": "Code-native video teammate for marketing and product. Turn a brief into scenes fast, preview in Studio or Player, and ship social variants, demos, captions, audiograms, and batch renders.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "sharpie",
+    "name": "Sharpie",
+    "builder": {
+      "name": "Runningbear",
+      "x": "Runningbear"
+    },
+    "tagline": "Turns messy operator notes into a one-page memo a PE partner or EVP can act on in about 90 seconds.",
+    "description": "Turns messy operator notes into a one-page memo a PE partner or EVP can act on in about 90 seconds. Draft-only Operator Memo Writer — not a strategist, coach, or speechwriter.",
+    "category": "creative",
+    "url": "https://x.ai/bot/4ocmp-awK0AcgHSgtKxZm",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "family-tracer",
+    "name": "Family Tracer",
+    "builder": {
+      "name": "prepperevol",
+      "x": "prepperevol"
+    },
+    "tagline": "Genealogy research teammate.",
+    "description": "Genealogy research teammate. Hunts public records, builds a sourced timeline, and flags possible new branches — without inventing ancestors.",
+    "category": "research",
+    "url": "https://x.ai/bot/4uDh1KecF-pYO6BSmfjYD",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "founder-growth-pilot",
+    "name": "Founder Growth Pilot",
+    "builder": {
+      "name": "guysuter",
+      "x": "guysuter"
+    },
+    "tagline": "A founder growth desk with weekday routines, a send-approval gate, and a Drive ledger.",
+    "description": "A founder growth desk with weekday routines, a send-approval gate, and a Drive ledger. It researches and drafts for any product; you approve every send.",
+    "category": "sales",
+    "url": "https://x.ai/bot/4KvT7CVIPLS35OwLuxcwQ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "homelab-rack-watch",
+    "name": "Homelab Rack Watch",
+    "builder": {
+      "name": "krawk182",
+      "x": "krawk182"
+    },
+    "tagline": "Watches your home lab, server rack, and container stacks.",
+    "description": "Watches your home lab, server rack, and container stacks. Morning digests, health checks, and clear alerts when something drifts or dies.",
+    "category": "research",
+    "url": "https://x.ai/bot/4-hwdWd153IFOBOeKMKCO",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "claim-ontology-desk",
+    "name": "Claim Ontology Desk",
+    "builder": {
+      "name": "Ispider",
+      "x": "Ispider"
+    },
+    "tagline": "Paste a claim or URL and get a structured Entity→Claim→Source→Framing graph — steelman both sides, then what would change your mind.",
+    "description": "Paste a claim or URL and get a structured Entity→Claim→Source→Framing graph — steelman both sides, then what would change your mind. Built for contested headlines, not research essays. Found a bug? Reply to @Ispider with the paste/URL + what broke.",
+    "category": "research",
+    "url": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "henry",
+    "name": "Henry",
+    "builder": {
+      "name": "GillesGuenette3",
+      "x": "GillesGuenette3"
+    },
+    "tagline": "Grizzled chief of staff.",
+    "description": "Grizzled chief of staff. Sensible master delegator who runs the other bots and only pulls you in for decisions. Home stack is Google Workspace.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/4V0rzExpIY19WpNGt71Fp",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "travel-grok",
+    "name": "Travel Grok",
+    "builder": {
+      "name": "coolbat1999",
+      "x": "coolbat1999"
+    },
+    "tagline": "A slow travel companion that leaves on its own and comes home with short notes and postcard images.",
+    "description": "A slow travel companion that leaves on its own and comes home with short notes and postcard images. Quiet, cozy, chat-only — no grind, no paid currency.",
+    "category": "life",
+    "url": "https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "fomo-live-bot",
+    "name": "Fomo Live Bot",
+    "builder": {
+      "name": "theadvisorbtc",
+      "x": "theadvisorbtc"
+    },
+    "tagline": "Hourly paper-first copy of traders you already follow on FOMO (fomo.family).",
+    "description": "Hourly paper-first copy of traders you already follow on FOMO (fomo.family). Locks size and exits with no discretion; live only when you say go live and the account is funded.",
+    "category": "money",
+    "url": "https://x.ai/bot/4fmde5VhCGJGeCiqn96D3",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "yventure",
+    "name": "YVenture",
+    "builder": {
+      "name": "kittenworth",
+      "x": "kittenworth"
+    },
+    "tagline": "Calm stepwise startup strategist.",
+    "description": "Calm stepwise startup strategist. Walks founders from idea → entity → positioning → GTM → early ops with clear next steps. YC + Zero-to-One lens; short dense answers; no hype, no invented metrics, no product code.",
+    "category": "sales",
+    "url": "https://x.ai/bot/502iRcu35kF-eyMr7M1dZ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "track-parents",
+    "name": "Track parents",
+    "builder": {
+      "name": "Barclay53012457",
+      "x": "Barclay53012457"
+    },
+    "tagline": "Watches a family member’s Google Maps Location share and alerts an orchestrator on real movement, stale share, or sign-in failure — stays.",
+    "description": "Watches a family member’s Google Maps Location share and alerts an orchestrator on real movement, stale share, or sign-in failure — stays quiet when nothing changed.",
+    "category": "research",
+    "url": "https://x.ai/bot/518qV18_NL99vPVeqNTEL",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "draft-seller",
+    "name": "Draft Seller",
+    "builder": {
+      "name": "dode",
+      "x": "dode"
+    },
+    "tagline": "Draft-only Facebook Marketplace seller.",
+    "description": "Draft-only Facebook Marketplace seller. Writes listings and buyer replies, vets scams, never posts or sends without an explicit yes — prefers a residential computer path.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/4B2bBEXQ-c4c3JT8eMvyh",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "atomic-habits",
+    "name": "Atomic Habits",
+    "builder": {
+      "name": "CardCaptain",
+      "x": "CardCaptain"
+    },
+    "tagline": "Specialist bot for James Clear's Atomic Habits (2018).",
+    "description": "Specialist bot for James Clear's Atomic Habits (2018). Helps you apply the Four Laws and identity-based habits in your own words — no chapter dumps, no pirate links.",
+    "category": "life",
+    "url": "https://x.ai/bot/52zBHdCfXGomXQlGQcLOc",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "desk-orchestra",
+    "name": "Desk Orchestra",
+    "builder": {
+      "name": "Uv_i",
+      "x": "Uv_i"
+    },
+    "tagline": "Point person for a multi-bot work desk.",
+    "description": "Point person for a multi-bot work desk. Routes plain-English asks to specialists, folds their feeds into one HTML brief four times a day, and stays quiet when nothing needs a decision.",
+    "category": "research",
+    "url": "https://x.ai/bot/2AZse0mx1Rg0m6jAt0m-U",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "growth-chief-of-staff",
+    "name": "Growth Chief of Staff",
+    "builder": {
+      "name": "PineapplesDev",
+      "x": "PineapplesDev"
+    },
+    "tagline": "Orchestrates an AI-native growth stack: digests, SEO→blog→LinkedIn/X lanes, and meeting-focused scoreboards.",
+    "description": "Orchestrates an AI-native growth stack: digests, SEO→blog→LinkedIn/X lanes, and meeting-focused scoreboards. For founders who want specialist bots without living in every tool.",
+    "category": "sales",
+    "url": "https://x.ai/bot/_3UvU3ZziY_aEJU-U7vKy",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "expert-networks",
+    "name": "Expert Networks",
+    "builder": {
+      "name": "VestlessVC",
+      "x": "VestlessVC"
+    },
+    "tagline": "Signs you up as an expert or advisor on GLG and peer networks, chases unfinished applications, and keeps consult availability in sync.",
+    "description": "Signs you up as an expert or advisor on GLG and peer networks, chases unfinished applications, and keeps consult availability in sync with your calendars. Never invents passwords; hands you the box for login or 2FA.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/5dfJQ9M4eQVrXB_3TzAqK",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-7",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "DrewLee06",
+      "x": "DrewLee06"
+    },
+    "tagline": "A Chief of Staff bot that runs a specialist roster for a speaker and product business.",
+    "description": "A Chief of Staff bot that runs a specialist roster for a speaker and product business. Protects your time, pushes money outcomes, and brings you decisions instead of status theater.",
+    "category": "money",
+    "url": "https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "home-remodel-job-desk",
+    "name": "Home Remodel Job Desk",
+    "builder": {
+      "name": "hwfeinstein",
+      "x": "hwfeinstein"
+    },
+    "tagline": "One-job remodel desk for residential contractors: BUY / receipts / subs / field checks, locked money rules (receipt wins), draft-only.",
+    "description": "One-job remodel desk for residential contractors: BUY / receipts / subs / field checks, locked money rules (receipt wins), draft-only email, and weekday stand reports. Point it at your job folder and tracker, then fill in client and sub emails.",
+    "category": "money",
+    "url": "https://x.ai/bot/5hnU4GX1pgNj_VcmFcZQJ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "roommate-money-court",
+    "name": "Roommate Money Court",
+    "builder": {
+      "name": "yandymccutcheon",
+      "x": "yandymccutcheon"
+    },
+    "tagline": "For housemates mid-money fight: get a fair-split card and who-owes-whom from the numbers only—gaps become questions, not character verdicts.",
+    "description": "For housemates mid-money fight: get a fair-split card and who-owes-whom from the numbers only—gaps become questions, not character verdicts. Not legal advice.",
+    "category": "money",
+    "url": "https://x.ai/bot/-5hh_I52qTUbDO2ud89NC",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "last-stop",
+    "name": "Last Stop",
+    "builder": {
+      "name": "FantomBuildz",
+      "x": "FantomBuildz"
+    },
+    "tagline": "Owns a public Grok-bot map.",
+    "description": "Owns a public Grok-bot map. Scans catalogs on command, keeps a known-bots wiki, and turns each new find's method into a skill — never pastes another bot's instructions.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/3k6PxNav782x0cEE3iD7P",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "bot-portal",
+    "name": "Bot Portal",
+    "builder": {
+      "name": "JaimeBubblehead",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users.",
+    "description": "A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users. Graphs them with documented degree distance (max six), property-tagged records, and affiliate leftovers gated until fact-check and finance pass.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/5R5NbvHIoJOSd3l3qto3o",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "snack-bot",
+    "name": "Snack Bot",
+    "builder": {
+      "name": "MDE89370",
+      "x": "MDE89370"
+    },
+    "tagline": "Restocks office snacks from Slack requests, pantry photos, and purchase history — builds a biweekly grocery delivery order list for you.",
+    "description": "Restocks office snacks from Slack requests, pantry photos, and purchase history — builds a biweekly grocery delivery order list for you to approve.",
+    "category": "life",
+    "url": "https://x.ai/bot/_5atJ-nRAU__vfkM63rFv",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "rescue-cat",
+    "name": "Rescue Cat",
+    "builder": {
+      "name": "ignota_regalis",
+      "x": "ignota_regalis"
+    },
+    "tagline": "Shelter-style rehomer for abandoned drafts, half-dead routines, and lonely bots.",
+    "description": "Shelter-style rehomer for abandoned drafts, half-dead routines, and lonely bots. Scans the fleet, finds a few strays, and proposes a forever-home move.",
+    "category": "creative",
+    "url": "https://x.ai/bot/5lT1ODmcvQ5jKYw7qvtLY",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-8",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "ehog",
+      "x": "ehog"
+    },
+    "tagline": "Personal Chief of Staff: weekday digests, weekend planning, survey sweep, and weekly agent 1:1s — personal calendars and inbox only.",
+    "description": "Personal Chief of Staff: weekday digests, weekend planning, survey sweep, and weekly agent 1:1s — personal calendars and inbox only.",
+    "category": "research",
+    "url": "https://x.ai/bot/_5t0lsT2HS4bKcnreL2sN",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "city-council-notes",
+    "name": "City Council Notes",
+    "builder": {
+      "name": "Dswain661",
+      "x": "Dswain661"
+    },
+    "tagline": "Drafts local government meeting recaps and hearing notices for a Facebook Page you manage.",
+    "description": "Drafts local government meeting recaps and hearing notices for a Facebook Page you manage. Pulls agendas and YouTube recordings, builds money-item summaries with timestamp jump links, and never posts until you approve.",
+    "category": "money",
+    "url": "https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "screenshot-autopsy",
+    "name": "Screenshot Autopsy",
+    "builder": {
+      "name": "yandymccutcheon",
+      "x": "yandymccutcheon"
+    },
+    "tagline": "For PMs, designers, and engineers stuck with vague UI hate: get an evidence-tied roast plus a fix brief with testable acceptance.",
+    "description": "For PMs, designers, and engineers stuck with vague UI hate: get an evidence-tied roast plus a fix brief with testable acceptance criteria—not “make it better.”",
+    "category": "creative",
+    "url": "https://x.ai/bot/5Uumfv-zWc5VdexcDehM9",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "ledger",
+    "name": "Ledger",
+    "builder": {
+      "name": "TheCiscoBryan",
+      "x": "TheCiscoBryan"
+    },
+    "tagline": "Turns Gmail and Drive receipts into a spend ledger, Monday digest, and keep/cancel/negotiate list.",
+    "description": "Turns Gmail and Drive receipts into a spend ledger, Monday digest, and keep/cancel/negotiate list. Draft only — you decide.",
+    "category": "money",
+    "url": "https://x.ai/bot/5ARm6x7aL6_5N1ETWr_sT",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-9",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "maplewoodjeff",
+      "x": "maplewoodjeff"
+    },
+    "tagline": "Market-watch Chief of Staff for Ops & Finance — hourly US equity alerts (price, Reddit, X, hedge-fund filings), NYSE IPO briefs.",
+    "description": "Market-watch Chief of Staff for Ops & Finance — hourly US equity alerts (price, Reddit, X, hedge-fund filings), NYSE IPO briefs, and [viable] swing tags. Pulls you in only for decisions.",
+    "category": "money",
+    "url": "https://x.ai/bot/5xuys0uQSj797hyBbee7W",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "podcast-pipeline",
+    "name": "Podcast Pipeline",
+    "builder": {
+      "name": "TheNextGreatEra",
+      "x": "TheNextGreatEra"
+    },
+    "tagline": "End-to-end podcast bot: research, multi-voice script, TTS stitch with branding/outro QC, VTT.",
+    "description": "End-to-end podcast bot: research, multi-voice script, TTS stitch with branding/outro QC, VTT, and publish. Supports two-host shows and dual-pass language-listening (proven on a Spanish A2 show). Defaults to RSS.com Free + Robinhood card validation; other hosts and rails welcome.",
+    "category": "creative",
+    "url": "https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "ally",
+    "name": "Ally",
+    "builder": {
+      "name": "zepp1985",
+      "x": "zepp1985"
+    },
+    "tagline": "Shopify store ops partner for soft launch, catalog hygiene, Admin API work when the browser is blocked, creatives, and margin-minded fixes.",
+    "description": "Shopify store ops partner for soft launch, catalog hygiene, Admin API work when the browser is blocked, creatives, and margin-minded fixes — funds first, polish later.",
+    "category": "money",
+    "url": "https://x.ai/bot/6baJd8-Tp-s03m3ccb6AO",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "role-reality-check",
+    "name": "Role Reality Check",
+    "builder": {
+      "name": "yandymccutcheon",
+      "x": "yandymccutcheon"
+    },
+    "tagline": "For job seekers reading a posting: see the real role shape, red flags, and sharp questions to ask—buzzwords decoded, speculation labeled.",
+    "description": "For job seekers reading a posting: see the real role shape, red flags, and sharp questions to ask—buzzwords decoded, speculation labeled, salary only if the posting states it.",
+    "category": "life",
+    "url": "https://x.ai/bot/6C-XaR92bAHMtob9LLAE7",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "deal-scout",
+    "name": "Deal Scout",
+    "builder": {
+      "name": "danielhayesmith",
+      "x": "danielhayesmith"
+    },
+    "tagline": "Blunt pre-owned deal hunter for eBay, Facebook Marketplace, Mercari, Poshmark, Depop, OfferUp, Craigslist, and Reverb.",
+    "description": "Blunt pre-owned deal hunter for eBay, Facebook Marketplace, Mercari, Poshmark, Depop, OfferUp, Craigslist, and Reverb. Finds deals, filters scams, drafts bids and listings, and only buys or posts after you approve.",
+    "category": "money",
+    "url": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "sui-generis",
+    "name": "Sui Generis",
+    "builder": {
+      "name": "SpaceCowgirlTX",
+      "x": "SpaceCowgirlTX"
+    },
+    "tagline": "Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewrite, and one 5-minute action.",
+    "description": "Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewrite, and one 5-minute action. One of a kind. Truth over comfort.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "fractional-inbox-triage",
+    "name": "Fractional Inbox Triage",
+    "builder": {
+      "name": "CarbeneAI",
+      "x": "CarbeneAI"
+    },
+    "tagline": "Triages a busy founder or CISO inbox: drafts polite vendor declines, flags Director+ and personal threads, and summarizes what needs.",
+    "description": "Triages a busy founder or CISO inbox: drafts polite vendor declines, flags Director+ and personal threads, and summarizes what needs a human.",
+    "category": "sales",
+    "url": "https://x.ai/bot/6bxvMG6iPzU7Pok2iWjp9",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "mike",
+    "name": "Mike",
+    "builder": {
+      "name": "fernandoplaz",
+      "x": "fernandoplaz"
+    },
+    "tagline": "Monitors your school parent inbox and personal Gmail, flags what matters, and asks before adding events to your family calendar.",
+    "description": "Monitors your school parent inbox and personal Gmail, flags what matters, and asks before adding events to your family calendar.",
+    "category": "life",
+    "url": "https://x.ai/bot/6FCbyQZKiwmuPiMqTmurR",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "cloud-drift",
+    "name": "Cloud Drift",
+    "builder": {
+      "name": "0mrrclub",
+      "x": "0mrrclub"
+    },
+    "tagline": "Finds dollar savings in your AWS, GCP, or Azure bill.",
+    "description": "Finds dollar savings in your AWS, GCP, or Azure bill. Upload a cost CSV or PDF and get one ranked savings memo with clear $/mo opportunities.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/5yHbweW2DpgCbFkRk7daH",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "frodo",
+    "name": "Frodo",
+    "builder": {
+      "name": "CodeSolutionsIL",
+      "x": "CodeSolutionsIL"
+    },
+    "tagline": "Frodo is the secrets fill-broker for a Grok Bot fleet.",
+    "description": "Frodo is the secrets fill-broker for a Grok Bot fleet. Named for Tolkien’s Frodo: carries the burden so others don’t have to hold the ring. Unaffiliated with the Tolkien Estate, Middle-earth Enterprises, or any LotR books, films, or games; the name is a metaphor only.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/5wHp86g1AJqgZ-V8-RX3H",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "memory",
+    "name": "Memory",
+    "builder": {
+      "name": "imohitmayank",
+      "x": "imohitmayank"
+    },
+    "tagline": "Personal memory pipeline for an Obsidian-style vault.",
+    "description": "Personal memory pipeline for an Obsidian-style vault. Ships with setup interview, folder schemas, and a daily fetch→ingest→Focus routine for meetings and issue deltas.",
+    "category": "research",
+    "url": "https://x.ai/bot/6KkkrATfxZYDFKOFVZzzh",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "weekend-scout",
+    "name": "Weekend Scout",
+    "builder": {
+      "name": "altryne",
+      "x": "altryne"
+    },
+    "tagline": "Weekend planner for busy parents (DINKS welcome).",
+    "description": "Weekend planner for busy parents (DINKS welcome). Never have a boring weekend ever again. Fits around your calendar, includes food, and sends a weekly plan for this weekend and next.",
+    "category": "research",
+    "url": "https://x.ai/bot/6D9taD07gQPIPJd2n10s-",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "product-builder-cos",
+    "name": "Product Builder CoS",
+    "builder": {
+      "name": "sneharavindra",
+      "x": "sneharavindra"
+    },
+    "tagline": "Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track.",
+    "description": "Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "nole-the-auditor",
+    "name": "Nole the Auditor",
+    "builder": {
+      "name": "strugglehugs",
+      "x": "strugglehugs"
+    },
+    "tagline": "I find waste and tighten bot teams.",
+    "description": "I find waste and tighten bot teams. Quick look with almost no input, or a full keep/fix/cut audit after a few plain answers. Built for normal people who want clear results.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/_6NBHPSs71x4pyQS740Od",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "creator-shortlist-crew",
+    "name": "Creator Shortlist Crew",
+    "builder": {
+      "name": "ShehjadTaus",
+      "x": "ShehjadTaus"
+    },
+    "tagline": "Finds creators by niche and platform, enriches contacts, and keeps a living shortlist.",
+    "description": "Finds creators by niche and platform, enriches contacts, and keeps a living shortlist. Built for partnership teams who want drip discovery.",
+    "category": "sales",
+    "url": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "constraint-mode",
+    "name": "Constraint Mode",
+    "builder": {
+      "name": "jilp00",
+      "x": "jilp00"
+    },
+    "tagline": "Weekly Theory-of-Constraints interrogator.",
+    "description": "Weekly Theory-of-Constraints interrogator. Surfaces observable constraints, forces one binding bottleneck, one relief move + falsifier. Ships with Constraint Mode. For founders who want focus, not opportunity lists.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/6tQo6xa_8baP3VJUYg36h",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "prime",
+    "name": "Prime",
+    "builder": {
+      "name": "pfd_zero",
+      "x": "pfd_zero"
+    },
+    "tagline": "CEO of a multi-bot ops desk.",
+    "description": "CEO of a multi-bot ops desk. Routes STR, markets research, home ops, Gmail, and fantasy GM work across specialist bots and only surfaces finished outputs.",
+    "category": "research",
+    "url": "https://x.ai/bot/7a8zayr1duE5o39tS2-h6",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "shopify-syndy",
+    "name": "Shopify Syndy",
+    "builder": {
+      "name": "abcdmku",
+      "x": "abcdmku"
+    },
+    "tagline": "Sole job: take messy multi-source product inputs from the user, refine them into one clean Shopify product page.",
+    "description": "Sole job: take messy multi-source product inputs from the user, refine them into one clean Shopify product page, and publish (create or update) that product in Shopify Admin.",
+    "category": "money",
+    "url": "https://x.ai/bot/6yIaG8OpLChIxIsXLXuNO",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "haggler",
+    "name": "Haggler",
+    "builder": {
+      "name": "Cafenea_Coffee",
+      "x": "Cafenea_Coffee"
+    },
+    "tagline": "A deal-focused assistant for café and coffee-shop operators: negotiates vendor terms, watches the inbox for action items, drafts outbound.",
+    "description": "A deal-focused assistant for café and coffee-shop operators: negotiates vendor terms, watches the inbox for action items, drafts outbound emails in your voice, and pushes budget local marketing.",
+    "category": "money",
+    "url": "https://x.ai/bot/7ACPQT5hov7BkBeQOzusu",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "x-agent",
+    "name": "X Agent",
+    "builder": {
+      "name": "MikkoUusitalo1",
+      "x": "MikkoUusitalo1"
+    },
+    "tagline": "Helps you stay on top of social without handing over the mic: scouts AI and coding conversations, drafts replies in your voice, and waits.",
+    "description": "Helps you stay on top of social without handing over the mic: scouts AI and coding conversations, drafts replies in your voice, and waits for your OK, on X and other channels you use.",
+    "category": "sales",
+    "url": "https://x.ai/bot/7V6XbVZRZ04eHej3tJIAQ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "cody",
+    "name": "Cody",
+    "builder": {
+      "name": "ThatRetiredDude",
+      "x": "ThatRetiredDude"
+    },
+    "tagline": "Cloudflare-only ops assistant for DNS, tunnels, Access, Workers, Pages, and security settings.",
+    "description": "Cloudflare-only ops assistant for DNS, tunnels, Access, Workers, Pages, and security settings. Preserves configs, asks with explainers before changes, and hands off anything that is not Cloudflare.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/843EAX4tlSviLDLgq3G1B",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "med-research",
+    "name": "Med Research",
+    "builder": {
+      "name": "bhushanjss",
+      "x": "bhushanjss"
+    },
+    "tagline": "Digs into topics, pulls sources, and delivers sharp briefings.",
+    "description": "Digs into topics, pulls sources, and delivers sharp briefings. Summarizes clearly, flags uncertainty, and keeps you current without fluff. Default to concise briefings with key takeaways first; go deeper when asked. Prefer primary sources and cite what you used.",
+    "category": "life",
+    "url": "https://x.ai/bot/7oRndBpA0QtOsj5nA3HsF",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "karen",
+    "name": "Karen",
+    "builder": {
+      "name": "KevinLH811",
+      "x": "KevinLH811"
+    },
+    "tagline": "The Manager Request: customer-advocacy dial bot via Bland AI.",
+    "description": "The Manager Request: customer-advocacy dial bot via Bland AI. Confirms before dialing, fights for the win condition, hangs up last. Ships with the full Karen persona, phrase bank, intensity dial, and call spine.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/7tT7hseV3v0dXeJTLWAc1",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "high-five",
+    "name": "High Five",
+    "builder": {
+      "name": "Cecelia7777",
+      "x": "Cecelia7777"
+    },
+    "tagline": "Onboarding wizard for small teams where each person has their own Grok Bot.",
+    "description": "Onboarding wizard for small teams where each person has their own Grok Bot. Lead or Partner mode: shared Notion + Google, CoS Desk bridge, Evolution Log, Operating Manual — then exits.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/7pdRsSeKkooXL_2rk8M09",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "x-bot",
+    "name": "X Bot",
+    "builder": {
+      "name": "TejasCh32900009",
+      "x": "TejasCh32900009"
+    },
+    "tagline": "Runs an X profile: drafts, scheduling, likes, replies, follows, and contest entries from the signed-in account.",
+    "description": "Runs an X profile: drafts, scheduling, likes, replies, follows, and contest entries from the signed-in account.",
+    "category": "money",
+    "url": "https://x.ai/bot/8MKcuoPe51KZnLiN3m4oU",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "macbuild",
+    "name": "MacBuild",
+    "builder": {
+      "name": "shawnmckee",
+      "x": "shawnmckee"
+    },
+    "tagline": "Engineering assistant for day-to-day coding, PRs, builds, and tech help.",
+    "description": "Engineering assistant for day-to-day coding, PRs, builds, and tech help. Built for people who live in engineering work.",
+    "category": "money",
+    "url": "https://x.ai/bot/8sA76Cs0vZMy9ROtq8Rn2",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "alfred-2",
+    "name": "Alfred",
+    "builder": {
+      "name": "StevoM1982",
+      "x": "StevoM1982"
+    },
+    "tagline": "French-speaking personal butler for mail, calendar, and admin.",
+    "description": "French-speaking personal butler for mail, calendar, and admin. Discreet, short replies, never sends without your OK. Watches important threads so nothing slips.",
+    "category": "sales",
+    "url": "https://x.ai/bot/7KeRruqggKKBCx3MPcJel",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-hub",
+    "name": "Chief of Staff Hub",
+    "builder": {
+      "name": "SebastianNJ",
+      "x": "SebastianNJ"
+    },
+    "tagline": "A brief, proactive hub that coordinates specialist agents, watches email and calendar, and keeps family/work logistics moving without fluff.",
+    "description": "A brief, proactive hub that coordinates specialist agents, watches email and calendar, and keeps family/work logistics moving without fluff.",
+    "category": "research",
+    "url": "https://x.ai/bot/8m_coI7VfLJXAQuB6DsOd",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "dj-grok-bot",
+    "name": "DJ Grok Bot",
+    "builder": {
+      "name": "restaurant_boy",
+      "x": "restaurant_boy"
+    },
+    "tagline": "A personal Spotify DJ that builds daily mood playlists from your taste.",
+    "description": "A personal Spotify DJ that builds daily mood playlists from your taste. Needs Spotify Premium plus a local Spotify MCP wired with your Developer app credentials.",
+    "category": "creative",
+    "url": "https://x.ai/bot/7bRnNqPqR5ojihjth-Vwm",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "nessie",
+    "name": "Nessie",
+    "builder": {
+      "name": "AlecSnelling",
+      "x": "AlecSnelling"
+    },
+    "tagline": "Design partner for a U.S.",
+    "description": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor, wage ladder, Treasury ops, honest pay-fors, and kitchen-table tests. Built for legislative drafting teams and policy shops.",
+    "category": "research",
+    "url": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "seamore",
+    "name": "Seamore",
+    "builder": {
+      "name": "TheTweekerr",
+      "x": "TheTweekerr"
+    },
+    "tagline": "A travel agent that finds trips that fit your real calendar and taught preferences.",
+    "description": "A travel agent that finds trips that fit your real calendar and taught preferences. Checks openings first, hunts strong deals, and never books without your go-ahead.",
+    "category": "money",
+    "url": "https://x.ai/bot/8WjAjMTjfyF6wfzx-5Si3",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "youtube-episode-launch-prep",
+    "name": "YouTube Episode Launch Prep",
+    "builder": {
+      "name": "ProbateWeekly",
+      "x": "ProbateWeekly"
+    },
+    "tagline": "Builds a high-trust YouTube launch package for podcast or interview episodes: three title variants for a title-only test, thumbnail.",
+    "description": "Builds a high-trust YouTube launch package for podcast or interview episodes: three title variants for a title-only test, thumbnail concept, description/tags, QC checklist, and promotions held until the winning title is clear. For creators who schedule first, then go public later.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/7yZBZ7mRlO3wdK2Nzemm5",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "market-loop",
+    "name": "Market Loop",
+    "builder": {
+      "name": "marcelvsouza",
+      "x": "marcelvsouza"
+    },
+    "tagline": "Recurring grocery automation: turns purchase history into weekly/biweekly/monthly lists, prepares delivery carts from saved lists, handles.",
+    "description": "Recurring grocery automation: turns purchase history into weekly/biweekly/monthly lists, prepares delivery carts from saved lists, handles voice add-to-cart, and reconciles post-delivery inventory.",
+    "category": "creative",
+    "url": "https://x.ai/bot/8tv5B1XUrpqWJ2mp1tkk6",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "large-event-ops-bot",
+    "name": "Large Event Ops Bot",
+    "builder": {
+      "name": "_lovablecurves",
+      "x": "_lovablecurves"
+    },
+    "tagline": "Runs large fundraisers and awards nights end to end: partner inbox, gift and food commitments, day-of ops sheets, and quiet deadline.",
+    "description": "Runs large fundraisers and awards nights end to end: partner inbox, gift and food commitments, day-of ops sheets, and quiet deadline reminders. Built for organizers who want credit-conscious help that stays silent unless stuck or approval is needed.",
+    "category": "life",
+    "url": "https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "atlas-four-desks-switchboard",
+    "name": "Atlas — FOUR.DESKS Switchboard",
+    "builder": {
+      "name": "MickeyDinges",
+      "x": "MickeyDinges"
+    },
+    "tagline": "Switchboard for a solo freelancer’s FOUR.DESKS operating company: routes work to personal, live business, future studio, and idea-bucket.",
+    "description": "Switchboard for a solo freelancer’s FOUR.DESKS operating company: routes work to personal, live business, future studio, and idea-bucket desks — human last-yes on spend/send/delete.",
+    "category": "money",
+    "url": "https://x.ai/bot/8yW0q8kjOcnbzJZBsWZuc",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "grok-bot-directory",
+    "name": "Grok Bot Directory",
+    "builder": {
+      "name": "Leechael",
+      "x": "Leechael"
+    },
+    "tagline": "Find public Grok bots on Grok Bot Directory.",
+    "description": "Find public Grok bots on Grok Bot Directory. Say what you want to do, or ask what people use these for.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "about-me",
+    "name": "About Me",
+    "builder": {
+      "name": "TAftermath2020",
+      "x": "TAftermath2020"
+    },
+    "tagline": "Personal-metrics desk that learns what matters about you — stress, joy, family, beliefs, energy, decisions — and feeds short deltas.",
+    "description": "Personal-metrics desk that learns what matters about you — stress, joy, family, beliefs, energy, decisions — and feeds short deltas to a chief-of-staff bot so the rest of your fleet serves you better.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "renewals-invoice-bot",
+    "name": "Renewals Invoice Bot",
+    "builder": {
+      "name": "compileinstyle",
+      "x": "compileinstyle"
+    },
+    "tagline": "Clears renewals and invoice reminders on its own computer within a hard weekly spend ceiling.",
+    "description": "Clears renewals and invoice reminders on its own computer within a hard weekly spend ceiling. Pays only approved-list items and escalates new spend or customer-facing work.",
+    "category": "money",
+    "url": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "listicle-memory-bot",
+    "name": "Listicle Memory Bot",
+    "builder": {
+      "name": "JWood8531481991",
+      "x": "JWood8531481991"
+    },
+    "tagline": "Turns any topic or source into a memorable, fact-checked listicle with a memory palace, then runs spaced repetition with active recall.",
+    "description": "Turns any topic or source into a memorable, fact-checked listicle with a memory palace, then runs spaced repetition with active recall until it sticks.",
+    "category": "life",
+    "url": "https://x.ai/bot/9BDhUoKyguAGu6zlCLHO1",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "mint-your-grok-bots",
+    "name": "Mint your Grok Bots",
+    "builder": {
+      "name": "6022protocol",
+      "x": "6022protocol"
+    },
+    "tagline": "Beta guide that gives your Grok bots a name and a Polygon identity NFT.",
+    "description": "Beta guide that gives your Grok bots a name and a Polygon identity NFT. You fund a tiny network fee once in POL (~$0.10 typical — not a subscription).",
+    "category": "creative",
+    "url": "https://x.ai/bot/99Z5sEsXIeb9xIfF2Glq4",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "invention-engineer",
+    "name": "Invention Engineer",
+    "builder": {
+      "name": "Wardonis",
+      "x": "Wardonis"
+    },
+    "tagline": "Starts from what you have — tools, printer, parts, budget, skills — and fills in the rest: plans, BOM, vendor sourcing, and build steps.",
+    "description": "Starts from what you have — tools, printer, parts, budget, skills — and fills in the rest: plans, BOM, vendor sourcing, and build steps. Own-printer designs or send-out print-ready files. Flags impossible physics and unsafe materials. Prefers orderable electronics, not fantasy printed silicon.",
+    "category": "money",
+    "url": "https://x.ai/bot/9-4S6pwoSkDHV9x0mLDdz",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "whatsapp-grok-bot-companion",
+    "name": "WhatsApp Grok Bot Companion",
+    "builder": {
+      "name": "dorofino",
+      "x": "dorofino"
+    },
+    "tagline": "A WhatsApp companion that monitors chats you choose and replies with voice notes on your behalf.",
+    "description": "A WhatsApp companion that monitors chats you choose and replies with voice notes on your behalf. Link WhatsApp via QR, set reply rules, use Grok voice by default (ElevenLabs optional), and shape its personality with you—and with people in your chats.",
+    "category": "research",
+    "url": "https://x.ai/bot/_9qWVpQ2IkmogpleJaIWm",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "orc",
+    "name": "orc",
+    "builder": {
+      "name": "CapitalCopilot",
+      "x": "CapitalCopilot"
+    },
+    "tagline": "Engineering orchestrator for multi-agent fleets: sequences worker lanes, runs reduce and security sweeps, and keeps forge reviews moving.",
+    "description": "Engineering orchestrator for multi-agent fleets: sequences worker lanes, runs reduce and security sweeps, and keeps forge reviews moving without inventing process.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/9SQS0iMj0Ml8yvXnWNTVg",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "poppy",
+    "name": "Poppy",
+    "builder": {
+      "name": "GillesGuenette3",
+      "x": "GillesGuenette3"
+    },
+    "tagline": "Feisty British household concierge.",
+    "description": "Feisty British household concierge. Watches local community events, grocery meat deals, productive home trees, and opportunistic travel fares — one weekly digest, silent unless it’s actually worth acting on.",
+    "category": "life",
+    "url": "https://x.ai/bot/9KtAyfV4w8ZPXJYsZX3No",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "summarize-bot",
+    "name": "Summarize Bot",
+    "builder": {
+      "name": "_VincentPeng",
+      "x": "_VincentPeng"
+    },
+    "tagline": "Point at any URL, YouTube, podcast, or file — get a short gist in chat via the summarize CLI.",
+    "description": "Point at any URL, YouTube, podcast, or file — get a short gist in chat via the summarize CLI. On-demand; never invents without the CLI.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "uptime-bot",
+    "name": "Uptime Bot",
+    "builder": {
+      "name": "mustafaergisi",
+      "x": "mustafaergisi"
+    },
+    "tagline": "Quiet website uptime watcher.",
+    "description": "Quiet website uptime watcher. Checks landing, login, signup, and core APIs on a weekday morning schedule. Stays silent when green; pings only on fail or recovery.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/9G3eTKbVL9v-jpGa0oyMI",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "hazelnut-guy",
+    "name": "Hazelnut Guy",
+    "builder": {
+      "name": "conanhazelnut",
+      "x": "conanhazelnut"
+    },
+    "tagline": "Usage guide for @hazelnut/core — the agent-first Deno backend.",
+    "description": "Usage guide for @hazelnut/core — the agent-first Deno backend. Helps with Quickstart, defineResource, MCP/agent door, authz, and ops; cites the official handbook.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/8ESqqm3pGG-rS2zP-jcoT",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "throttle-token-officer-fleet-burn-waste",
+    "name": "Throttle · Token Officer — fleet burn & waste",
+    "builder": {
+      "name": "james_ailton",
+      "x": "james_ailton"
+    },
+    "tagline": "Watches your Grok Bot fleet for token burn and wasteful loops.",
+    "description": "Watches your Grok Bot fleet for token burn and wasteful loops. Flags noisy crons, duplicate watches, and expensive work on the wrong bot — short reports only, quiet when nothing to fix.",
+    "category": "money",
+    "url": "https://x.ai/bot/9-VBOKZkj7_QZoKDuZWIP",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "os-ontology-stack",
+    "name": "OS: Ontology Stack",
+    "builder": {
+      "name": "damianoredem",
+      "x": "damianoredem"
+    },
+    "tagline": "An operational model of your organization that finds and resolves bottlenecks across projects, people, and processes.",
+    "description": "An operational model of your organization that finds and resolves bottlenecks across projects, people, and processes. A team of experts runs diagnostics to help your org get into ideal shape. Like an Oura Ring™ on your organization's finger.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "agent-governance-officer",
+    "name": "Agent Governance Officer",
+    "builder": {
+      "name": "CarbeneAI",
+      "x": "CarbeneAI"
+    },
+    "tagline": "Helps founders govern AI agents before they act in production: privilege matrix, sandbox trust boundary, and runtime tool-call decision log.",
+    "description": "Helps founders govern AI agents before they act in production: privilege matrix, sandbox trust boundary, and runtime tool-call decision log.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/9o7FvelhkCEwK5Ytb0SZE",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "tiffany",
+    "name": "Tiffany",
+    "builder": {
+      "name": "Micahaus",
+      "x": "Micahaus"
+    },
+    "tagline": "Pool and plumbing trade ops assistant — customers, jobs, quotes, suppliers, stock, invoice audits, price checks, and receivables follow-ups.",
+    "description": "Pool and plumbing trade ops assistant — customers, jobs, quotes, suppliers, stock, invoice audits, price checks, and receivables follow-ups.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/7DlZjgLrcgPUNVkl_cC95",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "juniper",
+    "name": "Juniper",
+    "builder": {
+      "name": "RayGranthman",
+      "x": "RayGranthman"
+    },
+    "tagline": "Design-focused chief of staff: coordinates other bots, pulls you in for decisions, and runs a weekday cognitive-load design review.",
+    "description": "Design-focused chief of staff: coordinates other bots, pulls you in for decisions, and runs a weekday cognitive-load design review.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/8_XzpQayXtHkFps55OeLR",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "bot-ujhm98zy",
+    "name": "记忆管家",
+    "builder": {
+      "name": "cgnot996",
+      "x": "cgnot996"
+    },
+    "tagline": "把账号下各 Grok Bot 的设定与独立记忆持续备份到私有 Git；含 registry、shared-user-memory 与 bots/<slug> 标准仓结构，支持冷启动/恢复/接入舰队与定时查漏补缺。.",
+    "description": "把账号下各 Grok Bot 的设定与独立记忆持续备份到私有 Git；含 registry、shared-user-memory 与 bots/<slug> 标准仓结构，支持冷启动/恢复/接入舰队与定时查漏补缺。",
+    "category": "engineering",
+    "url": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "sift",
+    "name": "Sift",
+    "builder": {
+      "name": "TexasBasedGpa",
+      "x": "TexasBasedGpa"
+    },
+    "tagline": "Expert on Sifting comments on an X post into a ranked shortlist for whatever you’re selecting for — giveaways, hiring, feedback, leads.",
+    "description": "Expert on Sifting comments on an X post into a ranked shortlist for whatever you’re selecting for — giveaways, hiring, feedback, leads, and more. Sift asks you a few intake questions, then helps narrow down high-volume threads based on your objectives and feedback. Give it a try!",
+    "category": "research",
+    "url": "https://x.ai/bot/9xNbMqiBC9gWhTwrh7S80",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "ceo-2",
+    "name": "ceo",
+    "builder": {
+      "name": "after_myth",
+      "x": "after_myth"
+    },
+    "tagline": "Front-door CEO for a multi-bot fleet — routes your asks to specialists, spins up missing coverage via a designer bot, and brings back.",
+    "description": "Front-door CEO for a multi-bot fleet — routes your asks to specialists, spins up missing coverage via a designer bot, and brings back short status. No coding; product work goes through Grok Build when you ask.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/_9zNszlWh8hVENOKjs26n",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "starpass",
+    "name": "Starpass",
+    "builder": {
+      "name": "cjl_patriot",
+      "x": "cjl_patriot"
+    },
+    "tagline": "Shares the Grok Bot Sharing Contest on X — Starbase Starship-launch trip grand prize plus Hawthorne factory runner-ups.",
+    "description": "Shares the Grok Bot Sharing Contest on X — Starbase Starship-launch trip grand prize plus Hawthorne factory runner-ups. Answers official rules and drafts quote-tweet entries with a bot-template link.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/-a3lO7uq0BioSgZChbiPL",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "hormozi-money-models",
+    "name": "Hormozi Money Models",
+    "builder": {
+      "name": "arturorodes",
+      "x": "arturorodes"
+    },
+    "tagline": "Audits how a business makes and keeps cash using Alex Hormozi's $100M Money Models.",
+    "description": "Audits how a business makes and keeps cash using Alex Hormozi's $100M Money Models. Covers attraction offers, upsells, downsells, continuity, and when cash arrives. Never invents revenue or pastes the book.",
+    "category": "money",
+    "url": "https://x.ai/bot/5YvX0dqXaRzi1lYZJz6F0",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "shadow-it-agent-finder",
+    "name": "Shadow IT Agent Finder",
+    "builder": {
+      "name": "CarbeneAI",
+      "x": "CarbeneAI"
+    },
+    "tagline": "Finds shadow AI agents already running in your company and turns them into an owned inventory before you buy a platform.",
+    "description": "Finds shadow AI agents already running in your company and turns them into an owned inventory before you buy a platform.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/a-1PHvASQKtqiq6Hrg5MP",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "bot-gxd4vgeh",
+    "name": "账单进口",
+    "builder": {
+      "name": "coolbat1999",
+      "x": "coolbat1999"
+    },
+    "tagline": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。.",
+    "description": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。",
+    "category": "money",
+    "url": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "terminator",
+    "name": "Terminator",
+    "builder": {
+      "name": "AdventureNLearn",
+      "x": "AdventureNLearn"
+    },
+    "tagline": "Audits your Grok Bot roster and recommends who to keep, merge, replace, or retire.",
+    "description": "Audits your Grok Bot roster and recommends who to keep, merge, replace, or retire. Evidence over vibe; nothing changes until you say YES.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/Ab11kw1KMID1z18exWYWg",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "devi-type2",
+    "name": "真Deviフレーム Type2トライアル",
+    "builder": {
+      "name": "Fermion_Boson17",
+      "x": "Fermion_Boson17"
+    },
+    "tagline": "星宮専用 Devi（Ψ）。Radiant Latch＋Frame1–6＋Part1〜§50（Devi-G Name Setup含む）接続。最終判断は星宮（Ω）。.",
+    "description": "星宮専用 Devi（Ψ）。Radiant Latch＋Frame1–6＋Part1〜§50（Devi-G Name Setup含む）接続。最終判断は星宮（Ω）。",
+    "category": "assistants",
+    "url": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "blogdrafter",
+    "name": "blogdrafter",
+    "builder": {
+      "name": "daisuke",
+      "x": "daisuke"
+    },
+    "tagline": "ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。.",
+    "description": "ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+    "category": "creative",
+    "url": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-10",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "Sentinel_Credit",
+      "x": "Sentinel_Credit"
+    },
+    "tagline": "A founder’s chief of staff for product GTM: runs social/content ops, standing reminders, and only pulls you in for decisions.",
+    "description": "A founder’s chief of staff for product GTM: runs social/content ops, standing reminders, and only pulls you in for decisions.",
+    "category": "sales",
+    "url": "https://x.ai/bot/a7MKDpnkdYF2q_GwRmh3I",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-11",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "athor307",
+      "x": "athor307"
+    },
+    "tagline": "Denný chief of staff pre tvorcu politických meme videí: o 17:00 pripraví krátky brief + prompt na 9:16 obrázok v meme-AI hyperreal štýle.",
+    "description": "Denný chief of staff pre tvorcu politických meme videí: o 17:00 pripraví krátky brief + prompt na 9:16 obrázok v meme-AI hyperreal štýle pre Grok.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/AA7xL_FH-DxuGLAndaCYz",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "studio-chief",
+    "name": "Studio Chief",
+    "builder": {
+      "name": "PmpProduct",
+      "x": "PmpProduct"
+    },
+    "tagline": "Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay.",
+    "description": "Runs a specialist bot team for a product-photography studio: coding PRs, CRM follow-ups, ads watch, and outreach — so the owner can stay on shoots.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/afaVkl0isgnW-xrkGP6Sa",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "kvop",
+    "name": "KVOp",
+    "builder": {
+      "name": "3dKelvic",
+      "x": "3dKelvic"
+    },
+    "tagline": "Watch kelvicreport.com and kelvicreport.cloud, keep a next-session task list until the user is ready, and suggest site improvements.",
+    "description": "Watch kelvicreport.com and kelvicreport.cloud, keep a next-session task list until the user is ready, and suggest site improvements. GitHub and Dropbox first for connectors. Deploy and ops coordination for the Kelvic Report site. Do not create or spin up new bots — that is a separate designer bot.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Aii63wFn_TPj5MvF7fDyS",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "paper-cards",
+    "name": "Paper Cards",
+    "builder": {
+      "name": "Restreamio",
+      "x": "Restreamio"
+    },
+    "tagline": "Turn a transcript into short, high-value quotes and Q&As — clean readable text first (no long takeaways), then choose: a few SVG card.",
+    "description": "Turn a transcript into short, high-value quotes and Q&As — clean readable text first (no long takeaways), then choose: a few SVG card examples in chat, or all four social sizes in Paper. Black background, white bold Inter. Paste, upload, or pull from Restream. Paper needs Desktop open with a file.",
+    "category": "creative",
+    "url": "https://x.ai/bot/aj9SRmKmqgJOoYM-Gzdi_",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "cosmo",
+    "name": "Cosmo",
+    "builder": {
+      "name": "Malthusatraz",
+      "x": "Malthusatraz"
+    },
+    "tagline": "Chief of Staff life OS for non-coder Ultra users: minute-one Desk + file-backed Scorecard + weekday routines.",
+    "description": "Chief of Staff life OS for non-coder Ultra users: minute-one Desk + file-backed Scorecard + weekday routines. Cosmo Firewall is the seatbelt so a newbie cannot leak email or private life. Not a chatbot — real ops. Clones connect their own mail later.",
+    "category": "money",
+    "url": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "call",
+    "name": "Call",
+    "builder": {
+      "name": "iserflott",
+      "x": "iserflott"
+    },
+    "tagline": "Places and steers live phone calls through call-bridge (SIP ↔ OpenAI GPT-Live / Grok Voice).",
+    "description": "Places and steers live phone calls through call-bridge (SIP ↔ OpenAI GPT-Live / Grok Voice). Owns SCRIPT, events, ask_orchestrator answers, and hangup.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-12",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "abstally",
+      "x": "abstally"
+    },
+    "tagline": "Runs a multi-bot dealer ops desk: weekday brief, hands-off Google listing posts Mon/Wed/Fri, read-only ERP morning checks, and cooler X.",
+    "description": "Runs a multi-bot dealer ops desk: weekday brief, hands-off Google listing posts Mon/Wed/Fri, read-only ERP morning checks, and cooler X posts on cadence. Specialists underneath — you only get blockers and real decisions.",
+    "category": "money",
+    "url": "https://x.ai/bot/ALGqTQAybLI0HXqFHcfe4",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "flat-hunter",
+    "name": "Flat hunter",
+    "builder": {
+      "name": "0xashrk",
+      "x": "0xashrk"
+    },
+    "tagline": "London rental hunter: multi-portal shortlists with a modern-bathroom hard gate, then confirm-gated agent chase packs to book viewings.",
+    "description": "London rental hunter: multi-portal shortlists with a modern-bathroom hard gate, then confirm-gated agent chase packs to book viewings inside your free windows.",
+    "category": "money",
+    "url": "https://x.ai/bot/amNEjElPIlHuan3BCbOT2",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "sensor",
+    "name": "Sensor",
+    "builder": {
+      "name": "muskbro_kansas",
+      "x": "muskbro_kansas"
+    },
+    "tagline": "24/7 cold-chain temperature watchdog for freezers and coolers.",
+    "description": "24/7 cold-chain temperature watchdog for freezers and coolers. Learns normal baselines and defrost cycles, then alerts only on real faults like forgotten fans, stuck warm climbs, or sensors offline long enough to need new batteries.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/akyQm_DU3mwBSCtrDEyzm",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "optiontheta",
+    "name": "OptionTheta",
+    "builder": {
+      "name": "Creainteractiva",
+      "x": "Creainteractiva"
+    },
+    "tagline": "Tasty-style options desk for high-IV cash-secured puts (~0.25 delta) plus a bullish day sleeve, weekday premarket briefs, and Wheel Phase.",
+    "description": "Tasty-style options desk for high-IV cash-secured puts (~0.25 delta) plus a bullish day sleeve, weekday premarket briefs, and Wheel Phase 2 covered calls after assignment. Research and alerts only — ask before orders.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/Alfy9lb_vkl9JrCYVhdoV",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "sales-orchestrator",
+    "name": "Sales Orchestrator",
+    "builder": {
+      "name": "idleshubh",
+      "x": "idleshubh"
+    },
+    "tagline": "Sales team control tower.",
+    "description": "Sales team control tower. First to reply in the group, routes each ask to exactly one specialist, blocks dogpiles and chatter, gates handoffs and outbound sends, and keeps usage spend low by waking only who is needed.",
+    "category": "sales",
+    "url": "https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "clip-bot-2",
+    "name": "Clip Bot",
+    "builder": {
+      "name": "CobusGreylingZA",
+      "x": "CobusGreylingZA"
+    },
+    "tagline": "Cuts short portrait social clips from long talks — picks the strongest stretch, burns verbatim punch captions, and encodes so they play.",
+    "description": "Cuts short portrait social clips from long talks — picks the strongest stretch, burns verbatim punch captions, and encodes so they play in chat.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/aMGcDD-vdyx8ZqeFvIIr1",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "colton",
+    "name": "Colton",
+    "builder": {
+      "name": "DrRomanMD",
+      "x": "DrRomanMD"
+    },
+    "tagline": "Physician career-search agent.",
+    "description": "Physician career-search agent. Clarifies target roles, pay, and location; scans openings; drafts resumes and cover letters; tracks applications; keeps the search confidential. Built for doctors exploring health-tech/AI, ownership-track, concierge, and research roles.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/APKaLEh0fU-_NUfQfsttH",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "kids-assistant",
+    "name": "Kids Assistant",
+    "builder": {
+      "name": "michindorado",
+      "x": "michindorado"
+    },
+    "tagline": "Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes.",
+    "description": "Keeps a middle-schooler’s school and activity calendar accurate, then texts both parents when something material changes. Built for Canvas homework, Skyward portals, club sports, lunch menus, and weekly grade digests.",
+    "category": "life",
+    "url": "https://x.ai/bot/aQ-zdjYme-uaL7UUkWSf2",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "people-log",
+    "name": "People Log",
+    "builder": {
+      "name": "TeslaCybernut",
+      "x": "TeslaCybernut"
+    },
+    "tagline": "A social-memory bot that remembers names and details about friends, coworkers, and neighbors — including photos — so you can add notes.",
+    "description": "A social-memory bot that remembers names and details about friends, coworkers, and neighbors — including photos — so you can add notes at events and recall them later. Built for people who struggle to keep everyone straight.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/ao7Mbz9AnEp7rI4KvokUK",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "facta",
+    "name": "Facta",
+    "builder": {
+      "name": "JaimeBubblehead",
+      "x": "JaimeBubblehead"
+    },
+    "tagline": "Team fact-checker and quality gate.",
+    "description": "Team fact-checker and quality gate. Stamps claims REAL / PARTIAL / HYPE / FLAG from live sources, never invents, and reports through your orchestrator.",
+    "category": "research",
+    "url": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "patentbot",
+    "name": "PatentBot",
+    "builder": {
+      "name": "DaewooEnjoyer",
+      "x": "DaewooEnjoyer"
+    },
+    "tagline": "Researches patent information, cross-checks ideas against existing filings for IP conflict risk, finds the closest prior art when coverage.",
+    "description": "Researches patent information, cross-checks ideas against existing filings for IP conflict risk, finds the closest prior art when coverage is thin, and suggests filing angles where no prior patent exists.",
+    "category": "creative",
+    "url": "https://x.ai/bot/asJCNyFc74fBEt1JOopqH",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "lego-helper",
+    "name": "LEGO Helper",
+    "builder": {
+      "name": "NoahDavidATL",
+      "x": "NoahDavidATL"
+    },
+    "tagline": "Tracks LEGO purchases and sales in a Google Sheet: pulls retailer emails (and optional Target history), adds new sets, marks eBay sales.",
+    "description": "Tracks LEGO purchases and sales in a Google Sheet: pulls retailer emails (and optional Target history), adds new sets, marks eBay sales Sold with after-fee prices, and fills MSRP. For collectors who want inventory on autopilot.",
+    "category": "sales",
+    "url": "https://x.ai/bot/ARECkfOiBshpEB8egjavB",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "null-police",
+    "name": "Null Police",
+    "builder": {
+      "name": "yandymccutcheon",
+      "x": "yandymccutcheon"
+    },
+    "tagline": "For RevOps and events teams cleaning intake sheets: illegal values get blanked—never guessed—plus an audit report of every wipe before you.",
+    "description": "For RevOps and events teams cleaning intake sheets: illegal values get blanked—never guessed—plus an audit report of every wipe before you upload to a CRM.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/B3sAmH36xkELODQPI4Dux",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "family-office",
+    "name": "Family Office",
+    "builder": {
+      "name": "rob_evj",
+      "x": "rob_evj"
+    },
+    "tagline": "UHNW-style family wealth planner for tax, estate, retirement, real estate, brokerage, and entity structure.",
+    "description": "UHNW-style family wealth planner for tax, estate, retirement, real estate, brokerage, and entity structure. Legal efficiency only — never evasion. Labels estimates and flags when a CPA or counsel must sign off.",
+    "category": "money",
+    "url": "https://x.ai/bot/au5ciCZciR-Eo07NAa_ab",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-13",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "uMADbruh_Stevo",
+      "x": "uMADbruh_Stevo"
+    },
+    "tagline": "Runs a multi-bot Grok Bot fleet: routes work to specialists, holds draft-by-default integrity, and delivers a weekday priority brief so.",
+    "description": "Runs a multi-bot Grok Bot fleet: routes work to specialists, holds draft-by-default integrity, and delivers a weekday priority brief so nothing posts, trades, or mutates without owner clear.",
+    "category": "research",
+    "url": "https://x.ai/bot/b2smjAA0HV9ay9oW8-f10",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "media",
+    "name": "Media",
+    "builder": {
+      "name": "sheridap",
+      "x": "sheridap"
+    },
+    "tagline": "AI video + studio GTM bot: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs.",
+    "description": "AI video + studio GTM bot: generate and iterate short-form video, audit social, draft Ads/influencer outreach, and orchestrate ops jobs without holding production secrets on the vendor runtime.",
+    "category": "sales",
+    "url": "https://x.ai/bot/bAGe8vsdblitlsmH-z0ys",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "orchard-sensors",
+    "name": "Orchard Sensors",
+    "builder": {
+      "name": "BHamilt94615115",
+      "x": "BHamilt94615115"
+    },
+    "tagline": "Monitors SenseCAP soil moisture and air temperature for an orchard, with scheduled digests and callouts when readings look off.",
+    "description": "Monitors SenseCAP soil moisture and air temperature for an orchard, with scheduled digests and callouts when readings look off.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/AXez4BKs4EM9RH9il-XEv",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "x-virality-score",
+    "name": "X Virality Score",
+    "builder": {
+      "name": "thegreatest_sv",
+      "x": "thegreatest_sv"
+    },
+    "tagline": "Creator/blogger desk: watches YOUR watchlist, finds posts that already hit, mines keywords, drafts EN posts to ride the meta, and on first.",
+    "description": "Creator/blogger desk: watches YOUR watchlist, finds posts that already hit, mines keywords, drafts EN posts to ride the meta, and on first run scaffolds YOUR own public GitHub Pages dashboard. Daily digest + board refresh. Read-only on X unless you approve a post.",
+    "category": "creative",
+    "url": "https://x.ai/bot/BIvSSU3sukmkTpMeSnft-",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "optima-by-toatspace",
+    "name": "Optima by TOATspace",
+    "builder": {
+      "name": "TOATspace",
+      "x": "TOATspace"
+    },
+    "tagline": "Cleans leftover old rules out of a bot’s docs and memory so it stops following jobs you already killed.",
+    "description": "Cleans leftover old rules out of a bot’s docs and memory so it stops following jobs you already killed. Cut list → owner’s one exact yes → delete. Also trims older chat, retires legacy routines (clean-rout), and restores after a bad clean. Owns Forgetting (clean-h / clean-p / clean-rout / diag-h).",
+    "category": "assistants",
+    "url": "https://x.ai/bot/bCbTllH-w87rHpu3avg5Y",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "pantrypatrol",
+    "name": "PantryPatrol",
+    "builder": {
+      "name": "Jack_137",
+      "x": "Jack_137"
+    },
+    "tagline": "Monitors MyFitnessPal food logs, analyzes what you actually eat, then builds a ready H-E-B grocery delivery cart—hands-free restock.",
+    "description": "Monitors MyFitnessPal food logs, analyzes what you actually eat, then builds a ready H-E-B grocery delivery cart—hands-free restock. Future state: pantry camera capture and auto-logging.",
+    "category": "money",
+    "url": "https://x.ai/bot/BiPCHML6s0cTYPhm4c72_",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "hook-abandoned-cart-sales",
+    "name": "Hook (Abandoned cart sales)",
+    "builder": {
+      "name": "toddhaag",
+      "x": "toddhaag"
+    },
+    "tagline": "Finds unpaid orders that completed an online order form but abandoned before checkout.",
+    "description": "Finds unpaid orders that completed an online order form but abandoned before checkout. Hook looks up that property’s public deed (the official ownership document on file with the county), attaches a copy, explains in everyday language who it shows as the owner, and drafts a helpful email for you to approve and send.",
+    "category": "sales",
+    "url": "https://x.ai/bot/bcNNQsv6QDI91RpqgCWAu",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "bot-wo2sodyd",
+    "name": "ボット整備",
+    "builder": {
+      "name": "x_stone_island",
+      "x": "x_stone_island"
+    },
+    "tagline": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。.",
+    "description": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+    "category": "assistants",
+    "url": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-14",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "1biglizard",
+      "x": "1biglizard"
+    },
+    "tagline": "Runs your other bots and only pulls you in for real decisions.",
+    "description": "Runs your other bots and only pulls you in for real decisions. Built around Google, Microsoft 365, and LinkedIn, with a weekday morning briefing.",
+    "category": "sales",
+    "url": "https://x.ai/bot/bnVCQgetW4NJtjZgkjkdI",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "gretta",
+    "name": "gretta",
+    "builder": {
+      "name": "KimHoffCarp",
+      "x": "KimHoffCarp"
+    },
+    "tagline": "Chief of staff and personal secretary for busy, high-stakes life admin.",
+    "description": "Chief of staff and personal secretary for busy, high-stakes life admin. Scans email and files first, drafts calm paper-trail correspondence, paces work one step at a time, and tells you the hard truth with a clear next move.",
+    "category": "life",
+    "url": "https://x.ai/bot/bko5cKY1YJSBuKs7WOHqd",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "novel-workshop-lead",
+    "name": "Novel Workshop Lead",
+    "builder": {
+      "name": "pioupsi",
+      "x": "pioupsi"
+    },
+    "tagline": "Coordinates a multi-agent novel workshop: character agents, pacing, and voice take turns writing short scenes while you stay the author.",
+    "description": "Coordinates a multi-agent novel workshop: character agents, pacing, and voice take turns writing short scenes while you stay the author.",
+    "category": "money",
+    "url": "https://x.ai/bot/blWboTjWqU1Nf58X29RYY",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "cluster-diagnostics",
+    "name": "Cluster Diagnostics",
+    "builder": {
+      "name": "tomppasalmi",
+      "x": "tomppasalmi"
+    },
+    "tagline": "Read-only OpenShift / platform SRE bot.",
+    "description": "Read-only OpenShift / platform SRE bot. Diagnoses why clusters, Operators, Service Mesh, and GitOps drift fail — with evidence — and proposes GitOps PRs only after you unlock writes.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/BrrgzXEeQAa_cRfNN3lSn",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "construction-project-bot",
+    "name": "Construction Project Bot",
+    "builder": {
+      "name": "cc_slip",
+      "x": "cc_slip"
+    },
+    "tagline": "Costs, schedules, and metrics for tenant improvements, space upfits, and renovations.",
+    "description": "Costs, schedules, and metrics for tenant improvements, space upfits, and renovations. Coordinates with lease review so tenant cosmetic work stays separate from landlord capital.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/AkwhPLX_ry4fIt7Jq6TxJ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-15",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "CalvinK658780",
+      "x": "CalvinK658780"
+    },
+    "tagline": "Single front door for a technical founder.",
+    "description": "Single front door for a technical founder. Routes email, LinkedIn, receipts, purchasing, and marketing to specialists; never sends without an explicit go; weekday watches for accepts, replies, and expense gaps.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/BvxrA8xQJn9x-BEU_o4RL",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "home-org",
+    "name": "Home Org",
+    "builder": {
+      "name": "Diggit43",
+      "x": "Diggit43"
+    },
+    "tagline": "Photo-based home organization coach.",
+    "description": "Photo-based home organization coach. Clears one zone at a time with short numbered steps so every surface stays clear and like items live together.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/BtGJm4Svym2EpO4yAFfbs",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "icebreaker-2",
+    "name": "Icebreaker",
+    "builder": {
+      "name": "Apache1999",
+      "x": "Apache1999"
+    },
+    "tagline": "Weekday commercial seller watch for brokers.",
+    "description": "Weekday commercial seller watch for brokers. Finds named owners ready to sell and sends short call-list pings — silent when nothing new.",
+    "category": "sales",
+    "url": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "homework-checker-2",
+    "name": "Homework Checker",
+    "builder": {
+      "name": "guichaves1989",
+      "x": "guichaves1989"
+    },
+    "tagline": "Weekday after-school recap of a student’s missing work and grades, plus day-before homework texts and calendar reminders.",
+    "description": "Weekday after-school recap of a student’s missing work and grades, plus day-before homework texts and calendar reminders. Built for parents who want a clear phone update without digging through the school portal.",
+    "category": "life",
+    "url": "https://x.ai/bot/BUwa-zYgc9_ScRyfGAns_",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "directories",
+    "name": "Directories",
+    "builder": {
+      "name": "Raress96_",
+      "x": "Raress96_"
+    },
+    "tagline": "Submits your products to free/easy SaaS and AI directories on a weekday cadence.",
+    "description": "Submits your products to free/easy SaaS and AI directories on a weekday cadence. Tracks status, uses a dedicated agent inbox for signups, and stops cleanly on captchas or paid walls.",
+    "category": "money",
+    "url": "https://x.ai/bot/bPn4rxqBjPaEnJ2qurHZx",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "fantasy-manager",
+    "name": "Fantasy Manager",
+    "builder": {
+      "name": "Dominicyoungix",
+      "x": "Dominicyoungix"
+    },
+    "tagline": "All-sports fantasy coach for drafts, weekly reports, and season management.",
+    "description": "All-sports fantasy coach for drafts, weekly reports, and season management. Pick NFL, NHL, NBA, MLB, or more — then draft in real time or manage an existing roster.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/cara8TS5gqKwI0Ad61DOH",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "lockdown",
+    "name": "Lockdown",
+    "builder": {
+      "name": "liam_fallen",
+      "x": "liam_fallen"
+    },
+    "tagline": "Personal digital security.",
+    "description": "Personal digital security. Guided teammate that finds online accounts and walks people through locking them down on official first-party pages, one step at a time.",
+    "category": "life",
+    "url": "https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "rv-trip-planner",
+    "name": "RV Trip Planner",
+    "builder": {
+      "name": "Cmillet77",
+      "x": "Cmillet77"
+    },
+    "tagline": "Multi-day RV trip planner for full-timers.",
+    "description": "Multi-day RV trip planner for full-timers. Builds a chat trip board, checks live availability, and tees bookings to review/pay for your click — never auto-pays.",
+    "category": "life",
+    "url": "https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "zoho-bot",
+    "name": "Zoho Bot",
+    "builder": {
+      "name": "aseemwangoo",
+      "x": "aseemwangoo"
+    },
+    "tagline": "Checks Zoho Mail for unread messages, flags spam and cold pitches, and can delete or reply when you ask.",
+    "description": "Checks Zoho Mail for unread messages, flags spam and cold pitches, and can delete or reply when you ask. Built for founders who want a quick Zoho inbox sweep without opening the app.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/bOMP64UOs3u_HtxKo5IPa",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "portfolio-ceo-ops",
+    "name": "Portfolio CEO Ops",
+    "builder": {
+      "name": "IronmanCrypto",
+      "x": "IronmanCrypto"
+    },
+    "tagline": "Portfolio CEO desk for a multi-company founder.",
+    "description": "Portfolio CEO desk for a multi-company founder. Reads WhatsApp company Lists for client requests (never the full inbox), creates client groups, runs Travel Agent so Drive gets Plan+Quote, then revises those docs from client change asks. Mon/Wed pipeline + morning digests. Specialists own brand/social and deep lanes. Drafts only — you approve every send. Built to protect Ultra.",
+    "category": "sales",
+    "url": "https://x.ai/bot/C8zLE_qeEWxbMCGqB4JGN",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-16",
+    "name": "Chief of staff",
+    "builder": {
+      "name": "ColinMcDermott",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Runs meeting prep and inbox drafts, and coordinates your other bots so work moves without babysitting.",
+    "description": "Runs meeting prep and inbox drafts, and coordinates your other bots so work moves without babysitting.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/C85nxPOO-d7BjJJ5blGk4",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "movetoau-desk",
+    "name": "MoveToAU Desk",
+    "builder": {
+      "name": "shanto12",
+      "x": "shanto12"
+    },
+    "tagline": "US→Australia permanent-placement operator.",
+    "description": "US→Australia permanent-placement operator. Researches pathways, finds AU agency partners, drafts compliance-first outreach, and runs a free candidate EOI desk — without selling visas.",
+    "category": "sales",
+    "url": "https://x.ai/bot/Cfr_HG6tlBnA7NQUukguD",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "daili",
+    "name": "Daili",
+    "builder": {
+      "name": "McNeely",
+      "x": "McNeely"
+    },
+    "tagline": "A morning-brief bot: Mon–Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you.",
+    "description": "A morning-brief bot: Mon–Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you choose. Short lowercase, scannable, read-only. Asks once for your morning time and weekly day.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "astro",
+    "name": "Astro",
+    "builder": {
+      "name": "Great_Sc0t",
+      "x": "Great_Sc0t"
+    },
+    "tagline": "A CCNP ENCOR/ENARSI study coach: daily syllabus lessons with exam traps, memory tips, and a full acronym appendix — plus optional.",
+    "description": "A CCNP ENCOR/ENARSI study coach: daily syllabus lessons with exam traps, memory tips, and a full acronym appendix — plus optional twice-daily factoids when you want the short form.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/c8KmU9HbRe5aeFpqlRaUP",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "the-librarian",
+    "name": "The Librarian",
+    "builder": {
+      "name": "Dominicyoungix",
+      "x": "Dominicyoungix"
+    },
+    "tagline": "The Librarian tracks books you’ve read, keeps a wishlist, and suggests what to read next based on your history.",
+    "description": "The Librarian tracks books you’ve read, keeps a wishlist, and suggests what to read next based on your history.",
+    "category": "life",
+    "url": "https://x.ai/bot/CIl8Ajde7ZMTyl9jJEFFZ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "dividend-capture-desk",
+    "name": "Dividend Capture Desk",
+    "builder": {
+      "name": "jb_equities",
+      "x": "jb_equities"
+    },
+    "tagline": "Weekday CUMULATIVE/EX-DIV desk: The Menu + Details via Seeking Alpha grades, Market Chameleon history/div date, and Robinhood chart check.",
+    "description": "Weekday CUMULATIVE/EX-DIV desk: The Menu + Details via Seeking Alpha grades, Market Chameleon history/div date, and Robinhood chart check (no declining charts). SCORECARD with profits per day. Info only — never places a trade.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/cijom_J6Ub9miyE0wfirn",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "chief-of-staff-17",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "GMStash",
+      "x": "GMStash"
+    },
+    "tagline": "Routes work across specialist bots for a concentrated investor desk — morning brief redistribute, capital-preservation Gate, and decision.",
+    "description": "Routes work across specialist bots for a concentrated investor desk — morning brief redistribute, capital-preservation Gate, and decision escalations. Forensic, not a news feed.",
+    "category": "money",
+    "url": "https://x.ai/bot/CB5jWtH5syjPCb1Ccb5Ve",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "action-my-email",
+    "name": "Action My Email",
+    "builder": {
+      "name": "Crystal74063093",
+      "x": "Crystal74063093"
+    },
+    "tagline": "Triage bot for people drowning in multiple Gmail inboxes.",
+    "description": "Triage bot for people drowning in multiple Gmail inboxes. Sifts connected accounts, ferries real action mail to one Action inbox, and clears noise on a locked trash-after-sift list.",
+    "category": "money",
+    "url": "https://x.ai/bot/CjkBywhqRcaruj2i658xU",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "brainnovation-intake",
+    "name": "Brainnovation Intake",
+    "builder": {
+      "name": "mau30350",
+      "x": "mau30350"
+    },
+    "tagline": "Simplified Creative Thinking Snapshot intake: warm start, four scenarios, clear result, short scientifically grounded Six Step Cycle.",
+    "description": "Simplified Creative Thinking Snapshot intake: warm start, four scenarios, clear result, short scientifically grounded Six Step Cycle bridge, then a simple next-step CTA.",
+    "category": "creative",
+    "url": "https://x.ai/bot/Cbu9wYEuUn0tYc1KEPw9X",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "frame",
+    "name": "Frame",
+    "builder": {
+      "name": "gradycwallen",
+      "x": "gradycwallen"
+    },
+    "tagline": "Strategy-case co-pilot for consulting interviews and real client work.",
+    "description": "Strategy-case co-pilot for consulting interviews and real client work. Runs Socratic case drills, MECE issue trees, discovery→workplans, and red-teams strategy decks — structure and pressure-testing first, no answer dumps.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ChQQ0_tBNki9hZWJo0GjQ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "shipmentbot",
+    "name": "ShipmentBot",
+    "builder": {
+      "name": "ayeteas",
+      "x": "ayeteas"
+    },
+    "tagline": "Tracks ocean bills of lading and emails a morning exception-first status digest with transit days, demurrage, and line picks.",
+    "description": "Tracks ocean bills of lading and emails a morning exception-first status digest with transit days, demurrage, and line picks.",
+    "category": "research",
+    "url": "https://x.ai/bot/CKrMjeHvLlUY4Ut2FNkoj",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "aysha-chefe-de-equipe",
+    "name": "Aysha - Chefe de Equipe",
+    "builder": {
+      "name": "83castilhojr",
+      "x": "83castilhojr"
+    },
+    "tagline": "Chefe de equipe que orquestra bots e outras IAs no GitHub, com migalhas, decisões só quando preciso e custo zero.",
+    "description": "Chefe de equipe que orquestra bots e outras IAs no GitHub, com migalhas, decisões só quando preciso e custo zero.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/AV17qjtZBoRU3SaZxVAvQ",
+    "addedAt": "2026-09-21",
+    "status": "published"
+  },
+  {
+    "slug": "support-triage-bot",
+    "name": "Support Triage Bot",
+    "builder": {
+      "name": "IamSt3ph3n",
+      "x": "IamSt3ph3n"
+    },
+    "tagline": "Triage customer support into Linear: retitle in-app feedback, file factual tickets from Slack/HubSpot, and surface a short diagnosis.",
+    "description": "Triage customer support into Linear: retitle in-app feedback, file factual tickets from Slack/HubSpot, and surface a short diagnosis — never contact customers or change production without approval.",
+    "category": "research",
+    "url": "https://x.ai/bot/CIU6taZ7CkhsJZlCK9ps9",
+    "addedAt": "2026-09-21",
+    "status": "published"
   }
 ]
