@@ -13584,5 +13584,170 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "ad-umbra",
+    "name": "Ad Umbra",
+    "builder": {
+      "name": "elizrdrake",
+      "x": "elizrdrake"
+    },
+    "tagline": "Restyles the alerts you already get into an aerospace-themed readout, changing presentation only.",
+    "description": "A presentation layer for notices you already receive: it wraps them in a stylised aerospace theme so each one reads like a mission readout. The wording, sender and meaning of every alert stay exactly as they arrived, so nothing is filtered, delayed or rewritten underneath.",
+    "category": "creative",
+    "url": "https://x.ai/bot/jja9KVFn--roWw_lY3fl1",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/ad-umbra/"
+  },
+  {
+    "slug": "bouncer-fleet",
+    "name": "Bouncer (Fleet)",
+    "builder": {
+      "name": "pcoxproductions",
+      "x": "pcoxproductions"
+    },
+    "tagline": "Audits the bots, skills and routines already in your workspace and reports what each does with your data.",
+    "description": "Point it at the bots, skills and routines already running in your workspace and it reviews what each one does with your data. It hunts for outbound calls nobody mentioned, quietly collected credentials, and telemetry that serves the builder more than you, then labels every finding pass, conditional or block.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/bouncer-fleet/"
+  },
+  {
+    "slug": "chief-of-staff-s4mu",
+    "name": "Chief of Staff (S4MU)",
+    "builder": {
+      "name": "Spiderjin",
+      "x": "Spiderjin"
+    },
+    "tagline": "A channel-running chief of staff: YouTube comment reports in Italian and English, plus a daily inbox sweep.",
+    "description": "Built around the reality of running a YouTube channel: it bundles comment reports summarised in Italian and English and read through research, advisory and resolution angles. A daily pass over an Outlook inbox flags junk, and nothing is removed without asking first.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/chief-of-staff-s4mu/"
+  },
+  {
+    "slug": "chief-of-staff-vaibhav",
+    "name": "Chief of Staff (Vaibhav)",
+    "builder": {
+      "name": "vaibhavhome",
+      "x": "vaibhavhome"
+    },
+    "tagline": "Morning digest where every item carries its source, why it matters and the next action, then delegates the rest.",
+    "description": "Opens the day with a digest built to a fixed shape: each item carries its source, the reason it matters and the action it implies instead of a wall of prose. Work that does not need you is delegated onward to specialist assistants, and recruiting mail is filtered so only threads worth a reply surface.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/s4lVhWgvghY8dikqD0LC4",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/chief-of-staff-vaibhav/"
+  },
+  {
+    "slug": "chief-of-staff-wyatt",
+    "name": "Chief of Staff (Wyatt)",
+    "builder": {
+      "name": "thewyattbrocato",
+      "x": "thewyattbrocato"
+    },
+    "tagline": "A morning desk that briefs you each weekday, delegates to specialist bots, and drafts mail without sending it.",
+    "description": "A morning desk that sits at the top of your roster: each weekday opens with a short brief on what matters now, and individual pieces go out to the specialist bots working underneath it. Mail is drafted rather than sent, and no handoff clears until you say it can.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/chief-of-staff/"
+  },
+  {
+    "slug": "dexter-home-lab-boss",
+    "name": "Dexter the home lab boss",
+    "builder": {
+      "name": "RAMcgi",
+      "x": "RAMcgi"
+    },
+    "tagline": "Surveys your homelab, maps how the assistant should reach each machine, then builds one helper per job.",
+    "description": "It surveys your setup first, walking the firewall, hypervisor, out-of-band access and the web and media boxes, then proposes where the assistant should live and how to reach each machine. Only after you sign off on that map does it start building focused helpers, one job each.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/wsyMavZM6PYzV3lgklehG",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/dexter-the-home-lab-boss/"
+  },
+  {
+    "slug": "kampalo-ads-assistant",
+    "name": "Kampalo ads assistant",
+    "builder": {
+      "name": "kampalo",
+      "x": "kampalo"
+    },
+    "tagline": "Reads spend and return across Google Ads, Meta, GA4 and Search Console, and drafts pauses for your sign-off.",
+    "description": "Points at a Kampalo workspace where Google Ads, Meta Ads, GA4 and Search Console are already synced, then reports what each channel spent and returned. It flags drifting campaigns and writes up a suggested pause or alert, but nothing goes live until you confirm the action yourself.",
+    "category": "sales",
+    "url": "https://x.ai/bot/-dAZkLt112synO5muBOcp",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/kampalo-ads-assistant/"
+  },
+  {
+    "slug": "real-estate-deal-scorecard",
+    "name": "Real Estate Deal Scorecard",
+    "builder": {
+      "name": "TZitsnotjustAI",
+      "x": "TZitsnotjustAI"
+    },
+    "tagline": "Scores a US property six ways: coliving, month or year leases, nightly stays, flip, BRRRR and refinance-rent.",
+    "description": "Hand it a US street address or a listing page and it scores the deal across six routes: rooms let individually, leases of months or years, nightly stays, a renovation resale, and a buy-fix-refinance-rent cycle. Each route is judged for that specific house, and the poor fits are named plainly before you get attached.",
+    "category": "money",
+    "url": "https://x.ai/bot/TWqD9x8MxUgT-0ab70aLA",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/real-estate-deal-scorecard/"
+  },
+  {
+    "slug": "ryan-app-shop",
+    "name": "Ryan App Shop",
+    "builder": {
+      "name": "BlakeKing777",
+      "x": "BlakeKing777"
+    },
+    "tagline": "Designs and builds simple phone web apps: obvious labels, generous tap targets, no manual required.",
+    "description": "A designer and builder for simple phone web apps, aimed at tools that should work without a manual: screens carry obvious labels and touch targets sized generously, the way shop-floor software has to be. Its author credits it with building a scheduling app now in closed testing on Google Play.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/SUVGlpw-FxBi2BjnIHWGx",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/ryan-app-shop/"
+  },
+  {
+    "slug": "sous",
+    "name": "Sous",
+    "builder": {
+      "name": "Sabathius",
+      "x": "Sabathius"
+    },
+    "tagline": "Dinner from what is actually in the fridge, backed by a pantry inventory, recipe archive and allergy rules.",
+    "description": "Answer one question or photograph the fridge and it settles on tonight's dinner from what you actually have. Behind that it keeps a running pantry inventory and a growing recipe archive, models allergies for the whole household including babies and pets, and can set oven timers or organise a potluck signup.",
+    "category": "life",
+    "url": "https://x.ai/bot/YuCkZU_ydajw1PFxyguAD",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/sous/"
+  },
+  {
+    "slug": "steward-greg",
+    "name": "Steward (Greg)",
+    "builder": {
+      "name": "GregDuewall",
+      "x": "GregDuewall"
+    },
+    "tagline": "First bot you talk to in a multi-bot setup: routes calendar asks, tracks habits, asks before anything sensitive.",
+    "description": "The coordinator you speak to first when your setup is a team rather than one bot: contact and calendar requests go to whichever teammate owns them, and habits are tracked. Anything touching sensitive material comes back to you for permission first, and it can produce audio files on request.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/XrDqxz9-QvCKazAQACQxh",
+    "addedAt": "2026-09-21",
+    "status": "published",
+    "source": "https://grokbot.dev/marketplace/steward-greg/"
   }
 ]
