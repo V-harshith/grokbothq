@@ -63,9 +63,9 @@ for (const file of targets) {
   for (const match of text.matchAll(PATTERN)) {
     const value = Number(match[1].replace(/,/g, ""));
     const unit = match[2].toLowerCase();
-    // "in 2026, Grok bots ..." is a year, not a count.
-    const afterDigits = text[match.index + match[1].length];
-    if (afterDigits === "," && value >= 1900 && value <= 2099) continue;
+    // "in 2026, Grok bots ..." is a year, not a count (the captured number can
+    // carry the trailing comma).
+    if (match[1].endsWith(",") && value >= 1900 && value <= 2099) continue;
     const actual = entities[unit];
     if (actual === undefined) continue;
     // Allow a lower bound (e.g. "1,500+ bots" when there are 1,529) but never a
