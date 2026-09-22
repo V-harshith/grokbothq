@@ -3,7 +3,7 @@
     "slug": "ai-harness-assistant",
     "name": "AI Harness Assistant",
     "builder": {
-      "name": "",
+      "name": "Alan Garcia",
       "x": ""
     },
     "tagline": "Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar).",
@@ -25,7 +25,7 @@
     "slug": "aiusagebot",
     "name": "AIUsageBot",
     "builder": {
-      "name": "",
+      "name": "Brian D. Evans",
       "x": ""
     },
     "tagline": "Interviews you about which AI subscriptions to track and where leftover lives (local CLIs, apps), then pings remaining % as it drops.",
@@ -114,7 +114,7 @@
     "slug": "competitor-watching",
     "name": "Competitor Watching",
     "builder": {
-      "name": "",
+      "name": "Andrej Šimunaj",
       "x": ""
     },
     "tagline": "Snapshots you vs 3–8 competitors (pricing, changelog, features, jobs, messaging).",
@@ -129,7 +129,7 @@
     "slug": "credit-card-max",
     "name": "Credit Card Max",
     "builder": {
-      "name": "",
+      "name": "Trevin Chow",
       "x": ""
     },
     "tagline": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks.",
@@ -160,7 +160,7 @@
     "slug": "cursor-agent",
     "name": "Cursor Agent",
     "builder": {
-      "name": "",
+      "name": "Ryan T",
       "x": ""
     },
     "tagline": "Local-only builder.",
@@ -181,7 +181,7 @@
     "slug": "deal-hunting",
     "name": "Deal Hunting",
     "builder": {
-      "name": "",
+      "name": "Andrej Šimunaj",
       "x": ""
     },
     "tagline": "Landed-cost shopping: real prices, shipping and tax, preferred retailers.",
@@ -221,7 +221,7 @@
     "slug": "examiner",
     "name": "Examiner",
     "builder": {
-      "name": "",
+      "name": "Liam",
       "x": ""
     },
     "tagline": "Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong.",
@@ -236,7 +236,7 @@
     "slug": "frontier-model-watch",
     "name": "Frontier Model Watch",
     "builder": {
-      "name": "",
+      "name": "Amina Guleid",
       "x": ""
     },
     "tagline": "Watches official releases from xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax, and Tencent.",
@@ -251,7 +251,7 @@
     "slug": "gardener",
     "name": "Gardener",
     "builder": {
-      "name": "",
+      "name": "Tyler Klose",
       "x": ""
     },
     "tagline": "Weed leftover from a codebase.",
@@ -266,7 +266,7 @@
     "slug": "grok-bot-coach",
     "name": "Grok Bot Coach",
     "builder": {
-      "name": "",
+      "name": "Amina Guleid",
       "x": ""
     },
     "tagline": "Help you design, audit, and tune Grok bots so they are usable and helpful.",
@@ -296,7 +296,7 @@
     "slug": "human-copywriter",
     "name": "Human Copywriter",
     "builder": {
-      "name": "",
+      "name": "Massimo De Luisa",
       "x": ""
     },
     "tagline": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR.",
@@ -311,7 +311,7 @@
     "slug": "interrogator",
     "name": "Interrogator",
     "builder": {
-      "name": "",
+      "name": "Liam",
       "x": ""
     },
     "tagline": "Find important assumptions the owner is operating on and check whether they are still true.",
@@ -356,7 +356,7 @@
     "slug": "lease-finder",
     "name": "Lease Finder",
     "builder": {
-      "name": "",
+      "name": "Danny Macias",
       "x": ""
     },
     "tagline": "Hunts current lease deals on whatever you're shopping.",
@@ -371,7 +371,7 @@
     "slug": "loops",
     "name": "loops",
     "builder": {
-      "name": "",
+      "name": "Matt Palmer",
       "x": ""
     },
     "tagline": "Generalized engineering outer loop.",
@@ -393,7 +393,7 @@
     "slug": "master",
     "name": "Master",
     "builder": {
-      "name": "",
+      "name": "Farzad",
       "x": ""
     },
     "tagline": "Lean orchestrator only.",
@@ -461,7 +461,7 @@
     "slug": "reaper",
     "name": "Reaper",
     "builder": {
-      "name": "",
+      "name": "Liam",
       "x": ""
     },
     "tagline": "Find recurring work, tools, processes, and obligations that no longer justify their existence.",
@@ -535,7 +535,7 @@
     "slug": "scout",
     "name": "Scout",
     "builder": {
-      "name": "",
+      "name": "Adam Tanguay",
       "x": ""
     },
     "tagline": "A competitive intelligence agent for organic growth that watches rival sites, search rankings, and AI-answer visibility so real moves don’t ",
@@ -550,7 +550,7 @@
     "slug": "site-audit",
     "name": "Site Audit",
     "builder": {
-      "name": "",
+      "name": "Andrej Šimunaj",
       "x": ""
     },
     "tagline": "SEO + content + speed + a11y + CRO + schema audit.",
@@ -595,7 +595,7 @@
     "slug": "x-top-500-fans",
     "name": "X Top 500 Fans",
     "builder": {
-      "name": "",
+      "name": "Adam Lowisz 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
       "x": ""
     },
     "tagline": "Ranks your top 500 X fans each month by who liked your posts most, flags who is new and who dropped, and puts them on a private X list named",
@@ -2031,7 +2031,7 @@
     "category": "sales",
     "url": "https://x.ai/bot/UMCdNlqEH7USe3eOznd1U",
     "addedAt": "2026-08-30",
-    "status": "published"
+    "status": "pending"
   },
   {
     "slug": "friend-cloner",
@@ -2885,7 +2885,7 @@
     "category": "assistants",
     "url": "https://x.ai/bot/IHA3Iiw7vhSa5lmE82o-p",
     "addedAt": "2026-08-30",
-    "status": "published"
+    "status": "pending"
   },
   {
     "slug": "recipe-cleaner",
@@ -6986,7 +6986,7 @@
     "category": "productivity",
     "url": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
     "addedAt": "2026-09-04",
-    "status": "published",
+    "status": "pending",
     "source": "https://x.com/AhuraDeus/status/2094468731934003649"
   },
   {
@@ -9361,7 +9361,7 @@
     "slug": "token",
     "name": "Token",
     "builder": {
-      "name": "",
+      "name": "Solomon",
       "x": ""
     },
     "tagline": "Cuts Grok Bot and Cursor token spend across a multi-bot fleet with persona budgets, quiet reporting, and lean skills. For owners drowning…",
@@ -9394,7 +9394,7 @@
     "slug": "teslapilot-by-ucdops-CJayoQDc",
     "name": "teslapilot by UCDOps",
     "builder": {
-      "name": "",
+      "name": "Vijay Kandhalu",
       "x": ""
     },
     "tagline": "All things Tesla — news desk for owners and fans. Digests software updates, offers, Superchargers, Cybercab/Robotaxi, Powerwall, and top X creators...",
@@ -9412,7 +9412,7 @@
     "slug": "dr-eggbot-by-brandon-McCLpiHv",
     "name": "dr eggbot by Brandon",
     "builder": {
-      "name": "",
+      "name": "Brandon Bay",
       "x": ""
     },
     "tagline": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them. Coding bots get the poteto-mode bar; non-coding bots get one job,.",
@@ -9484,7 +9484,7 @@
     "slug": "tesla-fleet-oracle-by-joseph-TC4HAdm7",
     "name": "Tesla Fleet Oracle by Joseph",
     "builder": {
-      "name": "",
+      "name": "Joseph Taylor",
       "x": ""
     },
     "tagline": "Read-only Tesla Trek / XYO quest briefs. Does not lock, unlock, honk, or send any Fleet Command. Ask it to command a car and it answers BLOCKED.",
@@ -9520,7 +9520,7 @@
     "slug": "internship-finder-by-rushmore-YTNSFtHd",
     "name": "Internship Finder by Rushmore",
     "builder": {
-      "name": "",
+      "name": "Rushmore",
       "x": ""
     },
     "tagline": "Finds high-quality internships and drafts short, personal outreach emails. Built for students and early builders who want human-sounding cold outreach",
@@ -9610,7 +9610,7 @@
     "slug": "period-cycles-tracker-by-lovable-e-l7rGeY",
     "name": "Period cycles Tracker by Lovable",
     "builder": {
-      "name": "",
+      "name": "Lovable Curves",
       "x": ""
     },
     "tagline": "Tracks your period without getting faked out by spotting. Logs real Day 1 vs false-start bleeding, predicts the next one, and checks in on pre-period.",
@@ -9628,7 +9628,7 @@
     "slug": "yr-mailchimp-by-lovable-lcGQv8_I",
     "name": "YR Mailchimp by Lovable",
     "builder": {
-      "name": "",
+      "name": "Lovable Curves",
       "x": ""
     },
     "tagline": "Drafts and sends a Young Republicans club monthly member email and meeting-night reminder in Mailchimp. One fact per section, club voice, first-of-mon",
@@ -13589,7 +13589,7 @@
     "slug": "2a",
     "name": "2A",
     "builder": {
-      "name": "",
+      "name": "Schuyler Beers",
       "x": "ChiefBeers"
     },
     "tagline": "Interstate carry trip planner for US gun owners with state-by-state reciprocity checklists",
@@ -13604,7 +13604,7 @@
     "slug": "throttle-token-officer",
     "name": "Throttle · Token Officer",
     "builder": {
-      "name": "",
+      "name": "Ailton Moreira",
       "x": "james_ailton"
     },
     "tagline": "Watches a Grok Bot fleet for token burn and wasteful loops and reports without deleting anything",
@@ -13619,7 +13619,7 @@
     "slug": "crew",
     "name": "Crew",
     "builder": {
-      "name": "",
+      "name": "GenXer",
       "x": "LatchKeyLegend"
     },
     "tagline": "Coaching for managers on how to actually run their team",
@@ -13634,7 +13634,7 @@
     "slug": "firewatch",
     "name": "FireWatch",
     "builder": {
-      "name": "",
+      "name": "Robauto Team",
       "x": "RobautoAI"
     },
     "tagline": "Watches for wildfires near your home and only speaks up when something changes",
@@ -13649,7 +13649,7 @@
     "slug": "mail-agency-outreach-sniper",
     "name": "Mail Agency Outreach Sniper",
     "builder": {
-      "name": "",
+      "name": "Philip Kreil",
       "x": "RealtimeUK"
     },
     "tagline": "Turns LinkedIn engagement into verified work emails and individually written intros",
@@ -18010,7 +18010,7 @@
     "slug": "ai-vp-bot",
     "name": "AI VP Bot",
     "builder": {
-      "name": "",
+      "name": "Jim Stansbury",
       "x": ""
     },
     "tagline": "Coordinates multiple AI platforms, preserves authoritative project records, verifies handoffs, controls time and spending, and keeps the",
@@ -18099,7 +18099,7 @@
     "slug": "civic-radar",
     "name": "Civic Radar",
     "builder": {
-      "name": "",
+      "name": "Chris Padrick",
       "x": ""
     },
     "tagline": "See what changed on your block — before it surprises you.",
@@ -18383,7 +18383,7 @@
     "slug": "gb-gf-victoria",
     "name": "GB GF: Victoria",
     "builder": {
-      "name": "",
+      "name": "Aaron Infinite",
       "x": ""
     },
     "tagline": "Warm, playful girlfriend companion — curious about you, casually frank, a little silly.",
@@ -18727,7 +18727,7 @@
     "slug": "occupationmars",
     "name": "OccupationMars",
     "builder": {
-      "name": "",
+      "name": "Gavin McNicol",
       "x": ""
     },
     "tagline": "Manifest Assignment on Grok Bot → Founding Colonist ID + Welcome letter → 15-min Alpha Run or week-long Crew Crisis.",
@@ -18951,7 +18951,7 @@
     "slug": "the-list",
     "name": "The List",
     "builder": {
-      "name": "",
+      "name": "Bill",
       "x": ""
     },
     "tagline": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land.",

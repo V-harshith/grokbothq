@@ -27,7 +27,7 @@ const entities = {
   combos: read("content/combos.json").length,
 };
 
-const PATTERN = /(\d[\d,]*)\+?\s*(bots|bot pages|listings|builders|categories|guides|combos)\b/gi;
+const PATTERN = /(\d[\d,]*)\+?\s*(?:Grok\s+|verified\s+|hand-reviewed\s+)?(bots|bot pages|listings|builders|categories|guides|combos)\b/gi;
 const SKIP_DIRS = new Set(["node_modules", ".git", ".next", "ops", "public"]);
 const SKIP_FILES = new Set([
   "scripts/check-copy-counts.mjs",
@@ -63,6 +63,9 @@ for (const file of targets) {
   for (const match of text.matchAll(PATTERN)) {
     const value = Number(match[1].replace(/,/g, ""));
     const unit = match[2].toLowerCase();
+    // "in 2026, Grok bots ..." is a year, not a count (the captured number can
+    // carry the trailing comma).
+    if (match[1].endsWith(",") && value >= 1900 && value <= 2099) continue;
     const actual = entities[unit];
     if (actual === undefined) continue;
     // Allow a lower bound (e.g. "1,500+ bots" when there are 1,529) but never a
