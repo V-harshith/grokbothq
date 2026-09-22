@@ -10,7 +10,7 @@ One place for Grok bot users to find, combine, and master bots on xAI's Grok pla
 
 ## What's inside
 
-- **Directory** — 230+ Grok bots, filterable by category, with install counts and source links
+- **Directory** — 1529+ Grok bots, filterable by category, with install counts and source links
 - **Bot combos** — tested sets of bots that work together in pipelines
 - **Guides** — how to create, write instructions for, chain, and monetize Grok bots
 - **Comparisons** — Grok bots vs Custom GPTs, Claude Skills, Gemini Gems, and agent frameworks
