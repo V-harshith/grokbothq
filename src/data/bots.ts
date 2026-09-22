@@ -80,6 +80,8 @@ export function featuredBots(): Bot[] {
 
 export const stats = {
   bots: bots.length,
-  builders: new Set(bots.map((b) => b.builder.x)).size,
+  // Only listings with a known builder handle count; an empty handle is not a
+  // builder and would otherwise inflate this by one.
+  builders: new Set(bots.map((b) => b.builder.x).filter(Boolean)).size,
   categories: new Set(bots.map((b) => b.category)).size,
 };
