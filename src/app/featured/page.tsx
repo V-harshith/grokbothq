@@ -16,6 +16,8 @@ export const metadata: Metadata = pageMetadata({
   keywords: ["sponsor grokbot hq", "advertise to grok users", "grok bot directory sponsorship"],
 });
 
+const botPageCount = bots.length.toLocaleString("en-US");
+
 const slots = [
   {
     name: "Homepage",
@@ -29,7 +31,7 @@ const slots = [
   },
   {
     name: "Detail pages",
-    detail: "Inside all 700+ bot pages and every guide, beside the content being read.",
+    detail: `Inside all ${botPageCount} bot pages and every guide, beside the content being read.`,
     subject: "Detail page sponsorship",
   },
   {

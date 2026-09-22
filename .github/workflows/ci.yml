@@ -17,6 +17,8 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Counts in copy match the directory
+        run: node scripts/check-copy-counts.mjs
       - run: npm run build
         env:
           NEXT_PUBLIC_SITE_URL: https://grokbothq.xyz
