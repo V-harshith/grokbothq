@@ -29,7 +29,14 @@ const entities = {
 
 const PATTERN = /(\d[\d,]*)\+?\s*(bots|bot pages|listings|builders|categories|guides|combos)\b/gi;
 const SKIP_DIRS = new Set(["node_modules", ".git", ".next", "ops", "public"]);
-const SKIP_FILES = new Set(["scripts/check-copy-counts.mjs"]);
+const SKIP_FILES = new Set([
+  "scripts/check-copy-counts.mjs",
+  // The directory itself — the numbers in here ARE the truth source.
+  "content/bots.json",
+  // Prompt template that picks "the 3 bots closest to what I described", not
+  // the size of the directory.
+  "src/app/agent/page.tsx",
+]);
 
 function walk(dir, out = []) {
   for (const entry of readdirSync(dir)) {
