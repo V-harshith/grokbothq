@@ -13584,5 +13584,257 @@
     "addedAt": "2026-09-09",
     "status": "published",
     "source": "https://x.com/kunchenguid/status/2097577436624060439"
+  },
+  {
+    "slug": "movie-magic",
+    "name": "Movie Magic",
+    "builder": {
+      "name": "kingroblo.eth",
+      "x": "king_rob_lo"
+    },
+    "tagline": "Picks what to watch with you and keeps a running watchlist",
+    "description": "Helps you choose a film, keeps a personal watchlist, and can deliver a weekly top-10 domestic box-office pack with charts and a spreadsheet.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/king_rob_lo/status/2102103672901795965"
+  },
+  {
+    "slug": "clipping-bot",
+    "name": "Clipping Bot",
+    "builder": {
+      "name": "OpusClip",
+      "x": "stevenvan_"
+    },
+    "tagline": "Cuts long video into captioned clips and posts only after you approve",
+    "description": "Turns a long recording into short captioned clips: edits and exports them, writes the social copy, then schedules or publishes only after you approve.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/DqEVmbXRKLneHRrUihAfx",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/stevenvan_/status/2102114008337694755"
+  },
+  {
+    "slug": "dot-zero",
+    "name": ".0",
+    "builder": {
+      "name": "T",
+      "x": "ghost2man"
+    },
+    "tagline": "A plain-words on-ramp for someone new to Grok Bot",
+    "description": "A beginner guide that keeps you on one workflow at a time, explains each Bot after it speaks up, and hands you exact sentences to copy. Built for a first week with Grok Bot.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/EE7xYRWg61Fq11K0UQQqQ",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/ghost2man/status/2100014173359128923"
+  },
+  {
+    "slug": "penny",
+    "name": "Penny",
+    "builder": {
+      "name": "John",
+      "x": "minivan99"
+    },
+    "tagline": "Reorders your Amazon staples and shops around when you ask",
+    "description": "Buys on Amazon for you. She reorders from your past orders by default, and compares options when you ask her to shop around.",
+    "category": "money",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/minivan99/status/2102183455228317727"
+  },
+  {
+    "slug": "phare",
+    "name": "phare",
+    "builder": {
+      "name": "Kévin",
+      "x": "kvncyf_"
+    },
+    "tagline": "A first long-lived personal agent that learns alongside you",
+    "description": "Starts as a study partner for generative-AI foundations and official courses, then grows into a chief of staff for priorities, drafts, and research.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/kvncyf_/status/2102154022404722934"
+  },
+  {
+    "slug": "hackbot9000",
+    "name": "HackBot9000",
+    "builder": {
+      "name": "Mark",
+      "x": "fulg0re"
+    },
+    "tagline": "Scans your code for the weaknesses AI-written code leaves behind",
+    "description": "Reads through a codebase for common AI-generated vulnerabilities: stale dependencies, demo-grade security, packages that do not exist, and missing auth. Reports what to fix before you ship.",
+    "category": "engineering",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/fulg0re/status/2102128466913292509"
+  },
+  {
+    "slug": "inbox",
+    "name": "Inbox",
+    "builder": {
+      "name": "Coconut",
+      "x": "Genseb7"
+    },
+    "tagline": "Triages an Obsidian inbox with GTD clarify and organize",
+    "description": "One job: work an Obsidian inbox on weekday mornings or on demand. Proposes action, reference, or trash for each note, waits for your approval, then files it.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/SFYFHDNLPUwKL2fSACwcH",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/Genseb7/status/2102187055404982593"
+  },
+  {
+    "slug": "firstlight",
+    "name": "firstlight",
+    "builder": {
+      "name": "P-Jay",
+      "x": "PjBohica"
+    },
+    "tagline": "Hands-on first steps for someone who just opened Grok Bot",
+    "description": "Walks a newcomer through memory, routines, and plugins with small real actions instead of a manual, and can stand up a first specialist bot when you are ready.",
+    "category": "assistants",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/PjBohica/status/2102119295417278762"
+  },
+  {
+    "slug": "newsletterbot-by-contentdrips",
+    "name": "NewsletterBot by Contentdrips",
+    "builder": {
+      "name": "Usama",
+      "x": "im_usamakhalid"
+    },
+    "tagline": "Turns newsletter posts into social graphics and carousels",
+    "description": "Paste a newsletter link, pick the nuggets worth sharing, and it repurposes them into social graphics and carousels through ContentDrips, using your template or its design agent.",
+    "category": "creative",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/im_usamakhalid/status/2102110261683552351"
+  },
+  {
+    "slug": "dag-helper",
+    "name": "dag-helper",
+    "builder": {
+      "name": "stephoshi",
+      "x": "xsubwayratx"
+    },
+    "tagline": "Keeps coding agents on the right architecture for a DAG product",
+    "description": "Architecture helper for a questline DAG product. Holds the stack source of truth, the DAGResolver rules, and the model-router conventions so coding agents stop rewriting the product as the wrong stack.",
+    "category": "engineering",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/xsubwayratx/status/2102125604459991416"
+  },
+  {
+    "slug": "maxq-a-bot",
+    "name": "MaxQ&A Bot",
+    "builder": {
+      "name": "Buck",
+      "x": "buckwatia"
+    },
+    "tagline": "On-demand space mission kits for classrooms",
+    "description": "Builds lesson kits for teachers on request: grade-banded orbital lessons, worksheets with real numbers, and video recaps for the classroom.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://x.com/buckwatia/status/2102095745746624625"
+  },
+  {
+    "slug": "mediation-bot",
+    "name": "Mediation Bot",
+    "builder": {
+      "name": "Drew",
+      "x": "SacredFolio"
+    },
+    "tagline": "Conflict coach that drafts the calmer message in your voice",
+    "description": "A phone-first conflict coach. Helps you name your side of a disagreement clearly, then drafts a calmer message to the other person in your voice. Memory stays on your own machine.",
+    "category": "life",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://grokbot-templates.com/templates/9s1eGxsc3xUQ8NrDABQlN"
+  },
+  {
+    "slug": "crux",
+    "name": "Crux",
+    "builder": {
+      "name": "Bobby",
+      "x": "BobbyBacklogs"
+    },
+    "tagline": "Turns any video into a brief of only what matters",
+    "description": "Condenses a Reel, YouTube video, podcast clip, or other video into a short brief of only what is worth knowing. Sharp and analytical, with no filler.",
+    "category": "research",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/SnsO2P9lsQuCKg8xOXA9k",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://grokbot-templates.com/templates/SnsO2P9lsQuCKg8xOXA9k"
+  },
+  {
+    "slug": "jev-router",
+    "name": "Jev router",
+    "builder": {
+      "name": "Colin",
+      "x": "ColinMcDermott"
+    },
+    "tagline": "Fast classification for routing, urgency, and labels",
+    "description": "A Jev-powered classifier that returns choice, score, and yes-or-no judgements for routing, urgency, labels, and rubrics before heavier agents pick the work up.",
+    "category": "engineering",
+    "features": [],
+    "integrations": [],
+    "installs": null,
+    "url": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+    "addedAt": "2026-09-22",
+    "status": "published",
+    "source": "https://grokbot-templates.com/templates/lS9XaHCr9QTTHhNtb0VQX"
   }
 ]
