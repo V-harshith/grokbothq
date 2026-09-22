@@ -36,6 +36,15 @@ re-read it rather than improvising.
 7. **Escalate to the owner**: legal or trademark issues, paid sponsor deals (featured slots are
    revenue — the owner approves each one), anything you cannot verify, and anything that feels
    like a decision rather than a task.
+8. **Never write a bare `@handle` in GitHub text.** PR titles, PR bodies, commit messages and
+   comments are read by GitHub, not by X: a bare `@mattyp` creates a **real mention** that
+   notifies the unrelated GitHub user `mattyp`, who has nothing to do with this project. This has
+   already happened three times (`@mattyp`, PRs #48 / #62 / #70) and the affected stranger is
+   rightly annoyed. Write X handles as a markdown link `[handle](https://x.com/handle)` or as
+   plain text with no `@` (`mattyp (x.com/mattyp)`). The same applies to `@bot`, `@Grok`,
+   `@elonmusk`, `@harshithOG`, `@notion` — every one of them can resolve to a real GitHub account.
+   Handles inside `content/*.json` are fine (they render on the site, not in a mention stream) —
+   keep the `x` field as a bare handle there and never prefix it with `@`.
 
 ## The daily run (do this every day, in order)
 
