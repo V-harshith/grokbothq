@@ -403,5 +403,101 @@
     "a": "Usually not. Start free across the ones that interest you, run the same real task through each, and only upgrade the one that clearly earns it. Paying for two standard tiers at about $20/mo each is $480 a year, which is hard to justify unless you have a specific reason."
    }
   ]
+ },
+ {
+  "slug": "chatbot-vs-ai-agent",
+  "title": "Chatbot vs AI Agent: What Is the Actual Difference?",
+  "seoTitle": "Chatbot vs AI Agent: The Real Difference (2026)",
+  "description": "A chatbot answers, an agent acts. Compare how they are built, what they need, where each fails, and which one your job actually calls for.",
+  "other": "AI chatbots",
+  "updatedAt": "2026-09-22",
+  "verdict": {
+   "summary": "A chatbot is built to produce a reply; an agent is built to reach an outcome. That single difference drives everything else - the tools, the permissions, the failure modes and how much supervision it needs. Most jobs people want automated are better served by a chatbot or a published bot than by a full agent, because the expensive part of an agent is not the intelligence, it is the authority you have to hand it.",
+   "chooseGrokBots": [
+    "The job is a sequence of steps rather than a single answer",
+    "Something outside the conversation has to change - an email sends, a record updates, a file is produced",
+    "You want the output published as a link others can run, not a conversation you have to repeat",
+    "You can name the one outcome that means it succeeded"
+   ],
+   "chooseOther": [
+    "You need a considered reply to a question, not an action taken",
+    "You are drafting, researching or summarising and a human will do the acting",
+    "The task needs judgement you are not ready to delegate",
+    "You want to try something with no permissions granted at all"
+   ]
+  },
+  "rows": [
+   {
+    "aspect": "What it is for",
+    "grok": "Reaching an outcome - it works until the job is done or it is stuck",
+    "other": "Producing a reply - the interaction ends when it answers"
+   },
+   {
+    "aspect": "How you use it",
+    "grok": "You give it a goal and it decides the steps",
+    "other": "You give it a prompt and it decides the words"
+   },
+   {
+    "aspect": "What it needs to work",
+    "grok": "Instructions, tools, a loop, and a place a human can interrupt",
+    "other": "Instructions and context. No tools, so nothing to misuse"
+   },
+   {
+    "aspect": "Where it fails",
+    "grok": "It takes a real action you did not want, because it optimises for the goal you gave it",
+    "other": "It is confidently wrong in prose, which costs you reading time rather than money"
+   },
+   {
+    "aspect": "How you publish it",
+    "grok": "A link that opens for anyone, with the task built in",
+    "other": "Usually stays private - it is a tool for you, not a thing to hand over"
+   },
+   {
+    "aspect": "Blast radius",
+    "grok": "As large as the permissions you granted, so grant narrowly",
+    "other": "None - it cannot change anything outside the conversation"
+   }
+  ],
+  "sections": [
+   {
+    "heading": "The distinction that matters",
+    "body": [
+     "Both are language models underneath. The difference is what happens after the first output. A chatbot stops. An agent reads its own result and decides what to do next, and that loop is what lets it finish a multi-step job - and also what lets it wander.",
+     "This is why the two are not competitors so much as different tools. Asking which is better is like asking whether a calculator is better than a spreadsheet."
+    ]
+   },
+   {
+    "heading": "The cost is authority, not intelligence",
+    "body": [
+     "Making an agent smarter is the easy part, and the part everyone markets. Making it safe is the hard part, and it is entirely about what you let it touch. Every tool you attach is a permission, and permissions are where agents do damage.",
+     "The practical rule: read-only by default, an explicit named list of anything destructive, and a human gate on anything irreversible or customer-facing. An agent without those is not a productivity gain, it is a liability with good copy."
+    ]
+   },
+   {
+    "heading": "Which one your job calls for",
+    "body": [
+     "If the deliverable is text someone will read, you want a chatbot or a well-written bot - faster, cheaper and nothing to supervise. If the deliverable is a change in the world, you want an agent, and you should budget for the supervision rather than pretending it will not be needed.",
+     "A useful test: write down what has to be different when the job is done. If the answer is a document or an answer, use a chatbot. If the answer is an email sent, a record created or a file produced, you are describing an agent."
+    ]
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Is an AI agent just a chatbot with tools?",
+    "a": "Not quite. Tools are necessary but the defining feature is the loop: the agent reads the result of its own action and decides the next step. A chatbot with a tool attached that fires once is still a chatbot."
+   },
+   {
+    "q": "Are agents better than chatbots?",
+    "a": "No. They are for different jobs. An agent can change things outside the conversation, which is exactly why it needs narrower permissions and more supervision than a chatbot."
+   },
+   {
+    "q": "Do I need an agent for a simple automation?",
+    "a": "Usually not. If the steps are fixed and known, a plain script or a scheduled job is cheaper, faster and far more predictable than an agent deciding each step for itself."
+   },
+   {
+    "q": "What is the biggest risk with agents?",
+    "a": "Permissions. An agent with access to something that sends, deletes or pays will eventually use it in a way you did not intend, because it optimises for the goal rather than for your judgement about edge cases."
+   }
+  ]
  }
 ]

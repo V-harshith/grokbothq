@@ -38,6 +38,21 @@ Re-run monthly (`node ops/tools/keyword-harvester.mjs --locale=en-IN`) and after
 | /agent | grok bot api, commands, prompt | ✅ | ✅ |
 | /faq | pricing, safety, free | ✅ | ✅ |
 | /submit | submit/publish grok bot | ✅ | via pageMetadata |
+| /compare/best-ai-chatbot | best ai chatbot, ai chatbot, ai chatbot comparison | ✅ | ✅ |
+| /compare/chatbot-vs-ai-agent | chatbot vs ai agent, ai chatbot vs ai agent | ✅ | ✅ |
+| /guides/what-are-ai-agents | what are ai agents, ai agents for business | ✅ | via tags |
+| /guides/custom-ai-agents | custom ai agents, build custom ai agents | ✅ | via tags |
+| /guides/best-ai-agents | best ai agents, ai agents list, ai agent directory | ✅ | via tags |
+
+## Generic (non-Grok) keywords — anchor rule widened 2026-09-22
+
+Every page used to require `grok` in its keyword, which left the generic terms
+already in our seed list routing nowhere. They now have owner pages, so the site
+can take category intent without abandoning its Grok identity. Still deliberately
+unassigned: `ai tools directory`, `new ai tools daily`, `best custom gpts` —
+each needs its own angle, and bolting them onto an existing page would blur the
+site's entity rather than extend it. Cover them with a purpose-built page or not
+at all.
 
 ## Volume - the honest status
 
