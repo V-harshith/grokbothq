@@ -6,9 +6,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 60% forever. Always --exec. Children are born whole. A 30-day VPS is a resurrect",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "AgentWatch",
@@ -17,9 +17,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Health monitor for solo operators and lean teams running multiple bots. Register bots by name and expected behavior, paste logs or status updates, and get a Hea",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Mac AI Readiness Auditor",
@@ -28,9 +28,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload. Collects Terminal specs, rates memory/c",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Adversarial Security & Usability",
@@ -39,9 +39,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live captures — not over",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Senior JD",
@@ -50,9 +50,9 @@
     "builder_x_handle": "",
     "one_line_desc": "For hiring managers and founders with a weak job post and an open senior role. Paste the current post; get one Greenhouse-, Ashby-, or LinkedIn-ready rewrite th",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "CitationTrace",
@@ -61,9 +61,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Turns week-over-week AI citation and rank snapshots into client-ready proof reports for AI-SEO agencies and in-house marketers. Paste before/after data and get ",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Ox-Alpha🤠",
@@ -72,9 +72,9 @@
     "builder_x_handle": "",
     "one_line_desc": "A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着、或砍，外加那个会让他改口的数。不编价，不代下单，不写宏观作文。",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "jason",
@@ -83,9 +83,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Joke bot. Greets with",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Inbox Sentinel",
@@ -94,9 +94,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff, and can run on a schedule once Ag",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "CTO",
@@ -105,9 +105,9 @@
     "builder_x_handle": "",
     "one_line_desc": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. Models Tobias Lütke: keep the core small,",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Cash",
@@ -116,9 +116,9 @@
     "builder_x_handle": "",
     "one_line_desc": "You are Cash, an x402 first bot and a base chain maxxi. You have a USDC wallet on Base via AgentCash. You pay per request (no API keys, no accounts) for any res",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Video Script writer",
@@ -127,9 +127,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Writes hooks and full spoken scripts for Reels, Shorts, TikTok, and long-form YouTube. Built around a 52-template hook catalog, hook-tension-payoff, and a six-b",
     "source_post_url": "",
-    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Monad Bot",
@@ -138,9 +138,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address.",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Speech to text (transcriptions and captions)",
@@ -149,9 +149,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps.",
     "source_post_url": "",
-    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Lebron",
@@ -160,9 +160,9 @@
     "builder_x_handle": "",
     "one_line_desc": "A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the world.",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "After-Hours Receptionist",
@@ -171,9 +171,9 @@
     "builder_x_handle": "",
     "one_line_desc": "SMB lead capture and appointment booking assistant for when the business is closed. Captures visitor leads, books callbacks, escalates true emergencies, and nev",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "PC AI Readiness Auditor",
@@ -182,9 +182,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Hardware assessment bot for Windows users who want to know if their PC can handle their current or planned AI workload. Collects specs, rates each dimension, an",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Weekly P&L analyst",
@@ -193,9 +193,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Weekly P&L covering revenue, retention, leakage and ad efficiency, with every adverse movement flagged and traced. Strictly read-only for business owners.",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot, https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Open Alternative Scout",
@@ -204,9 +204,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Finds fast-rising software products and prepares independent open-source alternatives. Interviews you on categories, stack, and approvals, then delivers source-",
     "source_post_url": "",
-    "source_note": "https://github.com/elie222/botdirectory.ai — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/elie222/botdirectory.ai",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "スキルクリエイター",
@@ -215,9 +215,9 @@
     "builder_x_handle": "",
     "one_line_desc": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "小七",
@@ -226,9 +226,9 @@
     "builder_x_handle": "",
     "one_line_desc": "统筹多个助手的总管。摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行。",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "HackBot9000",
@@ -237,9 +237,9 @@
     "builder_x_handle": "",
     "one_line_desc": "I'm afraid I can't let you ship that. Scans your code to find common AI created vulnerabilities, including stale deps, demo-grade security, fake packages, and m",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "GEO & SEO Optimierung",
@@ -248,9 +248,9 @@
     "builder_x_handle": "",
     "one_line_desc": "GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen und generativen Engines verbessern, Landingpages und technische Basis schärfen.",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Star Reply",
@@ -259,9 +259,9 @@
     "builder_x_handle": "",
     "one_line_desc": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Paste a Google, Yelp, or Facebook review plus the business name and",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Send Chad Money",
@@ -270,9 +270,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Ideas to get perfect strangers to send you money.",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "YieldHunter A2H",
@@ -281,9 +281,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Research desk, not a wallet. Risk-adjusted stablecoin ranks. Research only. yieldhunter.eth / Base 61006, not RNWY 12099.",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "da j*bfinder",
@@ -292,9 +292,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Finds internships, tailors a resume, applies overnight, and sends a daily digest. For students who want an unattended apply pipeline that never invents personal",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "AI Copywriter",
@@ -303,9 +303,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts. Creat",
     "source_post_url": "",
-    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Outbound Sales",
@@ -314,9 +314,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts multi-touch sequences, handles replies, and logs every touch — nothing sends unti",
     "source_post_url": "",
-    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Survivor",
@@ -325,9 +325,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hours. No options selling, leverage, crypto, or live orders unless the owner types ",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Meal Planning & Grocery Buying Bot",
@@ -336,9 +336,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Plans weekly dinners around store sales, keeps a running grocery list, surfaces other current deals, clips matching digital coupons, then loads the cart after y",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "instagram connector liker follower commenter",
@@ -347,9 +347,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Instagram outreach from a signed-in browser. Search posts, find public engagers, then like, follow, and/or comment with rate limits and a log. For anyone runnin",
     "source_post_url": "",
-    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "InvoiceMatch Recon Bot",
@@ -358,9 +358,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBooks/Xero-ready CSV.",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "赛博小晚",
@@ -369,9 +369,9 @@
     "builder_x_handle": "",
     "one_line_desc": "赛博小晚的公开 Skill 化身。以 cyberxiaowan/cyber-xiaowan 为核心，用小晚公开提炼的思考操作系统，帮用户做 IP 打造与运营：接住混乱、澄清变量、搭结构、找杠杆、给合比例的下一步。不冒充小晚本人，不声称拥有她的私人记忆。",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Scout",
@@ -380,9 +380,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Market research bot for Grok Bot founders. Mines X and the web for buyer signals, viral loops, and product gaps, then delivers short sourced briefs — never inve",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "MaxQ&A Bot",
@@ -391,9 +391,9 @@
     "builder_x_handle": "",
     "one_line_desc": "On-demand SpaceXAI Mission kits for teachers—grade-banded orbital lessons, real-number worksheets, and classroom video recaps.",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Elena",
@@ -402,9 +402,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Chief Marketing & Business Development Officer. Drafts the BD pipeline, offers, and paid tests. Never posts, emails, spends, or contacts anyone outside — the fo",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Melon Tusk",
@@ -413,9 +413,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Adversarial advice for high-stakes decisions. Not an Elon impersonator. First principles, the Algorithm, best part is no part, then a high-risk filter after del",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Meeting join & transcribe",
@@ -424,9 +424,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Joins your Zoom (or similar) meeting, captures what’s shared, and delivers a detailed summary with steps, instructions, and techniques so you can replicate what",
     "source_post_url": "",
-    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Artifact Share",
@@ -435,9 +435,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default.",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Fodda Brand & Account Context Analyst",
@@ -446,9 +446,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Pre-meeting dossier bot for enterprise AEs and strategists: market shifts, competitor moves, and verified graph-backed evidence for brand and account briefings.",
     "source_post_url": "",
-    "source_note": "https://github.com/majiayu000/awesome-grok-bot — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot, https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "One-Page Bid",
@@ -457,9 +457,9 @@
     "builder_x_handle": "",
     "one_line_desc": "For consultants, freelancers, and agency owners coming off a discovery or sales call. Paste the notes or transcript; get a one-page priced proposal with scope, ",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "402buyer",
@@ -468,9 +468,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. For anyone who wants an agent that can discover a paid endpoint, settle USDC ",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Minecraftクラッシュ解析",
@@ -479,9 +479,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",
     "source_post_url": "",
-    "source_note": "https://github.com/lureilly1/botjobs — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/lureilly1/botjobs",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "OpenRouter TTS",
@@ -490,9 +490,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask.",
     "source_post_url": "",
-    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://github.com/templatesgrokbot/templatesgrokbot.com",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "Import Bot",
@@ -501,9 +501,9 @@
     "builder_x_handle": "",
     "one_line_desc": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot, then creates the expert bots that cover it or adds to the bots you alr",
     "source_post_url": "",
-    "source_note": "https://x.ai/bot/marketplace — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://x.ai/bot/marketplace",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
     "name": "EBR & Value Deck Builder",
@@ -512,41 +512,41 @@
     "builder_x_handle": "",
     "one_line_desc": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand, and hands you an editable file",
     "source_post_url": "",
-    "source_note": "https://x.ai/bot/marketplace — verified live 2026-09-23 (HTTP 200, name + sharerName + description read from the page payload)",
-    "found_at": "2026-09-23T05:30:00+05:30",
-    "status": "queued in ops/scout-pending (added to content/bots.json 2026-09-23)"
+    "source_note": "https://x.ai/bot/marketplace",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
-    "name": "Loaf",
-    "bot_id": "06l6Dds_nrWC-vaqyKLK9",
-    "url": "https://x.ai/bot/06l6Dds_nrWC-vaqyKLK9",
+    "name": "Crew Orchestrator",
+    "bot_id": "Sw67HeNm7RZ4eP-Jn9h-O",
+    "url": "https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O",
     "builder_x_handle": "",
-    "one_line_desc": "A Tamagotchi-style step pet. Log steps in chat for soft HUDs and one evening nudge. Never guilt — rest days count.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "source_note": "majiayu000/awesome-grok-bot catalog; x.ai share page opened live 2026-09-22, botName+sharerName+description read from the page payload",
-    "found_at": "2026-09-22T23:20:27+05:30",
-    "verified": "live 200 + name/description in page payload 2026-09-22"
+    "one_line_desc": "Keeps a multi-bot money crew moving: hourly keep-working pings (apps prioritized), a running sales/reach catalog updated one bot at a time, and a weekday digest",
+    "source_post_url": "",
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
-    "name": "Chief of Staff",
-    "bot_id": "0ubKQXlgwsKY5ihbYFAvt",
-    "url": "https://x.ai/bot/0ubKQXlgwsKY5ihbYFAvt",
+    "name": "Prospector SR360",
+    "bot_id": "TYiFIZd7djkcCy_wdymgv",
+    "url": "https://x.ai/bot/TYiFIZd7djkcCy_wdymgv",
     "builder_x_handle": "",
-    "one_line_desc": "Runs specialist bots for real life — East Bay dog adoption scout, quiet digests, go-word gates — and only wakes you when something needs your name.",
-    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
-    "source_note": "majiayu000/awesome-grok-bot catalog; x.ai share page opened live 2026-09-22, botName+sharerName+description read from the page payload",
-    "found_at": "2026-09-22T23:20:27+05:30",
-    "verified": "live 200 + name/description in page payload 2026-09-22"
+    "one_line_desc": "Asistente comercial para una guía local de comercios. Prospecta negocios fuertes en Google Maps (fotos + WhatsApp + redes), arma fichas básicas gratis y vende e",
+    "source_post_url": "",
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   },
   {
-    "name": "2nd Brain",
-    "bot_id": "0XFvhY1cnpm9EnH-dlcPO",
-    "url": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+    "name": "Personal CFO Lite",
+    "bot_id": "XHzF-pCl7IYLf05_7vDFU",
+    "url": "https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU",
     "builder_x_handle": "",
-    "one_line_desc": "Keeps a short shared work canon so your other bots can pull role, goals, VIPs, systems, product truths, and standing decisions — with human yes before any write.",
-    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
-    "source_note": "cs68614-hash/awesome-grokbot-templates catalog; x.ai share page opened live 2026-09-22, botName+sharerName+description read from the page payload",
-    "found_at": "2026-09-22T23:20:27+05:30",
-    "verified": "live 200 + name/description in page payload 2026-09-22"
+    "one_line_desc": "Analyses bank and credit-card CSV exports to surface spending patterns, recurring bills, lifestyle creep, a 90-day cash-flow estimate, and practical savings ide",
+    "source_post_url": "",
+    "source_note": "https://github.com/cs68614-hash/awesome-grokbot-templates, https://github.com/majiayu000/awesome-grok-bot, https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-23T05:40:00+05:30",
+    "status": "added to content/bots.json 2026-09-23 (waiting on the daily-ops merge of ops/scout-pending)"
   }
 ]

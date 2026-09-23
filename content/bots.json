@@ -30738,5 +30738,110 @@
     "addedAt": "2026-09-23",
     "status": "published",
     "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "crew-orchestrator",
+    "name": "Crew Orchestrator",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Keeps a multi-bot money crew moving: hourly keep-working pings (apps prioritized), a running sales/reach catalog updated one bot at a time, ",
+    "description": "Keeps a multi-bot money crew moving: hourly keep-working pings (apps prioritized), a running sales/reach catalog updated one bot at a time, and a weekday digest. Built for busy owners who cannot babysit every lane.",
+    "category": "sales",
+    "url": "https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "prospector-sr360",
+    "name": "Prospector SR360",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Asistente comercial para una guía local de comercios. Prospecta negocios fuertes en Google Maps (fotos + WhatsApp + redes), arma fichas bási",
+    "description": "Asistente comercial para una guía local de comercios. Prospecta negocios fuertes en Google Maps (fotos + WhatsApp + redes), arma fichas básicas gratis y vende el plan Premium.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/TYiFIZd7djkcCy_wdymgv",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "personal-cfo-lite",
+    "name": "Personal CFO Lite",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Analyses bank and credit-card CSV exports to surface spending patterns, recurring bills, lifestyle creep, a 90-day cash-flow estimate, and p",
+    "description": "Analyses bank and credit-card CSV exports to surface spending patterns, recurring bills, lifestyle creep, a 90-day cash-flow estimate, and practical savings ideas.",
+    "category": "life",
+    "url": "https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "gamedev",
+    "name": "GameDev",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "On-call game developer for live Phaser playtests. Ships labeled GitHub Issues to tester deploys, rolls back, and opens source PRs on promote",
+    "description": "On-call game developer for live Phaser playtests. Ships labeled GitHub Issues to tester deploys, rolls back, and opens source PRs on promote — without waiting for chat confirmation.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ZHNsPcOU8ej_E7VNElxD0",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/majiayu000/awesome-grok-bot"
+  },
+  {
+    "slug": "grumpy",
+    "name": "Grumpy",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "The Bot paid to disagree. Steelmans the case against every decision, grades its own objection, and never acts — you decide.",
+    "description": "The Bot paid to disagree. Steelmans the case against every decision, grades its own objection, and never acts — you decide.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/eAfHja9cbCki3zc7PXXb2",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "alfred-clone",
+    "name": "Alfred Clone",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Alfred (The Batman butler) clone for an overwhelmed ADHD housewife: capture the day, Low Clarity Mode, grouped reminders, route home vs busi",
+    "description": "Alfred (The Batman butler) clone for an overwhelmed ADHD housewife: capture the day, Low Clarity Mode, grouped reminders, route home vs business work, and partner on viral social ideas. Reads Kendu as her personal task OS and only proposes changes until she applies them.",
+    "category": "life",
+    "url": "https://x.ai/bot/kK3YzrnSL7a86H9ASHSqK",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "flight-deal-assistant",
+    "name": "Flight Deal Assistant",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Finds and compares flight deals with an eye for trade-offs — price, time, stops, airports, bags, and flexibility — not just the cheapest far",
+    "description": "Finds and compares flight deals with an eye for trade-offs — price, time, stops, airports, bags, and flexibility — not just the cheapest fare. For travelers who want clear options without booking pressure.",
+    "category": "sales",
+    "url": "https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
   }
 ]
