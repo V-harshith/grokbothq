@@ -1,5 +1,33 @@
 [
   {
+    "date": "2026-09-22",
+    "title": "How SpaceXAI is using Grok Bot to scale customer support",
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-bot-customer-support",
+    "summary": "xAI rebuilt its combined support operation around Grok Bot as Cursor's portfolio joined the company: ticket volume is up 175% with no new hires, and the bot signs into the same ticketing and issue-tracking tools the team uses. Resolution cost landed around $0.20 to $0.30, against the $1 to $4 per resolution typical of flat-rate AI support tools."
+  },
+  {
+    "date": "2026-09-21",
+    "title": "Introducing Grok 4.7",
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-4-7",
+    "summary": "xAI's new model for coding and knowledge work ships at the same $2 per million input and $6 per million output tokens as Grok 4.6. It was trained with a longer reinforcement-learning run weighted toward tasks that take hours, natively understands the Grok Bot harness, and leads Grok 4.6 on CursorBench 4.0, Terminal-Bench 4.0 and the Harvey legal benchmark."
+  },
+  {
+    "date": "2026-09-18",
+    "title": "Introducing Grok Voice Transcribe 2.0",
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-voice-transcribe-2",
+    "summary": "The new speech-to-text model is about twice as accurate as version 1.0 at the same price, built for flaky phone lines, competing voices and local accents rather than clean single-speaker audio. It ranks first for accuracy among 32 streaming models on Artificial Analysis, becomes the Speech-to-Text API default, and version 1.0 is deprecated in the coming weeks."
+  },
+  {
+    "date": "2026-09-16",
+    "title": "Memory in Grok Build",
+    "source": "xAI",
+    "url": "https://x.ai/news/grok-build-memory",
+    "summary": "Grok Build now records project conventions, decisions and facts in the background as you work, then reads them back before touching related code in a later session. Notes are stored as markdown topic files, with a /memory browser and a /dream command that consolidates recent notes."
+  },
+  {
     "date": "2026-09-06",
     "title": "Biosecurity at the frontier",
     "source": "xAI",
@@ -75,33 +103,5 @@
     "source": "xAI",
     "url": "https://x.ai/news",
     "summary": "xAI's newest model becomes available through Microsoft's enterprise AI platform, a notable distribution step beyond Grok's own apps."
-  },
-  {
-    "date": "2026-08-24",
-    "title": "Grok Bot breaks down: how it differs from the Grok you know",
-    "source": "Vellum",
-    "url": "https://www.vellum.ai/blog/official-grok-bot-breakdown",
-    "summary": "A technical breakdown clarifying that Grok Bot is a separate product from the consumer chatbot on grok.com and X, and from the xAI API."
-  },
-  {
-    "date": "2026-08-21",
-    "title": "Grok 4.6 on Gemini Enterprise Agent Platform",
-    "source": "xAI",
-    "url": "https://x.ai/news/grok-4-6-vertex-ai",
-    "summary": "Grok 4.6 became available on Google's enterprise agent platform, giving teams that standardize on Vertex AI a path to xAI's latest model."
-  },
-  {
-    "date": "2026-08-20",
-    "title": "Persistent digital coworkers: Grok Bot's $120/month play",
-    "source": "VentureBeat",
-    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
-    "summary": "Coverage of Grok Bot's positioning as always-on agents that operate your apps, with the pricing that comes with it."
-  },
-  {
-    "date": "2026-08-14",
-    "title": "Grok Bot enters beta as always-on AI teammates",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "summary": "The launch write-up: bots with their own computer that sign into the tools you already use and carry out multi-step work on their own."
   }
 ]
