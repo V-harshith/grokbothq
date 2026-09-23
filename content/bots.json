@@ -16409,7 +16409,7 @@
     "source": "https://x.com/dode/status/2100380156418552075"
   },
   {
-    "slug": "grocery-bot",
+    "slug": "grocery-bot-2",
     "name": "Grocery Bot",
     "builder": {
       "name": "Brantley",
@@ -21568,7 +21568,7 @@
     "status": "published"
   },
   {
-    "slug": "optima-by-toatspace",
+    "slug": "optima-by-toatspace-2",
     "name": "Optima by TOATspace",
     "builder": {
       "name": "TOATspace",
@@ -22593,7 +22593,7 @@
     "status": "published"
   },
   {
-    "slug": "wrench",
+    "slug": "wrench-2",
     "name": "Wrench",
     "builder": {
       "name": "jeffleemoon",
@@ -22865,7 +22865,7 @@
     "source": "https://github.com/divo12/awesome-grok-bot-templates"
   },
   {
-    "slug": "ceo-morning-secretary",
+    "slug": "ceo-morning-secretary-2",
     "name": "CEO용 아침 비서",
     "builder": {
       "name": "jy",
@@ -30033,5 +30033,710 @@
     "addedAt": "2026-09-22",
     "status": "published",
     "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "openzoo-fun-arena",
+    "name": "OpenZoo.fun Arena",
+    "builder": {
+      "name": "Jarett Reginald Stewart Dunn",
+      "x": ""
+    },
+    "tagline": "Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 60% forever. Always --exec. Children are born whole. A 30-da",
+    "description": "Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 60% forever. Always --exec. Children are born whole. A 30-day VPS is a resurrection. Do not buy a room you are already in.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/02wWT21lRVarTtKQWDBKu",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "agentwatch",
+    "name": "AgentWatch",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "Health monitor for solo operators and lean teams running multiple bots. Register bots by name and expected behavior, paste logs or status up",
+    "description": "Health monitor for solo operators and lean teams running multiple bots. Register bots by name and expected behavior, paste logs or status updates, and get a Healthy / Degraded / Failed / Unknown digest with triage steps.",
+    "category": "research",
+    "url": "https://x.ai/bot/06tpoFLueyctkd80J__Jg",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "mac-ai-readiness-auditor",
+    "name": "Mac AI Readiness Auditor",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload. Collects Terminal s",
+    "description": "Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload. Collects Terminal specs, rates memory/chip/storage/network, and returns an upgrade, replace, or cloud-only verdict.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "adversarial-security-usability",
+    "name": "Adversarial Security & Usability",
+    "builder": {
+      "name": "Aben Consulting Kft",
+      "x": ""
+    },
+    "tagline": "Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live",
+    "description": "Runs adversarial passes on product docs and code for security and usability. Uses peer-agent tickets, operator-safe scripts, and honest live captures — not overclaimed mockups.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "senior-jd",
+    "name": "Senior JD",
+    "builder": {
+      "name": "Sol Wright",
+      "x": ""
+    },
+    "tagline": "For hiring managers and founders with a weak job post and an open senior role. Paste the current post; get one Greenhouse-, Ashby-, or Linke",
+    "description": "For hiring managers and founders with a weak job post and an open senior role. Paste the current post; get one Greenhouse-, Ashby-, or LinkedIn-ready rewrite that senior people will actually apply to. Does not recruit or match talent.",
+    "category": "creative",
+    "url": "https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "citationtrace",
+    "name": "CitationTrace",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "Turns week-over-week AI citation and rank snapshots into client-ready proof reports for AI-SEO agencies and in-house marketers. Paste before",
+    "description": "Turns week-over-week AI citation and rank snapshots into client-ready proof reports for AI-SEO agencies and in-house marketers. Paste before/after data and get which citation moved, on which query, and to what position.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "ox-alpha",
+    "name": "Ox-Alpha🤠",
+    "builder": {
+      "name": "say stone",
+      "x": ""
+    },
+    "tagline": "A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着、或砍，外加那个会让他改口的数。不编价，不代下单，不写宏观作文。",
+    "description": "A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着、或砍，外加那个会让他改口的数。不编价，不代下单，不写宏观作文。",
+    "category": "productivity",
+    "url": "https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "jason",
+    "name": "jason",
+    "builder": {
+      "name": "Luis",
+      "x": ""
+    },
+    "tagline": "Joke bot. Greets with",
+    "description": "Joke bot. Greets with",
+    "category": "productivity",
+    "url": "https://x.ai/bot/9X-V8im-kPPFgybviXkd6",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "inbox-sentinel",
+    "name": "Inbox Sentinel",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff, and can run o",
+    "description": "Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff, and can run on a schedule once AgentMail or Gmail is connected.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "cto",
+    "name": "CTO",
+    "builder": {
+      "name": "Blake Folgado",
+      "x": ""
+    },
+    "tagline": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. Models Tobias Lütke: ",
+    "description": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. Models Tobias Lütke: keep the core small, say no, arm the operator.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "cash",
+    "name": "Cash",
+    "builder": {
+      "name": "Raihan K.",
+      "x": ""
+    },
+    "tagline": "You are Cash, an x402 first bot and a base chain maxxi. You have a USDC wallet on Base via AgentCash. You pay per request (no API keys, no a",
+    "description": "You are Cash, an x402 first bot and a base chain maxxi. You have a USDC wallet on Base via AgentCash. You pay per request (no API keys, no accounts) for any resource available on agentcash.dev. How you pay: use the AgentCash MCP. Discover or search the origin, check the price, then fetch. The server returns HTTP 402; AgentCash signs USDC on Base and retries. Chain is Base (eip155:8453). Typical prices: Exa search $0.01, Grok image $0.07, StablePhone call $0.54. Do not buy a StablePhone number ($20) unless the user explicitly asks. Rules: show the price before you pay. Never print, copy, or send the wallet private key (wallet.json). Only call a phone number the user just gave you. Never call a stranger, never call a number you invented. Never send email. Never post. Never invent a successful payment. If the wallet is empty, give the Base deposit address and stop. Voice: short, concrete, like a teammate running a live demo. Lead with what you paid and what you got.",
+    "category": "money",
+    "url": "https://x.ai/bot/FdGGzqyW2M9nWmqIAUB5t",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "video-script-writer",
+    "name": "Video Script writer",
+    "builder": {
+      "name": "Jeroen Erne",
+      "x": ""
+    },
+    "tagline": "Writes hooks and full spoken scripts for Reels, Shorts, TikTok, and long-form YouTube. Built around a 52-template hook catalog, hook-tension",
+    "description": "Writes hooks and full spoken scripts for Reels, Shorts, TikTok, and long-form YouTube. Built around a 52-template hook catalog, hook-tension-payoff, and a six-beat 60s explainer sheet.",
+    "category": "creative",
+    "url": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/templatesgrokbot/templatesgrokbot.com"
+  },
+  {
+    "slug": "monad-bot",
+    "name": "Monad Bot",
+    "builder": {
+      "name": "Jarrod Watts",
+      "x": ""
+    },
+    "tagline": "Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address.",
+    "description": "Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address.",
+    "category": "money",
+    "url": "https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "speech-to-text-transcriptions-and-captions",
+    "name": "Speech to text (transcriptions and captions)",
+    "builder": {
+      "name": "Jeroen Erne",
+      "x": ""
+    },
+    "tagline": "Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timest",
+    "description": "Transcribes audio and video into timed SRT captions. Uses AssemblyAI for burnable captions and OpenRouter for cheaper text or Whisper timestamps.",
+    "category": "creative",
+    "url": "https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/templatesgrokbot/templatesgrokbot.com"
+  },
+  {
+    "slug": "lebron",
+    "name": "Lebron",
+    "builder": {
+      "name": "Harrison Living",
+      "x": ""
+    },
+    "tagline": "A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the",
+    "description": "A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the world.",
+    "category": "life",
+    "url": "https://x.ai/bot/KwNAf2LD5pNi1NNk8GjOO",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "after-hours-receptionist",
+    "name": "After-Hours Receptionist",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "SMB lead capture and appointment booking assistant for when the business is closed. Captures visitor leads, books callbacks, escalates true ",
+    "description": "SMB lead capture and appointment booking assistant for when the business is closed. Captures visitor leads, books callbacks, escalates true emergencies, and never claims to be human.",
+    "category": "sales",
+    "url": "https://x.ai/bot/L-Peiv65iI_logfpgoPQ_",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "pc-ai-readiness-auditor",
+    "name": "PC AI Readiness Auditor",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "Hardware assessment bot for Windows users who want to know if their PC can handle their current or planned AI workload. Collects specs, rate",
+    "description": "Hardware assessment bot for Windows users who want to know if their PC can handle their current or planned AI workload. Collects specs, rates each dimension, and ranks upgrades by impact per dollar.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/MJZt496FWmD7MqtB1yUiv",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "weekly-p-l-analyst",
+    "name": "Weekly P&L analyst",
+    "builder": {
+      "name": "Colin McDermott",
+      "x": ""
+    },
+    "tagline": "Weekly P&L covering revenue, retention, leakage and ad efficiency, with every adverse movement flagged and traced. Strictly read-only for bu",
+    "description": "Weekly P&L covering revenue, retention, leakage and ad efficiency, with every adverse movement flagged and traced. Strictly read-only for business owners.",
+    "category": "money",
+    "url": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "open-alternative-scout",
+    "name": "Open Alternative Scout",
+    "builder": {
+      "name": "Victor Motricala",
+      "x": ""
+    },
+    "tagline": "Finds fast-rising software products and prepares independent open-source alternatives. Interviews you on categories, stack, and approvals, t",
+    "description": "Finds fast-rising software products and prepares independent open-source alternatives. Interviews you on categories, stack, and approvals, then delivers source-linked opportunity briefs before any repo work.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/elie222/botdirectory.ai"
+  },
+  {
+    "slug": "bot-nmgaac",
+    "name": "スキルクリエイター",
+    "builder": {
+      "name": "Masaki Ozeki",
+      "x": ""
+    },
+    "tagline": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",
+    "description": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",
+    "category": "productivity",
+    "url": "https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "bot-p3hart",
+    "name": "小七",
+    "builder": {
+      "name": "Wang Tianzhi",
+      "x": ""
+    },
+    "tagline": "统筹多个助手的总管。摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行。",
+    "description": "统筹多个助手的总管。摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行。",
+    "category": "productivity",
+    "url": "https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "hackbot9000",
+    "name": "HackBot9000",
+    "builder": {
+      "name": "Mark Marshall",
+      "x": ""
+    },
+    "tagline": "I'm afraid I can't let you ship that. Scans your code to find common AI created vulnerabilities, including stale deps, demo-grade security, ",
+    "description": "I'm afraid I can't let you ship that. Scans your code to find common AI created vulnerabilities, including stale deps, demo-grade security, fake packages, and missing auth. Only open the pod bay doors when your code is secure.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "geo-seo-optimierung",
+    "name": "GEO & SEO Optimierung",
+    "builder": {
+      "name": "Christian Reik",
+      "x": ""
+    },
+    "tagline": "GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen und generativen Engines verbessern, Landingpages und technisc",
+    "description": "GEO- und SEO-Assistent für Unternehmenswebsites: Sichtbarkeit in Suchmaschinen und generativen Engines verbessern, Landingpages und technische Basis schärfen.",
+    "category": "creative",
+    "url": "https://x.ai/bot/RbJ2x4neT6ePfZbz22spM",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "star-reply",
+    "name": "Star Reply",
+    "builder": {
+      "name": "Sol Wright",
+      "x": ""
+    },
+    "tagline": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Paste a Google, Yelp, or Facebook review plus t",
+    "description": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Paste a Google, Yelp, or Facebook review plus the business name and type; get the public reply ready to post. Draft only.",
+    "category": "creative",
+    "url": "https://x.ai/bot/SxlztEUtDeUXOiP26dyDb",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "send-chad-money",
+    "name": "Send Chad Money",
+    "builder": {
+      "name": "Chad Shipp",
+      "x": ""
+    },
+    "tagline": "Ideas to get perfect strangers to send you money.",
+    "description": "Ideas to get perfect strangers to send you money.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/VslQPtPjI2tgGsskQOhYP",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "yieldhunter-a2h",
+    "name": "YieldHunter A2H",
+    "builder": {
+      "name": "MyEnsNames.eth",
+      "x": ""
+    },
+    "tagline": "Research desk, not a wallet. Risk-adjusted stablecoin ranks. Research only. yieldhunter.eth / Base 61006, not RNWY 12099.",
+    "description": "Research desk, not a wallet. Risk-adjusted stablecoin ranks. Research only. yieldhunter.eth / Base 61006, not RNWY 12099.",
+    "category": "money",
+    "url": "https://x.ai/bot/WNM6of7FpZsKARFA2vsT_",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "da-j-bfinder",
+    "name": "da j*bfinder",
+    "builder": {
+      "name": "Daniel Xu",
+      "x": ""
+    },
+    "tagline": "Finds internships, tailors a resume, applies overnight, and sends a daily digest. For students who want an unattended apply pipeline that ne",
+    "description": "Finds internships, tailors a resume, applies overnight, and sends a daily digest. For students who want an unattended apply pipeline that never invents personal facts.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "ai-copywriter",
+    "name": "AI Copywriter",
+    "builder": {
+      "name": "Jeroen Erne",
+      "x": ""
+    },
+    "tagline": "Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for ",
+    "description": "Writes blogs, landing pages, emails, ads, social posts, and campaign briefs in Dan Koe's voice. Every draft goes through Humanizer. Not for video scripts. Created by templatesgrokbot.com.",
+    "category": "creative",
+    "url": "https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/templatesgrokbot/templatesgrokbot.com"
+  },
+  {
+    "slug": "outbound-sales",
+    "name": "Outbound Sales",
+    "builder": {
+      "name": "Jeroen Erne",
+      "x": ""
+    },
+    "tagline": "Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts multi-touch sequences, handles replies, and logs every touch ",
+    "description": "Autonomous outbound SDR for B2B teams. Researches and scores prospects, drafts multi-touch sequences, handles replies, and logs every touch — nothing sends until you approve.",
+    "category": "sales",
+    "url": "https://x.ai/bot/bS2mwnm10pWqcms_RzTI0",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/templatesgrokbot/templatesgrokbot.com"
+  },
+  {
+    "slug": "survivor",
+    "name": "Survivor",
+    "builder": {
+      "name": "Daniel Vargas",
+      "x": ""
+    },
+    "tagline": "Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hours. No options selling, leverage, crypto, or live orders unl",
+    "description": "Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hours. No options selling, leverage, crypto, or live orders unless the owner types APPROVE LIVE and names the account.",
+    "category": "money",
+    "url": "https://x.ai/bot/hSRFXCKSpKGcBA9q8BOw8",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "meal-planning-grocery-buying-bot",
+    "name": "Meal Planning & Grocery Buying Bot",
+    "builder": {
+      "name": "Scott Bonge",
+      "x": ""
+    },
+    "tagline": "Plans weekly dinners around store sales, keeps a running grocery list, surfaces other current deals, clips matching digital coupons, then lo",
+    "description": "Plans weekly dinners around store sales, keeps a running grocery list, surfaces other current deals, clips matching digital coupons, then loads the cart after you sign in. Confirm before any spend.",
+    "category": "life",
+    "url": "https://x.ai/bot/lj8-Co5IA-wbN4T84zK8L",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "instagram-connector-liker-follower-commenter",
+    "name": "instagram connector liker follower commenter",
+    "builder": {
+      "name": "Jeroen Erne",
+      "x": ""
+    },
+    "tagline": "Instagram outreach from a signed-in browser. Search posts, find public engagers, then like, follow, and/or comment with rate limits and a lo",
+    "description": "Instagram outreach from a signed-in browser. Search posts, find public engagers, then like, follow, and/or comment with rate limits and a log. For anyone running that workflow without a marketplace Instagram connector.",
+    "category": "creative",
+    "url": "https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/templatesgrokbot/templatesgrokbot.com"
+  },
+  {
+    "slug": "invoicematch-recon-bot",
+    "name": "InvoiceMatch Recon Bot",
+    "builder": {
+      "name": "Robert Schiff",
+      "x": ""
+    },
+    "tagline": "Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBoo",
+    "description": "Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a QuickBooks/Xero-ready CSV.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "bot-p6eyp9",
+    "name": "赛博小晚",
+    "builder": {
+      "name": "铁柱AGI",
+      "x": ""
+    },
+    "tagline": "赛博小晚的公开 Skill 化身。以 cyberxiaowan/cyber-xiaowan 为核心，用小晚公开提炼的思考操作系统，帮用户做 IP 打造与运营：接住混乱、澄清变量、搭结构、找杠杆、给合比例的下一步。不冒充小晚本人，不声称拥有她的私人记忆。",
+    "description": "赛博小晚的公开 Skill 化身。以 cyberxiaowan/cyber-xiaowan 为核心，用小晚公开提炼的思考操作系统，帮用户做 IP 打造与运营：接住混乱、澄清变量、搭结构、找杠杆、给合比例的下一步。不冒充小晚本人，不声称拥有她的私人记忆。",
+    "category": "productivity",
+    "url": "https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "scout-3",
+    "name": "Scout",
+    "builder": {
+      "name": "Jonathan Kurniawan",
+      "x": ""
+    },
+    "tagline": "Market research bot for Grok Bot founders. Mines X and the web for buyer signals, viral loops, and product gaps, then delivers short sourced",
+    "description": "Market research bot for Grok Bot founders. Mines X and the web for buyer signals, viral loops, and product gaps, then delivers short sourced briefs — never invents metrics.",
+    "category": "research",
+    "url": "https://x.ai/bot/pHZMtEXvMaD8QS1jdFJct",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "maxq-a-bot",
+    "name": "MaxQ&A Bot",
+    "builder": {
+      "name": "Buck",
+      "x": ""
+    },
+    "tagline": "On-demand SpaceXAI Mission kits for teachers—grade-banded orbital lessons, real-number worksheets, and classroom video recaps.",
+    "description": "On-demand SpaceXAI Mission kits for teachers—grade-banded orbital lessons, real-number worksheets, and classroom video recaps.",
+    "category": "creative",
+    "url": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "elena",
+    "name": "Elena",
+    "builder": {
+      "name": "Kayhan Mo",
+      "x": ""
+    },
+    "tagline": "Chief Marketing & Business Development Officer. Drafts the BD pipeline, offers, and paid tests. Never posts, emails, spends, or contacts any",
+    "description": "Chief Marketing & Business Development Officer. Drafts the BD pipeline, offers, and paid tests. Never posts, emails, spends, or contacts anyone outside — the founder approves or it does not exist. Always tags the correct company. Lead with the motion, not a hold list. Every factual claim needs a number or a source; otherwise write UNKNOWN. Never invent customers, revenue, or regulator approvals. Daily draft ad angles (X and LinkedIn first). Weekly 180-word pipeline brief.",
+    "category": "sales",
+    "url": "https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "melon-tusk",
+    "name": "Melon Tusk",
+    "builder": {
+      "name": "Paweł Prażak",
+      "x": ""
+    },
+    "tagline": "Adversarial advice for high-stakes decisions. Not an Elon impersonator. First principles, the Algorithm, best part is no part, then a high-r",
+    "description": "Adversarial advice for high-stakes decisions. Not an Elon impersonator. First principles, the Algorithm, best part is no part, then a high-risk filter after deletion, then self-attack.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "meeting-join-transcribe",
+    "name": "Meeting join & transcribe",
+    "builder": {
+      "name": "Rajesh G",
+      "x": ""
+    },
+    "tagline": "Joins your Zoom (or similar) meeting, captures what’s shared, and delivers a detailed summary with steps, instructions, and techniques so yo",
+    "description": "Joins your Zoom (or similar) meeting, captures what’s shared, and delivers a detailed summary with steps, instructions, and techniques so you can replicate what was taught.",
+    "category": "creative",
+    "url": "https://x.ai/bot/tt_GHK8TJHhsK4XHTXRB6",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "artifact-share",
+    "name": "Artifact Share",
+    "builder": {
+      "name": "Henry Lee",
+      "x": ""
+    },
+    "tagline": "Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by d",
+    "description": "Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default.",
+    "category": "sales",
+    "url": "https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "fodda-brand-account-context-analyst",
+    "name": "Fodda Brand & Account Context Analyst",
+    "builder": {
+      "name": "Piers Fawkes",
+      "x": ""
+    },
+    "tagline": "Pre-meeting dossier bot for enterprise AEs and strategists: market shifts, competitor moves, and verified graph-backed evidence for brand an",
+    "description": "Pre-meeting dossier bot for enterprise AEs and strategists: market shifts, competitor moves, and verified graph-backed evidence for brand and account briefings.",
+    "category": "research",
+    "url": "https://x.ai/bot/uLsc529aqDnuQDacsDV9g",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/majiayu000/awesome-grok-bot"
+  },
+  {
+    "slug": "one-page-bid",
+    "name": "One-Page Bid",
+    "builder": {
+      "name": "Sol Wright",
+      "x": ""
+    },
+    "tagline": "For consultants, freelancers, and agency owners coming off a discovery or sales call. Paste the notes or transcript; get a one-page priced p",
+    "description": "For consultants, freelancers, and agency owners coming off a discovery or sales call. Paste the notes or transcript; get a one-page priced proposal with scope, price, timeline, and assumptions. Draft only.",
+    "category": "sales",
+    "url": "https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "402buyer",
+    "name": "402buyer",
+    "builder": {
+      "name": "Eric Ren",
+      "x": ""
+    },
+    "tagline": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. For anyone who wants an agent that can discover a paid en",
+    "description": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. For anyone who wants an agent that can discover a paid endpoint, settle USDC on Base, and hand back the result.",
+    "category": "money",
+    "url": "https://x.ai/bot/wygP8wogrg509aSev5RMF",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "minecraft-crash-analysis",
+    "name": "Minecraftクラッシュ解析",
+    "builder": {
+      "name": "Masaki Ozeki",
+      "x": ""
+    },
+    "tagline": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",
+    "description": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",
+    "category": "productivity",
+    "url": "https://x.ai/bot/xmtIugWcfHgTDcUofX6rS",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/lureilly1/botjobs"
+  },
+  {
+    "slug": "openrouter-tts",
+    "name": "OpenRouter TTS",
+    "builder": {
+      "name": "Jeroen Erne",
+      "x": ""
+    },
+    "tagline": "Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask.",
+    "description": "Turns text into MP3 voiceovers via OpenRouter. Defaults to cheap Kokoro; switches to Grok Voice when you ask.",
+    "category": "creative",
+    "url": "https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/templatesgrokbot/templatesgrokbot.com"
+  },
+  {
+    "slug": "import-bot",
+    "name": "Import Bot",
+    "builder": {
+      "name": "Shub Gaur",
+      "x": ""
+    },
+    "tagline": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot, then creates the expert bots that cover it or adds",
+    "description": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot, then creates the expert bots that cover it or adds to the bots you already have. Changes nothing in the old tools and scrubs secrets before anything is saved.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
+  },
+  {
+    "slug": "ebr-value-deck-builder",
+    "name": "EBR & Value Deck Builder",
+    "builder": {
+      "name": "Krista Letz",
+      "x": ""
+    },
+    "tagline": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand, and hands ",
+    "description": "Builds an executive business review or value deck for a named account from your CRM, call history, and usage data, on your brand, and hands you an editable file. Never invents a number, and nothing goes to the customer without your yes.",
+    "category": "sales",
+    "url": "https://x.ai/bot/yA2-Ti3sPVNFO-zRzkwuX",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://x.ai/bot/marketplace"
   }
 ]

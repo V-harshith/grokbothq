@@ -1,0 +1,72 @@
+{
+  "run": "2026-09-23 05:30 IST scout pass",
+  "method": "every link opened live; accepted only when the page payload carried id + ownerType + botName + description (or, for the marketplace pair, a live page title + description). No paid API calls.",
+  "excluded": [
+    {
+      "bot_id": "62-P66Nu4KJH99n7fdMzH",
+      "name": "Steve Jobs",
+      "reason": "bot name is a real named individual (dead public figure)",
+      "url": "https://x.ai/bot/62-P66Nu4KJH99n7fdMzH"
+    },
+    {
+      "bot_id": "Jj_TYDU1AWN-76k9YjsKa",
+      "name": "Elon Musk",
+      "reason": "persona of a real named individual (Elon Musk)",
+      "url": "https://x.ai/bot/Jj_TYDU1AWN-76k9YjsKa"
+    },
+    {
+      "bot_id": "QABMbqsOH8ki_Flc1BiZf",
+      "name": "GogBot",
+      "reason": "persona of a real named individual (David Goggins)",
+      "url": "https://x.ai/bot/QABMbqsOH8ki_Flc1BiZf"
+    },
+    {
+      "bot_id": "QCwGPAlho0dBvBds_IOWF",
+      "name": "Elon Musk (Algorithm & constraint)",
+      "reason": "bot name is a real named individual",
+      "url": "https://x.ai/bot/QCwGPAlho0dBvBds_IOWF"
+    },
+    {
+      "bot_id": "U-qq-Q-CiWdwRFWk5hmgY",
+      "name": "Elon",
+      "reason": "real named individual + page description is a placeholder ('$3d')",
+      "url": "https://x.ai/bot/U-qq-Q-CiWdwRFWk5hmgY"
+    },
+    {
+      "bot_id": "cxUln0vqOPK7V3RccS0nm",
+      "name": "Elongated Musketeer",
+      "reason": "real named individual personality proxy (already rejected 2026-09-22)",
+      "url": "https://x.ai/bot/cxUln0vqOPK7V3RccS0nm"
+    },
+    {
+      "bot_id": "i7hwU3YzCKt_27dK9aCr4",
+      "name": "Easy Flow",
+      "reason": "page description is a placeholder ('$3d')",
+      "url": "https://x.ai/bot/i7hwU3YzCKt_27dK9aCr4"
+    },
+    {
+      "bot_id": "mLD9e8gRskQNp6DocBeJZ",
+      "name": "Tower",
+      "reason": "page description is a placeholder ('$3d')",
+      "url": "https://x.ai/bot/mLD9e8gRskQNp6DocBeJZ"
+    },
+    {
+      "bot_id": "oIcq3e3tuwYIaPIkmx0cF",
+      "name": "Invoice Terminator",
+      "reason": "page description is a placeholder ('$3d')",
+      "url": "https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF"
+    },
+    {
+      "bot_id": "qtuoVRf5etpEVPNA29i7H",
+      "name": "anew",
+      "reason": "page description ('free webpages') too thin to describe the bot",
+      "url": "https://x.ai/bot/qtuoVRf5etpEVPNA29i7H"
+    },
+    {
+      "bot_id": "skVoYDfnNUPqUYIxkjXJK",
+      "name": "Elon",
+      "reason": "bot name is a real named individual",
+      "url": "https://x.ai/bot/skVoYDfnNUPqUYIxkjXJK"
+    }
+  ]
+}
