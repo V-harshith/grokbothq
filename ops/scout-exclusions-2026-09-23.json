@@ -1,0 +1,531 @@
+{
+  "run": "2026-09-23 scout pass (cron 359022f62495)",
+  "branch": "ops/scout-pending (single accumulating PR)",
+  "method": "Every x.ai/bot link was opened live. A listing was written only when the page payload carried a real share record (id, ownerType, botName, sharerName, description) — or, for two marketplace listings, a live page title plus description. Zero paid API calls.",
+  "counts": {
+    "links_opened": 88,
+    "live_with_a_named_template": 68,
+    "added_to_directory": 54,
+    "not_added": 91
+  },
+  "not_added": {
+    "verified_live_but_deliberately_left_out": [
+      {
+        "bot_id": "02wWT21lRVarTtKQWDBKu",
+        "name": "OpenZoo.fun Arena",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/02wWT21lRVarTtKQWDBKu"
+      },
+      {
+        "bot_id": "06tpoFLueyctkd80J__Jg",
+        "name": "AgentWatch",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/06tpoFLueyctkd80J__Jg"
+      },
+      {
+        "bot_id": "1XiwuXngkZ_XV8je6YTqM",
+        "name": "Mac AI Readiness Auditor",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM"
+      },
+      {
+        "bot_id": "3TK4ONBw6am3N9l8BK7BJ",
+        "name": "Adversarial Security & Usability",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/3TK4ONBw6am3N9l8BK7BJ"
+      },
+      {
+        "bot_id": "5_CLJlzTVfiV7VFEAfO2q",
+        "name": "Senior JD",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q"
+      },
+      {
+        "bot_id": "62-P66Nu4KJH99n7fdMzH",
+        "name": "Steve Jobs",
+        "reason": "bot name is a real named individual (dead public figure)",
+        "url": "https://x.ai/bot/62-P66Nu4KJH99n7fdMzH"
+      },
+      {
+        "bot_id": "6HYl0hBFcUP9b_5yj-Hk6",
+        "name": "CitationTrace",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/6HYl0hBFcUP9b_5yj-Hk6"
+      },
+      {
+        "bot_id": "8Uon_mHNJRQfA2IsF7KNb",
+        "name": "Ox-Alpha🤠",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/8Uon_mHNJRQfA2IsF7KNb"
+      },
+      {
+        "bot_id": "9X-V8im-kPPFgybviXkd6",
+        "name": "jason",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/9X-V8im-kPPFgybviXkd6"
+      },
+      {
+        "bot_id": "AXZqtG9WTTh6uF9jGcZuH",
+        "name": "Inbox Sentinel",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH"
+      },
+      {
+        "bot_id": "CYDQcpG8Oa2aAQkWE7fn1",
+        "name": "CTO",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/CYDQcpG8Oa2aAQkWE7fn1"
+      },
+      {
+        "bot_id": "FdGGzqyW2M9nWmqIAUB5t",
+        "name": "Cash",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/FdGGzqyW2M9nWmqIAUB5t"
+      },
+      {
+        "bot_id": "Hj01jL8dJIkTGPWS3VcMM",
+        "name": "Video Script writer",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/Hj01jL8dJIkTGPWS3VcMM"
+      },
+      {
+        "bot_id": "Jj_TYDU1AWN-76k9YjsKa",
+        "name": "Elon Musk",
+        "reason": "persona of a real named individual (Elon Musk)",
+        "url": "https://x.ai/bot/Jj_TYDU1AWN-76k9YjsKa"
+      },
+      {
+        "bot_id": "KTuDBQv3fYw-h8RaC8XGg",
+        "name": "Monad Bot",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/KTuDBQv3fYw-h8RaC8XGg"
+      },
+      {
+        "bot_id": "Kp0fqaO2W5J4ZNhmXAHGb",
+        "name": "Speech to text (transcriptions and captions)",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/Kp0fqaO2W5J4ZNhmXAHGb"
+      },
+      {
+        "bot_id": "KwNAf2LD5pNi1NNk8GjOO",
+        "name": "Lebron",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/KwNAf2LD5pNi1NNk8GjOO"
+      },
+      {
+        "bot_id": "L-Peiv65iI_logfpgoPQ_",
+        "name": "After-Hours Receptionist",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/L-Peiv65iI_logfpgoPQ_"
+      },
+      {
+        "bot_id": "MJZt496FWmD7MqtB1yUiv",
+        "name": "PC AI Readiness Auditor",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/MJZt496FWmD7MqtB1yUiv"
+      },
+      {
+        "bot_id": "M_4xLTMY06z1Zv1gvX_Nc",
+        "name": "Weekly P&L analyst",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc"
+      },
+      {
+        "bot_id": "N7-cgHvWrQs6ZF-wBjAGG",
+        "name": "Open Alternative Scout",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/N7-cgHvWrQs6ZF-wBjAGG"
+      },
+      {
+        "bot_id": "NMGAAcLcgqHjs9JwpgPyo",
+        "name": "スキルクリエイター",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo"
+      },
+      {
+        "bot_id": "P3hARt_iRCU1x7PKEdxwk",
+        "name": "小七",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk"
+      },
+      {
+        "bot_id": "QABMbqsOH8ki_Flc1BiZf",
+        "name": "GogBot",
+        "reason": "persona of a real named individual (David Goggins)",
+        "url": "https://x.ai/bot/QABMbqsOH8ki_Flc1BiZf"
+      },
+      {
+        "bot_id": "QCwGPAlho0dBvBds_IOWF",
+        "name": "Elon Musk (Algorithm & constraint)",
+        "reason": "bot name is a real named individual",
+        "url": "https://x.ai/bot/QCwGPAlho0dBvBds_IOWF"
+      },
+      {
+        "bot_id": "RHAVARMIZex-MMDUrOUbW",
+        "name": "HackBot9000",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW"
+      },
+      {
+        "bot_id": "RbJ2x4neT6ePfZbz22spM",
+        "name": "GEO & SEO Optimierung",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/RbJ2x4neT6ePfZbz22spM"
+      },
+      {
+        "bot_id": "SxlztEUtDeUXOiP26dyDb",
+        "name": "Star Reply",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/SxlztEUtDeUXOiP26dyDb"
+      },
+      {
+        "bot_id": "U-qq-Q-CiWdwRFWk5hmgY",
+        "name": "Elon",
+        "reason": "real named individual + page description is a placeholder ('$3d')",
+        "url": "https://x.ai/bot/U-qq-Q-CiWdwRFWk5hmgY"
+      },
+      {
+        "bot_id": "VslQPtPjI2tgGsskQOhYP",
+        "name": "Send Chad Money",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/VslQPtPjI2tgGsskQOhYP"
+      },
+      {
+        "bot_id": "WNM6of7FpZsKARFA2vsT_",
+        "name": "YieldHunter A2H",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/WNM6of7FpZsKARFA2vsT_"
+      },
+      {
+        "bot_id": "XAUki5gPKNwV8Fd6_FCaO",
+        "name": "da j*bfinder",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/XAUki5gPKNwV8Fd6_FCaO"
+      },
+      {
+        "bot_id": "ZpEX6-GmuMH-4ctEpfyka",
+        "name": "AI Copywriter",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/ZpEX6-GmuMH-4ctEpfyka"
+      },
+      {
+        "bot_id": "bS2mwnm10pWqcms_RzTI0",
+        "name": "Outbound Sales",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/bS2mwnm10pWqcms_RzTI0"
+      },
+      {
+        "bot_id": "cxUln0vqOPK7V3RccS0nm",
+        "name": "Elongated Musketeer",
+        "reason": "real named individual personality proxy (already rejected 2026-09-22)",
+        "url": "https://x.ai/bot/cxUln0vqOPK7V3RccS0nm"
+      },
+      {
+        "bot_id": "hSRFXCKSpKGcBA9q8BOw8",
+        "name": "Survivor",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/hSRFXCKSpKGcBA9q8BOw8"
+      },
+      {
+        "bot_id": "i7hwU3YzCKt_27dK9aCr4",
+        "name": "Easy Flow",
+        "reason": "page description is a placeholder ('$3d')",
+        "url": "https://x.ai/bot/i7hwU3YzCKt_27dK9aCr4"
+      },
+      {
+        "bot_id": "lj8-Co5IA-wbN4T84zK8L",
+        "name": "Meal Planning & Grocery Buying Bot",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/lj8-Co5IA-wbN4T84zK8L"
+      },
+      {
+        "bot_id": "m6f6B1hONvrzPrvFEIw7y",
+        "name": "instagram connector liker follower commenter",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/m6f6B1hONvrzPrvFEIw7y"
+      },
+      {
+        "bot_id": "mK8oApOw3a0zG0m00Ec_h",
+        "name": "InvoiceMatch Recon Bot",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h"
+      },
+      {
+        "bot_id": "mLD9e8gRskQNp6DocBeJZ",
+        "name": "Tower",
+        "reason": "page description is a placeholder ('$3d')",
+        "url": "https://x.ai/bot/mLD9e8gRskQNp6DocBeJZ"
+      },
+      {
+        "bot_id": "oIcq3e3tuwYIaPIkmx0cF",
+        "name": "Invoice Terminator",
+        "reason": "page description is a placeholder ('$3d')",
+        "url": "https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF"
+      },
+      {
+        "bot_id": "p6eYp9BM2aFxQSOtzQX3S",
+        "name": "赛博小晚",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S"
+      },
+      {
+        "bot_id": "pHZMtEXvMaD8QS1jdFJct",
+        "name": "Scout",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/pHZMtEXvMaD8QS1jdFJct"
+      },
+      {
+        "bot_id": "qtuoVRf5etpEVPNA29i7H",
+        "name": "anew",
+        "reason": "page description ('free webpages') too thin to describe the bot",
+        "url": "https://x.ai/bot/qtuoVRf5etpEVPNA29i7H"
+      },
+      {
+        "bot_id": "qwFZeLb9JL2N3rXuM6Fkz",
+        "name": "MaxQ&A Bot",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz"
+      },
+      {
+        "bot_id": "skVoYDfnNUPqUYIxkjXJK",
+        "name": "Elon",
+        "reason": "bot name is a real named individual",
+        "url": "https://x.ai/bot/skVoYDfnNUPqUYIxkjXJK"
+      },
+      {
+        "bot_id": "svjLnMP9tOoZxlFSXJF5b",
+        "name": "Elena",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/svjLnMP9tOoZxlFSXJF5b"
+      },
+      {
+        "bot_id": "t4Gm6emY8YzGKM0BvsF25",
+        "name": "Melon Tusk",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25"
+      },
+      {
+        "bot_id": "tt_GHK8TJHhsK4XHTXRB6",
+        "name": "Meeting join & transcribe",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/tt_GHK8TJHhsK4XHTXRB6"
+      },
+      {
+        "bot_id": "u3jfM8xk_CixZJYKQ0S7u",
+        "name": "Artifact Share",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u"
+      },
+      {
+        "bot_id": "uLsc529aqDnuQDacsDV9g",
+        "name": "Fodda Brand & Account Context Analyst",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/uLsc529aqDnuQDacsDV9g"
+      },
+      {
+        "bot_id": "uaqH_2upECHDL-Pn3cKEY",
+        "name": "One-Page Bid",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/uaqH_2upECHDL-Pn3cKEY"
+      },
+      {
+        "bot_id": "wygP8wogrg509aSev5RMF",
+        "name": "402buyer",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/wygP8wogrg509aSev5RMF"
+      },
+      {
+        "bot_id": "xmtIugWcfHgTDcUofX6rS",
+        "name": "Minecraftクラッシュ解析",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/xmtIugWcfHgTDcUofX6rS"
+      },
+      {
+        "bot_id": "zwEeWhYTRpd1owI5KJwzd",
+        "name": "OpenRouter TTS",
+        "reason": "share url already listed",
+        "url": "https://x.ai/bot/zwEeWhYTRpd1owI5KJwzd"
+      },
+      {
+        "bot_id": "WJc0G06lrr_H9OEyQ8Ijl",
+        "name": "Fantasy Football Manager",
+        "reason": "a 'Fantasy Football Manager' is already listed; same name, different share link — cannot rule out a twin of the listed bot",
+        "url": "https://x.ai/bot/WJc0G06lrr_H9OEyQ8Ijl"
+      },
+      {
+        "bot_id": "Wj3E3oow1J4gjwK4E2vNy",
+        "name": "B",
+        "reason": "page name is the single letter 'B' — nothing identifying to list",
+        "url": "https://x.ai/bot/Wj3E3oow1J4gjwK4E2vNy"
+      },
+      {
+        "bot_id": "nkmFntyGYALNwmUBMXCWj",
+        "name": "Pulse",
+        "reason": "name 'Pulse' already listed three times; cannot rule out a twin of a listed bot without handle-level proof",
+        "url": "https://x.ai/bot/nkmFntyGYALNwmUBMXCWj"
+      }
+    ],
+    "not_shippable": [
+      {
+        "bot_id": "4jtnk5wsk0UMpDSNqG4Oc",
+        "url": "https://x.ai/bot/4jtnk5wsk0UMpDSNqG4Oc",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "4mW5fScg1a",
+        "url": "https://x.ai/bot/4mW5fScg1a",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "5eY-ne8zTXfklIhdOoeAm",
+        "url": "https://x.ai/bot/5eY-ne8zTXfklIhdOoeAm",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "D5A4QbXMACLWWokY4r3i4",
+        "url": "https://x.ai/bot/D5A4QbXMACLWWokY4r3i4",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "Kn0qDWAH3LrNZHhllpPhW",
+        "url": "https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "MqV14jluu59Fvlj1INiLk",
+        "url": "https://x.ai/bot/MqV14jluu59Fvlj1INiLk",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "Pa8G-Ldh5jU_jozWEu2Cs",
+        "url": "https://x.ai/bot/Pa8G-Ldh5jU_jozWEu2Cs",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "QhfOU5SJ60U8g2x2pUFcT",
+        "url": "https://x.ai/bot/QhfOU5SJ60U8g2x2pUFcT",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "Sw67HeNm7RZ4eP-Jn9h-O",
+        "url": "https://x.ai/bot/Sw67HeNm7RZ4eP-Jn9h-O",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "TYiFIZd7djkcCy_wdymgv",
+        "url": "https://x.ai/bot/TYiFIZd7djkcCy_wdymgv",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "Uy2oK9854UViaiO0rQ6nC",
+        "url": "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "WJc0G06lrr_H9OEyQ8Ijl",
+        "url": "https://x.ai/bot/WJc0G06lrr_H9OEyQ8Ijl",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "Wj3E3oow1J4gjwK4E2vNy",
+        "url": "https://x.ai/bot/Wj3E3oow1J4gjwK4E2vNy",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "XHzF-pCl7IYLf05_7vDFU",
+        "url": "https://x.ai/bot/XHzF-pCl7IYLf05_7vDFU",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "ZHNsPcOU8ej_E7VNElxD0",
+        "url": "https://x.ai/bot/ZHNsPcOU8ej_E7VNElxD0",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "dvPHLW8eTN",
+        "url": "https://x.ai/bot/dvPHLW8eTN",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "eAfHja9cbCki3zc7PXXb2",
+        "url": "https://x.ai/bot/eAfHja9cbCki3zc7PXXb2",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "evB30VVYLfCGPxCdKoAuX",
+        "url": "https://x.ai/bot/evB30VVYLfCGPxCdKoAuX",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "fSBU34VR0gqteP3IOAnr8",
+        "url": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "fbfJZmVF5oHghV8XMm2",
+        "url": "https://x.ai/bot/fbfJZmVF5oHghV8XMm2",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "hEmSUvWxccmfAVDGri1R8",
+        "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "kK3YzrnSL7a86H9ASHSqK",
+        "url": "https://x.ai/bot/kK3YzrnSL7a86H9ASHSqK",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "marketplace",
+        "url": "https://x.ai/bot/marketplace",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "nkmFntyGYALNwmUBMXCWj",
+        "url": "https://x.ai/bot/nkmFntyGYALNwmUBMXCWj",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "oowzVaiKyse9a1wwCmHtK4",
+        "url": "https://x.ai/bot/oowzVaiKyse9a1wwCmHtK4",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "pRoDOS3PHZI7JE-Mn4hb6",
+        "url": "https://x.ai/bot/pRoDOS3PHZI7JE-Mn4hb6",
+        "reason": "HTTP 404"
+      },
+      {
+        "bot_id": "sCd3BcjAeQrr77Qrg1waM",
+        "url": "https://x.ai/bot/sCd3BcjAeQrr77Qrg1waM",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "use-cases",
+        "url": "https://x.ai/bot/use-cases",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "abc_DEF-123",
+        "url": "https://x.ai/bot/abc_DEF-123",
+        "reason": "HTTP 404 (placeholder id copied from catalog text, not a real share link)"
+      },
+      {
+        "bot_id": "s9EKFwbfQkmKK9jL44YoP",
+        "url": "https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP",
+        "reason": "live page, no public template behind it (team-only or unpublished share)"
+      },
+      {
+        "bot_id": "marketplace",
+        "url": "https://x.ai/bot/marketplace",
+        "reason": "catalog text contained the URL /bot/marketplace; not a share id"
+      },
+      {
+        "bot_id": "use-cases",
+        "url": "https://x.ai/bot/use-cases",
+        "reason": "catalog text contained the URL /bot/use-cases; not a share id"
+      }
+    ]
+  }
+}
