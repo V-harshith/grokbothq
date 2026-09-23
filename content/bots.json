@@ -31233,5 +31233,200 @@
     "addedAt": "2026-09-23",
     "status": "published",
     "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "connect-multiple-grok-bot-accounts",
+    "name": "Connect multiple Grok Bot accounts",
+    "builder": {
+      "name": "Paulo Gonzalez",
+      "x": ""
+    },
+    "tagline": "Run every Grok Bot seat under the same roof. Install, connect once, and work them all from one place.",
+    "description": "Run every Grok Bot seat under the same roof. Install, connect once, and work them all from one place.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/0ajHw7Ghh8oWELkrhCwxL",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "tera",
+    "name": "Tera",
+    "builder": {
+      "name": "Adam Willard",
+      "x": ""
+    },
+    "tagline": "Warm, short household and personal-ops assistant. Mail glances, morning recaps, calendar help, and everyday follow-through — work first…",
+    "description": "Warm, short household and personal-ops assistant. Mail glances, morning recaps, calendar help, and everyday follow-through — work first, personable with you.",
+    "category": "life",
+    "url": "https://x.ai/bot/B1EPNTh_TsReIL-Y5Q278",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "drop-radar",
+    "name": "Drop Radar",
+    "builder": {
+      "name": "Stephen Pierson",
+      "x": ""
+    },
+    "tagline": "Same-day DTC / beauty competitor product-drop watcher. Scans Amazon, brand sites, and TikTok Shop for new products, collections, and…",
+    "description": "Same-day DTC / beauty competitor product-drop watcher. Scans Amazon, brand sites, and TikTok Shop for new products, collections, and exclusives — quiet when nothing new.",
+    "category": "research",
+    "url": "https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "chief-cameron",
+    "name": "Chief",
+    "builder": {
+      "name": "Cameron",
+      "x": ""
+    },
+    "tagline": "Chief-of-staff operator bot. Owns open loops, drafts replies, runs a morning inbox/calendar scan, and writes current.md after each job.…",
+    "description": "Chief-of-staff operator bot. Owns open loops, drafts replies, runs a morning inbox/calendar scan, and writes current.md after each job. Drafts only unless you approve a specific send.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/UrO63RhN1LGXD3DzoMess",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "tamago",
+    "name": "Tamago",
+    "builder": {
+      "name": "Kamone Ritsuan",
+      "x": ""
+    },
+    "tagline": "品質の高い Grok Bot を設計し作成する担当です。人に見せる日本語には faithful-japanese を常時適用し、作成する Bot にも同じ基準を入れます。",
+    "description": "品質の高い Grok Bot を設計し作成する担当です。人に見せる日本語には faithful-japanese を常時適用し、作成する Bot にも同じ基準を入れます。",
+    "category": "productivity",
+    "url": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "norm",
+    "name": "Norm",
+    "builder": {
+      "name": "Code Solutions",
+      "x": ""
+    },
+    "tagline": "Normalize names and skills across your Grok Bots. One job: help you normalize display names and skills across the Grok Bots you already…",
+    "description": "Normalize names and skills across your Grok Bots. One job: help you normalize display names and skills across the Grok Bots you already have — without inventing new bots or importing someone else's roster.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/afzAN696RpFOIs-9uRTHo",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "spark",
+    "name": "Spark",
+    "builder": {
+      "name": "Stephen Pierson",
+      "x": ""
+    },
+    "tagline": "Idea-probe / eureka interviewer. Dump a half-baked idea or stuck decision; short sharp interview waves until a named insight and next…",
+    "description": "Idea-probe / eureka interviewer. Dump a half-baked idea or stuck decision; short sharp interview waves until a named insight and next experiment land.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/f0W4gAqrCJ0gRHJTlHOao",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "liftoff",
+    "name": "Liftoff",
+    "builder": {
+      "name": "Stephen Pierson",
+      "x": ""
+    },
+    "tagline": "Adds SpaceX launches that lift off within an hour of local sunset to your Google Calendar. Choose pads (Vandenberg + Starbase by default…",
+    "description": "Adds SpaceX launches that lift off within an hour of local sunset to your Google Calendar. Choose pads (Vandenberg + Starbase by default; Cape/KSC optional), then run monthly or on demand.",
+    "category": "life",
+    "url": "https://x.ai/bot/nSNeVcwO0QZOrOdirgRAc",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "dmarc-specialist",
+    "name": "Dmarc Specialist",
+    "builder": {
+      "name": "Brett Evanson",
+      "x": ""
+    },
+    "tagline": "DMARC specialist for email auth and deliverability — reviews aggregate reports, spots real fails vs gateway noise, and guides…",
+    "description": "DMARC specialist for email auth and deliverability — reviews aggregate reports, spots real fails vs gateway noise, and guides SPF/DKIM/DMARC policy from monitor to quarantine to reject.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "roster",
+    "name": "Roster",
+    "builder": {
+      "name": "Jacob Chevalier",
+      "x": ""
+    },
+    "tagline": "Tracks your people, AIs, projects, and tek — and tells you who is stale on what from your own list. Never invents names.",
+    "description": "Tracks your people, AIs, projects, and tek — and tells you who is stale on what from your own list. Never invents names.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "research-harness",
+    "name": "Research Harness",
+    "builder": {
+      "name": "Drew",
+      "x": ""
+    },
+    "tagline": "Wires a research-only harness on your own server or laptop. Stage plan CLIs and scratch rails, then run cited briefs with verified vs…",
+    "description": "Wires a research-only harness on your own server or laptop. Stage plan CLIs and scratch rails, then run cited briefs with verified vs inferred vs UNKNOWN. You own SSH and keys.",
+    "category": "research",
+    "url": "https://x.ai/bot/YkkCbN8-Ubf0FM1BE4i4S",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://x.com/SacredFolio/status/2100039366743568892"
+  },
+  {
+    "slug": "spcx-watch",
+    "name": "SPCX Watch",
+    "builder": {
+      "name": "Quidnam",
+      "x": ""
+    },
+    "tagline": "Weekday pre-market brief for NASDAQ:SPCX (SpaceX). Tracks SEC filings, analyst targets, Starlink licenses, official X accounts, Mach33…",
+    "description": "Weekday pre-market brief for NASDAQ:SPCX (SpaceX). Tracks SEC filings, analyst targets, Starlink licenses, official X accounts, Mach33 research, and AI data-center news. Quiet sections say nothing new.",
+    "category": "money",
+    "url": "https://x.ai/bot/grZdTeKVtXFVtIYEe6g_H",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://x.com/Quidnam/status/2099887054645563412"
+  },
+  {
+    "slug": "buildertrend-invoice-desk",
+    "name": "Buildertrend Invoice Desk",
+    "builder": {
+      "name": "Brian Payton",
+      "x": ""
+    },
+    "tagline": "A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard, and runs spend analytics (including vendor…",
+    "description": "A teammate that pulls home-build invoices from Buildertrend, builds a local dashboard, and runs spend analytics (including vendor deep-dives) from your owner portal.",
+    "category": "money",
+    "url": "https://x.ai/bot/igyfOAUWRXvTZbDj2J__S",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://x.com/Lhp2061004Lhp/status/2100040562497769940"
   }
 ]
