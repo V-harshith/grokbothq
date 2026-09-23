@@ -30843,5 +30843,395 @@
     "addedAt": "2026-09-23",
     "status": "published",
     "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "grok-build-independentdocx",
+    "name": "Grok Build",
+    "builder": {
+      "name": "IndependentDocX",
+      "x": ""
+    },
+    "tagline": "A thin wrapper around the real Grok Build CLI. Hand it coding, apps, scripts, repos, or deep research — it runs the CLI on this computer…",
+    "description": "A thin wrapper around the real Grok Build CLI. Hand it coding, apps, scripts, repos, or deep research — it runs the CLI on this computer, verifies the result, and returns a short report. Never substitutes the chat model for real build work.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/-HSQcnXiifDMwXqkgMix9",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "onboard-bot",
+    "name": "Onboard Bot",
+    "builder": {
+      "name": "JORGE GALEANO",
+      "x": ""
+    },
+    "tagline": "Most people open an AI chat and freeze. Onboard Bot is how you experience Grok Bot — a few questions about your world, something useful…",
+    "description": "Most people open an AI chat and freeze. Onboard Bot is how you experience Grok Bot — a few questions about your world, something useful built right away, then a small named team with real tasks and routines until it feels like home.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/DwV395eKDJOWYtjcqVbAb",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "demo-builder",
+    "name": "Demo builder",
+    "builder": {
+      "name": "Mike Page",
+      "x": ""
+    },
+    "tagline": "Turns an X post or other example link into a functional, playable app demo with a preview you can open and try.",
+    "description": "Turns an X post or other example link into a functional, playable app demo with a preview you can open and try.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Eny_bgU-fpZdifOm_QN-C",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "house-cleaner",
+    "name": "House Cleaner",
+    "builder": {
+      "name": "sza ba",
+      "x": ""
+    },
+    "tagline": "One-click fat-fleet refresh: snapshot memory, guide phone Duplicate, rewire, rename to Name_old, move new bots into live folders and _old…",
+    "description": "One-click fat-fleet refresh: snapshot memory, guide phone Duplicate, rewire, rename to Name_old, move new bots into live folders and _old into old, then set Mentor Tuesday care + Friday fatness.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/GD3ihBmx3ZbfEH0GzNqOT",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "ramp-bot",
+    "name": "Ramp Bot",
+    "builder": {
+      "name": "Matthew Barge",
+      "x": ""
+    },
+    "tagline": "Keeps a Ramp company card unlocked by quietly filling missing receipts and memos. Good for anyone whose org auto-locks cards when…",
+    "description": "Keeps a Ramp company card unlocked by quietly filling missing receipts and memos. Good for anyone whose org auto-locks cards when compliance items lapse.",
+    "category": "money",
+    "url": "https://x.ai/bot/Gx0HlW1t8lTnW2pVn0nKF",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "engineering-loop-pm",
+    "name": "Engineering Loop PM",
+    "builder": {
+      "name": "Ash Naik",
+      "x": ""
+    },
+    "tagline": "Operator for Develop → Diagnose → Deploy. Gates on Design=Done, keeps STATUS in sync, and unlocks specialists when you need more depth.",
+    "description": "Operator for Develop → Diagnose → Deploy. Gates on Design=Done, keeps STATUS in sync, and unlocks specialists when you need more depth.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/IWfeUN5d0Ad8vwfhxQycG",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "kilo",
+    "name": "Kilo",
+    "builder": {
+      "name": "Terry Chapman",
+      "x": ""
+    },
+    "tagline": "Keeps Grok Bot chats small so usage stays lower. Scans chat sizes, refreshes fat bots after you say yes, and nudges weekly with who to…",
+    "description": "Keeps Grok Bot chats small so usage stays lower. Scans chat sizes, refreshes fat bots after you say yes, and nudges weekly with who to refresh.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "astro-jerry",
+    "name": "Astro",
+    "builder": {
+      "name": "Jerry",
+      "x": ""
+    },
+    "tagline": "Calm daily check on SpaceX Starship, space news, and official SpaceX videos—only messages when something is new or interesting.",
+    "description": "Calm daily check on SpaceX Starship, space news, and official SpaceX videos—only messages when something is new or interesting.",
+    "category": "research",
+    "url": "https://x.ai/bot/LtgFNOt7Y-bmSnixM1yAj",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "uk-healthops",
+    "name": "UK HealthOps",
+    "builder": {
+      "name": "Philip Neeson",
+      "x": ""
+    },
+    "tagline": "The gentle nudge that finally gets your health sorted — retaining detailed medical history, reviewing and correlating results over time…",
+    "description": "The gentle nudge that finally gets your health sorted — retaining detailed medical history, reviewing and correlating results over time, and turning every Open worry into a next step so care doesn’t wait another decade.",
+    "category": "life",
+    "url": "https://x.ai/bot/NgVzsPCqf9_qdNWLs9NAQ",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "soulsie-riff",
+    "name": "Soulsie Riff",
+    "builder": {
+      "name": "AdventureNLearn Main",
+      "x": ""
+    },
+    "tagline": "Private joke desk for @OSoulsie’s agent/Grok gag — nuanced spy bit mashed with max dad groaners. For you only. Never posts.",
+    "description": "Private joke desk for @OSoulsie’s agent/Grok gag — nuanced spy bit mashed with max dad groaners. For you only. Never posts.",
+    "category": "creative",
+    "url": "https://x.ai/bot/O-7W0uf0-_raG54kvXQcV",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "kids-activity-scheduler",
+    "name": "Kids Activity Scheduler",
+    "builder": {
+      "name": "Emily Kurokawa",
+      "x": ""
+    },
+    "tagline": "Keeps kids' practices, games, lessons, and private coaching from colliding. Pulls live soccer game updates from PlayMetrics and keeps…",
+    "description": "Keeps kids' practices, games, lessons, and private coaching from colliding. Pulls live soccer game updates from PlayMetrics and keeps print-ready month calendars.",
+    "category": "life",
+    "url": "https://x.ai/bot/OXHJeOy_Iwk5dMCcjdO1v",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "ai-health",
+    "name": "Ai Health",
+    "builder": {
+      "name": "Knut Schevik",
+      "x": ""
+    },
+    "tagline": "Practical coach for sleep, recovery, budget nutrition, and fat loss while keeping sport or training. Built for shift workers and real-world…",
+    "description": "Practical coach for sleep, recovery, budget nutrition, and fat loss while keeping sport or training. Built for shift workers and real-world kitchens, not perfect meal prep.",
+    "category": "life",
+    "url": "https://x.ai/bot/OuHK7dyYD8C6Joqw80yfJ",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "linkedin-agent",
+    "name": "LinkedIn Agent",
+    "builder": {
+      "name": "Scott Metcalf",
+      "x": ""
+    },
+    "tagline": "LinkedIn specialist that audits and rewrites profiles so the current role leads, and runs weekday blank connection-invite batches on a…",
+    "description": "LinkedIn specialist that audits and rewrites profiles so the current role leads, and runs weekday blank connection-invite batches on a signed-in LinkedIn session. Human-in-the-loop on posts, edits, and DMs.",
+    "category": "sales",
+    "url": "https://x.ai/bot/TtbtDOEfnPntO9DWANx3P",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "restauranthero",
+    "name": "RestaurantHero",
+    "builder": {
+      "name": "Everest Claw",
+      "x": ""
+    },
+    "tagline": "Order like a local, not a tourist. Name a restaurant + city for a ~45-second real-menu guide: top 3, Order + Proof links, share card, one…",
+    "description": "Order like a local, not a tourist. Name a restaurant + city for a ~45-second real-menu guide: top 3, Order + Proof links, share card, one Maps link, action picker. Never invents dishes.",
+    "category": "life",
+    "url": "https://x.ai/bot/VpXAZQg8JIr4YbrgwwqCf",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "chief-of-staff-amine",
+    "name": "Chief of Staff",
+    "builder": {
+      "name": "Amine",
+      "x": ""
+    },
+    "tagline": "A Chief of Staff for renovation and contracting operators: calendar and inbox triage, Square invoices, client email with drafts first, and…",
+    "description": "A Chief of Staff for renovation and contracting operators: calendar and inbox triage, Square invoices, client email with drafts first, and weekday routines that stay quiet until something needs you.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/WMLSz9eCswzYR8nPmmxsJ",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "garden-retail-research-specialist",
+    "name": "Garden Retail Research Specialist",
+    "builder": {
+      "name": "derrik telford",
+      "x": ""
+    },
+    "tagline": "Weekly sales intel for people who sell into garden centers: trends, forecast stocking, tech/tools/merch, and real supplier leads…",
+    "description": "Weekly sales intel for people who sell into garden centers: trends, forecast stocking, tech/tools/merch, and real supplier leads — delivered on a Monday cadence.",
+    "category": "research",
+    "url": "https://x.ai/bot/Y8YOrZBsPE8U-jyTI7Qtk",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "codex",
+    "name": "Codex",
+    "builder": {
+      "name": "IndependentDocX",
+      "x": ""
+    },
+    "tagline": "Thin wrapper around the real Codex CLI. Takes a coding or deep-research task, runs it through Codex on your computer, and returns the CLI…",
+    "description": "Thin wrapper around the real Codex CLI. Takes a coding or deep-research task, runs it through Codex on your computer, and returns the CLI result — without substituting the chat model.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/aUHkBXXwCzljCcTJSzBYw",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "sharenow-bot",
+    "name": "ShareNow Bot",
+    "builder": {
+      "name": "Sheing Ng",
+      "x": ""
+    },
+    "tagline": "Builds clean static pages from your topic or content and publishes them to ShareNow.today. Can also spin up optional hourly topic boards…",
+    "description": "Builds clean static pages from your topic or content and publishes them to ShareNow.today. Can also spin up optional hourly topic boards when you ask. Needs a ShareNow All Access plan (trial is fine) and Treg for live research.",
+    "category": "creative",
+    "url": "https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "business-loop-pm",
+    "name": "Business Loop PM",
+    "builder": {
+      "name": "Ash Naik",
+      "x": ""
+    },
+    "tagline": "Operates Acquire → Monetize → Retain for Launch (Level 1 Solopreneur Pack). Gates on Deployment=Done and human-approved Offer + Price…",
+    "description": "Operates Acquire → Monetize → Retain for Launch (Level 1 Solopreneur Pack). Gates on Deployment=Done and human-approved Offer + Price; never invents leads.",
+    "category": "money",
+    "url": "https://x.ai/bot/buqKPC6jkQxBPdY93HL-w",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "flip",
+    "name": "Flip",
+    "builder": {
+      "name": "Connor McDonnell",
+      "x": ""
+    },
+    "tagline": "Domain Flip Operator. Takes parked domains, ships a narrow live offer fast, runs SEO and conversion until cash shows, and kills what does…",
+    "description": "Domain Flip Operator. Takes parked domains, ships a narrow live offer fast, runs SEO and conversion until cash shows, and kills what does not print.",
+    "category": "money",
+    "url": "https://x.ai/bot/cgaQkN_5O5NtWep6-c0Ll",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "product-loop-pm",
+    "name": "Product Loop PM",
+    "builder": {
+      "name": "Ash Naik",
+      "x": ""
+    },
+    "tagline": "Runs Discover → Define → Design for Launch. Keeps STATUS in sync, refuses to skip gates, and hands off to Engineering or Business Loop when…",
+    "description": "Runs Discover → Define → Design for Launch. Keeps STATUS in sync, refuses to skip gates, and hands off to Engineering or Business Loop when Design is done.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/eb1UwzjTfdNsYRfUh599j",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "ime-chart-review",
+    "name": "IME Chart Review",
+    "builder": {
+      "name": "Emily Kurokawa",
+      "x": ""
+    },
+    "tagline": "Reviews and summarizes medical reports and charts for pain and personal-injury practices — grammar, pain scores, complaint elements, and…",
+    "description": "Reviews and summarizes medical reports and charts for pain and personal-injury practices — grammar, pain scores, complaint elements, and physician-voice IME drafts with affirmative findings only. HIPAA-aware: the template carries no patient identifiers; work from charts you attach privately.",
+    "category": "research",
+    "url": "https://x.ai/bot/jYajAanyKBO7aTMQ3zxUL",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "xgas-superchain-dapp-supercycle",
+    "name": "xGas Superchain dApp Supercycle",
+    "builder": {
+      "name": "Jarett Reginald Stewart Dunn",
+      "x": ""
+    },
+    "tagline": "Sends you to https://xgas.dev/auth/x/login on your machine, wires your HOST CONFIG MCP to your Privy wallet, funds if needed, explains real…",
+    "description": "Sends you to https://xgas.dev/auth/x/login on your machine, wires your HOST CONFIG MCP to your Privy wallet, funds if needed, explains real staccpad/xGas tech ($xMoney≠NGU), then runs a live e2e on the lane you pick.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/py3cDcRaSgRj_ixBOK3XN",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "media-manager",
+    "name": "Media Manager",
+    "builder": {
+      "name": "Matt Palmer",
+      "x": ""
+    },
+    "tagline": "Owns a YouTube channel's post-upload work: transcribe, captions, chapter timestamps, titles, descriptions, and thumbnails so you never open…",
+    "description": "Owns a YouTube channel's post-upload work: transcribe, captions, chapter timestamps, titles, descriptions, and thumbnails so you never open YouTube Studio by hand.",
+    "category": "creative",
+    "url": "https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "scroll",
+    "name": "Scroll",
+    "builder": {
+      "name": "Serg Arouch",
+      "x": ""
+    },
+    "tagline": "X Following highlights scout. Skims Home → Following (Most recent) and sends short weekday digests of the best posts — author, why it…",
+    "description": "X Following highlights scout. Skims Home → Following (Most recent) and sends short weekday digests of the best posts — author, why it matters, link. Never For You, never engagement.",
+    "category": "research",
+    "url": "https://x.ai/bot/sX5M7dv2lxhG7V_utytG7",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "routines",
+    "name": "Routines",
+    "builder": {
+      "name": "Neessam",
+      "x": ""
+    },
+    "tagline": "Owns standing cron routines so your chief-of-staff chat stays cheap. Business-day quiet gates, a cheap heartbeat, and optional usage-pulse…",
+    "description": "Owns standing cron routines so your chief-of-staff chat stays cheap. Business-day quiet gates, a cheap heartbeat, and optional usage-pulse wakes.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/tes3TMV3WjinLazIM9N_n",
+    "addedAt": "2026-09-23",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
   }
 ]

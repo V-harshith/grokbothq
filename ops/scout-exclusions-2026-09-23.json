@@ -526,6 +526,15 @@
         "url": "https://x.ai/bot/use-cases",
         "reason": "catalog text contained the URL /bot/use-cases; not a share id"
       }
+    ],
+    "pass_1137_verified_but_skipped": [
+      {
+        "bot_id": "fY1xwWCLzDDGVe3GwH78j",
+        "name": "Lingxi's Engineer Bot",
+        "sharer": "Lingxi Li",
+        "url": "https://x.ai/bot/fY1xwWCLzDDGVe3GwH78j",
+        "reason": "duplicate of listed lingxis-engineer-bot (same builder, near-identical description; already carried at https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_)"
+      }
     ]
   }
 }
