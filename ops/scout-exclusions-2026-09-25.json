@@ -1,0 +1,146 @@
+{
+  "run": "2026-09-25 scout pass (cron 359022f62495, started 2026-09-24 23:59 IST)",
+  "branch": "ops/scout-pending (single accumulating PR)",
+  "method": "Every x.ai/bot link was opened live; a listing was written only when the page rendered a real template (name + description) and the record was traceable to a creator handle. Zero paid API calls.",
+  "counts": {
+    "directories_walked": 4,
+    "links_opened": 42,
+    "added_to_directory": 21,
+    "duplicate_of_existing": 11,
+    "not_added": 7
+  },
+  "duplicate_of_existing": [
+    {
+      "bot_id": "c47Jj2QSSR1UXEcuBgUtQ",
+      "name": "Home robots",
+      "url": "https://x.ai/bot/c47Jj2QSSR1UXEcuBgUtQ",
+      "duplicate_of": "home-robots (existing x.ai/bot link still live)",
+      "creator_handle": "SawyerMerritt",
+      "reason": "same creator"
+    },
+    {
+      "bot_id": "-L1yFJ5mtwPgn3O_iYUo_",
+      "name": "Clip Bot",
+      "url": "https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_",
+      "duplicate_of": "clip-bot (existing x.ai/bot link still live)",
+      "creator_handle": "ThisWeeknAI",
+      "reason": "same creator"
+    },
+    {
+      "bot_id": "-hmCmHB0ynJGvSKxeINfS",
+      "name": "tinkabot",
+      "url": "https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS",
+      "duplicate_of": "tinkabot (existing x.ai/bot link still live)",
+      "creator_handle": "poteto",
+      "reason": "same creator"
+    },
+    {
+      "bot_id": "0LLQmzk-yzwHi0zuiV0lC",
+      "name": "Nightly Audit Engineer",
+      "url": "https://x.ai/bot/0LLQmzk-yzwHi0zuiV0lC",
+      "duplicate_of": "nightly-audit-engineer (existing x.ai/bot link still live)",
+      "creator_handle": "lingxi",
+      "reason": "same creator"
+    },
+    {
+      "bot_id": "pXNvc_U2cGyZmheYrUuF_",
+      "name": "figma bro",
+      "url": "https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_",
+      "duplicate_of": "figma-bro (existing x.ai/bot link still live)",
+      "creator_handle": "johnbai",
+      "reason": "same creator"
+    },
+    {
+      "bot_id": "TxB-fy1KryaYJLYWBcGtT",
+      "name": "last30days",
+      "url": "https://x.ai/bot/TxB-fy1KryaYJLYWBcGtT",
+      "duplicate_of": "last30days (existing x.ai/bot link still live)",
+      "creator_handle": "mvanhorn",
+      "reason": "identical description"
+    },
+    {
+      "bot_id": "i2hvaEONDg6_gEF5C9RlK",
+      "name": "Researchy",
+      "url": "https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK",
+      "duplicate_of": "researchy (existing x.ai/bot link still live)",
+      "creator_handle": "farzyness",
+      "reason": "identical description"
+    },
+    {
+      "bot_id": "ph-u_zkF5Vui1GdGnysn9",
+      "name": "Product Idea Stress Test",
+      "url": "https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9",
+      "duplicate_of": "product-idea-stress-test (existing x.ai/bot link still live)",
+      "creator_handle": "hnshah",
+      "reason": "identical description"
+    },
+    {
+      "bot_id": "q4u8YgzGQqCAOUZcg0Lgt",
+      "name": "Credit Card Max",
+      "url": "https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt",
+      "duplicate_of": "credit-card-max (existing x.ai/bot link still live)",
+      "creator_handle": "trevin",
+      "reason": "identical description"
+    },
+    {
+      "bot_id": "4mOGY7Nd_mRvrwZYec4Jq",
+      "name": "The List",
+      "url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+      "duplicate_of": "the-list (existing x.ai/bot link still live)",
+      "creator_handle": "GrokBotGod",
+      "reason": "identical description"
+    },
+    {
+      "bot_id": "Ed-L-mUFR_9nR2BYMssNF",
+      "name": "Chef Chad",
+      "url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
+      "duplicate_of": "chef-chad (existing x.ai/bot link still live)",
+      "creator_handle": "RRomanoly",
+      "reason": "same bot name; the listed copy credits a different account (Llama Mama)"
+    }
+  ],
+  "not_added": [
+    {
+      "bot_id": "Pa8G-Ldh5jU_jozWEu2Cs",
+      "name": "Grok Bot (blank template)",
+      "url": "https://x.ai/bot/Pa8G-Ldh5jU_jozWEu2Cs",
+      "reason": "200 but no share record on the page; the record only carries the stock line \"Use this template to create a new bot\""
+    },
+    {
+      "bot_id": "Uy2oK9854UViaiO0rQ6nC",
+      "name": "Grok Bot (blank template)",
+      "url": "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+      "reason": "same as above — stock boilerplate, nothing to list"
+    },
+    {
+      "bot_id": "hEmSUvWxccmfAVDGri1R8",
+      "name": "Grok Bot (blank template)",
+      "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
+      "reason": "same as above — stock boilerplate, nothing to list"
+    },
+    {
+      "bot_id": "QCwGPAlho0dBvBds_IOWF",
+      "name": "Elon Musk (Algorithm & constraint)",
+      "url": "https://x.ai/bot/QCwGPAlho0dBvBds_IOWF",
+      "reason": "persona of a real named individual — same rule that kept the earlier \"Elon Musk\" and \"Steve Jobs\" templates out"
+    },
+    {
+      "bot_id": "MT6acytP70wHR526vPvM3",
+      "name": "Grok Bot",
+      "url": "https://x.ai/bot/MT6acytP70wHR526vPvM3",
+      "reason": "third-party template named exactly \"Grok Bot\" — listing it under that name would read as an xAI/ SpaceXAI template"
+    },
+    {
+      "bot_id": "qtuoVRf5etpEVPNA29i7H",
+      "name": "anew",
+      "url": "https://x.ai/bot/qtuoVRf5etpEVPNA29i7H",
+      "reason": "creator's description is the two words \"free webpages\" — nothing factual to write a listing from"
+    },
+    {
+      "bot_id": "v-anNtCSU16DhOT6XDOpn",
+      "name": "Carson",
+      "url": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+      "reason": "200 but no share record (draft or team-only template) — reviewed 2026-09-23 and still not installable by link"
+    }
+  ]
+}
