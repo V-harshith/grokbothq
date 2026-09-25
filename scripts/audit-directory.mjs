@@ -12,6 +12,12 @@
 //      have nothing. Handles are never guessed: a wrong handle is worse than a
 //      missing one.
 //
+// A non-200 is never taken at face value: the 24-worker burst makes x.ai answer
+// 500 for a single listing now and then, and delisting a live bot over one bad
+// fetch is a silent data loss (it happened: chained-oblivion-loekv1, 2026-09-25).
+// Every failure is re-fetched alone, twice, before it counts as dead — so the
+// URL has to be unreachable three times in a row to leave the directory.
+//
 // Written for the daily-ops cron. No dependencies; Node 22 global fetch.
 
 import { readFileSync, writeFileSync } from "node:fs";
@@ -26,17 +32,31 @@ const all = JSON.parse(readFileSync(BOTS, "utf8"));
 const published = all.filter((b) => b.status !== "pending").slice(0, LIMIT);
 
 const UA = "Mozilla/5.0 (compatible; grokbothq-audit/1.0; +https://grokbothq.xyz)";
+const RETRIES = 2; // extra lone attempts before a non-200 counts as dead
+const RETRY_DELAY_MS = 2500;
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+async function fetchOnce(bot) {
+  const res = await fetch(bot.url, { headers: { "user-agent": UA } });
+  if (res.status !== 200) return { bot, code: res.status };
+  const html = await res.text();
+  const sharer = html.match(/\\"sharerName\\":\\"([^"\\]{1,80})\\"/) ?? html.match(/"sharerName":"([^"]{1,80})"/);
+  return { bot, code: 200, sharer: sharer?.[1] ?? null };
+}
 
 async function check(bot) {
-  try {
-    const res = await fetch(bot.url, { headers: { "user-agent": UA } });
-    if (res.status !== 200) return { bot, code: res.status };
-    const html = await res.text();
-    const sharer = html.match(/\\"sharerName\\":\\"([^"\\]{1,80})\\"/) ?? html.match(/"sharerName":"([^"]{1,80})"/);
-    return { bot, code: 200, sharer: sharer?.[1] ?? null };
-  } catch (error) {
-    return { bot, code: error.name };
+  let last = null;
+  for (let attempt = 0; attempt <= RETRIES; attempt += 1) {
+    if (attempt > 0) await sleep(RETRY_DELAY_MS * attempt);
+    try {
+      last = { ...(await fetchOnce(bot)), attempts: attempt + 1 };
+    } catch (error) {
+      last = { bot, code: error.name, attempts: attempt + 1 };
+    }
+    if (last.code === 200) return last;
   }
+  return last;
 }
 
 const results = [];
@@ -51,10 +71,15 @@ await Promise.all(workers);
 
 const dead = results.filter((r) => r.code !== 200);
 const named = results.filter((r) => r.code === 200 && r.sharer && !(r.bot.builder ?? {}).name);
+const retried = results.filter((r) => (r.attempts ?? 1) > 1);
+const recovered = retried.filter((r) => r.code === 200);
 
 console.log(`audited ${results.length} published listings`);
 console.log(`  live 200      : ${results.length - dead.length}`);
-console.log(`  failing       : ${dead.length}${dead.length ? " -> " + dead.map((d) => `${d.bot.slug} (${d.code})`).join(", ") : ""}`);
+console.log(
+  `  failing       : ${dead.length}${dead.length ? " -> " + dead.map((d) => `${d.bot.slug} (${d.code} x${d.attempts ?? 1})`).join(", ") : ""}`
+);
+console.log(`  retried after a non-200 : ${retried.length}${retried.length ? ` -> ${recovered.length} recovered, ${retried.length - recovered.length} confirmed dead` : ""}`);
 console.log(`  builder name recoverable from x.ai sharerName : ${named.length}`);
 
 if (FIX && (dead.length || named.length)) {
@@ -74,7 +99,7 @@ if (FIX && (dead.length || named.length)) {
       filled += 1;
     }
   }
-  writeFileSync(BOTS, JSON.stringify(all, null, 2));
+  writeFileSync(BOTS, JSON.stringify(all, null, 2) + "\n");
   console.log(`  --fix applied : ${delisted} delisted, ${filled} builder names filled`);
   process.exit(delisted > 0 ? 2 : 0);
 }
