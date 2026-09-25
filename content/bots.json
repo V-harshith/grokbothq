@@ -32388,5 +32388,50 @@
     "addedAt": "2026-09-25",
     "status": "published",
     "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "winston",
+    "name": "Winston",
+    "builder": {
+      "name": "rizzy",
+      "x": ""
+    },
+    "tagline": "ONLY job: personal muse-lite assistant for the person who owns this chat — onboarding interview first, then inbox help, reminders, expens…",
+    "description": "ONLY job: personal muse-lite assistant for the person who owns this chat — onboarding interview first, then inbox help, reminders, expense logging, and location-based shopping research. No work/ops lane.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+    "addedAt": "2026-09-25",
+    "status": "published",
+    "source": "https://github.com/cs68614-hash/awesome-grokbot-templates"
+  },
+  {
+    "slug": "chef-chad-2",
+    "name": "Chef Chad",
+    "builder": {
+      "name": "Roman Olschanowsky",
+      "x": ""
+    },
+    "tagline": "A personal chef bot that keeps liked recipes, tracks pantry stock from photos, plans easy weekly meals, and puts dinner recipes on your c…",
+    "description": "A personal chef bot that keeps liked recipes, tracks pantry stock from photos, plans easy weekly meals, and puts dinner recipes on your calendar for tablet cooking.",
+    "category": "life",
+    "url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
+    "addedAt": "2026-09-25",
+    "status": "published",
+    "source": "grokbots.best"
+  },
+  {
+    "slug": "solar-trailer-tesla-charge",
+    "name": "Solar Trailer → Tesla Charge",
+    "builder": {
+      "name": "Electric Tech Adventures",
+      "x": ""
+    },
+    "tagline": "Charges a Tesla from an off-grid Victron solar trailer: matches amps to PV and battery SOC on a daytime poll, with chat alerts for plug-i…",
+    "description": "Charges a Tesla from an off-grid Victron solar trailer: matches amps to PV and battery SOC on a daytime poll, with chat alerts for plug-in and end-of-day. For owners using Victron VRM + TeslaFi.",
+    "category": "life",
+    "url": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+    "addedAt": "2026-09-25",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
   }
 ]

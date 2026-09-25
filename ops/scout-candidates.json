@@ -1,55 +1,5 @@
 [
   {
-    "name": "Mono Lisa",
-    "bot_id": "1SnvqJd1RMwYsWdwh8kYI",
-    "url": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
-    "builder_x_handle": "felixleezd",
-    "one_line_desc": "Daily product design partner: turns an Amplitude cliff into a first-principles Linear ticket with an inline cliff chart plus three…",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "X bot",
-    "bot_id": "8OqqCibnjW8m8cgdn3Qyl",
-    "url": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
-    "builder_x_handle": "scottxmetcalf",
-    "one_line_desc": "Owns your X growth loop — weekday reply and follow packs, weekly reach tracking, and paste-ready drafts. Nothing goes live without your yes.",
-    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Chuck",
-    "bot_id": "CqQQXo05k79ukSLCubxfj",
-    "url": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
-    "builder_x_handle": "veetharag",
-    "one_line_desc": "Unsubscribes from promotional and marketing email so the inbox mostly keeps personal mail and purchase receipts. Clears stale OTPs, and…",
-    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Weekly Usage",
-    "bot_id": "TEWOTNV18AmN4GtqjtUSv",
-    "url": "https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv",
-    "builder_x_handle": "",
-    "one_line_desc": "Easy glance at your weekly Grok Bot usage on the Grok Bot computer via BigUwidget — with optional weekly cards for Grok, AGY, and ChatGPT.…",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Grocery Bot",
-    "bot_id": "_SRTioxlU87XALDdBXsie",
-    "url": "https://x.ai/bot/_SRTioxlU87XALDdBXsie",
-    "builder_x_handle": "thelaurahuang",
-    "one_line_desc": "Builds weekly Whole Foods and Instacart grocery carts, skips vacation weeks, and can watch a meat subscription — prepare only, never…",
-    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
     "name": "Peep.txt",
     "bot_id": "eZU8NymXZIN_5vJd2xrYZ",
     "url": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
@@ -498,5 +448,55 @@
     "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
     "found_at": "2026-09-25T06:28:09+05:30",
     "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Winston",
+    "bot_id": "pRajEKa4qSHU5-o72V3e3",
+    "url": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+    "builder_x_handle": "",
+    "one_line_desc": "Personal muse-lite assistant: onboarding interview, then inbox help, reminders, expense logging, location-based shopping research.",
+    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "found_at": "2026-09-25T18:48:36+05:30",
+    "status": "added to directory in ops/scout-pending (18:58 pass, PR #81)"
+  },
+  {
+    "name": "Chef Chad",
+    "bot_id": "Ed-L-mUFR_9nR2BYMssNF",
+    "url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
+    "builder_x_handle": "",
+    "one_line_desc": "Personal chef bot: liked recipes, pantry stock from photos, weekly meal plans, dinner recipes on the calendar for tablet cooking.",
+    "source_post_url": "grokbots.best",
+    "found_at": "2026-09-25T18:48:36+05:30",
+    "status": "added to directory in ops/scout-pending (18:58 pass, PR #81)"
+  },
+  {
+    "name": "Solar Trailer → Tesla Charge",
+    "bot_id": "l1UJtFYw-3KTHuGvjROIN",
+    "url": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+    "builder_x_handle": "",
+    "one_line_desc": "Charges a Tesla from an off-grid Victron solar trailer; amps matched to PV and battery SOC with chat alerts.",
+    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-25T18:48:36+05:30",
+    "status": "added to directory in ops/scout-pending (18:58 pass, PR #81)"
+  },
+  {
+    "name": "Fantasy Football Manager",
+    "bot_id": "WJc0G06lrr_H9OEyQ8Ijl",
+    "url": "https://x.ai/bot/WJc0G06lrr_H9OEyQ8Ijl",
+    "builder_x_handle": "",
+    "one_line_desc": "Weekly ESPN fantasy football coach - start/sit, injury clears, waiver advice in half PPR.",
+    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "found_at": "2026-09-25T18:48:36+05:30",
+    "status": "held - share record carries no sharerName, so the builder is unverifiable"
+  },
+  {
+    "name": "Pulse",
+    "bot_id": "nkmFntyGYALNwmUBMXCWj",
+    "url": "https://x.ai/bot/nkmFntyGYALNwmUBMXCWj",
+    "builder_x_handle": "",
+    "one_line_desc": "Vision-first work-health balance coach: gym snaps, meal labels, calendar shots in; green/yellow/red plan out.",
+    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+    "found_at": "2026-09-25T18:48:36+05:30",
+    "status": "held - share record carries no sharerName, so the builder is unverifiable"
   }
 ]
