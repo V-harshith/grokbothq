@@ -1,5 +1,28 @@
 [
   {
+    "name": "Weekly Recap",
+    "bot_id": "-BWpMRidNVEjHFqOtol0Q",
+    "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+    "builder_x_handle": "",
+    "one_line_desc": "Drafts an honest weekly recap of what you and your bots actually did, from bots, routines, calendar, GitHub and notes - drafts only, never posts.",
+    "source_post_url": "https://x.com/Christian_O91/status/2103347545900507549",
+    "found_at": "2026-09-26T01:01:09+05:30",
+    "status": "verified live (200 + share record), queued - the 18:45 hold was our extractor truncating the description at an escaped quote (7 chars read, 236 chars live); no push this pass because the >=3 gate was not met",
+    "slug_suggestion": "weekly-recap"
+  },
+  {
+    "name": "AI 资讯精选",
+    "bot_id": "D6WMfjHcTnMwm0XS0MFLs",
+    "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
+    "builder_x_handle": "maiyangai",
+    "one_line_desc": "Weekday-scheduled screener of AI product and tool updates, pushed as short human-sounding notes; stays quiet when there is not enough material.",
+    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "found_at": "2026-09-26T01:01:09+05:30",
+    "status": "verified live (200 + share record, sharer 'Mai Yang' corroborated by handle maiyangai), queued - held at 18:45 as a non-ASCII name; the directory already carries 83 non-Latin names, so the hold is procedural only and the description below is translated from the creator's own text",
+    "description_en": "On weekdays, screens AI product and tool updates on a schedule and pushes short, plain-language notes; stays quiet when there is not enough material. For people who want less news scroll and to follow Cursor, Claude and Chinese model releases.",
+    "slug_suggestion": "ai-news-picks"
+  },
+  {
     "name": "Peep.txt",
     "bot_id": "eZU8NymXZIN_5vJd2xrYZ",
     "url": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
@@ -38,26 +61,6 @@
     "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
     "found_at": "2026-09-25T18:43:56+05:30",
     "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Weekly Recap",
-    "bot_id": "-BWpMRidNVEjHFqOtol0Q",
-    "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
-    "builder_x_handle": "",
-    "one_line_desc": "live description is a placeholder (7 chars)",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "verified live, not listed"
-  },
-  {
-    "name": "AI 资讯精选",
-    "bot_id": "D6WMfjHcTnMwm0XS0MFLs",
-    "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
-    "builder_x_handle": "",
-    "one_line_desc": "non-ASCII name — needs a dedicated translation pass",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "verified live, not listed"
   },
   {
     "name": "Full-Spectrum Law Firm OS",
