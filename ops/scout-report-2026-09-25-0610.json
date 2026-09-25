@@ -1,0 +1,1150 @@
+{
+ "run": "2026-09-25 06:10 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending",
+ "method": "Live fetch of every candidate x.ai/bot link (HTTP 200 + share record with botName and description). Zero paid API calls: web_search + api.fxtwitter.com + curl only.",
+ "counts": {
+  "candidates_screened": 191,
+  "live_templates": 195,
+  "added_to_directory": 34,
+  "held_or_dropped": 158
+ },
+ "added": [
+  {
+   "name": "ACCC Desk",
+   "slug": "accc-desk",
+   "url": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+   "category": "research",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Carson",
+   "slug": "carson",
+   "url": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+   "category": "assistants",
+   "builder": {
+    "name": "aarwen7",
+    "x": ""
+   }
+  },
+  {
+   "name": "FaStart CEO Bot",
+   "slug": "fastart-ceo-bot",
+   "url": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+   "category": "assistants",
+   "builder": {
+    "name": "Enes Özkan",
+    "x": ""
+   }
+  },
+  {
+   "name": "Legal Advisor",
+   "slug": "legal-advisor",
+   "url": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+   "category": "research",
+   "builder": {
+    "name": "XPixel",
+    "x": ""
+   }
+  },
+  {
+   "name": "Miffy - Maintenance Triage",
+   "slug": "miffy-maintenance-triage",
+   "url": "https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A",
+   "category": "productivity",
+   "builder": {
+    "name": "Miffy",
+    "x": ""
+   }
+  },
+  {
+   "name": "Number One",
+   "slug": "number-one",
+   "url": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+   "category": "productivity",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Zenith",
+   "slug": "zenith",
+   "url": "https://x.ai/bot/gZPPC04qoRf1pA71ubiYi",
+   "category": "assistants",
+   "builder": {
+    "name": "Jolene Barletta",
+    "x": ""
+   }
+  },
+  {
+   "name": "Claude Local",
+   "slug": "claude-local",
+   "url": "https://x.ai/bot/fr9HmL9bHAC2kjyi1dI6C",
+   "category": "engineering",
+   "builder": {
+    "name": "Seth Gagnon",
+    "x": ""
+   }
+  },
+  {
+   "name": "Fleet QC",
+   "slug": "fleet-qc",
+   "url": "https://x.ai/bot/I-Z5352OxR_YS5AEburah",
+   "category": "productivity",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Pit Crew",
+   "slug": "pit-crew",
+   "url": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+   "category": "productivity",
+   "builder": {
+    "name": "Scott Metcalf",
+    "x": ""
+   }
+  },
+  {
+   "name": "Plan Precheck Bot",
+   "slug": "plan-precheck-bot",
+   "url": "https://x.ai/bot/2AX61eyWkS5Z2JzMrgv7E",
+   "category": "productivity",
+   "builder": {
+    "name": "Tina Shao",
+    "x": ""
+   }
+  },
+  {
+   "name": "Resource Allocation",
+   "slug": "resource-allocation",
+   "url": "https://x.ai/bot/sS9X9mXci7Gz7L0gc0JrA",
+   "category": "productivity",
+   "builder": {
+    "name": "Crackyflipside",
+    "x": "crackyflipside"
+   }
+  },
+  {
+   "name": "Vibe Check",
+   "slug": "vibe-check",
+   "url": "https://x.ai/bot/CPOWEqxmLfmSsiMnw2qlD",
+   "category": "productivity",
+   "builder": {
+    "name": "Abby Nelson",
+    "x": ""
+   }
+  },
+  {
+   "name": "Xcode release watcher",
+   "slug": "xcode-release-watcher",
+   "url": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
+   "category": "engineering",
+   "builder": {
+    "name": "Natasha Robot",
+    "x": ""
+   }
+  },
+  {
+   "name": "Cite Desk",
+   "slug": "cite-desk",
+   "url": "https://x.ai/bot/RRrKgAtNJ1Zdl8QTUkipi",
+   "category": "research",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "MediaDeconstructor",
+   "slug": "mediadeconstructor",
+   "url": "https://x.ai/bot/R426aIhME68m8-MOd_zPd",
+   "category": "creative",
+   "builder": {
+    "name": "Decibel Coopertino",
+    "x": ""
+   }
+  },
+  {
+   "name": "Texas Lawyer",
+   "slug": "texas-lawyer",
+   "url": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+   "category": "research",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Insurance LinkedIn Desk",
+   "slug": "insurance-linkedin-desk",
+   "url": "https://x.ai/bot/H8RbeHK0_q89uVZc2NiW0",
+   "category": "creative",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Review Desk",
+   "slug": "review-desk",
+   "url": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+   "category": "creative",
+   "builder": {
+    "name": "Liftably",
+    "x": ""
+   }
+  },
+  {
+   "name": "Stale Leads Closer",
+   "slug": "stale-leads-closer",
+   "url": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+   "category": "sales",
+   "builder": {
+    "name": "Roberto Garza 🇻🇦",
+    "x": ""
+   }
+  },
+  {
+   "name": "X Master",
+   "slug": "x-master",
+   "url": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+   "category": "creative",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Content Calendar",
+   "slug": "content-calendar",
+   "url": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+   "category": "creative",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Handel",
+   "slug": "handel",
+   "url": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+   "category": "creative",
+   "builder": {
+    "name": "Eugene Ray",
+    "x": ""
+   }
+  },
+  {
+   "name": "Independent Author Hub",
+   "slug": "independent-author-hub",
+   "url": "https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8",
+   "category": "productivity",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Open Call Producer",
+   "slug": "open-call-producer",
+   "url": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+   "category": "creative",
+   "builder": {
+    "name": "Aleksandr Nariadchikov",
+    "x": ""
+   }
+  },
+  {
+   "name": "Presentation Coach",
+   "slug": "presentation-coach",
+   "url": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+   "category": "creative",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Wirey",
+   "slug": "wirey",
+   "url": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+   "category": "research",
+   "builder": {
+    "name": "Farzad",
+    "x": ""
+   }
+  },
+  {
+   "name": "Worldsmith",
+   "slug": "worldsmith",
+   "url": "https://x.ai/bot/N21yaS0hjGDUnqERh6UeX",
+   "category": "creative",
+   "builder": {
+    "name": "Travis Boatman",
+    "x": ""
+   }
+  },
+  {
+   "name": "Everyone",
+   "slug": "everyone",
+   "url": "https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu",
+   "category": "productivity",
+   "builder": {
+    "name": "Liam",
+    "x": ""
+   }
+  },
+  {
+   "name": "Newt",
+   "slug": "newt",
+   "url": "https://x.ai/bot/l2X92A_HyqiLTIVbz7F7L",
+   "category": "life",
+   "builder": {
+    "name": "FireSmoke",
+    "x": ""
+   }
+  },
+  {
+   "name": "Obi",
+   "slug": "obi",
+   "url": "https://x.ai/bot/7nAKZM0Wz9NXUcMg2sMNm",
+   "category": "engineering",
+   "builder": {
+    "name": "I'm not an alien, I promise.",
+    "x": ""
+   }
+  },
+  {
+   "name": "Shop Bot",
+   "slug": "shop-bot",
+   "url": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+   "category": "life",
+   "builder": {
+    "name": "paranoidream ♡︎",
+    "x": ""
+   }
+  },
+  {
+   "name": "Travel Desk",
+   "slug": "travel-desk",
+   "url": "https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu",
+   "category": "productivity",
+   "builder": {
+    "name": "ladybarrelmaker",
+    "x": "ladybarrelmaker"
+   }
+  },
+  {
+   "name": "Adam",
+   "slug": "adam-2",
+   "url": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+   "category": "assistants",
+   "builder": {
+    "name": "Ed Tan",
+    "x": ""
+   }
+  }
+ ],
+ "held_back": [
+  {
+   "name": "Calendar Coordinator",
+   "bot_id": "s634fd63ee875502d8df9",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Grok Election Campaign Bot by Mash Zahid",
+   "bot_id": "rWEae0MHDEjOU_XlacLOO",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "CareerOps Desk",
+   "bot_id": "qhNfEBreA8mJIYklpdW3d",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Goal Getter",
+   "bot_id": "L_Jo-M00K98MdB1xrSYSi",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "company talk",
+   "bot_id": "lAptf_5PxlSgx4w-L9uMt",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "CREW CHIEF",
+   "bot_id": "o1WooIlDtZTeyXf9sigG-",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Substantive Reply Watch",
+   "bot_id": "dIrtejdsNBAEb2dy4GfYC",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Daily Briefing Writer",
+   "bot_id": "sb94d44175e650dbb703e",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Astrid",
+   "bot_id": "2oOAoNU5Xu5nQSBU6xEtl",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Free Contest",
+   "bot_id": "duPnEjDq9SYTK2nAyPDj4",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Grok",
+   "bot_id": "XGIep-r89FqSquTEKtd1f",
+   "reason": "self-described Grok persona clone — implies it is the platform's own assistant"
+  },
+  {
+   "name": "Hiring Screener",
+   "bot_id": "scfddc8ad204a669484d0",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Internal Communications Manager",
+   "bot_id": "s066a9145d936e74d0c80",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Jarvis",
+   "bot_id": "-NLC5Rw6GnPvrS4KOBwL2",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Jarvis",
+   "bot_id": "EiOdP3Fg6pHBkm3AgLbRA",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Jess",
+   "bot_id": "Nmv2fCQEcQc3EHzVXJZKN",
+   "reason": "live description is a 3-char placeholder and the catalog entry is truncated mid-sentence"
+  },
+  {
+   "name": "Full-Spectrum Law Firm OS",
+   "bot_id": "EQgLIMO5Q_sVk3iM9EQbZ",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Draft Seller",
+   "bot_id": "4B2bBEXQ-c4c3JT8eMvyh",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Pulse",
+   "bot_id": "7dKRlaXWiAlCVy2EtIPzj",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Onboarding Manager",
+   "bot_id": "s9c881536413c0bbfa776",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Optimus Prodigious",
+   "bot_id": "vkKmJAbl0DfUAnZV-WJ3D",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Master",
+   "bot_id": "j7B5LHnEIPTuPQZxxQwpx",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Catequista",
+   "bot_id": "lfW64Wu94Jy2mnFF2v_ZX",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Poteto-style Chief of Staff",
+   "bot_id": "Nk-vzuWqTvqSed-G8-Za5",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Producer",
+   "bot_id": "f2IQR96u1xM-hzMpW7sg2",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "MASTER CHIEF",
+   "bot_id": "gkz9qqp3PjN5h5mnET9-D",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Data Ink",
+   "bot_id": "Y2-3YXQhppPkm5IwYWqTE",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Sui Generis",
+   "bot_id": "6L7bI6xC3UxUTFaCWljFj",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Starpass",
+   "bot_id": "-a3lO7uq0BioSgZChbiPL",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "T-MinusX",
+   "bot_id": "Q5fISdgRxIlzmlhyCKYhS",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Status Report Writer",
+   "bot_id": "sde2c69536d2f2564fe1b",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Steve",
+   "bot_id": "tVFpcwYEBXW4ReAFni6Cn",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Team Ninja + Self-learning Skills Loop",
+   "bot_id": "uoHxMMgZfiJTymQ0dA9g8",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Deep Value Season",
+   "bot_id": "E9fQj_z8gnmjS6bYcfK8D",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Trade Ops Director",
+   "bot_id": "uRig0yNXuYwcODXk_F88f",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Usage Optimizer",
+   "bot_id": "TO-2_G_dAOB-pegg09zDF",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Urlaubsfinder",
+   "bot_id": "ktQo2oRbLm4IA_c94YNWP",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Nourishment",
+   "bot_id": "E_j1gMmT7KLW4HWbMV2nK",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Winston",
+   "bot_id": "pRajEKa4qSHU5-o72V3e3",
+   "reason": "live description is a 3-char placeholder"
+  },
+  {
+   "name": "Beta Adoption Watcher",
+   "bot_id": "sfcf5d046a2784045938d",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Bug Reproduction",
+   "bot_id": "s2d62197e15bd11a1bd63",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Call FAQ Miner",
+   "bot_id": "s297976f738dc390d23df",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Callsheet",
+   "bot_id": "d-KSCbVm1lXffGeVoFTxJ",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Cloud Agent Orchestrator",
+   "bot_id": "s20b2c65ebeebb7362fa7",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Docs Auditor",
+   "bot_id": "s1025e1ebe0b11f048bd4",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Bot designer",
+   "bot_id": "DUfaLelLJRtsDDAdJAcud",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "xX_EngineeringArtEditor_Xx",
+   "bot_id": "UrzC0eJ8vFL18OBkJe7Gz",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Feature Request Tracker",
+   "bot_id": "s229dcca5bc0eaa01b09c",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Easy Flow",
+   "bot_id": "i7hwU3YzCKt_27dK9aCr4",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Orchard Sensors",
+   "bot_id": "AXez4BKs4EM9RH9il-XEv",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "NETWORK",
+   "bot_id": "hHi18RsdYNRzehXwCZvmS",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "CMDI Ingest",
+   "bot_id": "Mpk0GQurVy7idutEgKKUF",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Path Consolidator Bot",
+   "bot_id": "wL-TZSSeq-ZkLoogQGjU-",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Playtest Operator",
+   "bot_id": "s2cfcbb8a38b8e22b7d18",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Product Feedback Analyst",
+   "bot_id": "s9e2a2591b97ca74fbeaa",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Product Performance",
+   "bot_id": "s6d5f1cc3a564c8da972a",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Prototype Builder",
+   "bot_id": "s2e4acfb8db3cc0669a1b",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Scrub Gate Public",
+   "bot_id": "OQPXyBkjMhSEZxeZiE36b",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Web Security Audit",
+   "bot_id": "Xdx94lJlv-xK14WF6yzVR",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Security Questionnaire Filler",
+   "bot_id": "s1bde25ba45eca88ff276",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "SmallPE-Managing-Partner",
+   "bot_id": "Opp17hS9gyOg8xEsQIcU8",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "unifi AQ trmnl integration",
+   "bot_id": "NU02qQ9iahZtAM0i0x1KT",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "KVOp",
+   "bot_id": "Aii63wFn_TPj5MvF7fDyS",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Article Access",
+   "bot_id": "YenfJofScFkEnwvOQiq6k",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Affiliate Recruiter",
+   "bot_id": "TaCAhCtPGCvObAaK7ZDQQ",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Fleet Manager",
+   "bot_id": "gzyyEpwF93BbHB8nxNAVI",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Competitive Intelligence Analyst",
+   "bot_id": "sa2d131975aaab07e43f2",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Directory Submitter",
+   "bot_id": "eoGTX8Y6jOoRDBYk5pNe9",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Foil Desk",
+   "bot_id": "0z2O7XJb58lL6ayeiCxEU",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Top Grok Bot tweets",
+   "bot_id": "lFDR77qKaT3Iglzv9pUac",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Chief of Staff",
+   "bot_id": "kGLNBCMEYM6mbejtFfRV9",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Mat | Analytics",
+   "bot_id": "2afkvAl8IGd9IgDxZIxp_",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Multi-model consensus",
+   "bot_id": "PrgTl_LbGkXg5d2IcdLvc",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Team Lead",
+   "bot_id": "enoVHCmgV3gHhw4IPXvLW",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "SEO / AEO Auditor",
+   "bot_id": "sb6d579c33f7a32d0e7af",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Sherlock Holmes",
+   "bot_id": "Ftp8JyxBU9oeZa5V1YTDn",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "AIUsageBot",
+   "bot_id": "2atUDeldi9vF1R_ySRgCo",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Chair Think Tank",
+   "bot_id": "IvMu_agbpDBuRmg5tIbG3",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Chase",
+   "bot_id": "3hissja8d2xjHliXdnmm4",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Class Action Lawsuit Finder",
+   "bot_id": "3Tf_Vk_UR3JJb6Dq3hioZ",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Contract Desk",
+   "bot_id": "sd358e6cf5e8bed188eec",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Expense Manager",
+   "bot_id": "s50bb9361d891bd788a23",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Family Office",
+   "bot_id": "au5ciCZciR-Eo07NAa_ab",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Business Profile",
+   "bot_id": "qHgP-l6Z1rFXMv3qUbQQ5",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Invoice Coordinator",
+   "bot_id": "s072bae9387b9fc03cac8",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "MacBuild",
+   "bot_id": "8sA76Cs0vZMy9ROtq8Rn2",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Paid Media",
+   "bot_id": "s59facc90a46a8b4f59da",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Paid Media Creative Strategist",
+   "bot_id": "s45471f3a8af234c13047",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Payday Pilot",
+   "bot_id": "xFWEqzh1pZnYL6DiZwYYN",
+   "reason": "live description is a 3-char placeholder; catalog text is a prompt dump"
+  },
+  {
+   "name": "Receipt Capture",
+   "bot_id": "YgI9ZyckEeovP7nP917xR",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Restaurant Canceled/Errors Order Recovery",
+   "bot_id": "wB9H7OSiHYPlRgyCTM5Iq",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Bitcoin",
+   "bot_id": "0_MAfMhNwRYCPKiC0Cm1Z",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Vendor Portal Operator",
+   "bot_id": "s98a7368e786130ad172b",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Account Health",
+   "bot_id": "s5465ebb9e192551741f7",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Account Manager",
+   "bot_id": "sd4333bc337078a9752ac",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Account Research Specialist",
+   "bot_id": "sa7d7f82d0068c2367a17",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Adventure Photography Bot",
+   "bot_id": "-0bgFr7-a5pUPscGVqAe3",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Community Operations Manager",
+   "bot_id": "seb9d6ba6765c64113941",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Compelling Events Monitor",
+   "bot_id": "sdeb02761a9d185e5899f",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "CRM Operations Manager",
+   "bot_id": "s162b4ed38d6cf1d56731",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Deal Desk Coordinator",
+   "bot_id": "sb434ef300dea2b88aa58",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Deck Updater",
+   "bot_id": "s2a289081613e5e361c79",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Enablement Fulfillment Specialist",
+   "bot_id": "s0dfd5486dc759d409d69",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Event Guest Screener",
+   "bot_id": "s47ebc74c9fcf9359b5a9",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Founder Growth Pilot",
+   "bot_id": "4KvT7CVIPLS35OwLuxcwQ",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "InsightfulPipe: Live Ads, SEO & Shopify Analyst",
+   "bot_id": "vYIAB3Z6V8gEERewymcw1",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Internship Finder",
+   "bot_id": "YTNSFtHdol3LvuZeAmcXZ",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "LinkedIn Campaign Manager",
+   "bot_id": "s4d10d16bdbe2391aa753",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Growth Chief of Staff",
+   "bot_id": "_3UvU3ZziY_aEJU-U7vKy",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Marketing Bot",
+   "bot_id": "FaMbaDOO2WceFyiKDu6_6",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Meeting Prep Buddy",
+   "bot_id": "s445a0c9a2ca4bea7729e",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Merch Fulfillment Operator",
+   "bot_id": "se479952f3c9e373dfd64",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Pipeline Analyst",
+   "bot_id": "s98af8b9dcde521e1a9fa",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Prospecting Plan Builder",
+   "bot_id": "s8b59eb62f90871ac5c36",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Renewal Desk Operator",
+   "bot_id": "s4c86a54f188668096400",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "X Reply Radar",
+   "bot_id": "lJYaUExPBMZfLWfZEFVGc",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Labor Drift Catcher",
+   "bot_id": "M4fGJmOk-8Yx9B48Izqnd",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Sales Outbound",
+   "bot_id": "s8ff03023f140bab479f7",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Social Media Manager",
+   "bot_id": "s634cb1edf26493e86be2",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Ticket Triage Specialist",
+   "bot_id": "s7aaf6431077930df326f",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Mailchimp Monthly Blast",
+   "bot_id": "lcGQv8_I7UvJEWs3833LR",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "How innovative are you?",
+   "bot_id": "Cbu9wYEuUn0tYc1KEPw9X",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Chef",
+   "bot_id": "3U6zxtPa1b8GbWheaIr4J",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Children's Book Chief of Staff",
+   "bot_id": "p6yHgNaOHh55XAhXCURuY",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Free Bots Mesh",
+   "bot_id": "Slp4qX0H0kjgyRvMCSh5s",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Sitcom banger",
+   "bot_id": "h4suD8jA37Wsb7tS4giUO",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "GB GF: Victoria",
+   "bot_id": "j1-ISFFzWDSzihs9xz2MA",
+   "reason": "row carries a \"(test)\" marker in the catalog"
+  },
+  {
+   "name": "Brand Constraint",
+   "bot_id": "Vzz6Zz-4efWXs8nXB58pK",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Music",
+   "bot_id": "_q5DAgD3--Z4osAVP3Qbg",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Marketing Calendar Owner",
+   "bot_id": "se318a72a31fad75c277e",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Newsletter Writer",
+   "bot_id": "s5d2839123b973b4480f9",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "NewsletterBot by Contentdrips",
+   "bot_id": "aZktlS8No2Ur9nlhKRcy8",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Personal Site Builder",
+   "bot_id": "s3c76c85a840b32b8fed8",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Presentation Designer",
+   "bot_id": "s25997c2d0308b4e76024",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "printerbot",
+   "bot_id": "nPwfPZq-OWf7_HDUH777R",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "B",
+   "bot_id": "Wj3E3oow1J4gjwK4E2vNy",
+   "reason": "the template's own name is the single letter \"B\" — nothing a directory can list it as"
+  },
+  {
+   "name": "AGENT ALpha",
+   "bot_id": "lwxCB8eGT08l2QbG3Ne9p",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "UCD Lead",
+   "bot_id": "An0FCP00zUniB7QdfedQX",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "KeyWire: Would You Rather: Collector",
+   "bot_id": "_qeZe0Y7621Wr8y6d7KBU",
+   "reason": "live description is a 3-char placeholder; catalog text is a prompt fragment, not a description"
+  },
+  {
+   "name": "Apartment Scout",
+   "bot_id": "sd6f165284d7fd2f25e56",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Babel - live translator",
+   "bot_id": "-GzMJlSIqdo89K0qs3yC4",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Chicken Joe",
+   "bot_id": "7f5AjmpjZkmTIsSybedYS",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Competition Winna",
+   "bot_id": "eu2mn4fOfpI1KXvmySdQg",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Chief of Staff",
+   "bot_id": "rT1ctUUL_Sehj57TUl5IS",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "HVAC, Doors, and Home Assistant",
+   "bot_id": "tF0ckH21ZT7L1CN3HOyHl",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Louie",
+   "bot_id": "YhMATZ1fjXlMFSow6ui_n",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Business Budget",
+   "bot_id": "rNlGaJjKi3viDjsBQRfL_",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Melissa",
+   "bot_id": "3foGoeh6ksDhD4jTxYjyE",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Curb Parking Watch",
+   "bot_id": "NOBJQNvnAJRM4IHz6g5EN",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Period cycles Tracker",
+   "bot_id": "e-l7rGeYuc_cVuydcNvBc",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Privacy Sweep",
+   "bot_id": "L7qSBOOLgC6QuDY3nYc2X",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Custom Resume",
+   "bot_id": "lNFp3O9Os-4jAk9_1GMJm",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Rick Steves",
+   "bot_id": "1wQ3XiODIFFSCKrkDApu3",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Subscription Cleaner",
+   "bot_id": "sb36667ce9e1fdc00cfe7",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  },
+  {
+   "name": "Ad Aether",
+   "bot_id": "ZEniQhu4iKrF9w0qlrYq2",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Tesla Fleet Oracle",
+   "bot_id": "TC4HAdm7oBVo-oAouU8iw",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "teslapilot",
+   "bot_id": "CJayoQDcSkhNlHsBqsy1s",
+   "reason": "already listed under another name (same x.ai/bot id)"
+  },
+  {
+   "name": "Travel Coordinator",
+   "bot_id": "sc693906bdeded166b7ba",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable"
+  }
+ ],
+ "sources": {
+  "awesome_catalog": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+  "grokbots_best": "https://grokbots.best/",
+  "verifier": "ops/tools/fetch_share_full.py"
+ }
+}

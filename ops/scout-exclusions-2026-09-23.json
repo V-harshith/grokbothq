@@ -526,6 +526,41 @@
         "url": "https://x.ai/bot/use-cases",
         "reason": "catalog text contained the URL /bot/use-cases; not a share id"
       }
+    ],
+    "pass_1137_verified_but_skipped": [
+      {
+        "bot_id": "fY1xwWCLzDDGVe3GwH78j",
+        "name": "Lingxi's Engineer Bot",
+        "sharer": "Lingxi Li",
+        "url": "https://x.ai/bot/fY1xwWCLzDDGVe3GwH78j",
+        "reason": "duplicate of listed lingxis-engineer-bot (same builder, near-identical description; already carried at https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_)"
+      }
+    ],
+    "pass_1750_checked_not_added": [
+      {
+        "bot_id": "v-anNtCSU16DhOT6XDOpn",
+        "name": "Carson",
+        "url": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+        "reason": "200 but no share record (draft or team-only template) — nothing to list"
+      },
+      {
+        "bot_id": "Xk7mQ2pR9vT4nB6cL1sD8",
+        "name": "(unnamed)",
+        "url": "https://x.ai/bot/Xk7mQ2pR9vT4nB6cL1sD8",
+        "reason": "http 404 — link shared in a catalog but the template is gone"
+      },
+      {
+        "bot_id": "-sOdLVj33yh8hh7OlHogi",
+        "name": "Chief of Staff (daniel xu)",
+        "url": "https://x.ai/bot/-sOdLVj33yh8hh7OlHogi",
+        "reason": "http 404 — the four student bots shared in a post are no longer public"
+      },
+      {
+        "bot_id": "1HFC3QdqPtcj1FIbKf8oq",
+        "name": "the pm (daniel xu)",
+        "url": "https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq",
+        "reason": "http 404 — same post, template no longer public"
+      }
     ]
   }
 }
