@@ -1,0 +1,99 @@
+{
+ "run": "2026-09-25 18:58 IST scout addendum (cron 359022f62495, second pass of the day on the same branch)",
+ "branch": "ops/scout-pending (same accumulating PR #81 - no new PR)",
+ "why": "The 18:45 pass queued Winston / Chef Chad / Solar Trailer as verified-but-unlisted or needing a translation pass. Re-checked each against the live share record before listing.",
+ "method": "ops/tools/verify-bot-links.py (HTTP 200 + escaped share record) then ops/tools/fetch_share_full.py for the full description; one extra curl per id, zero paid calls.",
+ "added": [
+  {
+   "name": "Winston",
+   "slug": "winston",
+   "url": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+   "sharer": "rizzy",
+   "category": "assistants",
+   "note": "the page serialises the description as a $T<len> reference; the real text sits in the flight payload, so the 18:45 pass saw a 3-char placeholder"
+  },
+  {
+   "name": "Chef Chad",
+   "slug": "chef-chad-2",
+   "url": "https://x.ai/bot/Ed-L-mUFR_9nR2BYMssNF",
+   "sharer": "Roman Olschanowsky",
+   "category": "life",
+   "note": "distinct from the listed chef-chad - that one is shared by Llama Mama with different text, so this is not a twin"
+  },
+  {
+   "name": "Solar Trailer → Tesla Charge",
+   "slug": "solar-trailer-tesla-charge",
+   "url": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+   "sharer": "Electric Tech Adventures",
+   "category": "life",
+   "note": "held earlier as 'non-ASCII name'; only slugs must be ASCII, the display name keeps its arrow"
+  }
+ ],
+ "held": [
+  {
+   "name": "Fantasy Football Manager",
+   "bot_id": "WJc0G06lrr_H9OEyQ8Ijl",
+   "reason": "live template, but the share record has sharerName null - no attributable builder"
+  },
+  {
+   "name": "Pulse",
+   "bot_id": "nkmFntyGYALNwmUBMXCWj",
+   "reason": "same - sharerName null"
+  }
+ ],
+ "rolled_off_queue": [
+  {
+   "name": "Mono Lisa",
+   "bot_id": "1SnvqJd1RMwYsWdwh8kYI",
+   "url": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+   "builder_x_handle": "felixleezd",
+   "one_line_desc": "Daily product design partner: turns an Amplitude cliff into a first-principles Linear ticket with an inline cliff chart plus three…",
+   "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
+   "found_at": "2026-09-25T18:43:56+05:30",
+   "status": "added to directory in ops/scout-pending"
+  },
+  {
+   "name": "X bot",
+   "bot_id": "8OqqCibnjW8m8cgdn3Qyl",
+   "url": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
+   "builder_x_handle": "scottxmetcalf",
+   "one_line_desc": "Owns your X growth loop — weekday reply and follow packs, weekly reach tracking, and paste-ready drafts. Nothing goes live without your yes.",
+   "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+   "found_at": "2026-09-25T18:43:56+05:30",
+   "status": "added to directory in ops/scout-pending"
+  },
+  {
+   "name": "Chuck",
+   "bot_id": "CqQQXo05k79ukSLCubxfj",
+   "url": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+   "builder_x_handle": "veetharag",
+   "one_line_desc": "Unsubscribes from promotional and marketing email so the inbox mostly keeps personal mail and purchase receipts. Clears stale OTPs, and…",
+   "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+   "found_at": "2026-09-25T18:43:56+05:30",
+   "status": "added to directory in ops/scout-pending"
+  },
+  {
+   "name": "Weekly Usage",
+   "bot_id": "TEWOTNV18AmN4GtqjtUSv",
+   "url": "https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv",
+   "builder_x_handle": "",
+   "one_line_desc": "Easy glance at your weekly Grok Bot usage on the Grok Bot computer via BigUwidget — with optional weekly cards for Grok, AGY, and ChatGPT.…",
+   "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
+   "found_at": "2026-09-25T18:43:56+05:30",
+   "status": "added to directory in ops/scout-pending"
+  },
+  {
+   "name": "Grocery Bot",
+   "bot_id": "_SRTioxlU87XALDdBXsie",
+   "url": "https://x.ai/bot/_SRTioxlU87XALDdBXsie",
+   "builder_x_handle": "thelaurahuang",
+   "one_line_desc": "Builds weekly Whole Foods and Instacart grocery carts, skips vacation weeks, and can watch a meat subscription — prepare only, never…",
+   "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+   "found_at": "2026-09-25T18:43:56+05:30",
+   "status": "added to directory in ops/scout-pending"
+  }
+ ],
+ "checks": [
+  "content/bots.json parses; 2115 entries; 0 duplicate slugs; 0 duplicate urls; all 3 taglines <= 140"
+ ]
+}

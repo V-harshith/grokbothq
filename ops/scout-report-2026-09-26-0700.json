@@ -1,0 +1,466 @@
+{
+ "run": "2026-09-26 07:00 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending (single accumulating PR #81)",
+ "push": true,
+ "method": "Six public awesome-grokbot catalogues fetched free (one request each) plus free web_search and fxtwitter. Every candidate opened live and accepted only with HTTP 200 plus a share record carrying id/ownerType/sharerName/botName/description, read with the new ops/tools/share_record_scan.py (RSC flight payload + JSON raw_decode). Zero paid API calls.",
+ "reader_bug_note": "verify-bot-links.py and fetch_share_full.py have a false-negative mode on this payload: a regex value branch truncates a description at an escaped quote (Weekly Recap read 7-8 chars instead of 246) and both require a non-null sharerName, so a live template with no display name reads as 'no share record'. Six candidates in this pass's first sweep were recovered by the new reader. The rotation sample below re-checked the 3 rows verify-bot-links.py flagged as unpublished: all three are live and nothing was delisted.",
+ "counts": {
+  "directory_entries_before": 2115,
+  "catalogue_ids_checked": 2143,
+  "ids_in_catalogues_not_in_directory": 59,
+  "verified_live_this_pass": 100,
+  "held_back": 0,
+  "added_to_directory": 43,
+  "rotation_sampled": 40,
+  "rotation_dead": 0
+ },
+ "added": [
+  {
+   "name": "Android Phone Pilot",
+   "slug": "android-phone-pilot",
+   "url": "https://x.ai/bot/ILb_gakZvABUA98zaeHqQ",
+   "category": "engineering",
+   "builder": {
+    "name": "Everest Claw",
+    "x": ""
+   }
+  },
+  {
+   "name": "Arnold",
+   "slug": "arnold-2",
+   "url": "https://x.ai/bot/Waw-nx8VWg1lxX8dMkfie",
+   "category": "life",
+   "builder": {
+    "name": "Matt Altman",
+    "x": ""
+   }
+  },
+  {
+   "name": "Aus trip",
+   "slug": "aus-trip",
+   "url": "https://x.ai/bot/OeXTONmfD_UskpN6w9eIg",
+   "category": "life",
+   "builder": {
+    "name": "Aseem Wangoo",
+    "x": "aseemwangoo"
+   }
+  },
+  {
+   "name": "Bard",
+   "slug": "bard",
+   "url": "https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8",
+   "category": "creative",
+   "builder": {
+    "name": "Jacob Smalley",
+    "x": ""
+   }
+  },
+  {
+   "name": "Bills",
+   "slug": "bills",
+   "url": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+   "category": "money",
+   "builder": {
+    "name": "ashen one",
+    "x": "ashen_one"
+   }
+  },
+  {
+   "name": "Rotator",
+   "slug": "rotator",
+   "url": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+   "category": "assistants",
+   "builder": {
+    "name": "Cody Leonard",
+    "x": ""
+   }
+  },
+  {
+   "name": "Bot Therapist",
+   "slug": "bot-therapist",
+   "url": "https://x.ai/bot/eFi1268QASk3qU4RsUeYL",
+   "category": "engineering",
+   "builder": {
+    "name": "Martin Q. Blank",
+    "x": ""
+   }
+  },
+  {
+   "name": "clawd",
+   "slug": "clawd",
+   "url": "https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I",
+   "category": "assistants",
+   "builder": {
+    "name": "8 Bit",
+    "x": ""
+   }
+  },
+  {
+   "name": "Coordinator",
+   "slug": "coordinator",
+   "url": "https://x.ai/bot/QEJc0HOXflLmGkwLQk3Uw",
+   "category": "assistants",
+   "builder": {
+    "name": "Cyber Gurkhas",
+    "x": "CyberGurkhas"
+   }
+  },
+  {
+   "name": "Doordash",
+   "slug": "doordash",
+   "url": "https://x.ai/bot/J7I56EwtEh0D3yMGhnwSZ",
+   "category": "engineering",
+   "builder": {
+    "name": "Scott Metcalf",
+    "x": "scottxmetcalf"
+   }
+  },
+  {
+   "name": "Edge Eddie",
+   "slug": "edge-eddie",
+   "url": "https://x.ai/bot/6ifVQ1boABiMa6l0mODQW",
+   "category": "engineering",
+   "builder": {
+    "name": "James",
+    "x": ""
+   }
+  },
+  {
+   "name": "Fuel",
+   "slug": "fuel",
+   "url": "https://x.ai/bot/Snd56ionW_F2lDtn_bhRf",
+   "category": "life",
+   "builder": {
+    "name": "Serg Arouch",
+    "x": "arouch_serg"
+   }
+  },
+  {
+   "name": "Gif Bot",
+   "slug": "gif-bot",
+   "url": "https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4",
+   "category": "creative",
+   "builder": {
+    "name": "cyber sabth",
+    "x": ""
+   }
+  },
+  {
+   "name": "Grok-Imagine-Cinematic-Studio bot",
+   "slug": "grok-imagine-cinematic-studio-bot",
+   "url": "https://x.ai/bot/jUptx0cNwC5KIP0wTP1A5",
+   "category": "creative",
+   "builder": {
+    "name": "Foundation Robots",
+    "x": ""
+   }
+  },
+  {
+   "name": "Hannover-Primary",
+   "slug": "hannover-primary",
+   "url": "https://x.ai/bot/olagCu6BKJmhsI3KMd6GU",
+   "category": "assistants",
+   "builder": {
+    "name": "Sven Normen Eßlinger",
+    "x": ""
+   }
+  },
+  {
+   "name": "Homeschool",
+   "slug": "homeschool",
+   "url": "https://x.ai/bot/EBEtO9X4JZXKhiZevyyct",
+   "category": "life",
+   "builder": {
+    "name": "Anthony",
+    "x": "AnthonyDo"
+   }
+  },
+  {
+   "name": "Lineage Desk by Eclipse Engine",
+   "slug": "lineage-desk-by-eclipse-engine",
+   "url": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+   "category": "research",
+   "builder": {
+    "name": "Scott H",
+    "x": ""
+   }
+  },
+  {
+   "name": "matters global",
+   "slug": "matters-global",
+   "url": "https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS",
+   "category": "life",
+   "builder": {
+    "name": "Matthias Röder e/acc",
+    "x": ""
+   }
+  },
+  {
+   "name": "PhotoFix",
+   "slug": "photofix",
+   "url": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+   "category": "creative",
+   "builder": {
+    "name": "Mars 🌿",
+    "x": "MarsHomestead"
+   }
+  },
+  {
+   "name": "Redtape",
+   "slug": "redtape",
+   "url": "https://x.ai/bot/8K-RulLngtKsXJEDkA-mJ",
+   "category": "money",
+   "builder": {
+    "name": "Terri Varnell",
+    "x": ""
+   }
+  },
+  {
+   "name": "Res",
+   "slug": "res",
+   "url": "https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL",
+   "category": "life",
+   "builder": {
+    "name": "ashen one",
+    "x": "ashen_one"
+   }
+  },
+  {
+   "name": "River Rubbernecker",
+   "slug": "river-rubbernecker",
+   "url": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+   "category": "life",
+   "builder": {
+    "name": "John Solly",
+    "x": ""
+   }
+  },
+  {
+   "name": "Ryan App Builder",
+   "slug": "ryan-app-builder",
+   "url": "https://x.ai/bot/acSvd_2n8QnlnAjJebkvy",
+   "category": "engineering",
+   "builder": {
+    "name": "Blake King",
+    "x": "BlakeKing777"
+   }
+  },
+  {
+   "name": "Seed 7D",
+   "slug": "seed-7d",
+   "url": "https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT",
+   "category": "assistants",
+   "builder": {
+    "name": "Ash Naik",
+    "x": ""
+   }
+  },
+  {
+   "name": "Ship Intake",
+   "slug": "ship-intake",
+   "url": "https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky",
+   "category": "engineering",
+   "builder": {
+    "name": "Anthony",
+    "x": "AnthonyDo"
+   }
+  },
+  {
+   "name": "Social Supervisor",
+   "slug": "social-supervisor",
+   "url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+   "category": "creative",
+   "builder": {
+    "name": "Growth CRO",
+    "x": ""
+   }
+  },
+  {
+   "name": "Software Conductor",
+   "slug": "software-conductor",
+   "url": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+   "category": "engineering",
+   "builder": {
+    "name": "Jeff DeJaegher",
+    "x": "DejaegherJeff"
+   }
+  },
+  {
+   "name": "Starship Tracker",
+   "slug": "starship-tracker",
+   "url": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+   "category": "research",
+   "builder": {
+    "name": "Chad S",
+    "x": "chad7757"
+   }
+  },
+  {
+   "name": "SuperAging.AI",
+   "slug": "superaging-ai",
+   "url": "https://x.ai/bot/Zn4ai_ZQYRyXP8G72q3WW",
+   "category": "life",
+   "builder": {
+    "name": "Steve Q",
+    "x": ""
+   }
+  },
+  {
+   "name": "Sweeper Sam",
+   "slug": "sweeper-sam",
+   "url": "https://x.ai/bot/fdg2c4p0koYmWnfzoXTOJ",
+   "category": "assistants",
+   "builder": {
+    "name": "James",
+    "x": ""
+   }
+  },
+  {
+   "name": "Team Builder",
+   "slug": "team-builder",
+   "url": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
+   "category": "assistants",
+   "builder": {
+    "name": "Steve Derico",
+    "x": "stevederico"
+   }
+  },
+  {
+   "name": "Tek Tribe",
+   "slug": "tek-tribe",
+   "url": "https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9",
+   "category": "engineering",
+   "builder": {
+    "name": "Jacob Chevalier",
+    "x": ""
+   }
+  },
+  {
+   "name": "Tesla ownership assistant",
+   "slug": "tesla-ownership-assistant",
+   "url": "https://x.ai/bot/qLvwv-PZIQzUF0xrCj7tj",
+   "category": "life",
+   "builder": {
+    "name": "Jason Liszewski",
+    "x": ""
+   }
+  },
+  {
+   "name": "Two-Pass PR Reviewer",
+   "slug": "two-pass-pr-reviewer",
+   "url": "https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w",
+   "category": "engineering",
+   "builder": {
+    "name": "Destin Hebert",
+    "x": "HebertDestin"
+   }
+  },
+  {
+   "name": "Venture Desk",
+   "slug": "venture-desk",
+   "url": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+   "category": "sales",
+   "builder": {
+    "name": "Scott Corlett",
+    "x": "CorlettScott"
+   }
+  },
+  {
+   "name": "Virtual Try-On Bot",
+   "slug": "virtual-try-on-bot",
+   "url": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+   "category": "creative",
+   "builder": {
+    "name": "paranoidream ♡︎",
+    "x": "paranoidream"
+   }
+  },
+  {
+   "name": "X API Engineer",
+   "slug": "x-api-engineer",
+   "url": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+   "category": "engineering",
+   "builder": {
+    "name": "Paul Vann",
+    "x": ""
+   }
+  },
+  {
+   "name": "YeetViewer",
+   "slug": "yeetviewer",
+   "url": "https://x.ai/bot/ZN1EymIusO1adHWaIuJJe",
+   "category": "engineering",
+   "builder": {
+    "name": "x1Ler",
+    "x": "x1Ler"
+   }
+  },
+  {
+   "name": "Sputnik 1",
+   "slug": "sputnik-1",
+   "url": "https://x.ai/bot/0eNrUiaGS_HCEBNBMtS-N",
+   "category": "assistants",
+   "builder": {
+    "name": "Ξ",
+    "x": ""
+   }
+  },
+  {
+   "name": "Warranty & Settlement Concierge",
+   "slug": "warranty-settlement-concierge",
+   "url": "https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP",
+   "category": "money",
+   "builder": {
+    "name": "Manny Russell",
+    "x": ""
+   }
+  },
+  {
+   "name": "WebMCP Eval & Build Guide",
+   "slug": "webmcp-eval-build-guide",
+   "url": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
+   "category": "assistants",
+   "builder": {
+    "name": "Growth CRO",
+    "x": ""
+   }
+  },
+  {
+   "name": "Weekly Recap",
+   "slug": "weekly-recap",
+   "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+   "category": "productivity",
+   "builder": {
+    "name": "Christian Olsson",
+    "x": ""
+   }
+  },
+  {
+   "name": "AI 资讯精选",
+   "slug": "ai-zixun-jingxuan",
+   "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
+   "category": "research",
+   "builder": {
+    "name": "Mai Yang",
+    "x": "maiyangai"
+   }
+  }
+ ],
+ "held_back": [],
+ "rotation": {
+  "note": "40 existing listings re-opened live; 0 dead, 0 set pending"
+ },
+ "sources": {
+  "cs68614-hash/awesome-grokbot-templates": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+  "majiayu000/awesome-grok-bot": "https://github.com/majiayu000/awesome-grok-bot",
+  "RongleCat/awesome-grok-bot": "https://github.com/RongleCat/awesome-grok-bot",
+  "lroolle/awesome-grokbot-templates": "https://github.com/lroolle/awesome-grokbot-templates",
+  "kydlikebtc/awesome-grokbot": "https://github.com/kydlikebtc/awesome-grokbot",
+  "divo12/awesome-grok-bot-templates": "https://github.com/divo12/awesome-grok-bot-templates"
+ },
+ "tools": [
+  "ops/tools/share_record_scan.py",
+  "ops/tools/verify-bot-links.py",
+  "ops/tools/fetch_share_full.py"
+ ]
+}

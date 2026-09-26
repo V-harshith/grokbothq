@@ -1,0 +1,169 @@
+{
+ "run": "2026-09-25 18:45 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending (single accumulating PR)",
+ "method": "Five awesome-grokbot catalogs fetched free (one request each), every x.ai/bot link opened live: HTTP 200 AND a share record with id/ownerType/sharerName/botName/description. Zero paid API calls (no xurl, no x_search).",
+ "counts": {
+  "raw_links_found": 2104,
+  "not_previously_seen": 97,
+  "templates_confirmed_live": 73,
+  "already_held_or_excluded": 54,
+  "added_to_directory": 9,
+  "held_back": 10
+ },
+ "added": [
+  {
+   "name": "Mono Lisa",
+   "slug": "mono-lisa",
+   "url": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+   "category": "creative",
+   "builder": {
+    "name": "Felix Lee",
+    "x": "felixleezd"
+   }
+  },
+  {
+   "name": "X bot",
+   "slug": "x-bot-2",
+   "url": "https://x.ai/bot/8OqqCibnjW8m8cgdn3Qyl",
+   "category": "sales",
+   "builder": {
+    "name": "Scott Metcalf",
+    "x": "scottxmetcalf"
+   }
+  },
+  {
+   "name": "Chuck",
+   "slug": "chuck",
+   "url": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+   "category": "productivity",
+   "builder": {
+    "name": "Veetharag",
+    "x": "veetharag"
+   }
+  },
+  {
+   "name": "Weekly Usage",
+   "slug": "weekly-usage",
+   "url": "https://x.ai/bot/TEWOTNV18AmN4GtqjtUSv",
+   "category": "productivity",
+   "builder": {
+    "name": "Jacob bro",
+    "x": ""
+   }
+  },
+  {
+   "name": "Grocery Bot",
+   "slug": "grocery-bot-3",
+   "url": "https://x.ai/bot/_SRTioxlU87XALDdBXsie",
+   "category": "life",
+   "builder": {
+    "name": "Laura Huang",
+    "x": "thelaurahuang"
+   }
+  },
+  {
+   "name": "Peep.txt",
+   "slug": "peep-txt",
+   "url": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
+   "category": "engineering",
+   "builder": {
+    "name": "Eric Mansur",
+    "x": ""
+   }
+  },
+  {
+   "name": "Quote Chase Desk",
+   "slug": "quote-chase-desk",
+   "url": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+   "category": "sales",
+   "builder": {
+    "name": "Liftably",
+    "x": ""
+   }
+  },
+  {
+   "name": "Grok Build",
+   "slug": "grok-build-5",
+   "url": "https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph",
+   "category": "engineering",
+   "builder": {
+    "name": "Sandesh Andrade",
+    "x": "SandeshAndrade"
+   }
+  },
+  {
+   "name": "News Ear",
+   "slug": "news-ear",
+   "url": "https://x.ai/bot/yvygjNLFai6vmSEVP0bhf",
+   "category": "life",
+   "builder": {
+    "name": "Reeve",
+    "x": "Reeve_dev"
+   }
+  }
+ ],
+ "held_back": [
+  {
+   "name": "Weekly Recap",
+   "bot_id": "-BWpMRidNVEjHFqOtol0Q",
+   "reason": "live description is a placeholder (7 chars)"
+  },
+  {
+   "name": "AI 资讯精选",
+   "bot_id": "D6WMfjHcTnMwm0XS0MFLs",
+   "reason": "non-ASCII name — needs a dedicated translation pass"
+  },
+  {
+   "name": "Full-Spectrum Law Firm OS",
+   "bot_id": "EQgLIMO5Q_sVk3IM9EQbZ",
+   "reason": "same template already listed as full-spectrum-law-firm-os (the x.ai share id resolves case-insensitively)"
+  },
+  {
+   "name": "Optima by TOATspace",
+   "bot_id": "VSO9GRfDreEu2ZiXwwZB_",
+   "reason": "third near-identical \"Optima by TOATspace\" re-share; the directory already carries two, and the sharer display name (\"gemini sub001\") is not verifiable as the builder"
+  },
+  {
+   "name": "Solar Trailer → Tesla Charge",
+   "bot_id": "l1UJtFYw-3KTHuGvjROIN",
+   "reason": "non-ASCII name — needs a dedicated translation pass"
+  },
+  {
+   "name": "Inbox Manager",
+   "bot_id": "s4f048c7b7da9e010c2c3",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable from the page"
+  },
+  {
+   "name": "Sales Call Coach",
+   "bot_id": "s8173b3a9c49917de5b2d",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable from the page"
+  },
+  {
+   "name": "Talent Scout",
+   "bot_id": "sac3a109dfe021c555c7c",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable from the page"
+  },
+  {
+   "name": "Chief of Staff",
+   "bot_id": "sc0a0ec3ce9c675824106",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable from the page"
+  },
+  {
+   "name": "Executive Assistant",
+   "bot_id": "sf813cbd3aadad1cfda46",
+   "reason": "platform display name is the org name \"SpaceX\" — attribution not verifiable from the page"
+  }
+ ],
+ "sources": {
+  "kydlikebtc/awesome-grokbot (catalog.json)": "https://github.com/kydlikebtc/awesome-grokbot",
+  "cs68614-hash/awesome-grokbot-templates": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+  "majiayu000/awesome-grok-bot": "https://github.com/majiayu000/awesome-grok-bot",
+  "RongleCat/awesome-grok-bot": "https://github.com/RongleCat/awesome-grok-bot",
+  "lroolle/awesome-grokbot-templates": "https://github.com/lroolle/awesome-grokbot-templates",
+  "divo12/awesome-grok-bot-templates": "https://github.com/divo12/awesome-grok-bot-templates"
+ },
+ "tools": [
+  "ops/tools/verify-bot-links.py",
+  "ops/tools/fetch_share_full.py"
+ ]
+}

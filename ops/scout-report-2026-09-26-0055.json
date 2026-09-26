@@ -1,0 +1,121 @@
+{
+ "run": "2026-09-26 00:55 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending (single accumulating PR #81)",
+ "push": false,
+ "push_reason": "fewer than 3 new verified candidates - the standing gate for a push",
+ "method": "Free channels only: six public awesome-grokbot catalogs, kydlikebtc catalog.json (2,078 live entries), grokbots.best /api/bots (962), seven third-party share-link directories, x.ai/bot/marketplace, web_search and fxtwitter for the X side. Every candidate was opened live and only accepted with HTTP 200 plus a share record carrying id/ownerType/sharerName/botName/description. Zero paid API calls.",
+ "counts": {
+  "directory_entries": 2115,
+  "catalog_ids_checked": 2078,
+  "ids_in_catalogs_not_in_directory": 73,
+  "third_party_directory_ids_checked": 909,
+  "third_party_ids_not_in_directory": 0,
+  "verified_live_this_pass": 69,
+  "not_verified_live": 4,
+  "new_verified_candidates": 2,
+  "queued": 2,
+  "held_from_verified": 67
+ },
+ "queued": [
+  {
+   "name": "Weekly Recap",
+   "bot_id": "-BWpMRidNVEjHFqOtol0Q",
+   "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+   "builder_x_handle": "",
+   "one_line_desc": "Drafts an honest weekly recap of what you and your bots actually did, from bots, routines, calendar, GitHub and notes - drafts only, never posts.",
+   "source_post_url": "https://x.com/Christian_O91/status/2103347545900507549",
+   "found_at": "2026-09-26T01:01:09+05:30",
+   "status": "verified live (200 + share record), queued - the 18:45 hold was our extractor truncating the description at an escaped quote (7 chars read, 236 chars live); no push this pass because the >=3 gate was not met"
+  },
+  {
+   "name": "AI 资讯精选",
+   "bot_id": "D6WMfjHcTnMwm0XS0MFLs",
+   "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
+   "builder_x_handle": "maiyangai",
+   "one_line_desc": "Weekday-scheduled screener of AI product and tool updates, pushed as short human-sounding notes; stays quiet when there is not enough material.",
+   "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
+   "found_at": "2026-09-26T01:01:09+05:30",
+   "status": "verified live (200 + share record, sharer 'Mai Yang' corroborated by handle maiyangai), queued - held at 18:45 as a non-ASCII name; the directory already carries 83 non-Latin names, so the hold is procedural only and the description below is translated from the creator's own text",
+   "description_en": "On weekdays, screens AI product and tool updates on a schedule and pushes short, plain-language notes; stays quiet when there is not enough material. For people who want less news scroll and to follow Cursor, Claude and Chinese model releases."
+  }
+ ],
+ "held_back": [
+  {
+   "name": "SpaceX (DenisLabelle company pack, 56 rows)",
+   "bot_id": "s* share ids",
+   "reason": "platform display name is the org name \"SpaceX\" - attribution not verifiable from the page"
+  },
+  {
+   "name": "Elon",
+   "bot_id": "skVoYDfnNUPqUYIxkjXJK",
+   "reason": "bot name is a real named individual"
+  },
+  {
+   "name": "Elongated Musketeer",
+   "bot_id": "cxUln0vqOPK7V3RccS0nm",
+   "reason": "real named individual personality proxy (already rejected 2026-09-22)"
+  },
+  {
+   "name": "Elon Musk (Algorithm & constraint)",
+   "bot_id": "QCwGPAlho0dBvBds_IOWF",
+   "reason": "persona of a real named individual"
+  },
+  {
+   "name": "The List",
+   "bot_id": "4mOGY7Nd_mRvrwZYec4Jq",
+   "reason": "twin: identical description already listed as the-list"
+  },
+  {
+   "name": "anew",
+   "bot_id": "qtuoVRf5etpEVPNA29i7H",
+   "reason": "creator description is the two words \"free webpages\""
+  },
+  {
+   "name": "Fantasy Football Manager",
+   "bot_id": "WJc0G06lrr_H9OEyQ8Ijl",
+   "reason": "share record carries no sharerName"
+  },
+  {
+   "name": "Pulse",
+   "bot_id": "nkmFntyGYALNwmUBMXCWj",
+   "reason": "share record carries no sharerName"
+  },
+  {
+   "name": "B",
+   "bot_id": "Wj3E3oow1J4gjwK4E2vNy",
+   "reason": "share record carries no sharerName"
+  },
+  {
+   "name": "blank templates x4",
+   "bot_id": "Pa8G-Ldh5jU_jozWEu2Cs / 4jtnk5wsk0UMpDSNqG4Oc / Uy2oK9854UViaiO0rQ6nC / hEmSUvWxccmfAVDGri1R8",
+   "reason": "page carries no botName"
+  }
+ ],
+ "saturation_note": "Every x.ai/bot share link published in the six catalogs and in the seven third-party directories is already listed, or was already deliberately excluded. The public share-link ecosystem is saturated against this directory; fresh growth now has to come from X posts themselves (the fragile channel) rather than from aggregators.",
+ "blocked_sources": {
+  "https://x.ai/news": "403 to curl (Cloudflare); recovered via the browser-backed extractor, news.json is already current to 2026-09-22",
+  "https://web.archive.org/cdx/search/cdx": "not needed this pass"
+ },
+ "marketing_signals": [
+  {
+   "post": "https://x.com/SawyerMerritt/status/2093387511095513222",
+   "why": "513,832 views / 336 bookmarks on a Home Robots template - the biggest single template post seen this pass"
+  },
+  {
+   "post": "https://x.com/Bwilson/status/2097121334748643683",
+   "why": "218,774 views / 6 bookmarks on an LG laundry template - appliance-control angle travels"
+  },
+  {
+   "post": "https://x.com/DannyLimanseta/status/2093381938484810054",
+   "why": "154,368 views / 273 bookmarks on a game-art template"
+  },
+  {
+   "post": "https://x.com/godofprompt/status/2093423329839599815",
+   "why": "95,997 views / 139 bookmarks on a template-factory bot"
+  }
+ ],
+ "tools": [
+  "ops/tools/fetch_share_full.py",
+  "ops/tools/verify-bot-links.py"
+ ]
+}
