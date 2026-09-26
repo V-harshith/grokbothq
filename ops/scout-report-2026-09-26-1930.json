@@ -1,0 +1,94 @@
+{
+  "run": "2026-09-26 19:30 IST scout pass (cron 359022f62495)",
+  "branch": "ops/scout-pending (single accumulating PR #82, rebased on origin/main 788e625 first)",
+  "push": true,
+  "method": "Free sources only, one request each: grokbot.dev community registry feed (1,254 items, 1,048 templates with a share_url, plus the source post per item) via ops/tools/fetch-registry-feed.py, grokbots.best flight payload (999 records with author handle + source post), x.ai/bot/marketplace ItemList (84 rows, now exposing addHref share ids), six awesome-grokbot catalogue READMEs, grokbots.page listings, free web_search and api.fxtwitter.com for post expansion. Zero paid API calls.",
+  "counts": {
+    "directory_entries_before": 2173,
+    "ids_diffed_this_pass": 3100,
+    "verified_live_this_pass": 33,
+    "added_to_directory": 31,
+    "held_this_pass": 2,
+    "rotation_sampled": 25,
+    "rotation_dead": 0,
+    "rotation_renamed": 0
+  },
+  "verification": {
+    "reader": "ops/tools/share_record_scan.py (authoritative: decodes the RSC flight payload and raw-decodes the share record)",
+    "bar": "HTTP 200 AND a share record carrying botName + a real description",
+    "handle_rule": "a handle is written only where the post that carries that exact share link is authored by that handle AND two independent sources agree on the identity: either the platform share record's sharerName is consistent with that account, or both aggregators (grokbots.best and grokbot.dev) name the same handle",
+    "handles_written": 19,
+    "name_only": 12,
+    "post_link_check": "every one of the 25 candidates that had a source post was expanded with api.fxtwitter.com and the post body was confirmed to carry that candidate's exact share id"
+  },
+  "added": [
+    {"name": "Reply Desk", "slug": "reply-desk", "url": "https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf", "category": "productivity", "builder": {"name": "Brian M.", "x": "lonzom10"}},
+    {"name": "Requirement Engineer Bot", "slug": "requirement-engineer-bot", "url": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z", "category": "engineering", "builder": {"name": "Fish", "x": "FishxCD"}},
+    {"name": "Apply Bot", "slug": "apply-bot", "url": "https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ", "category": "productivity", "builder": {"name": "Kyle Bauer", "x": "Kylebauer"}},
+    {"name": "Teddy", "slug": "teddy", "url": "https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB", "category": "productivity", "builder": {"name": "Jack Locke", "x": "JackLocke"}},
+    {"name": "Find an apartment with budget", "slug": "find-an-apartment-with-budget", "url": "https://x.ai/bot/9iMoFiWKRlnobZbxxS8kx", "category": "life", "builder": {"name": "Ayomide Fagbohungbe", "x": ""}},
+    {"name": "Researcher AI Desk", "slug": "researcher-ai-desk", "url": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8", "category": "research", "builder": {"name": "David Anderson", "x": ""}},
+    {"name": "Kids Daily Spark", "slug": "kids-daily-spark", "url": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf", "category": "life", "builder": {"name": "Ben L", "x": "HelloBenL"}},
+    {"name": "Travel Advisor", "slug": "travel-advisor", "url": "https://x.ai/bot/CO9aQ2BdGGHEJH0wXTGV7", "category": "life", "builder": {"name": "thefit24couple", "x": "thefit24couple"}},
+    {"name": "Airfield Electrical Bid Scout", "slug": "airfield-electrical-bid-scout", "url": "https://x.ai/bot/PWBPqcCqUbEUPozXozRc3", "category": "sales", "builder": {"name": "thefit24couple", "x": "thefit24couple"}},
+    {"name": "Thaw", "slug": "thaw", "url": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL", "category": "research", "builder": {"name": "Ian Dunsmore", "x": ""}},
+    {"name": "Fortnite Drop Brief", "slug": "fortnite-drop-brief", "url": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__", "category": "life", "builder": {"name": "Ivan Hybben", "x": "IHybben"}},
+    {"name": "Construction Manager Bot", "slug": "construction-manager-bot", "url": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6", "category": "productivity", "builder": {"name": "Wayne Higa", "x": ""}},
+    {"name": "Interview to Book / 故事成书", "slug": "interview-to-book", "url": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp", "category": "creative", "builder": {"name": "jack hu", "x": "jackhu_bangzhu"}},
+    {"name": "每週公平分發代幣掃描", "slug": "weekly-fair-mint-scanner", "url": "https://x.ai/bot/kO0E0KzOkpUnPJQLmzBFm", "category": "money", "builder": {"name": "Allen Chien", "x": ""}},
+    {"name": "Quant Backtest Lab · 量化回测台", "slug": "quant-backtest-lab", "url": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE", "category": "money", "builder": {"name": "jack hu", "x": "jackhu_bangzhu"}},
+    {"name": "Running Coach", "slug": "running-coach", "url": "https://x.ai/bot/o4hvGfkH_LOiP0YbT22og", "category": "life", "builder": {"name": "Ivan Hybben", "x": "IHybben"}},
+    {"name": "Volatile Stock Options", "slug": "volatile-stock-options", "url": "https://x.ai/bot/kuhoazDWLEsY-kXvHBwtU", "category": "money", "builder": {"name": "KV Tay", "x": "KVTay316"}},
+    {"name": "Ship Desk", "slug": "ship-desk", "url": "https://x.ai/bot/thMhD-rbJ0Osd274RGohH", "category": "engineering", "builder": {"name": "Umashankar Gummadidala", "x": ""}},
+    {"name": "Higgins", "slug": "higgins", "url": "https://x.ai/bot/pobs233eUgpZLtlxoyyEn", "category": "life", "builder": {"name": "thefit24couple", "x": "thefit24couple"}},
+    {"name": "X Thread & Article Writer", "slug": "x-thread-article-writer", "url": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4", "category": "creative", "builder": {"name": "Sigi", "x": "sigarellano"}},
+    {"name": "Vern", "slug": "vern", "url": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7", "category": "life", "builder": {"name": "Austin Hoopes", "x": "ahoop"}},
+    {"name": "Grok Bot Tutorial", "slug": "grok-bot-tutorial", "url": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp", "category": "assistants", "builder": {"name": "Sawyer Merritt", "x": ""}},
+    {"name": "CodeFix Buddy", "slug": "codefix-buddy", "url": "https://x.ai/bot/-3H90YMhn2cE-CO1jj3-2", "category": "engineering", "builder": {"name": "Jaylin Lai", "x": ""}},
+    {"name": "Pick Buddy", "slug": "pick-buddy", "url": "https://x.ai/bot/TVm2a-XMbS82AU0MMLyHq", "category": "productivity", "builder": {"name": "Jaylin Lai", "x": ""}},
+    {"name": "Personalized Localized Name Gen", "slug": "personalized-localized-name-gen", "url": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh", "category": "creative", "builder": {"name": "Mario Saputra", "x": "MarioSaputra"}},
+    {"name": "Heckler", "slug": "heckler", "url": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY", "category": "creative", "builder": {"name": "𝕏ploreFuture𝕏", "x": "XploreFutureX"}},
+    {"name": "Repo Monkey", "slug": "repo-monkey", "url": "https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ", "category": "engineering", "builder": {"name": "Keranik", "x": "Keranik"}},
+    {"name": "QA bot", "slug": "qa-bot", "url": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7", "category": "engineering", "builder": {"name": "Ulysses Ng", "x": ""}},
+    {"name": "PM bot", "slug": "pm-bot", "url": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh", "category": "productivity", "builder": {"name": "Ulysses Ng", "x": ""}},
+    {"name": "Engineering Lead", "slug": "engineering-lead", "url": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh", "category": "engineering", "builder": {"name": "Lauren Tan", "x": ""}},
+    {"name": "Live Shorts Desk", "slug": "live-shorts-desk", "url": "https://x.ai/bot/r-Ctb7rwRVFOY-_p_T9eX", "category": "creative", "builder": {"name": "Mouth Of Madness", "x": "MadnessOfMouth"}}
+  ],
+  "held": {
+    "placeholder_description": [
+      "Critique (Dkl9wzI9FCt4EhqTHfsk2): share record carries the literal placeholder description \"$3d\" and no sharerName. Same hold class as the 07:00 back-check.",
+      "Premarket Desk · 盘前早报 (GuhaTzThKQG2MKJyHoREx): share record carries the literal placeholder description \"$3d\". A registry-feed summary is not a substitute for the platform record."
+    ],
+    "handle_held_single_source": [
+      "Engineering Lead: the marketplace record declares creatorName \"Lauren Tan\" with handle poteto, but no post carries that share link, so the handle stays empty."
+    ],
+    "standing": [
+      "56 first-party rows whose platform display name is the org name SpaceX",
+      "rows with no display name, blank templates, exact-name twins, personas of named individuals"
+    ]
+  },
+  "marketplace_note": "x.ai/bot/marketplace still lists 84 curated templates (81 already covered by name). The three rows previously held for having no share link (QA bot, PM bot, Engineering Lead) now expose addHref share ids in the payload and all three resolve live with a name and description, so they were listed this pass. Match marketplace rows by NAME, never by URL: it serves its own alias ids.",
+  "registry_note": "grokbot.dev exposes a free community API (api/v1/feed.json, 1,254 items; api/v1/status.json for notices). It is now the fastest diff surface for this job: the feed carries share_url, the source post and added_at per item. Its today set was 22 templates: 17 landed in this pass, 3 were added by the 13:15 pass, 2 are held above.",
+  "marketing_signal": [
+    {
+      "post": "https://x.com/SawyerMerritt/status/2103612173687861404",
+      "text": "SpaceXAI has just introduced Grok Bot Creator Rewards, paid every two weeks on usage; eligibility requires posting about your public bots with the link at least twice per pay period and having X Money set up.",
+      "stats": {"views": 269912, "likes": 1769, "bookmarks": 761, "replies": 146},
+      "note": ">100K views, the strongest single signal this pass. The author reports 500 USD earned in two weeks from one template. This is an official rewards pilot (help.x.com Grok Bot Template Rewards Pilot) and it is not yet in content/news.json, whose newest item is 2026-09-22. Flagged for the daily-ops news pass; nothing posted.",
+      "content_angle": "The pay-per-usage loop is the story: post the link, get paid when strangers use the bot. That is the mechanic worth explaining in a thread."
+    }
+  ],
+  "local_checks": {
+    "build": "npm run build green",
+    "copy_counts": "counts in copy OK, 2200 bots, 974 builders, 8 categories, 13 guides, 6 combos",
+    "sitemap_local": 2284,
+    "index_json": "2200 bots, 974 builders, 8 categories",
+    "detail_pages": "all 31 new slugs return 200 locally with the bot name in the body",
+    "rotation": "25 existing listings re-opened live, 0 dead, 0 renamed, nothing set pending"
+  },
+  "prompt_notes": [
+    "the accumulating branch was rebased on origin/main 788e625 before this pass, one PR only (#82), no new PR opened",
+    "no bare @handle appears in this file, the commit message or the PR body",
+    "next pass could trim one line: the marketplace and the awesome catalogues are now nearly fully absorbed; the registry feed plus grokbots.best are the two live diff surfaces"
+  ]
+}
