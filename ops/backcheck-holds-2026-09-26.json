@@ -1,0 +1,34 @@
+{
+  "run": "2026-09-26 13:35 IST back-check (cron 359022f62495)",
+  "why": "The 07:00 pass flagged that ops/tools/verify-bot-links.py and fetch_share_full.py have a false-negative mode (a regex value branch truncates a description at an escaped quote; a null sharerName reads as 'no share record'). Any earlier hold justified with 'placeholder description' or 'no share record' is therefore suspect. That back-check was flagged and NOT run at 07:00. This closes it.",
+  "method": "ops/tools/backcheck-holds-2026-09-26.py — scans every ops/*.json record for an x.ai/bot id whose surrounding 600 characters mention 'no share record', 'placeholder' or 'draft/team-only', drops ids already in content/bots.json, and re-opens each remaining id with the authoritative reader ops/tools/share_record_scan.py.",
+  "counts": {
+    "suspect_ids_in_records": 41,
+    "of_those_not_already_listed": 17,
+    "re_verified_live_now": 8,
+    "still_not_ok": 9,
+    "holds_that_flip_to_listable": 0
+  },
+  "re_verified_live_but_still_held": [
+    {"id": "MT6acytP70wHR526vPvM3", "name": "Grok Bot", "sharer": "Shmuel Ashlem", "desc_len": 160, "still_held_because": "exact-name twin of the listed bot 'Grok Bot' (slug grok-bot-2, u/DOBxYb_XLVEAlO6A1eZgU). The original hold cited 'no share record' — that part was the reader bug, but the name-twin reason stands independently."},
+    {"id": "cxUln0vqOPK7V3RccS0nm", "name": "Elongated Musketeer", "sharer": "Edward Battistini", "desc_len": 171, "still_held_because": "persona of a real named individual (Elon Musk personality proxy). Held on policy, not on the reader."},
+    {"id": "fY1xwWCLzDDGVe3GwH78j", "name": "Lingxi's Engineer Bot", "sharer": "Lingxi Li", "desc_len": 198, "still_held_because": "duplicate twin of the listed Lingxi's Engineer Bot (slug lingxis-engineer-bot, u/SxqbG1NT5qEw7ggmHqQu_, same builder). This is a marketplace-side alias id."},
+    {"id": "wOE4e95HNxhSbrzyLkSI-", "name": "Tradbot", "sharer": null, "desc_len": 159, "still_held_because": "marketplace-side alias id of the listed tradbot (uY_7s1TZILVzUeJ9lLOx9). Same name and description."},
+    {"id": "U-qq-Q-CiWdwRFWk5hmgY", "name": "Elon", "sharer": "Alex Powell", "desc_len": 3, "still_held_because": "placeholder description ('$3d'). Genuinely junk, not a reader artefact."},
+    {"id": "mLD9e8gRskQNp6DocBeJZ", "name": "Tower", "sharer": "say stone", "desc_len": 3, "still_held_because": "placeholder description ('$3d'). Genuinely junk."},
+    {"id": "oIcq3e3tuwYIaPIkmx0cF", "name": "Invoice Terminator", "sharer": "say stone", "desc_len": 3, "still_held_because": "placeholder description ('$3d'). Genuinely junk."},
+    {"id": "qtuoVRf5etpEVPNA29i7H", "name": "anew", "sharer": "round", "desc_len": 13, "still_held_because": "description 'free webpages'. Not a real listing."}
+  ],
+  "still_not_ok": [
+    {"id": "Pa8G-Ldh5jU_jozWEu2Cs", "reason": "fresh 200 with an empty botName (blank template)"},
+    {"id": "Uy2oK9854UViaiO0rQ6nC", "reason": "fresh 200 with an empty botName (blank template)"},
+    {"id": "hEmSUvWxccmfAVDGri1R8", "reason": "fresh 200 with an empty botName (blank template)"},
+    {"id": "abc_DEF-123", "reason": "404 — a placeholder id inside an exclusions record, never a real bot"},
+    {"id": "Xk7mQ2pR9vT4nB6cL1sD8", "reason": "404 — a placeholder id inside an exclusions record, never a real bot"},
+    {"id": "pRoDOS3PHZI7JE-Mn4hb6", "reason": "404"},
+    {"id": "zKmuIjjZJmPOpwkuaCgIj", "reason": "404"},
+    {"id": "-sOdLVj33yh8hh7OlHogi", "reason": "404 (daniel xu demo post)"},
+    {"id": "1HFC3QdqPtcj1FIbKf8oq", "reason": "404 (daniel xu demo post)"}
+  ],
+  "conclusion": "The reader bug cost the directory nothing. Eight earlier holds re-verified live, and every one of them is still correctly held for a reason that has nothing to do with the reader (exact-name twin, duplicate builder twin, persona of a named individual, or a genuinely placeholder description). No previously held row becomes listable, and nothing was delisted."
+}
