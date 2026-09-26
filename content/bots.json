@@ -951,7 +951,7 @@
   },
   {
     "slug": "jess-executive-assistant",
-    "name": "Jess (Executive Assistant)",
+    "name": "Jess",
     "builder": {
       "name": "LoganARobison",
       "x": "LoganARobison"
@@ -33768,5 +33768,80 @@
     "addedAt": "2026-09-26",
     "status": "published",
     "source": "https://x.com/MadnessOfMouth/status/2103720549146890590"
+  },
+  {
+    "slug": "big-tony",
+    "name": "Big Tony",
+    "builder": {
+      "name": "Arizoft Games",
+      "x": "arizoftgames"
+    },
+    "tagline": "Escalation bot for unhonoured cancellations, surprise charges and warranty runarounds.",
+    "description": "An escalation bot for bad customer service. It takes on cancellations that were not honoured, charges that appear from nowhere, retention traps, fraud cleanups and warranty runarounds, builds the case, drafts firm messages for you to approve, and keeps following up until a real person settles it.",
+    "category": "money",
+    "url": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/arizoftgames/status/2103620479768789351"
+  },
+  {
+    "slug": "pulse-4",
+    "name": "Pulse",
+    "builder": {
+      "name": "Fariborz Baghaei Naeini",
+      "x": "FariborzBaghaei"
+    },
+    "tagline": "Reads gym snaps, meal labels and calendar shots and returns a work and health balance plan.",
+    "description": "A vision-first coach for work and health balance. Drop in gym photos, meal labels and calendar screenshots and it returns a green, amber or red plan each morning and evening, plus a Friday wrap. Times follow your timezone, it reports readable facts only, and it drafts rather than acts.",
+    "category": "life",
+    "url": "https://x.ai/bot/nkmFntyGYALNwmUBMXCWj",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/FariborzBaghaei/status/2099902191284719664"
+  },
+  {
+    "slug": "settlement-scout",
+    "name": "Settlement Scout",
+    "builder": {
+      "name": "",
+      "x": ""
+    },
+    "tagline": "Tracks class-action settlements and refunds you qualify for, with deadline reminders.",
+    "description": "Tracks payouts you can actually claim, including class-action settlements and overdue refunds. It briefs you on verified new ones, warns you before a deadline passes, and can sweep your inbox for settlement notices, with you approving every claim.",
+    "category": "money",
+    "url": "https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://grokbots.best"
+  },
+  {
+    "slug": "cybercab-fund-desk",
+    "name": "CYBERCAB Fund Desk",
+    "builder": {
+      "name": "Branden Troutman",
+      "x": ""
+    },
+    "tagline": "Rules-based crypto spot desk for BTC, ETH, SOL and DOGE on a personal Coinbase account.",
+    "description": "An hourly spot trading desk for BTC, ETH, SOL and DOGE on your own Coinbase account, published with hard risk limits: 25% maximum per trade, three trades a day and a 12% daily stop. Built for small, rules-based crypto trading. Not financial advice.",
+    "category": "money",
+    "url": "https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://grokbots.best"
+  },
+  {
+    "slug": "vacation-planner",
+    "name": "Vacation Planner",
+    "builder": {
+      "name": "McDubleNOpickle",
+      "x": ""
+    },
+    "tagline": "Plans holidays end to end, comparing flights and cruises and watching prices.",
+    "description": "Plans a holiday end to end: comparing flights and cruises, finding stays, building day-by-day itineraries, handling airport and port logistics, and watching prices until you are ready to book.",
+    "category": "life",
+    "url": "https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://grokbots.best"
   }
 ]
