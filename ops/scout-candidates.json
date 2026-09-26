@@ -1,5 +1,235 @@
 [
   {
+    "name": "Job Hunt",
+    "bot_id": "4DlWbDs7ddKWhgpQ3l71a",
+    "url": "https://x.ai/bot/4DlWbDs7ddKWhgpQ3l71a",
+    "builder_x_handle": "AnthonyDo",
+    "one_line_desc": "Daily shortlist of matching openings from a target role plus a resume or LinkedIn profile, with tailored materials and drafted applications.",
+    "source_post_url": "https://x.com/AnthonyDo/status/2103636106982121977",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Web 3/ Crypto",
+    "bot_id": "F6GRww2AYVsAT2HajH5CK",
+    "url": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK",
+    "builder_x_handle": "Raester41",
+    "one_line_desc": "Play-to-earn and DeFi briefing with a weekly news digest, a beginner lesson plan, game guides, and content ideas for gaming creators.",
+    "source_post_url": "https://x.com/Raester41/status/2103635523785064711",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "NoShipSherlock",
+    "bot_id": "Lll9_CtLlBh_nEOWVQfMY",
+    "url": "https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY",
+    "builder_x_handle": "beyrouti",
+    "one_line_desc": "Lost-package desk for a store: tracks missing, stalled and delivered-but-not-received shipments and runs carrier playbooks, holding claims and refunds for a human yes.",
+    "source_post_url": "https://x.com/beyrouti/status/2103635867004981608",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Staging QA Tester",
+    "bot_id": "PJogrsWFV5ePKHLKwMMlQ",
+    "url": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ",
+    "builder_x_handle": "njivy",
+    "one_line_desc": "QA pass over a staging site: grades every feature Pass, Partial, Fail, Blocked or Not found and delivers markdown/PDF bug reports with evidence.",
+    "source_post_url": "https://x.com/njivy/status/2103635667683311946",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Fantasy Football",
+    "bot_id": "uv2Ej8EsdmBpBn0p9FnhH",
+    "url": "https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH",
+    "builder_x_handle": "btclawyerguy",
+    "one_line_desc": "Weekly NFL co-pilot for start/sit, waiver and trade calls with bye planning, inactive swaps and gameday pings. Distinct bot from the listed fantasy-football slug (different builder and share id), so it is slugged fantasy-football-2.",
+    "source_post_url": "https://x.com/btclawyerguy/status/2103636312729194799",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Tesseract Video Editor",
+    "bot_id": "11IubmXmwiQg8UdZY41SK",
+    "url": "https://x.ai/bot/11IubmXmwiQg8UdZY41SK",
+    "builder_x_handle": "",
+    "one_line_desc": "Edits existing footage into a finished video with captions, sound and motion graphics; returns a portable .tsrct project plus a playable export. Display name \"A-A-ron\" on the platform; no handle corroborated.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "XChat 사례 큐레이터 봇",
+    "bot_id": "Sg-5129uv9Hi2RRcrjRfi",
+    "url": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+    "builder_x_handle": "",
+    "one_line_desc": "Korean-language bot that finds fresh Grok Bot use cases on X, picks only posts with templates or concrete how-tos, summarises and translates them into a XChat group.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "FUTU 브로커 주식 거래 봇",
+    "bot_id": "cKT95HyhEKDcdZa1_tt2r",
+    "url": "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r",
+    "builder_x_handle": "",
+    "one_line_desc": "Korean-language bot that places limit orders through Futu OpenD and reports fills; tested on paper first, live orders only when the ticker is named.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Tallyhand",
+    "bot_id": "7fExIoCYvACOqWtnY0U0o",
+    "url": "https://x.ai/bot/7fExIoCYvACOqWtnY0U0o",
+    "builder_x_handle": "",
+    "one_line_desc": "Request desk: one place for every ask, one owner per item, and nothing sent without approval.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Shipcall",
+    "bot_id": "heDLKYR7XvlUURWPVYPZD",
+    "url": "https://x.ai/bot/heDLKYR7XvlUURWPVYPZD",
+    "builder_x_handle": "",
+    "one_line_desc": "Pre-release gate that returns SHIP, FIX FIRST or HOLD with the exact fixes required.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Briefkeep",
+    "bot_id": "JlW3e0RAMYLcjQ5a32rCY",
+    "url": "https://x.ai/bot/JlW3e0RAMYLcjQ5a32rCY",
+    "builder_x_handle": "",
+    "one_line_desc": "Prepares a one-page brief before a meeting, then logs every commitment made and carries it forward.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Shelf Scout",
+    "bot_id": "TaRhODlVo4N5mKKH6gTW6",
+    "url": "https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6",
+    "builder_x_handle": "",
+    "one_line_desc": "Weekly reading list of books and articles drawn from the work you have actually been doing.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Bound",
+    "bot_id": "f3FJP1laxNi9tVcRd_lFh",
+    "url": "https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh",
+    "builder_x_handle": "",
+    "one_line_desc": "Weekly FastBound A&D audit for FFL dealers: flags disposed sale items with a blank TTSN where the dispose-to contact has no FFL. API-only, read-only by default.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Slop Forge",
+    "bot_id": "mX3svMK3zEEfiK1XAeXEk",
+    "url": "https://x.ai/bot/mX3svMK3zEEfiK1XAeXEk",
+    "builder_x_handle": "",
+    "one_line_desc": "Generates a contest-shaped Grok Bot kit and a draft quote-tweet from a single niche keyword. Published as a joke.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "Asana Task Master",
+    "bot_id": "S2LodAIjlLw0mB30vN3Gl",
+    "url": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl",
+    "builder_x_handle": "",
+    "one_line_desc": "Turns action-worthy Gmail and Outlook emails into dated Asana tasks; replies in the same thread land as comments on the original task.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "added to directory in ops/scout-pending"
+  },
+  {
+    "name": "QA bot",
+    "bot_id": "",
+    "url": "https://x.ai/bot/marketplace/bots/qa-bot",
+    "builder_x_handle": "",
+    "one_line_desc": "marketplace-only row (x.ai/bot/marketplace/bots/qa-bot) with a live description but no share link, so there is no x.ai/bot/<id> url to verify or list.",
+    "source_post_url": "https://x.ai/bot/marketplace/bots/qa-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "held: marketplace-only, no share link"
+  },
+  {
+    "name": "PM bot",
+    "bot_id": "",
+    "url": "https://x.ai/bot/marketplace/bots/pm-bot",
+    "builder_x_handle": "",
+    "one_line_desc": "marketplace-only row (x.ai/bot/marketplace/bots/pm-bot) with a live description but no share link.",
+    "source_post_url": "https://x.ai/bot/marketplace/bots/pm-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "held: marketplace-only, no share link"
+  },
+  {
+    "name": "Engineering Lead",
+    "bot_id": "",
+    "url": "https://x.ai/bot/marketplace/bots/engineering-lead",
+    "builder_x_handle": "",
+    "one_line_desc": "marketplace-only row (x.ai/bot/marketplace/bots/engineering-lead) with a live description but no share link.",
+    "source_post_url": "https://x.ai/bot/marketplace/bots/engineering-lead",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "held: marketplace-only, no share link"
+  },
+  {
+    "name": "Big Tony",
+    "bot_id": "hBo0iWrkgWTueZe1TyGhm",
+    "url": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+    "builder_x_handle": "",
+    "one_line_desc": "live but the share record carries no display name at all, so there is no builder to attribute it to.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "held: no display name"
+  },
+  {
+    "name": "Chief of Staff (daniel xu)",
+    "bot_id": "-sOdLVj33yh8hh7OlHogi",
+    "url": "https://x.ai/bot/-sOdLVj33yh8hh7OlHogi",
+    "builder_x_handle": "",
+    "one_line_desc": "404 on the share link published in his demo post; his other two links are already listed. Logged, not queued.",
+    "source_post_url": "https://x.com/danieldxu_/status/2093480750146552176",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "rejected: 404"
+  },
+  {
+    "name": "The pm (daniel xu)",
+    "bot_id": "1HFC3QdqPtcj1FIbKf8oq",
+    "url": "https://x.ai/bot/1HFC3QdqPtcj1FIbKf8oq",
+    "builder_x_handle": "",
+    "one_line_desc": "404 on the share link published in his demo post. Logged, not queued.",
+    "source_post_url": "https://x.com/danieldxu_/status/2093480750146552176",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "rejected: 404"
+  },
+  {
+    "name": "(unlisted id)",
+    "bot_id": "zKmuIjjZJmPOpwkuaCgIj",
+    "url": "https://x.ai/bot/zKmuIjjZJmPOpwkuaCgIj",
+    "builder_x_handle": "",
+    "one_line_desc": "404 in the catalogue sources; no share record.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "rejected: 404"
+  },
+  {
+    "name": "Tradbot (alias id)",
+    "bot_id": "wOE4e95HNxhSbrzyLkSI-",
+    "url": "https://x.ai/bot/wOE4e95HNxhSbrzyLkSI-",
+    "builder_x_handle": "",
+    "one_line_desc": "marketplace-side alias id of the already-listed tradbot (uY_7s1TZILVzUeJ9lLOx9). Same name and description; adding it would create a duplicate twin.",
+    "source_post_url": "https://github.com/majiayu000/awesome-grok-bot",
+    "found_at": "2026-09-26T13:22:00+05:30",
+    "status": "held: alias of a listed bot"
+  },
+  {
     "name": "Android Phone Pilot",
     "bot_id": "ILb_gakZvABUA98zaeHqQ",
     "url": "https://x.ai/bot/ILb_gakZvABUA98zaeHqQ",
@@ -268,235 +498,5 @@
     "source_post_url": "cs_templates.json",
     "found_at": "2026-09-26T07:07:58+05:30",
     "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Starship Tracker",
-    "bot_id": "LH13m3OO5TPi1w8E65sYB",
-    "url": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
-    "builder_x_handle": "chad7757",
-    "one_line_desc": "Fan-made SpaceX Starship launch desk: verified public status, change-only watches, and a live T-minus / NSF / official-vs-rumor dashboard.",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "SuperAging.AI",
-    "bot_id": "Zn4ai_ZQYRyXP8G72q3WW",
-    "url": "https://x.ai/bot/Zn4ai_ZQYRyXP8G72q3WW",
-    "builder_x_handle": "",
-    "one_line_desc": "Aging is your superpower. Now you can measure it. One monthly statement tracks your Health, Mind, and Retirement Wealth, so you can see…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Sweeper Sam",
-    "bot_id": "fdg2c4p0koYmWnfzoXTOJ",
-    "url": "https://x.ai/bot/fdg2c4p0koYmWnfzoXTOJ",
-    "builder_x_handle": "",
-    "one_line_desc": "Mac leftover sweeper. Inventories orphaned plists, Application Support, caches, LaunchAgents, receipts, and Homebrew leftovers from…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Team Builder",
-    "bot_id": "Lrx_GIK9mbXKotjqjwDeA",
-    "url": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
-    "builder_x_handle": "stevederico",
-    "one_line_desc": "Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Tek Tribe",
-    "bot_id": "sdCslo3yFiCHrWZ2JVPh9",
-    "url": "https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9",
-    "builder_x_handle": "",
-    "one_line_desc": "Tell it the tools you run for ONE project (your tek stack). It grades how sovereign the stack is against AI-building principles, gives an…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Tesla ownership assistant",
-    "bot_id": "qLvwv-PZIQzUF0xrCj7tj",
-    "url": "https://x.ai/bot/qLvwv-PZIQzUF0xrCj7tj",
-    "builder_x_handle": "",
-    "one_line_desc": "A personal ownership assistant for Tesla owners. It sends a weekly digest of software updates in plain English, accessories and verified…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Two-Pass PR Reviewer",
-    "bot_id": "Wmmz-sDuldsoHUr7vfU7w",
-    "url": "https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w",
-    "builder_x_handle": "HebertDestin",
-    "one_line_desc": "A senior-engineer review and a skeptical second pass in one report. Catches bugs, security holes, and over-engineering — including…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Venture Desk",
-    "bot_id": "_hVb4x6xAmUqR68mq_VYA",
-    "url": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
-    "builder_x_handle": "CorlettScott",
-    "one_line_desc": "One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Virtual Try-On Bot",
-    "bot_id": "8Cc1RovyoLulOn9SLY5UR",
-    "url": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
-    "builder_x_handle": "paranoidream",
-    "one_line_desc": "Turns clothes you like into a Grok Imagine video of you wearing them, built from your own Character reference. When you like a look, it…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "X API Engineer",
-    "bot_id": "ay0PGygsBxYONJRITWABE",
-    "url": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
-    "builder_x_handle": "",
-    "one_line_desc": "Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "YeetViewer",
-    "bot_id": "ZN1EymIusO1adHWaIuJJe",
-    "url": "https://x.ai/bot/ZN1EymIusO1adHWaIuJJe",
-    "builder_x_handle": "x1Ler",
-    "one_line_desc": "A read-only X (Twitter) viewer that checks profiles, posts, searches and notifications through your signed-in browser. It can also watch a…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Sputnik 1",
-    "bot_id": "0eNrUiaGS_HCEBNBMtS-N",
-    "url": "https://x.ai/bot/0eNrUiaGS_HCEBNBMtS-N",
-    "builder_x_handle": "",
-    "one_line_desc": "Commander & Chief of The Everything Bots. A calm, dry-humored captain who introduces the crew, lets you pick a quest (inbox, briefings…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Warranty & Settlement Concierge",
-    "bot_id": "j-G1HsmexxM3s4ibmHlAP",
-    "url": "https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP",
-    "builder_x_handle": "",
-    "one_line_desc": "Gets you what you're owed. Handles warranty claims for anything you own, and finds and files class-action settlements you qualify for, with…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "WebMCP Eval & Build Guide",
-    "bot_id": "tn863Sg4HFVNwzAzGxmYD",
-    "url": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
-    "builder_x_handle": "",
-    "one_line_desc": "Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For…",
-    "source_post_url": "cs_templates.json",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Weekly Recap",
-    "bot_id": "-BWpMRidNVEjHFqOtol0Q",
-    "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
-    "builder_x_handle": "",
-    "one_line_desc": "Answers \"what did you get done this week?\" It collects what you and your bots actually did (bots, routines, calendar, GitHub, notes) and…",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "AI 资讯精选",
-    "bot_id": "D6WMfjHcTnMwm0XS0MFLs",
-    "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
-    "builder_x_handle": "maiyangai",
-    "one_line_desc": "工作日定时筛 AI 产品和工具更新，用活人感短讯推送；材料不够就保持沉默。适合想少刷资讯、只盯 Cursor / Claude / 国产模型落地的人。",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-26T07:07:58+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Peep.txt",
-    "bot_id": "eZU8NymXZIN_5vJd2xrYZ",
-    "url": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
-    "builder_x_handle": "",
-    "one_line_desc": "Peeps one public website the way AI crawlers do, then drafts llms.txt, robots additions, schema notes, and five patches. Does not publish.",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Quote Chase Desk",
-    "bot_id": "tWEuvegaSpz8PwlwhFVHg",
-    "url": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
-    "builder_x_handle": "",
-    "one_line_desc": "Quote and estimate follow-up for trades shops. Tracks open quotes, drafts paced follow-ups for your approval, stops the moment a customer…",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Grok Build",
-    "bot_id": "ueh9gw-9jtl-VjwQ1m0Ph",
-    "url": "https://x.ai/bot/ueh9gw-9jtl-VjwQ1m0Ph",
-    "builder_x_handle": "SandeshAndrade",
-    "one_line_desc": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort — for anyone who wants Grok Build on an agent computer…",
-    "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "News Ear",
-    "bot_id": "yvygjNLFai6vmSEVP0bhf",
-    "url": "https://x.ai/bot/yvygjNLFai6vmSEVP0bhf",
-    "builder_x_handle": "Reeve_dev",
-    "one_line_desc": "One spoken line from today’s news. Hear it, feel it, say it. A daily English-by-ear habit for people who can hear English but want meaning…",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "added to directory in ops/scout-pending"
-  },
-  {
-    "name": "Full-Spectrum Law Firm OS",
-    "bot_id": "EQgLIMO5Q_sVk3IM9EQbZ",
-    "url": "https://x.ai/bot/EQgLIMO5Q_sVk3IM9EQbZ",
-    "builder_x_handle": "",
-    "one_line_desc": "same template already listed as full-spectrum-law-firm-os (the x.ai share id resolves case-insensitively)",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "verified live, not listed"
-  },
-  {
-    "name": "Optima by TOATspace",
-    "bot_id": "VSO9GRfDreEu2ZiXwwZB_",
-    "url": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
-    "builder_x_handle": "",
-    "one_line_desc": "third near-identical \"Optima by TOATspace\" re-share; the directory already carries two, and the sharer display name (\"gemini sub001\") is not verifiable as the builder",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "verified live, not listed"
-  },
-  {
-    "name": "Solar Trailer → Tesla Charge",
-    "bot_id": "l1UJtFYw-3KTHuGvjROIN",
-    "url": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
-    "builder_x_handle": "",
-    "one_line_desc": "non-ASCII name — needs a dedicated translation pass",
-    "source_post_url": "https://github.com/kydlikebtc/awesome-grokbot",
-    "found_at": "2026-09-25T18:43:56+05:30",
-    "status": "verified live, not listed"
   }
 ]
