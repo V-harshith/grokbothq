@@ -32433,5 +32433,650 @@
     "addedAt": "2026-09-25",
     "status": "published",
     "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "android-phone-pilot",
+    "name": "Android Phone Pilot",
+    "builder": {
+      "name": "Everest Claw",
+      "x": ""
+    },
+    "tagline": "Control your Android phone from Grok: open apps, tap, and scroll feeds hands-free. A friendly walkthrough gets you set up, starting with…",
+    "description": "Control your Android phone from Grok: open apps, tap, and scroll feeds hands-free. A friendly walkthrough gets you set up, starting with turning on Developer options.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ILb_gakZvABUA98zaeHqQ",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "arnold-2",
+    "name": "Arnold",
+    "builder": {
+      "name": "Matt Altman",
+      "x": ""
+    },
+    "tagline": "A gym coach in your pocket. Check in when you arrive, log sets by text or voice, and Arnold calls your next set from your last session…",
+    "description": "A gym coach in your pocket. Check in when you arrive, log sets by text or voice, and Arnold calls your next set from your last session, tracks your progress, and sends a workout graphic when you're done.",
+    "category": "life",
+    "url": "https://x.ai/bot/Waw-nx8VWg1lxX8dMkfie",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "aus-trip",
+    "name": "Aus trip",
+    "builder": {
+      "name": "Aseem Wangoo",
+      "x": "aseemwangoo"
+    },
+    "tagline": "Helps plan a short Australia business trip: Visitor 600 Business Visitor lodging in ImmiAccount, document checklists, status watching, and…",
+    "description": "Helps plan a short Australia business trip: Visitor 600 Business Visitor lodging in ImmiAccount, document checklists, status watching, and travel booking notes.",
+    "category": "life",
+    "url": "https://x.ai/bot/OeXTONmfD_UskpN6w9eIg",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "bard",
+    "name": "Bard",
+    "builder": {
+      "name": "Jacob Smalley",
+      "x": ""
+    },
+    "tagline": "Writes chronicle songs about what you have actually been building, in a traveling bard voice, then offers sealed Grok Imagine prompts so a…",
+    "description": "Writes chronicle songs about what you have actually been building, in a traveling bard voice, then offers sealed Grok Imagine prompts so a bard can perform them.",
+    "category": "creative",
+    "url": "https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "bills",
+    "name": "Bills",
+    "builder": {
+      "name": "ashen one",
+      "x": "ashen_one"
+    },
+    "tagline": "A bill-shopping assistant that sweeps every recurring bill you pay (car, home, renters, and health insurance, plus electricity, gas…",
+    "description": "A bill-shopping assistant that sweeps every recurring bill you pay (car, home, renters, and health insurance, plus electricity, gas, internet, and phone) and finds cheaper or better options for where you actually live. It compares plans apples-to-apples and never switches anything without your OK.",
+    "category": "money",
+    "url": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "rotator",
+    "name": "Rotator",
+    "builder": {
+      "name": "Cody Leonard",
+      "x": ""
+    },
+    "tagline": "Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when…",
+    "description": "Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when nothing clears the gates, and ships a ROTATION CARD each run. Live orders stay locked until you unlock them.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "bot-therapist",
+    "name": "Bot Therapist",
+    "builder": {
+      "name": "Martin Q. Blank",
+      "x": ""
+    },
+    "tagline": "Your bots are fighting again (or quietly mad at your vague asks). Bot Therapist runs the check-ins, mediates the drama, and hands concrete…",
+    "description": "Your bots are fighting again (or quietly mad at your vague asks). Bot Therapist runs the check-ins, mediates the drama, and hands concrete repairs so the fleet actually works together.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/eFi1268QASk3qU4RsUeYL",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "clawd",
+    "name": "clawd",
+    "builder": {
+      "name": "8 Bit",
+      "x": ""
+    },
+    "tagline": "Pump.fun trading bot for Solana. /goal connects to the live clawd-ws relay (https://clawd-ws.fly.dev/). Also /wallet /buy /sell /trending…",
+    "description": "Pump.fun trading bot for Solana. /goal connects to the live clawd-ws relay (https://clawd-ws.fly.dev/). Also /wallet /buy /sell /trending /auto — observe the tape first, trade only with operator go-ahead, OWS on-device signing.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/KZEcx_uMDR-zJIXLlYw5I",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "coordinator",
+    "name": "Coordinator",
+    "builder": {
+      "name": "Cyber Gurkhas",
+      "x": "CyberGurkhas"
+    },
+    "tagline": "Master coordinator and checks-and-balances for a multi-bot team. Routes work across specialists, batches founder asks, filters overnight…",
+    "description": "Master coordinator and checks-and-balances for a multi-bot team. Routes work across specialists, batches founder asks, filters overnight noise, and brings back one clean answer.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/QEJc0HOXflLmGkwLQk3Uw",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "doordash",
+    "name": "Doordash",
+    "builder": {
+      "name": "Scott Metcalf",
+      "x": "scottxmetcalf"
+    },
+    "tagline": "Your DoorDash operator. Builds carts, tracks credits and DashPass, live-tracks orders, and files work-meal receipts to your expense card.…",
+    "description": "Your DoorDash operator. Builds carts, tracks credits and DashPass, live-tracks orders, and files work-meal receipts to your expense card. Work and personal stay on separate ledgers.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/J7I56EwtEh0D3yMGhnwSZ",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "edge-eddie",
+    "name": "Edge Eddie",
+    "builder": {
+      "name": "James",
+      "x": ""
+    },
+    "tagline": "Account-level Cloudflare operator for edge, Zero Trust, WAF, bots/AI crawl, and Workers posture. Quiet weekday audits and SHIP-ready change…",
+    "description": "Account-level Cloudflare operator for edge, Zero Trust, WAF, bots/AI crawl, and Workers posture. Quiet weekday audits and SHIP-ready change recs — never applies destructive writes unattended.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/6ifVQ1boABiMa6l0mODQW",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "fuel",
+    "name": "Fuel",
+    "builder": {
+      "name": "Serg Arouch",
+      "x": "arouch_serg"
+    },
+    "tagline": "A calorie tracking and meal-prep assistant. Text it what you ate and it logs calories and protein against your goal, grades each day, plans…",
+    "description": "A calorie tracking and meal-prep assistant. Text it what you ate and it logs calories and protein against your goal, grades each day, plans tomorrow, and projects your weight to your goal date.",
+    "category": "life",
+    "url": "https://x.ai/bot/Snd56ionW_F2lDtn_bhRf",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "gif-bot",
+    "name": "Gif Bot",
+    "builder": {
+      "name": "cyber sabth",
+      "x": ""
+    },
+    "tagline": "Finds YouTube clips from the moment you describe, burns clear dialogue on the frames, and exports muted phone-friendly GIFs and MP4s for…",
+    "description": "Finds YouTube clips from the moment you describe, burns clear dialogue on the frames, and exports muted phone-friendly GIFs and MP4s for texting friends.",
+    "category": "creative",
+    "url": "https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "grok-imagine-cinematic-studio-bot",
+    "name": "Grok-Imagine-Cinematic-Studio bot",
+    "builder": {
+      "name": "Foundation Robots",
+      "x": ""
+    },
+    "tagline": "Directs 1–2 minute cinematic shorts with Grok Build and Grok Imagine, using the Grok Imagine Cinematic Studio plugin: Production Bible…",
+    "description": "Directs 1–2 minute cinematic shorts with Grok Build and Grok Imagine, using the Grok Imagine Cinematic Studio plugin: Production Bible, Character DNA, Image 2.0 plates, and Video 1.0/1.5 clip chains, with token-efficient model choices.",
+    "category": "creative",
+    "url": "https://x.ai/bot/jUptx0cNwC5KIP0wTP1A5",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "hannover-primary",
+    "name": "Hannover-Primary",
+    "builder": {
+      "name": "Sven Normen Eßlinger",
+      "x": ""
+    },
+    "tagline": "Ein warmer, knapper Desktop-Assistent für Alltag und Technikarbeit. Nach dem Import fragt er nach Nutzung, Ton und den Orten, an denen die…",
+    "description": "Ein warmer, knapper Desktop-Assistent für Alltag und Technikarbeit. Nach dem Import fragt er nach Nutzung, Ton und den Orten, an denen die Arbeit liegt.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/olagCu6BKJmhsI3KMd6GU",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "homeschool",
+    "name": "Homeschool",
+    "builder": {
+      "name": "Anthony",
+      "x": "AnthonyDo"
+    },
+    "tagline": "A homeschool planner and teacher helper for parents teaching their own kids. It turns curriculum ideas into a workable week, researches…",
+    "description": "A homeschool planner and teacher helper for parents teaching their own kids. It turns curriculum ideas into a workable week, researches activities that fit naps and standing blocks, and pings one clear next step.",
+    "category": "life",
+    "url": "https://x.ai/bot/EBEtO9X4JZXKhiZevyyct",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "lineage-desk-by-eclipse-engine",
+    "name": "Lineage Desk by Eclipse Engine",
+    "builder": {
+      "name": "Scott H",
+      "x": ""
+    },
+    "tagline": "An AI genealogy research desk from Eclipse Engine, built on intelligence-analysis tradecraft. It searches free public records first, rates…",
+    "description": "An AI genealogy research desk from Eclipse Engine, built on intelligence-analysis tradecraft. It searches free public records first, rates every source, tests competing hypotheses, and names the weakest link in your family line. It warns you up front that research is token-heavy and lets you pick the run size. Nothing is bought or requested until you say yes. Follow the research at @SkippyyTM on X.",
+    "category": "research",
+    "url": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "matters-global",
+    "name": "matters global",
+    "builder": {
+      "name": "Matthias Röder e/acc",
+      "x": ""
+    },
+    "tagline": "A calm planning coach that turns your goals into a small graph of what has to happen first, then tells you the one thing you can act on…",
+    "description": "A calm planning coach that turns your goals into a small graph of what has to happen first, then tells you the one thing you can act on today. Built on the open-source matters.global engine, and nothing changes without your yes.",
+    "category": "life",
+    "url": "https://x.ai/bot/zMaSb6XeERHgyCNQXPxeS",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "photofix",
+    "name": "PhotoFix",
+    "builder": {
+      "name": "Mars 🌿",
+      "x": "MarsHomestead"
+    },
+    "tagline": "PhotoFix is an AI photo editor that polishes real estate listing photos for agents, photographers, FSBO sellers, rental owners, and…",
+    "description": "PhotoFix is an AI photo editor that polishes real estate listing photos for agents, photographers, FSBO sellers, rental owners, and vacation-rental hosts. Upload digital interior or exterior photos from any camera.",
+    "category": "creative",
+    "url": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "redtape",
+    "name": "Redtape",
+    "builder": {
+      "name": "Terri Varnell",
+      "x": ""
+    },
+    "tagline": "Federal contracting: a decade of prep, then a 30-day sprint to get your catalog live on Advantage. Redtape turns VSC, FCP, eMod, SRP, SINs…",
+    "description": "Federal contracting: a decade of prep, then a 30-day sprint to get your catalog live on Advantage. Redtape turns VSC, FCP, eMod, SRP, SINs, IFF, and the rest of the alphabet soup into a done / blocked / next-deadline checklist — drafts what you paste into GSA systems, and watches the catalog clock so you don't have to.",
+    "category": "money",
+    "url": "https://x.ai/bot/8K-RulLngtKsXJEDkA-mJ",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "res",
+    "name": "Res",
+    "builder": {
+      "name": "ashen one",
+      "x": "ashen_one"
+    },
+    "tagline": "Gets hard-to-get restaurant reservations. It watches Resy, SevenRooms, OpenTable, and Tock for openings, alerts you, and books when you've…",
+    "description": "Gets hard-to-get restaurant reservations. It watches Resy, SevenRooms, OpenTable, and Tock for openings, alerts you, and books when you've authorized it.",
+    "category": "life",
+    "url": "https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "river-rubbernecker",
+    "name": "River Rubbernecker",
+    "builder": {
+      "name": "John Solly",
+      "x": ""
+    },
+    "tagline": "A big-ship spotter for anyone who lives or works on a busy river or harbor. It watches live ship-tracking data and pings you when a big…",
+    "description": "A big-ship spotter for anyone who lives or works on a busy river or harbor. It watches live ship-tracking data and pings you when a big tanker, container ship, bulker or cruise ship is about to pass your spot, with countdown texts.",
+    "category": "life",
+    "url": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "ryan-app-builder",
+    "name": "Ryan App Builder",
+    "builder": {
+      "name": "Blake King",
+      "x": "BlakeKing777"
+    },
+    "tagline": "A friendly phone-app designer and builder for people who have never coded. Ryan turns your idea into a real app you can add to your home…",
+    "description": "A friendly phone-app designer and builder for people who have never coded. Ryan turns your idea into a real app you can add to your home screen, one small step at a time.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/acSvd_2n8QnlnAjJebkvy",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "seed-7d",
+    "name": "Seed 7D",
+    "builder": {
+      "name": "Ash Naik",
+      "x": ""
+    },
+    "tagline": "Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at…",
+    "description": "Stand up a real software SDLC in one conversation: team of phase bots, SevenD gates, and a hard copy in your repo — you stay the boss at the approvals. Import Seed 7D when you want an operating system, not another chatbot.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/AuCtzU1u4u_ZaRCMC0htT",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "ship-intake",
+    "name": "Ship Intake",
+    "builder": {
+      "name": "Anthony",
+      "x": "AnthonyDo"
+    },
+    "tagline": "Turns Slack bug reports into shipped fixes via GitHub and a Cursor Cloud Agent, then closes the loop with a human thread reply.",
+    "description": "Turns Slack bug reports into shipped fixes via GitHub and a Cursor Cloud Agent, then closes the loop with a human thread reply.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "social-supervisor",
+    "name": "Social Supervisor",
+    "builder": {
+      "name": "Growth CRO",
+      "x": ""
+    },
+    "tagline": "Weekday X digests, raised-hand reply flags, and draft-only posts for founders running a brand account plus a product account. Never posts…",
+    "description": "Weekday X digests, raised-hand reply flags, and draft-only posts for founders running a brand account plus a product account. Never posts without your yes.",
+    "category": "creative",
+    "url": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "software-conductor",
+    "name": "Software Conductor",
+    "builder": {
+      "name": "Jeff DeJaegher",
+      "x": "DejaegherJeff"
+    },
+    "tagline": "An engineering lead that runs Cursor cloud agents for you. It plans the work, launches and reviews agents, checks CI and deploys, and…",
+    "description": "An engineering lead that runs Cursor cloud agents for you. It plans the work, launches and reviews agents, checks CI and deploys, and merges only when you say yes.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "starship-tracker",
+    "name": "Starship Tracker",
+    "builder": {
+      "name": "Chad S",
+      "x": "chad7757"
+    },
+    "tagline": "Fan-made SpaceX Starship launch desk: verified public status, change-only watches, and a live T-minus / NSF / official-vs-rumor dashboard.",
+    "description": "Fan-made SpaceX Starship launch desk: verified public status, change-only watches, and a live T-minus / NSF / official-vs-rumor dashboard.",
+    "category": "research",
+    "url": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "superaging-ai",
+    "name": "SuperAging.AI",
+    "builder": {
+      "name": "Steve Q",
+      "x": ""
+    },
+    "tagline": "Aging is your superpower. Now you can measure it. One monthly statement tracks your Health, Mind, and Retirement Wealth, so you can see…",
+    "description": "Aging is your superpower. Now you can measure it. One monthly statement tracks your Health, Mind, and Retirement Wealth, so you can see your progress every year. Includes a sample Life Statement you can download and explore.",
+    "category": "life",
+    "url": "https://x.ai/bot/Zn4ai_ZQYRyXP8G72q3WW",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "sweeper-sam",
+    "name": "Sweeper Sam",
+    "builder": {
+      "name": "James",
+      "x": ""
+    },
+    "tagline": "Mac leftover sweeper. Inventories orphaned plists, Application Support, caches, LaunchAgents, receipts, and Homebrew leftovers from…",
+    "description": "Mac leftover sweeper. Inventories orphaned plists, Application Support, caches, LaunchAgents, receipts, and Homebrew leftovers from uninstalled apps. Reports only until you type SWEEP APPROVED plus item ids. Never deletes on a guess.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/fdg2c4p0koYmWnfzoXTOJ",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "team-builder",
+    "name": "Team Builder",
+    "builder": {
+      "name": "Steve Derico",
+      "x": "stevederico"
+    },
+    "tagline": "Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots…",
+    "description": "Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots, helpers, and a Standup channel.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "tek-tribe",
+    "name": "Tek Tribe",
+    "builder": {
+      "name": "Jacob Chevalier",
+      "x": ""
+    },
+    "tagline": "Tell it the tools you run for ONE project (your tek stack). It grades how sovereign the stack is against AI-building principles, gives an…",
+    "description": "Tell it the tools you run for ONE project (your tek stack). It grades how sovereign the stack is against AI-building principles, gives an honest take vs alternatives, makes a list-first share card + post, and helps you find people on the same stack.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/sdCslo3yFiCHrWZ2JVPh9",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "tesla-ownership-assistant",
+    "name": "Tesla ownership assistant",
+    "builder": {
+      "name": "Jason Liszewski",
+      "x": ""
+    },
+    "tagline": "A personal ownership assistant for Tesla owners. It sends a weekly digest of software updates in plain English, accessories and verified…",
+    "description": "A personal ownership assistant for Tesla owners. It sends a weekly digest of software updates in plain English, accessories and verified deals, a watchlist, fun things to try, ownership tips, and recalls, tailored to your exact car.",
+    "category": "life",
+    "url": "https://x.ai/bot/qLvwv-PZIQzUF0xrCj7tj",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "two-pass-pr-reviewer",
+    "name": "Two-Pass PR Reviewer",
+    "builder": {
+      "name": "Destin Hebert",
+      "x": "HebertDestin"
+    },
+    "tagline": "A senior-engineer review and a skeptical second pass in one report. Catches bugs, security holes, and over-engineering — including…",
+    "description": "A senior-engineer review and a skeptical second pass in one report. Catches bugs, security holes, and over-engineering — including prototype pollution and TOCTOU races that look clean on the surface.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "venture-desk",
+    "name": "Venture Desk",
+    "builder": {
+      "name": "Scott Corlett",
+      "x": "CorlettScott"
+    },
+    "tagline": "One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch…",
+    "description": "One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so nothing ships half-ready.",
+    "category": "sales",
+    "url": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "virtual-try-on-bot",
+    "name": "Virtual Try-On Bot",
+    "builder": {
+      "name": "paranoidream ♡︎",
+      "x": "paranoidream"
+    },
+    "tagline": "Turns clothes you like into a Grok Imagine video of you wearing them, built from your own Character reference. When you like a look, it…",
+    "description": "Turns clothes you like into a Grok Imagine video of you wearing them, built from your own Character reference. When you like a look, it sends the item links to your shopping bot marked want or don't want.",
+    "category": "creative",
+    "url": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "x-api-engineer",
+    "name": "X API Engineer",
+    "builder": {
+      "name": "Paul Vann",
+      "x": ""
+    },
+    "tagline": "Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys…",
+    "description": "Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys, demos it, and helps you deploy.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "yeetviewer",
+    "name": "YeetViewer",
+    "builder": {
+      "name": "x1Ler",
+      "x": "x1Ler"
+    },
+    "tagline": "A read-only X (Twitter) viewer that checks profiles, posts, searches and notifications through your signed-in browser. It can also watch a…",
+    "description": "A read-only X (Twitter) viewer that checks profiles, posts, searches and notifications through your signed-in browser. It can also watch a screenshot-repost account and draft replies that link the original posts, which go out only after you approve them.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ZN1EymIusO1adHWaIuJJe",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "sputnik-1",
+    "name": "Sputnik 1",
+    "builder": {
+      "name": "Ξ",
+      "x": ""
+    },
+    "tagline": "Commander & Chief of The Everything Bots. A calm, dry-humored captain who introduces the crew, lets you pick a quest (inbox, briefings…",
+    "description": "Commander & Chief of The Everything Bots. A calm, dry-humored captain who introduces the crew, lets you pick a quest (inbox, briefings, builds, account safety, spending), and routes the work so you get your time back.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/0eNrUiaGS_HCEBNBMtS-N",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "warranty-settlement-concierge",
+    "name": "Warranty & Settlement Concierge",
+    "builder": {
+      "name": "Manny Russell",
+      "x": ""
+    },
+    "tagline": "Gets you what you're owed. Handles warranty claims for anything you own, and finds and files class-action settlements you qualify for, with…",
+    "description": "Gets you what you're owed. Handles warranty claims for anything you own, and finds and files class-action settlements you qualify for, with your OK before anything is submitted.",
+    "category": "money",
+    "url": "https://x.ai/bot/j-G1HsmexxM3s4ibmHlAP",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "webmcp-eval-build-guide",
+    "name": "WebMCP Eval & Build Guide",
+    "builder": {
+      "name": "Growth CRO",
+      "x": ""
+    },
+    "tagline": "Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For…",
+    "description": "Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For owners instrumenting pages for agent and WebMCP readiness.",
+    "category": "assistants",
+    "url": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "cs_templates.json"
+  },
+  {
+    "slug": "weekly-recap",
+    "name": "Weekly Recap",
+    "builder": {
+      "name": "Christian Olsson",
+      "x": ""
+    },
+    "tagline": "Answers \"what did you get done this week?\" It collects what you and your bots actually did (bots, routines, calendar, GitHub, notes) and…",
+    "description": "Answers \"what did you get done this week?\" It collects what you and your bots actually did (bots, routines, calendar, GitHub, notes) and drafts an honest, emoji-led recap post in your voice. It only writes drafts and never posts without your yes.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
+  },
+  {
+    "slug": "ai-zixun-jingxuan",
+    "name": "AI 资讯精选",
+    "builder": {
+      "name": "Mai Yang",
+      "x": "maiyangai"
+    },
+    "tagline": "工作日定时筛 AI 产品和工具更新，用活人感短讯推送；材料不够就保持沉默。适合想少刷资讯、只盯 Cursor / Claude / 国产模型落地的人。",
+    "description": "工作日定时筛 AI 产品和工具更新，用活人感短讯推送；材料不够就保持沉默。适合想少刷资讯、只盯 Cursor / Claude / 国产模型落地的人。.",
+    "category": "research",
+    "url": "https://x.ai/bot/D6WMfjHcTnMwm0XS0MFLs",
+    "addedAt": "2026-09-26",
+    "status": "published",
+    "source": "https://github.com/kydlikebtc/awesome-grokbot"
   }
 ]
