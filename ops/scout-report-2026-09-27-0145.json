@@ -1,0 +1,91 @@
+{
+ "run": "2026-09-27 01:45 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending (single accumulating PR #82, already up to date with origin/main 788e625 before this pass)",
+ "push": true,
+ "method": "Free sources only, one request each: grokbot.dev community registry feed (1,254 items, 1,048 with a share_url, plus the source post per item) via ops/tools/fetch-registry-feed.py, grokbots.best flight payload (1,004 bot links, author handle when present), six awesome-grokbot catalogue READMEs (majiayu000, RongleCat, cs68614-hash, divo12), grokbots.page, the x.ai/bot/marketplace ItemList, grokbotpulse.com (checked for the first time: 10 links, none new), free web_search and api.fxtwitter.com for post expansion. Zero paid API calls.",
+ "counts": {
+  "directory_entries_before": 2204,
+  "ids_diffed_this_pass": 3155,
+  "new_ids_opened": 87,
+  "verified_live_this_pass": 60,
+  "added_to_directory": 5,
+  "held_this_pass": 9,
+  "rejected_this_pass": 22,
+  "rotation_sampled": 25,
+  "rotation_dead": 0,
+  "rotation_renamed": 1,
+  "directory_entries_after": 2209
+ },
+ "verification": {
+  "reader": "ops/tools/share_record_scan.py (authoritative: decodes the RSC flight payload and raw-decodes the share record)",
+  "bar": "HTTP 200 AND a share record carrying botName + a real description",
+  "handle_rule": "a handle is written only where the post carrying that exact share link is authored by that handle and a second source agrees",
+  "handles_written": 2,
+  "name_only": 3,
+  "post_link_check": "the two handle-carrying candidates (Big Tony, Pulse) were expanded with api.fxtwitter.com and the post body was read to carry that candidate's exact share id"
+ },
+ "added": [
+  {"name": "Big Tony", "slug": "big-tony", "url": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm", "category": "money", "builder": {"name": "Arizoft Games", "x": "arizoftgames"}},
+  {"name": "Pulse", "slug": "pulse-4", "url": "https://x.ai/bot/nkmFntyGYALNwmUBMXCWj", "category": "life", "builder": {"name": "Fariborz Baghaei Naeini", "x": "FariborzBaghaei"}},
+  {"name": "Settlement Scout", "slug": "settlement-scout", "url": "https://x.ai/bot/eSbC0EjdL3r6XOvB4lhOd", "category": "money", "builder": {"name": "", "x": ""}},
+  {"name": "CYBERCAB Fund Desk", "slug": "cybercab-fund-desk", "url": "https://x.ai/bot/4AYUWc2XcQ64qluMXPV8l", "category": "money", "builder": {"name": "Branden Troutman", "x": ""}},
+  {"name": "Vacation Planner", "slug": "vacation-planner", "url": "https://x.ai/bot/cr8KAg2sp0Nyam7-QF-jh", "category": "life", "builder": {"name": "McDubleNOpickle", "x": ""}}
+ ],
+ "held": {
+  "standing": [
+   "56 first-party rows whose platform display name is the org name SpaceX (the s<hex> share ids). All 56 were re-opened live this pass with a name and a description; the standing hold is unchanged and they are not listed.",
+   "personas of named individuals: Elon (darke_mike6767), Elongated Musketeer (egcbatt), Elon Musk (Algorithm & constraint) (merirand). All three are live with a name and a real description and are held on class, not on verification.",
+   "rows with no usable display name: B (botName is a single letter)"
+  ],
+  "placeholder_description": [
+   "Critique (Dkl9wzI9FCt4EhqTHfsk2) and Premarket Desk · 盘前早报 (GuhaTzThKQG2MKJyHoREx): the share record still carries the literal placeholder description \"$3d\" and no sharerName.",
+   "anew (qtuoVRf5etpEVPNA29i7H): live record whose whole description is \"free webpages\". Same hold class."
+  ],
+  "handle_held_single_source": [
+   "CYBERCAB Fund Desk: grokbots.best names author BrandenSeth, the platform sharer reads \"Branden Troutman\", and no post carries the link. First name only is not a second source, so the handle stays empty.",
+   "Settlement Scout: the platform display name is the machine-ish string \"cokeandrice.akita.algo | Folks Finance\" and no catalogue names a creator, so the creator is left empty rather than guessed.",
+   "Vacation Planner: no handle in the platform record and no author in the catalogue, so the creator is recorded name-only from the platform display name."
+  ]
+ },
+ "rejected": {
+  "empty_botName_on_200": ["4jtnk5wsk0UMpDSNqG4Oc", "Pa8G-Ldh5jU_jozWEu2Cs", "Uy2oK9854UViaiO0rQ6nC", "hEmSUvWxccmfAVDGri1R8"],
+  "http_404_from_a_catalogue_link": ["5eY-ne8zTXfklIhdOoeAm", "D5A4QbXMACLWWokY4r3i4", "Kn0qDWAH3LrNZHhllpPhW", "MqV14jluu59Fvlj1INiLk", "QhfOU5SJ60U8g2x2pUFcT", "evB30VVYLfCGPxCdKoAuX", "fbfJZmVF5oHghV8XMm2", "fSBU34VR0gqteP3IOAnr8", "oowzVaiKyse9a1wwCmHtK4", "pRoDOS3PHZI7JE-Mn4hb6", "zKmuIjjZJmPOpwkuaCgIj"],
+  "blank_template": ["MT6acytP70wHR526vPvM3"],
+  "re_share_of_a_listed_bot": ["4mOGY7Nd_mRvrwZYec4Jq (The List)", "EQgLIMO5Q_sVk3IM9EQbZ (Full-Spectrum Law Firm OS, a case variant of the listed id)", "wOE4e95HNxhSbrzyLkSI- (Tradbot)", "WJc0G06lrr_H9OEyQ8Ijl (Fantasy Football Manager)", "VSO9GRfDreEu2ZiXwwZB_ (Optima by TOATspace, a newer share of a listed bot)"],
+  "written_to": "ops/scout-rejects-2026-09-27-0145.json"
+ },
+ "registry_note": "The grokbot.dev feed is stale this pass: it still reports generated_at 2026-09-26T12:39:28Z with 1,254 items whose newest added_at is 2026-09-26T11:56:02Z, i.e. it has not ingested anything since the 19:30 pass yesterday. Nothing in the feed was unaccounted for. grokbots.best and the awesome catalogues carried the day's finds instead. grokbotpulse.com (new surface) lists 10 live share links, none new.",
+ "rotation": "25 existing listings re-opened live with the authoritative reader: 25 ok, 0 dead. One renamed: the listing slug jess-executive-assistant now carries the platform name \"Jess\" with sharer \"Logan Robison\" (was \"Jess (Executive Assistant)\"). Renamed in this pass, no other field touched.",
+ "marketing_signal": [
+  {
+   "post": "https://x.com/cerebras/status/2103506859709858175",
+   "text": "Cerebras published an article titled \"We built a 20x faster Grok bot\", a personal-assistant build tested on everyday tasks.",
+   "stats": {"views": 408539, "likes": 1675, "bookmarks": 1309},
+   "note": ">100K views and >1K bookmarks, the strongest single signal this pass. Marketing signal only, nothing posted."
+  },
+  {
+   "post": "https://x.com/PerezHatesAI/status/2103137617306906865",
+   "text": "Pedro Perez published \"I Built an AI Marketing Team With Grok 4.7 (Full Workflow)\", including an approval-gated publisher bot wired to Postiz.",
+   "stats": {"views": 266860, "likes": 350, "bookmarks": 613},
+   "content_angle": "The mechanic worth noting for a thread: the whole marketing team is drafted first and every send waits for one human approval. Nothing posted."
+  },
+  {
+   "post": "https://x.com/SawyerMerritt/status/2103612173687861404",
+   "text": "Grok Bot Creator Rewards pilot, carried over from yesterday's pass.",
+   "stats": {"views": 269912, "likes": 1769, "bookmarks": 761},
+   "note": "Still not in content/news.json (newest item 2026-09-22). Flagged again for the daily-ops news pass; nothing posted."
+  }
+ ],
+ "local_checks": {
+  "build": "npm run build green",
+  "copy_counts": "counts in copy OK, 2205 bots, 976 builders, 8 categories, 13 guides, 6 combos",
+  "sitemap_local": 2289,
+  "detail_pages": "all 5 new slugs and the renamed slug return 200 locally with the name in the body",
+  "rotation": "25 existing listings re-opened live, 0 dead, 1 renamed (handled above)"
+ },
+ "prompt_notes": [
+  "the accumulating branch was already up to date with origin/main 788e625, one PR only (#82), no new PR opened",
+  "no bare @handle appears in this file, the commit message or the PR body",
+  "next pass: the registry feed is the fastest surface when it is current, but it has been stale for about 13 hours, so grokbots.best plus the catalogues should be fetched first"
+ ]
+}

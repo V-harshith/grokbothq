@@ -1,0 +1,47 @@
+[
+ {
+  "class": "empty botName on a 200",
+  "ids": [
+   "4jtnk5wsk0UMpDSNqG4Oc",
+   "Pa8G-Ldh5jU_jozWEu2Cs",
+   "Uy2oK9854UViaiO0rQ6nC",
+   "hEmSUvWxccmfAVDGri1R8"
+  ],
+  "reason": "HTTP 200 with no share record: draft or team-only templates. Not queued."
+ },
+ {
+  "class": "404 from a catalogue link",
+  "ids": [
+   "5eY-ne8zTXfklIhdOoeAm",
+   "D5A4QbXMACLWWokY4r3i4",
+   "Kn0qDWAH3LrNZHhllpPhW",
+   "MqV14jluu59Fvlj1INiLk",
+   "QhfOU5SJ60U8g2x2pUFcT",
+   "evB30VVYLfCGPxCdKoAuX",
+   "fbfJZmVF5oHghV8XMm2",
+   "fSBU34VR0gqteP3IOAnr8",
+   "oowzVaiKyse9a1wwCmHtK4",
+   "pRoDOS3PHZI7JE-Mn4hb6",
+   "zKmuIjjZJmPOpwkuaCgIj"
+  ],
+  "reason": "Catalogue entry points at an id that now 404s. Not queued."
+ },
+ {
+  "class": "blank template",
+  "ids": [
+   "MT6acytP70wHR526vPvM3"
+  ],
+  "reason": "Share record description is the generic \"Use this template to create a new bot\". Not queued."
+ },
+ {
+  "class": "re-share of a listed bot",
+  "ids": [
+   "4mOGY7Nd_mRvrwZYec4Jq",
+   "EQgLIMO5Q_sVk3IM9EQbZ",
+   "wOE4e95HNxhSbrzyLkSI-",
+   "WJc0G06lrr_H9OEyQ8Ijl",
+   "VSO9GRfDreEu2ZiXwwZB_"
+  ],
+  "reason": "Second share id for a bot already listed (The List, Full-Spectrum Law Firm OS, Tradbot, Fantasy Football Manager, Optima by TOATspace). No twin added."
+ }
+]

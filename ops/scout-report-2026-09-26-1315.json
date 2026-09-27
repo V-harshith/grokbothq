@@ -1,0 +1,100 @@
+{
+  "run": "2026-09-26 13:15 IST scout pass (cron 359022f62495)",
+  "branch": "ops/scout-pending (single accumulating PR, recreated from main after #81 merged)",
+  "push": true,
+  "method": "Free sources only, one request each: x.ai/bot/marketplace ItemList (JSON-LD inside the RSC flight payload), six awesome-grokbot catalogues, grokbots.best flight payload (976 records with author + source post), free web_search, and api.fxtwitter.com for post expansion. Zero paid API calls.",
+  "counts": {
+    "directory_entries_before": 2158,
+    "catalogue_ids_checked": 2161,
+    "gbbest_records_checked": 976,
+    "marketplace_items": 84,
+    "marketplace_names_already_listed": 81,
+    "ids_never_seen_in_any_record": 74,
+    "verified_live_this_pass": 73,
+    "added_to_directory": 15,
+    "rotation_sampled": 25,
+    "rotation_dead": 0,
+    "rotation_renamed": 0
+  },
+  "verification": {
+    "reader": "ops/tools/share_record_scan.py (authoritative: decodes the RSC flight payload and raw-decodes the share record)",
+    "bar": "HTTP 200 AND a share record carrying botName + description; the bot name on the record matches the catalogue name",
+    "handle_rule": "builder handle set only where two independent sources agree on the same share id: the platform share record's sharerName AND the author of the X post carrying that exact share link. All five handle-carrying entries in this pass were corroborated with api.fxtwitter.com, and the post author's display name matches the platform sharer name in every case.",
+    "corroborated": [
+      {"bot_id": "4DlWbDs7ddKWhgpQ3l71a", "sharer": "Anthony", "post_author": "AnthonyDo", "post": "https://x.com/AnthonyDo/status/2103636106982121977", "post_contains_link": true, "post_author_name": "Anthony"},
+      {"bot_id": "F6GRww2AYVsAT2HajH5CK", "sharer": "Rae", "post_author": "Raester41", "post": "https://x.com/Raester41/status/2103635523785064711", "post_contains_link": true, "post_author_name": "Rae Ster"},
+      {"bot_id": "Lll9_CtLlBh_nEOWVQfMY", "sharer": "Nourhan Beyrouti", "post_author": "beyrouti", "post": "https://x.com/beyrouti/status/2103635867004981608", "post_contains_link": true, "post_author_name": "Nourhan"},
+      {"bot_id": "PJogrsWFV5ePKHLKwMMlQ", "sharer": "Nic Ivy", "post_author": "njivy", "post": "https://x.com/njivy/status/2103635667683311946", "post_contains_link": true, "post_author_name": "Nic Ivy"},
+      {"bot_id": "uv2Ej8EsdmBpBn0p9FnhH", "sharer": "Ian R. Cohen", "post_author": "btclawyerguy", "post": "https://x.com/btclawyerguy/status/2103636312729194799", "post_contains_link": true, "post_author_name": "Ian R. Cohen (Bitcoin Lawyer Guy)"}
+    ]
+  },
+  "added": [
+    {"name": "Job Hunt", "slug": "job-hunt", "url": "https://x.ai/bot/4DlWbDs7ddKWhgpQ3l71a", "category": "productivity", "builder": {"name": "Anthony", "x": "AnthonyDo"}},
+    {"name": "Web 3/ Crypto", "slug": "web-3-crypto", "url": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK", "category": "money", "builder": {"name": "Rae", "x": "Raester41"}},
+    {"name": "NoShipSherlock", "slug": "noshipsherlock", "url": "https://x.ai/bot/Lll9_CtLlBh_nEOWVQfMY", "category": "productivity", "builder": {"name": "Nourhan Beyrouti", "x": "beyrouti"}},
+    {"name": "Staging QA Tester", "slug": "staging-qa-tester", "url": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ", "category": "engineering", "builder": {"name": "Nic Ivy", "x": "njivy"}},
+    {"name": "Fantasy Football", "slug": "fantasy-football-2", "url": "https://x.ai/bot/uv2Ej8EsdmBpBn0p9FnhH", "category": "life", "builder": {"name": "Ian R. Cohen", "x": "btclawyerguy"}},
+    {"name": "Tesseract Video Editor", "slug": "tesseract-video-editor", "url": "https://x.ai/bot/11IubmXmwiQg8UdZY41SK", "category": "creative", "builder": {"name": "A-A-ron", "x": ""}},
+    {"name": "XChat 사례 큐레이터 봇", "slug": "xchat-case-curator", "url": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi", "category": "research", "builder": {"name": "Brandon Chung", "x": ""}},
+    {"name": "FUTU 브로커 주식 거래 봇", "slug": "futu-broker-trading", "url": "https://x.ai/bot/cKT95HyhEKDcdZa1_tt2r", "category": "money", "builder": {"name": "Brandon Chung", "x": ""}},
+    {"name": "Tallyhand", "slug": "tallyhand", "url": "https://x.ai/bot/7fExIoCYvACOqWtnY0U0o", "category": "productivity", "builder": {"name": "Brandon Pendleton", "x": ""}},
+    {"name": "Shipcall", "slug": "shipcall", "url": "https://x.ai/bot/heDLKYR7XvlUURWPVYPZD", "category": "engineering", "builder": {"name": "Brandon Pendleton", "x": ""}},
+    {"name": "Briefkeep", "slug": "briefkeep", "url": "https://x.ai/bot/JlW3e0RAMYLcjQ5a32rCY", "category": "productivity", "builder": {"name": "Brandon Pendleton", "x": ""}},
+    {"name": "Shelf Scout", "slug": "shelf-scout", "url": "https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6", "category": "life", "builder": {"name": "Jacob Smalley", "x": ""}},
+    {"name": "Bound", "slug": "bound", "url": "https://x.ai/bot/f3FJP1laxNi9tVcRd_lFh", "category": "productivity", "builder": {"name": "Jason", "x": ""}},
+    {"name": "Slop Forge", "slug": "slop-forge", "url": "https://x.ai/bot/mX3svMK3zEEfiK1XAeXEk", "category": "creative", "builder": {"name": "The Guy", "x": ""}},
+    {"name": "Asana Task Master", "slug": "asana-task-master", "url": "https://x.ai/bot/S2LodAIjlLw0mB30vN3Gl", "category": "productivity", "builder": {"name": "Wayne Lowry", "x": ""}}
+  ],
+  "held": {
+    "spacex_first_party_rows": 56,
+    "spacex_note": "xAI's own first-party template library. The platform display name is the org name SpaceX, so there is no community builder to attribute, and listing them invites an xAI-endorsement read. Unchanged policy from the 07:00 and 00:55 passes.",
+    "no_display_name": ["Big Tony (hBo0iWrkgWTueZe1TyGhm)", "Tradbot alias id (wOE4e95HNxhSbrzyLkSI-, alias of the listed tradbot)"],
+    "blank_templates": ["Pa8G-Ldh5jU_jozWEu2Cs", "Uy2oK9854UViaiO0rQ6nC", "hEmSUvWxccmfAVDGri1R8"],
+    "personas_of_named_individuals": ["Elon Musk (Algorithm & constraint)"],
+    "generic_name_twins": ["The List", "Grok Bot (Finance, MT6acytP70wHR526vPvM3)"],
+    "other": ["anew (qtuoVRf5etpEVPNA29i7H)"],
+    "four_oh_four": ["zKmuIjjZJmPOpwkuaCgIj", "-sOdLVj33yh8hh7OlHogi", "1HFC3QdqPtcj1FIbKf8oq"],
+    "marketplace_only_no_share_link": ["QA bot", "PM bot", "Engineering Lead"]
+  },
+  "rotation": {
+    "sampled": 25,
+    "dead": 0,
+    "renamed": 0,
+    "note": "25 existing listings re-opened live with share_record_scan.py; all 200, all names unchanged. Nothing set pending, nothing delisted."
+  },
+  "marketplace": {
+    "url": "https://x.ai/bot/marketplace",
+    "items": 84,
+    "already_covered_by_name": 81,
+    "coverage": "96%",
+    "new_since_2026-09-22_walk": 5,
+    "note": "The official marketplace now renders an ItemList of 84 curated templates in the RSC flight payload, so it is readable without a browser. It is now public (Sawyer Merritt announced it). It serves its own share alias ids for bots that builders also shared directly (see ops/marketplace-alias-map.json), so match marketplace candidates by NAME, never by URL. The three names not in the directory expose no share link on their marketplace detail page, so they cannot be verified or listed."
+  },
+  "marketing_signal": [
+    {
+      "post": "https://x.com/Bwilson/status/2097121334748643683",
+      "text": "Built my first sharable Grok Bot template - LG Laundry Specialist",
+      "views": 218776,
+      "note": ">100K views. The bot is already listed (added 2026-09-08). The angle that travels is a physical, verifiable appliance job (washer/dryer cycles via a CLI), not a knowledge-work assistant."
+    },
+    {
+      "post": "https://x.com/mattyp/status/2093379758306504935",
+      "text": "We just launched Templates in Grok Bot - loops bot",
+      "views": 444200,
+      "note": "Highest-engagement template post seen in this pass; still the strongest content angle for the owner's own account."
+    },
+    {
+      "post": "https://x.com/SawyerMerritt/status/2095961467359006822",
+      "text": "SpaceXAI just launched a new Grok Bot template marketplace",
+      "note": "The official marketplace is public with engineering, sales, product, operations, finance and design categories. Logged as a signal only; nothing posted."
+    }
+  ],
+  "reader_note": "share_record_scan.py (added 07:00 today) was the only reader used. verify-bot-links.py / fetch_share_full.py were not used for accept/reject because of their documented false-negative mode on escaped quotes and null sharerName.",
+  "rules_applied": [
+    "dedupe on the x.ai/bot id against content/bots.json and every id already recorded in ops/*.json plus the scout state files",
+    "never list an unverified bot: every url above returned 200 with a live share record",
+    "slug ASCII-only kebab, unique; non-Latin names transliterate to an English slug or keep the native name with an ASCII slug (84 non-ASCII names already in the directory)",
+    "name-only builder when the platform record's display name cannot be corroborated against a handle that appears on a post carrying the same share link",
+    "no bare @handle anywhere in this file, the PR title, the PR body or the commit message"
+  ]
+}
