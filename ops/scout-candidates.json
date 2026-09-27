@@ -1,5 +1,77 @@
 [
  {
+  "name": "Bill Watch",
+  "bot_id": "doSuUa9J-ChT2mhQt5Iei",
+  "url": "https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei",
+  "builder_x_handle": "",
+  "one_line_desc": "Sweeps your email for charges you forgot and returns a Keep, Cut or Check list.",
+  "source_post_url": "https://x.com/DennisW_15",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Quartermaster",
+  "bot_id": "JOeuvpFg4v2VAuYX8H0UM",
+  "url": "https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM",
+  "builder_x_handle": "",
+  "one_line_desc": "Keeps a household budget in a sheet and reports which card earns most.",
+  "source_post_url": "https://x.com/yoshih543/status/2104072319190859796",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Media Ledger",
+  "bot_id": "xpZm4ufgAWoCcYPAbugWE",
+  "url": "https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE",
+  "builder_x_handle": "phillipstewart",
+  "one_line_desc": "Catalogues the ebooks, games, films and albums you already own.",
+  "source_post_url": "https://x.com/phillipstewart/status/2104066615734104164",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Find Good Stocks",
+  "bot_id": "2vgMdaQRj4mBWUMygUThf",
+  "url": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+  "builder_x_handle": "",
+  "one_line_desc": "Stress-tests a stock thesis against public information, in Chinese.",
+  "source_post_url": "https://x.com/TSLARKLBTSM/status/2104065607524384822",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Provenance",
+  "bot_id": "BVB4ROqmz6xQon8KskyTI",
+  "url": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+  "builder_x_handle": "",
+  "one_line_desc": "Mines event logs for process bottlenecks and separates fact from inference.",
+  "source_post_url": "https://x.com/WaterMixing/status/2104177149179760732",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Ho Be Gone",
+  "bot_id": "zM69z4OgdFDSzWcFNsQqx",
+  "url": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+  "builder_x_handle": "",
+  "one_line_desc": "Blocks scam and spam accounts around your X follows, with a daily undo list.",
+  "source_post_url": "https://x.com/TheRetardedELon/status/2104149765562957993",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Author",
+  "bot_id": "UYdkpfZSu4O6N8_cRXpJO",
+  "url": "https://x.ai/bot/UYdkpfZSu4O6N8_cRXpJO",
+  "builder_x_handle": "OliverRCote",
+  "one_line_desc": "A weekly self-authoring coach that keeps a living roadmap of your goals.",
+  "source_post_url": "https://x.com/OliverRCote/status/2104172756782764494",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
+  "name": "Lyric Guard",
+  "bot_id": "l4NfEcvgnDxLpDiS2nSH7",
+  "url": "https://x.ai/bot/l4NfEcvgnDxLpDiS2nSH7",
+  "builder_x_handle": "",
+  "one_line_desc": "Checks a song's lyrics against scripture and cites the lines it judges.",
+  "source_post_url": "https://x.com/soundecclesia/status/2104128291623862434",
+  "found_at": "2026-09-28T02:20:00+05:30"
+ },
+ {
   "name": "财报锦囊",
   "bot_id": "d48QaYERwvgtUmYsGlyz8",
   "url": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
@@ -418,85 +490,5 @@
   "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
   "found_at": "2026-09-27T14:00:00+05:30",
   "status": "REJECTED on policy, not on verification: live 200 with a real description, but it is a censorship-circumvention/proxy-VPS deployment helper. Left out on the AGENTS.md \"when in doubt, leave it out\" rule."
- },
- {
-  "name": "Grok Bot (blank template shells)",
-  "bot_id": "hEmSUvWxccmfAVDGri1R8 / Uy2oK9854UViaiO0rQ6nC / Pa8G-Ldh5jU_jozWEu2Cs",
-  "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
-  "builder_x_handle": "",
-  "one_line_desc": "template placeholder text only.",
-  "source_post_url": "https://grokbots.best",
-  "found_at": "2026-09-27T14:00:00+05:30",
-  "status": "REJECTED: 200 but no share record (ownerType TEAM, empty botName) - the generic \"Use this template to create a new bot or apply it to an existing bot\" shell. Same reject class as every earlier pass."
- },
- {
-  "name": "Moonshot",
-  "bot_id": "fSBU34VR0gqteP3IOAnr8",
-  "url": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
-  "builder_x_handle": "",
-  "one_line_desc": "Two tech podcasts digested into briefs.",
-  "source_post_url": "https://grokbot.dev",
-  "found_at": "2026-09-27T14:00:00+05:30",
-  "status": "REJECTED: the registry feed still carries this share id but the page is now 404 - dead id, not queued."
- },
- {
-  "name": "3-Day Notice Validator",
-  "bot_id": "opCFOq0FKZ41PBIiBeuVO",
-  "url": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
-  "builder_x_handle": "SinaiLawFirm",
-  "one_line_desc": "Checks a California three-day pay-or-quit notice field by field before you serve it.",
-  "source_post_url": "https://x.com/SinaiLawFirm/status/2103997263009980625",
-  "found_at": "2026-09-27T07:50:00+05:30",
-  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
- },
- {
-  "name": "IT Department Lead",
-  "bot_id": "28cjt6-FRq2D69vUX5F9L",
-  "url": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
-  "builder_x_handle": "braytron",
-  "one_line_desc": "Runs a fleet of IT sibling bots and takes on the cross-cutting asks.",
-  "source_post_url": "https://x.com/braytron/status/2103994716685791345",
-  "found_at": "2026-09-27T07:50:00+05:30",
-  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
- },
- {
-  "name": "Calendar Liftoff",
-  "bot_id": "nJ7hHZsPczXvJIi0wv8c-",
-  "url": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
-  "builder_x_handle": "tdsfixer",
-  "one_line_desc": "Turns a theme, a subject or a year into a print-ready 12x12 photo wall calendar.",
-  "source_post_url": "https://x.com/tdsfixer/status/2103993998675448184",
-  "found_at": "2026-09-27T07:50:00+05:30",
-  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
- },
- {
-  "name": "Quill",
-  "bot_id": "tHo33t3IaAhpxds5IpNbD",
-  "url": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
-  "builder_x_handle": "the_simonjester",
-  "one_line_desc": "Craft pass for Obsidian notes: voice punch-up, continuity or a depth read.",
-  "source_post_url": "https://x.com/the_simonjester/status/2103992041734811919",
-  "found_at": "2026-09-27T07:50:00+05:30",
-  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
- },
- {
-  "name": "ScriptSprint",
-  "bot_id": "YV5xOs96YaWLN39PbkPwk",
-  "url": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
-  "builder_x_handle": "the_simonjester",
-  "one_line_desc": "Turns voice, meeting and rant transcripts into speakers, action items and library atoms.",
-  "source_post_url": "https://x.com/the_simonjester/status/2103991653375824068",
-  "found_at": "2026-09-27T07:50:00+05:30",
-  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
- },
- {
-  "name": "Solopreneur Chief of Staff",
-  "bot_id": "NsCDfZMFctaP1WIp_48k4",
-  "url": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
-  "builder_x_handle": "c0rtex1100X",
-  "one_line_desc": "Chief of staff for solopreneurs: short scoreboards and hard approval gates.",
-  "source_post_url": "https://x.com/c0rtex1100X/status/2103990572000378881",
-  "found_at": "2026-09-27T07:50:00+05:30",
-  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
  }
 ]

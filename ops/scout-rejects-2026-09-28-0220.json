@@ -1,0 +1,46 @@
+{
+ "pass": "2026-09-28-0220",
+ "checked_at": "2026-09-28T02:20:00+05:30",
+ "verifier": "ops/tools/share_record_scan.py (HTTP 200 + share record carrying botName and a real description)",
+ "rejected": {
+  "200_no_share_record (draft or team-only link)": [
+   {"id": "jhwkYhWyRJbDs_-uHzGar", "name": "Launch & Sky Watch", "source": "grokbot.dev feed 2026-09-27T04:56Z"},
+   {"id": "Dkl9wzI9FCt4EhqTHfsk2", "name": "Critique", "note": "queued since the Sep 26 pass, still unpublished"},
+   {"id": "QCwGPAlho0dBvBds_IOWF", "name": "Algorithm & Constraint", "note": "listed as 'Elon Musk (Algorithm & constraint)' on grokbots.best; page carries no botName"},
+   {"id": "Uy2oK9854UViaiO0rQ6nC", "name": "Deck Builder", "note": "second pass rejected; renders the generic shared-Bot shell on x.ai"}
+  ],
+  "http_404": [
+   {"id": "fSBU34VR0gqteP3IOAnr8", "name": "Moonshot", "source": "grokmarket.io"},
+   {"id": "Kn0qDWAH3LrNZHhllpPhW", "name": "AISØN Vice Captain", "source": "grokbotwiki catalog.json"},
+   {"id": "evB30VVYLfCGPxCdKoAuX", "name": "Infra Bot", "source": "grokmarket.io"},
+   {"id": "TNPSVnX4Dm", "name": "LG Laundry Specialist", "note": "id truncated in the announcing post; the shard itself 404s"}
+  ],
+  "re-share of a listed bot (second share id, same name)": [
+   "wOE4e95HNxhSbrzyLkSI- Tradbot", "AZKaQOsjrAa51Nb4xvTur Projects Manager", "i2hvaEONDg6_gEF5C9RlK Researchy",
+   "q4u8YgzGQqCAOUZcg0Lgt Credit Card Max", "pXNvc_U2cGyZmheYrUuF_ figma bro", "zkVS-PkX1ooTE2nP21DPO Pitch Deck Coach",
+   "-L1yFJ5mtwPgn3O_iYUo_ Clip Bot", "-hmCmHB0ynJGvSKxeINfS tinkabot", "c47Jj2QSSR1UXEcuBgUtQ Home robots",
+   "0LLQmzk-yzwHi0zuiV0lC Nightly Audit Engineer", "PaYvPhWPSynlUwFqMX7nc Tech Demos", "yTeKCLayahHnMdHFG9GJg Deal Hunting",
+   "TxB-fy1KryaYJLYWBcGtT last30days", "_rzRrKKlUyBD3znUN5b3Q Site Audit", "RO8GwQZFXL9O95i13epqF X Brief",
+   "ph-u_zkF5Vui1GdGnysn9 Product Idea Stress Test", "4mOGY7Nd_mRvrwZYec4Jq The List", "Uy2oK9854UViaiO0rQ6nC Deck Builder"
+  ],
+  "name too thin for a listing": [
+   {"id": "qtuoVRf5etpEVPNA29i7H", "name": "anew", "reason": "live, but the published description on its own share page is the three-word stub 'free webpages'"},
+   {"id": "GuhaTzThKQG2MKJyHoREx", "name": "Premarket Desk · 盘前早报", "reason": "live with a real botName, but the published description on the share page reads '$3d', an unfilled placeholder"},
+   {"ids": ["hEmSUvWxccmfAVDGri1R8", "Pa8G-Ldh5jU_jozWEu2Cs"], "name": "Grok Bot", "reason": "unmodified default shell, description 'Use this template to create a new bot or apply it to an existing bot'"},
+   {"id": "marketplace", "name": "Grok Bot Marketplace", "reason": "the marketplace page itself, not a bot; carried as a record by grokbots.best"}
+  ]
+ },
+ "held_for_owner": {
+  "spacex_credited_pack": {
+   "ids": 56,
+   "note": "The @DenisLabelle feed pack (Account Health, Account Manager, Chief of Staff, SEO / AEO Auditor, Sales Call Coach and so on). Every one verifies live with a real botName and description, but each credits the creator display name 'SpaceX'. Listing them would put 'by SpaceX' on 56 pages and imply xAI endorsement, which AGENTS.md forbids. Unchanged from the 20:10 pass, still an owner call.",
+   "source": "grokbot.dev feed, grokbotwiki.com/bots/catalog.json"
+  },
+  "elon_persona_bots": [
+   {"id": "cxUln0vqOPK7V3RccS0nm", "name": "Elongated Musketeer", "note": "live, description reads 'Elon Musk personality proxy'; naming it raises a trademark question"},
+   {"id": "skVoYDfnNUPqUYIxkjXJK", "name": "Elon", "note": "live, first-principles sparring partner; same trademark question"},
+   {"id": "Wj3E3oow1J4gjwK4E2vNy", "name": "B", "note": "live, published name is the single letter B; not enough of a name to list"}
+  ]
+ },
+ "zero_cost": "web_search + web_extract + curl + urllib only; no paid API call made"
+}
