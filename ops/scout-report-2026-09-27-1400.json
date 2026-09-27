@@ -1,0 +1,63 @@
+{
+  "run": "2026-09-27 14:00 IST scout pass (cron 359022f62495)",
+  "branch": "ops/scout-pending",
+  "push": true,
+  "push_reason": "20 verified new bots (>= 3 gate met)",
+  "method": "Live fetch of every candidate x.ai/bot link with ops/tools/share_record_scan.py (HTTP 200 + share record carrying botName and a real description). Zero paid API calls: web_search + api.fxtwitter.com + curl/urllib only.",
+  "counts": {
+    "candidates_screened": 27,
+    "live_and_verifiable": 25,
+    "added_to_directory": 20,
+    "held": 4,
+    "rejected": 4,
+    "directory_after": 2265,
+    "published_after": 2261,
+    "builders_after": 1012
+  },
+  "sources": {
+    "grokbot.dev registry feed": "1,292 items, generated_at 2026-09-27T05:08:20Z, newest added_at 2026-09-26T23:56:52Z. Only one item landed since the 07:50 pass and it was already listed: the Sept 29 contest surge has paused.",
+    "grokbots.best": "1,020 records, 9 unseen share ids, 5 usable (4 were blank shells or the marketplace link).",
+    "grokbot-templates.com/api/templates": "new this pass - free JSON, 48 items per response and the response is static (identical bytes on 20 offset requests across ~2 minutes), 16 of the 48 were new by share id and by name.",
+    "x.ai/bot/marketplace": "rendered via web_extract: 62 Add links, 10 not listed by id, but all 10 are already listed under other share ids (Projects Manager, figma bro, tinkabot, Researchy, Nightly Audit Engineer, Tech Demos, Clip Bot, Credit Card Max, Sawyer Merritt Home Robots, last30days).",
+    "grokbotpulse.com": "10 links, none new.",
+    "grokbots.page": "523 links, none new.",
+    "x.ai/news": "newest article is still Grok Bot customer support (Sep 22) - nothing to add to news.json."
+  },
+  "rotation": {
+    "sampled": 28,
+    "live": 28,
+    "dead": 0,
+    "renamed": 0,
+    "seed": 2026092714,
+    "tool": "ops/tools/rotation-2026-09-27-1400.py"
+  },
+  "marketing_signals_checked_with": "api.fxtwitter.com per post (views/likes/bookmarks read live, not from search snippets)",
+  "marketing_signals": [
+    {
+      "post": "https://x.com/bot/status/2103936247995752705",
+      "what": "Grok Bot now connects to your finances (new Finance integration)",
+      "stats": "22,164,366 views, 4,821 likes, 1,373 bookmarks (Sep 26)",
+      "note": "clears both thresholds (>100K views, >1K bookmarks) - first signal in three passes"
+    },
+    {
+      "post": "https://x.com/elonmusk/status/2103958249922072840",
+      "what": "Elon quote-posting the Finance integration",
+      "stats": "22,309,284 views, 11,370 likes, 1,470 bookmarks (Sep 26)"
+    },
+    {
+      "post": "https://x.com/chrisparkX/status/2103872878328385990",
+      "what": "Grok Bot to XChat coming soon",
+      "stats": "25,103 views, 442 likes, 26 bookmarks - below threshold, recorded for context only"
+    }
+  ],
+  "blocked_sources": [
+    "x.ai/bot/marketplace and the category pages ship no x.ai/bot links in the server HTML (client-rendered); web_extract was used instead."
+  ],
+  "tools": [
+    "ops/tools/fetch-registry-feed.py",
+    "ops/tools/share_record_scan.py",
+    "ops/tools/rotation-2026-09-27-1400.py",
+    "ops/tools/import-scout-pass-2026-09-27-1400.py",
+    "ops/tools/refresh-candidates-2026-09-27-1400.py"
+  ]
+}
