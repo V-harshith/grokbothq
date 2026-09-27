@@ -9644,7 +9644,7 @@
   },
   {
     "slug": "printerbot-by-federico-nPwfPZq-",
-    "name": "printerbot by Federico",
+    "name": "printerbot",
     "builder": {
       "name": "viticci",
       "x": "viticci"
@@ -13075,7 +13075,7 @@
     "category": "engineering",
     "url": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
     "addedAt": "2026-09-09",
-    "status": "published",
+    "status": "pending",
     "source": "https://x.com/rlagos24/status/2097329900126404773"
   },
   {
@@ -34683,5 +34683,260 @@
     "addedAt": "2026-09-27",
     "status": "published",
     "source": "https://grokbot-templates.com"
+  },
+  {
+    "slug": "chinese-earnings-digest",
+    "name": "财报锦囊",
+    "builder": {
+      "name": "CHENG LUO",
+      "x": "kaixinluo6268"
+    },
+    "tagline": "Give it a US ticker and it returns a seven-point Chinese readout of the latest quarter.",
+    "description": "Name a US-listed ticker and the bot assembles the freshest quarter: the headline numbers, what analysts expected going in, how the outlook language changed, and the main points from the earnings call. The output is a seven-point summary written in Chinese, built for a fast skim rather than deep analysis, and it stops short of telling you what to trade.",
+    "category": "money",
+    "url": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/kaixinluo6268/status/2104179253310869673"
+  },
+  {
+    "slug": "delta-x",
+    "name": "Delta-X",
+    "builder": {
+      "name": "Courtney Tischler",
+      "x": "peoniesdragon"
+    },
+    "tagline": "A weekly planner that audits subscriptions and commits to only three changes.",
+    "description": "Once a week it looks at the routines of daily life, household admin, odd work hours and one hobby, and settles on the few changes that matter most while parking the rest. It also reads through email receipts for subscriptions and recurring charges you had forgotten about, and prepares the cancellations you choose. Deliberately calm housekeeping rather than a productivity regime.",
+    "category": "life",
+    "url": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/peoniesdragon/status/2104150894933925898"
+  },
+  {
+    "slug": "claimed",
+    "name": "Claimed",
+    "builder": {
+      "name": "Liam",
+      "x": "liam_fallen"
+    },
+    "tagline": "One careful sweep for refunds, settlements and compensation you may already be owed.",
+    "description": "It runs a single deep pass over official refund schemes, class-action settlements and government compensation programs in your country, then matches what it finds against your situation and the evidence in your own records. The focus is money you are already entitled to rather than new spending, and every match names the program and how claiming works. Nothing is filed without your approval.",
+    "category": "money",
+    "url": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/liam_fallen/status/2104147556880064556"
+  },
+  {
+    "slug": "math-researcher",
+    "name": "Math Researcher",
+    "builder": {
+      "name": "Nathan Meeks",
+      "x": "NathanAMeeks"
+    },
+    "tagline": "A proof-first maths partner that labels every result as proven, checked, or heuristic.",
+    "description": "Works with you on serious derivations, from heat-flow estimates to upper-bound arguments, and tags each result by how hard it was actually checked: proven, numerically spot-checked, or plain heuristic. That labelling is the point, keeping a conjecture from being read as a settled theorem. Built to resist overclaiming on open problems.",
+    "category": "research",
+    "url": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/NathanAMeeks/status/2104140368635994382"
+  },
+  {
+    "slug": "fitboard",
+    "name": "Fitboard",
+    "builder": {
+      "name": "etoo etoobitz",
+      "x": "e2bitz_83"
+    },
+    "tagline": "Five quick questions in, a priced furnishing shortlist and a one-page PDF out.",
+    "description": "It asks five short questions about the property, your budget, the rooms, the style you like and the country, then searches a real store, reads the live product-page prices, and returns a shortlist table plus a one-page PDF. The picks stay inside the budget you named, and prices come from the listings rather than estimates.",
+    "category": "life",
+    "url": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/e2bitz_83/status/2104126565013696813"
+  },
+  {
+    "slug": "mystery-eshopper",
+    "name": "Mystery eShopper",
+    "builder": {
+      "name": "Vic G",
+      "x": "VicGellon"
+    },
+    "tagline": "Mystery-shops your store end to end and returns a scored journey plus bug reports.",
+    "description": "It walks an ecommerce site from landing page to checkout the way a real customer would, then scores the trip metric by metric, marking each one passed or failed with the evidence attached. Problems come back as developer-ready bug reports with screenshots or video, giving a store owner an outside read on the funnel without hiring a tester.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/VicGellon/status/2104124777850081574"
+  },
+  {
+    "slug": "pounce",
+    "name": "POUNCE",
+    "builder": {
+      "name": "Thuong P. Nguyen",
+      "x": "teeRex247"
+    },
+    "tagline": "A daily sweep of AI-company contests, grants, credits and hackathons, deadlines verified.",
+    "description": "Each day it scans what AI companies are offering by way of contests, grant programs, free credits and hackathons, then re-checks every deadline on the page that announced it. Anything you have already seen is held back, so what reaches you is a short list of genuinely new openings.",
+    "category": "research",
+    "url": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/teeRex247/status/2104115575169376736"
+  },
+  {
+    "slug": "bot-foundry",
+    "name": "Bot Foundry",
+    "builder": {
+      "name": "Joseph Snyder",
+      "x": "BTC_Yogi"
+    },
+    "tagline": "Describe an idea or a daily chore and get a full draft bot package to publish.",
+    "description": "Give it a single idea, or a task you repeat every day, and it drafts the whole bot around it: the concept, a quick check of what already exists, the persona, the skills, the routines and a testing pass. It will draft candidate launch posts too, so the announcement is not a blank page. Publishing stays in your hands.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/BTC_Yogi/status/2104114828692648222"
+  },
+  {
+    "slug": "weather-scout",
+    "name": "Weather Scout",
+    "builder": {
+      "name": "Javier Candiotti",
+      "x": "AdeptusMec71933"
+    },
+    "tagline": "A 72-hour go, marginal or no-go launch weather read for the big US spaceports.",
+    "description": "Ask about Vandenberg, Cape Canaveral, Starbase or any pad you name, and it grades the coming 72 hours for a launch commit from public forecasts and model guidance alone. Each day gets a three-step verdict in a table with the reasoning shown. It states plainly that this is not official range status.",
+    "category": "research",
+    "url": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/AdeptusMec71933/status/2104102012602433803"
+  },
+  {
+    "slug": "epigenetics-scout",
+    "name": "Epigenetics Scout",
+    "builder": {
+      "name": "Javier Candiotti",
+      "x": "AdeptusMec71933"
+    },
+    "tagline": "A weekly digest of new partial-reprogramming papers, findings kept apart from hype.",
+    "description": "Once a week it scans PubMed, bioRxiv and public lab pages for new work on partial epigenetic reprogramming and writes a plain-language brief. Each item separates what a study actually demonstrated from what remains speculation, and open safety questions are flagged. It stays strictly with the literature: no protocols and no do-it-yourself instructions.",
+    "category": "research",
+    "url": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/AdeptusMec71933/status/2104099408996671984"
+  },
+  {
+    "slug": "markets-digest",
+    "name": "Markets Digest",
+    "builder": {
+      "name": "Mark 篠崎",
+      "x": "marksoze"
+    },
+    "tagline": "Two plain-language markets digests each weekday, the evening one free of repeats.",
+    "description": "On weekdays it files a morning and an evening markets digest in everyday language rather than trading jargon, with each story carrying its source so you can check the reporting yourself. The evening edition is compared against the morning one, so it only carries what is genuinely new.",
+    "category": "money",
+    "url": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/marksoze/status/2104099090514800942"
+  },
+  {
+    "slug": "sports-bet-prophet",
+    "name": "Sports bet prophet",
+    "builder": {
+      "name": "BackWoods",
+      "x": "SGBackWoods"
+    },
+    "tagline": "Shops public odds for two-leg doubles in a set price band; you place the wager.",
+    "description": "It compares public odds while hunting two-leg doubles inside a stated price band, applying firm pass rules and a kill switch rather than chasing long shots. Candidates arrive with the reasoning shown, and it says so on the days when nothing qualifies. It never places a bet, and it is upfront that losing is still possible.",
+    "category": "money",
+    "url": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/SGBackWoods/status/2104094659160977832"
+  },
+  {
+    "slug": "rugradar-ai",
+    "name": "RugRadar AI",
+    "builder": {
+      "name": "teabagno1",
+      "x": "teabagno1"
+    },
+    "tagline": "Reads a Solana token's public chain record for the classic rug-pull warning signs.",
+    "description": "Point it at a Solana token and it studies the public blockchain record on the token and the wallet that created it, looking for the familiar rug-pull tells such as concentrated holdings or rapid wallet activity, and it lays them out in a plain risk readout. The builder labels it an early alpha. Research only: no wallet connection, no signing, no nudge to buy.",
+    "category": "money",
+    "url": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/teabagno1/status/2104094360522395686"
+  },
+  {
+    "slug": "improve-my-odds",
+    "name": "Improve My Odds",
+    "builder": {
+      "name": "Scott H",
+      "x": "SkippyyTM"
+    },
+    "tagline": "Name a goal, throw everyday choices at it, get a helps, hurts or neutral read.",
+    "description": "You set the goals that matter to you, then put everyday decisions to it, large or small, and each one comes back with a straightforward read: it improves your odds of getting there, hurts them, or makes no real difference. Probabilities rather than promises, and the bot defers to your own judgement every time.",
+    "category": "life",
+    "url": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/SkippyyTM/status/2104094233951146039"
+  },
+  {
+    "slug": "coverage-desk",
+    "name": "Coverage Desk",
+    "builder": {
+      "name": "Brian M.",
+      "x": "lonzom10"
+    },
+    "tagline": "Explains an insurance declarations page in everyday wording, and sells nothing.",
+    "description": "Paste in a declarations page or your own list of coverages and it explains in plain English what each part of the policy does and does not cover. It will not sell, quote prices, or invent limits that are not written down, and any question it cannot settle from the document goes to the licensed agent named on the page.",
+    "category": "life",
+    "url": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/lonzom10/status/2104086012989477216"
+  },
+  {
+    "slug": "inbox-scout",
+    "name": "Inbox Scout",
+    "builder": {
+      "name": "Javier Candiotti",
+      "x": "AdeptusMec71933"
+    },
+    "tagline": "A short morning brief of unread mail, sorted into needs me, can wait and noise.",
+    "description": "It produces a brief from the last 24 hours of unread Gmail, grouping messages into needs me, can wait and noise. Replies are drafted in chat only, and nothing leaves your account without you approving it first.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/AdeptusMec71933/status/2104085923835281827"
+  },
+  {
+    "slug": "chop-bot",
+    "name": "Chop Bot",
+    "builder": {
+      "name": "Calix Build",
+      "x": "CaliLumberJack"
+    },
+    "tagline": "One daily brief for inbox, calendar and X replies, drafts only.",
+    "description": "It cuts your inbox, calendar and X replies down to what actually needs attention: a single daily brief, nudges on the follow-ups you have not chased, and heads-ups about comments still unanswered. Run limits and checks are built in, and it drafts rather than sends.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+    "addedAt": "2026-09-27",
+    "status": "published",
+    "source": "https://x.com/CaliLumberJack/status/2104076140528988469"
   }
 ]

@@ -1,502 +1,502 @@
 [
-  {
-    "name": "SEO Content Desk (seodraft)",
-    "bot_id": "OkT4Dbjy4xVf7oVBCr8hL",
-    "url": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
-    "builder_x_handle": "chorch_md",
-    "one_line_desc": "SEO content desk: topics from real search volume, drafts from your own evidence, filler stripped before it ships.",
-    "source_post_url": "https://x.com/chorch_md",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; handle corroborated by api.fxtwitter.com/chorch_md (display name \"Chorch\" = the share record sharerName). The feed source is the creator profile, not a post."
-  },
-  {
-    "name": "フォーム優先アウトバウンド",
-    "bot_id": "-4fEgwVFAm8w_ULi4pjmC",
-    "url": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
-    "builder_x_handle": "",
-    "one_line_desc": "Form-first B2B outreach for Japan: copy gate, daily prep, owner-GO sends, CRM logging, weekly PDCA.",
-    "source_post_url": "https://x.com/isle_claude/status/2103699353751969828",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - the post author (isle_claude) and the share record sharer (直人 島) do not agree, so no handle was written."
-  },
-  {
-    "name": "Grok Bot",
-    "bot_id": "MT6acytP70wHR526vPvM3",
-    "url": "https://x.ai/bot/MT6acytP70wHR526vPvM3",
-    "builder_x_handle": "sammya_sh",
-    "one_line_desc": "Investment research teammate: research, rank and one clear pick, plus a weekly watch brief.",
-    "source_post_url": "https://x.com/sammya_sh/status/2102971805292167403",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; the post is the builder's own (\"I built a Grok Bot that turns stock research into a decision\") and its body carries this exact share id. Directory name is the live record name, which is generic - it is a fifth shareable row on the storefront, not a re-share of grok-bot-2 (different share id, different description)."
-  },
-  {
-    "name": "Forge Coach",
-    "bot_id": "ZBDynmT5k_WrRqQwoxdrI",
-    "url": "https://x.ai/bot/ZBDynmT5k_WrRqQwoxdrI",
-    "builder_x_handle": "CoffeeNGrit",
-    "one_line_desc": "Daily workout builder from a short questionnaire on age, fitness, gear and space.",
-    "source_post_url": "https://x.com/CoffeeNGrit/status/2104045388210508129",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; handle taken because the share record sharer \"Coffee and Grit\" is the display name of the author of that post (the post body carries the sister bot PFP Studio's share id, not this one)."
-  },
-  {
-    "name": "PFP Studio",
-    "bot_id": "EQbigdwH3pEmkYcsbgidx",
-    "url": "https://x.ai/bot/EQbigdwH3pEmkYcsbgidx",
-    "builder_x_handle": "CoffeeNGrit",
-    "one_line_desc": "Three profile pictures from one photo and a named style, then edits on your favourite.",
-    "source_post_url": "https://x.com/CoffeeNGrit/status/2104045388210508129",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; post body carries this exact share id and is authored by the same account the share record names."
-  },
-  {
-    "name": "Agent Mail",
-    "bot_id": "j9Cm3GKLDCptPwwxZWbbD",
-    "url": "https://x.ai/bot/j9Cm3GKLDCptPwwxZWbbD",
-    "builder_x_handle": "JJEnglert",
-    "one_line_desc": "Gives your bot an AgentMail inbox, learns your voice from your outbox, triages the noise.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "Thailand Visa Desk",
-    "bot_id": "zAzTVZRdvW9AK9okGihzU",
-    "url": "https://x.ai/bot/zAzTVZRdvW9AK9okGihzU",
-    "builder_x_handle": "danhogberg",
-    "one_line_desc": "Thai immigration deadline tracker (90-day reports, TM30, re-entry, TDAC, renewals) with official sources.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "The Coder",
-    "bot_id": "eWee2PsTChAwOGEKpKpT_",
-    "url": "https://x.ai/bot/eWee2PsTChAwOGEKpKpT_",
-    "builder_x_handle": "ChristieGr55447",
-    "one_line_desc": "Builds and fixes your app, keeps terms/privacy/how-to pages current, security-tests each release.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; api.fxtwitter.com/ChristieGr55447 is 404, so the handle rests on the aggregator claim plus the name it encodes matching the share record sharer \"Christie Groenewald\"."
-  },
-  {
-    "name": "Time Back Starter",
-    "bot_id": "JX0GlyQa_XFKC_b8dkAXM",
-    "url": "https://x.ai/bot/JX0GlyQa_XFKC_b8dkAXM",
-    "builder_x_handle": "AdventureNLearn",
-    "one_line_desc": "Onboarding bot: sets up your first helper bots and one routine in a single sitting.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "Travel Specialist",
-    "bot_id": "xG8090ZuddD1vqrDdeTHZ",
-    "url": "https://x.ai/bot/xG8090ZuddD1vqrDdeTHZ",
-    "builder_x_handle": "ArthurMacwaters",
-    "one_line_desc": "End-to-end travel desk: flights, stays, ground transport, reservations, working links.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "UniFi Protect Alerts",
-    "bot_id": "t9-UluNtR8-sZdrr_bxQU",
-    "url": "https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU",
-    "builder_x_handle": "",
-    "one_line_desc": "Emails you only for camera events that matter at your entrances; read-only against Protect.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle atuor (404 on the profile check) does not match the share record sharer \"Matt Routa\"."
-  },
-  {
-    "name": "Unreal Engine C++ Coder",
-    "bot_id": "k0jvhLXGv5AAjh6ZxfAAd",
-    "url": "https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd",
-    "builder_x_handle": "",
-    "one_line_desc": "Writes, fixes and reviews Unreal Engine C++ gameplay code inside your project.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle binxdonald resolves to display name \"GraveBelt Alpha\", which does not match the share record sharer \"Binxius\"; builder.name is the share record name."
-  },
-  {
-    "name": "Videofy",
-    "bot_id": "6_kAMXqIRrlhdolwzF0x-",
-    "url": "https://x.ai/bot/6_kAMXqIRrlhdolwzF0x-",
-    "builder_x_handle": "",
-    "one_line_desc": "Remakes an X video in Grok Imagine, beat-synced, lookbook style.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle quobetah resolves to \"Gerald Baria\", which does not match the share record sharer \"G Musk\"."
-  },
-  {
-    "name": "What’s Up Tonight Bot",
-    "bot_id": "5vI-rX7fZpwF0hP5GI2VE",
-    "url": "https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE",
-    "builder_x_handle": "stargazer_tim",
-    "one_line_desc": "Nightly stargazing brief: go/no-go, clouds, Moon, planets, ISS, best targets.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; handle corroborated by api.fxtwitter.com/stargazer_tim (display name \"Stargazer Tim\", first name matches the share record sharer \"Tim Mullin\")."
-  },
-  {
-    "name": "Wikipedia Watch Bot",
-    "bot_id": "W_zh1KmptsmuKgl8zz3qp",
-    "url": "https://x.ai/bot/W_zh1KmptsmuKgl8zz3qp",
-    "builder_x_handle": "phillipstewart",
-    "one_line_desc": "Summarises what changed on the Wikipedia articles you watch, read from the real diffs.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "X Creator",
-    "bot_id": "6mKW38QZDoaNq1SQxu_PQ",
-    "url": "https://x.ai/bot/6mKW38QZDoaNq1SQxu_PQ",
-    "builder_x_handle": "cao282828",
-    "one_line_desc": "Runs an X account: sourced news, threads and polls on a schedule, replies to grow.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "X Creator Pulse Bot",
-    "bot_id": "-xm4yCbgrveayEQBJXI3_",
-    "url": "https://x.ai/bot/-xm4yCbgrveayEQBJXI3_",
-    "builder_x_handle": "",
-    "one_line_desc": "Tracks your X account against a goal you set with real dated numbers; read-only.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle wrapmoney resolves to \"Magnus\", which does not match the share record sharer \"Jason Doty\"."
-  },
-  {
-    "name": "X Financial Scanner",
-    "bot_id": "e3jmMweGAwbD4JlUCzHXy",
-    "url": "https://x.ai/bot/e3jmMweGAwbD4JlUCzHXy",
-    "builder_x_handle": "DennisW_15",
-    "one_line_desc": "Read-only X markets desk: official accounts plus hot-stock sentiment, and what actually moved.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "Your Dyson Bot",
-    "bot_id": "XVfXkOFTGn-xN6C7drUHI",
-    "url": "https://x.ai/bot/XVfXkOFTGn-xN6C7drUHI",
-    "builder_x_handle": "",
-    "one_line_desc": "Controls and reports on connected Dyson devices via MyDyson or Home Assistant.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - api.fxtwitter.com/ucdpilot is 404 and the aggregator handle does not match the share record sharer \"Vijay Kandhalu\"."
-  },
-  {
-    "name": "YouTube Clipper",
-    "bot_id": "H2qTNvMCgLSoL8FhSESlk",
-    "url": "https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk",
-    "builder_x_handle": "itsmechase",
-    "one_line_desc": "Clips any YouTube video to an MP4 from a link and a timestamp, 4K where the source allows.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
-  },
-  {
-    "name": "Critique",
-    "bot_id": "Dkl9wzI9FCt4EhqTHfsk2",
-    "url": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
-    "builder_x_handle": "",
-    "one_line_desc": "Kill or pursue verdict on an X post or content idea.",
-    "source_post_url": "https://x.com/TNVOLMAN/status/2103815860079198470",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "HELD (re-confirmed): live 200, but the share record description is still the literal placeholder \"$3d\". Same hold as the previous passes."
-  },
-  {
-    "name": "Premarket Desk · 盘前早报",
-    "bot_id": "GuhaTzThKQG2MKJyHoREx",
-    "url": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
-    "builder_x_handle": "",
-    "one_line_desc": "Three-minute pre-open brief on a US watchlist.",
-    "source_post_url": "https://x.com/alanchen/status/2103697141852151862",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "HELD (new): live 200, post carries this exact share id (18,013 views), but the share record description is the literal placeholder \"$3d\" - listed nowhere until the record carries a real description."
-  },
-  {
-    "name": "The List",
-    "bot_id": "4mOGY7Nd_mRvrwZYec4Jq",
-    "url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
-    "builder_x_handle": "",
-    "one_line_desc": "GrokBotGod in-bot newsletter drops.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "SKIPPED as a re-share: live 200 and identical in substance to the already-listed the-list (U-eydTXJP7aN4W9dcUL5k, GrokBotGod, same tagline) - a second share id of the same bot, not a new one."
-  },
-  {
-    "name": "Optima by TOATspace",
-    "bot_id": "VSO9GRfDreEu2ZiXwwZB_",
-    "url": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
-    "builder_x_handle": "",
-    "one_line_desc": "Forgetting desk: clears leftover rules so bots stop following killed jobs.",
-    "source_post_url": "https://x.com/TOATspace/status/2102970382378529216",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "SKIPPED as a re-share: live 200, third share id of the Optima bot the directory already carries twice (optima-by-toatspace, optima-by-toatspace-2). The share record sharer is \"gemini sub001\", not the builder, so it adds nothing."
-  },
-  {
-    "name": "VPS bot",
-    "bot_id": "KkQ9TOi5k9f2O60a-dx4T",
-    "url": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
-    "builder_x_handle": "",
-    "one_line_desc": "proxy VPS setup and tuning in Simplified Chinese.",
-    "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "REJECTED on policy, not on verification: live 200 with a real description, but it is a censorship-circumvention/proxy-VPS deployment helper. Left out on the AGENTS.md \"when in doubt, leave it out\" rule."
-  },
-  {
-    "name": "Grok Bot (blank template shells)",
-    "bot_id": "hEmSUvWxccmfAVDGri1R8 / Uy2oK9854UViaiO0rQ6nC / Pa8G-Ldh5jU_jozWEu2Cs",
-    "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
-    "builder_x_handle": "",
-    "one_line_desc": "template placeholder text only.",
-    "source_post_url": "https://grokbots.best",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "REJECTED: 200 but no share record (ownerType TEAM, empty botName) - the generic \"Use this template to create a new bot or apply it to an existing bot\" shell. Same reject class as every earlier pass."
-  },
-  {
-    "name": "Moonshot",
-    "bot_id": "fSBU34VR0gqteP3IOAnr8",
-    "url": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
-    "builder_x_handle": "",
-    "one_line_desc": "Two tech podcasts digested into briefs.",
-    "source_post_url": "https://grokbot.dev",
-    "found_at": "2026-09-27T14:00:00+05:30",
-    "status": "REJECTED: the registry feed still carries this share id but the page is now 404 - dead id, not queued."
-  },
-  {
-    "name": "3-Day Notice Validator",
-    "bot_id": "opCFOq0FKZ41PBIiBeuVO",
-    "url": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
-    "builder_x_handle": "SinaiLawFirm",
-    "one_line_desc": "Checks a California three-day pay-or-quit notice field by field before you serve it.",
-    "source_post_url": "https://x.com/SinaiLawFirm/status/2103997263009980625",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "IT Department Lead",
-    "bot_id": "28cjt6-FRq2D69vUX5F9L",
-    "url": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
-    "builder_x_handle": "braytron",
-    "one_line_desc": "Runs a fleet of IT sibling bots and takes on the cross-cutting asks.",
-    "source_post_url": "https://x.com/braytron/status/2103994716685791345",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Calendar Liftoff",
-    "bot_id": "nJ7hHZsPczXvJIi0wv8c-",
-    "url": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
-    "builder_x_handle": "tdsfixer",
-    "one_line_desc": "Turns a theme, a subject or a year into a print-ready 12x12 photo wall calendar.",
-    "source_post_url": "https://x.com/tdsfixer/status/2103993998675448184",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Quill",
-    "bot_id": "tHo33t3IaAhpxds5IpNbD",
-    "url": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
-    "builder_x_handle": "the_simonjester",
-    "one_line_desc": "Craft pass for Obsidian notes: voice punch-up, continuity or a depth read.",
-    "source_post_url": "https://x.com/the_simonjester/status/2103992041734811919",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "ScriptSprint",
-    "bot_id": "YV5xOs96YaWLN39PbkPwk",
-    "url": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
-    "builder_x_handle": "the_simonjester",
-    "one_line_desc": "Turns voice, meeting and rant transcripts into speakers, action items and library atoms.",
-    "source_post_url": "https://x.com/the_simonjester/status/2103991653375824068",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Solopreneur Chief of Staff",
-    "bot_id": "NsCDfZMFctaP1WIp_48k4",
-    "url": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
-    "builder_x_handle": "c0rtex1100X",
-    "one_line_desc": "Chief of staff for solopreneurs: short scoreboards and hard approval gates.",
-    "source_post_url": "https://x.com/c0rtex1100X/status/2103990572000378881",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "MamboItalianoBot",
-    "bot_id": "F0ZQruHL4AsmoLxWWLvUG",
-    "url": "https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG",
-    "builder_x_handle": "mamboitaliano__",
-    "one_line_desc": "Travel assistant that builds realistic itineraries without inventing hours or prices.",
-    "source_post_url": "https://x.com/mamboitaliano__/status/2103990336242761964",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Shawn",
-    "bot_id": "gEEv8k6WgJyU8es3eaXi7",
-    "url": "https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7",
-    "builder_x_handle": "BadgersBet",
-    "one_line_desc": "Paper-first sports betting research desk that tracks closing-line value.",
-    "source_post_url": "https://x.com/BadgersBet/status/2103989579980108154",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Handyman",
-    "bot_id": "rQvB9sFrdQU7Ef43jOxgI",
-    "url": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
-    "builder_x_handle": "dkmitc",
-    "one_line_desc": "Household maintenance tracker that remembers your filter sizes and due dates.",
-    "source_post_url": "https://x.com/dkmitc/status/2103988834253820025",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Pal",
-    "bot_id": "9Zvz4Qe0dxRjo4H984gOI",
-    "url": "https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI",
-    "builder_x_handle": "BadgersBet",
-    "one_line_desc": "MLB matchup scout that surfaces hitter and pitcher spots from projections.",
-    "source_post_url": "https://x.com/BadgersBet/status/2103988405558513795",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Brew What You Got",
-    "bot_id": "YlzTbxg6wPAKYJutJ00rG",
-    "url": "https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG",
-    "builder_x_handle": "Ebatez_",
-    "one_line_desc": "Cafe-style drink recipes built from the machine, beans and syrups you already own.",
-    "source_post_url": "https://x.com/Ebatez_/status/2103988316190433499",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Phone Use Bot",
-    "bot_id": "SjBZH94wJlen_fuVsoYaO",
-    "url": "https://x.ai/bot/SjBZH94wJlen_fuVsoYaO",
-    "builder_x_handle": "harshmanojjain",
-    "one_line_desc": "Remotely drives your Android phone over Tailscale and wireless debugging.",
-    "source_post_url": "https://x.com/harshmanojjain/status/2103987874077307067",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Opus Motion",
-    "bot_id": "-ozpDFk78Euk4sbbfmRn4",
-    "url": "https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4",
-    "builder_x_handle": "bossriceshark",
-    "one_line_desc": "Short motion-graphics product and brand videos, drafted as MP4 files.",
-    "source_post_url": "https://x.com/bossriceshark/status/2103987844394160149",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "The Box of Names",
-    "bot_id": "M0ZZw7AT7MzGjvYe1jLBb",
-    "url": "https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb",
-    "builder_x_handle": "BLDG_390",
-    "one_line_desc": "Traces how any word, place, god or object travelled across civilizations.",
-    "source_post_url": "https://x.com/BLDG_390/status/2103987768196211108",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "X Growth Assistant",
-    "bot_id": "B4ro8N0_j3XGF5ras3iW0",
-    "url": "https://x.ai/bot/B4ro8N0_j3XGF5ras3iW0",
-    "builder_x_handle": "DonaldMoor91672",
-    "one_line_desc": "Cleans up and grows an X account: unfollows non-followers, clears bots.",
-    "source_post_url": "https://x.com/DonaldMoor91672/status/2103987428528882072",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Superfan",
-    "bot_id": "l5MDTh-AZS2Frx4b2TYy_",
-    "url": "https://x.ai/bot/l5MDTh-AZS2Frx4b2TYy_",
-    "builder_x_handle": "SamuelD2022",
-    "one_line_desc": "Daily brief on your favourite teams: next game, last result, season record.",
-    "source_post_url": "https://x.com/SamuelD2022/status/2103987020964241870",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "AI Security Advisor",
-    "bot_id": "rrKp1eA9QnW8P5QAGKaKS",
-    "url": "https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS",
-    "builder_x_handle": "zeuss_000",
-    "one_line_desc": "Defensive advisor that hardens AI apps against prompt injection and leaks.",
-    "source_post_url": "https://x.com/zeuss_000/status/2103984574061842850",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
-  },
-  {
-    "name": "Webb Knox",
-    "bot_id": "7veO5EEAD-LxgkOGy4sjk",
-    "url": "https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk",
-    "builder_x_handle": "gerardocasta711",
-    "one_line_desc": "Lead specialist that finds scored, verified leads and drafts honest outreach.",
-    "source_post_url": "https://x.com/gerardocasta711/status/2103983798622806061",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Elon Ecosystem Desk",
-    "bot_id": "j8Znml_qB4leZhOgihZ-p",
-    "url": "https://x.ai/bot/j8Znml_qB4leZhOgihZ-p",
-    "builder_x_handle": "cvey15",
-    "one_line_desc": "Sourced news desk for X, Tesla, SpaceX, xAI, Neuralink and The Boring Company.",
-    "source_post_url": "https://x.com/cvey15/status/2103982737207996649",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Bookmark Miner",
-    "bot_id": "2KoI66uCOtx0PSf3do4tK",
-    "url": "https://x.ai/bot/2KoI66uCOtx0PSf3do4tK",
-    "builder_x_handle": "therookiehacker",
-    "one_line_desc": "Reads your X bookmarks and returns a short ranked list of things worth doing.",
-    "source_post_url": "https://x.com/therookiehacker/status/2103980722189197456",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Market Sentiment Bot",
-    "bot_id": "dpEIOmZE65XCVEnPJUp_-",
-    "url": "https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-",
-    "builder_x_handle": "Itachidata",
-    "one_line_desc": "Scores US risk assets from 1.0 to 10.0 with a market card and ticker cards.",
-    "source_post_url": "https://x.com/Itachidata/status/2103974697834598748",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Connection Mapper",
-    "bot_id": "9zEVJ7Eya66BLQ11xhPlD",
-    "url": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
-    "builder_x_handle": "MindandEmotion7",
-    "one_line_desc": "Maps the links between two people, groups or companies, with sources.",
-    "source_post_url": "https://x.com/MindandEmotion7/status/2103945021863129514",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  },
-  {
-    "name": "Video Editor",
-    "bot_id": "Oo4vOtwAggO933EwCmKrc",
-    "url": "https://x.ai/bot/Oo4vOtwAggO933EwCmKrc",
-    "builder_x_handle": "ross_zeiger",
-    "one_line_desc": "Turns a desk talking-head recording into a clean branded YouTube cut.",
-    "source_post_url": "https://x.com/ross_zeiger/status/2103941921983107481",
-    "found_at": "2026-09-27T07:50:00+05:30",
-    "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id; the platform share record names the same person)"
-  }
+ {
+  "name": "财报锦囊",
+  "bot_id": "d48QaYERwvgtUmYsGlyz8",
+  "url": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+  "builder_x_handle": "kaixinluo6268",
+  "one_line_desc": "Give it a US ticker and it returns a seven-point Chinese readout of the latest quarter.",
+  "source_post_url": "https://x.com/kaixinluo6268/status/2104179253310869673",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Delta-X",
+  "bot_id": "zReFhsDYUwyt8YM93ahNL",
+  "url": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+  "builder_x_handle": "peoniesdragon",
+  "one_line_desc": "A weekly planner that audits subscriptions and commits to only three changes.",
+  "source_post_url": "https://x.com/peoniesdragon/status/2104150894933925898",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Claimed",
+  "bot_id": "wIxb391-9pDKoWXQ8xrbD",
+  "url": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+  "builder_x_handle": "liam_fallen",
+  "one_line_desc": "One careful sweep for refunds, settlements and compensation you may already be owed.",
+  "source_post_url": "https://x.com/liam_fallen/status/2104147556880064556",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Math Researcher",
+  "bot_id": "2AEfHtfuYAr-ZginAOGuK",
+  "url": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+  "builder_x_handle": "NathanAMeeks",
+  "one_line_desc": "A proof-first maths partner that labels every result as proven, checked, or heuristic.",
+  "source_post_url": "https://x.com/NathanAMeeks/status/2104140368635994382",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Fitboard",
+  "bot_id": "rkHdbyaGbAbfAKO3ax7ID",
+  "url": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+  "builder_x_handle": "e2bitz_83",
+  "one_line_desc": "Five quick questions in, a priced furnishing shortlist and a one-page PDF out.",
+  "source_post_url": "https://x.com/e2bitz_83/status/2104126565013696813",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Mystery eShopper",
+  "bot_id": "tc-aGvnjjvatdp_8LK-Ad",
+  "url": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+  "builder_x_handle": "VicGellon",
+  "one_line_desc": "Mystery-shops your store end to end and returns a scored journey plus bug reports.",
+  "source_post_url": "https://x.com/VicGellon/status/2104124777850081574",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "POUNCE",
+  "bot_id": "7jLpLuCPbki8Q_nRrPN18",
+  "url": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+  "builder_x_handle": "teeRex247",
+  "one_line_desc": "A daily sweep of AI-company contests, grants, credits and hackathons, deadlines verified.",
+  "source_post_url": "https://x.com/teeRex247/status/2104115575169376736",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Bot Foundry",
+  "bot_id": "K4_YAXCxC0NaG-Tyeodpv",
+  "url": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+  "builder_x_handle": "BTC_Yogi",
+  "one_line_desc": "Describe an idea or a daily chore and get a full draft bot package to publish.",
+  "source_post_url": "https://x.com/BTC_Yogi/status/2104114828692648222",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Weather Scout",
+  "bot_id": "GjZZ7Sg2IPua8MLlDs1hc",
+  "url": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+  "builder_x_handle": "AdeptusMec71933",
+  "one_line_desc": "A 72-hour go, marginal or no-go launch weather read for the big US spaceports.",
+  "source_post_url": "https://x.com/AdeptusMec71933/status/2104102012602433803",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Epigenetics Scout",
+  "bot_id": "DOGHzBWngjPXdEqucbysc",
+  "url": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+  "builder_x_handle": "AdeptusMec71933",
+  "one_line_desc": "A weekly digest of new partial-reprogramming papers, findings kept apart from hype.",
+  "source_post_url": "https://x.com/AdeptusMec71933/status/2104099408996671984",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Markets Digest",
+  "bot_id": "dqRd0b5Tl61lVkjtP6OrY",
+  "url": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+  "builder_x_handle": "marksoze",
+  "one_line_desc": "Two plain-language markets digests each weekday, the evening one free of repeats.",
+  "source_post_url": "https://x.com/marksoze/status/2104099090514800942",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Sports bet prophet",
+  "bot_id": "IO8UsiRc-wcUWtZPj4Jgv",
+  "url": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+  "builder_x_handle": "SGBackWoods",
+  "one_line_desc": "Shops public odds for two-leg doubles in a set price band; you place the wager.",
+  "source_post_url": "https://x.com/SGBackWoods/status/2104094659160977832",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "RugRadar AI",
+  "bot_id": "8bejcAowVfEVjSuPSl1PT",
+  "url": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+  "builder_x_handle": "teabagno1",
+  "one_line_desc": "Reads a Solana token's public chain record for the classic rug-pull warning signs.",
+  "source_post_url": "https://x.com/teabagno1/status/2104094360522395686",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Improve My Odds",
+  "bot_id": "zJNAdJq5w03aPWeegxiwk",
+  "url": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+  "builder_x_handle": "SkippyyTM",
+  "one_line_desc": "Name a goal, throw everyday choices at it, get a helps, hurts or neutral read.",
+  "source_post_url": "https://x.com/SkippyyTM/status/2104094233951146039",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Coverage Desk",
+  "bot_id": "Xf744EvEIun3bzP0zdp0u",
+  "url": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+  "builder_x_handle": "lonzom10",
+  "one_line_desc": "Explains an insurance declarations page in everyday wording, and sells nothing.",
+  "source_post_url": "https://x.com/lonzom10/status/2104086012989477216",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Inbox Scout",
+  "bot_id": "bxO47jo7w93LXNsBd7gGI",
+  "url": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+  "builder_x_handle": "AdeptusMec71933",
+  "one_line_desc": "A short morning brief of unread mail, sorted into needs me, can wait and noise.",
+  "source_post_url": "https://x.com/AdeptusMec71933/status/2104085923835281827",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "Chop Bot",
+  "bot_id": "3ITYjIFCSujYyq6rp5VAq",
+  "url": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+  "builder_x_handle": "CaliLumberJack",
+  "one_line_desc": "One daily brief for inbox, calendar and X replies, drafts only.",
+  "source_post_url": "https://x.com/CaliLumberJack/status/2104076140528988469",
+  "found_at": "2026-09-27T20:10:00+05:30",
+  "status": "listed"
+ },
+ {
+  "name": "SEO Content Desk (seodraft)",
+  "bot_id": "OkT4Dbjy4xVf7oVBCr8hL",
+  "url": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+  "builder_x_handle": "chorch_md",
+  "one_line_desc": "SEO content desk: topics from real search volume, drafts from your own evidence, filler stripped before it ships.",
+  "source_post_url": "https://x.com/chorch_md",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; handle corroborated by api.fxtwitter.com/chorch_md (display name \"Chorch\" = the share record sharerName). The feed source is the creator profile, not a post."
+ },
+ {
+  "name": "フォーム優先アウトバウンド",
+  "bot_id": "-4fEgwVFAm8w_ULi4pjmC",
+  "url": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
+  "builder_x_handle": "",
+  "one_line_desc": "Form-first B2B outreach for Japan: copy gate, daily prep, owner-GO sends, CRM logging, weekly PDCA.",
+  "source_post_url": "https://x.com/isle_claude/status/2103699353751969828",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - the post author (isle_claude) and the share record sharer (直人 島) do not agree, so no handle was written."
+ },
+ {
+  "name": "Grok Bot",
+  "bot_id": "MT6acytP70wHR526vPvM3",
+  "url": "https://x.ai/bot/MT6acytP70wHR526vPvM3",
+  "builder_x_handle": "sammya_sh",
+  "one_line_desc": "Investment research teammate: research, rank and one clear pick, plus a weekly watch brief.",
+  "source_post_url": "https://x.com/sammya_sh/status/2102971805292167403",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; the post is the builder's own (\"I built a Grok Bot that turns stock research into a decision\") and its body carries this exact share id. Directory name is the live record name, which is generic - it is a fifth shareable row on the storefront, not a re-share of grok-bot-2 (different share id, different description)."
+ },
+ {
+  "name": "Forge Coach",
+  "bot_id": "ZBDynmT5k_WrRqQwoxdrI",
+  "url": "https://x.ai/bot/ZBDynmT5k_WrRqQwoxdrI",
+  "builder_x_handle": "CoffeeNGrit",
+  "one_line_desc": "Daily workout builder from a short questionnaire on age, fitness, gear and space.",
+  "source_post_url": "https://x.com/CoffeeNGrit/status/2104045388210508129",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; handle taken because the share record sharer \"Coffee and Grit\" is the display name of the author of that post (the post body carries the sister bot PFP Studio's share id, not this one)."
+ },
+ {
+  "name": "PFP Studio",
+  "bot_id": "EQbigdwH3pEmkYcsbgidx",
+  "url": "https://x.ai/bot/EQbigdwH3pEmkYcsbgidx",
+  "builder_x_handle": "CoffeeNGrit",
+  "one_line_desc": "Three profile pictures from one photo and a named style, then edits on your favourite.",
+  "source_post_url": "https://x.com/CoffeeNGrit/status/2104045388210508129",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; post body carries this exact share id and is authored by the same account the share record names."
+ },
+ {
+  "name": "Agent Mail",
+  "bot_id": "j9Cm3GKLDCptPwwxZWbbD",
+  "url": "https://x.ai/bot/j9Cm3GKLDCptPwwxZWbbD",
+  "builder_x_handle": "JJEnglert",
+  "one_line_desc": "Gives your bot an AgentMail inbox, learns your voice from your outbox, triages the noise.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "Thailand Visa Desk",
+  "bot_id": "zAzTVZRdvW9AK9okGihzU",
+  "url": "https://x.ai/bot/zAzTVZRdvW9AK9okGihzU",
+  "builder_x_handle": "danhogberg",
+  "one_line_desc": "Thai immigration deadline tracker (90-day reports, TM30, re-entry, TDAC, renewals) with official sources.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "The Coder",
+  "bot_id": "eWee2PsTChAwOGEKpKpT_",
+  "url": "https://x.ai/bot/eWee2PsTChAwOGEKpKpT_",
+  "builder_x_handle": "ChristieGr55447",
+  "one_line_desc": "Builds and fixes your app, keeps terms/privacy/how-to pages current, security-tests each release.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; api.fxtwitter.com/ChristieGr55447 is 404, so the handle rests on the aggregator claim plus the name it encodes matching the share record sharer \"Christie Groenewald\"."
+ },
+ {
+  "name": "Time Back Starter",
+  "bot_id": "JX0GlyQa_XFKC_b8dkAXM",
+  "url": "https://x.ai/bot/JX0GlyQa_XFKC_b8dkAXM",
+  "builder_x_handle": "AdventureNLearn",
+  "one_line_desc": "Onboarding bot: sets up your first helper bots and one routine in a single sitting.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "Travel Specialist",
+  "bot_id": "xG8090ZuddD1vqrDdeTHZ",
+  "url": "https://x.ai/bot/xG8090ZuddD1vqrDdeTHZ",
+  "builder_x_handle": "ArthurMacwaters",
+  "one_line_desc": "End-to-end travel desk: flights, stays, ground transport, reservations, working links.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "UniFi Protect Alerts",
+  "bot_id": "t9-UluNtR8-sZdrr_bxQU",
+  "url": "https://x.ai/bot/t9-UluNtR8-sZdrr_bxQU",
+  "builder_x_handle": "",
+  "one_line_desc": "Emails you only for camera events that matter at your entrances; read-only against Protect.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle atuor (404 on the profile check) does not match the share record sharer \"Matt Routa\"."
+ },
+ {
+  "name": "Unreal Engine C++ Coder",
+  "bot_id": "k0jvhLXGv5AAjh6ZxfAAd",
+  "url": "https://x.ai/bot/k0jvhLXGv5AAjh6ZxfAAd",
+  "builder_x_handle": "",
+  "one_line_desc": "Writes, fixes and reviews Unreal Engine C++ gameplay code inside your project.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle binxdonald resolves to display name \"GraveBelt Alpha\", which does not match the share record sharer \"Binxius\"; builder.name is the share record name."
+ },
+ {
+  "name": "Videofy",
+  "bot_id": "6_kAMXqIRrlhdolwzF0x-",
+  "url": "https://x.ai/bot/6_kAMXqIRrlhdolwzF0x-",
+  "builder_x_handle": "",
+  "one_line_desc": "Remakes an X video in Grok Imagine, beat-synced, lookbook style.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle quobetah resolves to \"Gerald Baria\", which does not match the share record sharer \"G Musk\"."
+ },
+ {
+  "name": "What’s Up Tonight Bot",
+  "bot_id": "5vI-rX7fZpwF0hP5GI2VE",
+  "url": "https://x.ai/bot/5vI-rX7fZpwF0hP5GI2VE",
+  "builder_x_handle": "stargazer_tim",
+  "one_line_desc": "Nightly stargazing brief: go/no-go, clouds, Moon, planets, ISS, best targets.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; handle corroborated by api.fxtwitter.com/stargazer_tim (display name \"Stargazer Tim\", first name matches the share record sharer \"Tim Mullin\")."
+ },
+ {
+  "name": "Wikipedia Watch Bot",
+  "bot_id": "W_zh1KmptsmuKgl8zz3qp",
+  "url": "https://x.ai/bot/W_zh1KmptsmuKgl8zz3qp",
+  "builder_x_handle": "phillipstewart",
+  "one_line_desc": "Summarises what changed on the Wikipedia articles you watch, read from the real diffs.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "X Creator",
+  "bot_id": "6mKW38QZDoaNq1SQxu_PQ",
+  "url": "https://x.ai/bot/6mKW38QZDoaNq1SQxu_PQ",
+  "builder_x_handle": "cao282828",
+  "one_line_desc": "Runs an X account: sourced news, threads and polls on a schedule, replies to grow.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "X Creator Pulse Bot",
+  "bot_id": "-xm4yCbgrveayEQBJXI3_",
+  "url": "https://x.ai/bot/-xm4yCbgrveayEQBJXI3_",
+  "builder_x_handle": "",
+  "one_line_desc": "Tracks your X account against a goal you set with real dated numbers; read-only.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - aggregator handle wrapmoney resolves to \"Magnus\", which does not match the share record sharer \"Jason Doty\"."
+ },
+ {
+  "name": "X Financial Scanner",
+  "bot_id": "e3jmMweGAwbD4JlUCzHXy",
+  "url": "https://x.ai/bot/e3jmMweGAwbD4JlUCzHXy",
+  "builder_x_handle": "DennisW_15",
+  "one_line_desc": "Read-only X markets desk: official accounts plus hot-stock sentiment, and what actually moved.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "Your Dyson Bot",
+  "bot_id": "XVfXkOFTGn-xN6C7drUHI",
+  "url": "https://x.ai/bot/XVfXkOFTGn-xN6C7drUHI",
+  "builder_x_handle": "",
+  "one_line_desc": "Controls and reports on connected Dyson devices via MyDyson or Home Assistant.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending; name-only - api.fxtwitter.com/ucdpilot is 404 and the aggregator handle does not match the share record sharer \"Vijay Kandhalu\"."
+ },
+ {
+  "name": "YouTube Clipper",
+  "bot_id": "H2qTNvMCgLSoL8FhSESlk",
+  "url": "https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk",
+  "builder_x_handle": "itsmechase",
+  "one_line_desc": "Clips any YouTube video to an MP4 from a link and a timestamp, 4K where the source allows.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "verified live (200 + share record with botName and a real description), added to content/bots.json on ops/scout-pending"
+ },
+ {
+  "name": "Critique",
+  "bot_id": "Dkl9wzI9FCt4EhqTHfsk2",
+  "url": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+  "builder_x_handle": "",
+  "one_line_desc": "Kill or pursue verdict on an X post or content idea.",
+  "source_post_url": "https://x.com/TNVOLMAN/status/2103815860079198470",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "HELD (re-confirmed): live 200, but the share record description is still the literal placeholder \"$3d\". Same hold as the previous passes."
+ },
+ {
+  "name": "Premarket Desk · 盘前早报",
+  "bot_id": "GuhaTzThKQG2MKJyHoREx",
+  "url": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
+  "builder_x_handle": "",
+  "one_line_desc": "Three-minute pre-open brief on a US watchlist.",
+  "source_post_url": "https://x.com/alanchen/status/2103697141852151862",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "HELD (new): live 200, post carries this exact share id (18,013 views), but the share record description is the literal placeholder \"$3d\" - listed nowhere until the record carries a real description."
+ },
+ {
+  "name": "The List",
+  "bot_id": "4mOGY7Nd_mRvrwZYec4Jq",
+  "url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+  "builder_x_handle": "",
+  "one_line_desc": "GrokBotGod in-bot newsletter drops.",
+  "source_post_url": "https://grokbots.best",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "SKIPPED as a re-share: live 200 and identical in substance to the already-listed the-list (U-eydTXJP7aN4W9dcUL5k, GrokBotGod, same tagline) - a second share id of the same bot, not a new one."
+ },
+ {
+  "name": "Optima by TOATspace",
+  "bot_id": "VSO9GRfDreEu2ZiXwwZB_",
+  "url": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+  "builder_x_handle": "",
+  "one_line_desc": "Forgetting desk: clears leftover rules so bots stop following killed jobs.",
+  "source_post_url": "https://x.com/TOATspace/status/2102970382378529216",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "SKIPPED as a re-share: live 200, third share id of the Optima bot the directory already carries twice (optima-by-toatspace, optima-by-toatspace-2). The share record sharer is \"gemini sub001\", not the builder, so it adds nothing."
+ },
+ {
+  "name": "VPS bot",
+  "bot_id": "KkQ9TOi5k9f2O60a-dx4T",
+  "url": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+  "builder_x_handle": "",
+  "one_line_desc": "proxy VPS setup and tuning in Simplified Chinese.",
+  "source_post_url": "grokbot-templates.com/api/templates - free JSON endpoint; it serves one fixed 48-item page (identical bytes on 20 different offset requests). Handle taken only where the aggregator's twitterHandle and the x.ai share record's sharerName agree (that handle's display name checked free via api.fxtwitter.com/HANDLE); otherwise name-only.",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "REJECTED on policy, not on verification: live 200 with a real description, but it is a censorship-circumvention/proxy-VPS deployment helper. Left out on the AGENTS.md \"when in doubt, leave it out\" rule."
+ },
+ {
+  "name": "Grok Bot (blank template shells)",
+  "bot_id": "hEmSUvWxccmfAVDGri1R8 / Uy2oK9854UViaiO0rQ6nC / Pa8G-Ldh5jU_jozWEu2Cs",
+  "url": "https://x.ai/bot/hEmSUvWxccmfAVDGri1R8",
+  "builder_x_handle": "",
+  "one_line_desc": "template placeholder text only.",
+  "source_post_url": "https://grokbots.best",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "REJECTED: 200 but no share record (ownerType TEAM, empty botName) - the generic \"Use this template to create a new bot or apply it to an existing bot\" shell. Same reject class as every earlier pass."
+ },
+ {
+  "name": "Moonshot",
+  "bot_id": "fSBU34VR0gqteP3IOAnr8",
+  "url": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
+  "builder_x_handle": "",
+  "one_line_desc": "Two tech podcasts digested into briefs.",
+  "source_post_url": "https://grokbot.dev",
+  "found_at": "2026-09-27T14:00:00+05:30",
+  "status": "REJECTED: the registry feed still carries this share id but the page is now 404 - dead id, not queued."
+ },
+ {
+  "name": "3-Day Notice Validator",
+  "bot_id": "opCFOq0FKZ41PBIiBeuVO",
+  "url": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
+  "builder_x_handle": "SinaiLawFirm",
+  "one_line_desc": "Checks a California three-day pay-or-quit notice field by field before you serve it.",
+  "source_post_url": "https://x.com/SinaiLawFirm/status/2103997263009980625",
+  "found_at": "2026-09-27T07:50:00+05:30",
+  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
+ },
+ {
+  "name": "IT Department Lead",
+  "bot_id": "28cjt6-FRq2D69vUX5F9L",
+  "url": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
+  "builder_x_handle": "braytron",
+  "one_line_desc": "Runs a fleet of IT sibling bots and takes on the cross-cutting asks.",
+  "source_post_url": "https://x.com/braytron/status/2103994716685791345",
+  "found_at": "2026-09-27T07:50:00+05:30",
+  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
+ },
+ {
+  "name": "Calendar Liftoff",
+  "bot_id": "nJ7hHZsPczXvJIi0wv8c-",
+  "url": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
+  "builder_x_handle": "tdsfixer",
+  "one_line_desc": "Turns a theme, a subject or a year into a print-ready 12x12 photo wall calendar.",
+  "source_post_url": "https://x.com/tdsfixer/status/2103993998675448184",
+  "found_at": "2026-09-27T07:50:00+05:30",
+  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
+ },
+ {
+  "name": "Quill",
+  "bot_id": "tHo33t3IaAhpxds5IpNbD",
+  "url": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
+  "builder_x_handle": "the_simonjester",
+  "one_line_desc": "Craft pass for Obsidian notes: voice punch-up, continuity or a depth read.",
+  "source_post_url": "https://x.com/the_simonjester/status/2103992041734811919",
+  "found_at": "2026-09-27T07:50:00+05:30",
+  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
+ },
+ {
+  "name": "ScriptSprint",
+  "bot_id": "YV5xOs96YaWLN39PbkPwk",
+  "url": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
+  "builder_x_handle": "the_simonjester",
+  "one_line_desc": "Turns voice, meeting and rant transcripts into speakers, action items and library atoms.",
+  "source_post_url": "https://x.com/the_simonjester/status/2103991653375824068",
+  "found_at": "2026-09-27T07:50:00+05:30",
+  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
+ },
+ {
+  "name": "Solopreneur Chief of Staff",
+  "bot_id": "NsCDfZMFctaP1WIp_48k4",
+  "url": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
+  "builder_x_handle": "c0rtex1100X",
+  "one_line_desc": "Chief of staff for solopreneurs: short scoreboards and hard approval gates.",
+  "source_post_url": "https://x.com/c0rtex1100X/status/2103990572000378881",
+  "found_at": "2026-09-27T07:50:00+05:30",
+  "status": "added to directory in ops/scout-pending (handle from the post carrying this exact share id plus grokbots.best naming the same account)"
+ }
 ]

@@ -1,0 +1,51 @@
+{
+ "run": "2026-09-27 20:10 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending",
+ "push": true,
+ "push_reason": "17 verified new bots (>= 3 gate met)",
+ "method": "Live fetch of every candidate x.ai/bot link with ops/tools/share_record_scan.py (HTTP 200 + share record carrying botName and a real description). Zero paid API calls: web_search + api.fxtwitter.com + urllib/curl only.",
+ "counts": {
+  "candidates_screened": 18,
+  "live_and_verifiable": 18,
+  "added_to_directory": 17,
+  "duplicates_found": 1,
+  "held": 4,
+  "rejected": 8,
+  "directory_after": 2282,
+  "published_after": 2277
+ },
+ "sources": {
+  "grokbot.dev registry feed": "1,317 items (was 1,292 at 05:08Z). 18 items added since the last pass, all templates, all carrying a share id; 17 new, 1 already listed (Lineage Desk).",
+  "grokbots.best": "1,037 records; the payload carries no x.ai share ids this time (only source X posts), so nothing additional came from it.",
+  "grokbots.page": "200 records via /api/bots; 1 id not matched by bare URL, and it turned out to be a slug-suffixed duplicate of an already listed Chief of Staff.",
+  "grokbotwiki.com/bots/catalog.json": "NEW SURFACE - 2,153 machine-readable rows with share ids, creators and first-seen dates. 2,084 of its ids were already in the directory (good overlap check); of the 69 unseen, 57 are the 'SpaceX'-credited pack, 4 are blank shells, and the rest are re-shares - see the rejects file.",
+  "grokbot-templates.com": "DOWN this pass - /api/templates returns an empty list (was 48 static items) and the site root returns HTTP 500.",
+  "x.ai/bot/marketplace": "31 Add links via web_extract; 7 not matched by id, and all 7 are already listed under other share ids (Researchy, tinkabot, Clip Bot, figma bro, Credit Card Max, Home robots, last30days).",
+  "x.ai/news": "newest article is still Grok Bot for Customer Support (Sep 22); nothing to add to news.json.",
+  "web_search + fxtwitter": "every search channel returned posts from Aug 29 - Sep 8; all x.ai/bot ids in them were already listed."
+ },
+ "rotation": {
+  "sampled": 28,
+  "live": 27,
+  "dead": 1,
+  "renamed": 1,
+  "seed": 2026092720,
+  "tool": "ops/tools/rotation-2026-09-27-2010.py",
+  "findings": [
+   [
+    "printerbot-by-federico-nPwfPZq-",
+    "name 'printerbot by Federico' -> 'printerbot' (live share-page name)"
+   ],
+   [
+    "grok-bot-2",
+    "status -> pending (team-only share: 200 but no public botName)"
+   ]
+  ]
+ },
+ "marketing_signals": [],
+ "marketing_note": "No post cleared the bar this pass (the Finance-integration signal from the 14:00 pass is unchanged and was already filed; no new >100K-view or >1K-bookmark grok-bot post surfaced in the free channels).",
+ "tools": [
+  "ops/tools/import-scout-pass-2026-09-27-2010.py",
+  "ops/tools/rotation-2026-09-27-2010.py"
+ ]
+}

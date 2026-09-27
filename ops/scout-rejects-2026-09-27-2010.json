@@ -1,0 +1,51 @@
+{
+ "run": "2026-09-27 20:10 IST scout pass (cron 359022f62495)",
+ "rejected": [
+  {
+   "id": "hEmSUvWxccmfAVDGri1R8",
+   "why": "200 but empty botName (blank/unpublished template shell)"
+  },
+  {
+   "id": "Uy2oK9854UViaiO0rQ6nC",
+   "why": "200 but empty botName (blank/unpublished template shell)"
+  },
+  {
+   "id": "4jtnk5wsk0UMpDSNqG4Oc",
+   "why": "200 but empty botName (blank/unpublished template shell)"
+  },
+  {
+   "id": "Pa8G-Ldh5jU_jozWEu2Cs",
+   "why": "200 but empty botName (blank/unpublished template shell)"
+  },
+  {
+   "id": "WJc0G06lrr_H9OEyQ8Ijl",
+   "why": "Fantasy Football Manager: re-share of a bot already listed (other share id)"
+  },
+  {
+   "id": "EQgLIMO5Q_sVk3IM9EQbZ",
+   "why": "Full-Spectrum Law Firm OS: re-share/case-variant of an already listed share id"
+  },
+  {
+   "id": "wOE4e95HNxhSbrzyLkSI-",
+   "why": "Tradbot: re-share of a bot already listed"
+  },
+  {
+   "id": "qtuoVRf5etpEVPNA29i7H",
+   "why": "'anew': creator name 'round', one-line description 'free webpages' - no real listing"
+  }
+ ],
+ "held": [
+  {
+   "ids": "57 share ids published under the creator display name 'SpaceX' (e.g. Account Health s5465ebb9e192551741f7, Account Manager sd4333bc337078a9752ac, Chief of Staff sc0a0ec3ce9c675824106, SEO / AEO Auditor sb6d579c33f7a32d0e7af, ...)",
+   "why": "All 57 verified live with a real botName and description, but every one credits the creator as 'SpaceX'. Listing them would put 'by SpaceX' on the site and imply xAI endorsement, which AGENTS.md forbids. Third-party catalogs attribute the pack to a personal X handle that the x.ai page itself does not carry, so the handle rule also blocks attribution. Owner call needed: list them under a neutral creator label, or leave them out."
+  },
+  {
+   "ids": "skVoYDfnNUPqUYIxkjXJK (Elon), QCwGPAlho0dBvBds_IOWF (Elon Musk (Algorithm & constraint)), cxUln0vqOPK7V3RccS0nm (Elongated Musketeer)",
+   "why": "Personality proxies named after a public figure (Elon Musk). Verified live, but naming them on the site is a trademark/impersonation question rather than a listing task."
+  },
+  {
+   "id": "Wj3E3oow1J4gjwK4E2vNy",
+   "why": "Published name is a single letter 'B' (off-grid memoir publishing partner). Live and real, but the name carries no information for a directory."
+  }
+ ]
+}
