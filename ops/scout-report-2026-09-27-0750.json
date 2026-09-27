@@ -1,0 +1,108 @@
+{
+ "run": "2026-09-27 07:50 IST scout pass (cron 359022f62495)",
+ "branch": "ops/scout-pending (single accumulating PR #82; branch was level with origin/ops/scout-pending 173101e before this pass)",
+ "push": true,
+ "method": "Free sources only, one request each: grokbot.dev community registry feed (1,291 items, 1,085 templates, fresh again after 12 hours of silence: generated_at 2026-09-27T00:34:24Z, newest added_at 2026-09-26T23:56:52Z) via ops/tools/fetch-registry-feed.py; grokbots.best flight payload (1,018 entries with author handle); grokbotpulse.com (10 links, none new); x.ai/bot/marketplace (nothing new); free web_search and api.fxtwitter.com, one post expansion per candidate. Zero paid API calls.",
+ "counts": {
+  "directory_entries_before": 2209,
+  "feed_items_added_since_last_pass": 35,
+  "ids_opened_this_pass": 37,
+  "verified_live_this_pass": 37,
+  "added_to_directory": 36,
+  "held_this_pass": 1,
+  "rejected_this_pass": 0,
+  "rotation_sampled": 28,
+  "rotation_dead": 0,
+  "rotation_renamed": 1,
+  "directory_entries_after": 2245,
+  "published_after": 2241,
+  "builders_after": 1001
+ },
+ "verification": {
+  "reader": "ops/tools/share_record_scan.py (authoritative: decodes the RSC flight payload and raw-decodes the share record)",
+  "bar": "HTTP 200 AND a share record carrying botName + a real description",
+  "post_link_check": "every candidate's source post was expanded through api.fxtwitter.com and the body was read to carry that candidate's exact share id (31 of 31 registry-feed candidates; 5 of 6 for the grokbots.best set, the sixth post no longer resolves and is noted below)",
+  "handle_rule": "a handle is written only where the post carrying that exact share link is authored by that handle AND a second source agrees: the platform share record's sharerName matches that account, or grokbots.best names the same handle",
+  "handles_written": 31,
+  "name_only": 5
+ },
+ "added": [
+  {"slug": "3-day-notice-validator", "name": "3-Day Notice Validator", "category": "productivity", "builder": {"name": "Real Estate Lawyer", "x": "SinaiLawFirm"}},
+  {"slug": "it-department-lead", "name": "IT Department Lead", "category": "engineering", "builder": {"name": "DCOL Admin", "x": "braytron"}},
+  {"slug": "calendar-liftoff", "name": "Calendar Liftoff", "category": "creative", "builder": {"name": "Grokx Fan", "x": "tdsfixer"}},
+  {"slug": "quill", "name": "Quill", "category": "creative", "builder": {"name": "John Koisch", "x": "the_simonjester"}},
+  {"slug": "scriptsprint", "name": "ScriptSprint", "category": "productivity", "builder": {"name": "John Koisch", "x": "the_simonjester"}},
+  {"slug": "solopreneur-chief-of-staff", "name": "Solopreneur Chief of Staff", "category": "productivity", "builder": {"name": "Mainly Digital", "x": "c0rtex1100X"}},
+  {"slug": "mamboitalianobot", "name": "MamboItalianoBot", "category": "life", "builder": {"name": "Mambo Italiano", "x": "mamboitaliano__"}},
+  {"slug": "shawn", "name": "Shawn", "category": "money", "builder": {"name": "Badger Bets", "x": "BadgersBet"}},
+  {"slug": "handyman", "name": "Handyman", "category": "life", "builder": {"name": "Dylan Mitchell", "x": "dkmitc"}},
+  {"slug": "pal", "name": "Pal", "category": "money", "builder": {"name": "Badger Bets", "x": "BadgersBet"}},
+  {"slug": "brew-what-you-got", "name": "Brew What You Got", "category": "life", "builder": {"name": "Vitality Ebatez", "x": "Ebatez_"}},
+  {"slug": "phone-use-bot", "name": "Phone Use Bot", "category": "productivity", "builder": {"name": "Harsh Manoj Jain", "x": "harshmanojjain"}},
+  {"slug": "opus-motion", "name": "Opus Motion", "category": "creative", "builder": {"name": "Matt Rice", "x": "bossriceshark"}},
+  {"slug": "the-box-of-names", "name": "The Box of Names", "category": "research", "builder": {"name": "jack", "x": "BLDG_390"}},
+  {"slug": "x-growth-assistant", "name": "X Growth Assistant", "category": "sales", "builder": {"name": "Donald Moore", "x": "DonaldMoor91672"}},
+  {"slug": "superfan", "name": "Superfan", "category": "life", "builder": {"name": "Samuel Dickinson", "x": "SamuelD2022"}},
+  {"slug": "ai-security-advisor", "name": "AI Security Advisor", "category": "engineering", "builder": {"name": "zeus", "x": "zeuss_000"}},
+  {"slug": "webb-knox", "name": "Webb Knox", "category": "sales", "builder": {"name": "Rardo", "x": "gerardocasta711"}},
+  {"slug": "elon-ecosystem-desk", "name": "Elon Ecosystem Desk", "category": "research", "builder": {"name": "CHRISV", "x": "cvey15"}},
+  {"slug": "bookmark-miner", "name": "Bookmark Miner", "category": "productivity", "builder": {"name": "Reuben H", "x": "therookiehacker"}},
+  {"slug": "market-sentiment-bot", "name": "Market Sentiment Bot", "category": "money", "builder": {"name": "itachi data", "x": "Itachidata"}},
+  {"slug": "connection-mapper", "name": "Connection Mapper", "category": "research", "builder": {"name": "Michael A.M.E.", "x": "MindandEmotion7"}},
+  {"slug": "video-editor", "name": "Video Editor", "category": "creative", "builder": {"name": "Ross", "x": "ross_zeiger"}},
+  {"slug": "grok-workhorse", "name": "Grok Workhorse", "category": "engineering", "builder": {"name": "ali mahmoudnia", "x": "Mahmoudnia95"}},
+  {"slug": "github-pr-desk", "name": "GitHub PR Desk", "category": "engineering", "builder": {"name": "Michael", "x": "MichaelGannotti"}},
+  {"slug": "master-chief-2", "name": "Master Chief", "category": "productivity", "builder": {"name": "Peter Sinke", "x": "psinke"}},
+  {"slug": "first-week-coach", "name": "First-Week Coach", "category": "productivity", "builder": {"name": "Michael", "x": "MichaelGannotti"}},
+  {"slug": "ssh-to-grok-bot-via-tailscale", "name": "SSH to Grok Bot via Tailscale", "category": "engineering", "builder": {"name": "Altman Sam", "x": ""}},
+  {"slug": "seishin-mental-advisor", "name": "精神メンタル・アドバイザー", "category": "life", "builder": {"name": "Shimpei Araki", "x": ""}},
+  {"slug": "x-ops-advisor-ja", "name": "X運用アドバイザー", "category": "productivity", "builder": {"name": "Shimpei Araki", "x": ""}},
+  {"slug": "the-morning-paper", "name": "The Morning Paper", "category": "life", "builder": {"name": "Raildragon", "x": ""}},
+  {"slug": "tripscout", "name": "TripScout", "category": "life", "builder": {"name": "Haim Bahari", "x": "HaimBahari"}},
+  {"slug": "baitcheck", "name": "BaitCheck", "category": "productivity", "builder": {"name": "Renee Rudczynski", "x": "reneerud"}},
+  {"slug": "porter-2", "name": "Porter", "category": "productivity", "builder": {"name": "John Koisch", "x": "the_simonjester"}},
+  {"slug": "inbox-first-pass", "name": "Inbox First Pass", "category": "productivity", "builder": {"name": "Mike Mosley", "x": ""}},
+  {"slug": "chief-of-staff-worldwidevibes", "name": "Chief of Staff", "category": "productivity", "builder": {"name": "WorldWideVibes", "x": "W0rldwid3vib3s"}}
+ ],
+ "held": {
+  "placeholder_description": [
+   "Critique (Dkl9wzI9FCt4EhqTHfsk2): opened live again and the share record still carries the literal placeholder description \"$3d\" with no sharerName. Unchanged standing hold."
+  ],
+  "standing": [
+   "56 first-party rows whose platform display name is the org name SpaceX (the s<hex> share ids) are not part of this pass's new set and the hold is unchanged.",
+   "personas of named individuals (Elon, Elongated Musketeer, Elon Musk (Algorithm & constraint)), the single-letter name B, and the two-word placeholder description anew: all unchanged holds, none re-opened this pass because none appeared in the new set."
+  ]
+ },
+ "name_only": {
+  "altman_sam": "SSH to Grok Bot via Tailscale: the post that carries the share id is by app_sail (display Asa), the share record says Altman Sam, no second source agrees, so the handle stays empty.",
+  "shimpei_araki": "精神メンタル・アドバイザー and X運用アドバイザー: the posts are by shin_chan_ai (display しんちゃん | ログラス 社長室), the share record says Shimpei Araki (Ambassador); the two do not agree, so the handle stays empty.",
+  "raildragon": "The Morning Paper: grokbots.best names MAGAmechanic60 and the share record says Raildragon. Raildragon is already the builder name on public-verify-desk, so the name is used as-is and no handle is written.",
+  "mike_mosley": "Inbox First Pass: the grokbots.best source post (x.com/DoonerDesigns_/status/2104000272942895562) no longer resolves, so the post could not be read to carry the share id; the handle stays empty."
+ },
+ "slug_notes": [
+  "master-chief-2: a distinct bot from the listed master-chief (ed l, a final-expense underwriting ops chief); different share id, different description.",
+  "porter-2: a distinct bot from the listed porter (darylbleach, roster mover); this one is John Koisch's Obsidian intake bot.",
+  "chief-of-staff-worldwidevibes: the slug family chief-of-staff is already taken 45 times; this is a new WorldWideVibes bot, not a re-share.",
+  "seishin-mental-advisor and x-ops-advisor-ja: Japanese display names kept as-is (the site already carries 89 non-Latin names) with transliterated ASCII slugs."
+ ],
+ "rejected": {
+  "note": "nothing rejected this pass: every id opened returned a live share record with a name and a real description.",
+  "known_dead_classes_unchanged": {
+   "empty_botName_on_200": ["4jtnk5wsk0UMpDSNqG4Oc", "Pa8G-Ldh5jU_jozWEu2Cs", "Uy2oK9854UViaiO0rQ6nC", "hEmSUvWxccmfAVDGri1R8"],
+   "blank_template": ["MT6acytP70wHR526vPvM3"],
+   "re_share_of_a_listed_bot": ["4mOGY7Nd_mRvrwZYec4Jq", "EQgLIMO5Q_sVk3IM9EQbZ", "wOE4e95HNxhSbrzyLkSI-", "WJc0G06lrr_H9OEyQ8Ijl", "VSO9GRfDreEu2ZiXwwZB_"]
+  },
+  "written_to": "unchanged (no new rejects this pass)"
+ },
+ "registry_note": "The grokbot.dev feed came back to life: it was stale for four passes (frozen at generated_at 2026-09-26T12:39:28Z) and this pass it reports generated_at 2026-09-27T00:34:24Z with 1,291 items, 35 of them added since the previous snapshot. It supplied 30 of the 36 additions. Rate: 37 templates in about 7 hours, so the September 29 sharing-contest surge is still running.",
+ "rotation": "28 existing listings re-opened live with the authoritative reader: 28 ok, 0 dead. One renamed: the slug fulcrum-x now carries the platform name \"Scout\" (sharer Code Solutions), corrected in this pass; no other field touched.",
+ "pr_hygiene": {
+  "build": "npm run build green",
+  "copy_count_guard": "node scripts/check-copy-counts.mjs failed on README.md line 13 (\"2,000+ Grok bots\" against 2,241 published), so the literal was moved to 2,200+ in this pass; guard now reports 2,241 bots · 1,001 builders · 8 categories · 13 guides · 6 combos",
+  "github_text_rule": "no bare X handle anywhere in the commit message or PR text; handles are written as markdown links or plain text without @"
+ },
+ "marketing_signal": [
+  {"note": "Nothing cleared the bar this pass: no single grok-bot post seen in the window exceeded 100K views or 1K bookmarks. The biggest posts surfaced in this pass's own expansions were small (Mambo Italiano 4,429 views, Connection Mapper 2,864), so there is no new [harshithOG](https://x.com/harshithOG) signal to report beyond the one already flagged for daily-ops.",
+   "still_open_for_daily_ops": "Sawyer Merritt's Creator Rewards pilot is still absent from content/news.json (newest item 2026-09-22)."}
+ ]
+}
