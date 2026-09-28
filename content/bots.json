@@ -35228,5 +35228,28 @@
   "source": "https://x.com/HashCons/status/2104339667940250031",
   "addedAt": "2026-09-28",
   "status": "published"
+ },
+ {
+  "slug": "seriofm",
+  "name": "SerioFM",
+  "builder": {
+   "name": "Jericho",
+   "x": "hvJericho"
+  },
+  "tagline": "Gives your Grok Bots a friendly profile picture",
+  "description": "Makes a profile picture for a Grok Bot out of a photo, a character, an NFT, a pet or a text description. The result follows the Serio icon style: capsule eyes, no mouth, and a pastel close-up rising from the bottom left.",
+  "category": "creative",
+  "instructions": "- Grokify an idea\n- Grokify reference images\n- Grokify entire Agent teams",
+  "features": [
+   "Turns a photo or a text description into a bot icon",
+   "Serio icon look: capsule eyes, no mouth, pastel close-up from the bottom left"
+  ],
+  "bestFor": [
+   "Bot profile pictures",
+   "Avatar ideas"
+  ],
+  "url": "https://x.ai/bot/yh5gwGDjd3jKORP132WnB",
+  "addedAt": "2026-09-28",
+  "status": "published"
  }
 ]
