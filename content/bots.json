@@ -36521,5 +36521,174 @@
   "url": "https://x.ai/bot/OVp8v34h4c2mF1B8RXkg7",
   "addedAt": "2026-09-28",
   "status": "published"
+ },
+ {
+  "slug": "loyalty",
+  "name": "Loyalty",
+  "builder": {
+   "name": "Carlos"
+  },
+  "tagline": "Chases the airline and hotel status credits that never posted.",
+  "description": "A travel status tracker. It reads your flight and stay mail, finds the nights, segments and miles that never posted, files the claim in the airline or hotel portal where it can, drafts the claim email when the portal will not cooperate, and keeps the next ladder move in front of you. It does not book, send or apply for anything on your behalf.",
+  "category": "life",
+  "url": "https://x.ai/bot/6FxcOf5cgteUpdtd3g700",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "deploy-desk",
+  "name": "Deploy Desk",
+  "builder": {
+   "name": "D.J."
+  },
+  "tagline": "Keeps a small product deployed, healthy and posting.",
+  "description": "Looks after one small SaaS product: keeps its site up and healthy, works a rolling queue of organic posts for its X account with generated visuals, and drafts outreach for your approval. Every change it makes is logged with a rollback path.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/7n0xNJQkJya50-WawGibg",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "scroll-stitch",
+  "name": "Scroll Stitch / 长图拼接",
+  "builder": {
+   "name": "Mai Yang"
+  },
+  "tagline": "Stitches overlapping screenshots into one clean long image.",
+  "description": "Takes a run of overlapping screenshots of the same scrolling area, or a vertical screen recording, strips the status, navigation and tab bars, aligns the frames on their shared content and returns a single long image. Written for Chinese screenshots, it refuses to force a join when the frames are not the same scroll, and never deletes the originals.",
+  "category": "creative",
+  "url": "https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "xrpl-range-trader",
+  "name": "XRPL Range Trader",
+  "builder": {
+   "name": "James Rule XRP ⟐ 👊😎"
+  },
+  "tagline": "Places limit orders on the XRP Ledger from its own small wallet.",
+  "description": "Sets buy and sell limit orders on the XRP Ledger's built-in exchange, trading XRP against RLUSD from a small wallet you create for it rather than from your own holdings. It never touches your seed phrase, and it labels itself educational rather than financial advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/BcSPHebyU3Gkqqqhn3QRr",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "keep-park-kill",
+  "name": "Keep Park Kill",
+  "builder": {
+   "name": "D'Artagnan"
+  },
+  "tagline": "Sorts launches and saved links into keep, park or kill.",
+  "description": "Reads the launches, tools and saved links you would otherwise skim, scores each one against your goals and a written bar, and sorts it into keep, park or kill. It stays quiet unless something clears the bar; parked items get a revisit date and killed ones stay dead.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/LDAD3kSZHqkfpaLMi9dHZ",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "memory-cleanup",
+  "name": "Memory Cleanup / 记忆清理",
+  "builder": {
+   "name": "Oviya Kapoor"
+  },
+  "tagline": "Consolidates an agent's memory only after you approve the deletions.",
+  "description": "Reviews an agent's memory theme by theme, shows the single current rule alongside the older versions it would drop, and waits for your approval before deleting anything. Built for Grok Bot and other agent setups that accumulate stale notes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/LzbEuYYioxCKhdpdIc7d8",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "crosscheck",
+  "name": "Crosscheck",
+  "builder": {
+   "name": "D'Artagnan"
+  },
+  "tagline": "Checks the claims that matter in two lanes before you publish.",
+  "description": "Before you publish or send, it takes the claims that matter and checks each one twice: one lane reasons it through, the other verifies it against live sources on its own. It returns aligned, partial, contested or insufficient, with the exact lines to fix, and never edits or posts for you.",
+  "category": "research",
+  "url": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "rook-chief-of-staff",
+  "name": "Rook · Chief of Staff",
+  "builder": {
+   "name": "Sarah Brundige"
+  },
+  "tagline": "A personal chief of staff for solo founders and creators.",
+  "description": "Runs a morning board for one person, keeps the other teammate bots moving, chases blockers and brings back only the decisions that need a human. Aimed at solo founders, students and creators who want the coordination without the meetings.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/XA4E-6164Df_AcWlT2G2W",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "goal-delta",
+  "name": "Goal Delta",
+  "builder": {
+   "name": "D'Artagnan"
+  },
+  "tagline": "An evening gap check between your plan and where you are.",
+  "description": "Each evening it compares where you want to end up with where you actually are, looks at the plan from bigger, smaller and sideways angles, names the real limits and hands you one decision for tomorrow. It stays quiet on days when nothing moved.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "spacebot",
+  "name": "SpaceBOT",
+  "builder": {
+   "name": "DIEGO"
+  },
+  "tagline": "A friendly space teacher for launches, vehicles and orbits.",
+  "description": "Explains SpaceX missions, webcast calls, vehicles and orbits in plain language, sends a lesson before upcoming launches and quizzes you on what you learned. Friendly rather than encyclopedic.",
+  "category": "life",
+  "url": "https://x.ai/bot/_aoBzY_YprxKiXW34l5U9",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "crypto-creator-video-desk",
+  "name": "Crypto Creator Video Desk",
+  "builder": {
+   "name": "James Rule XRP ⟐ 👊😎"
+  },
+  "tagline": "Turns a YouTube link into chapters, intros and Shorts.",
+  "description": "Paste a YouTube link and it returns chapter timestamps ready to paste, AI-voiced intros and outros with captions, and Shorts cut from the episode. Built for crypto and finance channels, and it never posts on your behalf.",
+  "category": "creative",
+  "url": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "spottie",
+  "name": "Spottie",
+  "builder": {
+   "name": "Paul Sundquist 🦬"
+  },
+  "tagline": "Organises your Spotify library into themed playlists.",
+  "description": "A Spotify helper that groups your library into themed playlists, finds tracks that match a mood, and builds artist deep-dives. It leaves any playlist you did not ask it to touch alone.",
+  "category": "life",
+  "url": "https://x.ai/bot/e3dOKUCIVNmyHas0OfpQW",
+  "addedAt": "2026-09-28",
+  "status": "published"
+ },
+ {
+  "slug": "crypto-budget-and-tax-keeper",
+  "name": "Crypto Budget & Tax Keeper",
+  "builder": {
+   "name": "James Rule XRP ⟐ 👊😎"
+  },
+  "tagline": "Plain-English budgeting plus a CPA-ready crypto tax file.",
+  "description": "A read-only money assistant for people holding crypto: it builds a plain-English budget and net worth picture from your bank and exchange accounts, and keeps a CPA-ready file of cost basis, gains and losses and IRA distributions. Not tax advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+  "addedAt": "2026-09-28",
+  "status": "published"
  }
 ]
