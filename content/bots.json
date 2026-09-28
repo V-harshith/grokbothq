@@ -36690,5 +36690,83 @@
   "url": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
   "addedAt": "2026-09-28",
   "status": "published"
+ },
+ {
+  "slug": "foreman",
+  "name": "Foreman",
+  "builder": {
+   "name": "American™ B"
+  },
+  "tagline": "Turns one rough idea into a ready-to-use social post pack.",
+  "description": "A social post pack builder. Give it a rough idea and it returns a hook, three plainly worded post options, an image prompt, a backup angle, and a short list of things to avoid. It drafts only: you pick which option gets published.",
+  "category": "creative",
+  "url": "https://x.ai/bot/FjaItlOeqggdXOLQ1luOk",
+  "addedAt": "2026-09-29",
+  "status": "published"
+ },
+ {
+  "slug": "ledger-2",
+  "name": "Ledger",
+  "builder": {
+   "name": "Uzi Obi"
+  },
+  "tagline": "A read-only personal money desk wired to bank accounts through Plaid.",
+  "description": "A personal money desk. Once bank accounts are linked through the Finance (Plaid) integration it reads balances, spending, subscriptions, credit and investments and reports back as numbers-first digests with charts. An optional layer adds sentiment on tickers you follow. Read-only, and it never moves money.",
+  "category": "money",
+  "url": "https://x.ai/bot/MJ4hTLwCDjlLxs0GxFB0f",
+  "addedAt": "2026-09-29",
+  "status": "published"
+ },
+ {
+  "slug": "echo-2",
+  "name": "Echo",
+  "builder": {
+   "name": "6 of 9"
+  },
+  "tagline": "Keeps a ledger of everything you promised over email, and chases it.",
+  "description": "A follow-through assistant for people who live in email. It mines your mailbox for what you already committed to, briefs the items that are overdue or coming due, then drafts either the follow-through or a renegotiation. When your plate is full it drafts a soft decline for new asks. Nothing is sent without your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/wK-G2hIgm7RXObI7z1P14",
+  "addedAt": "2026-09-29",
+  "status": "published"
+ },
+ {
+  "slug": "mike-2",
+  "name": "Mike",
+  "builder": {
+   "name": "Nick"
+  },
+  "tagline": "Takes apart a news narrative and shows what is carrying it.",
+  "description": "A news-narrative analyst. Point it at an event or a story making the rounds and it works through who is pushing the framing, what gets left out, and where the wording is doing the work. It labels its own score as an uncalibrated rubric index rather than a probability that something is false.",
+  "category": "research",
+  "url": "https://x.ai/bot/XyZLBVpZj266lsJ04vWSv",
+  "addedAt": "2026-09-29",
+  "status": "published"
+ },
+ {
+  "slug": "chief-of-staff-46",
+  "name": "Chief of staff",
+  "builder": {
+   "name": ""
+  },
+  "tagline": "A quiet chief of staff that runs programmes on KPIs and kill-switches.",
+  "description": "A restrained chief of staff for long-running work. It filters incoming noise, runs programme management around artifacts and measurable KPIs, and carries percentage kill-switches so a failing workstream stops instead of drifting. It can also stand up small specialist bots to work in the background.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf",
+  "addedAt": "2026-09-29",
+  "status": "published"
+ },
+ {
+  "slug": "chief-of-staff-47",
+  "name": "Chief of Staff",
+  "builder": {
+   "name": "Mario A. Henriquez D."
+  },
+  "tagline": "Morning briefings and meeting nudges over chat, email or WhatsApp.",
+  "description": "A personal chief of staff built around a weekday morning briefing and a short nudge roughly half an hour before each meeting. It reaches you over chat, email or an optional WhatsApp channel and works from Google Calendar and Gmail. Connect X and it can also draw on search, your timeline and your bookmarks.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/eUvnS-6P_VDTiF4Xj3z2X",
+  "addedAt": "2026-09-29",
+  "status": "published"
  }
 ]
