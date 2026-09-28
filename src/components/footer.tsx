@@ -41,6 +41,22 @@ export function Footer() {
           <Link href="/groups" className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
             Combos
           </Link>
+          <a
+            href="https://github.com/V-harshith/grokbothq/blob/main/AWESOME.md"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground"
+          >
+            Awesome list
+          </a>
+          <a
+            href="https://github.com/V-harshith/grokbothq"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[12.5px] text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground"
+          >
+            GitHub
+          </a>
         </nav>
         <p className="mt-[26px] font-mono text-[11.5px] tracking-[0.02em] text-muted">
           grokbothq.xyz · {stats.bots} bots indexed · every listing opened by hand

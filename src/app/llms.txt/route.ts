@@ -36,7 +36,7 @@ function build(): string {
   lines.push(`- Markdown variants: append \`.md\` to any bot or guide page URL for a plain-text version (e.g. ${base}/bots/multibot.md, ${base}/guides/what-are-grok-bots.md); index versions: ${base}/guides.md and ${base}/use-cases.md.`);
   lines.push("");
 
-  lines.push("");
+  lines.push("## Pages");
   lines.push("");
   lines.push(`- [Home](${base}/): the directory hub, featured bots, new additions`);
   lines.push(`- [All bots](${base}/bots): every hand-reviewed Grok bot, filterable by category`);
@@ -49,6 +49,7 @@ function build(): string {
   lines.push(`- [Compare](${base}/compare): Grok bots vs Custom GPTs, Claude Skills, Gemini Gems, agent frameworks`);
   lines.push(`- [FAQ](${base}/faq): common questions answered plainly`);
   lines.push(`- [Submit a bot](${base}/submit): free, hand-reviewed listings`);
+  lines.push(`- [Awesome Grok Bots](https://github.com/V-harshith/grokbothq/blob/main/AWESOME.md): a curated, CC0 list of the best bots in this directory, for anyone who wants the short version`);
   lines.push("");
 
   lines.push("## Categories");
