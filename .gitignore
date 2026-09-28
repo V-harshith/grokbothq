@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agent/ops tooling + local scratch
+/.hoplite
+/.impeccable
+/ops
+/docs/superpowers
+KEYWORDS.md
+DESIGN.md
+PRODUCT.md
+GEO-ANALYSIS.md
+/design-prototype
+out.html
