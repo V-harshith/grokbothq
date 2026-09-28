@@ -1,0 +1,62 @@
+{
+  "run": "2026-09-27 14:00 IST scout pass",
+  "rejected": [
+    {
+      "name": "Grok Bot",
+      "bot_id": "hEmSUvWxccmfAVDGri1R8",
+      "reason": "HTTP 200 but no share record: ownerType TEAM, empty botName, generic template shell.",
+      "source": "grokbots.best"
+    },
+    {
+      "name": "Grok Bot",
+      "bot_id": "Uy2oK9854UViaiO0rQ6nC",
+      "reason": "HTTP 200 but no share record (same blank shell).",
+      "source": "grokbots.best"
+    },
+    {
+      "name": "Grok Bot",
+      "bot_id": "Pa8G-Ldh5jU_jozWEu2Cs",
+      "reason": "HTTP 200 but no share record (same blank shell).",
+      "source": "grokbots.best"
+    },
+    {
+      "name": "Moonshot",
+      "bot_id": "fSBU34VR0gqteP3IOAnr8",
+      "reason": "404 - the registry feed still lists the share id but the page is gone.",
+      "source": "grokbot.dev registry feed"
+    },
+    {
+      "name": "VPS bot",
+      "bot_id": "KkQ9TOi5k9f2O60a-dx4T",
+      "reason": "verified live but rejected on policy: proxy-VPS / censorship-circumvention deployment helper.",
+      "source": "grokbot-templates.com"
+    }
+  ],
+  "held": [
+    {
+      "name": "Critique",
+      "bot_id": "Dkl9wzI9FCt4EhqTHfsk2",
+      "reason": "live, but the share record description is still the literal placeholder \"$3d\" (standing hold)."
+    },
+    {
+      "name": "Premarket Desk · 盘前早报",
+      "bot_id": "GuhaTzThKQG2MKJyHoREx",
+      "reason": "live and carrying a real post (18,013 views), but the share record description is \"$3d\"."
+    },
+    {
+      "name": "The List",
+      "bot_id": "4mOGY7Nd_mRvrwZYec4Jq",
+      "reason": "second share id of the already-listed the-list."
+    },
+    {
+      "name": "Optima by TOATspace",
+      "bot_id": "VSO9GRfDreEu2ZiXwwZB_",
+      "reason": "third share id of an already-listed bot; sharer is not the builder."
+    },
+    {
+      "name": "SpaceX-named first-party pack (56 rows)",
+      "bot_id": "s* share ids",
+      "reason": "standing hold - the platform display name on those rows is the org name \"SpaceX\", so attribution is not verifiable."
+    }
+  ]
+}

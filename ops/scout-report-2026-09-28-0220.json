@@ -1,0 +1,38 @@
+{
+ "pass": "2026-09-28-0220",
+ "started": "2026-09-28T02:20:00+05:30",
+ "verified_added": 8,
+ "verified_failed": 8,
+ "held": 60,
+ "directory": {"before": 2282, "after": 2290, "published": 2285, "builders_with_handle": 1029},
+ "added": [
+  {"slug": "bill-watch", "name": "Bill Watch", "category": "money", "id": "doSuUa9J-ChT2mhQt5Iei", "source": "grokbot.dev feed"},
+  {"slug": "quartermaster", "name": "Quartermaster", "category": "money", "id": "JOeuvpFg4v2VAuYX8H0UM", "source": "grokbot.dev feed"},
+  {"slug": "media-ledger", "name": "Media Ledger", "category": "life", "id": "xpZm4ufgAWoCcYPAbugWE", "source": "grokbot.dev feed"},
+  {"slug": "find-good-stocks", "name": "Find Good Stocks", "category": "money", "id": "2vgMdaQRj4mBWUMygUThf", "source": "grokbot.dev feed"},
+  {"slug": "provenance", "name": "Provenance", "category": "productivity", "id": "BVB4ROqmz6xQon8KskyTI", "source": "grokbots.best"},
+  {"slug": "ho-be-gone", "name": "Ho Be Gone", "category": "life", "id": "zM69z4OgdFDSzWcFNsQqx", "source": "grokbots.best"},
+  {"slug": "author", "name": "Author", "category": "life", "id": "UYdkpfZSu4O6N8_cRXpJO", "source": "grokbots.best"},
+  {"slug": "lyric-guard", "name": "Lyric Guard", "category": "life", "id": "l4NfEcvgnDxLpDiS2nSH7", "source": "grokbots.best"}
+ ],
+ "surfaces_checked": [
+  {"name": "grokbot.dev community feed", "items": 1318, "feed_share_ids": 1111, "unseen": 65, "note": "56 of the 65 are the held @DenisLabelle pack; 1 new template landed since the 20:10 pass"},
+  {"name": "grokbots.best", "ids": 1039, "records": 1037, "unseen": 12, "new": 4},
+  {"name": "grokbotwiki.com/bots/catalog.json", "rows": 2153, "unseen": 14, "new": 0},
+  {"name": "grokmarket.io", "ids": 717, "unseen": 4, "new": 0, "note": "independent directory; 713 of its 717 ids were already listed, so it is a good overlap check rather than a new firehose"},
+  {"name": "x.ai/bot/marketplace (9 category pages)", "listings": 84, "unseen": 16, "new": 0, "note": "first-party marketplace payload now parsed directly (name, creator, handle, categories, addHref); all 16 unseen ids are second share ids of bots already listed"},
+  {"name": "grokbots.page", "ids": 523, "unseen": 0},
+  {"name": "grokbotpulse.com", "ids": 10, "unseen": 0},
+  {"name": "github divo12/awesome-grok-bot-templates", "ids": 19, "unseen": 0},
+  {"name": "grokbot-templates.com", "error": "HTTP 500 (down since the 20:10 pass)"},
+  {"name": "bottemps.com", "error": "200 but a 114-byte shell; marketplace not readable without JS"}
+ ],
+ "x_channel": "web_search for x.ai/bot posts returned mostly August and early-September launch coverage; four share ids pulled from the indexed posts were checked (Forge, Sable: Game Art already listed; LG Laundry Specialist and one truncated id failed). No fresh-link burst in the last 24h.",
+ "rotation": {"seed": 2026092802, "sampled": 30, "live": 30, "dead": 0, "renamed": 0},
+ "trend_watch": "No single grok-bot post cleared 100K views or 1K bookmarks in this window. The Sep 26 Grok Bot Creator Rewards pilot (invite-only, paid via X Money, Sawyer Merritt reporting $500 in two weeks from Home Robots) is the strongest marketing signal but it is a Sep 26 story, not new here.",
+ "content_gaps": [
+  "content/news.json still ends at 2026-09-22, so neither the Grok Bot Finance integration launch nor the Sep 25-26 creator rewards news is on the site's news list.",
+  "The Grok Bot Marketplace (x.ai/bot/marketplace, 84 curated listings across 9 categories) is now parsed by ops/tools/parse-marketplace-2026-09-28.py and could back a marketplace guide page."
+ ],
+ "cost": "zero paid API calls (web_search, web_extract, curl, urllib only)"
+}
