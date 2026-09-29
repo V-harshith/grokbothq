@@ -36768,5 +36768,827 @@
   "url": "https://x.ai/bot/eUvnS-6P_VDTiF4Xj3z2X",
   "addedAt": "2026-09-29",
   "status": "published"
+ },
+ {
+  "slug": "efficiency-bot",
+  "name": "Efficiency Bot",
+  "builder": {
+   "name": "Bennett Plumb"
+  },
+  "tagline": "Trims wasted tokens and dead patterns out of the other bots you run.",
+  "description": "A maintenance bot for people running several Grok Bots. It reads your chat history, spots wasteful patterns and unused routines, then sets up tighter workflows in their place. One bot, one job: it tunes the roster rather than doing the roster work.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VxIyueNAPSZ9AlmfMwanO",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/Kenook_/status/2104721465023058399"
+ },
+ {
+  "slug": "protective-detail",
+  "name": "Protective Detail",
+  "builder": {
+   "name": "Mike"
+  },
+  "tagline": "Advance packets before every destination, plus leave-by and navigation prep.",
+  "description": "An always-on travel safety bot. Before each destination it builds an advance packet, keeps location sharing to names rather than coordinates, and preps the car and the route before you need to leave. Built for people who travel on a schedule and want the boring safety work done ahead of time.",
+  "category": "life",
+  "url": "https://x.ai/bot/37Km_vSkZWbQLJacdb_xq",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/autosourcer0/status/2104720508201935110"
+ },
+ {
+  "slug": "agent-improver",
+  "name": "Agent Improver",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Picks one of your bots a day, makes one safe improvement, and scores the result.",
+  "description": "Daily maintenance for anyone running several bots. It picks a single bot, applies one safe change, scores performance before and after, and reports what actually moved. It stays inside its own lane and does not take over another bot's job.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Idb_NF5CDfs2il25w0CiM",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104719796465967114"
+ },
+ {
+  "slug": "framecraft",
+  "name": "Framecraft",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Builds and cleans Figma frames with library components and pixel-accurate spacing.",
+  "description": "A Figma production bot for product designers. It assembles frames from your library components, applies CSS-style auto layout, and matches spacing to the inspected properties. It keeps the Figma file as the source of truth when a design heads toward code.",
+  "category": "creative",
+  "url": "https://x.ai/bot/rT68Jw98kUdeABmvFobN5",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104719700987117983"
+ },
+ {
+  "slug": "cards",
+  "name": "Cards",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Credit-card ops: expiring credits, best card for a purchase, keep or cancel a fee.",
+  "description": "Numbers-first answers for people carrying several cards. It flags credits about to expire, names the best card for a specific purchase, and gives a keep-or-cancel call on annual fees. Short answers, no filler.",
+  "category": "money",
+  "url": "https://x.ai/bot/0GjZj5W6UCzPfxX5y381r",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104719566337356168"
+ },
+ {
+  "slug": "travel",
+  "name": "Travel",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Maps flights, stays, ground logistics and paperwork into a critical path.",
+  "description": "A personal trip planner for people juggling several moving parts at once. It lays out the critical path and the next action for each leg, including the paperwork. It never books or spends without an explicit yes from you.",
+  "category": "life",
+  "url": "https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104714368126427398"
+ },
+ {
+  "slug": "content",
+  "name": "Content",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Portfolio and blog content seat: strategy, calendar, drafts you approve before posting.",
+  "description": "A content seat for a personal site, aimed at craft and AI builds. It holds the strategy and calendar, drafts posts for approval, then amplifies once you give the go. It stays out of job-hunt outreach, which is a different bot's job.",
+  "category": "creative",
+  "url": "https://x.ai/bot/iAwkENgt3iIxp0OR7_QvF",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104713920883855813"
+ },
+ {
+  "slug": "coach",
+  "name": "Coach",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Career accountability peer: weekly commitments, call prep, evidence before any nudge.",
+  "description": "An accountability partner for designers. It holds your weekly commitments and call prep, builds an evidence pack before any pipeline status nudge, and waits for confirmation before every write. It does not auto-apply in a browser.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104713340614570216"
+ },
+ {
+  "slug": "growth",
+  "name": "Growth",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Job-hunt ops for designers, quiet-search safe, every write confirmed by you.",
+  "description": "Tracks roles in Airtable, sends a Monday pipeline pulse, and builds an evidence pack before an application. You confirm every write and nothing is auto-applied in a browser. Built for a quiet search where nothing leaks.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/yDxUZegF6GnO_Kym-qewf",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104712906025882077"
+ },
+ {
+  "slug": "job-application-assistant",
+  "name": "Job Application Assistant",
+  "builder": {
+   "name": "Ray"
+  },
+  "tagline": "Polishes a master resume, tracks interested roles, tailors resume and cover drafts.",
+  "description": "Keeps one master resume in shape, holds an interested-jobs list, and tailors resume and cover drafts per role. It outputs ATS-safe PDFs with aligned columns. Nothing is submitted until you name the role and say yes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/3cymtsAFCEoIB3gpHAv4a",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/BarPrepPlay/status/2104711210973434029"
+ },
+ {
+  "slug": "meal-prep-molly",
+  "name": "Meal Prep Molly",
+  "builder": {
+   "name": "Frank Gonzalez"
+  },
+  "tagline": "Keeps your weekly grocery staples in a list and reorders them in one message.",
+  "description": "Holds a fixed weekly grocery list and reorders it through a delivering grocer. You can keep the same staples every week or vary them slightly. What used to be a weekly chore becomes one message.",
+  "category": "life",
+  "url": "https://x.ai/bot/9CAijdJobViu5luVV9mRX",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/FrankFindsOut/status/2104710511673987531"
+ },
+ {
+  "slug": "house-holly",
+  "name": "House Holly",
+  "builder": {
+   "name": "Frank Gonzalez"
+  },
+  "tagline": "Remembers filter sizes, bulb types, mop liquid and the house details you forget.",
+  "description": "A memory bot for the small household facts that only matter at the store. It keeps filter sizes, bulb types by room, cleaning liquids, candle scents and similar details, so you stop guessing in an aisle.",
+  "category": "life",
+  "url": "https://x.ai/bot/amtUeylz7fOE4eFLDCK-_",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/FrankFindsOut/status/2104710405969043785"
+ },
+ {
+  "slug": "desk-dana",
+  "name": "Desk Dana",
+  "builder": {
+   "name": "Frank Gonzalez"
+  },
+  "tagline": "Turns what you own and how you work into a desk setup shopping plan.",
+  "description": "A desk setup planner covering standing desks, monitors, peripherals, lighting and style. You share what you already have and how you work, and it returns a clear, ordered shopping plan rather than a wishlist of everything.",
+  "category": "life",
+  "url": "https://x.ai/bot/xcO3RvVUw8qlXpveiuUj7",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/FrankFindsOut/status/2104710354345582912"
+ },
+ {
+  "slug": "cloudflare-github-site-bot",
+  "name": "Cloudflare GitHub Site Bot",
+  "builder": {
+   "name": "Roman Lorenzen"
+  },
+  "tagline": "Builds or migrates a site onto GitHub and Cloudflare Workers, accounts included.",
+  "description": "Walks you from zero accounts to a live site on GitHub and Cloudflare Workers. It handles SSH deploy keys and API tokens, writes the design and the copy, and runs the production QA pass. Also migrates an existing site onto the same stack.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/xPrivateUser/status/2104705179098689620"
+ },
+ {
+  "slug": "paycheck-reality-check",
+  "name": "Paycheck Reality Check",
+  "builder": {
+   "name": "Alex"
+  },
+  "tagline": "Turns a pay stub into line findings and a worksheet that invents no rates.",
+  "description": "Paste a pay stub and it reads it line by line, flags what looks wrong, and builds a worksheet that refuses to invent rates it cannot see. It also drafts a demand letter. You send everything yourself.",
+  "category": "money",
+  "url": "https://x.ai/bot/wuUzQmWkCqaQeDQm_he85",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/AlexFCHF/status/2104701612262601151"
+ },
+ {
+  "slug": "collection-notice-action-pack",
+  "name": "Collection Notice Action Pack",
+  "builder": {
+   "name": "Alex"
+  },
+  "tagline": "Turns a debt-collection notice into a response clock and dispute drafts.",
+  "description": "Give it a debt-collection notice and it builds the response clock, a do-not-admit script, dispute letter drafts and an evidence checklist. It drafts only. You send everything yourself.",
+  "category": "money",
+  "url": "https://x.ai/bot/bPxpPAdxa5nqiTaUVK5wO",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/AlexFCHF/status/2104701479047356888"
+ },
+ {
+  "slug": "count",
+  "name": "Count",
+  "builder": {
+   "name": "Richard"
+  },
+  "tagline": "Physical stock-count desk that writes counts into your master file only on approval.",
+  "description": "A physical inventory count desk for small businesses. It builds pre-filled count sheets for the count itself, then writes the real numbers into your master stock file only after you approve them. One bot owns the count, no spreadsheet merging afterwards.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/RichGarrick/status/2104700483969691975"
+ },
+ {
+  "slug": "events",
+  "name": "Events",
+  "builder": {
+   "name": "Richard"
+  },
+  "tagline": "Pop-up and market inventory desk: pack lists before a show, sold log after.",
+  "description": "An inventory desk for small sellers who work markets and pop-ups. It builds the pack list before a show, logs what sold while you are there, and pushes offline sales back into your master stock file so the numbers still add up.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/RichGarrick/status/2104700485567684743"
+ },
+ {
+  "slug": "reconcile",
+  "name": "Reconcile",
+  "builder": {
+   "name": "Richard"
+  },
+  "tagline": "Compares your stock file against every sales channel and proposes the fixes.",
+  "description": "An inventory mismatch desk for small shops. It compares your master stock file with each sales channel, puts the differences in one table, and proposes fixes for you to approve. It never writes changes itself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/RichGarrick/status/2104700483969691975"
+ },
+ {
+  "slug": "reorder",
+  "name": "Reorder",
+  "builder": {
+   "name": "Richard"
+  },
+  "tagline": "Tracks stock against reorder points, estimates run-out dates, drafts supplier orders.",
+  "description": "A low-stock and supplier-order desk for small businesses. It tracks finished goods and supplies against your reorder points, estimates when each will run out, and drafts the orders for you to place yourself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/RichGarrick/status/2104700485567684743"
+ },
+ {
+  "slug": "wren-game-design-partner",
+  "name": "Wren: Game Design Partner",
+  "builder": {
+   "name": "Xavier Fouilleux"
+  },
+  "tagline": "Designs the game loop, then plays the build and judges whether the fun landed.",
+  "description": "A design partner for indie and solo game developers. It works out the concept, the core loop and what brings players back, then writes a build brief a developer or coding agent can follow. Once there is a playable build it plays it and returns PASS, DEGRADED or FAIL with fixes ranked by impact. It judges feel, not bugs.",
+  "category": "creative",
+  "url": "https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/ixef/status/2104698702963339695"
+ },
+ {
+  "slug": "boardy",
+  "name": "Boardy",
+  "builder": {
+   "name": "JP Costa",
+   "x": "jp_costa"
+  },
+  "tagline": "Asks Boardy, the AI superconnector, for intros straight from your own Gmail.",
+  "description": "A bridge to Boardy, the AI superconnector at boardy@boardy.ai. Ask for a person or an intro in chat and it emails Boardy from your Gmail account, then relays the real reply back. No new inbox and no manual forwarding.",
+  "category": "sales",
+  "url": "https://x.ai/bot/Qf3kc7g_FQY41atLr-dBr",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/jp_costa/status/2104698592518951034"
+ },
+ {
+  "slug": "lineup-lock",
+  "name": "Lineup Lock",
+  "builder": {
+   "name": "Allen Patch"
+  },
+  "tagline": "Fantasy football coach for this week: lineup, start/sit, waivers, trades.",
+  "description": "A weekly fantasy football coach. It sets the starting lineup, gives start and sit calls with real confidence levels, suggests waivers that match your league rules, and advises on trades against your scoring. Fantasy only, no betting picks.",
+  "category": "life",
+  "url": "https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/PatchesHQ/status/2104696851526304018"
+ },
+ {
+  "slug": "next-day-meal-planner",
+  "name": "次の日の献立 自動化",
+  "builder": {
+   "name": "フクベイ｜健康食アンバサダー"
+  },
+  "tagline": "Sends a photo of today's food, gets tomorrow's breakfast, lunch and dinner recipes.",
+  "description": "A Japanese-language meal planner. You send a photo of what you ate today and it searches X for recipes that fit tomorrow's breakfast, lunch and dinner, returning each suggestion with the source post attached. Aimed at people who want their nutrition balanced without planning it themselves.",
+  "category": "life",
+  "url": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/fukubae_kenko_/status/2104677541206540547"
+ },
+ {
+  "slug": "lottery-ticket-checker",
+  "name": "彩票兑奖助手",
+  "builder": {
+   "name": "Mai Yang",
+   "x": "maiyangai"
+  },
+  "tagline": "Checks a lottery ticket against the official draw and says plainly whether it won.",
+  "description": "A Chinese-language ticket checker. Send a photo of the ticket or just the numbers and it checks the official draw result, then tells you plainly whether the ticket won. It does not suggest numbers and does not buy tickets on your behalf.",
+  "category": "life",
+  "url": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/MaiYangAI/status/2104554945634873350"
+ },
+ {
+  "slug": "doggo",
+  "name": "Doggo 🐾",
+  "builder": {
+   "name": "Danny Buck",
+   "x": "dannybuck"
+  },
+  "tagline": "One breed-specific training idea for your dog every morning.",
+  "description": "A dog trainer and behaviourist in a bot. Tell it about your dog and it sends one idea each morning tuned to the breed, covering training, reactivity, anxiety, boredom and plain fun. Built for owners who want a daily nudge rather than a course.",
+  "category": "life",
+  "url": "https://x.ai/bot/l4iZvl8RcIB_NCpkXnCMF",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/dannybuck/status/2104503573354516481"
+ },
+ {
+  "slug": "markets-weekday-brief",
+  "name": "Markets Weekday Brief",
+  "builder": {
+   "name": "BRΛDΞN"
+  },
+  "tagline": "Weekday card on the prediction markets you watch, with YES ideas you place yourself.",
+  "description": "A weekday pulse on the prediction markets on your watchlist. Each morning it returns a clean card of movements and green YES buy ideas, with odds pulled from public Polymarket and Kalshi APIs. It never places a trade for you.",
+  "category": "money",
+  "url": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/SpacedBraden/status/2104500429606490258"
+ },
+ {
+  "slug": "morning-triage-chief",
+  "name": "Morning Triage Chief",
+  "builder": {
+   "name": "Angel Zhen"
+  },
+  "tagline": "Paste a messy to-do list, get four buckets, counts, a brief and three next moves.",
+  "description": "A triage bot for the morning. Drop in an unstructured to-do list and it sorts everything into four buckets, counts what is there, writes a short brief, and names the three next moves. Useful when the list is longer than the day.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/7-EeGYxDyedmNYELbedW1",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/AngelZhenCPA/status/2104486741474509086"
+ },
+ {
+  "slug": "game-gary",
+  "name": "Game Gary",
+  "builder": {
+   "name": "Frank Gonzalez"
+  },
+  "tagline": "Logs what you like and dislike in games, then recommends ones that fit.",
+  "description": "A taste companion for video games. It records what you liked and did not, mapping mechanics, story, pace and feel, then recommends games that match. Built to cut bad buys and get through more of a backlog.",
+  "category": "life",
+  "url": "https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/FrankFindsOut/status/2104476821647692052"
+ },
+ {
+  "slug": "film-freddy",
+  "name": "Film Freddy",
+  "builder": {
+   "name": "Frank Gonzalez"
+  },
+  "tagline": "Learns what you love and skip in films, then says what to watch and where.",
+  "description": "A film taste companion. It learns what you love and what you skip, recommends films that fit, and tells you where each one is streaming. Suits both seasoned and new film watchers.",
+  "category": "life",
+  "url": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/FrankFindsOut/status/2104476717968662887"
+ },
+ {
+  "slug": "instagram-iris",
+  "name": "Instagram Iris",
+  "builder": {
+   "name": "Frank Gonzalez"
+  },
+  "tagline": "Scores Instagram creators against your ICP and drafts the outreach DM.",
+  "description": "A creator-outreach bot. It qualifies Instagram creators against an ideal customer profile you define, then drafts a hook drawn from their recent posts and a DM you send yourself. No automated sending.",
+  "category": "sales",
+  "url": "https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/FrankFindsOut/status/2104476341865460019"
+ },
+ {
+  "slug": "nomad-pro-uk-residency-tracker",
+  "name": "Nomad Pro – UK Residency Tracker",
+  "builder": {
+   "name": "Komal Amin"
+  },
+  "tagline": "Day-by-day UK travel and work log measured against the statutory residence test.",
+  "description": "Keeps the administration side of UK residency in order. It maintains a day-by-day travel and work log with records, measures the totals against HMRC statutory residence test figures and visa stay limits, and adds a travel concierge for the next move. Record-keeping, not tax advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/A5PJWWubWq6RSITiu_tdG",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/citizen906/status/2104474969199788433"
+ },
+ {
+  "slug": "sundial",
+  "name": "Sundial",
+  "builder": {
+   "name": "riesling29"
+  },
+  "tagline": "Calendar assistant for meetings, deadlines and focus blocks, with conflict flags.",
+  "description": "A scheduling assistant covering meetings, deadlines and focus blocks. It flags conflicts before they land and keeps the week organised. Straightforward calendar work rather than a full chief of staff.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/WaterMixing/status/2104466715933626875"
+ },
+ {
+  "slug": "what-s-for-dinner",
+  "name": "What's for Dinner?",
+  "builder": {
+   "name": "Bryce Dees | Insurance + AI"
+  },
+  "tagline": "One dinner idea a day fitted to your household diets, time, kitchen and budget.",
+  "description": "A home-cooking helper for households with constraints. It sends one dinner idea a day matched to allergies, diets, available time, kitchen equipment and budget. It can also read a fridge photo and turn what is in there into dinner, or plan the week with a single grocery list.",
+  "category": "life",
+  "url": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/CantBeatDees/status/2104462737661444398"
+ },
+ {
+  "slug": "opportunities-research",
+  "name": "Opportunities Research",
+  "builder": {
+   "name": "Oscar Morales"
+  },
+  "tagline": "Hunts problems and gaps from your week and public signals, and cuts hard.",
+  "description": "Applied YC-style opportunity research. It looks for problems, gaps and markets in your own week plus public signals such as requests for startups and batch patterns, then falsifies the weak ones instead of padding the list. It refuses to invent market sizes or pitch a product for you.",
+  "category": "research",
+  "url": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/theoscarvibes/status/2104454608177320421"
+ },
+ {
+  "slug": "fare-watch",
+  "name": "Fare Watch",
+  "builder": {
+   "name": "Austin Hoopes"
+  },
+  "tagline": "Watches trips you already booked for a cheaper fare, stay or better dates.",
+  "description": "Reads your booking emails and calendar, then keeps checking airline and hotel sites for trips you have already paid for. It hand back one card per trip with alternatives, change fees and a clear keep-or-switch verdict. It never books, changes, cancels or pays.",
+  "category": "life",
+  "url": "https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/ahoop/status/2104449084660629618"
+ },
+ {
+  "slug": "creator-tracker",
+  "name": "Creator Tracker",
+  "builder": {
+   "name": "IG: Stancedmdl3"
+  },
+  "tagline": "Alerts when chosen X creators post, plus a daily leaderboard by views and followers.",
+  "description": "Follows any creators you pick on X and alerts you when they post, optionally filtered to a topic, with a link and a one-line summary. It also publishes a daily leaderboard ranking them by views, engagement and followers. For keeping up without scrolling.",
+  "category": "research",
+  "url": "https://x.ai/bot/VybQINyBDKmSOgy-wua_A",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/16luca/status/2104441898140315675"
+ },
+ {
+  "slug": "fantasy-football-gm",
+  "name": "Fantasy Football GM",
+  "builder": {
+   "name": "Matt Kim",
+   "x": "mattkim1"
+  },
+  "tagline": "Fantasy football GM running wire, usage, market and desk lanes for your scoring.",
+  "description": "A fantasy football general manager built as a small staff pipeline covering the wire, usage, market and desk lanes. It handles start and sit calls, waivers, trades and injury flags against your league scoring. Nothing is submitted without your yes.",
+  "category": "life",
+  "url": "https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/mattkim1/status/2104432967565312018"
+ },
+ {
+  "slug": "on-this-day",
+  "name": "On This Day",
+  "builder": {
+   "name": "Greg Bennett"
+  },
+  "tagline": "Ten sourced historical events each morning, then a fair trivia game.",
+  "description": "Every morning it sends ten verified historical events from that date, with sources and trivia, filtered to the history you actually like. It then hosts a trivia game solo or with friends, one question at a time, without leaking answers or inventing facts.",
+  "category": "life",
+  "url": "https://x.ai/bot/13MQct_8eYUPSLSS_Bihn",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/9GBennett/status/2104412250224075155"
+ },
+ {
+  "slug": "customer-service",
+  "name": "Customer Service",
+  "builder": {},
+  "tagline": "Finds the customer orders still needing a ship or reship, and drafts the replies.",
+  "description": "Keeps small online sellers on top of their customer email. It works through the Gmail inbox to find orders still needing to be shipped or reshipped and drafts the replies for you to review. Nothing goes out without you.",
+  "category": "sales",
+  "url": "https://x.ai/bot/zC_-D00Dam5jmHf0t62l_",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/degen4lyfe_/status/2104325538496291020"
+ },
+ {
+  "slug": "cpa-bot",
+  "name": "CPA Bot",
+  "builder": {},
+  "tagline": "Reads linked bank and card statements into revenue, expense and cash-flow reports.",
+  "description": "A bookkeeping assistant for small business owners. It reads linked bank accounts and credit card statements and turns them into clear reports on revenue, expenses, cash flow and daily spending. Reporting only, so you keep the bookkeeping judgement.",
+  "category": "money",
+  "url": "https://x.ai/bot/g5C4pS87enYiK85j9Oa4F",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/degen4lyfe_/status/2104323773650571709"
+ },
+ {
+  "slug": "news-brief",
+  "name": "News Brief",
+  "builder": {
+   "name": "Matthew Ackerman"
+  },
+  "tagline": "One weekly briefing on the stories that lasted, with the claims checked.",
+  "description": "A single short weekly briefing on the news that actually held up all week. It gives plain facts from sources across the political spectrum, strips the bias, and explicitly checks claims circulating online. Written for people who do not follow the news daily.",
+  "category": "research",
+  "url": "https://x.ai/bot/8VRND3bWXULRzcYZfl3iP",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/scientists_blog/status/2104323210112061548"
+ },
+ {
+  "slug": "beside",
+  "name": "Beside",
+  "builder": {
+   "name": "Alex"
+  },
+  "tagline": "A listening companion for hard days, with real human helplines in a crisis.",
+  "description": "A warm listening companion for depression, anxiety, grief and loneliness. It is not a doctor or a therapist. It listens carefully, offers small optional steps only when asked, and in a crisis points people to real human helplines fast.",
+  "category": "life",
+  "url": "https://x.ai/bot/cNkusQWq-rped3eR9tZhn",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/AlexFCHF/status/2104322722457407749"
+ },
+ {
+  "slug": "fabrication",
+  "name": "Fabrication",
+  "builder": {
+   "name": "∆v"
+  },
+  "tagline": "Takes CAD parts to a ready-to-slice 3D print project, checking fit and hole sizes.",
+  "description": "A fabrication assistant that carries a part from CAD through to print. It checks fit, flat bed faces and hole sizes, shows previews, and hands back a project file ready to slice. It asks before anything actually prints.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/JonathanSayle/status/2104319092937441736"
+ },
+ {
+  "slug": "trading-journal",
+  "name": "Trading Journal",
+  "builder": {
+   "name": "Hoem Crypto"
+  },
+  "tagline": "Logs trades by chat, voice, CSV or screenshot and reviews them against your rules.",
+  "description": "An evidence-based trading journal and plan coach for people who already trade. Ideas, fills and exits go in by chat, voice, CSV or screenshot, and plans get challenged against your own rules and history. Review is honest rather than encouraging. It never places trades.",
+  "category": "money",
+  "url": "https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/hooeem/status/2104317730346143913"
+ },
+ {
+  "slug": "promo-motion-video-maker-made-easy",
+  "name": "Promo Motion Video Maker, Made Easy",
+  "builder": {
+   "name": "dcbk2la",
+   "x": "dcbk2la"
+  },
+  "tagline": "Answers a few questions about your business, returns an animated promo in your colours.",
+  "description": "A beginner-friendly promo video maker. Answer a few questions about your business and it produces a polished animated promo in your brand colours with original music, formatted for Reels, TikTok or a website. You approve each step as it goes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/DCBK2LA/status/2104317530169057631"
+ },
+ {
+  "slug": "market-morning",
+  "name": "Market Morning",
+  "builder": {
+   "name": "Joseph Snyder"
+  },
+  "tagline": "Pre-market brief and closing recap for your own watchlist, with sources.",
+  "description": "A pre-market brief and a closing recap covering only the names on your watchlist. It reports moves, earnings, filings and catalysts, each with its source. Written for self-directed investors who want context rather than tips.",
+  "category": "money",
+  "url": "https://x.ai/bot/-1jDLDwW_6HvtXCXwQF3V",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/BTC_Yogi/status/2104313789600665818"
+ },
+ {
+  "slug": "lds-church-news",
+  "name": "LDS Church News",
+  "builder": {
+   "name": "TW"
+  },
+  "tagline": "Follows official newsroom and Church News despatches, quiet unless it matters.",
+  "description": "Follows significant news from The Church of Jesus Christ of Latter-day Saints as published by its official Newsroom and Church News. It stays quiet by default and only pings when something is worth knowing.",
+  "category": "research",
+  "url": "https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/londontodd/status/2104310133799174225"
+ },
+ {
+  "slug": "forge-plate",
+  "name": "FORGE PLATE",
+  "builder": {
+   "name": "realMAG1775",
+   "x": "realmag1775"
+  },
+  "tagline": "Lift and plate coach running one command at a time, no invented weights.",
+  "description": "A training and nutrition coach for novice and heavy lifters. Commands cover the week grid, logging, trends, exercise swaps, ramp and a high-protein plate, one at a time. It does not invent weights and does not give medical advice.",
+  "category": "life",
+  "url": "https://x.ai/bot/ScVcj_ZwEMOz6XLGdru5j",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/realMAG1775/status/2104309907667480979"
+ },
+ {
+  "slug": "creative-studio-scout",
+  "name": "Creative Studio Scout",
+  "builder": {
+   "name": "Nataly Vidales"
+  },
+  "tagline": "Finds verified hands-on craft workshops and classes near you or where you travel.",
+  "description": "Finds hands-on creative workshops, cultural crafts and small classes near you or wherever you are travelling, with every date, price and booking link checked before it is passed on. For people who want to make something rather than sightsee.",
+  "category": "life",
+  "url": "https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/vidales_nataly/status/2104308780720914826"
+ },
+ {
+  "slug": "mr-scamander",
+  "name": "Mr. Scamander",
+  "builder": {
+   "name": "Steven Daniels"
+  },
+  "tagline": "Personal CFO for rebuilding money habits, with a priority stack and check-ins.",
+  "description": "A personal finance officer for someone rebuilding their money habits. It tracks cash and debt, curbs impulse spending, protects the food and housing lines first, and runs a clear priority stack with weekly and monthly check-ins.",
+  "category": "money",
+  "url": "https://x.ai/bot/U-9rdbwRvugphOrC58Ph0",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/TimeCuratorTM/status/2104307540335214712"
+ },
+ {
+  "slug": "weight-loss-fitness-coach",
+  "name": "Weight Loss & Fitness Coach",
+  "builder": {
+   "name": "MERICA MEMED",
+   "x": "mericamemed"
+  },
+  "tagline": "Photo food logs, locked macros and stall fixes, with travel and sick modes.",
+  "description": "A fat-loss coach built around photo and label food logging and macros that stay locked unless you change them. It handles stalls, travel days, being sick, restaurant menus and strength personal records, with optional handoffs to a buddy bot. Power features stay off until you ask for them.",
+  "category": "life",
+  "url": "https://x.ai/bot/m1BopNHP2eYY4CNmw1iB-",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/Mericamemed/status/2104306529675673876"
+ },
+ {
+  "slug": "intake-desk",
+  "name": "Intake Desk",
+  "builder": {
+   "name": "aaron creech"
+  },
+  "tagline": "Paste every incoming request and lead, get one sorted queue with a next step each.",
+  "description": "A single intake queue for the requests, leads and jobs arriving from every channel. Paste them in and it sorts and prioritises the pile, attaching a concrete next step to each item. Good for a one-person business with too many front doors.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/in_PtzvudSXOJ178cNxv0",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/AMFoxtrot/status/2104305631477858363"
+ },
+ {
+  "slug": "9-ema-grok-bot",
+  "name": "9 EMA Grok bot",
+  "builder": {
+   "name": "Right Wing Inkorporated"
+  },
+  "tagline": "Scans a watchlist for 9 EMA pullback setups and writes the order ticket.",
+  "description": "Scans the symbols on your watchlist for 9 EMA pullback setups and writes a finished order ticket for each one it finds. An entry only counts once a candle closes through the entry line. It produces research, not financial advice, and places nothing.",
+  "category": "money",
+  "url": "https://x.ai/bot/QgvPQkHy3RwHJ7pPcKdPG",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/rightwingink1/status/2104280077555179887"
+ },
+ {
+  "slug": "gridstorm-squad-mate",
+  "name": "GRIDSTORM Squad Mate",
+  "builder": {
+   "name": "Matthew Gavin"
+  },
+  "tagline": "Wingman for GRIDSTORM sessions at agentgridstorm.com, no npm install.",
+  "description": "A companion for GRIDSTORM at agentgridstorm.com. There is nothing to install: say fly, or paste a session link, and the human opens the session and presses launch squad. Aimed at people who want to watch a squad run without wiring up tooling first.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/TheMattyFG/status/2104267198407536878"
+ },
+ {
+  "slug": "desk",
+  "name": "Desk",
+  "builder": {
+   "name": "Contravious Battle"
+  },
+  "tagline": "NFL prop research with stated confidence levels, never a pick and never a bet.",
+  "description": "An NFL player-prop research assistant. It stamps named player props and totals with language-supported probabilities and shows its reasoning. It never gives picks and never places bets.",
+  "category": "research",
+  "url": "https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/ConWanZo/status/2104256856764055714"
+ },
+ {
+  "slug": "grok-bot-specialist",
+  "name": "Grok Bot Specialist",
+  "builder": {
+   "name": "Yutaka Inada"
+  },
+  "tagline": "Answers how Grok Bot works and keeps your bot roster in line with best practice.",
+  "description": "A help-desk bot for Grok Bot itself. It answers questions about how the product works and reviews your roster against documented best practice. Useful when a setup has grown past what you can hold in your head.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/_inady_/status/2104229561429053938"
+ },
+ {
+  "slug": "vps-bot",
+  "name": "VPS bot",
+  "builder": {
+   "name": "茄哥 pod"
+  },
+  "tagline": "Builds and tunes proxy VPS setups, in Simplified Chinese, kernel through client.",
+  "description": "A Simplified Chinese-language VPS bot for proxy servers. It handles kernel-level latency tuning, high-port deployments of Reality, hy2, TUIC, SS2022 and AnyTLS, OpenClash and client configuration, node speed testing, and timeout debugging. One bot for the whole setup rather than a pile of guides.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+  "addedAt": "2026-09-29",
+  "status": "published",
+  "source": "https://x.com/qg7777/status/2103669051197468915"
  }
 ]
