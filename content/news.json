@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-28",
+    "title": "Team Bots: AI coworkers that learn from your team",
+    "source": "xAI",
+    "url": "https://x.ai/news/team-bots",
+    "summary": "xAI launched Team Bots: Grok Bots built around a role a whole team shares rather than one person's setup. Each one bundles the team's files, instructions and skills, plugins for apps such as Salesforce, Notion and GitHub, credentials for APIs that have no plugin, and memories it keeps as it learns the role. Everyone works with the same bot while their own conversations stay private, and a Team Bot can be invited into a Slack channel under its own handle."
+  },
+  {
     "date": "2026-09-22",
     "title": "How SpaceXAI is using Grok Bot to scale customer support",
     "source": "xAI",
@@ -96,12 +103,5 @@
     "source": "xAI",
     "url": "https://x.ai/news/grok-bot-more-plans",
     "summary": "Grok Bot expanded beyond the top tiers to all SuperGrok, Cursor Pro, and Cursor Teams plans. Bot usage is separate from Grok and Cursor allowances, so delegated work no longer eats a subscriber's main quota."
-  },
-  {
-    "date": "2026-08-26",
-    "title": "Grok 4.6 lands on Microsoft Foundry",
-    "source": "xAI",
-    "url": "https://x.ai/news/grok-4-6-microsoft-foundry",
-    "summary": "xAI's newest model becomes available through Microsoft's enterprise AI platform, a notable distribution step beyond Grok's own apps."
   }
 ]
