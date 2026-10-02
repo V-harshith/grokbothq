@@ -132,7 +132,7 @@ function toBot(r) {
 const bots = clean.map(toBot).sort((a, b) => b.addedAt.localeCompare(a.addedAt) || a.name.localeCompare(b.name));
 
 if (mode === "--write") {
-  writeFileSync("content/bots.json", JSON.stringify(bots, null, 2) + "\n", "utf8");
+  writeFileSync("content/bots.json", JSON.stringify(bots, null, 1) + "\n", "utf8");
   console.log(`WROTE content/bots.json with ${bots.length} real bots`);
 } else {
   console.log("--- sample record ---");

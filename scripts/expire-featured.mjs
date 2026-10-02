@@ -20,7 +20,7 @@ for (const bot of data) {
 }
 
 if (changed) {
-  writeFileSync(FILE, JSON.stringify(data, null, 2) + "\n", "utf8");
+  writeFileSync(FILE, JSON.stringify(data, null, 1) + "\n", "utf8");
   console.log("CHANGED");
 } else {
   console.log("NO_CHANGES");

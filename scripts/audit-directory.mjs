@@ -99,7 +99,7 @@ if (FIX && (dead.length || named.length)) {
       filled += 1;
     }
   }
-  writeFileSync(BOTS, JSON.stringify(all, null, 2) + "\n");
+  writeFileSync(BOTS, JSON.stringify(all, null, 1) + "\n");
   console.log(`  --fix applied : ${delisted} delisted, ${filled} builder names filled`);
   process.exit(delisted > 0 ? 2 : 0);
 }
