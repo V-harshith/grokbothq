@@ -75,7 +75,7 @@ export function roundupFacts(categorySlug: string): RoundupFacts {
 
 /** How many listings in the whole directory the given category represents, for an honest context line. */
 export function categoryShare(categorySlug: string): number {
-  return Math.round((botsByCategory(categorySlug).length / Math.max(1, bots.length)) * 100);
+  return Math.round((botsByCategory(categorySlug).length / Math.max(bots.length, 1)) * 100);
 }
 
 export { latestBots };
