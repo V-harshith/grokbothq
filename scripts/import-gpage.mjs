@@ -120,5 +120,5 @@ for (const item of items) {
   added++;
 }
 
-writeFileSync("content/bots.json", JSON.stringify(existing, null, 2) + "\n", "utf8");
+writeFileSync("content/bots.json", JSON.stringify(existing, null, 1) + "\n", "utf8");
 console.log(`source items: ${items.length}, new bots added: ${added}, total: ${existing.length}`);

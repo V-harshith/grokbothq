@@ -106,5 +106,5 @@ data.push({
   status: "published",
 });
 
-writeFileSync(FILE, JSON.stringify(data, null, 2) + "\n", "utf8");
+writeFileSync(FILE, JSON.stringify(data, null, 1) + "\n", "utf8");
 succeed({ slug, name });
