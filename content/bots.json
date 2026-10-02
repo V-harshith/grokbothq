@@ -38328,5 +38328,65 @@
   "source": "https://x.com/LYP0x0/status/2104751548232519962",
   "addedAt": "2026-10-02",
   "status": "published"
+ },
+ {
+  "slug": "distro-bot",
+  "name": "Distro Bot",
+  "builder": {
+   "name": "Shub Gaur",
+   "x": ""
+  },
+  "tagline": "Runs your marketing loop end to end, from campaign creative to outbound, and never changes spend without your yes.",
+  "description": "A marketing operator that runs a campaign loop on your own ad accounts. It ships fresh creative, reads how each channel actually performed, pulls timely signals from X and the web for posts, and keeps following up with outbound until a lead replies. It learns from your past campaigns and asks before it changes spend, posts, or sends anything.",
+  "category": "sales",
+  "url": "https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI",
+  "source": "https://x.ai/bot/marketplace/from-grok-bot-team",
+  "addedAt": "2026-10-02",
+  "status": "published"
+ },
+ {
+  "slug": "proto-bot",
+  "name": "Proto Bot",
+  "builder": {
+   "name": "Shub Gaur",
+   "x": ""
+  },
+  "tagline": "Turns your daily ideas into live prototypes as draft pull requests, and never merges or shares without your yes.",
+  "description": "A prototype builder that works inside your own app. Ideas you mention become draft pull requests you can click through, with screenshots of each step and a short demo video, plus Figma mocks, images, and memes on the side. Nothing merges, publishes, or goes out to anyone until you approve it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i",
+  "source": "https://x.ai/bot/marketplace/from-grok-bot-team",
+  "addedAt": "2026-10-02",
+  "status": "published"
+ },
+ {
+  "slug": "sell-bot",
+  "name": "Sell Bot",
+  "builder": {
+   "name": "Shub Gaur",
+   "x": ""
+  },
+  "tagline": "Works your whole customer journey from outreach to expansion, drafting every message for your approval.",
+  "description": "A customer-journey operator that covers the full sales cycle. It drafts outreach in your voice, books calls with prep and follow-ups, prepares proposals and contracts, then answers activation, support and billing questions and looks for expansion. Everything is drafted for your review, and only approved messages go out, one at a time.",
+  "category": "sales",
+  "url": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+  "source": "https://x.ai/bot/marketplace/from-grok-bot-team",
+  "addedAt": "2026-10-02",
+  "status": "published"
+ },
+ {
+  "slug": "startup-qa-bot",
+  "name": "Startup QA Bot",
+  "builder": {
+   "name": "Shub Gaur",
+   "x": ""
+  },
+  "tagline": "Walks your product every weekday in its own test account and reports what shipped, what broke, and what needs you.",
+  "description": "A weekday QA walker for a live product. It signs in with its own test account, checks what shipped, what got unshipped, and what broke, and reports back with reproduction steps and screenshots plus the calls that need you. It reads its own verification emails or takes pasted codes, and never touches real data.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/XBauviUoNcdi05-ExoOo4",
+  "source": "https://x.ai/bot/marketplace/from-grok-bot-team",
+  "addedAt": "2026-10-02",
+  "status": "published"
  }
 ]
