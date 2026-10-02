@@ -27,6 +27,8 @@ export type Bot = {
   hue?: number;
   /** Optional keyword phrases merged into the bot page's meta keywords + OG tags */
   keywords?: string[];
+  /** ISO date this listing was last verified live by scripts/audit-directory.mjs */
+  lastVerifiedAt?: string;
 };
 
 export type Category = {

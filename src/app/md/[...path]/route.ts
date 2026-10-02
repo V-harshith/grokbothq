@@ -9,7 +9,13 @@ export const revalidate = 300;
 
 const base = SITE.url.replace(/\/$/, "");
 
-const MD_HEADERS = { "Content-Type": "text/markdown; charset=utf-8" };
+const MD_HEADERS = {
+  "Content-Type": "text/markdown; charset=utf-8",
+  // These are the same content as the HTML pages, served for agents that prefer plain text. They
+  // must never compete with the pages they mirror in search results (0 indexed today - keep it
+  // that way as the directory grows).
+  "X-Robots-Tag": "noindex",
+};
 
 function footer(canonicalPath: string): string {
   const canonical = `${base}${canonicalPath}`;

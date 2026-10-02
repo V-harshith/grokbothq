@@ -49,10 +49,15 @@ export default function UseCasesPage() {
             {category.name} <span className="font-mono text-sm text-accent">{items.length}</span>
           </h2>
           <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {items.map((bot) => (
+            {items.slice(0, 6).map((bot) => (
               <UseCaseCard key={bot.slug} bot={bot} />
             ))}
           </div>
+          {items.length > 6 && (
+            <Link href={`/bots/category/${category.slug}`} className="mt-4 inline-block text-sm font-medium text-accent hover:underline">
+              All {items.length} {category.name.toLowerCase()} bots →
+            </Link>
+          )}
         </section>
       ))}
 

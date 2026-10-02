@@ -25,14 +25,63 @@ export function botsByCategory(categorySlug: string): Bot[] {
   return bots.filter((b) => b.category === categorySlug);
 }
 
+/**
+ * Same-category neighbours as a rotating window from this bot's position, so the tail of a big
+ * category still receives links. Taking the first N instead gave every page in a category the same
+ * two companions (engineering: 347 bots sharing one pair) and left the rest unreachable from each
+ * other.
+ */
 export function relatedBots(bot: Bot, count = 4): Bot[] {
-  const same = botsByCategory(bot.category).filter((b) => b.slug !== bot.slug);
-  return same.slice(0, count);
+  const all = botsByCategory(bot.category);
+  const same = all.filter((b) => b.slug !== bot.slug);
+  if (same.length <= count) return same;
+  const idx = all.findIndex((b) => b.slug === bot.slug);
+  const start = idx < 0 ? 0 : idx % same.length;
+  return Array.from({ length: count }, (_, i) => same[(start + i) % same.length]);
+}
+
+/**
+ * How many published listings share each name (case-insensitive). 77 names do: "Chief of Staff"
+ * appears 53 times, built by 53 different people. They are distinct bots, not duplicates — so the
+ * fix is to say which one this is, never to delist them.
+ */
+const nameCounts = (() => {
+  const m = new Map<string, number>();
+  for (const b of bots) {
+    const key = b.name.trim().toLowerCase();
+    m.set(key, (m.get(key) ?? 0) + 1);
+  }
+  return m;
+})();
+
+/** Names shared by more than one listing. */
+export function nameCount(bot: Bot): number {
+  return nameCounts.get(bot.name.trim().toLowerCase()) ?? 1;
+}
+
+export function nameCollides(bot: Bot): boolean {
+  return nameCount(bot) > 1;
+}
+
+/** Position among this category's listings that publish install counts (null when none do). */
+export function installRank(bot: Bot): { rank: number; of: number } | null {
+  if (typeof bot.installs !== "number") return null;
+  const peers = botsByCategory(bot.category)
+    .filter((b) => typeof b.installs === "number")
+    .sort((a, b) => (b.installs ?? 0) - (a.installs ?? 0));
+  const i = peers.findIndex((b) => b.slug === bot.slug);
+  return i < 0 ? null : { rank: i + 1, of: peers.length };
 }
 
 export function latestBots(count = 8): Bot[] {
   return [...bots].sort((a, b) => b.addedAt.localeCompare(a.addedAt)).slice(0, count);
 }
+
+/**
+ * Every listing, newest first — the full chronological series behind `/new` (the page paginates it
+ * 60 at a time; server-rendering all of it was a 10 MB document).
+ */
+export const newBots: Bot[] = [...bots].sort((a, b) => b.addedAt.localeCompare(a.addedAt));
 
 export function newThisWeek(count = 4): Bot[] {
   const week = 7 * 86_400_000;
@@ -48,8 +97,9 @@ export type BotPreview = Pick<
   "slug" | "name" | "builder" | "tagline" | "description" | "category" | "url" | "addedAt" | "installs" | "hue"
 >;
 
-export function previewBots(): BotPreview[] {
-  return bots.map((b) => ({
+export function previewBots(limit?: number): BotPreview[] {
+  const slice = typeof limit === "number" ? bots.slice(0, limit) : bots;
+  return slice.map((b) => ({
     slug: b.slug,
     name: b.name,
     builder: b.builder,
@@ -76,6 +126,17 @@ const today = () => new Date().toISOString().slice(0, 10);
 export function featuredBots(): Bot[] {
   const now = today();
   return bots.filter((b) => b.featured && (!b.featuredUntil || b.featuredUntil >= now));
+}
+
+/**
+ * Exact counts for the whole directory. The interactive browser on `/bots` holds only the newest
+ * listings (sending all 2,594 to the client was a 1.5 MB React payload), so it needs the true totals
+ * to label what it is showing without understating the directory.
+ */
+export function categoryTotals(): { all: number; byCategory: Record<string, number> } {
+  const byCategory: Record<string, number> = {};
+  for (const b of bots) byCategory[b.category] = (byCategory[b.category] ?? 0) + 1;
+  return { all: bots.length, byCategory };
 }
 
 export const stats = {

@@ -6,13 +6,30 @@ import { BotFace } from "@/components/bot-face";
 import { RotatingAdSlot } from "@/components/rotating-ad-slot";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
-import { bots, botMap, relatedBots, botOpens } from "@/data/bots";
+import { bots, botMap, relatedBots, botOpens, nameCount, nameCollides, installRank, botsByCategory } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
-import { pageMetadata, botSoftwareJsonLd, breadcrumbsJsonLd, absUrl } from "@/lib/seo";
+import { pageMetadata, botSoftwareJsonLd, breadcrumbsJsonLd, absUrl, composeDescription, composeTitle } from "@/lib/seo";
+import type { Bot } from "@/data/types";
 
 export const revalidate = 300; // pages refresh within 5 minutes of content changes
 
 type Props = { params: Promise<{ slug: string }> };
+
+const ordinal = (n: number): string => (n === 1 ? "st" : n === 2 ? "nd" : n === 3 ? "rd" : "th");
+
+/**
+ * 1,904 of 2,594 descriptions open by repeating the tagline that is already shown above them. Render
+ * the part that adds something; keep the whole description when the remainder is too short to stand
+ * on its own.
+ */
+function descriptionWithoutTagline(bot: Bot): string {
+  const body = (bot.description ?? "").trim();
+  const tag = (bot.tagline ?? "").trim().replace(/[.!?]+$/, "");
+  if (!tag || body.length <= tag.length) return body;
+  if (!body.toLowerCase().startsWith(tag.toLowerCase())) return body;
+  const rest = body.slice(tag.length).replace(/^[\s.,;:—-]+/, "").trim();
+  return rest.length >= 40 ? rest : body;
+}
 
 export function generateStaticParams() {
   return bots.map((bot) => ({ slug: bot.slug }));
@@ -24,8 +41,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!bot) return {};
   const category = categoryMap.get(bot.category);
   return pageMetadata({
-    title: `${bot.name} - ${bot.tagline}`,
-    description: `${bot.description.slice(0, 140)} Open ${bot.name} in Grok with one click.`,
+    // 77 names are shared by more than one listing ("Chief of Staff" by 53 different builders) and
+    // they are all distinct bots, so the builder goes in the title to say which one this page is.
+    title: composeTitle(
+      nameCollides(bot) && bot.builder.name ? `${bot.name} (${bot.builder.name})` : bot.name,
+      bot.tagline,
+      // The layout appends " | GrokBot HQ" (13 chars), so 50 keeps the rendered title near 60.
+      50,
+      "Grok bot"
+    ),
+    description: composeDescription(bot.description, `Open ${bot.name} in Grok with one click.`, 155),
     path: `/bots/${bot.slug}`,
     type: "article",
     publishedTime: bot.addedAt,
@@ -45,7 +70,19 @@ export default async function BotPage({ params }: Props) {
   if (!bot) notFound();
 
   const category = categoryMap.get(bot.category);
-  const related = relatedBots(bot, 2);
+  const related = relatedBots(bot, 4);
+  const inCategory = botsByCategory(bot.category).length;
+  const rank = installRank(bot);
+  const shared = nameCount(bot);
+  // Everything here is derived from stored data, so no listing can restate another's sentence:
+  // how big its category is, where it sits among the ones publishing installs, and - when its name
+  // is shared - which builder this one belongs to.
+  const fitFacts = [
+    `One of ${inCategory} ${category ? category.name.toLowerCase() : "listed"} bots in the directory${rank ? "" : `, listed since ${new Date(bot.addedAt).toLocaleDateString("en-US", { month: "long", year: "numeric" })}`}.`,
+    rank ? `${rank.rank}${ordinal(rank.rank)} of ${rank.of} in this category that publish install counts (${bot.installs} installs).` : null,
+    shared > 1 ? `${shared - 1} other listing${shared - 1 === 1 ? "" : "s"} in this directory share the name “${bot.name}” - this one is built by ${bot.builder.x ? `@${bot.builder.x}` : bot.builder.name}.` : null,
+    bot.lastVerifiedAt ? `Checked live on ${new Date(bot.lastVerifiedAt).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })} - a listing that stops answering is delisted, not left to rot.` : null,
+  ].filter((f): f is string => Boolean(f));
 
   return (
     <div className="container-x max-w-6xl py-12">
@@ -100,11 +137,22 @@ export default async function BotPage({ params }: Props) {
 
           <section className="prose-block mt-8">
             <div>
-              {bot.description.split("\n\n").map((p) => (
+              {descriptionWithoutTagline(bot).split("\n\n").map((p) => (
                 <p key={p.slice(0, 24)} className="text-[15px] leading-relaxed text-muted">{p}</p>
               ))}
             </div>
           </section>
+
+          {fitFacts.length > 1 && (
+            <section className="mt-10" aria-label="How this listing compares">
+              <h2 className="text-2xl font-semibold tracking-tight">How this one fits</h2>
+              <ul className="mt-4 space-y-2">
+                {fitFacts.map((f) => (
+                  <li key={f} className="border-b border-border pb-2 text-[15px] leading-relaxed text-muted">{f}</li>
+                ))}
+              </ul>
+            </section>
+          )}
 
           {bot.features && bot.features.length > 0 && (
             <section className="mt-10">
@@ -216,6 +264,12 @@ export default async function BotPage({ params }: Props) {
                       X post ↗
                     </a>
                   </dd>
+                </div>
+              )}
+              {bot.lastVerifiedAt && (
+                <div className="flex justify-between gap-3">
+                  <dt className="text-muted">Verified</dt>
+                  <dd>{new Date(bot.lastVerifiedAt).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</dd>
                 </div>
               )}
             </dl>

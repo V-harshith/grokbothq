@@ -5,7 +5,16 @@ import type { BotPreview } from "@/data/bots";
 import { categories } from "@/data/categories";
 import { BotCard } from "./bot-card";
 
-export function BotsBrowser({ bots, initialCategory = "all" }: { bots: BotPreview[]; initialCategory?: string }) {
+export function BotsBrowser({
+  bots,
+  initialCategory = "all",
+  totals,
+}: {
+  bots: BotPreview[];
+  initialCategory?: string;
+  /** Exact directory counts, so a partial client-side set is never reported as the whole directory. */
+  totals?: { all: number; byCategory: Record<string, number> };
+}) {
   const [query, setQuery] = useState("");
   const [active, setActive] = useState(initialCategory);
   const [visible, setVisible] = useState(60);
@@ -27,6 +36,7 @@ export function BotsBrowser({ bots, initialCategory = "all" }: { bots: BotPrevie
   }, [bots, query, active]);
 
   const tabs = [{ slug: "all", name: "All" }, ...categories.map((c) => ({ slug: c.slug, name: c.name }))];
+  const activeTotal = totals ? (active === "all" ? totals.all : totals.byCategory[active] ?? null) : null;
 
   return (
     <div>
@@ -76,10 +86,17 @@ export function BotsBrowser({ bots, initialCategory = "all" }: { bots: BotPrevie
       </div>
 
       <p className="mt-4 text-xs text-muted" role="status">
-        {filtered.length} bot{filtered.length === 1 ? "" : "s"}
+        {activeTotal !== null && activeTotal > filtered.length
+          ? `${filtered.length.toLocaleString("en-US")} of ${activeTotal.toLocaleString("en-US")} bots`
+          : `${filtered.length} bot${filtered.length === 1 ? "" : "s"}`}
         {active !== "all" && ` in ${tabs.find((t) => t.slug === active)?.name}`}
         {query && ` matching “${query}”`}
       </p>
+      {totals && bots.length < totals.all && (
+        <p className="mt-1.5 text-xs text-muted">
+          Search and filters cover the {bots.length.toLocaleString("en-US")} newest listings - the pages below continue through the rest of the directory.
+        </p>
+      )}
 
       <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.slice(0, visible).map((bot) => (

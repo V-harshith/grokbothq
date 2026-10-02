@@ -5,6 +5,7 @@ import { HeroMascot } from "@/components/hero-mascot";
 import { RotatingAdSlot, RotatingAdSlotCard } from "@/components/rotating-ad-slot";
 import { BotCard } from "@/components/bot-card";
 import { categories } from "@/data/categories";
+import { roundups } from "@/data/roundups";
 import { botsByCategory, newThisWeek, stats, topInstalledBots } from "@/data/bots";
 import { guides, type Guide } from "@/data/guides";
 import { SITE } from "@/data/site";
@@ -43,7 +44,12 @@ function levelFor(guide: Guide): string {
 }
 
 export default function HomePage() {
-  const installed = topInstalledBots(5);
+  // The 50 most-installed listings, not 5: the homepage is the only page every crawler is certain to
+  // fetch, and its cards used to link straight out to x.ai (nofollow) without ever passing equity to
+  // the 2,524 listing pages. The top 5 stay as cards; the rest are plain internal links.
+  const installed = topInstalledBots(50);
+  const featuredInstalled = installed.slice(0, 5);
+  const moreInstalled = installed.slice(5);
   const fresh = newThisWeek(4);
   const readFirst = READ_FIRST_SLUGS.map((slug) => guides.find((guide) => guide.slug === slug)).filter(
     (guide): guide is Guide => Boolean(guide),
@@ -105,29 +111,26 @@ export default function HomePage() {
           </Link>
         </div>
         <div className="grid gap-[14px] min-[560px]:grid-cols-2 min-[860px]:grid-cols-3">
-          {installed.map((bot) => (
-            <a
-              key={bot.slug}
-              href={bot.url}
-              target="_blank"
-              rel="noopener noreferrer nofollow"
-              className="card card-hover flex flex-col gap-3 p-[22px]"
-            >
-              <div className="flex items-center justify-between gap-[10px]">
-                <h3 className="text-base font-medium tracking-[-0.01em]">{bot.name}</h3>
-                <span className="whitespace-nowrap rounded-md border border-border px-2 py-[3px] font-mono text-[10.5px] uppercase tracking-[0.08em] text-muted">
-                  {bot.category}
-                </span>
-              </div>
-              <p className="flex-1 text-[13.5px] text-muted">{bot.tagline}</p>
-              <div className="flex items-center justify-between border-t border-border pt-3 text-[12.5px] text-muted">
-                <span>{bot.builder.x ? `by ${bot.builder.x}` : bot.builder.name}</span>
-                <span className="tnum font-mono text-foreground">{bot.installs ?? 0} installs</span>
-              </div>
-            </a>
+          {featuredInstalled.map((bot) => (
+            <BotCard key={bot.slug} bot={bot} />
           ))}
           <RotatingAdSlotCard offset={2} />
         </div>
+        {moreInstalled.length > 0 && (
+          <div className="mt-8 border-t border-border pt-6">
+            <h3 className="text-xs font-semibold uppercase tracking-[0.08em] text-muted">Also among the most installed</h3>
+            <ul className="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-[13.5px]">
+              {moreInstalled.map((bot) => (
+                <li key={bot.slug}>
+                  <Link href={`/bots/${bot.slug}`} className="text-muted transition-[color] duration-[180ms] ease-out hover:text-foreground">
+                    {bot.name}
+                    {typeof bot.installs === "number" && <span className="tnum ml-1.5 font-mono text-[11px] text-muted">{bot.installs}</span>}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </section>
 
       {fresh.length > 0 && (
@@ -165,6 +168,19 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
+        {/* Crawlable path into the category roundups - the home page is the one URL every crawler
+            fetches, and these answer "which of these should I open?" rather than "what exists?". */}
+        <p className="mt-5 text-[13.5px] text-muted">
+          Or start with a category comparison:{" "}
+          {roundups.map((r, i) => (
+            <span key={r.slug}>
+              <Link href={`/roundups/${r.slug}`} className="text-foreground transition-[color] duration-[180ms] ease-out hover:text-accent">
+                {categories.find((c) => c.slug === r.category)?.name ?? r.category}
+              </Link>
+              {i < roundups.length - 1 ? " · " : ""}
+            </span>
+          ))}
+        </p>
       </section>
 
       <section className="container-x py-[72px]">

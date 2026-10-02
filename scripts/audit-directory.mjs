@@ -1,9 +1,10 @@
 // Full-directory audit. Verifies every published listing live and reconciles
 // what we store against what the x.ai bot page says.
 //
-//   node scripts/audit-directory.mjs            # report only
+//   node scripts/audit-directory.mjs            # verify + stamp lastVerifiedAt
 //   node scripts/audit-directory.mjs --fix      # delist 404s, fill missing builder names
 //   node scripts/audit-directory.mjs --limit 50 # sample (fast smoke test)
+//   node scripts/audit-directory.mjs --no-stamp # read-only: never rewrite the data file
 //
 // Checks per listing:
 //   1. the x.ai/bot URL still answers 200 (a dead link is the one unforgivable
@@ -26,6 +27,9 @@ const args = process.argv.slice(2);
 const FIX = args.includes("--fix");
 const limitArg = args.indexOf("--limit");
 const LIMIT = limitArg > -1 ? Number(args[limitArg + 1]) : Infinity;
+// Verification dates are stamped by default; --no-stamp keeps a run read-only.
+const STAMP = !args.includes("--no-stamp");
+const today = new Date().toISOString().slice(0, 10);
 
 const BOTS = new URL("../content/bots.json", import.meta.url).pathname;
 const all = JSON.parse(readFileSync(BOTS, "utf8"));
@@ -102,6 +106,33 @@ if (FIX && (dead.length || named.length)) {
   writeFileSync(BOTS, JSON.stringify(all, null, 1) + "\n");
   console.log(`  --fix applied : ${delisted} delisted, ${filled} builder names filled`);
   process.exit(delisted > 0 ? 2 : 0);
+}
+
+/**
+ * Stamp `lastVerifiedAt` on every listing this run reached.
+ *
+ * A verification date that is not stored anywhere cannot be audited: the site shows "Verified
+ * <date>" per listing, and a future reader can tell which listings have gone a long time without a
+ * check. Stamping runs by default (a full pass covers the whole directory daily); `--no-stamp` keeps
+ * a run read-only. The file is only rewritten when a date actually changes, so re-running the same
+ * day is a no-op and the ops commit stays meaningful.
+ */
+const lookedAt = new Set(results.map((r) => r.bot.slug));
+let stamped = 0;
+if (STAMP) {
+  for (const bot of all) {
+    if (!lookedAt.has(bot.slug)) continue;
+    if (bot.lastVerifiedAt !== today) {
+      bot.lastVerifiedAt = today;
+      stamped += 1;
+    }
+  }
+}
+if (stamped > 0) {
+  writeFileSync(BOTS, JSON.stringify(all, null, 1) + "\n");
+  console.log(`  verified dates: ${stamped} updated to ${today}`);
+} else if (STAMP) {
+  console.log(`  verified dates: all ${lookedAt.size} checked listings already dated ${today}`);
 }
 
 process.exit(dead.length > 0 ? 2 : 0);

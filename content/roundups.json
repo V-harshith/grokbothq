@@ -1,0 +1,179 @@
+[
+ {
+  "slug": "engineering",
+  "category": "engineering",
+  "title": "Engineering Grok bots, compared",
+  "seoTitle": "Best Engineering Grok Bots (2026)",
+  "description": "Engineering Grok bots compared: what they connect to, which ones publish install data, and how to judge a bot whose whole value is the instructions behind it.",
+  "updatedAt": "2026-10-02",
+  "intro": "Engineering is where a Grok bot stops being a chat persona and starts touching the tools you already run. It is also the most tool-connected corner of this directory: GitHub alone outnumbers every other integration here, and the bots that declare nothing are the majority you have to judge on their instructions.",
+  "howWePicked": [
+   "Every listing was checked against its own public x.ai listing before it appeared, and is re-checked daily; a listing that stops answering is delisted.",
+   "The shortlist below is ordered by install counts published by the source listing — only a minority of listings publish them, so this ranks the documented, not the best.",
+   "The newest-first list is chronological and unfiltered. Nothing here is paid placement."
+  ],
+  "sections": [
+   {
+    "heading": "What these bots actually connect to",
+    "body": [
+     "Where an engineering bot declares a connection, it is overwhelmingly to a code host or a repo — GitHub by a wide margin, then notes tools, then media sources. The declared set is small and specific, which is useful: a bot that says it connects to GitHub is making a checkable claim, and the listing links the bot so you can check it.",
+     "The larger truth is the negative one. Most engineering listings declare no integrations at all. That is not the same as having none — it means the builder did not publish them, and a bot's tool access is something you should confirm inside Grok rather than infer from the absence of a badge."
+    ]
+   },
+   {
+    "heading": "How to judge one",
+    "body": [
+     "For a bot like this, the instructions are the product. Two engineering bots with the same one-line description can behave completely differently depending on what they were told to do: one reads your repository and proposes a patch, another opens pull requests without asking. The listing shows you what the builder shared.",
+     "Weigh what you can verify. A published install count is one signal, and it is a weak one on its own — it is self-reported, it is unavailable for most listings, and it does not say whether the bot still works. The safety rules on this site apply more sharply here than anywhere else: read the instructions before you run a bot, and never paste a password or an API key into one.",
+     "If you want a bot for one narrow job — reviewing a diff, triaging an issue backlog, watching a dependency — say so in the instruction field when you open it. A tool-connected bot with a vague brief is the one that surprises you."
+    ]
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Are these engineering Grok bots free?",
+    "a": "Opening one is free: a Grok bot is a set of shared instructions you open on xAI's platform, not paid software. If a bot asks you for a paid API key or a subscription to do its job, that is the builder's own arrangement, and the listing will usually say so."
+   },
+   {
+    "q": "How is the shortlist ordered?",
+    "a": "By install counts published on the bot's own source listing, highest first. Only a minority of listings publish install data, so bots without it cannot appear in that list regardless of quality — the full category is one click away."
+   },
+   {
+    "q": "Can an engineering bot write to my repository?",
+    "a": "It can do whatever its instructions and its tool connections allow. A bot connected to GitHub may be able to open issues or pull requests on your behalf. Read the instructions and check what it is connected to before you give it a real repository."
+   }
+  ]
+ },
+ {
+  "slug": "productivity",
+  "category": "productivity",
+  "title": "Productivity Grok bots, compared",
+  "seoTitle": "Best Productivity Grok Bots (2026)",
+  "description": "Productivity Grok bots compared: the inbox-and-calendar cluster, what the declared integrations actually mean, and how to pick one that touches your working day.",
+  "updatedAt": "2026-10-02",
+  "intro": "The largest category in this directory, and the most personal: bots that read your mail, hold your calendar, keep your notes, and decide what deserves your attention this morning. The declared connections cluster tightly — mail, calendar, chat, notes — and that clustering is the most useful thing on this page.",
+  "howWePicked": [
+   "Listings are checked against their own public x.ai page and re-checked daily.",
+   "The shortlist is ordered by install counts published by the source listing; most productivity listings do not publish them.",
+   "Where a bot declares a connection, the declaration is the builder's, shown as written — not a claim we verified by connecting it."
+  ],
+  "sections": [
+   {
+    "heading": "The shape of this category is a desk",
+    "body": [
+     "Where productivity bots declare connections, they point at the same few things: mail first, then calendar, then team chat, then notes. That is the shape of a working day rather than a tool list, and it tells you what to expect — a bot that holds your calendar and drafts your replies is doing triage, not analysis.",
+     "The risk profile follows the same shape. A bot that can read mail is a different proposition from one that can send it, and one wired into a shared team chat is a different proposition from one that only drafts into a window you control. Before you connect anything real, read what the instructions permit."
+    ]
+   },
+   {
+    "heading": "How to pick one",
+    "body": [
+     "Start with the smallest job you actually have — the daily standup summary, the inbox sweep, the meeting note. Bots in this category fail mostly by being asked to run a whole working day on day one: broad briefs produce confident, unhelpful summaries.",
+     "Then check what it is connected to, and connect less than the bot asks for. The listing tells you what the builder shared; the safety guide covers the rest, including the rule that matters most here — a bot that asks for a password or an API key in a message is not a bot you should keep running."
+    ]
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Can a Grok bot actually read my email?",
+    "a": "Only through the connections it declares and that you allow on xAI's platform. Undeclared access is not possible from inside a bot, but a bot's instructions can ask you to paste something — which is why the listing and the safety guide both matter."
+   },
+   {
+    "q": "Which productivity bot is best?",
+    "a": "The one whose one narrow job matches yours. This page ranks the listings that publish install counts, which is a signal about documentation rather than quality; the full category is browsable by job."
+   },
+   {
+    "q": "Is it safe to give a bot calendar access?",
+    "a": "Treat it like giving a new assistant access: minimum scope, and read the instructions first. A bot that only reads your calendar is a much smaller decision than one that can also modify it or send invites."
+   }
+  ]
+ },
+ {
+  "slug": "money",
+  "category": "money",
+  "title": "Money Grok bots, compared",
+  "seoTitle": "Money Grok Bots (2026): How to Judge Them",
+  "description": "Money Grok bots compared honestly: why almost none declare tool connections, what the listings actually contain, and the checks to run before you act on anything one tells you.",
+  "updatedAt": "2026-10-02",
+  "intro": "This is the most commercial and the least documented category here: bots for hunting deals, scoring ideas, tracking points, and organising a portfolio. Almost none of them connect to anything, which changes how you should read every listing on the page.",
+  "howWePicked": [
+   "Listings are checked against their own public x.ai page; a dead listing is delisted rather than left up.",
+   "Nothing on this page is financial advice, and no listing here has been evaluated for accuracy — the directory catalogs bots, it does not endorse claims they make.",
+   "The shortlist is ordered by published install counts, which few money listings have."
+  ],
+  "sections": [
+   {
+    "heading": "Why there is almost no integration data here",
+    "body": [
+     "Money bots mostly reason over what you give them: a spreadsheet you paste, a shortlist you describe, a decision you are weighing. There is nothing to connect, so there is nothing to declare — the sparse integration data in this category is structural, not a sign of low quality.",
+     "It also means the listing is thinner than usual. With no tool connections and rarely any published feature list, what remains is the bot's name, its description, and the instructions the builder shared. Judge those, and be sceptical of any bot whose description promises returns."
+    ]
+   },
+   {
+    "heading": "How to judge one",
+    "body": [
+     "Ask what the bot can actually check. A bot that scores a product idea against criteria you gave it is doing something useful and bounded; a bot that claims to know which asset will move is doing neither. The first kind is what this directory mostly lists.",
+     "Run it on the smallest real decision you have, and keep the decision yours. A Grok bot is shared instructions, not an advisor: it has no position in your outcome, no duty to you, and no accuracy record that anyone here has verified. For anything with money at stake, treat its output as a second opinion you go and check."
+    ]
+   }
+  ],
+  "faqs": [
+   {
+    "q": "Will a money Grok bot make me money?",
+    "a": "No. These are instruction sets that help you think through a task you describe. None of them have trading access, none have been accuracy-tested, and nothing on this page is financial advice."
+   },
+   {
+    "q": "Why do so few money bots list integrations or features?",
+    "a": "Because they mostly work on text you give them rather than connecting to services. Integrations are declared where they exist, and they mostly do not exist in this category."
+   },
+   {
+    "q": "Are these bots regulated or reviewed for accuracy?",
+    "a": "They are reviewed for liveness — each listing is checked against its own public page and delisted if it dies. They are not reviewed for accuracy, legality, or suitability. That judgement stays with you."
+   }
+  ]
+ },
+ {
+  "slug": "research",
+  "category": "research",
+  "title": "Research Grok bots, compared",
+  "seoTitle": "Best Research Grok Bots (2026)",
+  "description": "Research Grok bots compared: the monitor-and-report pattern, which sources they watch, and how to set one up so its digests are worth reading.",
+  "updatedAt": "2026-10-02",
+  "intro": "Most research bots here are monitors: something to watch a few sources, notice what changed, and report back. The declared connections are narrow and telling — news feeds, video, and social — which is exactly what a watcher needs.",
+  "howWePicked": [
+   "Listings are checked against their own public x.ai page and re-checked daily.",
+   "Most listings in this category link the public post where the builder introduced or used the bot, so you can see it doing the job before you open it.",
+   "The shortlist is ordered by published install counts; the newest-first list is chronological."
+  ],
+  "sections": [
+   {
+    "heading": "Watch, then report",
+    "body": [
+     "The pattern that works in this category is a bot pointed at a small number of sources with a clear instruction about what counts as news. Where research bots declare connections, they point at feeds and video and social platforms — inputs that change on their own, which is what makes a monitor worth running.",
+     "The pattern that fails is a bot asked to 'research' a topic with no sources named. It will produce something confident and unsourced. Name the sources, name what matters, and name where the output goes."
+    ]
+   },
+   {
+    "heading": "Use the source links",
+    "body": [
+     "Most research listings carry the public post where the builder demonstrated the bot. That is the most useful thing on the page: you can see the actual output, the actual inputs, and the tone of what it produces before you spend a minute opening it.",
+     "It also tells you who is behind the bot. A monitor built by someone who runs it themselves for a specific beat tends to have sharper instructions than one assembled from a template — and the source post usually shows which you are looking at."
+    ]
+   }
+  ],
+  "faqs": [
+   {
+    "q": "What is the difference between a research bot and a normal chat prompt?",
+    "a": "Structure. A research bot fixes the sources, the schedule, and the shape of the report so you get the same digest every time instead of a fresh conversation each morning."
+   },
+   {
+    "q": "Do I need to connect anything for a research bot to work?",
+    "a": "Not always. Many work on what you give them plus whatever the declarations allow. Where a listing declares a feed or a platform connection, that is the builder saying the bot was built to read it."
+   },
+   {
+    "q": "How fresh are these listings?",
+    "a": "Each listing is checked against its own public x.ai page and carries the date it was last verified. A listing that stops answering is delisted, not left to rot."
+   }
+  ]
+ }
+]

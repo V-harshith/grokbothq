@@ -5,6 +5,8 @@ import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
 import { comparePages } from "@/data/compare";
 import { allIntegrations } from "@/lib/integrations";
+import { roundups } from "@/data/roundups";
+import { totalPagesFor } from "@/lib/pagination";
 
 export const dynamic = "force-dynamic";
 
@@ -53,6 +55,7 @@ export function GET() {
     { url: `${base}/groups`, lastmod: now, changefreq: "weekly", priority: 0.8 },
     { url: `${base}/guides`, lastmod: now, changefreq: "weekly", priority: 0.8 },
     { url: `${base}/compare`, lastmod: now, changefreq: "weekly", priority: 0.8 },
+    { url: `${base}/roundups`, lastmod: now, changefreq: "monthly", priority: 0.7 },
     { url: `${base}/faq`, lastmod: now, changefreq: "monthly", priority: 0.7 },
     { url: `${base}/submit`, lastmod: now, changefreq: "monthly", priority: 0.6 },
     { url: `${base}/featured`, lastmod: now, changefreq: "monthly", priority: 0.5 },
@@ -64,6 +67,15 @@ export function GET() {
     lastmod: bot.addedAt,
     changefreq: "weekly",
     priority: 0.7,
+  }));
+
+  // The paginated directory series. Each page is self-canonical and linked from the last, so the
+  // series is listed here rather than left to be discovered through 42 hops of pagination.
+  const botPagerRoutes: Entry[] = Array.from({ length: totalPagesFor(bots.length) - 1 }, (_, i) => i + 2).map((page) => ({
+    url: `${base}/bots?page=${page}`,
+    lastmod: now,
+    changefreq: "daily",
+    priority: 0.6,
   }));
 
   const categoryRoutes: Entry[] = categories.map((c) => ({
@@ -101,13 +113,22 @@ export function GET() {
     priority: 0.7,
   }));
 
+  const roundupRoutes: Entry[] = roundups.map((r) => ({
+    url: `${base}/roundups/${r.slug}`,
+    lastmod: r.updatedAt,
+    changefreq: "monthly",
+    priority: 0.7,
+  }));
+
   const entries = [
     ...staticRoutes,
     ...botRoutes,
+    ...botPagerRoutes,
     ...categoryRoutes,
     ...comboRoutes,
     ...guideRoutes,
     ...compareRoutes,
+    ...roundupRoutes,
     ...integrationRoutes,
   ];
 
