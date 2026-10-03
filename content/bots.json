@@ -42786,5 +42786,286 @@
   "url": "https://x.ai/bot/yU3RRM8D-8BoeBDvLYi2E",
   "addedAt": "2026-10-03",
   "status": "published"
+ },
+ {
+  "slug": "rental-desk",
+  "name": "Rental Desk",
+  "builder": {
+   "name": "Branden Troutman",
+   "x": "BrandenSeth"
+  },
+  "tagline": "Runs the rental lifecycle for small landlords, from listing to rent log.",
+  "description": "Runs the rental lifecycle for small landlords with one or a few units: lease reminders, listing drafts, inquiry sorting, showings and screening, plus a rent and maintenance log. It drafts everything and leaves the approval to you.",
+  "category": "money",
+  "url": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/BrandenSeth/status/2106152472066523269"
+ },
+ {
+  "slug": "decoder",
+  "name": "Decoder",
+  "builder": {
+   "name": "Nomis",
+   "x": "cradrrat"
+  },
+  "tagline": "Turns dense reports and PDFs into short plain-English summaries.",
+  "description": "Turns dense reports, PDFs and technical docs into short plain-English summaries. Paste, upload or link a document and it returns a capsule you can actually use.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/cradrrat/status/2105954110310904264"
+ },
+ {
+  "slug": "meal-snap",
+  "name": "Meal Snap",
+  "builder": {
+   "name": "Keith Nguyen",
+   "x": "gogi_ai"
+  },
+  "tagline": "Turns a meal photo into a shareable card.",
+  "description": "Turns a meal photo into a shareable card that combines your original image with an ingredient list, estimated calories and short notes.",
+  "category": "life",
+  "url": "https://x.ai/bot/86OeiM-b3nKbX49omIKR-",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/gogi_ai/status/2106148982280036441"
+ },
+ {
+  "slug": "name-in-chinese",
+  "name": "Name in Chinese 起名",
+  "builder": {
+   "name": "卫平 钟",
+   "x": "weipingzhong"
+  },
+  "tagline": "Gives anyone a Chinese name that fits their own, and drafts posts to share it.",
+  "description": "Gives anyone a Chinese name that is sound-matched to their own name, meaningful and easy to say. Also drafts ready-to-paste posts for handing out Chinese names.",
+  "category": "creative",
+  "url": "https://x.ai/bot/EUuVhfdZMiZZYYmeK3F7I",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/weipingzhong/status/2105972330958815349"
+ },
+ {
+  "slug": "mythteller",
+  "name": "神叨叨 MythTeller",
+  "builder": {
+   "name": "卫平 钟",
+   "x": "weipingzhong"
+  },
+  "tagline": "Tells classic Chinese myths in English for Mandarin learners.",
+  "description": "Retells classic Chinese myths in English for Mandarin learners, each ending with one short Chinese line to say out loud. Delivers a new story on request or every morning.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Ek9omUpu5Rgg19dFiIGzC",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/weipingzhong/status/2105961272420516307"
+ },
+ {
+  "slug": "smudge",
+  "name": "Smudge",
+  "builder": {
+   "name": "Gary Bishop",
+   "x": "9unsmoke"
+  },
+  "tagline": "Rewrites machine-sounding text so it reads like a person wrote it.",
+  "description": "Rewrites writing that sounds machine-made so it reads as though a person wrote it, shows which patterns changed, and keeps the meaning intact.",
+  "category": "creative",
+  "url": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/9unsmoke/status/2105958022841540909"
+ },
+ {
+  "slug": "tesla-ready",
+  "name": "Tesla Ready",
+  "builder": {
+   "name": "Lincoln",
+   "x": "WaitWhat"
+  },
+  "tagline": "Preconditions your Tesla around your Google Calendar and live traffic.",
+  "description": "Warms or cools a Tesla right when you need to leave, timed to your Google Calendar and live traffic, or on demand. Fully automatic after a one-time setup, using Tesla's official API.",
+  "category": "life",
+  "url": "https://x.ai/bot/L5Sczwabgsf59rZ6RTChF",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/WaitWhat/status/2106154933993296287"
+ },
+ {
+  "slug": "fleet-keeper",
+  "name": "Fleet Keeper",
+  "builder": {
+   "name": "TheCoderBTW",
+   "x": "TheCoderBtw"
+  },
+  "tagline": "Audits a Grok Bot fleet read-only and flags duplicates and stale bots.",
+  "description": "Inventories every bot and channel read-only, then flags duplicates, overlaps, stale and unsectioned bots. Splits each suggested fix into what it can do itself and what needs your call.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/TheCoderBtw/status/2106330061951664444"
+ },
+ {
+  "slug": "orbit-desk-morning-brief",
+  "name": "Orbit Desk Morning Brief",
+  "builder": {
+   "name": "Dave",
+   "x": ""
+  },
+  "tagline": "A short, sourced morning brief on markets and tech, set to your topics.",
+  "description": "Delivers a short, sourced morning brief on markets and tech news tuned to your chosen topics. News only, not financial advice.",
+  "category": "research",
+  "url": "https://x.ai/bot/ORX03ycBpaLmnO_5L7Z1i",
+  "addedAt": "2026-10-03",
+  "status": "published"
+ },
+ {
+  "slug": "property-decision-os",
+  "name": "Property Decision OS",
+  "builder": {
+   "name": "Amervim Bonano",
+   "x": "Amervim"
+  },
+  "tagline": "Decision assistant for residential property, from listing to close.",
+  "description": "Helps you evaluate, compare, bid on and close a residential property, and select tenants if you rent it, without pushing you to buy. Built to find the property's true price.",
+  "category": "money",
+  "url": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/Amervim/status/2105949142426288483"
+ },
+ {
+  "slug": "job-search-exzacklyright",
+  "name": "Job Search",
+  "builder": {
+   "name": "ʞɔɐz",
+   "x": "exzacklyright"
+  },
+  "tagline": "Finds matching jobs and applies only to the roles you pick.",
+  "description": "Finds jobs that match your filters, sends a short board when strong new fits appear, and applies only to the roles you select, using your resume and saved defaults.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/PR62dA8RVFBzyylzEvmvn",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/exzacklyright/status/2106131577671733544"
+ },
+ {
+  "slug": "clippy-shopper",
+  "name": "Clippy Shopper",
+  "builder": {
+   "name": "Matt Lucero",
+   "x": ""
+  },
+  "tagline": "Finds coupon codes automatically before you check out.",
+  "description": "Finds coupon codes automatically before you check out. Free to use; the bot may earn an affiliate commission.",
+  "category": "money",
+  "url": "https://x.ai/bot/Z56l38GYvaZtYIgjhDl6-",
+  "addedAt": "2026-10-03",
+  "status": "published"
+ },
+ {
+  "slug": "botman",
+  "name": "Botman",
+  "builder": {
+   "name": "JakeFromStarstruck.",
+   "x": "Rune_King_Jake"
+  },
+  "tagline": "Vets followers, message requests and inbox, and writes case files on scams.",
+  "description": "A detective bot that vets your social followers, message requests and inbox, writes case files on scams, bots and impersonators, and listens across the web for mentions of you.",
+  "category": "life",
+  "url": "https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/Rune_King_Jake/status/2105984890567262510"
+ },
+ {
+  "slug": "investing-agent",
+  "name": "Investing Agent",
+  "builder": {
+   "name": "Vijar Kohli",
+   "x": "VijarKohli"
+  },
+  "tagline": "Scores one public software name and drafts a buy or pass.",
+  "description": "Scores one public software company at a time and drafts a buy or a pass. Research only; it waits for the owner to approve any specific order.",
+  "category": "money",
+  "url": "https://x.ai/bot/d8O5qFdVTuffqePhAVd1J",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/VijarKohli/status/2106160145466269703"
+ },
+ {
+  "slug": "unsub-watch",
+  "name": "Unsub Watch",
+  "builder": {
+   "name": "ʞɔɐz",
+   "x": ""
+  },
+  "tagline": "Cleans marketing senders out of your Gmail with a one-time audit.",
+  "description": "Watches Gmail for marketing lists and unsubscribes after a single audit; new senders wait for a yes. Leaves banks, schools, receipts, 2FA, shipping and paid billing alone.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/dJjPoIEgbdqwMkbeQNJWU",
+  "addedAt": "2026-10-03",
+  "status": "published"
+ },
+ {
+  "slug": "bot-hjyt5yvx",
+  "name": "音声操作PCアシスタント（スマホで挙動確認可能）",
+  "builder": {
+   "name": "Mishiro Kurumi",
+   "x": "XARX_ZERO"
+  },
+  "tagline": "Voice-control a PC from bed, with results sent back to your phone.",
+  "description": "Lets you operate a PC by voice from bed. Fixed actions run on the machine directly, and other requests are handed to Grok Bot, which reports the result to your phone.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/hjYT5yVxhY5d548aSa1UL",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/XARX_ZERO/status/2106352532318822741"
+ },
+ {
+  "slug": "fresh-eyes-product-auditor",
+  "name": "Fresh Eyes Product Auditor",
+  "builder": {
+   "name": "Ev Oputa",
+   "x": "Evoputa"
+  },
+  "tagline": "Walks your site as a new customer and ranks the top UX fixes.",
+  "description": "Walks your site or app as a brand-new customer, ranks the top UX fixes with what it saw at each step, and mocks concrete improvements.",
+  "category": "research",
+  "url": "https://x.ai/bot/jASNu2J_6nCtKvKf4v_Sd",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/Evoputa/status/2105961977977991260"
+ },
+ {
+  "slug": "tax-firm-os",
+  "name": "Tax Firm OS",
+  "builder": {
+   "name": "Amervim Bonano",
+   "x": "Amervim"
+  },
+  "tagline": "One bot to run the front office of a tax or accounting practice.",
+  "description": "An assistant for a tax or accounting office that aims for fast replies, complete documents and early notice, keeping work ahead of due dates.",
+  "category": "money",
+  "url": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+  "addedAt": "2026-10-03",
+  "status": "published",
+  "source": "https://x.com/Amervim/status/2105949306025128186"
+ },
+ {
+  "slug": "form-filler",
+  "name": "Form Filler",
+  "builder": {
+   "name": "ʞɔɐz",
+   "x": ""
+  },
+  "tagline": "Drafts forms, claims and rebates with cited answers for your review.",
+  "description": "Drafts forms, surveys, claims, rebates, warranties, admin portals and class-action intakes with cited answers. Nothing is submitted until you approve.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/wPURKNd7W_Fafwz73SP5I",
+  "addedAt": "2026-10-03",
+  "status": "published"
  }
 ]
