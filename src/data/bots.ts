@@ -28,7 +28,7 @@ export function botsByCategory(categorySlug: string): Bot[] {
 /**
  * Same-category neighbours as a rotating window from this bot's position, so the tail of a big
  * category still receives links. Taking the first N instead gave every page in a category the same
- * two companions (engineering: 347 bots sharing one pair) and left the rest unreachable from each
+ * two companions (engineering: every page shared one pair) and left the rest unreachable from each
  * other.
  */
 export function relatedBots(bot: Bot, count = 4): Bot[] {
