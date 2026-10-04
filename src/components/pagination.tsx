@@ -8,7 +8,7 @@ export { PAGE_SIZE, pageNumber, pageHref, totalPagesFor } from "@/lib/pagination
  *
  * The directory hubs used to expose their children only through client-side slicing
  * (`filtered.slice(0, visible)` behind a "Show more" button), so `/bots` — the page carrying ~85% of
- * the site's impressions — passed about 60 real links to 2,524 bot pages, and the rest of the
+ * the site's impressions — passed about 60 real links to the bot pages, and the rest of the
  * directory was reachable only from `/new` and the category pages. These are plain anchors: every
  * page of the series is reachable and followable without JavaScript.
  */
