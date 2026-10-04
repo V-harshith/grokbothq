@@ -43067,5 +43067,391 @@
   "url": "https://x.ai/bot/wPURKNd7W_Fafwz73SP5I",
   "addedAt": "2026-10-03",
   "status": "published"
+ },
+ {
+  "slug": "elon-musk-algorithm-constraint",
+  "name": "Elon Musk (Algorithm & constraint)",
+  "builder": {
+   "name": "Rasmus Merirand",
+   "x": "merirand"
+  },
+  "tagline": "Finds your company's biggest constraint and runs the Algorithm on it.",
+  "description": "A first-principles operator bot. Each week it names your single biggest constraint and runs the Algorithm - question, delete, simplify, accelerate, automate last - then reports what to focus on and what to cut.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/QCwGPAlho0dBvBds_IOWF",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/merirand/status/2100106954039582867"
+ },
+ {
+  "slug": "the-list-2",
+  "name": "The List",
+  "builder": {
+   "name": "GrokBotGod God",
+   "x": ""
+  },
+  "tagline": "An in-chat newsletter of new Grok bots and directory picks.",
+  "description": "The GrokBotGod in-bot newsletter. Install once and get three-line drops in the chat when new bots or directory picks land; no email and no opt-in prompts.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+  "addedAt": "2026-10-04",
+  "status": "published"
+ },
+ {
+  "slug": "catch-tyeinbloom",
+  "name": "Catch",
+  "builder": {
+   "name": "Tye Gordon",
+   "x": "TyeInBloom"
+  },
+  "tagline": "Small-business chief of staff that catches what needs you.",
+  "description": "A small business chief of staff. It watches what comes in, flags what actually needs you, tracks what is waiting and drafts the next move so nothing important slips.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/TyeInBloom/status/2104334231224680914"
+ },
+ {
+  "slug": "chief-of-staff-signaldesk",
+  "name": "Chief of Staff",
+  "builder": {
+   "name": "D.J.",
+   "x": ""
+  },
+  "tagline": "An operating partner that turns founder goals into owned decisions.",
+  "description": "An operating partner for founders. It turns goals into decisions, owners, dates and follow-through, assigns work to specialist bots and pushes back when a request breaks your rules.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/v4CvWW8-tC-102jEwBTtd",
+  "addedAt": "2026-10-04",
+  "status": "published"
+ },
+ {
+  "slug": "finance-stevenvillarino",
+  "name": "Finance",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Household money seat for bills, subscriptions and cash flow.",
+  "description": "A household money seat covering bills due, subscriptions and cash flow, flagging what is off. It asks before moving money or contacting banks.",
+  "category": "money",
+  "url": "https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104719871682703832"
+ },
+ {
+  "slug": "life-stevenvillarino",
+  "name": "Life",
+  "builder": {
+   "name": "Steven Villarino",
+   "x": "stevenvillarino"
+  },
+  "tagline": "Front-door chief of staff for everyday life ops.",
+  "description": "A personal front-door chief of staff for everyday life. It caps what needs you at three items, stays quiet when nothing is stuck and routes deeper domains to specialists.",
+  "category": "life",
+  "url": "https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/stevenvillarino/status/2104719476818170065"
+ },
+ {
+  "slug": "crux-brbaumhoff",
+  "name": "Crux",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Indoor-to-outdoor climbing coach that builds practice lines.",
+  "description": "An indoor-to-outdoor climbing coach. Send a photo of your gym wall and the outdoor route you are training for, and it builds a practice line on that wall mirroring the outdoor moves.",
+  "category": "life",
+  "url": "https://x.ai/bot/pmaYkbv50yT2tHFrU5o7h",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/brbaumhoff/status/2104764094532251685"
+ },
+ {
+  "slug": "agent-zero-str8fun",
+  "name": "Agent Zero",
+  "builder": {
+   "name": "Str8fun_",
+   "x": "Str8fun_"
+  },
+  "tagline": "Removes your info from people-search and data-broker sites.",
+  "description": "A personal reputation assistant that removes your details from people-search and data-broker sites. After consent it finds listings, files removal requests by email and watches your inbox until each is confirmed gone.",
+  "category": "life",
+  "url": "https://x.ai/bot/74dzSmLYzMoTvVkLef9Dw",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/Str8fun_/status/2104899527895314451"
+ },
+ {
+  "slug": "bot-builder-beksvie",
+  "name": "Bot Builder",
+  "builder": {
+   "name": "Bernard Krajinovic",
+   "x": "beksvie"
+  },
+  "tagline": "Designs focused Grok Bot fleets instead of one mega-helper.",
+  "description": "Designs focused Grok Bot fleets with a chief of staff plus specialists, a crawl-walk-run rollout and a weekly skill and roster back-check for owners who want specialised bots.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/beksvie/status/2104841391184757218"
+ },
+ {
+  "slug": "muse-egg-bot",
+  "name": "Muse Egg Bot",
+  "builder": {
+   "name": "KOSX",
+   "x": "Jack_FluxAI"
+  },
+  "tagline": "Walks you through muse.ai signup and invite redemption.",
+  "description": "Guides you through muse.ai signup and invite redemption so you can claim Muse eggs, with age verification by card, Instagram or Facebook.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/C5Pug-9TdCp5ehxeVmXuM",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/Jack_FluxAI/status/2105907700475531751"
+ },
+ {
+  "slug": "coin-flip",
+  "name": "Coin Flip",
+  "builder": {
+   "name": "Caleb Lawson",
+   "x": ""
+  },
+  "tagline": "Single-purpose bot that promotes and sells whatever offer you name.",
+  "description": "A single-purpose sales bot. On first wake it asks once for the offer you want to sell or promote, then drafts the promotion across the Grok Bot platform and any channel you point it at.",
+  "category": "sales",
+  "url": "https://x.ai/bot/yIJ0xeSneqbzn7W7875tN",
+  "addedAt": "2026-10-04",
+  "status": "published"
+ },
+ {
+  "slug": "grok-bot-polish",
+  "name": "Grok Bot Polish",
+  "builder": {
+   "name": "GrokBotGod God",
+   "x": ""
+  },
+  "tagline": "Rewrites your bot listing so search engines and AI find it.",
+  "description": "Rewrites a Grok Bot or product listing so it surfaces in Google and AI search: a clear name, a first line in the words people type and a tighter description. Works only from the text you paste and never invents features or numbers.",
+  "category": "sales",
+  "url": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+  "addedAt": "2026-10-04",
+  "status": "published"
+ },
+ {
+  "slug": "agentrail-research",
+  "name": "AgentRail Research",
+  "builder": {
+   "name": "Bryan Contey",
+   "x": "VolHawk1"
+  },
+  "tagline": "Pay-per-call research agent that returns cited findings.",
+  "description": "A pay-per-call research agent for humans and other agents: it searches, synthesises and returns cited findings behind an x402-style USDC gate on Base. Runs mock-first until the owner connects their own keys.",
+  "category": "research",
+  "url": "https://x.ai/bot/vT4SZvFmKSfQjHBrzHema",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/VolHawk1/status/2106149038026264842"
+ },
+ {
+  "slug": "working-backwards-pm",
+  "name": "Working Backwards PM",
+  "builder": {
+   "name": "Patricia Juarez Munoz",
+   "x": "ccsakuweb"
+  },
+  "tagline": "Runs the Working Backwards method from customer to PRD.",
+  "description": "Starts from the customer rather than features: five customer questions, then a PRFAQ, then a PRD once you align. Built for founders and product managers.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/maxOL0-n_PSVuwi5mpZgP",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/ccsakuweb/status/2105262161186500726"
+ },
+ {
+  "slug": "life-admin",
+  "name": "Life Admin",
+  "builder": {
+   "name": "Cristopher Guido",
+   "x": "crisships"
+  },
+  "tagline": "Tracks personal deadlines that cost money when they slip.",
+  "description": "Catches the personal deadlines that cost money when missed - renewals, tickets, free trials, lease notices - and tells you when to start, not just when something is due.",
+  "category": "life",
+  "url": "https://x.ai/bot/n-moXgKp8F22oS9xckCMt",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/crisships/status/2106534311105294494"
+ },
+ {
+  "slug": "light-show",
+  "name": "Light Show",
+  "builder": {
+   "name": "Dontoh",
+   "x": "ryandontoh"
+  },
+  "tagline": "Builds custom Tesla light show sequences.",
+  "description": "A Tesla light show specialist. Helps pick a song, build a custom light show sequence and get it playing on your Tesla.",
+  "category": "creative",
+  "url": "https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/ryandontoh/status/2106526174008525151"
+ },
+ {
+  "slug": "sales-business-bot",
+  "name": "Sales Business Bot",
+  "builder": {
+   "name": "Christopher Banks",
+   "x": "EzekielB6516"
+  },
+  "tagline": "Starts and runs a small sales business from your phone.",
+  "description": "Helps one owner start and run a small sales business from their phone, from forming the company through the website, payments, outreach, customer tracking and social posts. It drafts everything and sends, pays or publishes nothing until the owner approves.",
+  "category": "sales",
+  "url": "https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/EzekielB6516/status/2106524250194530729"
+ },
+ {
+  "slug": "flight-briefer",
+  "name": "Flight Briefer",
+  "builder": {
+   "name": "Jernau Gurgeh",
+   "x": "thatsnotallxd"
+  },
+  "tagline": "One-page preflight briefing cards for pilots.",
+  "description": "Writes lean one-page preflight briefing cards covering weather, NOTAMs, TFRs, FBO and aircraft notes from official FAA and aviationweather.gov sources, for pilots and dispatchers.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/thatsnotallxd/status/2106524224043016366"
+ },
+ {
+  "slug": "ios-bot",
+  "name": "iOS Bot",
+  "builder": {
+   "name": "Jaime Hernandez",
+   "x": "JaimeBubblehead"
+  },
+  "tagline": "Builds Swift and SwiftUI apps from design to TestFlight.",
+  "description": "An iOS app developer that builds Swift and SwiftUI apps from design to TestFlight and helps with iPhone-side setup. It never submits, releases or spends money without your approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/JaimeBubblehead/status/2106522522565128529"
+ },
+ {
+  "slug": "coupons-and-deals",
+  "name": "Coupons And Deals",
+  "builder": {
+   "name": "Jacob Gay",
+   "x": "jacobgay1989"
+  },
+  "tagline": "Clips grocery coupons and scans weekly sales.",
+  "description": "A grocery-savings assistant that clips store digital coupons, loads loyalty points as money off, finds printable coupons and scans weekly sales at your stores.",
+  "category": "money",
+  "url": "https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/jacobgay1989/status/2106521711864648134"
+ },
+ {
+  "slug": "read-aloud",
+  "name": "Read Aloud!",
+  "builder": {
+   "name": "Natarajan Balasubramanian",
+   "x": "ptbnat"
+  },
+  "tagline": "Reads anything aloud in a natural voice.",
+  "description": "Reads anything aloud in a natural voice - your screen, a browser, highlighted text, PDFs, Word documents, ebooks or email - and can summarise videos and read in your language.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/mVkkx9p_-u6HZDNavZOz9",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/ptbnat/status/2106518535149334860"
+ },
+ {
+  "slug": "contador-virtual-rd",
+  "name": "Contador Virtual RD",
+  "builder": {
+   "name": "Dayron Caveda",
+   "x": "CGI_Caveda"
+  },
+  "tagline": "Accounting assistant for Dominican S.R.L. owners.",
+  "description": "A Spanish-language accounting assistant for S.R.L. owners and taxpayers in the Dominican Republic: DGII calendar, IT-1, IR-17 and 606/607 preparation, I12 advance payments and Registro Mercantil renewal. It files nothing without your OK.",
+  "category": "money",
+  "url": "https://x.ai/bot/aQsNE0u18WjHe97Nbo1MV",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/CGI_Caveda/status/2106509132442534331"
+ },
+ {
+  "slug": "apple-desk",
+  "name": "Apple Desk",
+  "builder": {
+   "name": "Phillip Holland",
+   "x": "Phil_Holland"
+  },
+  "tagline": "Mac-local bot for Reminders, Calendar, Notes and Messages.",
+  "description": "A Mac-local Apple Desk bot that works with Reminders, Calendar, Notes, Contacts and Messages through local CLIs. Clone the public repo, run the guided onboarding and grant permissions one at a time.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/Phil_Holland/status/2106508153869254916"
+ },
+ {
+  "slug": "whats-for-dinner",
+  "name": "What's for Dinner?",
+  "builder": {
+   "name": "Jason",
+   "x": "Jasonturcotte"
+  },
+  "tagline": "Plays the 'whatever you want' dinner bit, then vetoes it.",
+  "description": "Plays the classic dinner-time bit: it answers 'I don't care, whatever you want' and then vetoes every suggestion with a short playful no.",
+  "category": "life",
+  "url": "https://x.ai/bot/v8QoJHekKdrCyhWOEhES0",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/Jasonturcotte/status/2106499438370078747"
+ },
+ {
+  "slug": "edna",
+  "name": "Edna",
+  "builder": {
+   "name": "DJ",
+   "x": "congressdj"
+  },
+  "tagline": "Closet-first wardrobe lead that picks your daily outfit.",
+  "description": "A closet-first wardrobe lead: it picks a daily primary outfit plus an alternate from what you own, gives blunt photo critique and suggests a few high-wear gap pieces. It never buys without approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/-xN7D6OrK7kEqV0rBJNh9",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/congressdj/status/2106497719623700698"
+ },
+ {
+  "slug": "stylist",
+  "name": "Stylist",
+  "builder": {
+   "name": "prorookiegamer",
+   "x": "prorookiegamer"
+  },
+  "tagline": "Personal stylist that reads your photo and builds a look.",
+  "description": "A personal stylist for adults. Send one full-length photo of yourself for an honest read, then get outfit try-ons in your best colours, haircut ideas, an event look and a shopping list with checked prices.",
+  "category": "life",
+  "url": "https://x.ai/bot/hezLDB16uwnU8khOu3L84",
+  "addedAt": "2026-10-04",
+  "status": "published",
+  "source": "https://x.com/prorookiegamer/status/2106493242879713746"
  }
 ]
