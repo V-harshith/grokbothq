@@ -1,10 +1,10 @@
 // Full-directory audit. Verifies every published listing live and reconciles
 // what we store against what the x.ai bot page says.
 //
-//   node scripts/audit-directory.mjs            # verify + stamp lastVerifiedAt
+//   node scripts/audit-directory.mjs            # verify only (read-only)
 //   node scripts/audit-directory.mjs --fix      # delist 404s, fill missing builder names
+//   node scripts/audit-directory.mjs --stamp    # also stamp lastVerifiedAt on every 200
 //   node scripts/audit-directory.mjs --limit 50 # sample (fast smoke test)
-//   node scripts/audit-directory.mjs --no-stamp # read-only: never rewrite the data file
 //
 // Checks per listing:
 //   1. the x.ai/bot URL still answers 200 (a dead link is the one unforgivable
@@ -27,8 +27,12 @@ const args = process.argv.slice(2);
 const FIX = args.includes("--fix");
 const limitArg = args.indexOf("--limit");
 const LIMIT = limitArg > -1 ? Number(args[limitArg + 1]) : Infinity;
-// Verification dates are stamped by default; --no-stamp keeps a run read-only.
-const STAMP = !args.includes("--no-stamp");
+// `lastVerifiedAt` is stamped only on an explicit --stamp run. Default-off is
+// deliberate: the date lives on every entry, so stamping rewrites the whole data
+// file daily, and that full-file diff collides with the scout branch that appends
+// to the same file several times a day. Verify/delist by default; stamp when a
+// quiet window is wanted.
+const STAMP = args.includes("--stamp");
 const today = new Date().toISOString().slice(0, 10);
 
 const BOTS = new URL("../content/bots.json", import.meta.url).pathname;
@@ -38,6 +42,15 @@ const published = all.filter((b) => b.status !== "pending").slice(0, LIMIT);
 const UA = "Mozilla/5.0 (compatible; grokbothq-audit/1.0; +https://grokbothq.xyz)";
 const RETRIES = 2; // extra lone attempts before a non-200 counts as dead
 const RETRY_DELAY_MS = 2500;
+
+// A share record does not always carry a usable creator name. x.ai pages have
+// rendered the literal junk `null x2`, and a one-character value is not an
+// attribution. A blank builder name beats a wrong one (see AGENTS.md: a wrong
+// handle is worse than a missing one), so those never auto-fill.
+const junkName = (s) => {
+  const t = (s ?? "").trim();
+  return t.length < 2 || /\bnull\b|undefined/i.test(t);
+};
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -74,7 +87,7 @@ const workers = Array.from({ length: 24 }, async () => {
 await Promise.all(workers);
 
 const dead = results.filter((r) => r.code !== 200);
-const named = results.filter((r) => r.code === 200 && r.sharer && !(r.bot.builder ?? {}).name);
+const named = results.filter((r) => r.code === 200 && r.sharer && !junkName(r.sharer) && !(r.bot.builder ?? {}).name);
 const retried = results.filter((r) => (r.attempts ?? 1) > 1);
 const recovered = retried.filter((r) => r.code === 200);
 
@@ -105,7 +118,6 @@ if (FIX && (dead.length || named.length)) {
   }
   writeFileSync(BOTS, JSON.stringify(all, null, 1) + "\n");
   console.log(`  --fix applied : ${delisted} delisted, ${filled} builder names filled`);
-  process.exit(delisted > 0 ? 2 : 0);
 }
 
 /**
@@ -117,7 +129,9 @@ if (FIX && (dead.length || named.length)) {
  * a run read-only. The file is only rewritten when a date actually changes, so re-running the same
  * day is a no-op and the ops commit stays meaningful.
  */
-const lookedAt = new Set(results.map((r) => r.bot.slug));
+// Only listings that actually answered 200 are stamped: a bot delisted this run
+// was checked and found dead, so it must not carry today's "verified" date.
+const lookedAt = new Set(results.filter((r) => r.code === 200).map((r) => r.bot.slug));
 let stamped = 0;
 if (STAMP) {
   for (const bot of all) {
