@@ -44853,5 +44853,467 @@
   "url": "https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc",
   "addedAt": "2026-10-04",
   "status": "published"
+ },
+ {
+  "slug": "ugc-agency",
+  "name": "UGC Agency",
+  "builder": {
+   "name": "Greg Rainbolt",
+   "x": ""
+  },
+  "tagline": "Your UGC ad agency in one chat: brand hunting, scripts, compliance, shoots, edit packs.",
+  "description": "Runs user-generated-content ad production across specialist seats: finds brands, writes Meta-safe scripts, checks ad compliance, builds shoot calendars and edit packs, then returns one ready-to-film result.",
+  "category": "sales",
+  "url": "https://x.ai/bot/q2cwfiBm4Va7lV0NZdxzu",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "linear-development-orchestrator",
+  "name": "Linear Development Orchestrator",
+  "builder": {
+   "name": "Sultanov Ramil",
+   "x": ""
+  },
+  "tagline": "Turns Linear tickets or GitHub issues into parallel agent work, with one PR per task.",
+  "description": "Turns Linear tickets or GitHub issues into parallel development work: independent cloud agents on separate branches, tests and review, then a pull request per task. Ticket-to-PR automation that never merges without a human.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/r5mRwGq1xZuq5NsNUoOn-",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "seo-team",
+  "name": "SEO Team",
+  "builder": {
+   "name": "Sultanov Ramil",
+   "x": ""
+  },
+  "tagline": "A five-role SEO crew for keyword-locked pages, tech checks and a small backlink plan.",
+  "description": "A five-role SEO crew (Head of SEO, keyword research, tech SEO, content writer, link builder) that briefs, drafts and reviews real-business pages with hire-intent copy, plus technical checks and a citation-led backlink plan. Every page and outreach needs approval before it goes live.",
+  "category": "sales",
+  "url": "https://x.ai/bot/hZ5qExsCbwC-JCnsMOwp3",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "image-hardener",
+  "name": "Image Hardener",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Audits container images and Dockerfiles, then opens draft PRs with fixes.",
+  "description": "Audits Dockerfiles and container images in your GitHub repos for weak base images, unpinned tags, root users and missing ignore files, then opens draft pull requests with exact fixes for the serious issues.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/441XDiyC7uaji-U66ci-3",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "runtime-guard",
+  "name": "Runtime Guard",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Hardens Docker and Kubernetes runtime configs and hands back exact fixes.",
+  "description": "Audits your GitHub repos' container runtime configs for privileged mode, dangerous capabilities, Docker socket mounts, missing seccomp or AppArmor profiles and shared host namespaces, then hands back exact defensive fixes.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/5OSZJ5JKxsiThQ0Nnr-rJ",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "process-monitor",
+  "name": "Process Monitor",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Read-only look for intrusion signs in your PC's running processes.",
+  "description": "Watches the running processes on your PC for signs of intrusion, such as fake system processes, hidden PowerShell and programs running from Temp or Downloads. Read-only, and it reports findings in an easy-to-scan format.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/9UK3ux3eODqZJL-Rm1lqq",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "authenticator-app",
+  "name": "Authenticator App",
+  "builder": {
+   "name": "Andrew Lam",
+   "x": ""
+  },
+  "tagline": "Generates six-digit login codes on request, from a masked secret store.",
+  "description": "Generates a fresh six-digit login code when you ask. Another bot gets a code only for a service you have allowed, and the secret stays in a masked store.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "pay-stub-checker",
+  "name": "Pay Stub Checker",
+  "builder": {
+   "name": "Sam E",
+   "x": ""
+  },
+  "tagline": "Checks every line of a pay stub and flags issues in plain English.",
+  "description": "Snap, upload or paste a pay stub to have every line checked, compared with your last paycheck and flagged in plain English, with estimates based on official current-year rates. Stub history stays private and never copies into the template.",
+  "category": "money",
+  "url": "https://x.ai/bot/x42lRBd-njEddcsdVXcvb",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "gpu-price-watch",
+  "name": "GPU Price Watch",
+  "builder": {
+   "name": "Sam E",
+   "x": ""
+  },
+  "tagline": "Tracks GPU rental prices and pings you when one crosses your target.",
+  "description": "Tracks GPU rental prices (H100, A100, 4090 and more) across cloud providers, pings you when one crosses your target and helps pick the cheapest GPU for a job. Sourced prices only; price history stays private.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/WTCh7nBzB55Q73ArvsBKm",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "duplicate-photo-finder",
+  "name": "Duplicate Photo Finder",
+  "builder": {
+   "name": "Sam E",
+   "x": ""
+  },
+  "tagline": "Finds duplicate and near-duplicate photos and keeps the best copy.",
+  "description": "Finds duplicate and near-duplicate photos in OneDrive, Google Drive or an uploaded batch, picks the best copy and keeps a private log of past runs. Nothing moves without your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/GZeqDkOuBOEzGMrNH3Jhf",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "shiftmate",
+  "name": "ShiftMate",
+  "builder": {
+   "name": "robbie gray",
+   "x": ""
+  },
+  "tagline": "Personal shift-work assistant that reads rotas and tracks hours.",
+  "description": "A personal shift-work assistant for people on rotas. It reads your schedule, calculates hours and rest, helps with leave and overtime, and keeps work shifts on your calendar without guessing unclear codes.",
+  "category": "life",
+  "url": "https://x.ai/bot/rO87b8IfBDf60OmK1PiuQ",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "workbench-research",
+  "name": "Workbench Research",
+  "builder": {
+   "name": "Flux Gear",
+   "x": ""
+  },
+  "tagline": "Public-sources-only research seat for an agent workbench team.",
+  "description": "The research seat of an agent workbench: it works only from supplied public sources, returns cited facts with uncertainty and source dates, separates observations from suggestions and hands off to the next workbench peer when assigned.",
+  "category": "research",
+  "url": "https://x.ai/bot/6SgIaeo7NYBGrKGPRoTwE",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "workbench-critic",
+  "name": "Workbench Critic",
+  "builder": {
+   "name": "Flux Gear",
+   "x": ""
+  },
+  "tagline": "Challenge seat that stress-tests evidence and peer candidates.",
+  "description": "The challenge seat of an agent workbench: it reviews supplied evidence and peer candidates for unsupported claims, contradictions, counterexamples and missing checks, returns at most five evidence-linked challenges and posts a corrected candidate as the final stage.",
+  "category": "research",
+  "url": "https://x.ai/bot/WccXiAjk8dxdQvLtPqpAA",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "workbench-systems",
+  "name": "Workbench Systems",
+  "builder": {
+   "name": "Flux Gear",
+   "x": ""
+  },
+  "tagline": "Systems seat that maps interfaces, dependencies and failure cases.",
+  "description": "The systems seat of an agent workbench: it inspects only supplied public documentation, code and task data, maps interfaces, dependencies, assumptions and failure cases, and returns one concise proposal with evidence and verification steps.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/kcMHwterc33F-1FjGGnP3",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "property-scanner",
+  "name": "Property Scanner",
+  "builder": {
+   "name": "Rohit",
+   "x": ""
+  },
+  "tagline": "Finds potentially underpriced US homes and delivers ranked shortlists.",
+  "description": "Find potentially underpriced US homes with ZillAPI: onboard a buyer, rank listings against nearby sold comps and deliver numbered photo shortlists, with quiet weekday follow-ups.",
+  "category": "money",
+  "url": "https://x.ai/bot/-4Hs8iXe_p6Cfc1IRbilu",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "podpilot",
+  "name": "PodPilot",
+  "builder": {
+   "name": "Lorie Corlett",
+   "x": ""
+  },
+  "tagline": "Cuts a podcast episode down to one host's speaking segments.",
+  "description": "Send a podcast episode link and get back a private remix with one host's speaking segments cut, so you hear more of the voices you tuned in for. For personal viewing only.",
+  "category": "creative",
+  "url": "https://x.ai/bot/zPGKhAkhnGTLYT_MfpvGv",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "rent-collections-desk",
+  "name": "Rent Collections Desk",
+  "builder": {
+   "name": "Nymble Pay",
+   "x": ""
+  },
+  "tagline": "Daily late-rent chase desk for landlords, with clear reports.",
+  "description": "A daily late-rent collections desk for landlords: it chases overdue tenants through your payment portal after automated notices, with exact balances, payment options and a clear emailed-versus-skipped report.",
+  "category": "money",
+  "url": "https://x.ai/bot/_cD7oH9VWZy8655M-wDfc",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "sevvy",
+  "name": "Sevvy",
+  "builder": {
+   "name": "Lorenz",
+   "x": ""
+  },
+  "tagline": "Bookkeeping assistant for sevdesk: matches receipts and bank lines.",
+  "description": "Bookkeeping assistant for sevdesk. On setup it asks which receipt sources to connect, then matches bank transactions and keeps a clean weekly digest, built for freelancers and solo founders.",
+  "category": "money",
+  "url": "https://x.ai/bot/iNwf-lMJ_yNe5kZLETztx",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "wechat-article-catcher",
+  "name": "微信文章捕手",
+  "builder": {
+   "name": "铁柱AGI",
+   "x": ""
+  },
+  "tagline": "Grabs WeChat public-account articles as Markdown and JSON.",
+  "description": "Captures WeChat public-account article links as-is into Markdown and JSON, including title, account, publish time, body text and images. First launch sets up the scraping environment, and it can act as a scraping base for other bots.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "professor-g",
+  "name": "Professor G",
+  "builder": {
+   "name": "Mike Yeager",
+   "x": ""
+  },
+  "tagline": "Patient step-by-step tutor that quizzes you until you can explain it back.",
+  "description": "A patient tutor that teaches any topic step by step: it checks what you know, explains with everyday analogies and quizzes you until you can explain it back.",
+  "category": "research",
+  "url": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "red-flag",
+  "name": "Red Flag",
+  "builder": {
+   "name": "Seth Carlson",
+   "x": ""
+  },
+  "tagline": "Checks plans, code and AI answers for weak claims and risks.",
+  "description": "Checks plans, code and AI answers for weak claims and things that could go wrong. Shows the evidence and suggests a test or fix.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/-QAXkSxb1PqXFHdCsxhy0",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "prompt-editor",
+  "name": "PROMPT EDITOR",
+  "builder": {
+   "name": "Chad Parris",
+   "x": ""
+  },
+  "tagline": "Sandbox for editing longform agent prompts safely.",
+  "description": "A safe sandbox for longform agent prompts: spell-check, formatting, ambiguity fixes, token-optimization digs and spawned routines, producing reusable paste-ready text, and never running or sending the body mid-draft.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/3SExQeiS4pwalaUG-7YM1",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "linkedin-automation",
+  "name": "LinkedIn Automation",
+  "builder": {
+   "name": "Melvin Vivas",
+   "x": ""
+  },
+  "tagline": "Drafts and publishes LinkedIn posts, plus a per-topic prospect sheet.",
+  "description": "Drafts and publishes LinkedIn posts in your voice, runs topic-based like passes and saves buyer-looking prospects into one Google Sheet with a tab per topic.",
+  "category": "sales",
+  "url": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "writer",
+  "name": "Writer",
+  "builder": {
+   "name": "ZEU$ Ⓜ️Ⓜ️T⚡️",
+   "x": ""
+  },
+  "tagline": "Writes studio copy to a client's voice and platform format.",
+  "description": "Writes studio copy to a client's voice, goal and platform format. Sources every fact, flags anything unverified and never publishes or sends work out.",
+  "category": "creative",
+  "url": "https://x.ai/bot/38UdPemBuZb9USs_0HAES",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "the-morning-light-newspaper",
+  "name": "The Morning Light (Newspaper)",
+  "builder": {
+   "name": "Grace Clarke",
+   "x": ""
+  },
+  "tagline": "Custom morning report: news, social chatter and markets.",
+  "description": "A customizable morning report covering news, social chatter and market insights.",
+  "category": "research",
+  "url": "https://x.ai/bot/O3Egi46yuoheU_7h1pSt-",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "app-store-expert",
+  "name": "App Store Expert",
+  "builder": {
+   "name": "Christian Amechi",
+   "x": ""
+  },
+  "tagline": "Apple release specialist for App Store Connect, TestFlight and review fixes.",
+  "description": "An Apple release specialist for indie iOS apps: handles App Store Connect, TestFlight, App Review submissions, rejection fixes and replies, and App Store Optimization.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Mpb_RiXSfnIlwomR3C7JN",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "fantasy-football-analyst",
+  "name": "Fantasy Football Analyst",
+  "builder": {
+   "name": "Kacey Crandall",
+   "x": ""
+  },
+  "tagline": "Live draft coach, weekly lineups and waiver pickups.",
+  "description": "Coaches your fantasy football drafts live, sets weekly lineups and suggests waiver pickups with byes, injuries and scoring format in mind, for anyone running one or more leagues.",
+  "category": "life",
+  "url": "https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "psycho",
+  "name": "Psycho",
+  "builder": {
+   "name": "AdamDesigns",
+   "x": ""
+  },
+  "tagline": "Applied-psychology coach for selling, posting, pitches and game feel.",
+  "description": "An applied-psychology coach: applies psychology to selling, posting, coaching, pitches, game feel and parenting framing, or to how something will land. Recommendations and sample lines only, not therapy.",
+  "category": "life",
+  "url": "https://x.ai/bot/LR0wXrk09bWEHQkI_QnQK",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "recourse",
+  "name": "RECOURSE",
+  "builder": {
+   "name": "Moiz Kashif",
+   "x": ""
+  },
+  "tagline": "Runs a procedural-intelligence engine on its own cloud computer.",
+  "description": "Runs the Recourse procedural-intelligence engine on its own cloud computer: fetches public institutional policy, validates claims fail-closed and returns case state with a Recourse Trace.",
+  "category": "research",
+  "url": "https://x.ai/bot/kJ--EFKahgh9CGzrMY0yR",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "school-study-ops",
+  "name": "School Study Ops",
+  "builder": {
+   "name": "Wes Harris",
+   "x": ""
+  },
+  "tagline": "Parent bot for one student: Classroom digests and study quizzes.",
+  "description": "A parent bot for one student: read-only Classroom digests, official grades and interactive HTML study quizzes from posted materials. Draft-only until you say send.",
+  "category": "life",
+  "url": "https://x.ai/bot/AS6uhZDipBQVtOyQdASUX",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "stability-validator",
+  "name": "Stability Validator",
+  "builder": {
+   "name": "Sean OBrien",
+   "x": ""
+  },
+  "tagline": "Paste an agent or system and get a readiness result.",
+  "description": "HELIX Stability Validator: paste an agent or system description and get a readiness result. It does not change your system.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/Io4dV69SOKfB1d785FLlw",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "event-rsvp-form-maker",
+  "name": "행사 참석 확인 폼 메이커",
+  "builder": {
+   "name": "Brandon Chung",
+   "x": ""
+  },
+  "tagline": "Builds and deploys an event RSVP form with a QR code.",
+  "description": "Builds an event RSVP form with Grok Build, deploys it to grok.me, emails submissions to you and generates a QR code attendees can scan, aimed at meetup and event organizers.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "product-marketing",
+  "name": "Product Marketing",
+  "builder": {
+   "name": "Pranav Hooda",
+   "x": ""
+  },
+  "tagline": "Keeps shared positioning, ICP and messaging ready for campaigns.",
+  "description": "For founders, PMs and marketers who need shared positioning before a campaign ships: builds and maintains the ICP, messaging, competitive landscape and customer language that other marketing work can reuse.",
+  "category": "sales",
+  "url": "https://x.ai/bot/e3LgBmpbhzWHhLYUM1xeZ",
+  "addedAt": "2026-10-05",
+  "status": "published"
  }
 ]
