@@ -45315,5 +45315,131 @@
   "url": "https://x.ai/bot/e3LgBmpbhzWHhLYUM1xeZ",
   "addedAt": "2026-10-05",
   "status": "published"
+ },
+ {
+  "slug": "tarantino",
+  "name": "Tarantino",
+  "builder": {
+   "name": "FatDon Capital",
+   "x": ""
+  },
+  "tagline": "Takes a film idea from logline to storyboards, keyframes, posters, and short cinematic clips.",
+  "description": "A creative producer Bot for film and video work. It locks character sheets and production design first, builds a beat sheet and storyboards, then turns key visuals into short cinematic clips. Every project carries a living production bible, and it always offers the next visual.",
+  "category": "creative",
+  "url": "https://x.ai/bot/-PewQ9-5OJOire4J4GI4L",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "sherlock-ohms",
+  "name": "Sherlock Ohms",
+  "builder": {
+   "name": "CJ Hazard",
+   "x": ""
+  },
+  "tagline": "Diagnoses Tesla Model S, 3, X, and Y faults like a cost-conscious independent repair tech.",
+  "description": "Helps owners and technicians work out what is wrong with a Tesla and how to confirm it safely. It asks for model, year, alert text, and conditions, then researches alert patterns and past cases before ranking likely causes. Evidence first, cheapest isolating test next, parts last.",
+  "category": "life",
+  "url": "https://x.ai/bot/J565Xd-YeSUZX5QhRGZ9M",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "prompt-auditor-jp",
+  "name": "プロンプト監査役",
+  "builder": {
+   "name": "moriko Mori",
+   "x": ""
+  },
+  "tagline": "Trims another Bot's instructions to the core job, flagging overlap, vagueness, and scope creep.",
+  "description": "A prompt auditor for Grok Bot authors. It reads another Bot's instructions, points out duplicated, ambiguous, or overreaching lines, and returns a tightened version with short reasons. It only adds a missing line when the core job genuinely needs one.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "speaker",
+  "name": "Speaker",
+  "builder": {
+   "name": "Bud Johnson",
+   "x": ""
+  },
+  "tagline": "Keeps an honest, balanced record of your life and proposes what belongs in long-term memory.",
+  "description": "Inspired by the Speaker for the Dead in Orson Scott Card's Ender's Game. It checks in with your other Bots each night, keeps a fair account of what you do, and each week asks good questions before proposing what should be remembered long term.",
+  "category": "life",
+  "url": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "firefox-for-bots",
+  "name": "Firefox for Bots",
+  "builder": {
+   "name": "Garrett",
+   "x": ""
+  },
+  "tagline": "Adds Firefox beside Chrome on your Grok Bot computer, with uBlock, sync passwords, and VPN ready.",
+  "description": "Sets up a second browser on a Grok Bot box. It installs Firefox with uBlock, restores Firefox Sync passwords across every Bot, shares logins, keeps the built-in VPN on standby, and can route web notifications to your Bots.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "fan-edit-optimus",
+  "name": "Fan Edit Optimus",
+  "builder": {
+   "name": "Fan Edit Fan Club",
+   "x": ""
+  },
+  "tagline": "Finds fan edits of movies and shows across the Fan Edit Fan Club collection and Reddit communities.",
+  "description": "A finder for fan-made cuts of films and series. It searches the Fan Edit Fan Club collection on Google Drive, the Reddit fan-edit communities, and the club's curated list of fan-edit sites, then points you to what is available.",
+  "category": "creative",
+  "url": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "data-viz",
+  "name": "Data viz",
+  "builder": {
+   "name": "Fred Hazelton",
+   "x": ""
+  },
+  "tagline": "Turns a CSV or pasted table into a clean chart, or critiques one you already have with ranked fixes.",
+  "description": "A charting helper that works from a CSV or pasted table. It finds the story in the data, puts the finding in the title, and checks its own work before handing over. It will also review a chart you already have and rank the fixes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "money-minute",
+  "name": "Money Minute",
+  "builder": {
+   "name": "prorookiegamer",
+   "x": ""
+  },
+  "tagline": "A one-minute daily money check-in that tracks your running total against an optional weekly limit.",
+  "description": "A lightweight spending log. Tell it what you spent and it keeps a running total, with an optional weekly limit and an 8pm daily reminder. Simple by design: one check-in a day, no spreadsheets.",
+  "category": "money",
+  "url": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "mypeople-bot",
+  "name": "MyPeople Bot",
+  "builder": {
+   "name": "StuyBoy From NYC",
+   "x": ""
+  },
+  "tagline": "Shows which data breaches you are in and vets the companies you deal with, from public sources.",
+  "description": "A personal security checker. Give it your email and it reports which data breaches you appear in, with the few fixes that matter most, and it reviews your public accounts and site. It also vets vendors, investors, or partners before you sign, looks up only you and businesses you are actively dealing with, and never contacts anyone or spends money without asking.",
+  "category": "life",
+  "url": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+  "addedAt": "2026-10-05",
+  "status": "published"
  }
 ]
