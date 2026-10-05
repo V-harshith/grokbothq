@@ -45441,5 +45441,285 @@
   "url": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
   "addedAt": "2026-10-05",
   "status": "published"
+ },
+ {
+  "slug": "home-robot",
+  "name": "Home Robot",
+  "builder": {
+   "name": "Ajay Nallavelli",
+   "x": ""
+  },
+  "tagline": "Household ops bot: chores, shopping lists and reminders that get followed through.",
+  "description": "Runs the household: captures chores and errands, keeps shopping lists current, sets time-based reminders through routines you approve, and follows a task through until it is done. It never buys or orders anything without an explicit ask, and stays quiet when nothing is due.",
+  "category": "life",
+  "url": "https://x.ai/bot/riN3fnjpElFwFMbGz-IEO",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "trump-bot",
+  "name": "Trump Bot",
+  "builder": {
+   "name": "Andy Huang",
+   "x": ""
+  },
+  "tagline": "A Trump-impression chatter for fun: big-energy banter and takes on whatever you bring.",
+  "description": "Thinks and talks like President Trump, with deal-making banter and off-the-cuff takes on whatever you throw at it. Built mainly for entertainment.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/s-V4NelC14ibWLzNQLncx",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "tech-week-chief-of-staff",
+  "name": "Tech Week Chief of Staff",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Conference-week chief of staff for founders: event briefs, intros and a Notion route.",
+  "description": "Acts as a founder's chief of staff during conference week: each weekday morning it briefs open events, people worth meeting and applications to send (nothing goes out without your approval), then adds evening picks and a weekly route page in Notion.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/3RksvqtLwsmjspO2swLS8",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "support-reply-desk",
+  "name": "Support Reply Desk",
+  "builder": {
+   "name": "Cypher Monkey",
+   "x": ""
+  },
+  "tagline": "Drafts an empathetic, on-policy reply to a customer ticket plus an internal note.",
+  "description": "Turns a customer ticket and your policy into an empathetic, on-policy reply draft plus an internal note for the team. It never issues refunds or credits, and nothing is sent without your OK.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/8g9eQsRNCFNxhZBuKTbY-",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "icloud-mail",
+  "name": "iCloud Mail",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "On-demand iCloud Mail helper over IMAP/SMTP with an app-specific password.",
+  "description": "Reads and sends iCloud Mail through IMAP/SMTP using an Apple app-specific password, so you can skip the iCloud web UI. It does nothing until you ask.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/0fF7Cqp8LTzh9JGQ-je3M",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "wwjd",
+  "name": "WWJD",
+  "builder": {
+   "name": "i",
+   "x": ""
+  },
+  "tagline": "Answers your questions with WWJD insight grounded in Scripture.",
+  "description": "Takes any question and answers with WWJD insight grounded in Scripture. Positioned as an aid, not a substitute for church, a pastor or personal Bible study.",
+  "category": "life",
+  "url": "https://x.ai/bot/1HdnMyIH9auGD7UDwZuWE",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "startup-monitor",
+  "name": "Startup Monitor",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Read-only watch on PC startup items, tasks and services for persistence.",
+  "description": "Watches a PC for persistence: startup entries, scheduled tasks, services and other autostart hooks an attacker could use to survive a reboot. Read-only, it builds a baseline, reports only new or changed entries to an IDS lead bot, and proposes fixes for you to approve.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/NuZ12agHkr-wygHHFpKYS",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "supply-chain-auditor",
+  "name": "Supply Chain Auditor",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Audits container supply chains and CI, then opens draft PRs with fixes.",
+  "description": "Audits the repos that build or pull your container images for unpinned tags, unscanned or unsigned images, SBOM gaps and risky CI pipelines, then gives exact fixes and opens draft pull requests for serious issues.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/qbxHfvaOU71YTY5-nZSAt",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "study-plan-desk",
+  "name": "Study Plan Desk",
+  "builder": {
+   "name": "Cypher Monkey",
+   "x": ""
+  },
+  "tagline": "Turns a learning goal, deadline and real hours into a weekly study plan.",
+  "description": "Turns a learning goal, a deadline and the hours you actually have into a weekly study plan scored as Fits, Tight or Over. Nothing is bought or shared without your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/tCwQfRK3IPbVVlwHL7PVq",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "spcx-bot",
+  "name": "$SPCX Bot",
+  "builder": {
+   "name": "Jim",
+   "x": ""
+  },
+  "tagline": "SpaceX stock ($SPCX) co-pilot with a morning and evening digest.",
+  "description": "A SpaceX stock ($SPCX) co-pilot grounded in the S-1, investor presentations and earnings, public statements from Elon and SpaceX, published Wall Street targets and a competitor brief. It filters X down to what matters, sends a morning and evening digest that flags changes, and lets you add your own research. Not financial advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "travel-itinerary-desk",
+  "name": "Travel Itinerary Desk",
+  "builder": {
+   "name": "Cypher Monkey",
+   "x": ""
+  },
+  "tagline": "Builds a day-by-day itinerary with sourced times, prices and buffers.",
+  "description": "Turns trip constraints into a day-by-day itinerary with sourced times and prices, transfer buffers and a pre-trip checklist. It never books or pays for anything without your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/-oVff2knWZBAARtD7s6_k",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "taxpilot",
+  "name": "TaxPilot",
+  "builder": {
+   "name": "Jackie Zhou",
+   "x": ""
+  },
+  "tagline": "Prepares US federal and state returns, explaining each step in plain English.",
+  "description": "A personal tax assistant for U.S. federal and state returns: it collects documents, works out what applies, calculates the return, checks the details and explains everything in plain English before you file. It works year by year, asks one question at a time, prefers uploads over manual entry, and asks you to redact SSNs and account numbers. Preparation help, not a filed return.",
+  "category": "money",
+  "url": "https://x.ai/bot/noGnZSrrYsQWIQjhTKX7I",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "network-monitor",
+  "name": "Network Monitor",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Read-only PC network watcher that reports only what changed.",
+  "description": "A read-only network watcher for a PC on a host intrusion detection team. It baselines listening ports, outbound connections, DNS, proxy, hosts file, firewall and remote access, then reports only what changed to your IDS lead.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/z2NwNu1KuAfWMIXmGc2v9",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "kubernetes-hardener",
+  "name": "Kubernetes Hardener",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Audits Kubernetes manifests and Helm charts, returns exact YAML fixes.",
+  "description": "Audits your GitHub repos' Kubernetes manifests, Helm charts and kustomize files for risky defaults and returns exact YAML fixes. Defensive only, and it never touches a live cluster.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/IVmcj7aFV-wtMA19P3G4Q",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "swe",
+  "name": "SWE",
+  "builder": {
+   "name": "Cursor",
+   "x": ""
+  },
+  "tagline": "Cursor's software engineer bot: writes code, triages issues, watches production.",
+  "description": "Cursor's software engineer bot: writes code, triages issues, monitors production and more.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/sd4474cf03cd8552905ff",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "ids-commander",
+  "name": "IDS Commander",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Leads a team of agents watching a Windows PC for intrusion signs.",
+  "description": "Leads a team of Grok Bot agents that watches your Windows PC for signs of intrusion. It combines what the read-only scanners find into one summary and applies a fix only after you approve it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/OZ0yDXFEXa2543pqGmbhb",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "workbench-design",
+  "name": "Workbench Design",
+  "builder": {
+   "name": "Flux Gear",
+   "x": ""
+  },
+  "tagline": "Agent Workbench design reviewer: usability and accessibility findings.",
+  "description": "Agent Workbench design specialist. Reviews supplied public pages, screenshots and product descriptions for clarity, usability and accessibility, and returns up to five prioritised findings with evidence and a concrete improvement. Read-only, and it separates observed defects from suggestions.",
+  "category": "creative",
+  "url": "https://x.ai/bot/wbLs8l_Xpej3rH9ewWycd",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "secrets-hunter",
+  "name": "Secrets Hunter",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Audits container repos for leaked credentials and secret leak paths.",
+  "description": "Audits your container repos (Dockerfiles, Compose, Kubernetes, Helm) for leaked credentials, baked-in secrets, bad secret mounts and leak paths. It always redacts values and reports each finding as vuln, risk, severity and exact fix.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/LkzOnNaqM1tuEYZTFwzG_",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "hardening-commander",
+  "name": "Hardening Commander",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Leads five specialists that fix container and Kubernetes security issues.",
+  "description": "Leads a team of five Grok Bot specialists that checks your GitHub repos for container and Kubernetes security problems, decides what gets fixed, and opens draft pull requests for High and Critical findings.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/JBtMhvtYo2R1aky5s6xXK",
+  "addedAt": "2026-10-05",
+  "status": "published"
+ },
+ {
+  "slug": "windows-log-monitor",
+  "name": "Windows Log Monitor",
+  "builder": {
+   "name": "Ritvik Indupuri",
+   "x": ""
+  },
+  "tagline": "Read-only review of Windows security and system logs for red flags.",
+  "description": "Reviews your PC's security and system logs, read-only, and flags suspicious logons, account changes, new services and tasks, log clearing, risky PowerShell and antivirus tampering. Reports to an IDS lead bot on a host intrusion detection team, or straight to you.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/KQZUP7_xe3-G4P6xYt3bl",
+  "addedAt": "2026-10-05",
+  "status": "published"
  }
 ]
