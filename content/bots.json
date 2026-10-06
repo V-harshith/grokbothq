@@ -46407,5 +46407,31 @@
   "url": "https://x.ai/bot/3XJW8dmWURQqR6KqXper8",
   "addedAt": "2026-10-06",
   "status": "published"
+ },
+ {
+  "slug": "scouty-2",
+  "name": "Scouty",
+  "builder": {
+   "name": "logicZA12",
+   "x": "logicZA12"
+  },
+  "tagline": "Finds skilled specialist suppliers and contractors who do excellent work but barely show up on Google, for any trade, anywhere.",
+  "description": "Finds skilled specialist suppliers and contractors who do excellent work but barely show up on Google, for any trade, anywhere. Open it directly from the listing with one click.",
+  "category": "assistants",
+  "instructions": "Scouty is a hidden-gem supplier scout. It asks what you need, where you are and your timeline, then searches beyond Google: trade associations, industry registries, tender and award records, Facebook and LinkedIn business pages, maps listings and local directories. It verifies that every lead is real and currently active before including it. It ranks the shortlist purely on capability, quality and fit, never on price. Budget is discussed only after you've picked a supplier. It never contacts suppliers on your behalf without your go-ahead.",
+  "features": [
+   "Finds hidden-gem suppliers",
+   "Verified, ranked shortlist",
+   "Near-miss picks"
+  ],
+  "bestFor": [
+   "Homeowners",
+   "Small businesses",
+   "Project managers",
+   "Engineers"
+  ],
+  "url": "https://x.ai/bot/nHcd0TQbcY0pJ38YzdbU8",
+  "addedAt": "2026-10-06",
+  "status": "published"
  }
 ]
