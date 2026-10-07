@@ -48261,5 +48261,110 @@
   "source": "https://x.com/the_Arow_H/status/2107605394398777619",
   "addedAt": "2026-10-07",
   "status": "published"
+ },
+ {
+  "slug": "packages",
+  "name": "Packages",
+  "builder": {
+   "name": "Davor",
+   "x": "davorb89"
+  },
+  "tagline": "Checks your delivery tracking once a day and only pings you when a parcel moves.",
+  "description": "Watches the orders and tracking details you hand it and runs one quiet status check a day, so you hear only when a shipment genuinely changes state and nothing in between.",
+  "category": "life",
+  "url": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+  "source": "https://x.com/davorb89/status/2107794559417602270",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "meeting-brief",
+  "name": "Meeting Brief",
+  "builder": {
+   "name": "Komil",
+   "x": "Limok_igit"
+  },
+  "tagline": "Preps a source-linked dossier on the room before each call starts.",
+  "description": "Builds a short pre-call brief: who is attending, what was last said to each of them, which decisions are still open, and the points and risks worth raising. Every line links back to the message or document it came from.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+  "source": "https://x.com/Limok_igit/status/2107639415656911299",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "remote-job-hunter",
+  "name": "Remote Job Hunter",
+  "builder": {
+   "name": "TKR",
+   "x": "IRENCIFR"
+  },
+  "tagline": "Applies to remote roles on employer career sites and logs every submission.",
+  "description": "Searches the career pages of employers you name for remote openings, applies through the employer's own applicant-tracking system rather than a job board, keeps a running application log, and watches your inbox so an interview invite never sits unnoticed.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+  "source": "https://x.com/IRENCIFR/status/2107656410385539206",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "m5-restock-watcher",
+  "name": "M5入荷みはり",
+  "builder": {
+   "name": "まるいも",
+   "x": "marulimoai"
+  },
+  "tagline": "Watches a Japanese maker shop for M5Stack restocks and reports what is back.",
+  "description": "A restock lookout for M5Stack boards and e-paper modules at a Japanese electronics retailer. It checks availability on a schedule and messages you in Japanese about the items that just came back, and it stops at the browser: it never buys or fills a basket.",
+  "category": "life",
+  "url": "https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9",
+  "source": "https://x.com/marulimoai/status/2107735579752554735",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "privacy-sentinel",
+  "name": "Privacy Sentinel",
+  "builder": {
+   "name": "Sid",
+   "x": "MinocrisyHQ"
+  },
+  "tagline": "Audits where your details sit in breaches and broker listings, then ranks fixes.",
+  "description": "A read-only household privacy audit: it checks your email addresses against known breaches, people-search sites and data-broker listings, then hands back the exposures ranked highest-risk first with plain next steps. It runs with your consent and never asks for a password.",
+  "category": "life",
+  "url": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+  "source": "https://x.com/MinocrisyHQ/status/2107754894841000023",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "calorie-police",
+  "name": "Calorie Police",
+  "builder": {
+   "name": "Uzair",
+   "x": "uzairayed"
+  },
+  "tagline": "Sets a daily calorie target and checks in on your habits without the lecture.",
+  "description": "Works out a sensible daily calorie target if you want to lose fat or eat healthier, then hands over a few plain habit rules instead of a rigid meal plan. It checks in on a schedule and keeps the tone light, with no scolding and no medical claims.",
+  "category": "life",
+  "url": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+  "source": "https://x.com/uzairayed/status/2107773335560172023",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "blog-to-x-post",
+  "name": "ブログからX投稿",
+  "builder": {
+   "name": "蒼巳",
+   "x": "1123momojiro1"
+  },
+  "tagline": "Turns saved blog posts and voice notes into X threads, morning and evening.",
+  "description": "Shapes writing you already have, archived blog entries, quick notes or a spoken memo, into clean posts for X, splitting longer pieces into one-theme threads. It publishes on its own morning and evening, and each week suggests three fresh angles worth writing up.",
+  "category": "creative",
+  "url": "https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU",
+  "source": "https://x.com/1123momojiro1/status/2107707185753186655",
+  "addedAt": "2026-10-07",
+  "status": "published"
  }
 ]
