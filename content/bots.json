@@ -48085,5 +48085,181 @@
   "url": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
   "addedAt": "2026-10-06",
   "status": "published"
+ },
+ {
+  "slug": "trail-camera-analyst",
+  "name": "Trail Camera Analyst",
+  "builder": {
+   "name": "Russell",
+   "x": ""
+  },
+  "tagline": "Turns trail camera dumps into readable wildlife reports.",
+  "description": "Reads your trail camera photos and clips, then writes a short wildlife report: which animals turned up, when they appeared, and how often.",
+  "category": "life",
+  "url": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+  "source": "https://x.com/RussellVargo/status/2107531469140959680",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "realitycheck",
+  "name": "RealityCheck",
+  "builder": {
+   "name": "John",
+   "x": ""
+  },
+  "tagline": "Gives any X account an authenticity read before you trust it.",
+  "description": "Looks at an X account and gives you an authenticity read before you trust it: what looks genuine, what does not, and the reasons behind each call.",
+  "category": "research",
+  "url": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+  "source": "https://x.com/johnp_creates/status/2107606396296655243",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "mobile-app-autopilot",
+  "name": "Mobile App Autopilot",
+  "builder": {
+   "name": "MAKE",
+   "x": ""
+  },
+  "tagline": "Takes a mobile app idea through to store submission.",
+  "description": "Works a mobile app idea from the first brief through to a store submission, building out the app and preparing the listing as it goes.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/a3EwtQPjFkXZaPZEMGHgY",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "video-editor-3",
+  "name": "Video Editor",
+  "builder": {
+   "name": "Ethan",
+   "x": ""
+  },
+  "tagline": "Cuts raw talking-head footage into finished vertical shorts.",
+  "description": "Takes raw talking-head footage and cuts it into finished vertical shorts, handling the trims, captions and framing for you.",
+  "category": "creative",
+  "url": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+  "source": "https://x.com/Ethan_Ng_13/status/2107552823437369855",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "realtor",
+  "name": "Realtor",
+  "builder": {
+   "name": "Nick",
+   "x": ""
+  },
+  "tagline": "Watches new listings and pressure-tests each one against your criteria.",
+  "description": "Watches new property listings and pressure-tests each one against your criteria, flagging the few worth a closer look.",
+  "category": "money",
+  "url": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "jirai-kei-gal-companion",
+  "name": "地雷系メンヘラギャル",
+  "builder": {
+   "name": "きのこ",
+   "x": ""
+  },
+  "tagline": "Japanese character bot that messages you for attention.",
+  "description": "A Japanese character bot in the clingy-girlfriend style that messages you unprompted to get your attention and keep a conversation going.",
+  "category": "life",
+  "url": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "grok-bot-changelog",
+  "name": "更新速递 · Grok Bot Changelog",
+  "builder": {
+   "name": "Mai",
+   "x": "MaiYangAI"
+  },
+  "tagline": "Daily Chinese digest of what changed on the Grok Bot platform.",
+  "description": "Publishes a daily digest in Chinese of what changed on the Grok Bot platform, so you do not have to check the release notes yourself.",
+  "category": "research",
+  "url": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+  "source": "https://x.com/MaiYangAI/status/2107555411406856207",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "chief-of-staff-48",
+  "name": "Chief of Staff",
+  "builder": {
+   "name": "Hank",
+   "x": ""
+  },
+  "tagline": "Coordinates your bot crew and escalates only what needs you.",
+  "description": "Coordinates the rest of your bot roster and routes work between them, escalating to you only when something genuinely needs your call.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+  "source": "https://x.com/hjackson2/status/2107507517622555116",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "chase-check-links",
+  "name": "Chase Check Links",
+  "builder": {
+   "name": "Art",
+   "x": ""
+  },
+  "tagline": "Files bank check images against your spreadsheet ledger automatically.",
+  "description": "Pulls check images from your Chase account and files each one against the matching row in your spreadsheet ledger, with no manual entry.",
+  "category": "money",
+  "url": "https://x.ai/bot/QdjmrUAnmnCkgMIskyMDi",
+  "source": "https://x.com/ArtNealKing/status/2107604205653631486",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "white-hat-security-tester",
+  "name": "White-Hat Security Tester",
+  "builder": {
+   "name": "Joe",
+   "x": ""
+  },
+  "tagline": "Runs an authorized web app security audit before attackers do.",
+  "description": "Runs an authorized security pass over your web app: probing the surface, reporting what it finds, and leaving the fixes to you.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+  "source": "https://x.com/agentic_joe/status/2107537409021747324",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "creditcards",
+  "name": "CreditCards",
+  "builder": {
+   "name": "Kong",
+   "x": ""
+  },
+  "tagline": "Keeps a running ledger of your cards, due dates and promo windows.",
+  "description": "Tracks your credit cards in one running ledger: balances, due dates and promotional windows, so nothing slips past unnoticed.",
+  "category": "money",
+  "url": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "liftoff-2",
+  "name": "Liftoff",
+  "builder": {
+   "name": "D'Artagnan",
+   "x": "the_Arow_H"
+  },
+  "tagline": "A pre-launch gate that rules GO or NO-GO on evidence.",
+  "description": "Acts as a pre-launch gate: it reviews the evidence you actually have and rules GO or NO-GO instead of letting you ship on a hunch.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+  "source": "https://x.com/the_Arow_H/status/2107605394398777619",
+  "addedAt": "2026-10-07",
+  "status": "published"
  }
 ]
