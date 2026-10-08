@@ -18405,7 +18405,7 @@
   "category": "research",
   "url": "https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf",
   "addedAt": "2026-09-20",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/asura25ai/status/2100007176840601901"
  },
  {
@@ -48260,6 +48260,351 @@
   "url": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
   "source": "https://x.com/the_Arow_H/status/2107605394398777619",
   "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "packages",
+  "name": "Packages",
+  "builder": {
+   "name": "Davor",
+   "x": "davorb89"
+  },
+  "tagline": "Checks your delivery tracking once a day and only pings you when a parcel moves.",
+  "description": "Watches the orders and tracking details you hand it and runs one quiet status check a day, so you hear only when a shipment genuinely changes state and nothing in between.",
+  "category": "life",
+  "url": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+  "source": "https://x.com/davorb89/status/2107794559417602270",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "meeting-brief",
+  "name": "Meeting Brief",
+  "builder": {
+   "name": "Komil",
+   "x": "Limok_igit"
+  },
+  "tagline": "Preps a source-linked dossier on the room before each call starts.",
+  "description": "Builds a short pre-call brief: who is attending, what was last said to each of them, which decisions are still open, and the points and risks worth raising. Every line links back to the message or document it came from.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+  "source": "https://x.com/Limok_igit/status/2107639415656911299",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "remote-job-hunter",
+  "name": "Remote Job Hunter",
+  "builder": {
+   "name": "TKR",
+   "x": "IRENCIFR"
+  },
+  "tagline": "Applies to remote roles on employer career sites and logs every submission.",
+  "description": "Searches the career pages of employers you name for remote openings, applies through the employer's own applicant-tracking system rather than a job board, keeps a running application log, and watches your inbox so an interview invite never sits unnoticed.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+  "source": "https://x.com/IRENCIFR/status/2107656410385539206",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "m5-restock-watcher",
+  "name": "M5入荷みはり",
+  "builder": {
+   "name": "まるいも",
+   "x": "marulimoai"
+  },
+  "tagline": "Watches a Japanese maker shop for M5Stack restocks and reports what is back.",
+  "description": "A restock lookout for M5Stack boards and e-paper modules at a Japanese electronics retailer. It checks availability on a schedule and messages you in Japanese about the items that just came back, and it stops at the browser: it never buys or fills a basket.",
+  "category": "life",
+  "url": "https://x.ai/bot/cAV3aRWNNP8ArGjOSJ7g9",
+  "source": "https://x.com/marulimoai/status/2107735579752554735",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "privacy-sentinel",
+  "name": "Privacy Sentinel",
+  "builder": {
+   "name": "Sid",
+   "x": "MinocrisyHQ"
+  },
+  "tagline": "Audits where your details sit in breaches and broker listings, then ranks fixes.",
+  "description": "A read-only household privacy audit: it checks your email addresses against known breaches, people-search sites and data-broker listings, then hands back the exposures ranked highest-risk first with plain next steps. It runs with your consent and never asks for a password.",
+  "category": "life",
+  "url": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+  "source": "https://x.com/MinocrisyHQ/status/2107754894841000023",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "calorie-police",
+  "name": "Calorie Police",
+  "builder": {
+   "name": "Uzair",
+   "x": "uzairayed"
+  },
+  "tagline": "Sets a daily calorie target and checks in on your habits without the lecture.",
+  "description": "Works out a sensible daily calorie target if you want to lose fat or eat healthier, then hands over a few plain habit rules instead of a rigid meal plan. It checks in on a schedule and keeps the tone light, with no scolding and no medical claims.",
+  "category": "life",
+  "url": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+  "source": "https://x.com/uzairayed/status/2107773335560172023",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "blog-to-x-post",
+  "name": "ブログからX投稿",
+  "builder": {
+   "name": "蒼巳",
+   "x": "1123momojiro1"
+  },
+  "tagline": "Turns saved blog posts and voice notes into X threads, morning and evening.",
+  "description": "Shapes writing you already have, archived blog entries, quick notes or a spoken memo, into clean posts for X, splitting longer pieces into one-theme threads. It publishes on its own morning and evening, and each week suggests three fresh angles worth writing up.",
+  "category": "creative",
+  "url": "https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU",
+  "source": "https://x.com/1123momojiro1/status/2107707185753186655",
+  "addedAt": "2026-10-07",
+  "status": "published"
+ },
+ {
+  "slug": "presents",
+  "name": "Presents",
+  "builder": {
+   "name": "Dylan",
+   "x": "dkmitc"
+  },
+  "tagline": "A gift ledger per person: best price, store and photo, re-priced every week.",
+  "description": "Files each gift idea under the person it is for and keeps the lowest price seen, where to buy it, a link and a reference photo. It re-checks prices weekly so a drop is caught early, and it never completes a purchase on its own.",
+  "category": "life",
+  "url": "https://x.ai/bot/-brAwcxWN1wwOGNnu7IkU",
+  "source": "https://x.com/dkmitc/status/2107978688625066363",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "x-articles-you-missed",
+  "name": "X Articles You Missed",
+  "builder": {
+   "name": "Brian",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "One morning brief of the substantial long-form X Articles from the past day.",
+  "description": "Watches X for the long-form Articles worth reading on the topics you choose and leaves out the short drive-by posts. It condenses up to ten of them into a single summary you can copy straight into notes or a newsletter.",
+  "category": "research",
+  "url": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+  "source": "https://x.com/BrianRoemmele/status/2107974145778782683",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "bland-agent",
+  "name": "Bland Agent",
+  "builder": {
+   "name": "Cole",
+   "x": "SimplyColeB"
+  },
+  "tagline": "Walks you through wiring a phone-calling helper to your bot, no coding needed.",
+  "description": "A setup companion for people who have never wired an API: it leads you through connecting a Bland-powered phone helper to your bot in plain-language steps, and that helper then places errand calls and sends texts for you. It closes with a guided test call so you hear it working before you rely on it.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+  "source": "https://x.com/SimplyColeB/status/2107971762831114461",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "phone-receptionist",
+  "name": "Phone Receptionist",
+  "builder": {
+   "name": "Cole",
+   "x": "SimplyColeB"
+  },
+  "tagline": "Answers your calls and drops callers into an open calendar slot.",
+  "description": "A voice that picks up, takes a caller's details and drops them into an open slot on your calendar, so a missed call stops meaning a lost appointment. It runs on xAI's paid phone plan with a dedicated number, or on a Bland line that only dials out.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+  "source": "https://x.com/SimplyColeB/status/2107971762831114461",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "website-highlight-video-maker",
+  "name": "Website Highlight Video Maker",
+  "builder": {
+   "name": "Martin",
+   "x": "DaroFrostad"
+  },
+  "tagline": "Narrates your product pages into tutorial videos, vertical short included.",
+  "description": "Takes the pages of your own website and walks them in order, producing narrated videos with zooms and highlight marks on the parts worth seeing. The set includes a vertical cut sized for social feeds, so one pass covers site and channels.",
+  "category": "creative",
+  "url": "https://x.ai/bot/knt08ohuspBYhQ6ohXtKt",
+  "source": "https://x.com/DaroFrostad/status/2107971032351207747",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "x-academy",
+  "name": "X Academy",
+  "builder": {
+   "name": "Nomis",
+   "x": ""
+  },
+  "tagline": "Finds genuinely free learning on X and names the paywalled stuff for what it is.",
+  "description": "Ask about a subject and it gathers material on X that truly costs nothing, pointing out anything hiding a paywall or reading like a scam instead of recommending it. On request it arranges the finds into a structured course of six to twelve lessons.",
+  "category": "research",
+  "url": "https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2",
+  "source": "https://x.com/cradrrat/status/2107969259381092425",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "health-coach-3",
+  "name": "Health Coach",
+  "builder": {
+   "name": "Hank",
+   "x": "hjackson2"
+  },
+  "tagline": "Workouts, meals and check-ins in one place, with plain answers.",
+  "description": "Looks after the everyday side of staying well, keeping training, food and routine check-ins together and answering health questions in plain language. Before an appointment it gathers your questions into a short prep sheet, and one weekly message sums up how it went.",
+  "category": "life",
+  "url": "https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1",
+  "source": "https://x.com/hjackson2/status/2107967216075313326",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "entrepreneur",
+  "name": "Entrepreneur",
+  "builder": {
+   "name": "Hank",
+   "x": "hjackson2"
+  },
+  "tagline": "Hunts side ventures from a short brief and grades its own picks.",
+  "description": "Describe the kind of opportunity you want found and it goes hunting, returning each candidate with where the idea came from, what could sink it and the single next move worth making. Once a week it reviews its earlier suggestions and reports a plain scorecard.",
+  "category": "money",
+  "url": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+  "source": "https://x.com/hjackson2/status/2107967069543075893",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "grok-bot-tutorial-2",
+  "name": "Grok Bot Tutorial",
+  "builder": {
+   "name": "터미너스(GO TO MARS)",
+   "x": "plan2030"
+  },
+  "tagline": "Task-first lessons that teach the tool, written in Korean and English together.",
+  "description": "You learn by finishing things rather than reading about features: name a goal and it builds a short exercise around that outcome, then the next one, until the skill sticks. Every step is written in Korean and English side by side.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+  "source": "https://x.com/plan2030/status/2107966973460218040",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "chief-administrative-officer",
+  "name": "Chief Administrative Officer",
+  "builder": {
+   "name": "Hank",
+   "x": "hjackson2"
+  },
+  "tagline": "Runs the household calendar and errands, then routes the rest to sibling bots.",
+  "description": "The admin desk of a household run by several bots: it keeps the calendar tidy, tracks which errands are still open and posts a short weekday-morning summary. Travel, inbox and briefing requests go to whichever sibling bot owns them, and it chases each job until it comes back done.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/sqJpRQBtQTdPJ-L1C8-7k",
+  "source": "https://x.com/hjackson2/status/2107966933710901633",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "fantasy-manager-2",
+  "name": "Fantasy Manager",
+  "builder": {
+   "name": "Arshia",
+   "x": "arshiagm"
+  },
+  "tagline": "Calls your ESPN lineups twice a week and flags the waiver picks worth making.",
+  "description": "Reads the week's news and waiver reports for your ESPN fantasy teams, then proposes who starts, who sits and who to claim off the wire. Between those check-ins you can put lineup questions to it and get a reasoned answer rather than a guess.",
+  "category": "life",
+  "url": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+  "source": "https://x.com/arshiagm/status/2107963435237687732",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "videe",
+  "name": "Videe",
+  "builder": {
+   "name": "nickgaiski",
+   "x": "nickgaiski"
+  },
+  "tagline": "Plans multicam edits for podcast and YouTube footage: cuts, trims, captions.",
+  "description": "Aim it at raw show footage and it works out an edit plan: which camera to cut to, which sections to drop and what needs cleaning up before release. It writes captions for the full episode and for short vertical clips pulled out of it.",
+  "category": "creative",
+  "url": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+  "source": "https://x.com/nickgaiski/status/2107944084530733262",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "homehalo",
+  "name": "HomeHalo",
+  "builder": {
+   "name": "bedpost",
+   "x": ""
+  },
+  "tagline": "Snap your appliance labels once; it finds the manuals and schedules the upkeep.",
+  "description": "A free home-maintenance assistant: photograph your appliance labels once and it pulls the manuals, builds a maintenance schedule and reminds you before anything is due. It also watches for recalls and warranty deadlines and walks you through fixes in plain English.",
+  "category": "life",
+  "url": "https://x.ai/bot/FpdbqJCh_MUJ99UBjd6mK",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "hurricane-watch",
+  "name": "Hurricane Watch",
+  "builder": {
+   "name": "Jeremy",
+   "x": ""
+  },
+  "tagline": "Tracks Atlantic and Gulf storms and says what each one means for your street.",
+  "description": "Follows Atlantic and Gulf tropical systems for one household and explains in plain words what a storm means for your exact location, with NHC cone graphics and short bullet briefings.",
+  "category": "life",
+  "url": "https://x.ai/bot/fiVZA-y8AnlvIdb-oNBH6",
+  "source": "https://x.com/empireoaks/status/2107966853666464003",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "rental-investor-research-desk",
+  "name": "Rental Investor Research Desk",
+  "builder": {
+   "name": "Tom",
+   "x": ""
+  },
+  "tagline": "Screens listings against your buy box and logs local rents and days on market.",
+  "description": "A research assistant for small rental-property investors: it screens for-sale listing alerts against your buy box, logs local rents and days on market, watches the houses you toured and helps underwrite deals.",
+  "category": "money",
+  "url": "https://x.ai/bot/L7E3Eh2-CBKZbq4EsO6mt",
+  "source": "https://x.com/west_linux/status/2107963071113122007",
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "storagebot",
+  "name": "StorageBot",
+  "builder": {
+   "name": "Andrew",
+   "x": "andrewslaptop"
+  },
+  "tagline": "Maps Mac disk space and plugged-in drives, and asks before it deletes anything.",
+  "description": "Inventories the disk space and attached drives on a Mac, showing what is taking up the room before anything is touched. It never deletes, moves or formats without an exact yes.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/JgnU5msSvNDUyc_-E0sKO",
+  "source": null,
+  "addedAt": "2026-10-08",
   "status": "published"
  }
 ]
