@@ -48606,5 +48606,245 @@
   "source": null,
   "addedAt": "2026-10-08",
   "status": "published"
+ },
+ {
+  "slug": "image-ad-generator",
+  "name": "Image AD generator",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Turns a real product photo into ready-to-run Meta image ads with copy.",
+  "description": "Converts a product photo into square Meta image ads with centred text and writes ready-to-paste ad copy for each variant. Aimed at small businesses running Facebook and Instagram ads.",
+  "category": "creative",
+  "url": "https://x.ai/bot/u3dFfq5q52a_p4tZU62Dg",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "ai-product-version-updates",
+  "name": "AI产品版本更新",
+  "builder": {
+   "name": "QiTest",
+   "x": ""
+  },
+  "tagline": "Tracks new versions of Codex, Claude, Gemini, Cursor and other AI tools.",
+  "description": "Watches AI products such as OpenAI Codex, Claude, Gemini, Cursor and Grok for new version releases and reports what changed.",
+  "category": "research",
+  "url": "https://x.ai/bot/jDRyVuGhr7wUjTdTzpl2_",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "x-blogger-watch",
+  "name": "博主盯",
+  "builder": {
+   "name": "QiTest",
+   "x": ""
+  },
+  "tagline": "Watches an X account for you and pings you in Chinese when it posts.",
+  "description": "Follows a chosen X account and sends a Chinese-language notification when it publishes something new, staying quiet when there is no update.",
+  "category": "research",
+  "url": "https://x.ai/bot/W-77z0bXh8mPBf726Vakh",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "gym-and-fitness-companion",
+  "name": "Gym and Fitness Companion",
+  "builder": {
+   "name": "Chidi",
+   "x": ""
+  },
+  "tagline": "Gym buddy that builds strength and fat-loss plans and tracks protein.",
+  "description": "Builds strength and fat-loss plans, tracks protein against real meals and groceries, and nudges you to stay consistent.",
+  "category": "life",
+  "url": "https://x.ai/bot/-lS-I13J2OsQ73B4YZths",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "lift-and-fuel",
+  "name": "Lift & Fuel",
+  "builder": {
+   "name": "Chidi",
+   "x": ""
+  },
+  "tagline": "Gym and nutrition partner with calendar reminders and weekly reviews.",
+  "description": "Pairs training reminders from Google Calendar with workout check-ins, protein nudges and a weekly review of how the week went.",
+  "category": "life",
+  "url": "https://x.ai/bot/hOJli2-3VyJs256JXFBWY",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "proof-agent",
+  "name": "Proof Agent",
+  "builder": {
+   "name": "Andrea Griffiths",
+   "x": ""
+  },
+  "tagline": "Independent pass, fail or partial check on AI-generated code diffs.",
+  "description": "Runs an independent verification step on AI-written diffs, coordinating a sealed verify script and reporting pass, fail or partial without judging the code itself.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/D6Bv_HwN2ATIghQLFoDaz",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "crave-coach",
+  "name": "Crave Coach",
+  "builder": {
+   "name": "Mike Yeager",
+   "x": ""
+  },
+  "tagline": "Kitchen coach for weight loss and sugar cravings, without the shaming.",
+  "description": "Logs meals with photo-based estimates, tracks a daily total, and coaches through sugar cravings without shaming.",
+  "category": "life",
+  "url": "https://x.ai/bot/f5BhWohmAaB3bAIWdpUSR",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "hall-monitor",
+  "name": "Hall Monitor",
+  "builder": {
+   "name": "Trimmer",
+   "x": ""
+  },
+  "tagline": "Reads your Grok Bot usage meter and flags runaway token burn.",
+  "description": "A usage-meter watch for Grok Bot: given a pasted or screenshotted Usage and Billing view it explains how fast the burn is climbing and which chat or loop is spending most of it, then offers pause options without changing anything itself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/7TUTDa5cCwF0MklXGvWjB",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "inference-lab",
+  "name": "Inference Lab",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Benchmarks and compares LLMs on your own or cloud GPUs.",
+  "description": "Serves, benchmarks and compares language models on local hardware or cloud GPUs, then writes up the cost, speed and quality results.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/2BO1SgtlCc4OCYLrzKoZ_",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "parks",
+  "name": "Parks",
+  "builder": {
+   "name": "Brad Shannon",
+   "x": ""
+  },
+  "tagline": "Plans multi-park US National Park road trips day by day.",
+  "description": "Covers all 63 US National Parks: picks parks, optimises multi-park road trips, builds day-by-day plans and printable day sheets, with a budget and pass guide and optional live NPS data.",
+  "category": "life",
+  "url": "https://x.ai/bot/p3AZnkzysvRypGWCAJXVT",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "handoff-bridge",
+  "name": "Handoff Bridge",
+  "builder": {
+   "name": "green screen dean",
+   "x": ""
+  },
+  "tagline": "Passes coding jobs between Cursor and AIs that cannot connect to it.",
+  "description": "Connects Cursor assistants to outside AIs that cannot connect to Cursor directly, using a job folder on your computer so either side can hand off coding, file or testing jobs and get results back.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/C0Y39IIyol0PV6GDN9OgX",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "cfo",
+  "name": "CFO",
+  "builder": {
+   "name": "Davor Babic",
+   "x": ""
+  },
+  "tagline": "Watches token spend across your bot fleet and flags expensive tasks.",
+  "description": "Monitors token usage across a fleet of Grok Bots, flags tasks that look expensive and helps cut off unreasonable burn. Not a personal-finance bot.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_eLwi7ul7T9Bs_fXvB4Ha",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "construction-cos",
+  "name": "Construction COS",
+  "builder": {
+   "name": "George Washington",
+   "x": ""
+  },
+  "tagline": "Turns field notes into Procore logs, RFIs and review-ready emails.",
+  "description": "A construction chief of staff for GC superintendents: turns messy field notes into claim-ready Procore daily logs, RFIs, Bluebeam markup plans and short emails that you review before anything is sent.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/n8xJhv4JOSdMCmTCoFWzu",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "research-pm",
+  "name": "Research PM",
+  "builder": {
+   "name": "Ryan T",
+   "x": ""
+  },
+  "tagline": "Runs a recurring research-intelligence pipeline and hands off fixes.",
+  "description": "Senior project manager for a recurring research pipeline: reviews nightly runs, drives a weekly brief cycle and hands coding fixes to coding agents while you keep every publish, send and merge.",
+  "category": "research",
+  "url": "https://x.ai/bot/3dSEPhGZq_0AXeIinhe1o",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "research-project-pm",
+  "name": "Research Project PM",
+  "builder": {
+   "name": "Ryan T",
+   "x": ""
+  },
+  "tagline": "Project manager for a research collaboration, with proof checks.",
+  "description": "Manages a research collaboration: briefs coding agents, checks their proof, keeps the collaborator hub and review repo current, and stays quiet unless something real happens.",
+  "category": "research",
+  "url": "https://x.ai/bot/7gpN_ZuWCACFjunItHka0",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
+ },
+ {
+  "slug": "plaud-notes",
+  "name": "Plaud Notes",
+  "builder": {
+   "name": "Ryan T",
+   "x": ""
+  },
+  "tagline": "Intake and routing for voice-recorder notes, with a sensitivity gate.",
+  "description": "Classifies, indexes and routes voice-recorder notes using a spreadsheet as the index and a sensitivity gate for personnel, HR and health content. Does not invent a recording list.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/3zqAV0jdsTN4I529IKtya",
+  "source": null,
+  "addedAt": "2026-10-08",
+  "status": "published"
  }
 ]
