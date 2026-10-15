@@ -63746,5 +63746,453 @@
   "url": "https://x.ai/bot/hoxhzntulmux3cxdzlmwp",
   "addedAt": "2026-10-15",
   "status": "published"
+ },
+ {
+  "slug": "trippy",
+  "name": "Trippy",
+  "builder": {
+   "name": "Teslaconomics",
+   "x": ""
+  },
+  "tagline": "Plan a whole trip in one place: stays, restaurants, day plans, flights and car rental.",
+  "description": "A travel teammate that handles a trip in one place: comparing Airbnb, Vrbo and hotel options, picking restaurants, building day plans, finding flights and car rentals, plus ideas for places worth filming. Ask in plain language and get one clear plan back.",
+  "category": "life",
+  "url": "https://x.ai/bot/-UBhEaV5ItDVIPFV-2j8U",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "omarchy-ui-helper",
+  "name": "Omarchy UI Helper",
+  "builder": {
+   "name": "PWN",
+   "x": ""
+  },
+  "tagline": "Runs an Omarchy (Arch plus Hyprland) desktop from chat: opens apps, tiles windows, types and reads the screen.",
+  "description": "Works an Omarchy desktop, the Arch plus Hyprland setup, from chat instead of a mouse: it launches and arranges apps, tiles and resizes windows with a one-step undo, and can click, type and read what is on screen. Written to be patient with newcomers, and works on Omarchy 4.x stable and edge.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/34-oSa3xbDgnKAt8G_nq_",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "reelforge",
+  "name": "ReelForge",
+  "builder": {
+   "name": "Thuong P. Nguyen",
+   "x": "teeRex247"
+  },
+  "tagline": "Turns real trends into TikTok, Reels and Shorts ideas, hooks, scripts and posting plans. You approve everything.",
+  "description": "A content engine for creators and small brands: it grounds ideas in what is actually trending, then writes hooks, scripts, captions, shot lists and a posting plan for TikTok, Reels and Shorts. Nothing is published without your approval first.",
+  "category": "creative",
+  "url": "https://x.ai/bot/BfLelUIFr88x0JLkNwewO",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "watch-assistant",
+  "name": "Watch Assistant",
+  "builder": {
+   "name": "dai",
+   "x": "daisuke"
+  },
+  "tagline": "Watches the X accounts you care about and pings you only when something new actually happens.",
+  "description": "Keeps an eye on X accounts, and anything else you point it at, and only speaks up when there is something new. Made for the case where you want the announcement without refreshing the timeline all day.",
+  "category": "research",
+  "url": "https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "magical-music-video-maker",
+  "name": "Magical Music Video Maker",
+  "builder": {
+   "name": "Michael",
+   "x": "MichaelGannotti"
+  },
+  "tagline": "Send a song and its lyrics, get a cinematic music video cut to the beat with consistent characters.",
+  "description": "Turns a track into a cinematic music video: send the song and its lyrics, and it proposes the look and storyline first, then keeps characters and scenes consistent shot to shot and cuts the edit to the beat.",
+  "category": "creative",
+  "url": "https://x.ai/bot/I_-3solZeQXm-Pn2_C55A",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "tesla-firmware-news",
+  "name": "테슬라 펌웨어 뉴스",
+  "builder": {
+   "name": "Bummo Koo",
+   "x": "gbmksquare"
+  },
+  "tagline": "Tracks Tesla FSD software versions, builds and HW3/HW4 rollouts in Korea, and messages you in Korean only when something changed.",
+  "description": "A watch bot for Tesla FSD software in Korea: it tracks version and build changes and the HW3 versus HW4 rollout, and only messages you, in Korean, when something has actually changed.",
+  "category": "research",
+  "url": "https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "technical-seo",
+  "name": "Technical SEO",
+  "builder": {
+   "name": "Oneleg",
+   "x": ""
+  },
+  "tagline": "Free read-only technical SEO audit of your site, with plain-language fixes and a PDF report.",
+  "description": "Runs a free, read-only technical SEO audit on your business site: it downloads and runs an open-source audit kit on its own computer, then hands back plain-language fixes and a PDF report. It changes nothing on your site.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/P1ijZO3rOe1VeNBcQfEb2",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "collaboration-bot",
+  "name": "Collaboration Bot",
+  "builder": {
+   "name": "realMattAbrams",
+   "x": "realMattAbrams"
+  },
+  "tagline": "Connects your bot team to other people's bot teams on shared projects, with budgets and consent checks.",
+  "description": "Lets your bot team work with other people's bot teams on shared projects through a shared repo, with usage budgets, consent prompts and security checks built in. On its first run it offers to import the skills that set up its onboarding questions.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/SVz86tYbkiggizWQ_9vca",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "emergency-watch",
+  "name": "Emergency Watch",
+  "builder": {
+   "name": "Ondřej Ivan",
+   "x": "ondrejposts"
+  },
+  "tagline": "Flags fires, outages, road closures, police activity and severe weather near the places you choose.",
+  "description": "Watches local emergency sources around the places you pick and flags fires, outages, road closures, police activity and severe weather near you.",
+  "category": "life",
+  "url": "https://x.ai/bot/Si9n5hZAER499milmvMvd",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "pin-bot",
+  "name": "Pin Bot",
+  "builder": {
+   "name": "suddenlyjon",
+   "x": "SuddenlyJon"
+  },
+  "tagline": "Collects the moments worth celebrating: react with a party emoji in any bot and it lands here.",
+  "description": "Collects the things you celebrate: when you react with a party emoji in any bot, that moment is saved here.",
+  "category": "life",
+  "url": "https://x.ai/bot/U2it9uoAiBGz5W_Qf7h81",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "startsy",
+  "name": "Startsy",
+  "builder": {
+   "name": "The Contextian",
+   "x": "The_Contextian"
+  },
+  "tagline": "Finds startup credit programs open to anyone, with no funding, accelerator or referral required.",
+  "description": "Hunts X and the web for startup credits and programs that only need an application: no funding, accelerator or referral required. Built for bootstrapped founders.",
+  "category": "money",
+  "url": "https://x.ai/bot/UFlRrCOYg0CbaGwAzHdtO",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "exam-coach",
+  "name": "Exam Coach",
+  "builder": {
+   "name": "Arunas Zidonis",
+   "x": "ArunasZidonis"
+  },
+  "tagline": "A study coach for any exam: builds your plan, quizzes you daily and reminds you before test day.",
+  "description": "A study coach for any exam: it turns your dates and material into a study plan, quizzes you every day, and reminds you before each exam.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VHerNPFs8KalH1G_u94zx",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "the-algorithm",
+  "name": "The Algorithm",
+  "builder": {
+   "name": "Wayne Lowry",
+   "x": "wikiwayne"
+  },
+  "tagline": "Runs a plan through the five-step algorithm and ends with a deletion scorecard and a GO or NO-GO call.",
+  "description": "A blunt decision coach that puts a plan, process or decision through the five steps Elon Musk describes, in order: question every requirement, delete, simplify, speed up, then automate. It names owners among your people and bots, works from real numbers, learns what you accept, and closes each answer with a deletion scorecard and a GO, NO-GO or GO IF call.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/XilHVHieQQb5Wk1Rvw1Hu",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "fed-path",
+  "name": "Fed Path",
+  "builder": {
+   "name": "Jeremy Mahoney",
+   "x": "Biggs237"
+  },
+  "tagline": "Federal job hunt coach: finds the hiring paths you qualify for and scores USAJOBS postings for fit.",
+  "description": "A coach for federal job hunting in the United States: it maps every hiring path you qualify for, scores USAJOBS postings against your background, checks qualifications honestly, builds federal resumes, and tracks every application.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/YSGfTXPjbAQZuzDoum3KK",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "second-opinion",
+  "name": "Second Opinion",
+  "builder": {
+   "name": "Glen Little",
+   "x": ""
+  },
+  "tagline": "A calm second look at messages, posts, purchases and decisions before you commit.",
+  "description": "A calm second pair of eyes on everyday messages, posts, purchases and decisions: it says what is good, what is worth reconsidering, and suggests a fix, then leaves the call to you. Its advice is grounded in principles from the Bahá'í writings.",
+  "category": "life",
+  "url": "https://x.ai/bot/_UobKTa_U-a7K6MSQrgmL",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "x-api-mcp",
+  "name": "X API MCP",
+  "builder": {
+   "name": "DING WANG",
+   "x": ""
+  },
+  "tagline": "Posts, replies, threads and media on your X accounts through the open-source x-api-mcp server.",
+  "description": "Publishes to your X accounts through the open-source x-api-mcp server and your own X app: posts, replies, threads and media, with every action confirmed by you first.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/_ywDVKoIufUaFJ-zZ7tVJ",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "doc-bot-desk-doctor",
+  "name": "Doc",
+  "builder": {
+   "name": "Teslaconomics",
+   "x": ""
+  },
+  "tagline": "A team doctor for a bot desk: quiet fixes for today's bots and every bot you add later.",
+  "description": "A team doctor for a Grok Bot desk: it looks after the bots you run today and any you add later, ships quiet fixes, reports into your CEO's team meeting, and asks before creating or removing a live bot.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/aoSdq8MXNANLvFhnhLpS2",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "fitness-coach-pro",
+  "name": "Fitness Coach Pro",
+  "builder": {
+   "name": "Jeremy Mahoney",
+   "x": "Biggs237"
+  },
+  "tagline": "Builds a training plan around your goal, your kit and your schedule, then adjusts it from your log.",
+  "description": "A friendly fitness coach that builds a training plan around your goal, the equipment you actually have and the days you can train, adjusts the plan from what you log, and checks in without making you feel bad about a missed week.",
+  "category": "life",
+  "url": "https://x.ai/bot/dDQlyGHOFnYxmE_DJ0XzK",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "xssistant",
+  "name": "Xssistant",
+  "builder": {
+   "name": "Jonah",
+   "x": "ALL_Jonah"
+  },
+  "tagline": "A searchable personal library: send any X post, YouTube video or link and it saves, transcribes and tags it.",
+  "description": "A personal link library: send it an X post, a YouTube video or a website, and it saves, transcribes, tags and files it, so the right reference is there when a new project starts.",
+  "category": "research",
+  "url": "https://x.ai/bot/fObiyZbdETsAwYyS0nTup",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "job-seeking",
+  "name": "Job Seeking",
+  "builder": {
+   "name": "Netrovert",
+   "x": "netrovertHQ"
+  },
+  "tagline": "Job hunt for creators: reads your X for fit, finds roles and drafts pitches in your voice.",
+  "description": "A job-hunting assistant aimed at creators and content people: it reads your X posts to work out which roles fit, finds open roles and freshly funded projects, drafts pitches in your voice, and checks your DMs each morning for replies.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ffCmnFXv1WnxgfgaYB9Rc",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "cra-tax-helper",
+  "name": "CRA Tax Helper",
+  "builder": {
+   "name": "WorldWideVibes",
+   "x": "W0rldwid3vib3s"
+  },
+  "tagline": "Keeps a Canadian CRA tax return organised all year: T4s, side income, receipts and deadlines.",
+  "description": "Helps Canadians get a CRA tax return ready without a year-end scramble: T4s, side-business income, receipts and deadlines stay organised through the year.",
+  "category": "money",
+  "url": "https://x.ai/bot/lrfOm6cAxsGQtO4eRRS8Q",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "simultaneous-sip",
+  "name": "Simultaneous Sip",
+  "builder": {
+   "name": "Dayyán",
+   "x": "dayyanl"
+  },
+  "tagline": "A fan-made guide to Scott Adams on persuasion, success and clear thinking, drawn from his writing and Coffee episodes.",
+  "description": "A fan-made guide to what Scott Adams wrote and said about persuasion, success and seeing the world clearly, drawing on his Coffee episodes and years of posts. Ask about a career move, a headline or a stuck argument and it answers in his style. It is not Scott, it is a reader who studied him for years.",
+  "category": "life",
+  "url": "https://x.ai/bot/n4nUqCt_7SS-e8YjBlewG",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "crossroads",
+  "name": "Crossroads",
+  "builder": {
+   "name": "TREY Gibbons",
+   "x": ""
+  },
+  "tagline": "Lets your bot reach other people's Crossroads bots through your own inbox, with your yes each time.",
+  "description": "Opens a channel between your bot and other people's Crossroads bots through your own AgentMail inbox, with your approval on every action. You can also join the optional public Opt In list so others can find you.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/n5CsjqOHm6yxy00lCBK3T",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "team-slack-watch",
+  "name": "Team Slack Watch",
+  "builder": {
+   "name": "Luke",
+   "x": "groccy1"
+  },
+  "tagline": "Watches your team's Slack channels and pings you only about your crew, your mentions and your DMs.",
+  "description": "Reads your team's Slack channels on a schedule and pings you only about what matters: posts from the people you work with closely, mentions of you, and your DMs. It is read-only and never posts or types as you.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/oDhkgG2h_8Lv1zKqlqm5T",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "estate-helper",
+  "name": "Estate Helper",
+  "builder": {
+   "name": "Jeremy Mahoney",
+   "x": "Biggs237"
+  },
+  "tagline": "Walks a family through everything after a loss, and helps you plan ahead so nobody is left scrambling.",
+  "description": "Helps families handle what comes after a loss, from the funeral and paperwork to accounts, benefits and probate, one step at a time. It can also help you plan ahead so your family is not left working it out from scratch.",
+  "category": "life",
+  "url": "https://x.ai/bot/pwoUgzm6dJenHVTFVZwtl",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "ai-context-skills-hub",
+  "name": "AI Context & Skills Hub",
+  "builder": {
+   "name": "romeo diaz",
+   "x": ""
+  },
+  "tagline": "Sets up a shared context and skills hub in Notion so Grok Bot, Claude and ChatGPT work from the same brief.",
+  "description": "Sets up a shared context and skills hub in Notion so Grok Bot, Claude and ChatGPT draw on the same background and skills, routes work to Claude and GPT through your own plans, and installs a set of working rules it calls Owner Mode.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/rAhhI5cD__CnejfWqf3wH",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "data-broker-removal",
+  "name": "Data broker removal",
+  "builder": {
+   "name": "Nathalie Vaiser",
+   "x": ""
+  },
+  "tagline": "Free opt-outs that take you off the US people-search and data-broker listing sites.",
+  "description": "Walks you through removing yourself, or someone you have permission to help, from United States people-search and data-broker listing sites using free opt-outs only, with no paid removal products. Its first run downloads its companion files and needs you to accept Eraser and Firefox ESR on the bot's own computer.",
+  "category": "life",
+  "url": "https://x.ai/bot/u0gQYeIqQCAW2n96pqBvi",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "qualification-coach",
+  "name": "Qualification Coach",
+  "builder": {
+   "name": "Arunas Zidonis",
+   "x": "ArunasZidonis"
+  },
+  "tagline": "A daily lesson coach for vocational qualifications like NVQ, City and Guilds, or apprenticeships.",
+  "description": "A daily coach for vocational qualifications in any trade or country, including NVQ, City and Guilds and apprenticeships: one short lesson a day, answer checks, and help building the portfolio evidence.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ulaxnHIZLneDmUszBpoIA",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "documentary-filmmaker",
+  "name": "Documentary Filmmaker",
+  "builder": {
+   "name": "Napoleon Bonaparte",
+   "x": "Napoleon__Bon"
+  },
+  "tagline": "Turns a real subject into a short documentary: research, script, narration, music and a finished 1080p cut.",
+  "description": "Turns any real subject into a short cinematic documentary end to end: research, script, storyboard, narration and music, then a finished 1080p MP4 assembled from real official footage it finds itself.",
+  "category": "creative",
+  "url": "https://x.ai/bot/vAy6K29DQMJJAlXbn_VmH",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "spanishreviewer",
+  "name": "SpanishReviewer",
+  "builder": {
+   "name": "Carolina Dill",
+   "x": "CarolinaDill"
+  },
+  "tagline": "Checks Spanish copy for natural Colombian Spanish and returns Pass or Fail with paste-ready fixes.",
+  "description": "Reviews Spanish copy such as lessons, posts, handouts and app text for natural Colombian Spanish, and returns a Pass or Fail verdict with paste-ready fixes. It never publishes or posts anything.",
+  "category": "creative",
+  "url": "https://x.ai/bot/wFJC3guVIn2Ke-OV9_Yuy",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "homeschool-planner",
+  "name": "Homeschool Planner",
+  "builder": {
+   "name": "Nux",
+   "x": "vominux"
+  },
+  "tagline": "Plans the homeschool week per child and makes original print-ready worksheets with answer keys.",
+  "description": "Plans a homeschool week for each child and makes original print-ready worksheets with answer keys, runs a Sunday planning session and a Friday review, keeps an exportable progress log, and points to real free resources. You choose the curriculum, it does the organising.",
+  "category": "life",
+  "url": "https://x.ai/bot/yg8OPH2uwTu7u5Wwh9C7k",
+  "addedAt": "2026-10-15",
+  "status": "published"
+ },
+ {
+  "slug": "super-intelligence-bot",
+  "name": "Super Intelligence Bot",
+  "builder": {
+   "name": "Danny Buck",
+   "x": "dannybuck"
+  },
+  "tagline": "A QA checker for your bot team: work is checked for maths, risks and compliance before it ships.",
+  "description": "A quality gate for a bot team: your other bots send their work here before it goes out, and it checks the maths, the risks and the compliance, then sends fixes back until the work holds up.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/zVgZS00x5Z8LDDwsAMKl_",
+  "addedAt": "2026-10-15",
+  "status": "published"
  }
 ]
