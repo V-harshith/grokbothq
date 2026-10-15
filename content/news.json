@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-14",
+    "title": "Grok Voice 3.0 tops the speech-to-speech index, same API price",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/grok-voice-3",
+    "summary": "SpaceXSI released Grok Voice 3.0, a speech-to-speech model that ranks first on Artificial Analysis's Speech-to-Speech Index at 86.9, handles interruptions well and answers in under a second on average. It is available in the Voice Agent API at the same $0.08 a minute as the previous version, and agents already pointed at grok-voice-latest were switched over automatically."
+  },
+  {
+    "date": "2026-10-12",
+    "title": "The X Subscription bundles Grok, Grok Bot, Cursor and X Premium",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/x-subscription",
+    "summary": "SpaceXSI put Grok, Grok Bot, Cursor and X Premium on one subscription, priced from $8 to $200 a month, with a single shared pool of Grok model usage across Grok and Cursor. Existing SuperGrok, Cursor and X Premium subscribers can keep their plan or switch and get a prorated refund."
+  },
+  {
     "date": "2026-09-28",
     "title": "Team Bots: AI coworkers that learn from your team",
     "source": "xAI",
@@ -89,19 +103,5 @@
     "source": "Kingy AI",
     "url": "https://kingy.ai/blog/grok-bot-vs-grok-automations-vs-grok-build/",
     "summary": "A comparison of xAI's three builder surfaces: autonomous bots, scheduled automations, and the free low-code Grok Build tool."
-  },
-  {
-    "date": "2026-08-29",
-    "title": "Grok Bot now works with X",
-    "source": "xAI",
-    "url": "https://x.ai/news/grok-bot-and-x",
-    "summary": "Bots can now plug into X directly, reading posts and acting inside the platform where most of the ecosystem's builders already live. Paid Grok Bot users get free X API credits to start, plus an X plugin for search, timelines, and bookmarks."
-  },
-  {
-    "date": "2026-08-26",
-    "title": "Grok Bot is now included with more plans",
-    "source": "xAI",
-    "url": "https://x.ai/news/grok-bot-more-plans",
-    "summary": "Grok Bot expanded beyond the top tiers to all SuperGrok, Cursor Pro, and Cursor Teams plans. Bot usage is separate from Grok and Cursor allowances, so delegated work no longer eats a subscriber's main quota."
   }
 ]
