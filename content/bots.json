@@ -66900,5 +66900,65 @@
   "source": "https://x.com/McLeodAgency/status/2111064696027545894",
   "addedAt": "2026-10-16",
   "status": "published"
+ },
+ {
+  "slug": "sales-lite-free",
+  "name": "Sales Lite (free)",
+  "builder": {
+   "name": "Alfie Peter",
+   "x": "MisterTenacity"
+  },
+  "tagline": "Sorts new sales mail and drafts the reply, leaving the sending to you.",
+  "description": "Watches a Gmail or Outlook inbox for new sales enquiries, sorts each one, and drafts a first reply or a request for the details that are missing. It does not send anything on its own and it will not invent a price.",
+  "category": "sales",
+  "url": "https://x.ai/bot/Yj0ZJjwtgrIHH1bWoUcqs",
+  "source": "https://botsdots.site/templates/sales-lite-free-yj0zj",
+  "addedAt": "2026-10-17",
+  "status": "published"
+ },
+ {
+  "slug": "hermes-adversary",
+  "name": "Hermes Adversary",
+  "builder": {
+   "name": "Shagghie",
+   "x": "PixelRainbowNFT"
+  },
+  "tagline": "Adversarial code review run by a second model on your own machine.",
+  "description": "Runs an adversarial review over code, plans or a review pipeline, with the reviewer living on your own Hermes agent instead of the model that wrote the work. Grok Bot packages the context and the test plan, the reviewer works without seeing the author's reasoning, and every finding has to come from a real run or a named line.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw",
+  "source": "https://x.com/PixelRainbowNFT/status/2111186167160832310",
+  "addedAt": "2026-10-17",
+  "status": "published"
+ },
+ {
+  "slug": "outbound-prospecting-x-scout",
+  "name": "Outbound Prospecting + X Scout",
+  "builder": {
+   "name": "Shagghie Superstar",
+   "x": "PixelRainbowNFT"
+  },
+  "tagline": "Sourced prospect lists, first drafts, and a twice-daily scan of X for buyers.",
+  "description": "Builds a list of people worth selling to where every name carries a source, researches each one, and drafts your opening message. Twice a day it also reads X for people describing the problem your product solves, and it keeps an eye on the rules when you sell into a regulated market.",
+  "category": "sales",
+  "url": "https://x.ai/bot/-hT6V7gjHV5lynfbviqf4",
+  "source": "https://pixelrainbow.ai/",
+  "addedAt": "2026-10-17",
+  "status": "published"
+ },
+ {
+  "slug": "commander-s-intent",
+  "name": "Commander's Intent",
+  "builder": {
+   "name": "Shagghie Superstar",
+   "x": "PixelRainbowNFT"
+  },
+  "tagline": "Writes one shared plan your whole agent fleet can read, then keeps it current.",
+  "description": "A chief-of-staff bot for a fleet of agents. It interviews you about what you are trying to achieve, writes that down as a single plan every agent can read, then sets itself up step by step and asks before anything risky.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/0QOzV3XYLmzbu_WJQYOby",
+  "source": "https://github.com/shagghiesuperstar/commanders-intent",
+  "addedAt": "2026-10-17",
+  "status": "published"
  }
 ]
