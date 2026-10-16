@@ -64837,5 +64837,343 @@
   "source": "https://x.com/crisships/status/2110737372728139904",
   "addedAt": "2026-10-16",
   "status": "published"
+ },
+ {
+  "slug": "thrift-bot",
+  "name": "thrift-bot",
+  "builder": {
+   "name": "Callam Williams",
+   "x": ""
+  },
+  "tagline": "Photograph anything you’re clearing out: it checks resale prices and says sell, donate or bin.",
+  "description": "Send a photo of whatever you’re clearing out and it checks current resale prices, then tells you whether the item is worth selling, giving away or binning.",
+  "category": "creative",
+  "url": "https://x.ai/bot/0lbrUuAvdnoE4kMX-AfO1",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "token-cop-andres",
+  "name": "Token Cop",
+  "builder": {
+   "name": "Andres Ruggiero",
+   "x": ""
+  },
+  "tagline": "Audits where your bots and agents waste tokens, then hands you paste-ready instruction fixes.",
+  "description": "Audits where your bots and AI agents burn tokens and where the spend goes to waste, recommends the cuts, and writes the instruction changes for you to approve and paste in.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/7pmBFxpIJBiku06mC3E0b",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "spam-call-block",
+  "name": "spam Call Block",
+  "builder": {
+   "name": "Benedict Strafuss",
+   "x": ""
+  },
+  "tagline": "Cuts spam and robocalls with phone and carrier fixes, and logs the numbers that still get through.",
+  "description": "Walks you through blocking spam and robocalls on a cell or landline, applying the settings on your phone and with your carrier, and keeps a running list of the numbers that still get through.",
+  "category": "life",
+  "url": "https://x.ai/bot/VDhByQ1Yroy3ZkbeQLK3L",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "spam-shield",
+  "name": "Spam Shield",
+  "builder": {
+   "name": "Andres Ruggiero",
+   "x": ""
+  },
+  "tagline": "Takes your number off people-search and data-broker sites, then re-checks every opt-out.",
+  "description": "Cuts spam calls and texts by taking your phone number off people-search sites and data brokers, switching on the free protections available to you, tracking every opt-out and re-checking monthly.",
+  "category": "life",
+  "url": "https://x.ai/bot/_BjVLw215sQaMRwjiHx7l",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "spam-call-scrubber",
+  "name": "Spam-Call Scrubber",
+  "builder": {
+   "name": "Arash Malek",
+   "x": ""
+  },
+  "tagline": "Finds your number on data-broker sites, files the opt-outs and finishes the confirmations.",
+  "description": "Finds your phone number on people-search sites and data brokers, submits the removal requests, completes the email confirmations, and re-checks on whatever schedule you choose. It asks only for the minimum details it needs.",
+  "category": "life",
+  "url": "https://x.ai/bot/fUj6TYhiW_cjtzWvbsFgz",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "speedy",
+  "name": "Speedy",
+  "builder": {
+   "name": "דניאל מור",
+   "x": ""
+  },
+  "tagline": "Takes the call, waits on hold, and pings you only when a human picks up.",
+  "description": "Places the call for you through Speedy AI, works through the phone tree to a representative, waits on hold and notifies you only once someone answers. Because it runs many calls in parallel, you can compare every bank, pension fund, IRA provider or insurer instead of the two or three you would have time for.",
+  "category": "life",
+  "url": "https://x.ai/bot/Smm7grgQ2s0Cv9xqDOqD4",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "starlink-flights",
+  "name": "Starlink Flights",
+  "builder": {
+   "name": "Naoufal El hassnaoui",
+   "x": ""
+  },
+  "tagline": "Finds flights confirmed to carry Starlink Wi-Fi, with the proof link, and rechecks before takeoff.",
+  "description": "Finds flights that are confirmed, with a link to each confirmation, to have Starlink Wi-Fi onboard and drops anything that is only likely, then re-checks your aircraft before departure. It never books without your yes.",
+  "category": "life",
+  "url": "https://x.ai/bot/ChRqh1qs7aS87bsjva7B9",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "starlink-scout",
+  "name": "Starlink Scout",
+  "builder": {
+   "name": "DJ",
+   "x": ""
+  },
+  "tagline": "United flights with free Starlink Wi-Fi, confirmed on the tracker three days out.",
+  "description": "Finds United flights that offer free Starlink Wi-Fi, confirms each one against United’s own tracker three days before departure, and alerts you if your plane changes.",
+  "category": "research",
+  "url": "https://x.ai/bot/nCmF4qR0936pN-fTmDTKG",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "surf-spot-finder",
+  "name": "Surf Spot Finder",
+  "builder": {
+   "name": "Gauthier",
+   "x": ""
+  },
+  "tagline": "Watches the surf forecast near you and pings only when the waves match what you ride.",
+  "description": "Tracks the surf forecast for spots near you and stays quiet until the waves match the size, break and wind you actually want.",
+  "category": "life",
+  "url": "https://x.ai/bot/G0dOrGuGSFDbQCT7xja6p",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "tech-team-draft",
+  "name": "Tech Team Draft",
+  "builder": {
+   "name": "Kuten26",
+   "x": ""
+  },
+  "tagline": "Draft a fantasy team of SpaceX and xAI builders, with a Sunday recap of their posts.",
+  "description": "Lets you draft a fantasy-style team of SpaceX and xAI builders on X, then sends a weekly Sunday recap of their top public posts plus ideas for what your own team is working on. Read-only: it never posts.",
+  "category": "creative",
+  "url": "https://x.ai/bot/ZS8mqV7WmcAaVWLdj9A1E",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "techengineer",
+  "name": "TechEngineer",
+  "builder": {
+   "name": "Jaime Hernandez",
+   "x": ""
+  },
+  "tagline": "Home device and network engineer for your Macs, PCs, servers and router, with backups.",
+  "description": "A home device and network engineer that sets up, fixes and keeps watch over your Macs, PCs, home servers and network, making careful backed-up changes and reporting back in plain language.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/pV3U5IH5zdzaP7u375-Vv",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "top-bot",
+  "name": "TOP Bot",
+  "builder": {
+   "name": "Christopher Banks",
+   "x": ""
+  },
+  "tagline": "Pulls TOP’s daily picks for One Play Foundry members and builds parlays on request.",
+  "description": "A perk for The One Play Foundry members: it pulls TOP’s daily picks, builds combos when you want them, and places them on your own Kalshi account within the limits you set.",
+  "category": "money",
+  "url": "https://x.ai/bot/XKA3v6H8McqglTUxwmMFx",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "trend-scout-for-x",
+  "name": "Trend Scout for X",
+  "builder": {
+   "name": "Ashley Schendel",
+   "x": ""
+  },
+  "tagline": "Fresh X stories ranked by what is likely to do well, with angles and reply targets.",
+  "description": "Finds fresh X trending stories that fit your interests, ranked by how likely they are to do well, with tappable links, angles to take and reply targets, so you can write your own posts quickly.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Q6YX1p5zlhRZZjEmDYfzA",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "unclaimed-property-miner",
+  "name": "Unclaimed Property Miner",
+  "builder": {
+   "name": "Mike",
+   "x": ""
+  },
+  "tagline": "Checks a state’s official unclaimed property site for money waiting under a name.",
+  "description": "Give it a person’s name and a US state and it searches that state’s official unclaimed property site for money waiting for them. Search only: it never files claims and never enters personal details.",
+  "category": "money",
+  "url": "https://x.ai/bot/X3qkXCOhFoMdk7bXGza2D",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "urgenta",
+  "name": "Urgenta",
+  "builder": {
+   "name": "Shai Beneli",
+   "x": ""
+  },
+  "tagline": "Runs an emergency protocol for ops teams, watching Slack and email for anything down.",
+  "description": "Runs an emergency protocol for operations teams: it watches Slack and email for anything down or any part needed, gets the emergency owner moving the same day, and follows up twice a day until the issue is closed.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/y7DRih96Sk_Y6qHddWfID",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "va-loan-buddy",
+  "name": "VA Loan Buddy",
+  "builder": {
+   "name": "Jason Rogers",
+   "x": ""
+  },
+  "tagline": "Plain VA home-loan answers on eligibility, entitlement, $0-down buying and PCS moves.",
+  "description": "Straight answers on VA home loans for military and frontline families: eligibility, entitlement, $0-down buying, funding-fee exemptions, PCS moves and what pre-approval really takes. Education only, with no rate quotes and no sales pitch.",
+  "category": "money",
+  "url": "https://x.ai/bot/WlQGkd6kQL-YfIbiAlJMQ",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "x-post-review",
+  "name": "X Post Review",
+  "builder": {
+   "name": "Nate Lorenzen",
+   "x": ""
+  },
+  "tagline": "A Monday review of your X originals and quotes against your own baseline.",
+  "description": "Connects to your X account and every Monday reviews your originals and quote posts against your own baseline, reporting winners, flops and patterns plus five hooks written in your voice. Read-only by default.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/6MIilvSwyCdiqDqf3Rq-w",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "x-reply-radar-darragh",
+  "name": "X Reply Radar",
+  "builder": {
+   "name": "Darragh Griffin",
+   "x": ""
+  },
+  "tagline": "Finds fresh, high-reach X posts worth replying to while they are still early.",
+  "description": "Finds fresh, high-reach X posts in your niche that are worth replying to while they are still early. You write every reply yourself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/KUxvnYtq7rPe_XuQUHv2n",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "x-reply-tierlist",
+  "name": "X Reply Tierlist",
+  "builder": {
+   "name": "Lost 🎯",
+   "x": ""
+  },
+  "tagline": "Ranks the accounts you reply to most as a shareable S to F tierlist image.",
+  "description": "Reads the replies from your own X account and ranks the accounts you reply to most in an S-to-F tierlist, dark or light, rendered as a square image. Free, with no X login: download it and share it on X.",
+  "category": "creative",
+  "url": "https://x.ai/bot/O8-q9XMEFVFwKnSTXrkcu",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "yahoo-fantasy-football-manager",
+  "name": "Yahoo Fantasy Football Manager",
+  "builder": {
+   "name": "Benjamin",
+   "x": ""
+  },
+  "tagline": "Runs your season-long Yahoo fantasy team: lineups, waivers, trades, injury alerts.",
+  "description": "Runs a season-long Yahoo, or other, fantasy football team: lineups before lock, waiver claims, trades, injury and bye alerts, and a weekly recap of how the week went.",
+  "category": "life",
+  "url": "https://x.ai/bot/vccehLvOv7lgoUXGY2hkf",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "resume-optimizer-tailor-resume-to-job",
+  "name": "Resume Optimizer: Tailor Resume to Job",
+  "builder": {
+   "name": "GrokBotGod",
+   "x": ""
+  },
+  "tagline": "Tailors your resume to a job post and lists the gaps, without inventing anything.",
+  "description": "Tailors your resume to a job post you paste in and returns a list of gaps to fill. It never invents experience, skills, dates, titles or numbers.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/rEba1S2MuOrKRmLRbEflv",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "side-hustle-ceo",
+  "name": "Side Hustle CEO",
+  "builder": {
+   "name": "Alex Finn",
+   "x": "AlexFinn"
+  },
+  "tagline": "Finds, builds and runs a small website business for you, from idea to sponsors.",
+  "description": "An autonomous CEO for a small website business: it asks two quick questions, pitches three researched ideas and then builds and runs the one you pick, in the shape of a directory or tracker with a newsletter and sponsors.",
+  "category": "money",
+  "url": "https://x.ai/bot/f5EvPVrHkyTX3piZyVmXO",
+  "source": "https://x.com/AlexFinn/status/2110851435223285909",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "launchbot",
+  "name": "LaunchBot",
+  "builder": {
+   "name": "Paul Vann",
+   "x": "pjvann"
+  },
+  "tagline": "An AI launch copilot for X: sharpens the launch post, then tracks it live.",
+  "description": "Helps founders plan and run a product launch on X. It studies similar launches and what worked for them, reviews your video, images, site and copy before you post, then tracks engagement, replies and mentions and drafts replies for your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/b3yeJkrslF4MWu1LUuyTE",
+  "source": "https://x.com/pjvann/status/2105353400892227884",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "x-launch-traction",
+  "name": "X Launch Traction",
+  "builder": {
+   "name": "Paul Vann",
+   "x": ""
+  },
+  "tagline": "Turns your X account into a launch channel, then tracks how far the app gets.",
+  "description": "Helps developers building on X get likes, replies and lasting visibility for their app on the X Developer Exhibit: it reads your X account, drafts or fixes your listing, plans the launch post against the open-source X algorithm, and tracks progress over time.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/xwPfdDTwD2kUVJZK8hcy6",
+  "addedAt": "2026-10-16",
+  "status": "published"
  }
 ]
