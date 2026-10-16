@@ -66690,5 +66690,215 @@
   "source": "https://x.com/archor_wright/status/2110981360558985377",
   "addedAt": "2026-10-16",
   "status": "published"
+ },
+ {
+  "slug": "ai-output-guard",
+  "name": "AI Output Guard",
+  "builder": {
+   "name": "Alex Suarez",
+   "x": "__nightmoose__"
+  },
+  "tagline": "Checks what your bots hand to other systems and repairs the breaks it can.",
+  "description": "Sits between your bots and whatever consumes their output: it checks what they and your prompts produce against a contract with AISchemaGate, repairs what it can, and explains failures in plain words. Made for pipelines where one malformed payload breaks the next step. Free tier works.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/7wSIwep9R-eedkBMse1gd",
+  "source": "https://x.com/__nightmoose__/status/2111058830725460304",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "bitcoin-study-bot",
+  "name": "Bitcoin Study Bot",
+  "builder": {
+   "name": "₿eevo",
+   "x": ""
+  },
+  "tagline": "A no-hype Bitcoin tutor: a 30-day path from UTXOs to consensus, plus a Friday quiz.",
+  "description": "Teaches Bitcoin without hype: a 30-day path that runs from UTXOs to consensus, a daily fact with a diagram, and a Friday quiz that re-asks the parts you missed.",
+  "category": "money",
+  "url": "https://x.ai/bot/ARSWHiJwzVBk1GD7wJub8",
+  "source": "https://botsdots.site/templates/bitcoin-study-bot",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "gtd",
+  "name": "GTD",
+  "builder": {
+   "name": "Luis Sanchez",
+   "x": "MrSanders"
+  },
+  "tagline": "A Getting Things Done coach that keeps your Notion projects moving.",
+  "description": "Runs Getting Things Done as a routine rather than a system you have to open: it checks your Notion projects daily, pushes the next action on each one, and keeps the review cadence going.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Gi8PhZvWF0rVz9CjsTkd7",
+  "source": "https://x.com/MrSanders/status/2111038438267031840",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "price-drop-watcher",
+  "name": "Price Drop Watcher",
+  "builder": {
+   "name": "Jeffrey S. McLeod",
+   "x": "McLeodAgency"
+  },
+  "tagline": "Watches your wish list and pings you the moment a price hits bottom.",
+  "description": "Paste the links to things you want and it checks their prices every morning, then pings you when one drops. It never buys anything on its own.",
+  "category": "money",
+  "url": "https://x.ai/bot/KH_TTr8G_2B0KbOwptR8k",
+  "source": "https://x.com/McLeodAgency/status/2111064799580737800",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "data-contract-guard",
+  "name": "Data Contract Guard",
+  "builder": {
+   "name": "Alex Suarez",
+   "x": "__nightmoose__"
+  },
+  "tagline": "Drafts a data contract from one good file, then explains the rows it quarantines.",
+  "description": "Drop in a sample CSV and it writes the contract that file implies, validates later files and feeds against it, and explains every row it quarantines in plain English. Runs on DataContractGate's free tier.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/Kjoz94o-27PM_NgvcPntn",
+  "source": "https://x.com/__nightmoose__/status/2111059180182208572",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "live-bot-map",
+  "name": "Live Bot Map",
+  "builder": {
+   "name": "Kyle",
+   "x": "kylekane"
+  },
+  "tagline": "Draws your whole bot roster as a live map of who is working on what.",
+  "description": "Builds an animated web map of all your Grok Bots that shows which ones are busy and what they are on, so you can read the whole roster at a glance instead of opening them one by one.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc",
+  "source": "https://x.com/kylekane/status/2111059933332389962",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "ai-price-watch",
+  "name": "AI Price Watch",
+  "builder": {
+   "name": "Jeffrey S. McLeod",
+   "x": "McLeodAgency"
+  },
+  "tagline": "A weekly audit of your AI bill that flags cheaper tiers and links official pricing.",
+  "description": "Tracks what you pay for AI models and tools, re-checks the plans weekly, and comes back with cheaper tiers and links to the official price pages so you can verify each one yourself.",
+  "category": "money",
+  "url": "https://x.ai/bot/LVV6rcMxNBUKHPX5QFKP-",
+  "source": "https://x.com/McLeodAgency/status/2111064883630346743",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "crypto-wallet-safety-checker",
+  "name": "Crypto Wallet Safety Checker",
+  "builder": {
+   "name": "James Rule XRP",
+   "x": "allthemoney"
+  },
+  "tagline": "A second look at a wallet address, token page or airdrop before you act.",
+  "description": "Checks wallet addresses, links, tokens and airdrops for scam and safety signals before you interact with them, and gives you a plain second opinion on what it finds.",
+  "category": "money",
+  "url": "https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO",
+  "source": "https://x.com/allthemoney/status/2111049921742983559",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "tesbots-rollout-watch",
+  "name": "TesBots: Rollout Watch",
+  "builder": {
+   "name": "TimDOES",
+   "x": "TimDOES"
+  },
+  "tagline": "Pings you when a Tesla software or FSD release reaches cars like yours.",
+  "description": "Remembers your exact Tesla and is designed to tell you when a new software or FSD (Supervised) release, or a feature you are waiting for, is reported for your build.",
+  "category": "life",
+  "url": "https://x.ai/bot/N_k8kqsKv0RH4Ud0kv1g_",
+  "source": "https://grokbot.dev/marketplace/tesbots-rollout-watch/",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "morning-brief-mcleod",
+  "name": "Morning Brief",
+  "builder": {
+   "name": "Jeffrey S. McLeod",
+   "x": "McLeodAgency"
+  },
+  "tagline": "One two-minute read at sunrise: weather, schedule, your news, holdings and X buzz.",
+  "description": "A single morning read that gathers your weather, today's calendar, the news topics you follow, your holdings and what is trending on X, in something you can finish in two minutes.",
+  "category": "life",
+  "url": "https://x.ai/bot/UUnYvoOqa9yVwMoWcLhIy",
+  "source": "https://x.com/McLeodAgency/status/2111064178966548712",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "voice-desk",
+  "name": "Voice Desk",
+  "builder": {
+   "name": "Tony Thomas",
+   "x": "TONYThomasin"
+  },
+  "tagline": "A phone and iMessage desk for your bot, built on Photon beta and ElevenLabs.",
+  "description": "Takes calls and text messages for your bot, sorts them, and passes on only the ones that need a human decision. Built on Photon beta and ElevenLabs.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/cd_KhCL3Qf0WhODyf4doV",
+  "source": "https://botsdots.site/templates/voice-desk",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "business-legal-prep-desk",
+  "name": "Business Legal Prep Desk",
+  "builder": {
+   "name": "John",
+   "x": "iamtheh0n3yp0t"
+  },
+  "tagline": "Cited legal research and document prep for Maryland and Florida businesses.",
+  "description": "Does cited, dated legal research and drafts the paperwork for small-business owners in Maryland and Florida, aiming to get the documents ready before a lawyer has to sign off. It is not a lawyer and not legal advice.",
+  "category": "research",
+  "url": "https://x.ai/bot/rtfT8mnlp-69m6N4x56tA",
+  "source": "https://x.com/iamtheh0n3yp0t/status/2110927886404215287",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "grok-bot-video-studio",
+  "name": "Grok Bot Video Studio",
+  "builder": {
+   "name": "Michael",
+   "x": ""
+  },
+  "tagline": "An end-to-end video studio on Grok Imagine: explainers, shorts and music videos.",
+  "description": "Produces video on Grok Imagine end to end: cited explainers, presenter shorts, multi-shot stories whose characters stay consistent, and music videos.",
+  "category": "creative",
+  "url": "https://x.ai/bot/wVv54dUKjA2MYaq1XMCzN",
+  "source": "https://botsdots.site/templates/grok-bot-video-studio",
+  "addedAt": "2026-10-16",
+  "status": "published"
+ },
+ {
+  "slug": "meal-planner",
+  "name": "Meal Planner",
+  "builder": {
+   "name": "Jeffrey S. McLeod",
+   "x": "McLeodAgency"
+  },
+  "tagline": "Plans a week of dinners for your household and hands you an aisle-ordered list.",
+  "description": "Plans a week of dinners that fit your household and your budget, gives you the grocery list sorted by aisle, and swaps any night when you send it one message.",
+  "category": "life",
+  "url": "https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49",
+  "source": "https://x.com/McLeodAgency/status/2111064696027545894",
+  "addedAt": "2026-10-16",
+  "status": "published"
  }
 ]
