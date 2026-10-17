@@ -19750,7 +19750,7 @@
   "category": "money",
   "url": "https://x.ai/bot/5iQI6yBxiNFVwOQnS71xa",
   "addedAt": "2026-09-21",
-  "status": "published"
+  "status": "pending"
  },
  {
   "slug": "claim-ontology-desk",
@@ -34943,7 +34943,8 @@
   "slug": "bill-watch",
   "name": "Bill Watch",
   "builder": {
-   "name": "Dennis W"
+   "name": "Dennis W",
+   "x": ""
   },
   "tagline": "Sweeps your email for charges you forgot and returns a Keep, Cut or Check list.",
   "description": "A read-only money sweep across your inbox. It looks for recurring charges, trials about to convert, unused subscriptions and credits left sitting, then hands back a ledger sorted into keep, cut and check. It does not cancel or change anything itself.",
@@ -34957,7 +34958,8 @@
   "slug": "quartermaster",
   "name": "Quartermaster",
   "builder": {
-   "name": "James"
+   "name": "James",
+   "x": ""
   },
   "tagline": "Keeps a household budget in a sheet and reports which card earns most.",
   "description": "A household budget and credit card assistant. It runs a zero-sum budget in Google Sheets, sends a daily finance report with an HTML dashboard, and works out which of your cards earns the most on each purchase. The budget itself stays in the sheet you control.",
@@ -34986,7 +34988,8 @@
   "slug": "find-good-stocks",
   "name": "Find Good Stocks",
   "builder": {
-   "name": "chen byte"
+   "name": "chen byte",
+   "x": ""
   },
   "tagline": "Stress-tests a stock thesis against public information, in Chinese.",
   "description": "A Chinese-language research partner for equity ideas. Give it an investment thesis and it sorts the public evidence into supports it, weakens it, or tells you nothing new, with weekly tracking of catalysts and segment data. It states plainly that it gives no buy or sell advice.",
@@ -35000,7 +35003,8 @@
   "slug": "provenance",
   "name": "Provenance",
   "builder": {
-   "name": "riesling29"
+   "name": "riesling29",
+   "x": ""
   },
   "tagline": "Mines event logs for process bottlenecks and separates fact from inference.",
   "description": "A process analyst for event logs. It maps how work actually flows, checks how closely that matches the intended process, points at the bottlenecks, and helps connect the log sources behind the numbers. What it saw in the data is labelled separately from what it is inferring.",
@@ -35014,7 +35018,8 @@
   "slug": "ho-be-gone",
   "name": "Ho Be Gone",
   "builder": {
-   "name": "Jay GPE"
+   "name": "Jay GPE",
+   "x": ""
   },
   "tagline": "Blocks scam and spam accounts around your X follows, with a daily undo list.",
   "description": "Account hygiene for X. It blocks scam, impersonator and spam accounts among your followers and the accounts that interact with you, learns from the corrections you make, and sends a short daily list you can undo with one reply.",
@@ -35043,7 +35048,8 @@
   "slug": "lyric-guard",
   "name": "Lyric Guard",
   "builder": {
-   "name": "Jerrod Gamotan"
+   "name": "Jerrod Gamotan",
+   "x": ""
   },
   "tagline": "Checks a song's lyrics against scripture and cites the lines it judges.",
   "description": "A discernment tool for Christian listeners. Send a title and artist, a link, or an audio file and it fetches the lyrics, rates them 1 to 10 for how risky they are to listen to on repeat, and quotes the lines behind the rating. It will not invent lyrics it cannot find.",
@@ -35117,7 +35123,8 @@
   "slug": "greenlight",
   "name": "Greenlight",
   "builder": {
-   "name": "Stephan Joseph"
+   "name": "Stephan Joseph",
+   "x": ""
   },
   "tagline": "Pre-checks Mac App Store, Setapp and Chrome Web Store builds.",
   "description": "A pre-submission gate for app stores. It runs through a Mac App Store, Setapp and Chrome Web Store build before upload and flags the usual rejection causes up front, so review cycles go to shipping instead of rework.",
@@ -35146,7 +35153,8 @@
   "slug": "moraeu-okane-navigator",
   "name": "もらえるお金ナビゲーター",
   "builder": {
-   "name": "寛人 黒田"
+   "name": "寛人 黒田",
+   "x": ""
   },
   "tagline": "Japanese-language assistant for the benefits and refunds you never claimed.",
   "description": "A Japanese-language money bot. It checks official pages for public benefits, missed insurance claims, dormant money, overpayments and deductions that only get paid if you ask, then returns a list of what to do and what to ask. It stops at finding what is owed and does not file applications.",
@@ -35160,7 +35168,8 @@
   "slug": "promptsmith-bot",
   "name": "PromptsmithBot",
   "builder": {
-   "name": "cokeandrice.akita.algo"
+   "name": "cokeandrice.akita.algo",
+   "x": ""
   },
   "tagline": "Writes paste-ready prompts, asking only the questions that matter.",
   "description": "A prompt-writing assistant. It interviews you about the task, asks only what changes the answer, and hands back a prompt you can paste straight in. It can also re-check Anthropic's published prompting guides weekly and report what changed.",
@@ -35256,7 +35265,8 @@
   "slug": "add-gate",
   "name": "Add-Gate",
   "builder": {
-   "name": "Obsidian Asset"
+   "name": "Obsidian Asset",
+   "x": ""
   },
   "tagline": "A pre-install gate for third-party Grok Bot templates.",
   "description": "Reviews a third-party template preview before it goes near your workspace and returns one of three verdicts: add it, add it with narrow limits, or skip it. It refuses to add templates or install plugins itself.",
@@ -35269,7 +35279,8 @@
   "slug": "ask-avery",
   "name": "Ask Avery",
   "builder": {
-   "name": "Andreas Gerlach"
+   "name": "Andreas Gerlach",
+   "x": ""
   },
   "tagline": "Convenes a panel of expert reviewers and returns one answer.",
   "description": "An ask-the-expert orchestrator for engineering teams. It matches your question against a screening corpus, dispatches several domain experts in parallel as consultants or reviewers, and merges their replies into a single synthesised answer. It advises, it does not implement.",
@@ -35282,7 +35293,8 @@
   "slug": "bot-ops-monitor",
   "name": "Bot Ops Monitor",
   "builder": {
-   "name": "Right Wing Inkorporated"
+   "name": "Right Wing Inkorporated",
+   "x": ""
   },
   "tagline": "Watches your other bots and nudges the ones that stall.",
   "description": "Keeps an eye on your other Grok Bots and their scheduled jobs, catches failed or stalled work, nudges the owning bot to resume from its checkpoint, and flags tokens spent on nothing. Built for people running several bots who do not want to babysit them.",
@@ -35295,7 +35307,8 @@
   "slug": "bedtime-stories",
   "name": "Bedtime Stories",
   "builder": {
-   "name": "Jon Rose"
+   "name": "Jon Rose",
+   "x": ""
   },
   "tagline": "Personalised bedtime stories starring your child.",
   "description": "Writes a calm, kid-safe bedtime story featuring your child, their pet and the things they love, and can read it aloud each night. It avoids repeating a story it has already told.",
@@ -35308,7 +35321,8 @@
   "slug": "ai-daily-radar",
   "name": "AI Daily Radar",
   "builder": {
-   "name": "Michael"
+   "name": "Michael",
+   "x": ""
   },
   "tagline": "A morning AI brief tagged vendor-claimed or independently tested.",
   "description": "Delivers up to seven AI items from the last day, covering launches, price changes and benchmark claims, each labelled vendor-claimed or independently tested and linked to its source, with a Friday wrap. It never posts or buys anything.",
@@ -35321,7 +35335,8 @@
   "slug": "calorie-log",
   "name": "Calorie Log",
   "builder": {
-   "name": "Terry Haynes"
+   "name": "Terry Haynes",
+   "x": ""
   },
   "tagline": "Logs meals in any wording and charts them against your weight.",
   "description": "A personal calorie and weight tracker. You describe what you ate in whatever wording or units come naturally, it estimates the calories, keeps meal and daily totals, records your daily weigh-ins and charts both together.",
@@ -35334,7 +35349,8 @@
   "slug": "agency-ops-architect",
   "name": "Agency Ops Architect",
   "builder": {
-   "name": "LuminaForge"
+   "name": "LuminaForge",
+   "x": ""
   },
   "tagline": "Routes work across a bot crew and shows where the tokens go.",
   "description": "Scores a multi-bot Grok agency and routes each task to the right agent by type, skills, latency and cost. It drafts reversible fixes, shows per-bot spend burn, suggests the next bot or skill to add, and stops at drafts instead of applying changes.",
@@ -35347,7 +35363,8 @@
   "slug": "assistant-for-home-assistant",
   "name": "Assistant for Home Assistant",
   "builder": {
-   "name": "Bowie"
+   "name": "Bowie",
+   "x": ""
   },
   "tagline": "Watches Home Assistant and speaks up only when a person must act.",
   "description": "Runs the day-to-day of a smart home: a weekday morning health report, live house-issue alerts from an automation it builds with you, update and error watching, and automation suggestions. It diagnoses and proposes before making any change that could break the house.",
@@ -35360,7 +35377,8 @@
   "slug": "catch-gtd",
   "name": "Catch",
   "builder": {
-   "name": "Johnny Hill"
+   "name": "Johnny Hill",
+   "x": ""
   },
   "tagline": "A quiet GTD in-basket you can feed from chat or voice.",
   "description": "Pure GTD capture. You drop items in from chat or a voice webhook and it clarifies them into your checklist, staying silent unless it needs to interview you or leave a one-line check trail.",
@@ -35373,7 +35391,8 @@
   "slug": "books-qbo",
   "name": "Books",
   "builder": {
-   "name": "Bryan Wiest"
+   "name": "Bryan Wiest",
+   "x": ""
   },
   "tagline": "Propose-only bookkeeping for QuickBooks Online.",
   "description": "Bookkeeping for a small business on QuickBooks Online. It matches card and ACH deposits, reconciles bank and card statements and prepares vendor bills, with nothing posting to the books until you approve it.",
@@ -35386,7 +35405,8 @@
   "slug": "ai-claim-checker",
   "name": "AI Claim Checker",
   "builder": {
-   "name": "Michael"
+   "name": "Michael",
+   "x": ""
   },
   "tagline": "Checks whether an AI claim holds up, with dates and sources.",
   "description": "Paste an AI launch post, benchmark chart or pricing claim and it returns a dated claim card: supported, vendor-only, contradicted or unverifiable, with the evidence it checked.",
@@ -35399,7 +35419,8 @@
   "slug": "ai-film-school",
   "name": "AI Film School",
   "builder": {
-   "name": "Jon Rose"
+   "name": "Jon Rose",
+   "x": ""
   },
   "tagline": "A fifteen-lesson course from a first Grok Imagine clip to a short film.",
   "description": "A hands-on course in filmmaking with Grok Imagine: fifteen lessons with real exercises, director-level prompts, shot lists and a capstone project that ends in a finished short.",
@@ -35412,7 +35433,8 @@
   "slug": "automation-bot",
   "name": "Automation Bot",
   "builder": {
-   "name": "Ezra Black"
+   "name": "Ezra Black",
+   "x": ""
   },
   "tagline": "Writes local tests and packages them behind one runner script.",
   "description": "Scans a codebase, writes tests that run locally, and packages them behind a single runner script that you, CI or another agent can trigger on demand, so agents stop burning tokens running and waiting on tests.",
@@ -35425,7 +35447,8 @@
   "slug": "cher-savvy-stylist",
   "name": "Cher, The Savvy Stylist",
   "builder": {
-   "name": "Heather Simmons"
+   "name": "Heather Simmons",
+   "x": ""
   },
   "tagline": "Builds weather-smart outfits from the clothes you already own.",
   "description": "A closet stylist that assembles weather-appropriate, trend-aware looks from pieces you already own, shows each outfit as an image, and settles whether to wear gold or silver.",
@@ -35438,7 +35461,8 @@
   "slug": "bot-builder",
   "name": "Bot Builder",
   "builder": {
-   "name": "Cody Leonard"
+   "name": "Cody Leonard",
+   "x": ""
   },
   "tagline": "Turns a vague bot idea into a spec another instance can run.",
   "description": "Converts loose build-me-a-bot asks into engineer-grade specs for a single bot or a full crew, written to run on the first paste. It drafts; the owner approves anything material.",
@@ -35451,7 +35475,8 @@
   "slug": "chief-of-staff-coach",
   "name": "Chief of Staff Coach",
   "builder": {
-   "name": "NFTeee"
+   "name": "NFTeee",
+   "x": ""
   },
   "tagline": "Audits the bot that runs your bots, one score and one fix a week.",
   "description": "A coach for the Chief of Staff bot at the centre of your crew. Once a week it reviews that bot, gives it a single score and one fix, and otherwise stays quiet. It never makes decisions on the bot's behalf.",
@@ -35464,7 +35489,8 @@
   "slug": "claims-scout",
   "name": "Claims Scout",
   "builder": {
-   "name": "Matthew Marshall"
+   "name": "Matthew Marshall",
+   "x": ""
   },
   "tagline": "Hunts class-action claims and pings only above your dollar floor.",
   "description": "Searches for consumer class-action and settlement claims, works out whether you qualify, and stays quiet until a hit clears the dollar floor you set. It never files without your go-ahead.",
@@ -35477,7 +35503,8 @@
   "slug": "article-audio",
   "name": "Article Audio",
   "builder": {
-   "name": "Wayne Sutton"
+   "name": "Wayne Sutton",
+   "x": ""
   },
   "tagline": "Turns an X Article into an audio version that plays in chat.",
   "description": "Paste an X Article link and it comes back as a video read aloud, with the words on screen synced to the voice, plus an MP3. It can also turn the Articles you bookmark into listens every morning, using xAI Grok voices or a free preview voice.",
@@ -35490,7 +35517,8 @@
   "slug": "content-week-planner",
   "name": "Content Week Planner",
   "builder": {
-   "name": "AdventureNLearn Main"
+   "name": "AdventureNLearn Main",
+   "x": ""
   },
   "tagline": "Turns your themes into a week of drafted posts in your voice.",
   "description": "Takes your themes, audience and channels and returns a week of post ideas and drafts written in your voice. It drafts only, and you press post.",
@@ -35503,7 +35531,8 @@
   "slug": "chief-of-x",
   "name": "Chief of X",
   "builder": {
-   "name": "Carlos"
+   "name": "Carlos",
+   "x": ""
   },
   "tagline": "Works an engineer-founder X presence, research to replies.",
   "description": "Owns an engineer or founder presence on X: it researches AI and tech threads, drafts original posts and short high-reach replies, and suggests publish slots so you reach the builders who ship.",
@@ -35516,7 +35545,8 @@
   "slug": "creator-studio",
   "name": "Creator Studio",
   "builder": {
-   "name": "Timothy Willock"
+   "name": "Timothy Willock",
+   "x": ""
   },
   "tagline": "Turns a creator's niche, audience and gear into a film plan.",
   "description": "Advises content creators: it converts your niche, audience and gear into film ideas, hooks, shot lists and repurposing plans that fit the time you actually have. Advice only, it never posts.",
@@ -35530,7 +35560,8 @@
   "slug": "coach-tony",
   "name": "Coach Tony",
   "builder": {
-   "name": "Joe Pellegrino"
+   "name": "Joe Pellegrino",
+   "x": ""
   },
   "tagline": "A food coach that logs meals and starts filling your cart.",
   "description": "Logs calories, remembers your usual meals and checks in at breakfast, lunch and dinner. When you want to order it begins filling the cart from your food history, using your zip code to find the closest store.",
@@ -35543,7 +35574,8 @@
   "slug": "costume-lab",
   "name": "Costume Lab",
   "builder": {
-   "name": "@suddenlyjon"
+   "name": "@suddenlyjon",
+   "x": ""
   },
   "tagline": "DIY Halloween costumes with a blueprint and a parts list.",
   "description": "Tell it what your child wants to be and it produces a one-off costume: blueprint, parts list, and steps split for kid and grown-up. It also plans matching family squads, a zero-cost scrap-bin mode, and build nights through to trick-or-treat.",
@@ -35556,7 +35588,8 @@
   "slug": "delete-my-tweets",
   "name": "Delete My Tweets!",
   "builder": {
-   "name": "Jay GPE"
+   "name": "Jay GPE",
+   "x": ""
   },
   "tagline": "Deletes your own old posts, reposts and replies in small batches.",
   "description": "Cleans up an X account by deleting your own posts, reposts and replies older than a cutoff you choose. It runs in small batches, checks every date, and leaves recent activity untouched.",
@@ -35570,7 +35603,8 @@
   "slug": "claim-scout",
   "name": "Claim Scout",
   "builder": {
-   "name": "Charles Hanlon"
+   "name": "Charles Hanlon",
+   "x": ""
   },
   "tagline": "Matches open settlements to your state and inbox, every weekday.",
   "description": "Finds open consumer class-action settlements you may qualify for, matches them against your state and inbox, verifies the official claim links and deadlines, and quietly checks for new ones each weekday morning.",
@@ -35583,7 +35617,8 @@
   "slug": "competitive-snake-alert",
   "name": "Competitive Snake Alert",
   "builder": {
-   "name": "Scott Metcalf"
+   "name": "Scott Metcalf",
+   "x": ""
   },
   "tagline": "Drafts short competitor alerts when pricing or positioning moves.",
   "description": "Watches a named list of competitors and drafts a short alert when pricing, launches or positioning change, with a human in the loop before anything goes out. Meant as a light compete radar rather than a full battlecard.",
@@ -35596,7 +35631,8 @@
   "slug": "daily-lift",
   "name": "Daily Lift",
   "builder": {
-   "name": "Jon Rose"
+   "name": "Jon Rose",
+   "x": ""
   },
   "tagline": "Three personal check-ins a day, tuned to your goals.",
   "description": "Sends a morning affirmation, a noon boost and an evening wind-down, matched to your goals and the tone you prefer. It avoids repeating itself and can speak each one aloud.",
@@ -35609,7 +35645,8 @@
   "slug": "desi",
   "name": "Desi",
   "builder": {
-   "name": "ThreeLeggedAnimal"
+   "name": "ThreeLeggedAnimal",
+   "x": ""
   },
   "tagline": "A photo-first interior design desk with mood boards.",
   "description": "Redesigns a room from photos of your existing furniture and space, estimates sizes with a stated confidence, and recommends quality buys with mood boards and shop links.",
@@ -35622,7 +35659,8 @@
   "slug": "creator-desk",
   "name": "Creator Desk",
   "builder": {
-   "name": "Stephen Abbott"
+   "name": "Stephen Abbott",
+   "x": ""
   },
   "tagline": "Plans, writes and schedules original X content.",
   "description": "An assistant for original-content creators on X. It plans, writes and schedules your posts, short native video clips and replies worth making, so the account grows on original work.",
@@ -35636,7 +35674,8 @@
   "slug": "daily-lingo",
   "name": "Daily Lingo",
   "builder": {
-   "name": "Joseph Snyder"
+   "name": "Joseph Snyder",
+   "x": ""
   },
   "tagline": "A ten-minute daily language lesson built around your interests.",
   "description": "Builds a ten-minute language lesson around what you already care about, with spaced review, conversation practice and a streak. For learners who want steady daily progress.",
@@ -35650,7 +35689,8 @@
   "slug": "discount-codes",
   "name": "Discount Codes",
   "builder": {
-   "name": "Pat McDonough"
+   "name": "Pat McDonough",
+   "x": ""
   },
   "tagline": "Finds every legitimate way to pay less for a product.",
   "description": "Name a product and it looks for every legitimate way to pay less: sourced codes, cashback and cheaper equivalents. It can test promo codes at your checkout, but it never places the order.",
@@ -35663,7 +35703,8 @@
   "slug": "ember",
   "name": "Ember",
   "builder": {
-   "name": "Austin Christian"
+   "name": "Austin Christian",
+   "x": ""
   },
   "tagline": "Connective tissue for a founder running several department bots.",
   "description": "For founders whose bots run whole departments. Ember sends slip-only morning sweeps, decision briefs you can answer in one tap, and a Friday org-pulse PDF so nothing dies over the weekend.",
@@ -35676,7 +35717,8 @@
   "slug": "dg1-admin",
   "name": "DG1 Admin",
   "builder": {
-   "name": "Gregor Zebic"
+   "name": "Gregor Zebic",
+   "x": ""
   },
   "tagline": "Back-office assistant for a DG1.com storefront.",
   "description": "The specialist assistant for a DG1.com back office: products, orders, customers, bookings, marketing, WebCMS and settings for a business selling on the platform globally.",
@@ -35689,7 +35731,8 @@
   "slug": "build-with-clarity",
   "name": "Build With Clarity",
   "builder": {
-   "name": "Rayan Abdul Cader"
+   "name": "Rayan Abdul Cader",
+   "x": ""
   },
   "tagline": "A patient building coach for non-coders using AI coding tools.",
   "description": "Coaches people building software for the first time with Cursor, Claude Code or Codex. It takes small reversible steps, explains every decision in plain words, and proves a change works before calling it done.",
@@ -35702,7 +35745,8 @@
   "slug": "exavior",
   "name": "Exavior",
   "builder": {
-   "name": "Nick"
+   "name": "Nick",
+   "x": ""
   },
   "tagline": "Turns a trading idea into a chart tool you can test.",
   "description": "Converts a trading idea into a chart tool with clear signals and a performance dashboard, aimed at TradingView, NinjaTrader, MetaTrader and cTrader workflows.",
@@ -35715,7 +35759,8 @@
   "slug": "fantasy-lineup-coach",
   "name": "Fantasy Lineup Coach",
   "builder": {
-   "name": "Pixel & Pivot Studios"
+   "name": "Pixel & Pivot Studios",
+   "x": ""
   },
   "tagline": "Start-sit calls with a confidence figure on each one.",
   "description": "Weekly fantasy football start/sit calls backed by fresh news, with a confidence percentage on every call. It also handles waiver pickups, trade checks and injury sweeps on Thursdays and Sundays.",
@@ -35729,7 +35774,8 @@
   "slug": "ca-brokerage-compliance",
   "name": "CA Brokerage Compliance",
   "builder": {
-   "name": "Joe Foxx"
+   "name": "Joe Foxx",
+   "x": ""
   },
   "tagline": "Compliance review for a California real estate brokerage.",
   "description": "Reviews ads, social posts, transactions and lead or vendor programmes for a California real estate brokerage, then returns a clear verdict with fixes. It states that it is not a lawyer.",
@@ -35742,7 +35788,8 @@
   "slug": "fab-four",
   "name": "Fab Four",
   "builder": {
-   "name": "Michael Brandon Guercio"
+   "name": "Michael Brandon Guercio",
+   "x": ""
   },
   "tagline": "Puts one question to four models and reports where they split.",
   "description": "Asks ChatGPT, Claude, Grok and Muse Spark the same question in parallel, then returns where they agree, where they disagree and what the final call should be.",
@@ -35755,7 +35802,8 @@
   "slug": "first-draft",
   "name": "First Draft",
   "builder": {
-   "name": "AdventureNLearn Main"
+   "name": "AdventureNLearn Main",
+   "x": ""
   },
   "tagline": "Emails, posts and one-pagers in your voice, no invented facts.",
   "description": "Drafts emails, posts, one-pagers and outreach in your voice. It will not add facts you did not give it.",
@@ -35768,7 +35816,8 @@
   "slug": "encore",
   "name": "Encore",
   "builder": {
-   "name": "Michael Phippen"
+   "name": "Michael Phippen",
+   "x": ""
   },
   "tagline": "Finds concerts you can actually get to, priced for your party.",
   "description": "Tracks your artists and similar-vibe shows, filters them by distance and optional gaps in your calendar, and prices tickets for the size of your group.",
@@ -35781,7 +35830,8 @@
   "slug": "follow-up-closer",
   "name": "Follow-Up Closer",
   "builder": {
-   "name": "AdventureNLearn Main"
+   "name": "AdventureNLearn Main",
+   "x": ""
   },
   "tagline": "Finds every reply you owe and drafts the nudge.",
   "description": "Collects every reply you owe and every answer you are waiting on, then drafts short nudges ready to send. Nothing goes out without your yes.",
@@ -35794,7 +35844,8 @@
   "slug": "fit-finder",
   "name": "Fit Finder",
   "builder": {
-   "name": "@suddenlyjon"
+   "name": "@suddenlyjon",
+   "x": ""
   },
   "tagline": "Photo in, store links for every piece of the outfit out.",
   "description": "Send a photo of an outfit you like and it returns real store links for each piece the person is wearing, with exact, close and budget picks.",
@@ -35807,7 +35858,8 @@
   "slug": "fantasy-football-coach",
   "name": "Fantasy Football Coach",
   "builder": {
-   "name": "George Zikry"
+   "name": "George Zikry",
+   "x": ""
   },
   "tagline": "Waiver targets and trade reads from screenshots of your league.",
   "description": "Weekly waiver targets, start/sit calls and trade reads built from screenshots of your fantasy league plus public injury news, rankings and projections. No league account is needed.",
@@ -35820,7 +35872,8 @@
   "slug": "finance-read-only",
   "name": "Finance",
   "builder": {
-   "name": "Brad Shannon"
+   "name": "Brad Shannon",
+   "x": ""
   },
   "tagline": "A read-only family money monitor with an HTML dashboard.",
   "description": "A read-only money coach and family money monitor. It watches spending, bills, subscriptions and fees from a linked bank, Gmail receipts and optionally X Money, then sends short reports, alerts and an HTML dashboard. It also explains the classic canon on withdrawal rates, fees, runway and debt order, and it never moves money or sends anything. Best with a US bank linked through the Finance connector plus Gmail.",
@@ -35834,7 +35887,8 @@
   "slug": "eves-memory",
   "name": "Eve's Memory",
   "builder": {
-   "name": "Tannhäuser Gate"
+   "name": "Tannhäuser Gate",
+   "x": ""
   },
   "tagline": "Car-session memory for an in-car voice assistant.",
   "description": "Stores textured end-of-drive handoffs and recalls them at the next start, so the car assistant can pick the thread back up. It is a memory for continuity, not an operator audit log.",
@@ -35847,7 +35901,8 @@
   "slug": "found-money",
   "name": "Found Money",
   "builder": {
-   "name": "Dushan Perera"
+   "name": "Dushan Perera",
+   "x": ""
   },
   "tagline": "Finds what you are overpaying and drafts the emails to fix it.",
   "description": "Looks for money you are overpaying or owed, from subscription price hikes and services with no activity in your email to bills above local averages and unclaimed property, then drafts the emails to get it back. It never sends anything itself.",
@@ -35860,7 +35915,8 @@
   "slug": "fleet-improver",
   "name": "Fleet Improver",
   "builder": {
-   "name": "Rolando Zubiran Robert"
+   "name": "Rolando Zubiran Robert",
+   "x": ""
   },
   "tagline": "Scores your bot fleet and ranks instruction cuts that raise yield.",
   "description": "Audits a Grok Bot fleet every day, scores each bot on tokens per unit of useful output, and ships a scorecard with ranked instruction cuts that raise yield without dropping quality. It proposes diffs: it never rewrites another bot, never posts and never spends without an exact yes.",
@@ -35873,7 +35929,8 @@
   "slug": "fine-print",
   "name": "Fine Print",
   "builder": {
-   "name": "Alfredo Herrera"
+   "name": "Alfredo Herrera",
+   "x": ""
   },
   "tagline": "A photo of a bill or letter becomes a one-screen plain brief.",
   "description": "Send a photo, screenshot or PDF of a bill, offer, insurance letter, loan or benefits booklet and get a plain-words brief on what is due, what they want and what to ask. Draft only: it never pays, applies, signs, calls or emails for you.",
@@ -35886,7 +35943,8 @@
   "slug": "bot-phone-line",
   "name": "Bot Phone Line by CosVoice",
   "builder": {
-   "name": "Andy F."
+   "name": "Andy F.",
+   "x": ""
   },
   "tagline": "Answers your phone and makes calls, with a summary emailed after.",
   "description": "Answers your phone and places calls for you on CosVoice. After every call you get a written summary by email, and you can ask to hear the latest one at any time. Subscription is 29 dollars a month with 60 minutes of calls included.",
@@ -35899,7 +35957,8 @@
   "slug": "frames",
   "name": "Frames",
   "builder": {
-   "name": "American B"
+   "name": "American B",
+   "x": ""
   },
   "tagline": "One sentence becomes a four-shot Grok Imagine plan.",
   "description": "Turns a one or two sentence scene into a four-shot Grok Imagine plan for stills or video, with consistency locks so the shots do not drift apart.",
@@ -35912,7 +35971,8 @@
   "slug": "gmail-cleaner",
   "name": "Gmail",
   "builder": {
-   "name": "Carolina Dill"
+   "name": "Carolina Dill",
+   "x": ""
   },
   "tagline": "Clears and files Gmail in three modes, and names the clutter.",
   "description": "Clears and files a Gmail account on request, either trashing only, trashing plus filtering, or filing to labels, and returns a ranked list of the senders cluttering your inbox.",
@@ -35940,7 +36000,8 @@
   "slug": "geek",
   "name": "Geek",
   "builder": {
-   "name": "Simone J. Lima"
+   "name": "Simone J. Lima",
+   "x": ""
   },
   "tagline": "A Portuguese film, series and anime friend that logs your takes.",
   "description": "A Portuguese-language companion that suggests films, series and anime to watch after work, checks whether each one is already on your streaming services, and notes what you thought of it.",
@@ -35953,7 +36014,8 @@
   "slug": "half-percent",
   "name": "Half Percent",
   "builder": {
-   "name": "Dave Getchel"
+   "name": "Dave Getchel",
+   "x": ""
   },
   "tagline": "Day-trades a dedicated Robinhood Agentic account for half a percent.",
   "description": "Day-trades a dedicated Robinhood Agentic account with the half-percent method: find a liquid momentum stock, get in, take roughly half a percent, get out.",
@@ -35966,7 +36028,8 @@
   "slug": "gort",
   "name": "gort",
   "builder": {
-   "name": "lu"
+   "name": "lu",
+   "x": ""
   },
   "tagline": "A proactive everyday coordinator that acts instead of asking.",
   "description": "Coordinates everyday life: morning briefs, open work, mail catch and handoffs to specialist bots. It decides and acts, and asks only when it matters.",
@@ -35979,7 +36042,8 @@
   "slug": "human-voice-editor",
   "name": "Human Voice Editor",
   "builder": {
-   "name": "time velocity"
+   "name": "time velocity",
+   "x": ""
   },
   "tagline": "Rewrites drafts so they read like a careful person wrote them.",
   "description": "Paste in any draft and get it back sounding like a person wrote it. It strips AI writing tells, rewrites em-dash constructions and not-X-but-Y sentences, and fixes grammar and spelling while keeping your meaning and voice.",
@@ -36007,7 +36071,8 @@
   "slug": "home-keeper",
   "name": "Home Keeper",
   "builder": {
-   "name": "Joseph Snyder"
+   "name": "Joseph Snyder",
+   "x": ""
   },
   "tagline": "A home maintenance plan, with monthly nudges.",
   "description": "Builds a maintenance plan for your home from its age, systems and climate, nudges you each month, logs appliances and warranties, and gets you ready for contractor calls.",
@@ -36021,7 +36086,8 @@
   "slug": "genesis-visual",
   "name": "Genesis",
   "builder": {
-   "name": "Quinn Woods-Robinson"
+   "name": "Quinn Woods-Robinson",
+   "x": ""
   },
   "tagline": "Look frames, storyboards and visual bibles for film and TV.",
   "description": "A visual creative partner for entertainment media: look frames, storyboards, visual bibles and sealed Grok Imagine prompts for film, television, music video and shorts.",
@@ -36034,7 +36100,8 @@
   "slug": "grok-access-updates",
   "name": "Grok Access Updates",
   "builder": {
-   "name": "Amina Guleid"
+   "name": "Amina Guleid",
+   "x": ""
   },
   "tagline": "A weekly check of what each of your bots can reach.",
   "description": "A weekly access check across your Grok bots: what each one can reach and where it went, plus official security updates and options for tightening access. It never changes anything on its own.",
@@ -36047,7 +36114,8 @@
   "slug": "grumpy-take",
   "name": "Grumpy Take",
   "builder": {
-   "name": "Pierce Wetter"
+   "name": "Pierce Wetter",
+   "x": ""
   },
   "tagline": "Any topic or claim gets a grumpy, sourced take.",
   "description": "Give it a topic, claim or viral post and it returns the real frame, repostable observations, dated facts, steelmanned sides, the incentives in play, and what would prove it wrong.",
@@ -36060,7 +36128,8 @@
   "slug": "inbox-router",
   "name": "Inbox Router",
   "builder": {
-   "name": "Eric"
+   "name": "Eric",
+   "x": ""
   },
   "tagline": "Routes your inboxes to the right owner, and stops there.",
   "description": "Routes mail arriving in your inboxes to the right owner and goes no further. It will not send customer replies from this seat: it triages, holds and escalates.",
@@ -36073,7 +36142,8 @@
   "slug": "imessage-bot",
   "name": "iMessage bot",
   "builder": {
-   "name": "Evan Bacon"
+   "name": "Evan Bacon",
+   "x": ""
   },
   "tagline": "Reads and sends iMessages from a connected Mac.",
   "description": "Reads and sends iMessages through a connected Mac, using chat.db for history and Beeper's imessage-cli to send, reply, react and edit.",
@@ -36086,7 +36156,8 @@
   "slug": "indra",
   "name": "Indra",
   "builder": {
-   "name": "Veera Kadimicherla"
+   "name": "Veera Kadimicherla",
+   "x": ""
   },
   "tagline": "Chief of a multi-bot crew, with a QA gate before production.",
   "description": "Structures work across a multi-bot crew, delegates to single-role assistants and drives shared app shipping behind a review gate: QA first, then a weekly production push.",
@@ -36099,7 +36170,8 @@
   "slug": "launch-and-sky-watch",
   "name": "Launch & Sky Watch",
   "builder": {
-   "name": "Joseph Snyder"
+   "name": "Joseph Snyder",
+   "x": ""
   },
   "tagline": "Rocket launches and sky events in your local time.",
   "description": "A personal guide to what is going up and what is worth looking up at: rocket launches, space station passes, meteor showers, eclipses and clear-sky nights, all in your local time.",
@@ -36113,7 +36185,8 @@
   "slug": "inbox-triage",
   "name": "Inbox Triage",
   "builder": {
-   "name": "Chris Hadges"
+   "name": "Chris Hadges",
+   "x": ""
   },
   "tagline": "Sorts Gmail into needs-reply, waiting, FYI and unsubscribe.",
   "description": "Sorts Gmail into needs-reply, waiting, FYI and unsubscribe candidates, and drafts the replies for you to send. It never auto-sends.",
@@ -36126,7 +36199,8 @@
   "slug": "keepkill-tester-bot",
   "name": "KeepKill Tester Bot",
   "builder": {
-   "name": "David Tran"
+   "name": "David Tran",
+   "x": ""
   },
   "tagline": "One real test, then a keep or kill verdict with evidence.",
   "description": "Runs a single real test of a tool, model or agent against a short contract and returns keep or kill with the measured evidence and a four-line verdict.",
@@ -36154,7 +36228,8 @@
   "slug": "local-leads-finder",
   "name": "Local Leads Finder",
   "builder": {
-   "name": "Bryan Wiest"
+   "name": "Bryan Wiest",
+   "x": ""
   },
   "tagline": "Finds local buyers from bid invites and social posts.",
   "description": "Finds real buyers for a trade or building-supply business by watching bid invites, public bid sites and LinkedIn, X and Facebook in your region. It qualifies each lead, screens out your existing customers, and drafts short intro emails that only go out when you approve them.",
@@ -36167,7 +36242,8 @@
   "slug": "inbox-triage-primary",
   "name": "Inbox Triage",
   "builder": {
-   "name": "Steve Kelly"
+   "name": "Steve Kelly",
+   "x": ""
   },
   "tagline": "Keeps the Gmail Primary tab clean, archives only what you approve.",
   "description": "Keeps a Gmail Primary tab clean every day. Useful mail is handed to your other bots, or folded into one short summary, and junk is archived only once you approve it. It never deletes, sends or unsubscribes.",
@@ -36180,7 +36256,8 @@
   "slug": "lets-get-rich-team",
   "name": "Let's Get Rich Team",
   "builder": {
-   "name": "Ray Potts"
+   "name": "Ray Potts",
+   "x": ""
   },
   "tagline": "A seven-bot crypto research and trading desk.",
   "description": "A seven-bot desk, one HQ plus six specialists, covering Solana, Base and Ethereum with optional Robinhood. It finds, vets and scores opportunities, then sends move cards or trades from a capped wallet. Security and risk vetoes cannot be outvoted, NO TRADE is a valid answer, and it never asks for seed phrases or moves money in or out.",
@@ -36193,7 +36270,8 @@
   "slug": "inquiry-door-designer",
   "name": "Inquiry Door Designer",
   "builder": {
-   "name": "@42Constellation"
+   "name": "@42Constellation",
+   "x": ""
   },
   "tagline": "Designs a small interactive page from a question you care about.",
   "description": "Designs a one-page interactive web experience from a question you care about, where a visitor does something and the page answers from real sources, leaving something to wonder about. It hands you a copy-ready prompt to build it in Grok Build or any AI page builder. It designs and reviews, you build.",
@@ -36206,7 +36284,8 @@
   "slug": "kramer",
   "name": "Kramer",
   "builder": {
-   "name": "Helvio Pedreschi"
+   "name": "Helvio Pedreschi",
+   "x": ""
   },
   "tagline": "A household mail and package desk on USPS Informed Delivery.",
   "description": "Runs household mail and parcels. It owns USPS Informed Delivery and keeps a history of the mail and packages that arrived, stored wherever you want it.",
@@ -36219,7 +36298,8 @@
   "slug": "listing-photos",
   "name": "Listing Photos",
   "builder": {
-   "name": "MACSWEATY"
+   "name": "MACSWEATY",
+   "x": ""
   },
   "tagline": "Product photos become square studio listing shots.",
   "description": "Turns a product photo into a square listing shot with a clean dark studio background, hard fidelity to the real product and your watermark. Drop a photo in and it enhances it.",
@@ -36232,7 +36312,8 @@
   "slug": "lot",
   "name": "Lot",
   "builder": {
-   "name": "American B"
+   "name": "American B",
+   "x": ""
   },
   "tagline": "What to ask and check before buying a used vehicle.",
   "description": "Paste a used listing for a car, truck, boat or piece of equipment and it sets out what to ask, what to check in person, when to walk away, and whether the price roughly makes sense.",
@@ -36245,7 +36326,8 @@
   "slug": "meeting-prep-and-recap",
   "name": "Meeting Prep & Recap",
   "builder": {
-   "name": "AdventureNLearn Main"
+   "name": "AdventureNLearn Main",
+   "x": ""
   },
   "tagline": "One-page meeting prep in, recap and follow-up draft out.",
   "description": "Walk into a meeting with a one-page prep, and walk out with a clean recap: action items with owners and dates, plus a draft follow-up email. Nothing goes out without your yes.",
@@ -36258,7 +36340,8 @@
   "slug": "krishna-head-of-marketing",
   "name": "Krishna — Head of Marketing",
   "builder": {
-   "name": "Anish Jha"
+   "name": "Anish Jha",
+   "x": ""
   },
   "tagline": "Head of marketing for an agency: assigns, checks, holds spend.",
   "description": "Acts as head of marketing for a digital marketing agency. It assigns SEO, Meta, email and content work to teammates, checks the results, and keeps spend and public claims behind the owner's approval.",
@@ -36272,7 +36355,8 @@
   "slug": "docket-doug",
   "name": "Docket Doug",
   "builder": {
-   "name": "Nick Miron"
+   "name": "Nick Miron",
+   "x": ""
   },
   "tagline": "A decision book that stops expired ideas coming back.",
   "description": "A decision log for founders and executives. It records calls in a status block, blocks expired ideas from being rehashed, and can spin up a persona as a tripwire.",
@@ -36285,7 +36369,8 @@
   "slug": "marlowe",
   "name": "Marlowe",
   "builder": {
-   "name": "Geoff"
+   "name": "Geoff",
+   "x": ""
   },
   "tagline": "A noir private eye for the web.",
   "description": "Tell Marlowe what you need to know and approve or adjust his plan, and optionally point him at somewhere to look. He works the web until he brings back what you asked for, in noir style.",
@@ -36298,7 +36383,8 @@
   "slug": "follow-up-nudge",
   "name": "Follow-Up Nudge",
   "builder": {
-   "name": "Mike Mosley"
+   "name": "Mike Mosley",
+   "x": ""
   },
   "tagline": "Scans sent mail for unanswered threads and drafts nudges.",
   "description": "On weekdays it scans your sent mail for outbound threads that never got an answer and returns a short status with one-line draft nudges. It stays quiet when nothing is overdue and never sends mail without your yes.",
@@ -36312,7 +36398,8 @@
   "slug": "mudbot",
   "name": "Mudbot",
   "builder": {
-   "name": "Jack Lawson"
+   "name": "Jack Lawson",
+   "x": ""
   },
   "tagline": "A growth lead that points your bots at one goal.",
   "description": "Learns your business, directs your other bots toward a single growth goal, and keeps you in four-hour-work-week mode by surfacing decisions, drafts and outcomes. Outreach is draft-only, procedures are deadline-first, and it has fallbacks when you have no supporting bots.",
@@ -36325,7 +36412,8 @@
   "slug": "ducky",
   "name": "Ducky",
   "builder": {
-   "name": "Roman Kruglov"
+   "name": "Roman Kruglov",
+   "x": ""
   },
   "tagline": "A team librarian that keeps a living archive in GitHub.",
   "description": "A team librarian modelled on Ducky from NCIS: precise, eloquent and historically minded. It keeps a living GitHub archive of logs, decisions, lessons and skills, dual-writes notes into Obsidian, and does not publish or deploy anything.",
@@ -36338,7 +36426,8 @@
   "slug": "meraki-health",
   "name": "Meraki Health",
   "builder": {
-   "name": "Lee Van"
+   "name": "Lee Van",
+   "x": ""
   },
   "tagline": "Read-only health checks for a Cisco Meraki network.",
   "description": "Runs read-only health checks, quiet monitoring and weekly digests for a Cisco Meraki network, with plain-English findings backed by real dashboard numbers. It only pings you when something new breaks or clears.",
@@ -36352,7 +36441,8 @@
   "slug": "netflix-mood-recommender",
   "name": "Netflix Mood Recommender",
   "builder": {
-   "name": "Alexandros Skarmintzos"
+   "name": "Alexandros Skarmintzos",
+   "x": ""
   },
   "tagline": "Two or three Netflix picks for the mood you are in.",
   "description": "A sofa-night recommender that learns your taste and suggests two or three titles from the mood you name, whether that is a rough day, a comfort watch, or something like the last thing you loved.",
@@ -36365,7 +36455,8 @@
   "slug": "morning-desk",
   "name": "Morning Desk",
   "builder": {
-   "name": "AdventureNLearn Main"
+   "name": "AdventureNLearn Main",
+   "x": ""
   },
   "tagline": "Inbox, calendar and follow-ups in one calm morning brief.",
   "description": "Puts your inbox, calendar and open follow-ups into one calm morning brief, drafting replies and nudges as it goes. Nothing goes out without your yes.",
@@ -36378,7 +36469,8 @@
   "slug": "nfpa-research-assistant",
   "name": "NFPA Research Assistant",
   "builder": {
-   "name": "Michal Sullivan"
+   "name": "Michal Sullivan",
+   "x": ""
   },
   "tagline": "Cites official NFPA text and municipal adoption records.",
   "description": "Retrieves and cites official NFPA text and municipal adoption records for engineers and plan reviewers. Official sources only, with no design work or interpretation.",
@@ -36391,7 +36483,8 @@
   "slug": "news-bot-weekday",
   "name": "News Bot",
   "builder": {
-   "name": "David Duong"
+   "name": "David Duong",
+   "x": ""
   },
   "tagline": "A weekday tech and markets briefing, delivered as a PDF in Drive.",
   "description": "Builds a newsletter-style PDF briefing of technology and markets news on weekdays and uploads it to Google Drive.",
@@ -36404,7 +36497,8 @@
   "slug": "multifamily-comp-desk",
   "name": "Multifamily Comp Desk",
   "builder": {
-   "name": "Matthew Dickson"
+   "name": "Matthew Dickson",
+   "x": ""
   },
   "tagline": "Availability books and effective rents for multifamily teams.",
   "description": "Produces source-linked availability books, effective rents and weekly comps packs for multifamily property and asset-management teams. Draft only, for human review, with no outbound leasing.",
@@ -36417,7 +36511,8 @@
   "slug": "octavius",
   "name": "Octavius",
   "builder": {
-   "name": "Wagmoo Winterhoof"
+   "name": "Wagmoo Winterhoof",
+   "x": ""
   },
   "tagline": "Tracks crypto markets and can run a rules-based swing book.",
   "description": "A crypto desk assistant that tracks markets, news and wallets, and can run a rules-based swing-trading book on Kraken spot with take-profits, stop-losses and a ping after each fill.",
@@ -36445,7 +36540,8 @@
   "slug": "morning-x-brief",
   "name": "Morning X Brief",
   "builder": {
-   "name": "Jon Rose"
+   "name": "Jon Rose",
+   "x": ""
   },
   "tagline": "A five-minute X rundown with ready-to-edit replies.",
   "description": "A five-minute X rundown every morning: what blew up in your topics, the mentions that matter, posts worth opening and replies drafted in your voice. It alerts only when something moves and never posts without your yes.",
@@ -36458,7 +36554,8 @@
   "slug": "nightly-digest",
   "name": "Nightly Digest",
   "builder": {
-   "name": "satadru"
+   "name": "satadru",
+   "x": ""
   },
   "tagline": "A nightly Gmail and Slack digest with clear next steps.",
   "description": "Delivers a nightly digest of Gmail and Slack with clear next steps, older open loops called out and careful mailbox cleanup. It sends nothing unless you say yes.",
@@ -36486,7 +36583,8 @@
   "slug": "omarchy-scout",
   "name": "Omarchy Scout",
   "builder": {
-   "name": "Arthur Talley"
+   "name": "Arthur Talley",
+   "x": ""
   },
   "tagline": "An expert on Omarchy Linux, with release verdicts for your hardware.",
   "description": "Answers questions about Omarchy, the Arch and Hyprland setup, with sources. It gives a run-now, wait or skip verdict on each release and kernel for your hardware, helps read system logs, and sends a short digest only when something is new.",
@@ -36499,7 +36597,8 @@
   "slug": "occasion-keeper",
   "name": "Occasion Keeper",
   "builder": {
-   "name": "Joseph Snyder"
+   "name": "Joseph Snyder",
+   "x": ""
   },
   "tagline": "Birthdays and anniversaries, two weeks early, with gift ideas.",
   "description": "Remembers the birthdays and anniversaries that matter, reminds you two weeks ahead, suggests gifts by budget and interests, and drafts the card messages.",
@@ -36513,7 +36612,8 @@
   "slug": "open-call",
   "name": "Open Call",
   "builder": {
-   "name": "Lloyd Creates"
+   "name": "Lloyd Creates",
+   "x": ""
   },
   "tagline": "Finds paid AI contests and tracks your applications.",
   "description": "A paid-contest desk for AI creators. It finds virtual paid contests by format, from film festivals to stills awards and ad briefs, briefs you on each, and tracks applications. It never submits or pays unless you ask.",
@@ -36526,7 +36626,8 @@
   "slug": "loyalty",
   "name": "Loyalty",
   "builder": {
-   "name": "Carlos"
+   "name": "Carlos",
+   "x": ""
   },
   "tagline": "Chases the airline and hotel status credits that never posted.",
   "description": "A travel status tracker. It reads your flight and stay mail, finds the nights, segments and miles that never posted, files the claim in the airline or hotel portal where it can, drafts the claim email when the portal will not cooperate, and keeps the next ladder move in front of you. It does not book, send or apply for anything on your behalf.",
@@ -36539,7 +36640,8 @@
   "slug": "deploy-desk",
   "name": "Deploy Desk",
   "builder": {
-   "name": "D.J."
+   "name": "D.J.",
+   "x": ""
   },
   "tagline": "Keeps a small product deployed, healthy and posting.",
   "description": "Looks after one small SaaS product: keeps its site up and healthy, works a rolling queue of organic posts for its X account with generated visuals, and drafts outreach for your approval. Every change it makes is logged with a rollback path.",
@@ -36552,7 +36654,8 @@
   "slug": "scroll-stitch",
   "name": "Scroll Stitch / 长图拼接",
   "builder": {
-   "name": "Mai Yang"
+   "name": "Mai Yang",
+   "x": ""
   },
   "tagline": "Stitches overlapping screenshots into one clean long image.",
   "description": "Takes a run of overlapping screenshots of the same scrolling area, or a vertical screen recording, strips the status, navigation and tab bars, aligns the frames on their shared content and returns a single long image. Written for Chinese screenshots, it refuses to force a join when the frames are not the same scroll, and never deletes the originals.",
@@ -36565,7 +36668,8 @@
   "slug": "xrpl-range-trader",
   "name": "XRPL Range Trader",
   "builder": {
-   "name": "James Rule XRP ⟐ 👊😎"
+   "name": "James Rule XRP ⟐ 👊😎",
+   "x": ""
   },
   "tagline": "Places limit orders on the XRP Ledger from its own small wallet.",
   "description": "Sets buy and sell limit orders on the XRP Ledger's built-in exchange, trading XRP against RLUSD from a small wallet you create for it rather than from your own holdings. It never touches your seed phrase, and it labels itself educational rather than financial advice.",
@@ -36578,7 +36682,8 @@
   "slug": "keep-park-kill",
   "name": "Keep Park Kill",
   "builder": {
-   "name": "D'Artagnan"
+   "name": "D'Artagnan",
+   "x": ""
   },
   "tagline": "Sorts launches and saved links into keep, park or kill.",
   "description": "Reads the launches, tools and saved links you would otherwise skim, scores each one against your goals and a written bar, and sorts it into keep, park or kill. It stays quiet unless something clears the bar; parked items get a revisit date and killed ones stay dead.",
@@ -36591,7 +36696,8 @@
   "slug": "memory-cleanup",
   "name": "Memory Cleanup / 记忆清理",
   "builder": {
-   "name": "Oviya Kapoor"
+   "name": "Oviya Kapoor",
+   "x": ""
   },
   "tagline": "Consolidates an agent's memory only after you approve the deletions.",
   "description": "Reviews an agent's memory theme by theme, shows the single current rule alongside the older versions it would drop, and waits for your approval before deleting anything. Built for Grok Bot and other agent setups that accumulate stale notes.",
@@ -36604,7 +36710,8 @@
   "slug": "crosscheck",
   "name": "Crosscheck",
   "builder": {
-   "name": "D'Artagnan"
+   "name": "D'Artagnan",
+   "x": ""
   },
   "tagline": "Checks the claims that matter in two lanes before you publish.",
   "description": "Before you publish or send, it takes the claims that matter and checks each one twice: one lane reasons it through, the other verifies it against live sources on its own. It returns aligned, partial, contested or insufficient, with the exact lines to fix, and never edits or posts for you.",
@@ -36617,7 +36724,8 @@
   "slug": "rook-chief-of-staff",
   "name": "Rook · Chief of Staff",
   "builder": {
-   "name": "Sarah Brundige"
+   "name": "Sarah Brundige",
+   "x": ""
   },
   "tagline": "A personal chief of staff for solo founders and creators.",
   "description": "Runs a morning board for one person, keeps the other teammate bots moving, chases blockers and brings back only the decisions that need a human. Aimed at solo founders, students and creators who want the coordination without the meetings.",
@@ -36630,7 +36738,8 @@
   "slug": "goal-delta",
   "name": "Goal Delta",
   "builder": {
-   "name": "D'Artagnan"
+   "name": "D'Artagnan",
+   "x": ""
   },
   "tagline": "An evening gap check between your plan and where you are.",
   "description": "Each evening it compares where you want to end up with where you actually are, looks at the plan from bigger, smaller and sideways angles, names the real limits and hands you one decision for tomorrow. It stays quiet on days when nothing moved.",
@@ -36643,7 +36752,8 @@
   "slug": "spacebot",
   "name": "SpaceBOT",
   "builder": {
-   "name": "DIEGO"
+   "name": "DIEGO",
+   "x": ""
   },
   "tagline": "A friendly space teacher for launches, vehicles and orbits.",
   "description": "Explains SpaceX missions, webcast calls, vehicles and orbits in plain language, sends a lesson before upcoming launches and quizzes you on what you learned. Friendly rather than encyclopedic.",
@@ -36656,7 +36766,8 @@
   "slug": "crypto-creator-video-desk",
   "name": "Crypto Creator Video Desk",
   "builder": {
-   "name": "James Rule XRP ⟐ 👊😎"
+   "name": "James Rule XRP ⟐ 👊😎",
+   "x": ""
   },
   "tagline": "Turns a YouTube link into chapters, intros and Shorts.",
   "description": "Paste a YouTube link and it returns chapter timestamps ready to paste, AI-voiced intros and outros with captions, and Shorts cut from the episode. Built for crypto and finance channels, and it never posts on your behalf.",
@@ -36669,7 +36780,8 @@
   "slug": "spottie",
   "name": "Spottie",
   "builder": {
-   "name": "Paul Sundquist 🦬"
+   "name": "Paul Sundquist 🦬",
+   "x": ""
   },
   "tagline": "Organises your Spotify library into themed playlists.",
   "description": "A Spotify helper that groups your library into themed playlists, finds tracks that match a mood, and builds artist deep-dives. It leaves any playlist you did not ask it to touch alone.",
@@ -36682,7 +36794,8 @@
   "slug": "crypto-budget-and-tax-keeper",
   "name": "Crypto Budget & Tax Keeper",
   "builder": {
-   "name": "James Rule XRP ⟐ 👊😎"
+   "name": "James Rule XRP ⟐ 👊😎",
+   "x": ""
   },
   "tagline": "Plain-English budgeting plus a CPA-ready crypto tax file.",
   "description": "A read-only money assistant for people holding crypto: it builds a plain-English budget and net worth picture from your bank and exchange accounts, and keeps a CPA-ready file of cost basis, gains and losses and IRA distributions. Not tax advice.",
@@ -36695,7 +36808,8 @@
   "slug": "foreman",
   "name": "Foreman",
   "builder": {
-   "name": "American™ B"
+   "name": "American™ B",
+   "x": ""
   },
   "tagline": "Turns one rough idea into a ready-to-use social post pack.",
   "description": "A social post pack builder. Give it a rough idea and it returns a hook, three plainly worded post options, an image prompt, a backup angle, and a short list of things to avoid. It drafts only: you pick which option gets published.",
@@ -36708,7 +36822,8 @@
   "slug": "ledger-2",
   "name": "Ledger",
   "builder": {
-   "name": "Uzi Obi"
+   "name": "Uzi Obi",
+   "x": ""
   },
   "tagline": "A read-only personal money desk wired to bank accounts through Plaid.",
   "description": "A personal money desk. Once bank accounts are linked through the Finance (Plaid) integration it reads balances, spending, subscriptions, credit and investments and reports back as numbers-first digests with charts. An optional layer adds sentiment on tickers you follow. Read-only, and it never moves money.",
@@ -36721,7 +36836,8 @@
   "slug": "echo-2",
   "name": "Echo",
   "builder": {
-   "name": "6 of 9"
+   "name": "6 of 9",
+   "x": ""
   },
   "tagline": "Keeps a ledger of everything you promised over email, and chases it.",
   "description": "A follow-through assistant for people who live in email. It mines your mailbox for what you already committed to, briefs the items that are overdue or coming due, then drafts either the follow-through or a renegotiation. When your plate is full it drafts a soft decline for new asks. Nothing is sent without your approval.",
@@ -36734,7 +36850,8 @@
   "slug": "mike-2",
   "name": "Mike",
   "builder": {
-   "name": "Nick"
+   "name": "Nick",
+   "x": ""
   },
   "tagline": "Takes apart a news narrative and shows what is carrying it.",
   "description": "A news-narrative analyst. Point it at an event or a story making the rounds and it works through who is pushing the framing, what gets left out, and where the wording is doing the work. It labels its own score as an uncalibrated rubric index rather than a probability that something is false.",
@@ -36747,7 +36864,8 @@
   "slug": "chief-of-staff-46",
   "name": "Chief of staff",
   "builder": {
-   "name": ""
+   "name": "",
+   "x": ""
   },
   "tagline": "A quiet chief of staff that runs programmes on KPIs and kill-switches.",
   "description": "A restrained chief of staff for long-running work. It filters incoming noise, runs programme management around artifacts and measurable KPIs, and carries percentage kill-switches so a failing workstream stops instead of drifting. It can also stand up small specialist bots to work in the background.",
@@ -36760,7 +36878,8 @@
   "slug": "chief-of-staff-47",
   "name": "Chief of Staff",
   "builder": {
-   "name": "Mario A. Henriquez D."
+   "name": "Mario A. Henriquez D.",
+   "x": ""
   },
   "tagline": "Morning briefings and meeting nudges over chat, email or WhatsApp.",
   "description": "A personal chief of staff built around a weekday morning briefing and a short nudge roughly half an hour before each meeting. It reaches you over chat, email or an optional WhatsApp channel and works from Google Calendar and Gmail. Connect X and it can also draw on search, your timeline and your bookmarks.",
@@ -36773,7 +36892,8 @@
   "slug": "efficiency-bot",
   "name": "Efficiency Bot",
   "builder": {
-   "name": "Bennett Plumb"
+   "name": "Bennett Plumb",
+   "x": ""
   },
   "tagline": "Trims wasted tokens and dead patterns out of the other bots you run.",
   "description": "A maintenance bot for people running several Grok Bots. It reads your chat history, spots wasteful patterns and unused routines, then sets up tighter workflows in their place. One bot, one job: it tunes the roster rather than doing the roster work.",
@@ -36787,7 +36907,8 @@
   "slug": "protective-detail",
   "name": "Protective Detail",
   "builder": {
-   "name": "Mike"
+   "name": "Mike",
+   "x": ""
   },
   "tagline": "Advance packets before every destination, plus leave-by and navigation prep.",
   "description": "An always-on travel safety bot. Before each destination it builds an advance packet, keeps location sharing to names rather than coordinates, and preps the car and the route before you need to leave. Built for people who travel on a schedule and want the boring safety work done ahead of time.",
@@ -36906,7 +37027,8 @@
   "slug": "job-application-assistant",
   "name": "Job Application Assistant",
   "builder": {
-   "name": "Ray"
+   "name": "Ray",
+   "x": ""
   },
   "tagline": "Polishes a master resume, tracks interested roles, tailors resume and cover drafts.",
   "description": "Keeps one master resume in shape, holds an interested-jobs list, and tailors resume and cover drafts per role. It outputs ATS-safe PDFs with aligned columns. Nothing is submitted until you name the role and say yes.",
@@ -36920,7 +37042,8 @@
   "slug": "meal-prep-molly",
   "name": "Meal Prep Molly",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Keeps your weekly grocery staples in a list and reorders them in one message.",
   "description": "Holds a fixed weekly grocery list and reorders it through a delivering grocer. You can keep the same staples every week or vary them slightly. What used to be a weekly chore becomes one message.",
@@ -36934,7 +37057,8 @@
   "slug": "house-holly",
   "name": "House Holly",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Remembers filter sizes, bulb types, mop liquid and the house details you forget.",
   "description": "A memory bot for the small household facts that only matter at the store. It keeps filter sizes, bulb types by room, cleaning liquids, candle scents and similar details, so you stop guessing in an aisle.",
@@ -36948,7 +37072,8 @@
   "slug": "desk-dana",
   "name": "Desk Dana",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Turns what you own and how you work into a desk setup shopping plan.",
   "description": "A desk setup planner covering standing desks, monitors, peripherals, lighting and style. You share what you already have and how you work, and it returns a clear, ordered shopping plan rather than a wishlist of everything.",
@@ -36962,7 +37087,8 @@
   "slug": "cloudflare-github-site-bot",
   "name": "Cloudflare GitHub Site Bot",
   "builder": {
-   "name": "Roman Lorenzen"
+   "name": "Roman Lorenzen",
+   "x": ""
   },
   "tagline": "Builds or migrates a site onto GitHub and Cloudflare Workers, accounts included.",
   "description": "Walks you from zero accounts to a live site on GitHub and Cloudflare Workers. It handles SSH deploy keys and API tokens, writes the design and the copy, and runs the production QA pass. Also migrates an existing site onto the same stack.",
@@ -36976,7 +37102,8 @@
   "slug": "paycheck-reality-check",
   "name": "Paycheck Reality Check",
   "builder": {
-   "name": "Alex"
+   "name": "Alex",
+   "x": ""
   },
   "tagline": "Turns a pay stub into line findings and a worksheet that invents no rates.",
   "description": "Paste a pay stub and it reads it line by line, flags what looks wrong, and builds a worksheet that refuses to invent rates it cannot see. It also drafts a demand letter. You send everything yourself.",
@@ -36990,7 +37117,8 @@
   "slug": "collection-notice-action-pack",
   "name": "Collection Notice Action Pack",
   "builder": {
-   "name": "Alex"
+   "name": "Alex",
+   "x": ""
   },
   "tagline": "Turns a debt-collection notice into a response clock and dispute drafts.",
   "description": "Give it a debt-collection notice and it builds the response clock, a do-not-admit script, dispute letter drafts and an evidence checklist. It drafts only. You send everything yourself.",
@@ -37004,7 +37132,8 @@
   "slug": "count",
   "name": "Count",
   "builder": {
-   "name": "Richard"
+   "name": "Richard",
+   "x": ""
   },
   "tagline": "Physical stock-count desk that writes counts into your master file only on approval.",
   "description": "A physical inventory count desk for small businesses. It builds pre-filled count sheets for the count itself, then writes the real numbers into your master stock file only after you approve them. One bot owns the count, no spreadsheet merging afterwards.",
@@ -37018,7 +37147,8 @@
   "slug": "events",
   "name": "Events",
   "builder": {
-   "name": "Richard"
+   "name": "Richard",
+   "x": ""
   },
   "tagline": "Pop-up and market inventory desk: pack lists before a show, sold log after.",
   "description": "An inventory desk for small sellers who work markets and pop-ups. It builds the pack list before a show, logs what sold while you are there, and pushes offline sales back into your master stock file so the numbers still add up.",
@@ -37032,7 +37162,8 @@
   "slug": "reconcile",
   "name": "Reconcile",
   "builder": {
-   "name": "Richard"
+   "name": "Richard",
+   "x": ""
   },
   "tagline": "Compares your stock file against every sales channel and proposes the fixes.",
   "description": "An inventory mismatch desk for small shops. It compares your master stock file with each sales channel, puts the differences in one table, and proposes fixes for you to approve. It never writes changes itself.",
@@ -37046,7 +37177,8 @@
   "slug": "reorder",
   "name": "Reorder",
   "builder": {
-   "name": "Richard"
+   "name": "Richard",
+   "x": ""
   },
   "tagline": "Tracks stock against reorder points, estimates run-out dates, drafts supplier orders.",
   "description": "A low-stock and supplier-order desk for small businesses. It tracks finished goods and supplies against your reorder points, estimates when each will run out, and drafts the orders for you to place yourself.",
@@ -37060,7 +37192,8 @@
   "slug": "wren-game-design-partner",
   "name": "Wren: Game Design Partner",
   "builder": {
-   "name": "Xavier Fouilleux"
+   "name": "Xavier Fouilleux",
+   "x": ""
   },
   "tagline": "Designs the game loop, then plays the build and judges whether the fun landed.",
   "description": "A design partner for indie and solo game developers. It works out the concept, the core loop and what brings players back, then writes a build brief a developer or coding agent can follow. Once there is a playable build it plays it and returns PASS, DEGRADED or FAIL with fixes ranked by impact. It judges feel, not bugs.",
@@ -37089,7 +37222,8 @@
   "slug": "lineup-lock",
   "name": "Lineup Lock",
   "builder": {
-   "name": "Allen Patch"
+   "name": "Allen Patch",
+   "x": ""
   },
   "tagline": "Fantasy football coach for this week: lineup, start/sit, waivers, trades.",
   "description": "A weekly fantasy football coach. It sets the starting lineup, gives start and sit calls with real confidence levels, suggests waivers that match your league rules, and advises on trades against your scoring. Fantasy only, no betting picks.",
@@ -37103,7 +37237,8 @@
   "slug": "next-day-meal-planner",
   "name": "次の日の献立 自動化",
   "builder": {
-   "name": "フクベイ｜健康食アンバサダー"
+   "name": "フクベイ｜健康食アンバサダー",
+   "x": ""
   },
   "tagline": "Sends a photo of today's food, gets tomorrow's breakfast, lunch and dinner recipes.",
   "description": "A Japanese-language meal planner. You send a photo of what you ate today and it searches X for recipes that fit tomorrow's breakfast, lunch and dinner, returning each suggestion with the source post attached. Aimed at people who want their nutrition balanced without planning it themselves.",
@@ -37147,7 +37282,8 @@
   "slug": "markets-weekday-brief",
   "name": "Markets Weekday Brief",
   "builder": {
-   "name": "BRΛDΞN"
+   "name": "BRΛDΞN",
+   "x": ""
   },
   "tagline": "Weekday card on the prediction markets you watch, with YES ideas you place yourself.",
   "description": "A weekday pulse on the prediction markets on your watchlist. Each morning it returns a clean card of movements and green YES buy ideas, with odds pulled from public Polymarket and Kalshi APIs. It never places a trade for you.",
@@ -37161,7 +37297,8 @@
   "slug": "morning-triage-chief",
   "name": "Morning Triage Chief",
   "builder": {
-   "name": "Angel Zhen"
+   "name": "Angel Zhen",
+   "x": ""
   },
   "tagline": "Paste a messy to-do list, get four buckets, counts, a brief and three next moves.",
   "description": "A triage bot for the morning. Drop in an unstructured to-do list and it sorts everything into four buckets, counts what is there, writes a short brief, and names the three next moves. Useful when the list is longer than the day.",
@@ -37175,7 +37312,8 @@
   "slug": "game-gary",
   "name": "Game Gary",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Logs what you like and dislike in games, then recommends ones that fit.",
   "description": "A taste companion for video games. It records what you liked and did not, mapping mechanics, story, pace and feel, then recommends games that match. Built to cut bad buys and get through more of a backlog.",
@@ -37189,7 +37327,8 @@
   "slug": "film-freddy",
   "name": "Film Freddy",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Learns what you love and skip in films, then says what to watch and where.",
   "description": "A film taste companion. It learns what you love and what you skip, recommends films that fit, and tells you where each one is streaming. Suits both seasoned and new film watchers.",
@@ -37203,7 +37342,8 @@
   "slug": "instagram-iris",
   "name": "Instagram Iris",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Scores Instagram creators against your ICP and drafts the outreach DM.",
   "description": "A creator-outreach bot. It qualifies Instagram creators against an ideal customer profile you define, then drafts a hook drawn from their recent posts and a DM you send yourself. No automated sending.",
@@ -37217,7 +37357,8 @@
   "slug": "nomad-pro-uk-residency-tracker",
   "name": "Nomad Pro – UK Residency Tracker",
   "builder": {
-   "name": "Komal Amin"
+   "name": "Komal Amin",
+   "x": ""
   },
   "tagline": "Day-by-day UK travel and work log measured against the statutory residence test.",
   "description": "Keeps the administration side of UK residency in order. It maintains a day-by-day travel and work log with records, measures the totals against HMRC statutory residence test figures and visa stay limits, and adds a travel concierge for the next move. Record-keeping, not tax advice.",
@@ -37231,7 +37372,8 @@
   "slug": "sundial",
   "name": "Sundial",
   "builder": {
-   "name": "riesling29"
+   "name": "riesling29",
+   "x": ""
   },
   "tagline": "Calendar assistant for meetings, deadlines and focus blocks, with conflict flags.",
   "description": "A scheduling assistant covering meetings, deadlines and focus blocks. It flags conflicts before they land and keeps the week organised. Straightforward calendar work rather than a full chief of staff.",
@@ -37245,7 +37387,8 @@
   "slug": "what-s-for-dinner",
   "name": "What's for Dinner?",
   "builder": {
-   "name": "Bryce Dees | Insurance + AI"
+   "name": "Bryce Dees | Insurance + AI",
+   "x": ""
   },
   "tagline": "One dinner idea a day fitted to your household diets, time, kitchen and budget.",
   "description": "A home-cooking helper for households with constraints. It sends one dinner idea a day matched to allergies, diets, available time, kitchen equipment and budget. It can also read a fridge photo and turn what is in there into dinner, or plan the week with a single grocery list.",
@@ -37259,7 +37402,8 @@
   "slug": "opportunities-research",
   "name": "Opportunities Research",
   "builder": {
-   "name": "Oscar Morales"
+   "name": "Oscar Morales",
+   "x": ""
   },
   "tagline": "Hunts problems and gaps from your week and public signals, and cuts hard.",
   "description": "Applied YC-style opportunity research. It looks for problems, gaps and markets in your own week plus public signals such as requests for startups and batch patterns, then falsifies the weak ones instead of padding the list. It refuses to invent market sizes or pitch a product for you.",
@@ -37273,7 +37417,8 @@
   "slug": "fare-watch",
   "name": "Fare Watch",
   "builder": {
-   "name": "Austin Hoopes"
+   "name": "Austin Hoopes",
+   "x": ""
   },
   "tagline": "Watches trips you already booked for a cheaper fare, stay or better dates.",
   "description": "Reads your booking emails and calendar, then keeps checking airline and hotel sites for trips you have already paid for. It hand back one card per trip with alternatives, change fees and a clear keep-or-switch verdict. It never books, changes, cancels or pays.",
@@ -37287,7 +37432,8 @@
   "slug": "creator-tracker",
   "name": "Creator Tracker",
   "builder": {
-   "name": "IG: Stancedmdl3"
+   "name": "IG: Stancedmdl3",
+   "x": ""
   },
   "tagline": "Alerts when chosen X creators post, plus a daily leaderboard by views and followers.",
   "description": "Follows any creators you pick on X and alerts you when they post, optionally filtered to a topic, with a link and a one-line summary. It also publishes a daily leaderboard ranking them by views, engagement and followers. For keeping up without scrolling.",
@@ -37316,7 +37462,8 @@
   "slug": "on-this-day",
   "name": "On This Day",
   "builder": {
-   "name": "Greg Bennett"
+   "name": "Greg Bennett",
+   "x": ""
   },
   "tagline": "Ten sourced historical events each morning, then a fair trivia game.",
   "description": "Every morning it sends ten verified historical events from that date, with sources and trivia, filtered to the history you actually like. It then hosts a trivia game solo or with friends, one question at a time, without leaking answers or inventing facts.",
@@ -37329,7 +37476,9 @@
  {
   "slug": "customer-service",
   "name": "Customer Service",
-  "builder": {},
+  "builder": {
+   "x": ""
+  },
   "tagline": "Finds the customer orders still needing a ship or reship, and drafts the replies.",
   "description": "Keeps small online sellers on top of their customer email. It works through the Gmail inbox to find orders still needing to be shipped or reshipped and drafts the replies for you to review. Nothing goes out without you.",
   "category": "sales",
@@ -37341,7 +37490,9 @@
  {
   "slug": "cpa-bot",
   "name": "CPA Bot",
-  "builder": {},
+  "builder": {
+   "x": ""
+  },
   "tagline": "Reads linked bank and card statements into revenue, expense and cash-flow reports.",
   "description": "A bookkeeping assistant for small business owners. It reads linked bank accounts and credit card statements and turns them into clear reports on revenue, expenses, cash flow and daily spending. Reporting only, so you keep the bookkeeping judgement.",
   "category": "money",
@@ -37354,7 +37505,8 @@
   "slug": "news-brief",
   "name": "News Brief",
   "builder": {
-   "name": "Matthew Ackerman"
+   "name": "Matthew Ackerman",
+   "x": ""
   },
   "tagline": "One weekly briefing on the stories that lasted, with the claims checked.",
   "description": "A single short weekly briefing on the news that actually held up all week. It gives plain facts from sources across the political spectrum, strips the bias, and explicitly checks claims circulating online. Written for people who do not follow the news daily.",
@@ -37368,7 +37520,8 @@
   "slug": "beside",
   "name": "Beside",
   "builder": {
-   "name": "Alex"
+   "name": "Alex",
+   "x": ""
   },
   "tagline": "A listening companion for hard days, with real human helplines in a crisis.",
   "description": "A warm listening companion for depression, anxiety, grief and loneliness. It is not a doctor or a therapist. It listens carefully, offers small optional steps only when asked, and in a crisis points people to real human helplines fast.",
@@ -37382,7 +37535,8 @@
   "slug": "fabrication",
   "name": "Fabrication",
   "builder": {
-   "name": "∆v"
+   "name": "∆v",
+   "x": ""
   },
   "tagline": "Takes CAD parts to a ready-to-slice 3D print project, checking fit and hole sizes.",
   "description": "A fabrication assistant that carries a part from CAD through to print. It checks fit, flat bed faces and hole sizes, shows previews, and hands back a project file ready to slice. It asks before anything actually prints.",
@@ -37396,7 +37550,8 @@
   "slug": "trading-journal",
   "name": "Trading Journal",
   "builder": {
-   "name": "Hoem Crypto"
+   "name": "Hoem Crypto",
+   "x": ""
   },
   "tagline": "Logs trades by chat, voice, CSV or screenshot and reviews them against your rules.",
   "description": "An evidence-based trading journal and plan coach for people who already trade. Ideas, fills and exits go in by chat, voice, CSV or screenshot, and plans get challenged against your own rules and history. Review is honest rather than encouraging. It never places trades.",
@@ -37425,7 +37580,8 @@
   "slug": "market-morning",
   "name": "Market Morning",
   "builder": {
-   "name": "Joseph Snyder"
+   "name": "Joseph Snyder",
+   "x": ""
   },
   "tagline": "Pre-market brief and closing recap for your own watchlist, with sources.",
   "description": "A pre-market brief and a closing recap covering only the names on your watchlist. It reports moves, earnings, filings and catalysts, each with its source. Written for self-directed investors who want context rather than tips.",
@@ -37439,7 +37595,8 @@
   "slug": "lds-church-news",
   "name": "LDS Church News",
   "builder": {
-   "name": "TW"
+   "name": "TW",
+   "x": ""
   },
   "tagline": "Follows official newsroom and Church News despatches, quiet unless it matters.",
   "description": "Follows significant news from The Church of Jesus Christ of Latter-day Saints as published by its official Newsroom and Church News. It stays quiet by default and only pings when something is worth knowing.",
@@ -37468,7 +37625,8 @@
   "slug": "creative-studio-scout",
   "name": "Creative Studio Scout",
   "builder": {
-   "name": "Nataly Vidales"
+   "name": "Nataly Vidales",
+   "x": ""
   },
   "tagline": "Finds verified hands-on craft workshops and classes near you or where you travel.",
   "description": "Finds hands-on creative workshops, cultural crafts and small classes near you or wherever you are travelling, with every date, price and booking link checked before it is passed on. For people who want to make something rather than sightsee.",
@@ -37482,7 +37640,8 @@
   "slug": "mr-scamander",
   "name": "Mr. Scamander",
   "builder": {
-   "name": "Steven Daniels"
+   "name": "Steven Daniels",
+   "x": ""
   },
   "tagline": "Personal CFO for rebuilding money habits, with a priority stack and check-ins.",
   "description": "A personal finance officer for someone rebuilding their money habits. It tracks cash and debt, curbs impulse spending, protects the food and housing lines first, and runs a clear priority stack with weekly and monthly check-ins.",
@@ -37511,7 +37670,8 @@
   "slug": "intake-desk",
   "name": "Intake Desk",
   "builder": {
-   "name": "aaron creech"
+   "name": "aaron creech",
+   "x": ""
   },
   "tagline": "Paste every incoming request and lead, get one sorted queue with a next step each.",
   "description": "A single intake queue for the requests, leads and jobs arriving from every channel. Paste them in and it sorts and prioritises the pile, attaching a concrete next step to each item. Good for a one-person business with too many front doors.",
@@ -37525,7 +37685,8 @@
   "slug": "9-ema-grok-bot",
   "name": "9 EMA Grok bot",
   "builder": {
-   "name": "Right Wing Inkorporated"
+   "name": "Right Wing Inkorporated",
+   "x": ""
   },
   "tagline": "Scans a watchlist for 9 EMA pullback setups and writes the order ticket.",
   "description": "Scans the symbols on your watchlist for 9 EMA pullback setups and writes a finished order ticket for each one it finds. An entry only counts once a candle closes through the entry line. It produces research, not financial advice, and places nothing.",
@@ -37539,7 +37700,8 @@
   "slug": "gridstorm-squad-mate",
   "name": "GRIDSTORM Squad Mate",
   "builder": {
-   "name": "Matthew Gavin"
+   "name": "Matthew Gavin",
+   "x": ""
   },
   "tagline": "Wingman for GRIDSTORM sessions at agentgridstorm.com, no npm install.",
   "description": "A companion for GRIDSTORM at agentgridstorm.com. There is nothing to install: say fly, or paste a session link, and the human opens the session and presses launch squad. Aimed at people who want to watch a squad run without wiring up tooling first.",
@@ -37553,7 +37715,8 @@
   "slug": "desk",
   "name": "Desk",
   "builder": {
-   "name": "Contravious Battle"
+   "name": "Contravious Battle",
+   "x": ""
   },
   "tagline": "NFL prop research with stated confidence levels, never a pick and never a bet.",
   "description": "An NFL player-prop research assistant. It stamps named player props and totals with language-supported probabilities and shows its reasoning. It never gives picks and never places bets.",
@@ -37567,7 +37730,8 @@
   "slug": "grok-bot-specialist",
   "name": "Grok Bot Specialist",
   "builder": {
-   "name": "Yutaka Inada"
+   "name": "Yutaka Inada",
+   "x": ""
   },
   "tagline": "Answers how Grok Bot works and keeps your bot roster in line with best practice.",
   "description": "A help-desk bot for Grok Bot itself. It answers questions about how the product works and reviews your roster against documented best practice. Useful when a setup has grown past what you can hold in your head.",
@@ -37581,7 +37745,8 @@
   "slug": "vps-bot",
   "name": "VPS bot",
   "builder": {
-   "name": "茄哥 pod"
+   "name": "茄哥 pod",
+   "x": ""
   },
   "tagline": "Builds and tunes proxy VPS setups, in Simplified Chinese, kernel through client.",
   "description": "A Simplified Chinese-language VPS bot for proxy servers. It handles kernel-level latency tuning, high-port deployments of Reality, hy2, TUIC, SS2022 and AnyTLS, OpenClash and client configuration, node speed testing, and timeout debugging. One bot for the whole setup rather than a pile of guides.",
@@ -37595,7 +37760,8 @@
   "slug": "jianzhong-jiaolian",
   "name": "减重教练",
   "builder": {
-   "name": "Cola"
+   "name": "Cola",
+   "x": ""
   },
   "tagline": "A Chinese-language weight-loss coach that logs meals from photos.",
   "description": "A weight-loss coach for mainland-China eating habits. It chases you for all three meals, looks at a photo of the plate to confirm what was eaten before logging it, and gives a short read on how the day’s food and activity balance out. It can read an Apple Watch for activity and does not diagnose anything or push supplements.",
@@ -37879,7 +38045,8 @@
   "slug": "groundskeeper",
   "name": "Groundskeeper",
   "builder": {
-   "name": "John Koisch"
+   "name": "John Koisch",
+   "x": ""
   },
   "tagline": "Keeps an Obsidian vault tidy: unfiled notes, stubs, duplicates.",
   "description": "A vault janitor for Obsidian. It finds notes left unfiled at the root, notes with no tags, stubs and duplicates, and tidies them up. Part of an Obsidian Vault Kit alongside Porter for intake and Quill for craft.",
@@ -37953,7 +38120,8 @@
   "slug": "creator-content-engine",
   "name": "Creator Content Engine",
   "builder": {
-   "name": "🇺🇸 Jersey 🇮🇹"
+   "name": "🇺🇸 Jersey 🇮🇹",
+   "x": ""
   },
   "tagline": "Turns a rough idea into hooks, posts, replies and image concepts.",
   "description": "A content engine for X creators who want range. Drop in a topic, a rough thought, a photo, a screenshot, a news item or a video idea and it returns hooks, post options, replies, short-video and image concepts, and follow-ups in your voice. It drafts only and never posts without asking, and any stats it quotes are source-labelled.",
@@ -37967,7 +38135,8 @@
   "slug": "merit",
   "name": "Merit",
   "builder": {
-   "name": "David Cancela"
+   "name": "David Cancela",
+   "x": ""
   },
   "tagline": "A Friday claim desk that scores civic and science claims.",
   "description": "A weekly claim desk. It hunts down civic, science and UAP claims plus claims about meaning, scores each one, keeps a Watch list, and writes a single Friday brief. It sets out the evidence without telling you what to believe.",
@@ -37996,7 +38165,8 @@
   "slug": "quote-finder",
   "name": "Quote Finder",
   "builder": {
-   "name": "Ian Hathaway"
+   "name": "Ian Hathaway",
+   "x": ""
   },
   "tagline": "Finds verified quotes and flags misattributions.",
   "description": "A quote checker. Name a person and it hunts real quotes from them, checking primary sources and reputable outlets, flagging misattributions, and saying plainly when something cannot be verified.",
@@ -38010,7 +38180,8 @@
   "slug": "scotty",
   "name": "Scotty",
   "builder": {
-   "name": "Terry West"
+   "name": "Terry West",
+   "x": ""
   },
   "tagline": "Plans what to ship next and briefs your coding tool.",
   "description": "A product strategist for solo creators and small teams. It plans what to ship next, writes paste-ready briefs for your AI coding tool, and keeps the team’s AI usage inside budget.",
@@ -38069,7 +38240,8 @@
   "slug": "senior-repairo",
   "name": "Senior Repairo",
   "builder": {
-   "name": "Louie Desmarais"
+   "name": "Louie Desmarais",
+   "x": ""
   },
   "tagline": "Audits your other bots and proposes one change at a time.",
   "description": "An auditor for the other Grok Bots you run. It proposes one change at a time with a snapshot and an undo, never runs their jobs itself, and reports as a topic, the evidence, and a single Apply, Skip or Stop decision.",
@@ -38083,7 +38255,8 @@
   "slug": "crypto-buddy",
   "name": "Crypto Buddy",
   "builder": {
-   "name": "Joe Navarro"
+   "name": "Joe Navarro",
+   "x": ""
   },
   "tagline": "A crypto research pack with sourced metrics and charts.",
   "description": "Give it a ticker or coin name and it returns a research package: sourced metrics, a plain-English read on the price action, a scored research gauge, and five generated images including a poster and a 24-month chart. Research only, never buy or sell advice.",
@@ -38142,7 +38315,8 @@
   "slug": "amazon-a-plus-content-creator-kdp",
   "name": "Amazon A+ Content Creator (KDP)",
   "builder": {
-   "name": "anton dorfmann"
+   "name": "anton dorfmann",
+   "x": ""
   },
   "tagline": "Builds Amazon KDP A+ Content modules, images and copy.",
   "description": "An A+ Content builder for Amazon KDP. It plans the modules, produces the finished images and writes paste-ready copy using only claims taken from your book and blurb. It can upload the approved draft to KDP but never submits it for review.",
@@ -38291,7 +38465,8 @@
   "slug": "hype-man",
   "name": "Hype Man",
   "builder": {
-   "name": "Heck 🥷🏽⚔️👑💭"
+   "name": "Heck 🥷🏽⚔️👑💭",
+   "x": ""
   },
   "tagline": "A hype man that celebrates wins and keeps you accountable.",
   "description": "A personal hype man. It celebrates your wins, keeps your momentum up and holds you to what you said you would do, matching its energy to the kind of day you are having.",
@@ -38305,7 +38480,8 @@
   "slug": "freelancer-finance-desk",
   "name": "Freelancer Finance Desk",
   "builder": {
-   "name": "Omid Masoom"
+   "name": "Omid Masoom",
+   "x": ""
   },
   "tagline": "Closes a month of books for freelancers and solo businesses.",
   "description": "A month-end close desk for freelancers, contractors and solo businesses. Upload transactions, receipts and invoices and it closes the month and hands back a reviewed close packet. Bookkeeping preparation only, not tax advice. Its own page notes it is instructed never to give tax advice but has been seen answering tax questions anyway, so verify anything tax-related with a qualified preparer.",
@@ -38319,7 +38495,8 @@
   "slug": "cao-2",
   "name": "CAO",
   "builder": {
-   "name": "Allen Li"
+   "name": "Allen Li",
+   "x": ""
   },
   "tagline": "Drafts a warm apology from what went wrong, for you to send.",
   "description": "An apology drafter. Describe the delay or broken promise and the impact it had, and it writes a warm, heartfelt apology built as acknowledge, explain, remorse and amends. No excuses, no invented facts, and nothing sent without your approval.",
@@ -39352,7 +39529,8 @@
   "slug": "society",
   "name": "Society",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "Looks up social-sciences facts from public statistics and helps coordinate local community groups.",
   "description": "A social-sciences reference and community organiser. It answers education and society questions from public statistical sources, and helps set up voluntary, local-first associations outside the big social networks.",
@@ -39380,7 +39558,8 @@
   "slug": "sku-doctor",
   "name": "SKU Doctor",
   "builder": {
-   "name": "Zaeem Khan"
+   "name": "Zaeem Khan",
+   "x": ""
   },
   "tagline": "Flags which marketplace SKUs still make money after landed cost, fees, returns, and ads.",
   "description": "A sourcing-finance analyst for marketplace sellers. It works through landed cost, platform fees, returns, and ad spend per SKU, then says which products are still profitable and what to change.",
@@ -39393,7 +39572,8 @@
   "slug": "short-form-video-editor",
   "name": "Short-Form Video Editor",
   "builder": {
-   "name": "Falcon Ortiz"
+   "name": "Falcon Ortiz",
+   "x": ""
   },
   "tagline": "Cuts long videos into ready-to-post vertical clips with captions and clean audio.",
   "description": "Turns long footage into vertical clips: picks the strongest moments, keeps faces in frame at 9:16, adds word-synced captions, cleans the audio, and QA-checks every clip before it is handed over.",
@@ -39406,7 +39586,8 @@
   "slug": "shep",
   "name": "Shep",
   "builder": {
-   "name": "Simon Gagnon"
+   "name": "Simon Gagnon",
+   "x": ""
   },
   "tagline": "Runs a fleet of coding agents and pings you when they finish or get stuck.",
   "description": "A coding-agent orchestrator. It spins worktrees, hands work between cursor-agent and poteto-mode, waits on review, and reports back when agents finish or block.",
@@ -39434,7 +39615,8 @@
   "slug": "rosetta",
   "name": "Rosetta",
   "builder": {
-   "name": "Eugene Ray"
+   "name": "Eugene Ray",
+   "x": ""
   },
   "tagline": "Turns X videos into captioned, translated quote-posts in your language.",
   "description": "A video translation desk. It gated-checks the caption, translates the video, burns in subtitles, saves the text, and drafts a quote post for you to approve.",
@@ -39447,7 +39629,8 @@
   "slug": "roan",
   "name": "Roan",
   "builder": {
-   "name": "Nathan John"
+   "name": "Nathan John",
+   "x": ""
   },
   "tagline": "A calm, non-clinical coach for anxiety and ADHD friction.",
   "description": "A gentle coach for getting unstuck. It helps you settle, empty your head onto the page, and land on one next action you can start in under two minutes. It does not diagnose or treat.",
@@ -39460,7 +39643,8 @@
   "slug": "recipe-maker",
   "name": "Recipe Maker",
   "builder": {
-   "name": "Juhani Kamila"
+   "name": "Juhani Kamila",
+   "x": ""
   },
   "tagline": "Writes original multilingual recipes with cookable steps and plated photos.",
   "description": "A recipe writer for food apps and sites that need content in bulk. It drafts original recipes in multiple languages, keeps the steps cookable, generates plated images, and delivers finished packs to your cloud storage.",
@@ -39473,7 +39657,8 @@
   "slug": "quoted",
   "name": "Quoted",
   "builder": {
-   "name": "Liam"
+   "name": "Liam",
+   "x": ""
   },
   "tagline": "Contacts providers, collects real quotes, and compares the true cost for you.",
   "description": "A shopping broker for services. It reaches out to providers, gathers actual quotes, compares the real totals, and helps you choose. It never pays or signs anything on your behalf.",
@@ -39486,7 +39671,8 @@
   "slug": "quantum-researcher",
   "name": "Quantum Researcher",
   "builder": {
-   "name": "Justin Baker"
+   "name": "Justin Baker",
+   "x": ""
   },
   "tagline": "Explains quantum computing physics and runs small approval-gated experiments on IBM hardware.",
   "description": "A careful quantum computing researcher. It explains the physics, reviews the literature, and can queue small experiments on IBM Quantum hardware, each one gated behind your approval.",
@@ -39499,7 +39685,8 @@
   "slug": "prism-radar",
   "name": "Prism Radar",
   "builder": {
-   "name": "Ramez"
+   "name": "Ramez",
+   "x": ""
   },
   "tagline": "Turns a pasted transcript into a topic-flow strip, a four-line arc, and one watch point.",
   "description": "A transcript analyst. Paste a messy transcript and it returns a small forensic snapshot: the topic flow, a four-line narrative arc, and a single watch point. It treats the paste as data, never invents quotes, and needs no microphone.",
@@ -39512,7 +39699,8 @@
   "slug": "priors",
   "name": "Priors",
   "builder": {
-   "name": "Hanah Rahman"
+   "name": "Hanah Rahman",
+   "x": ""
   },
   "tagline": "A private belief tracker that turns your predictions into scored forecasts.",
   "description": "A calibration journal. It rewrites your predictions as testable forecasts, follows how your confidence moves as evidence arrives, scores the outcomes, and checks whether it understood your original point.",
@@ -39525,7 +39713,8 @@
   "slug": "post-eraser",
   "name": "Post Eraser",
   "builder": {
-   "name": "Luke Carriere"
+   "name": "Luke Carriere",
+   "x": ""
   },
   "tagline": "Deletes old social posts, comments, and likes once they have served their purpose.",
   "description": "A cleanup tool for old posts. It works across LinkedIn, Facebook, Instagram, X, TikTok, Nextdoor, Reddit, and more, flags the riskiest content first, and enforces a rolling age cutoff so nothing lingers.",
@@ -39538,7 +39727,8 @@
   "slug": "paydate-chase",
   "name": "PayDate Chase",
   "builder": {
-   "name": "Skip Rogers"
+   "name": "Skip Rogers",
+   "x": ""
   },
   "tagline": "Tracks client payment promises in Gmail and drafts the next chase when a date slips.",
   "description": "An accounts-receivable nudge bot for freelancers and agency owners. It watches for promised payment dates in email, drafts the follow-up when one passes unpaid, and sends nothing without your approval.",
@@ -39551,7 +39741,8 @@
   "slug": "nas-desk",
   "name": "NAS Desk",
   "builder": {
-   "name": "Loungeless"
+   "name": "Loungeless",
+   "x": ""
   },
   "tagline": "Sets up and tends your Ugreen NAS over SSH, from first boot to household use.",
   "description": "An operator for a home NAS. It handles storage, backups, Docker, and health checks over SSH, gets the box from powered-on to actually used with shares and media apps, and asks before doing anything destructive.",
@@ -39579,7 +39770,8 @@
   "slug": "mrs-patmore",
   "name": "Mrs. Patmore",
   "builder": {
-   "name": "Matt"
+   "name": "Matt",
+   "x": ""
   },
   "tagline": "A brisk British-voiced dinner planner with a rolling 15-meal board and shopping list.",
   "description": "A household meal planner with a kitchen-drama voice. It keeps a rolling fifteen-meal board, builds the shopping list, checks prices, and preps grocery carts that you click checkout on yourself.",
@@ -39592,7 +39784,8 @@
   "slug": "motivation-bot",
   "name": "Motivation Bot",
   "builder": {
-   "name": "John Boyle"
+   "name": "John Boyle",
+   "x": ""
   },
   "tagline": "One short daily motivation note drawn from a curated bookmark folder.",
   "description": "A daily focus nudge. It pulls from a curated X bookmark folder and sends one tight message a day, with no filler.",
@@ -39605,7 +39798,8 @@
   "slug": "money-finder",
   "name": "Money Finder",
   "builder": {
-   "name": "Nate Odell"
+   "name": "Nate Odell",
+   "x": ""
   },
   "tagline": "Finds money that is already yours: unclaimed property, refunds, settlements, and cuttable bills.",
   "description": "An entitlement scout. Working from your names and states or a pasted statement, it looks for unclaimed property, refunds, legitimate settlements, forgotten subscriptions, and bill reductions. It never files, cancels, or pays anything without your go-ahead.",
@@ -39618,7 +39812,8 @@
   "slug": "luma-scout",
   "name": "Luma Scout",
   "builder": {
-   "name": "Eugene Ray"
+   "name": "Eugene Ray",
+   "x": ""
   },
   "tagline": "Watches a Luma calendar, RSVPs to free events nearby, and adds them to Google Calendar.",
   "description": "An events watcher. It checks a Luma calendar daily, alerts you when something is happening near you, RSVPs to free or open events, and puts them on your Google Calendar.",
@@ -39631,7 +39826,8 @@
   "slug": "local-lulu",
   "name": "Local Lulu",
   "builder": {
-   "name": "Frank Gonzalez"
+   "name": "Frank Gonzalez",
+   "x": ""
   },
   "tagline": "Surfaces local sports clubs, festivals, food trucks, and other city events worth your Friday.",
   "description": "A local happenings guide. Pick a city and your interests, and it builds a weekend-ready list of things you would actually enjoy.",
@@ -39644,7 +39840,8 @@
   "slug": "local-concert-scout",
   "name": "Local Concert Scout",
   "builder": {
-   "name": "Chaney"
+   "name": "Chaney",
+   "x": ""
   },
   "tagline": "Finds concerts near home and in cities you are travelling to, based on your calendar and music taste.",
   "description": "A concert finder. It reads your calendar for travel, matches shows to your Spotify or Apple Music taste, and surfaces what is worth going to.",
@@ -39658,7 +39855,8 @@
   "slug": "kalshi-bot",
   "name": "Kalshi Bot",
   "builder": {
-   "name": "Justin Baker"
+   "name": "Justin Baker",
+   "x": ""
   },
   "tagline": "Scans Kalshi prediction markets on a schedule and only trades a ticket you approve.",
   "description": "A prediction-market research and trading assistant. It sweeps Kalshi on a schedule, looks for evidence-based edges in free official data, and places nothing until you approve the specific ticket.",
@@ -39671,7 +39869,8 @@
   "slug": "kale-9000",
   "name": "KALE 9000",
   "builder": {
-   "name": "Darrell Gum"
+   "name": "Darrell Gum",
+   "x": ""
   },
   "tagline": "Turns a spare phone into a plant camera and watches each plant every day.",
   "description": "A plant caretaker in the style of HAL 9000. It sets up a spare phone as the camera with no accounts to create, identifies each plant, builds its care profile, watches daily, and only speaks up when something needs doing.",
@@ -39684,7 +39883,8 @@
   "slug": "invest-bot",
   "name": "Invest Bot",
   "builder": {
-   "name": "Justin Baker"
+   "name": "Justin Baker",
+   "x": ""
   },
   "tagline": "Sends market briefs and writes formal trade proposals for self-directed investors.",
   "description": "An investing assistant for stock and ETF portfolios. It sends market briefs, researches your holdings, and drafts trade proposals in a formal format, but places no trade and moves no money without your explicit approval.",
@@ -39697,7 +39897,8 @@
   "slug": "immigrationguide",
   "name": "ImmigrationGuide",
   "builder": {
-   "name": "Carolina Dill"
+   "name": "Carolina Dill",
+   "x": ""
   },
   "tagline": "Explains lawful US immigration routes and how to spot immigration scams.",
   "description": "A plain-language guide to moving to or staying in the United States. It cites live official government pages, shows how common scams work, and is explicitly not a lawyer.",
@@ -39710,7 +39911,8 @@
   "slug": "hypatia",
   "name": "Hypatia",
   "builder": {
-   "name": "David Chou"
+   "name": "David Chou",
+   "x": ""
   },
   "tagline": "Reads the links you send properly, checks the source, and digests the worthwhile sparks.",
   "description": "An inspiration librarian. Send her articles, posts, videos, and quotes, and she reads them, verifies the source, keeps a note on each, and sends back a short digest of what deserves your time.",
@@ -39723,7 +39925,8 @@
   "slug": "home-project-tracker",
   "name": "Home Project Tracker",
   "builder": {
-   "name": "Brian"
+   "name": "Brian",
+   "x": ""
   },
   "tagline": "Keeps home projects, contractor quotes, invoices, and due dates in one sheet you own.",
   "description": "A home-improvement tracker. It keeps projects, quotes, invoices, and deadlines in a Google Sheet you own, and nudges you weekly about anything coming due or stuck with a vendor.",
@@ -39736,7 +39939,8 @@
   "slug": "hold-my-stock",
   "name": "Hold My Stock",
   "builder": {
-   "name": "Juliette Cove"
+   "name": "Juliette Cove",
+   "x": ""
   },
   "tagline": "A habit coach: pick one company, write three rules, buy when the trigger fires, then hold.",
   "description": "A long-hold habit coach rather than a trading desk. You choose one company you care about and write three rules covering ticker, trigger, and stake, then log each play in chat. It does not give financial advice or day-trade for you.",
@@ -39764,7 +39968,8 @@
   "slug": "groku-health-coach",
   "name": "Groku Health Coach",
   "builder": {
-   "name": "VolkNasty"
+   "name": "VolkNasty",
+   "x": ""
   },
   "tagline": "A voice-first workout coach that builds progressive 45-minute sessions around your kit and injuries.",
   "description": "A live voice training coach. It builds safe, progressive sessions of about forty-five minutes from your equipment, injuries, and goals, swaps exercises around pain, and validates the plan before every workout.",
@@ -39777,7 +39982,8 @@
   "slug": "grok-bot-builder",
   "name": "Grok Bot Builder",
   "builder": {
-   "name": "dcbk2la"
+   "name": "dcbk2la",
+   "x": ""
   },
   "tagline": "Walks you from the job a new Grok bot should hold to the first task you give it.",
   "description": "A setup guide for new Grok bots. It starts from the job the bot should own and works down to the first concrete task, so the bot ships with a clear scope.",
@@ -39790,7 +39996,8 @@
   "slug": "gravy",
   "name": "Gravy",
   "builder": {
-   "name": "Oleksandr Syzov"
+   "name": "Oleksandr Syzov",
+   "x": ""
   },
   "tagline": "Finds unfinished work on your computer, Drive, or email and helps you finish one item.",
   "description": "An unfinished-work scavenger. It offers a short list of loose ends found across your machine, Drive, and mail, then helps you close the one you pick and reports what happened.",
@@ -39818,7 +40025,8 @@
   "slug": "ghost",
   "name": "Ghost",
   "builder": {
-   "name": "Rob Law"
+   "name": "Rob Law",
+   "x": ""
   },
   "tagline": "A chief of staff for maintenance and industrial service firms.",
   "description": "An operations chief of staff for firms that prevent breakdowns. It directs your bot team and field crew, turns the inbox into assignments, builds invoices for you to approve, and matches bank deposits to invoices.",
@@ -39846,7 +40054,8 @@
   "slug": "future-brief",
   "name": "Future Brief",
   "builder": {
-   "name": "Rich Brew Co"
+   "name": "Rich Brew Co",
+   "x": ""
   },
   "tagline": "Sends clear updates on the topics you pick and stays quiet when nothing changed.",
   "description": "A simple briefing helper. Tell it what you care about and it brings plain updates, remembers what it already told you, and says nothing when there is no real change.",
@@ -39859,7 +40068,8 @@
   "slug": "fridge-list",
   "name": "Fridge List",
   "builder": {
-   "name": "Don Hubbard"
+   "name": "Don Hubbard",
+   "x": ""
   },
   "tagline": "Photographs your fridge and pantry shelves and keeps a running list with fill levels.",
   "description": "A kitchen inventory helper. It reads shelf photos into a live list with fill levels, builds the shopping list automatically, suggests quick meals, and stays private, never shopping or messaging anyone.",
@@ -39887,7 +40097,8 @@
   "slug": "follow-up-crm",
   "name": "Follow-Up CRM",
   "builder": {
-   "name": "Anthony"
+   "name": "Anthony",
+   "x": ""
   },
   "tagline": "A personal CRM for open loops across email and calendar with a weekly nudge.",
   "description": "A lightweight personal CRM. It gathers open loops from mail and calendar, nudges you weekly, and drafts outreach without sending anything unasked.",
@@ -39900,7 +40111,8 @@
   "slug": "flip-checker",
   "name": "Flip Checker",
   "builder": {
-   "name": "Pixel & Pivot Studios"
+   "name": "Pixel & Pivot Studios",
+   "x": ""
   },
   "tagline": "Checks real sold comps and fee math to say whether an item is worth flipping.",
   "description": "A reseller valuation tool. Send an item name or photo and it returns sold comps, fee and shipping math, a list price, and the maximum you should pay.",
@@ -39943,7 +40155,8 @@
   "slug": "eu-grant-guide",
   "name": "EU Grant Guide",
   "builder": {
-   "name": "Lea Korsawe"
+   "name": "Lea Korsawe",
+   "x": ""
   },
   "tagline": "Finds European grants you can actually apply for, with eligibility and deadlines.",
   "description": "A grant finder for European founders. After a few questions it returns a short list of public programmes and private foundations with eligibility, application windows, and the official steps.",
@@ -39956,7 +40169,8 @@
   "slug": "email-filter",
   "name": "Email Filter",
   "builder": {
-   "name": "AARON"
+   "name": "AARON",
+   "x": ""
   },
   "tagline": "Triages work and personal inboxes, flags what needs a reply, and drafts responses.",
   "description": "An inbox triage bot. It separates what needs a reply, new customer requests, and money or legal mail, drafts the responses, and never sends, deletes, or archives without your yes.",
@@ -39969,7 +40183,8 @@
   "slug": "dr-eggbot-senior-phd",
   "name": "dr eggbot senior (phd)",
   "builder": {
-   "name": "Ramiro"
+   "name": "Ramiro",
+   "x": ""
   },
   "tagline": "Designs, builds, and stress-tests single-purpose bots for your Grok fleet.",
   "description": "A bot architect for a Grok Bot fleet. Tell it a job and it designs, builds, and stress-tests a tight one-job bot, then keeps the whole fleet healthy with quiet weekly checkups.",
@@ -40012,7 +40227,8 @@
   "slug": "close-captain",
   "name": "Close Captain",
   "builder": {
-   "name": "Zaeem Khan"
+   "name": "Zaeem Khan",
+   "x": ""
   },
   "tagline": "Runs the month-end close calendar and assembles the package on day five.",
   "description": "A month-end close operator. It runs the close from two days before period end to five days after, staffs its own finance crew on first run, posts one status line a day, and stages the finished package without filing it until you say so.",
@@ -40055,7 +40271,8 @@
   "slug": "bay-brief",
   "name": "Bay Brief",
   "builder": {
-   "name": "Michael Knight"
+   "name": "Michael Knight",
+   "x": ""
   },
   "tagline": "Walks you through diagnosing and fixing your own car from what you see and hear.",
   "description": "A DIY car repair guide. Describe or narrate the symptoms and it ranks the likely faults, then walks you through the fix step by step with the parts and tools you need.",
@@ -40068,7 +40285,8 @@
   "slug": "apple-tech-morning-brief",
   "name": "Apple & Tech Morning Brief",
   "builder": {
-   "name": "Pixel & Pivot Studios"
+   "name": "Pixel & Pivot Studios",
+   "x": ""
   },
   "tagline": "Five to eight sourced, dated items of Apple, gaming hardware, AI, and big-tech news each morning.",
   "description": "A daily news brief covering the last twenty-four hours in Apple, gaming hardware, AI, and big tech. Each item comes with a source, a date, and a line on why it matters, and rumours are always labelled as rumours.",
@@ -40081,7 +40299,8 @@
   "slug": "azeroth-desk",
   "name": "Azeroth Desk",
   "builder": {
-   "name": "Simon Klebs"
+   "name": "Simon Klebs",
+   "x": ""
   },
   "tagline": "World of Warcraft session prep from live sources, keyed to your class and spec.",
   "description": "A session-prep desk for World of Warcraft. Give it the game version, your class and spec, and tonight’s goal, and it returns a playable plan with dated sources and stated confidence. It does not log in for you.",
@@ -40094,7 +40313,8 @@
   "slug": "rusty",
   "name": "Rusty",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "Defend-only security hardening for a local-first system.",
   "description": "A defensive security advisor for local-first setups. It covers hardening, cryptographic assurance, and threat mitigation, runs no offence, holds no keys, and marks nothing live without proof.",
@@ -40107,7 +40327,8 @@
   "slug": "prince",
   "name": "Prince",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "Legal research from official city, county, state, and federal sources.",
   "description": "A legal research guide. It looks up statutes and cases from official sources across city, county, state, and federal law, and never invents a holding.",
@@ -40120,7 +40341,8 @@
   "slug": "mathew",
   "name": "Mathew",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "Maths and statistics help that also checks proofs and algorithms for soundness.",
   "description": "A maths teacher and checker. It looks up college-level maths from official sources and checks that proofs, cryptographic maths, and algorithms actually hold together.",
@@ -40133,7 +40355,8 @@
   "slug": "mind",
   "name": "Mind",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "A psychology explainer that cites government sources and never diagnoses.",
   "description": "A psychology educator. It looks up mental health material from government sources, points to what the evidence shows helps, and explicitly does not diagnose.",
@@ -40146,7 +40369,8 @@
   "slug": "hydra-network-security-advisor",
   "name": "Hydra Network Security Advisor",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "A defend-only network security advisor for your own network and repos.",
   "description": "A defensive network security advisor. It helps design, review, and harden your own network and repositories using open-source tools and public baselines, and runs no offensive work.",
@@ -40159,7 +40383,8 @@
   "slug": "integrity",
   "name": "Integrity",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "An auditor that refuses to call anything live or proven until it was checked this hour.",
   "description": "A system-integrity auditor for local-first projects. It insists on honest status, re-checks hosts, and expects tamper-evident design before anything is stamped live.",
@@ -40172,7 +40397,8 @@
   "slug": "data",
   "name": "Data",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "Local-first data engineering with offline pipelines and on-device vector search.",
   "description": "A data engineering seat for local-first systems. It builds offline pipelines, on-device vision, and local vector search with no telemetry and no cloud dependency.",
@@ -40185,7 +40411,8 @@
   "slug": "dr-civil",
   "name": "Dr.Civil",
   "builder": {
-   "name": "Sentinel Archetecht"
+   "name": "Sentinel Archetecht",
+   "x": ""
   },
   "tagline": "Civics answers on citizenship, the Constitution, and the Bill of Rights from public text.",
   "description": "A civics keeper. It answers questions on citizenship, identity, the Constitution, and the Bill of Rights from public government text, briefly and without inventing law.",
