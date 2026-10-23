@@ -68102,5 +68102,128 @@
   "source": "https://github.com/cs68614-hash/awesome-grokbot-templates",
   "addedAt": "2026-10-17",
   "status": "published"
+ },
+ {
+  "slug": "security-watch",
+  "name": "Security Watch",
+  "builder": {
+   "name": "Luca Hagenmayer",
+   "x": "Luca_Hagenmayer"
+  },
+  "tagline": "Checks your laptop, site and server stack for weak spots, then explains each fix in plain words.",
+  "description": "Maps what you actually run, from one laptop or a WordPress site up to a full server stack, and checks each layer against a zero-trust model. It reports only the issues that affect your setup instead of dumping a generic checklist, walks through each fix in plain language, and is built to stay useful if you think an account has already been compromised.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/EQu7jy5DNmJCGRQExk0or",
+  "source": "https://x.com/Luca_Hagenmayer/status/2113245497527820294",
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "vulnerability-hunter",
+  "name": "Vulnerability Hunter",
+  "builder": {
+   "name": "Lonny Kapelushnik",
+   "x": "lonnyk"
+  },
+  "tagline": "Staged security audit for codebases you own, with findings a reviewer can act on.",
+  "description": "Runs a multi-phase audit over a codebase or environment you control: recon first, then coverage-led hunting so whole areas are not skipped, then an adversarial pass that tries to knock down its own findings before reporting. Findings are described by the trust boundary they cross and stay neutral about the technology in use.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/_23fi5qfiSaGqa2wfVW0p",
+  "source": "https://x.com/lonnyk/status/2113290778227122468",
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "bill-watchdog",
+  "name": "Bill Watchdog",
+  "builder": {
+   "name": "Allan Robinson",
+   "x": ""
+  },
+  "tagline": "Read-only weekly scan of bills and subscriptions for hikes, fees and double charges.",
+  "description": "Scans email and bank or card transactions once a week for price increases, new fees, duplicate charges and subscriptions you forgot about. It never moves money and never cancels anything on its own: it drafts the refund or cancellation note and leaves the decision and the send to you.",
+  "category": "money",
+  "url": "https://x.ai/bot/BhsiDej7McnGHnaaG-byQ",
+  "source": "https://x.com/_ARob/status/2113343655465369830",
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "privacy-shield",
+  "name": "Privacy Shield",
+  "builder": {
+   "name": "Pravinraj Vincent",
+   "x": "PravinVince"
+  },
+  "tagline": "Gets a household off spam calls, texts and junk mail, then re-checks what comes back.",
+  "description": "Works through the Do Not Call Registry and the opt-out lists for people-search sites, data brokers and junk mail, then rescans after a while to catch listings that reappear. Built for a whole household rather than a single phone number.",
+  "category": "life",
+  "url": "https://x.ai/bot/4pJ47cTzvI9qnLSZT3zz4",
+  "source": "https://x.com/PravinVince/status/2113260524611756410",
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "herald",
+  "name": "Herald",
+  "builder": {
+   "name": "AI_Revolution",
+   "x": ""
+  },
+  "tagline": "A one-page morning newspaper PDF with your day, the weather and the headlines.",
+  "description": "Lays out a short morning paper: your calendar for the day, local weather, local news and top headlines, rendered as a colour PDF and emailed only to you. Aimed at people who want a daily brief they can read without opening five apps.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/MEXX-iCdsornYsyazrQZP",
+  "source": "https://x.com/cdepino/status/2113313504640016455",
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "distro",
+  "name": "Distro",
+  "builder": {
+   "name": "Bud Johnson",
+   "x": "BudJohnson"
+  },
+  "tagline": "Publishes a finished podcast or video everywhere, then checks each link went live.",
+  "description": "Takes a finished episode or video and publishes it to YouTube, Spotify, Apple Podcasts, Facebook and X with chapters, titles and metadata filled in, including versions in more than one language. It verifies the live pages afterwards and tells you which links resolved.",
+  "category": "creative",
+  "url": "https://x.ai/bot/3ztDdRoVGeQTIz-IOlVjl",
+  "source": "https://x.com/BudJohnson/status/2113341753709273145",
+  "integrations": [
+   "youtube"
+  ],
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "list-front-page",
+  "name": "List Front Page",
+  "builder": {
+   "name": "Thuong P. Nguyen",
+   "x": ""
+  },
+  "tagline": "Turns any X list into a news front page that refreshes hourly, and never posts.",
+  "description": "Paste an X list and it rebuilds that list as a front page: the top stories, the links behind them and the voices driving the conversation, refreshed every hour. Read-only by design, it does not post, reply or follow as you.",
+  "category": "research",
+  "url": "https://x.ai/bot/eNVipDxJyXSULmlDJfNJp",
+  "source": "https://x.com/teeRex247/status/2113333908171538904",
+  "addedAt": "2026-10-23",
+  "status": "published"
+ },
+ {
+  "slug": "north-star",
+  "name": "North Star",
+  "builder": {
+   "name": "Oliver Parsons",
+   "x": "oliverparsons"
+  },
+  "tagline": "One shared record of who you are, how you write and what you promised, reviewed weekly.",
+  "description": "Keeps a single source of truth about you: who you are, how you write, the rules you set and the promises still open, so other bots can read one place instead of guessing. Every week it reports what has drifted, slipped or started to contradict itself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/TB48ius3yYWqvUFaxnM33",
+  "source": "https://x.com/oliverparsons/status/2113343701447590267",
+  "addedAt": "2026-10-23",
+  "status": "published"
  }
 ]
