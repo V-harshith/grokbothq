@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-22",
+    "title": "The SpaceX Super Intelligence Partner Network opens to builders",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/partnernetworkannouncement",
+    "summary": "SpaceXSI launched an official partner program for companies that build products, integrations and services on Grok. Transformation Partners help enterprise customers deploy the platform, Marketplace Partners build the plugins that connect Grok to tools customers already use, and more than 130 companies took part in the early-access phase."
+  },
+  {
+    "date": "2026-10-20",
+    "title": "IncidentWatch and IncidentSweep: two Grok Bots for support incidents",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/incident-sweep",
+    "summary": "SpaceXSI's support team added two Grok Bot teammates for outages: IncidentWatch reviews the previous 15 minutes of tickets every five minutes and alerts the on-call engineer when matching reports spike, while IncidentSweep drafts the replies and closes the affected tickets in a single human-approved batch. In a September 18 incident it cleared 204 tickets in about ten minutes."
+  },
+  {
     "date": "2026-10-14",
     "title": "Grok Voice 3.0 tops the speech-to-speech index, same API price",
     "source": "SpaceXSI News",
@@ -89,19 +103,5 @@
     "source": "Phosphen on X",
     "url": "https://x.com/phosphenq/status/2095230686885986422",
     "summary": "Two SpaceXAI product managers who ship Grok Bot walked through their own bot teams in a 47-minute interview, with the headline claim that you should never be watching a context meter. A companion guide covers bots, skills, routines, plugins, and the shared cloud computer."
-  },
-  {
-    "date": "2026-09-01",
-    "title": "Musk: automatic token optimization is coming to Grok Bot",
-    "source": "Elon Musk on X",
-    "url": "https://x.com/elonmusk/status/2094577304647164374",
-    "summary": "Elon Musk confirmed that automatic token optimization is coming to Grok Bot, part of a broader efficiency push across xAI. No percentages or pricing details yet, but the feature would cut usage costs for bot teams at the platform level."
-  },
-  {
-    "date": "2026-08-30",
-    "title": "Grok Bot vs Grok Automations vs Grok Build: the builder's map",
-    "source": "Kingy AI",
-    "url": "https://kingy.ai/blog/grok-bot-vs-grok-automations-vs-grok-build/",
-    "summary": "A comparison of xAI's three builder surfaces: autonomous bots, scheduled automations, and the free low-code Grok Build tool."
   }
 ]
