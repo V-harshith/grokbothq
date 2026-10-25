@@ -84,7 +84,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <Footer />
         <Analytics />
         <SpeedInsights />
-              <Script defer src="https://analytics.grokbothq.xyz/js/script.js" data-website-id="9m2kq6wq" />
+              <Script defer src="https://analytics.harshithvelneni.com/js/script.js" data-website-id="9m2kq6wq" />
       </body>
     </html>
   );
