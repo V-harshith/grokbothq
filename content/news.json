@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-27",
+    "title": "Your next sales teammate should be a Grok Bot",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/grok-bot-sales",
+    "summary": "SpaceXSI's Sales team built Shared Bots that take on defined roles across the deal cycle: Account Intel for prospecting and pipeline prep, Quote Bot for proposals and order forms, and Deal Bot for exception review and approvals. Each works with a rep's own permissions, so people stay focused on customers while the bots handle routine updates."
+  },
+  {
     "date": "2026-10-22",
     "title": "The SpaceX Super Intelligence Partner Network opens to builders",
     "source": "SpaceXSI News",
@@ -96,12 +103,5 @@
     "source": "AdiiX on X",
     "url": "https://x.com/adiix_official/status/2095112166579839383",
     "summary": "A widely shared playbook (400K views) argues the single-bot era is over: build a Chief bot that routes and delegates, keep shared state in /workspace instead of chat, and gate every workflow with source, evidence, and action checks. Humans approve only money, publishing, and irreversible actions."
-  },
-  {
-    "date": "2026-09-03",
-    "title": "The Grok Bot PMs on persistent chats and building your first bot",
-    "source": "Phosphen on X",
-    "url": "https://x.com/phosphenq/status/2095230686885986422",
-    "summary": "Two SpaceXAI product managers who ship Grok Bot walked through their own bot teams in a 47-minute interview, with the headline claim that you should never be watching a context meter. A companion guide covers bots, skills, routines, plugins, and the shared cloud computer."
   }
 ]
