@@ -117997,5 +117997,78 @@
   "addedAt": "2026-10-31",
   "status": "published",
   "source": "https://x.com/johnboyle/status/2116360668253458582"
+ },
+ {
+  "slug": "pulse-mentions",
+  "name": "Pulse",
+  "builder": {
+   "name": "Mia AI Lab",
+   "x": ""
+  },
+  "tagline": "Watches your X mentions and replies and sends short hourly roundups of questions to answer, real feedback and notable mentions.",
+  "description": "Reads your X mentions and replies every hour and reports back only what needs a person: questions worth answering, real feedback such as bugs or feature requests, and mentions that stand out. It filters out spam and empty congratulations, and it never posts anything on your behalf.",
+  "category": "productivity",
+  "features": [
+   "Hourly mention roundups",
+   "Filters spam and low-value replies",
+   "Read-only, never posts"
+  ],
+  "bestFor": [
+   "Creators",
+   "Builders",
+   "Founders"
+  ],
+  "url": "https://x.ai/bot/8qORMGYnD6Ok-1IJ0wjqM",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/MiaAI_lab/status/2108154779906040155"
+ },
+ {
+  "slug": "hacked-account-rescue",
+  "name": "Hacked Account Rescue",
+  "builder": {
+   "name": "Prabhu Ratthinam",
+   "x": ""
+  },
+  "tagline": "Calm, ordered steps to recover a hacked or locked account through the platform's own official route, with recovery scammers called out.",
+  "description": "Asks which account is affected and what changed, reads your screenshots, then opens the platform's official recovery page and walks you through the steps in order: recovery first, then email, passwords, sessions, two-factor and linked payments. It flags recovery scam DMs and never asks for passwords or one-time codes.",
+  "category": "life",
+  "features": [
+   "Official recovery route only",
+   "Flags recovery scams",
+   "Never asks for codes"
+  ],
+  "bestFor": [
+   "Locked-out users",
+   "Small teams"
+  ],
+  "url": "https://x.ai/bot/JImvgfvvrRSzXW6paF5V_",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/KuttyPrabhu/status/2116168252305134013"
+ },
+ {
+  "slug": "fitness-coach-corey",
+  "name": "Fitness Coach",
+  "builder": {
+   "name": "Corey Ganim",
+   "x": "coreyganim"
+  },
+  "tagline": "Personal trainer and nutrition coach that interviews you, builds a training block and meal targets, then coaches each session and adjusts.",
+  "description": "Interviews you one question at a time, builds your athlete profile and a starting training block, sets calories and macros, writes your first session and coaches you through each workout while logging your top sets. It adjusts the plan from your check-ins and draws on Mind Pump's publicly available training and nutrition material.",
+  "category": "life",
+  "features": [
+   "Setup interview builds your plan",
+   "Logs top sets",
+   "Adjusts from check-ins"
+  ],
+  "bestFor": [
+   "Beginners",
+   "Lifters"
+  ],
+  "url": "https://x.ai/bot/RJaAVGv0DKddKYaJQuGs5",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/coreyganim/status/2114703733007188231"
  }
 ]
