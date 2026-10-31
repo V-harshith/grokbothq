@@ -1,5 +1,5 @@
 import { SITE } from "@/data/site";
-import { bots } from "@/data/bots";
+import { bots, indexableBots } from "@/data/bots";
 import { categories } from "@/data/categories";
 import { combos } from "@/data/combos";
 import { guides } from "@/data/guides";
@@ -62,7 +62,10 @@ export function GET() {
     { url: `${base}/about`, lastmod: now, changefreq: "monthly", priority: 0.5 },
   ];
 
-  const botRoutes: Entry[] = bots.map((bot) => ({
+  // Only listings that clear the index gate are submitted. The rest stay live
+  // and linked but are deliberately left out so the crawl budget goes to pages
+  // that can rank.
+  const botRoutes: Entry[] = indexableBots.map((bot) => ({
     url: `${base}/bots/${bot.slug}`,
     lastmod: bot.addedAt,
     changefreq: "weekly",
@@ -71,7 +74,7 @@ export function GET() {
 
   // The paginated directory series. Each page is self-canonical and linked from the last, so the
   // series is listed here rather than left to be discovered through 42 hops of pagination.
-  const botPagerRoutes: Entry[] = Array.from({ length: totalPagesFor(bots.length) - 1 }, (_, i) => i + 2).map((page) => ({
+  const botPagerRoutes: Entry[] = Array.from({ length: totalPagesFor(indexableBots.length) - 1 }, (_, i) => i + 2).map((page) => ({
     url: `${base}/bots?page=${page}`,
     lastmod: now,
     changefreq: "daily",

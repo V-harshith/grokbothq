@@ -6,7 +6,7 @@ import { BotFace } from "@/components/bot-face";
 import { RotatingAdSlot } from "@/components/rotating-ad-slot";
 import { Breadcrumbs } from "@/components/ui";
 import { JsonLd } from "@/components/json-ld";
-import { bots, botMap, relatedBots, botOpens, nameCount, nameCollides, installRank, botsByCategory } from "@/data/bots";
+import { bots, botMap, relatedBots, botOpens, nameCount, nameCollides, installRank, botsByCategory, isIndexable } from "@/data/bots";
 import { categoryMap } from "@/data/categories";
 import { pageMetadata, botSoftwareJsonLd, breadcrumbsJsonLd, absUrl, composeDescription, composeTitle } from "@/lib/seo";
 import type { Bot } from "@/data/types";
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const bot = botMap.get(slug);
   if (!bot) return {};
   const category = categoryMap.get(bot.category);
-  return pageMetadata({
+  const meta = pageMetadata({
     // 77 names are shared by more than one listing ("Chief of Staff" by 53 different builders) and
     // they are all distinct bots, so the builder goes in the title to say which one this page is.
     title: composeTitle(
@@ -62,6 +62,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       `${bot.name} review`,
     ],
   });
+
+  // Thin listings stay live for humans and internal linking, but they do not
+  // earn an index slot while the domain is still building trust.
+  if (!isIndexable(bot)) meta.robots = { index: false, follow: true };
+  return meta;
 }
 
 export default async function BotPage({ params }: Props) {

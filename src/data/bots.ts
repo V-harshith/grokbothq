@@ -17,6 +17,35 @@ export const bots: Bot[] = (botsJson as Bot[]).filter((b) => (b as { status?: st
 
 export const botMap = new Map(bots.map((b) => [b.slug, b]));
 
+/**
+ * Index gate.
+ *
+ * 7,600 listings is more than a young domain can earn trust for: Search Console
+ * showed 24 pages crawled of 5,943 submitted, and a single impression. Thin
+ * listings (no installs, no features, a 170-character description repeated from
+ * the tagline) dilute the whole set, so they stay reachable and linkable but are
+ * not indexed. Re-score a listing when it gains installs or features.
+ */
+export function qualityScore(bot: Bot): number {
+  const b = bot as Bot & { installs?: number | null; features?: string[]; integrations?: string[] };
+  let score = 0;
+  if ((b.installs ?? 0) > 0) score += 2;
+  score += Math.min((b.features ?? []).length, 3);
+  score += Math.min(Math.floor((b.description ?? "").length / 150), 2);
+  if (bot.builder?.x) score += 1;
+  if ((b.integrations ?? []).length) score += 1;
+  if ((bot.tagline ?? "").length > 40) score += 1;
+  return score;
+}
+
+export const INDEX_SCORE = 4;
+
+export function isIndexable(bot: Bot): boolean {
+  return qualityScore(bot) >= INDEX_SCORE;
+}
+
+export const indexableBots: Bot[] = bots.filter(isIndexable);
+
 export function getBot(slug: string): Bot | undefined {
   return botMap.get(slug);
 }
