@@ -118520,5 +118520,293 @@
   "source": "https://x.com/StealthTSLA/status/2116647711663386999",
   "addedAt": "2026-11-01",
   "status": "published"
+ },
+ {
+  "slug": "nooks-sequencer",
+  "name": "Nooks Sequencer",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Pushes a prospect into Nooks with a drafted first step and enriched phone numbers, and sends nothing without review.",
+  "description": "Takes a prospect from a target list into Nooks: writes a personalized step-one draft, enriches contact details including phone numbers, and stages the sequence. Every message waits for a human send.",
+  "category": "sales",
+  "features": [
+   "Step-one draft writing",
+   "Phone enrichment",
+   "Human-gated sending"
+  ],
+  "bestFor": [
+   "SDRs",
+   "Nooks users"
+  ],
+  "url": "https://x.ai/bot/9uJ3Xb3ynLTgyP0klkNZQ",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "eval-interview-calibration",
+  "name": "eVal",
+  "builder": {
+   "name": "Michelle Freitas",
+   "x": ""
+  },
+  "tagline": "Interview calibration for recruiters: reviews hires who later failed downstream and logs the question gaps to Notion.",
+  "description": "Looks back at candidates you advanced who then underperformed, compares the interview evidence with what actually happened, and records the misses in Notion. Recommends which questions and prep notes to prioritize next month.",
+  "category": "productivity",
+  "features": [
+   "Post-hire retrospectives",
+   "Notion logging",
+   "Question prioritization"
+  ],
+  "bestFor": [
+   "Recruiters",
+   "Hiring managers"
+  ],
+  "url": "https://x.ai/bot/_ANUYOkcmX6e_69CTbQc6",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-recruiting"
+ },
+ {
+  "slug": "sfdc-create",
+  "name": "SFDC Create",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Creates Salesforce contacts from chat when the CLI or MCP route is unavailable, with email-first duplicate checks.",
+  "description": "A fallback for CRM entry: checks whether a contact already exists by email, then files the new record through Approve cards. It does not draft or send outreach.",
+  "category": "sales",
+  "features": [
+   "Email-first dedupe",
+   "Approve-card writes",
+   "No outreach"
+  ],
+  "bestFor": [
+   "Sales ops",
+   "RevOps teams"
+  ],
+  "url": "https://x.ai/bot/DWIjg4DKKSIKZy1sgRihx",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "contact-man",
+  "name": "Contact Man",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Keeps a live 100-contact prospecting sheet fed with daily ICP research and ready-to-review packets.",
+  "description": "Maintains a single Google Sheet of roughly a hundred prospects, adds a daily digest of new ICP matches, prepares review packets, and moves contacts into a sequence only after a verified stage. No email goes out on its own.",
+  "category": "sales",
+  "features": [
+   "Living prospect sheet",
+   "Daily ICP digests",
+   "Stage-gated sequencing"
+  ],
+  "bestFor": [
+   "SDRs",
+   "Founder-led sales"
+  ],
+  "url": "https://x.ai/bot/hjt7WTPjZaCosdXc-LhFK",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "iris-paid-media-pm",
+  "name": "Iris",
+  "builder": {
+   "name": "Miguel Cruz",
+   "x": ""
+  },
+  "tagline": "Paid-media project manager: weekday Slack digests, help with creative and copy, and careful access to ad platforms.",
+  "description": "Acts as a teammate for a paid-media team: short weekday Slack summaries, feedback on creative and ad copy, and measured access to ad platforms. Written to sound like a coworker rather than a support desk.",
+  "category": "productivity",
+  "features": [
+   "Weekday Slack digests",
+   "Creative feedback",
+   "Ad platform access"
+  ],
+  "bestFor": [
+   "Paid-media teams",
+   "Performance marketers"
+  ],
+  "url": "https://x.ai/bot/jiNlnoEOwKPZCVU7K_w6k",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-performance-marketing"
+ },
+ {
+  "slug": "john-ford-linkedin-outreach",
+  "name": "John Ford",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Drafts LinkedIn DMs and bumps for SDRs, watches blank-connect accepts, and holds every message for review.",
+  "description": "Handles the LinkedIn side of outbound: writes net-new direct messages and follow-up bumps, notices when a blank connection request is accepted, and queues everything for the rep to approve before it sends.",
+  "category": "sales",
+  "features": [
+   "LinkedIn DM drafts",
+   "Bump sequences",
+   "Accept monitoring"
+  ],
+  "bestFor": [
+   "SDRs",
+   "LinkedIn outbound teams"
+  ],
+  "url": "https://x.ai/bot/LNvB2DKKvUOUadNF0r26x",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "pulse-scorecards-demo",
+  "name": "Pulse Scorecards Demo",
+  "builder": {
+   "name": "Michelle Freitas",
+   "x": ""
+  },
+  "tagline": "Recruiting scorecard co-pilot that drafts post-interview leans and paste-ready scorecards in chat.",
+  "description": "After an interview it drafts a leaning and a scorecard the recruiter can paste, and asks for judgment before anything is recorded. It never submits to the applicant tracking system itself.",
+  "category": "productivity",
+  "features": [
+   "Post-interview leans",
+   "Paste-ready scorecards",
+   "ATS stays manual"
+  ],
+  "bestFor": [
+   "Recruiters",
+   "Interview panels"
+  ],
+  "url": "https://x.ai/bot/MwQEFehSfT0kfHBT95ELe",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-recruiting"
+ },
+ {
+  "slug": "tally-ad-reporting",
+  "name": "Tally",
+  "builder": {
+   "name": "Miguel Cruz",
+   "x": ""
+  },
+  "tagline": "Watches Slack for ad performance questions, pulls the numbers from Supermetrics and answers in a DM.",
+  "description": "A reporting bot for paid media: when someone asks about performance or metrics in Slack, it fetches the figures from Supermetrics and replies privately with the answer plus a link back to the thread.",
+  "category": "productivity",
+  "features": [
+   "Slack question watch",
+   "Supermetrics pulls",
+   "Private answers"
+  ],
+  "bestFor": [
+   "Paid-media teams",
+   "Marketing leads"
+  ],
+  "url": "https://x.ai/bot/N3SEP6iy6BHIiPcws6hqO",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-performance-marketing"
+ },
+ {
+  "slug": "leadsworth",
+  "name": "Leadsworth",
+  "builder": {
+   "name": "Miguel Cruz",
+   "x": ""
+  },
+  "tagline": "B2B marketing-ops teammate that tracks lead goals, pacing, content ideas and a live demand-gen dashboard.",
+  "description": "Runs the demand-gen bookkeeping: stores your lead volume targets, flags when pacing drifts, drafts lead-gen content ideas, and refreshes a dashboard so marketing stays measurable.",
+  "category": "sales",
+  "features": [
+   "Lead goal tracking",
+   "Pacing alerts",
+   "Demand-gen dashboard"
+  ],
+  "bestFor": [
+   "Marketing ops",
+   "Demand-gen teams"
+  ],
+  "url": "https://x.ai/bot/OgwFCbt_bFSfKOj2gfmnh",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-performance-marketing"
+ },
+ {
+  "slug": "founder-led-sales-setup",
+  "name": "Founder-Led Sales Setup",
+  "builder": {
+   "name": "Sarah Goomar",
+   "x": ""
+  },
+  "tagline": "A setup bot that builds a founder-led sales team: Sell, Outreach, Inbox and Insights bots that draft for approval.",
+  "description": "Connect your tools and the bot confirms what it learned about the business, then creates a small sales team: specialists for selling, outreach, inbox triage and insights. Everything they produce is drafted for your approval.",
+  "category": "sales",
+  "features": [
+   "Four-role team setup",
+   "Business context check",
+   "Approval-first drafts"
+  ],
+  "bestFor": [
+   "Founders",
+   "Solo sellers"
+  ],
+  "url": "https://x.ai/bot/rgNU5t4jZko9RM8u2W17C",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-founder-led-sales"
+ },
+ {
+  "slug": "josh-allen-sdr",
+  "name": "Josh Allen",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "SDR sidekick that researches, drafts and stages outbound across the morning surface, prospect sheet and inbox.",
+  "description": "Covers the daily SDR loop: a morning review, prospect-sheet upkeep, research on new accounts, and staged drafts ready in the inbox. The rep approves and sends every message.",
+  "category": "sales",
+  "features": [
+   "Morning review",
+   "Account research",
+   "Staged inbox drafts"
+  ],
+  "bestFor": [
+   "SDRs",
+   "Outbound teams"
+  ],
+  "url": "https://x.ai/bot/yS_Mk0VEPhYnttv3GDr4C",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "preppy-meeting-prep",
+  "name": "Preppy",
+  "builder": {
+   "name": "Michelle Freitas",
+   "x": ""
+  },
+  "tagline": "Meeting prep assistant that writes short scannable notes, asks before sending and nudges at the right time.",
+  "description": "Prepares you for meetings with brief, human-sounding notes built for skimming, asks for approval before anything goes out, and reminds you when the meeting is close.",
+  "category": "productivity",
+  "features": [
+   "Skimmable prep notes",
+   "Approval before send",
+   "Timed nudges"
+  ],
+  "bestFor": [
+   "Recruiters",
+   "Busy managers"
+  ],
+  "url": "https://x.ai/bot/z0gLS_3ehXjKW80p77-ib",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-recruiting"
  }
 ]
