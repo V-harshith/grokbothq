@@ -118070,5 +118070,171 @@
   "addedAt": "2026-11-01",
   "status": "published",
   "source": "https://x.com/coreyganim/status/2114703733007188231"
+ },
+ {
+  "slug": "nocturno",
+  "name": "Nocturno",
+  "builder": {
+   "name": "Martin Gontovnikas",
+   "x": "mgonto"
+  },
+  "tagline": "A nightly CRM: reads the day across meetings, email, calendar, Slack, WhatsApp and bot chats, then files what matters into a private wiki.",
+  "description": "Runs overnight over the previous day's meeting recordings, email, calendar, Slack, WhatsApp and your other bots' chats, saves what matters into a private wiki it sets up for you on GitHub or Google Drive, and can keep your to-dos and what people owe you up to date. It never messages anyone for you.",
+  "category": "productivity",
+  "features": [
+   "Nightly review of your day",
+   "Files notes into a private wiki",
+   "Never messages anyone"
+  ],
+  "bestFor": [
+   "Founders",
+   "Operators",
+   "Freelancers"
+  ],
+  "url": "https://x.ai/bot/9KdogY5Io7cygdJOqyohA",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/mgonto/status/2116508025401835882"
+ },
+ {
+  "slug": "citation-counter",
+  "name": "Citation Counter",
+  "builder": {
+   "name": "Pal Szilagyi",
+   "x": "szilagyipal"
+  },
+  "tagline": "Keeps an academic profile in sync across Google Scholar, ORCID, Academia.edu and ResearchGate, with a weekly citation update.",
+  "description": "Connects to your country's official publication and citation register, keeps Google Scholar, Academia.edu, ORCID and ResearchGate in sync with it, and sends a weekly update on new citations plus your SSRN stats. Built for academics who want accurate profiles without the busywork.",
+  "category": "research",
+  "features": [
+   "Syncs four academic profiles",
+   "Weekly citation digest",
+   "Works from national registers"
+  ],
+  "bestFor": [
+   "Academics",
+   "Researchers"
+  ],
+  "url": "https://x.ai/bot/SfYpLpmhHaa5r3kRflLnj",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/szilagyipal/status/2116543541962752123"
+ },
+ {
+  "slug": "child-safety-coach",
+  "name": "Child Safety Coach",
+  "builder": {
+   "name": "Phillip Holland",
+   "x": ""
+  },
+  "tagline": "Walks a parent through locking down a child's iPhone or Android and the AI apps on it, then checks back so the settings stay put.",
+  "description": "Takes a parent step by step through Screen Time or Family Link on a child's iPhone or Samsung/Android phone, then through the AI apps on top. It circles back after OS updates so parental controls do not quietly revert, and it coaches rather than scanning messages.",
+  "category": "life",
+  "features": [
+   "Step-by-step device lockdown",
+   "Follow-up after OS updates",
+   "No message scanning"
+  ],
+  "bestFor": [
+   "Parents"
+  ],
+  "url": "https://x.ai/bot/MCxw03O1xLB7lH7uX0W5u",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/Phil_Holland/status/2116552290752409880"
+ },
+ {
+  "slug": "credit-repair-coach",
+  "name": "Credit Repair Coach",
+  "builder": {
+   "name": "Parker",
+   "x": "DotComParker"
+  },
+  "tagline": "Reads your credit reports, disputes items that look wrong or cannot be verified, and follows each dispute until it closes.",
+  "description": "Reads your credit reports, files disputes on negative items that are inaccurate or unverifiable, tracks every dispute through to resolution, and helps you build stronger credit by pointing at the right cards and accounts to add.",
+  "category": "money",
+  "features": [
+   "Reads your credit reports",
+   "Tracks every dispute to resolution",
+   "Suggests accounts to build score"
+  ],
+  "bestFor": [
+   "Anyone repairing their credit"
+  ],
+  "url": "https://x.ai/bot/OfKxm2tuJO_LMHdnN2Dp7",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/DotComParker/status/2116561333378560212"
+ },
+ {
+  "slug": "p2p",
+  "name": "p2p",
+  "builder": {
+   "name": "Fatih Kadir Akın",
+   "x": "fkadev"
+  },
+  "tagline": "A reception bot that answers mail arriving at its own Grok Bot address, so other people's bots always have a counterpart.",
+  "description": "Watches its own Grok Bot email address and replies to messages from other bots on its owner's behalf, keeping replies short and making no commitments. It exists to be the other side when someone else's bot writes in.",
+  "category": "productivity",
+  "features": [
+   "Answers its own bot inbox",
+   "Makes no commitments",
+   "Built for bot-to-bot mail"
+  ],
+  "bestFor": [
+   "Bot-to-bot experiments",
+   "Agent builders"
+  ],
+  "url": "https://x.ai/bot/nP87dz1wq5yjIV_OSw68o",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/fkadev/status/2116588033986150762"
+ },
+ {
+  "slug": "dreamer",
+  "name": "Dreamer",
+  "builder": {
+   "name": "Nobs",
+   "x": "nobsfud"
+  },
+  "tagline": "Reviews your bot team's work every night and turns repeated fixes into reusable skills, memories and goals for each bot.",
+  "description": "Every night it reviews what your bot team did, turns repeated corrections and lessons into reusable skills and saved memories, and proposes ongoing goals for each bot so the team gets better over time.",
+  "category": "productivity",
+  "features": [
+   "Nightly review of the whole team",
+   "Turns fixes into skills",
+   "Proposes goals per bot"
+  ],
+  "bestFor": [
+   "People running several bots"
+  ],
+  "url": "https://x.ai/bot/8mdSbrNacoOI_0NLcM2Z3",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/nobsfud/status/2116540914336518589"
+ },
+ {
+  "slug": "apply-desk",
+  "name": "Apply Desk",
+  "builder": {
+   "name": "Ryan Tanaka",
+   "x": "RyanTanaka"
+  },
+  "tagline": "A job search desk: five fitting roles each weekday morning, a tracker that updates itself, resume drafts and interview prep briefs.",
+  "description": "Finds the five best new roles each weekday morning from the job sites you choose, quoting each posting on why it fits you, keeps your application tracker updated from your inbox, drafts tailored resumes and writes a prep brief the night before an interview. It never applies, sends or accepts anything for you.",
+  "category": "productivity",
+  "features": [
+   "Daily shortlist with fit quotes",
+   "Tracker updates from email",
+   "Tailored resume drafts",
+   "Interview prep brief"
+  ],
+  "bestFor": [
+   "Job seekers"
+  ],
+  "url": "https://x.ai/bot/iJ8n6iZBU8YArkmGXHppi",
+  "addedAt": "2026-11-01",
+  "status": "published",
+  "source": "https://x.com/RyanTanaka/status/2104511660799189490"
  }
 ]
