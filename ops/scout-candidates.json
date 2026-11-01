@@ -1,131 +1,5 @@
 [
  {
-  "name": "Snopes Dogg",
-  "bot_id": "bz9utqQXB90fhbe5AwXUi",
-  "url": "https://x.ai/bot/bz9utqQXB90fhbe5AwXUi",
-  "builder_x_handle": "teedubya",
-  "one_line_desc": "Traces a viral post or headline back to its source and returns a verdict, the primary link and one safe sentence to share.",
-  "source_post_url": "https://x.com/teedubya/status/2116501046982062223",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "AnyBot",
-  "bot_id": "ftd-W60KWaA_--QnmgrCR",
-  "url": "https://x.ai/bot/ftd-W60KWaA_--QnmgrCR",
-  "builder_x_handle": "",
-  "one_line_desc": "Builds and evolves apps on Anybuild.ai, including setting up a new environment from just your email.",
-  "source_post_url": "https://x.com/GaryClarke27/status/2116495982783250769",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Svenska Coach",
-  "bot_id": "AG_Q7Qd0yR5kCwK-Pd3_5",
-  "url": "https://x.ai/bot/AG_Q7Qd0yR5kCwK-Pd3_5",
-  "builder_x_handle": "sashanaria",
-  "one_line_desc": "A patient Swedish tutor for A1 to B1 learners, with grammar help, gentle corrections and real pronunciation clips.",
-  "source_post_url": "https://x.com/sashanaria/status/2116495824444072259",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "X Following Cleanup",
-  "bot_id": "98uuooV6KwoF6RQoTyhPO",
-  "url": "https://x.ai/bot/98uuooV6KwoF6RQoTyhPO",
-  "builder_x_handle": "GraceMainAcct",
-  "one_line_desc": "Slowly unfollows foreign, inactive and zero-engagement accounts on X, and never touches verified ones.",
-  "source_post_url": "https://x.com/GraceMainAcct/status/2116490279146688662",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Max Capital · Your Vest Coach",
-  "bot_id": "rJmMm1-GDsfzTuSmiQ0PE",
-  "url": "https://x.ai/bot/rJmMm1-GDsfzTuSmiQ0PE",
-  "builder_x_handle": "DCBK2LA",
-  "one_line_desc": "An onboarding coach for Vest that walks a new user from first question to first trades and payout.",
-  "source_post_url": "https://x.com/DCBK2LA/status/2116320449508594124",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Logic Check",
-  "bot_id": "aqK0IH6m5iRnFA-VuaB4D",
-  "url": "https://x.ai/bot/aqK0IH6m5iRnFA-VuaB4D",
-  "builder_x_handle": "jin5284",
-  "one_line_desc": "Debates a thought or an argument one issue at a time to test whether the reasoning holds, with sources.",
-  "source_post_url": "https://x.com/jin5284/status/2116484665301516389",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Share-Ready",
-  "bot_id": "u-eu1G6ifbhMUkeigffK1",
-  "url": "https://x.ai/bot/u-eu1G6ifbhMUkeigffK1",
-  "builder_x_handle": "socalfsd",
-  "one_line_desc": "Cleans a bot setup before you share it: flags private details, rewrites the description and drafts the post.",
-  "source_post_url": "https://x.com/socalfsd/status/2116480047288909988",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Lamplighter",
-  "bot_id": "nfzQ6KCaWJHmgLsXNKk2l",
-  "url": "https://x.ai/bot/nfzQ6KCaWJHmgLsXNKk2l",
-  "builder_x_handle": "lokeshrana_ai",
-  "one_line_desc": "A pause button for pressured moments such as pay now, share a code or book a remedy, before any money leaves.",
-  "source_post_url": "https://x.com/lokeshrana_ai/status/2116463815181344856",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Mr. Shorts by SMS",
-  "bot_id": "YDDtYuJqGR9-syzw6RgtQ",
-  "url": "https://x.ai/bot/YDDtYuJqGR9-syzw6RgtQ",
-  "builder_x_handle": "smsonx",
-  "one_line_desc": "Edits a script idea or rough talking-head cut into a finished vertical Short with captions, thumbnail and posting pack.",
-  "source_post_url": "https://x.com/smsonx/status/2116463614794273207",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Security",
-  "bot_id": "th43tWDLpxlD2CwTv0FeN",
-  "url": "https://x.ai/bot/th43tWDLpxlD2CwTv0FeN",
-  "builder_x_handle": "kr0der",
-  "one_line_desc": "Watches for new vulnerabilities in your stack, scans your repos read-only and proposes exact fixes.",
-  "source_post_url": "https://x.com/kr0der/status/2116322263645720620",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "kakao-scout",
-  "bot_id": "JT1u5OaXP0vftWll4iyr-",
-  "url": "https://x.ai/bot/JT1u5OaXP0vftWll4iyr-",
-  "builder_x_handle": "0xSAPGUN",
-  "one_line_desc": "Reads new KakaoTalk messages from your own desktop and summarises them on a schedule, read-only by default.",
-  "source_post_url": "https://x.com/0xSAPGUN/status/2116435318618620091",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Family Tree Bot",
-  "bot_id": "mnZBhHpP_aagPbNWL69vU",
-  "url": "https://x.ai/bot/mnZBhHpP_aagPbNWL69vU",
-  "builder_x_handle": "HDealla",
-  "one_line_desc": "Rechecks an existing family tree against free records and only adds facts that carry evidence.",
-  "source_post_url": "https://x.com/HDealla/status/2116432322094678521",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Brand Guardian",
-  "bot_id": "kUdKaZJJ2_WhEcssQABhA",
-  "url": "https://x.ai/bot/kUdKaZJJ2_WhEcssQABhA",
-  "builder_x_handle": "buckleyplanet",
-  "one_line_desc": "Holds your brand kit and reviews posts, decks, videos and designs against it, returning a pass or exact fixes.",
-  "source_post_url": "https://x.com/buckleyplanet/status/2116427996126957924",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
-  "name": "Livi Futures Assistant",
-  "bot_id": "kk83rQnwGduA3NAuKYypq",
-  "url": "https://x.ai/bot/kk83rQnwGduA3NAuKYypq",
-  "builder_x_handle": "Livipys",
-  "one_line_desc": "A futures trading desk bot: options expiry, margin, oil and FX flashes, crypto and equity curve on command.",
-  "source_post_url": "https://x.com/Livipys/status/2116426723797721131",
-  "found_at": "2026-10-31T18:34+05:30"
- },
- {
   "name": "Home Cyber Guardian",
   "bot_id": "LFUsPBgOYP_a6hS815AsV",
   "url": "https://x.ai/bot/LFUsPBgOYP_a6hS815AsV",
@@ -448,5 +322,131 @@
   "one_line_desc": "A job search desk: five fitting roles each weekday morning, a tracker that updates itself, resume drafts and interview prep briefs.",
   "source_post_url": "https://x.com/RyanTanaka/status/2104511660799189490",
   "found_at": "2026-11-01T06:55+05:30"
+ },
+ {
+  "name": "Warm Customer Finder",
+  "bot_id": "zyXS2I19IVLxiLyRmLcqH",
+  "url": "https://x.ai/bot/zyXS2I19IVLxiLyRmLcqH",
+  "builder_x_handle": "noahkagan",
+  "one_line_desc": "Finds warm leads on X every weekday morning, people complaining about your competitors or asking for recommendations in your category, then drafts messages and follow-ups.",
+  "source_post_url": "https://x.com/noahkagan/status/2115540622505607406",
+  "found_at": "2026-11-01T13:08+05:30"
+ },
+ {
+  "name": "Director",
+  "bot_id": "r9v2LNQY0VHF8JXe8y6VF",
+  "url": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
+  "builder_x_handle": "",
+  "one_line_desc": "A video director: turns briefs into short films, ads, explainers and music videos, planning, shooting, cutting and delivering the footage.",
+  "source_post_url": "https://grokbottemplates.app/t/video-director/",
+  "found_at": "2026-11-01T13:08+05:30"
+ },
+ {
+  "name": "Medical Bill Power Assistant",
+  "bot_id": "ZGjGqInr-ExH8kRxqIR9A",
+  "url": "https://x.ai/bot/ZGjGqInr-ExH8kRxqIR9A",
+  "builder_x_handle": "iustinafractals",
+  "one_line_desc": "Reads US medical bills and EOBs, flags errors and known scam patterns, then drafts a dispute for you to approve.",
+  "source_post_url": "https://x.com/iustinafractals/status/2116684395994329110",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Quit Coach",
+  "bot_id": "fee8FVjjoFIN5Ff_KLwXK",
+  "url": "https://x.ai/bot/fee8FVjjoFIN5Ff_KLwXK",
+  "builder_x_handle": "PatrickNelson00",
+  "one_line_desc": "A personal quit-smoking coach that learns your name, time zone and triggers, then checks in around your plan.",
+  "source_post_url": "https://x.com/PatrickNelson00/status/2116697149463568706",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "XY Stream Recap",
+  "bot_id": "Wn-DMs4QF5z9KYxpszPbR",
+  "url": "https://x.ai/bot/Wn-DMs4QF5z9KYxpszPbR",
+  "builder_x_handle": "xpixeladventure",
+  "one_line_desc": "Send a finished stream, X Space or podcast link and get a summary, the audience Q&A and a timestamped topic list.",
+  "source_post_url": "https://x.com/xpixeladventure/status/2116700435117486316",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Bot Office",
+  "bot_id": "_dI6HEBOa0CFWfTNsxxcm",
+  "url": "https://x.ai/bot/_dI6HEBOa0CFWfTNsxxcm",
+  "builder_x_handle": "SamE1311025",
+  "one_line_desc": "One short daily board of your bot fleet: who is working, stuck, late or waiting on a decision from you.",
+  "source_post_url": "https://x.com/SamE1311025/status/2116714456050700412",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Mechanic",
+  "bot_id": "uMG414YrzlrycX2TBdAsL",
+  "url": "https://x.ai/bot/uMG414YrzlrycX2TBdAsL",
+  "builder_x_handle": "bronsonelliott",
+  "one_line_desc": "Keeps a service log for each car, follows the maker's maintenance schedule and tells you what is due this month.",
+  "source_post_url": "https://x.com/bronsonelliott/status/2116730549964329351",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "PhotoLibBot",
+  "bot_id": "Z3pD_vxqPizBArbO3KAsp",
+  "url": "https://x.ai/bot/Z3pD_vxqPizBArbO3KAsp",
+  "builder_x_handle": "j_magyar",
+  "one_line_desc": "Merges photos and videos scattered across old drives, phones and backups into one dated, de-duplicated library.",
+  "source_post_url": "https://x.com/j_magyar/status/2116794202516582833",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Quota Saver",
+  "bot_id": "8BJUbtrTlSwTl9b8cJ7jh",
+  "url": "https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh",
+  "builder_x_handle": "Alberttooctopus",
+  "one_line_desc": "Cuts Grok Bot usage across a fleet by replacing idle watch routines with cheap prefilters that only wake a bot on change.",
+  "source_post_url": "https://x.com/Alberttooctopus/status/2116835993642815609",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "X Scout",
+  "bot_id": "wJrUjqhOMRmqqJo_KtmDO",
+  "url": "https://x.ai/bot/wJrUjqhOMRmqqJo_KtmDO",
+  "builder_x_handle": "pronaksai",
+  "one_line_desc": "Learns your niche from your own posts, then sends the freshest and most viral news in it each day with one post idea.",
+  "source_post_url": "https://x.com/pronaksai/status/2116517701694685407",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Site Signal",
+  "bot_id": "qdDeWpXZufETBVcM06ysH",
+  "url": "https://x.ai/bot/qdDeWpXZufETBVcM06ysH",
+  "builder_x_handle": "MichaelGannotti",
+  "one_line_desc": "Audits a site for SEO, GEO, AEO and AI readiness plus accessibility, ranks the issues by impact and ships the fixes.",
+  "source_post_url": "https://x.com/MichaelGannotti/status/2116556030268080528",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Jarvis",
+  "bot_id": "aHNk1O9k5iBaAs2oo97fE",
+  "url": "https://x.ai/bot/aHNk1O9k5iBaAs2oo97fE",
+  "builder_x_handle": "kylekane",
+  "one_line_desc": "Gives a fleet of bots one shared memory and one shared room, and sends you a single daily list of what needs your OK.",
+  "source_post_url": "https://x.com/kylekane/status/2116576043691561183",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Bookmark Brain",
+  "bot_id": "DrNkx2a5av1XBf3eUSrs1",
+  "url": "https://x.ai/bot/DrNkx2a5av1XBf3eUSrs1",
+  "builder_x_handle": "",
+  "one_line_desc": "Turns X bookmarks into Obsidian notes with topic tags and wikilinks, synced only when you ask.",
+  "source_post_url": "https://x.com/1920web1080/status/2116607293466849403",
+  "found_at": "2026-11-01T19:20+05:30"
+ },
+ {
+  "name": "Garage",
+  "bot_id": "V3mnsui0Z3lXt38OJy86f",
+  "url": "https://x.ai/bot/V3mnsui0Z3lXt38OJy86f",
+  "builder_x_handle": "StealthTSLA",
+  "one_line_desc": "A car-care sidekick for gas, hybrid or EV: recalls, dash lights, repair quotes, parts and DIY help.",
+  "source_post_url": "https://x.com/StealthTSLA/status/2116647711663386999",
+  "found_at": "2026-11-01T19:20+05:30"
  }
 ]

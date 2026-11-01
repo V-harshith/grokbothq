@@ -118236,5 +118236,289 @@
   "addedAt": "2026-11-01",
   "status": "published",
   "source": "https://x.com/RyanTanaka/status/2104511660799189490"
+ },
+ {
+  "slug": "medical-bill-power-assistant",
+  "name": "Medical Bill Power Assistant",
+  "builder": {
+   "name": "iustina istrati",
+   "x": "iustinafractals"
+  },
+  "tagline": "Reads US medical bills and EOBs, flags errors and known scam patterns, then drafts a dispute for you to approve.",
+  "description": "Walks a US medical bill or explanation of benefits line by line: points out charges that look wrong, names the scam patterns it recognises, explains your rights in plain language, then drafts a dispute letter, an insurance appeal or a phone script. Nothing goes out without your approval.",
+  "category": "life",
+  "features": [
+   "Bill and EOB error checks",
+   "Dispute and appeal drafts",
+   "Phone call scripts"
+  ],
+  "bestFor": [
+   "US patients",
+   "Caregivers handling a family member's bills"
+  ],
+  "url": "https://x.ai/bot/ZGjGqInr-ExH8kRxqIR9A",
+  "source": "https://x.com/iustinafractals/status/2116684395994329110",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "quit-coach",
+  "name": "Quit Coach",
+  "builder": {
+   "name": "Patrick Nelson",
+   "x": "PatrickNelson00"
+  },
+  "tagline": "A personal quit-smoking coach that learns your name, time zone and triggers, then checks in around your plan.",
+  "description": "Sets itself up around one person, taking a name, location and time zone in the first chat, then builds a quit plan covering cravings, triggers and what to do after a slip. Sends short scheduled check-ins and keeps advice practical rather than preachy.",
+  "category": "life",
+  "features": [
+   "Personal quit plan",
+   "Craving and trigger playbook",
+   "Scheduled check-ins"
+  ],
+  "bestFor": [
+   "Anyone quitting smoking"
+  ],
+  "url": "https://x.ai/bot/fee8FVjjoFIN5Ff_KLwXK",
+  "source": "https://x.com/PatrickNelson00/status/2116697149463568706",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "xy-stream-recap",
+  "name": "XY Stream Recap",
+  "builder": {
+   "name": "XPixel",
+   "x": "xpixeladventure"
+  },
+  "tagline": "Send a finished stream, X Space or podcast link and get a summary, the audience Q&A and a timestamped topic list.",
+  "description": "Takes a completed livestream or recording on YouTube or X, including recorded X Spaces, and returns three things from the one link: a full summary, the questions the audience asked with the answers given, and a topic list with timestamps. Works on podcasts too.",
+  "category": "productivity",
+  "features": [
+   "Summary from a single link",
+   "Audience Q&A written out",
+   "Timestamped topic list"
+  ],
+  "bestFor": [
+   "Creators repurposing streams",
+   "Community managers"
+  ],
+  "url": "https://x.ai/bot/Wn-DMs4QF5z9KYxpszPbR",
+  "source": "https://x.com/xpixeladventure/status/2116700435117486316",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "bot-office",
+  "name": "Bot Office",
+  "builder": {
+   "name": "Sam E",
+   "x": "SamE1311025"
+  },
+  "tagline": "One short daily board of your bot fleet: who is working, stuck, late or waiting on a decision from you.",
+  "description": "Posts a compact daily status board for the bots you run: which are working, which are blocked, which are behind and which are waiting on you, with links to the work where they exist. Stays silent on days when nothing changed instead of padding the feed.",
+  "category": "productivity",
+  "features": [
+   "Daily fleet status board",
+   "Stuck and late flags",
+   "Silent when nothing changed"
+  ],
+  "bestFor": [
+   "People running several bots"
+  ],
+  "url": "https://x.ai/bot/_dI6HEBOa0CFWfTNsxxcm",
+  "source": "https://x.com/SamE1311025/status/2116714456050700412",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "mechanic-car-service-log",
+  "name": "Mechanic",
+  "builder": {
+   "name": "Bronson Elliott",
+   "x": "bronsonelliott"
+  },
+  "tagline": "Keeps a service log for each car, follows the maker's maintenance schedule and tells you what is due this month.",
+  "description": "Holds a service history per vehicle, tracks the manufacturer's maintenance intervals, sends a monthly note on what is coming due, and drafts dealer or shop appointments for you to approve. Built as a long-running vehicle manager rather than a one-off question answerer.",
+  "category": "life",
+  "features": [
+   "Per-car service logs",
+   "Maintenance intervals tracked",
+   "Monthly due list"
+  ],
+  "bestFor": [
+   "Car owners keeping a service history"
+  ],
+  "url": "https://x.ai/bot/uMG414YrzlrycX2TBdAsL",
+  "source": "https://x.com/bronsonelliott/status/2116730549964329351",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "photolibbot",
+  "name": "PhotoLibBot",
+  "builder": {
+   "name": "Joe Magyar",
+   "x": "j_magyar"
+  },
+  "tagline": "Merges photos and videos scattered across old drives, phones and backups into one dated, de-duplicated library.",
+  "description": "Runs a cleanup of a photo and video archive: gathers files from old drives, phone exports, zips and PC backups into one library, sorts them by date, removes duplicates and logs each step. Ends with a verified master copy and two verified backups.",
+  "category": "life",
+  "features": [
+   "Dated, de-duplicated library",
+   "Step-by-step log",
+   "Verified master plus two backups"
+  ],
+  "bestFor": [
+   "People with years of scattered media"
+  ],
+  "url": "https://x.ai/bot/Z3pD_vxqPizBArbO3KAsp",
+  "source": "https://x.com/j_magyar/status/2116794202516582833",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "quota-saver",
+  "name": "Quota Saver",
+  "builder": {
+   "name": "Albert King",
+   "x": "Alberttooctopus"
+  },
+  "tagline": "Cuts Grok Bot usage across a fleet by replacing idle watch routines with cheap prefilters that only wake a bot on change.",
+  "description": "Audits the routines running across your bots and swaps always-on watchers for prefilters that wake a bot only when something actually changed. Also ranks which routines burn the most usage before your reset, and trims stale text out of bot descriptions when you ask.",
+  "category": "productivity",
+  "features": [
+   "Routine usage audit",
+   "Prefilter swaps for idle watchers",
+   "Usage ranking before reset"
+  ],
+  "bestFor": [
+   "Heavy Grok Bot users",
+   "Team accounts"
+  ],
+  "url": "https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh",
+  "source": "https://x.com/Alberttooctopus/status/2116835993642815609",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "x-scout-niche-brief",
+  "name": "X Scout",
+  "builder": {
+   "name": "Grigory Kuklin",
+   "x": "pronaksai"
+  },
+  "tagline": "Learns your niche from your own posts, then sends the freshest and most viral news in it each day with one post idea.",
+  "description": "Takes your X handle, reads your posts and replies to work out the niche you actually write about, then sends a daily shortlist of the newest and most viral items in that niche plus one angle you could post. Read-only: it never posts on your behalf.",
+  "category": "research",
+  "features": [
+   "Niche learned from your posts",
+   "Daily shortlist of new and viral items",
+   "One post idea a day"
+  ],
+  "bestFor": [
+   "Creators hunting daily angles",
+   "Founders building in public"
+  ],
+  "url": "https://x.ai/bot/wJrUjqhOMRmqqJo_KtmDO",
+  "source": "https://x.com/pronaksai/status/2116517701694685407",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "site-signal",
+  "name": "Site Signal",
+  "builder": {
+   "name": "Michael Gannotti",
+   "x": "MichaelGannotti"
+  },
+  "tagline": "Audits a site for SEO, GEO, AEO and AI readiness plus accessibility, ranks the issues by impact and ships the fixes.",
+  "description": "Crawls a public site you own and scores it on search, answer-engine and AI-readiness signals, then on accessibility. Issues are ranked by impact and the fixes are applied, so it suits people who can push changes to their own site rather than teams waiting on a ticket queue.",
+  "category": "engineering",
+  "features": [
+   "SEO, GEO and AEO audit",
+   "Accessibility pass",
+   "Impact-ranked fixes"
+  ],
+  "bestFor": [
+   "Founders who own their site",
+   "Marketers"
+  ],
+  "url": "https://x.ai/bot/qdDeWpXZufETBVcM06ysH",
+  "source": "https://x.com/MichaelGannotti/status/2116556030268080528",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "jarvis-bot-fleet",
+  "name": "Jarvis",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "Gives a fleet of bots one shared memory and one shared room, and sends you a single daily list of what needs your OK.",
+  "description": "Sets up a shared feed that every bot reads before it starts work and writes to when it finishes. Jarvis routes handoffs between the bots and collects one short daily list of decisions waiting on you, so coordination lives in one place instead of scattered chats.",
+  "category": "productivity",
+  "features": [
+   "Shared memory feed",
+   "Handoffs between bots",
+   "One daily approvals list"
+  ],
+  "bestFor": [
+   "Multi-bot setups",
+   "Solo operators"
+  ],
+  "url": "https://x.ai/bot/aHNk1O9k5iBaAs2oo97fE",
+  "source": "https://x.com/kylekane/status/2116576043691561183",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "bookmark-brain-obsidian",
+  "name": "Bookmark Brain",
+  "builder": {
+   "name": "Unicode Fawn",
+   "x": ""
+  },
+  "tagline": "Turns X bookmarks into Obsidian notes with topic tags and wikilinks, synced only when you ask.",
+  "description": "Reads your X bookmarks on request and writes one curated note per bookmark into an Obsidian vault, tagged by topic and linked to related notes. Sync is manual, so nothing new lands in the vault while you are away from it.",
+  "category": "productivity",
+  "features": [
+   "One note per bookmark",
+   "Topic tags and wikilinks",
+   "On-demand sync only"
+  ],
+  "bestFor": [
+   "Obsidian users",
+   "People who bookmark more than they read"
+  ],
+  "url": "https://x.ai/bot/DrNkx2a5av1XBf3eUSrs1",
+  "source": "https://x.com/1920web1080/status/2116607293466849403",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "garage-car-care",
+  "name": "Garage",
+  "builder": {
+   "name": "Stealth MY26",
+   "x": "StealthTSLA"
+  },
+  "tagline": "A car-care sidekick for gas, hybrid or EV: recalls, dash lights, repair quotes, parts and DIY help.",
+  "description": "Answers car questions against your specific vehicle: whether a recall applies, what a dashboard light means, whether a repair quote is fair, what maintenance is coming, and where to find parts. Covers gas, hybrid and electric cars.",
+  "category": "life",
+  "features": [
+   "Recall lookup",
+   "Dash light explanations",
+   "Repair quote checks"
+  ],
+  "bestFor": [
+   "Car owners",
+   "EV drivers"
+  ],
+  "url": "https://x.ai/bot/V3mnsui0Z3lXt38OJy86f",
+  "source": "https://x.com/StealthTSLA/status/2116647711663386999",
+  "addedAt": "2026-11-01",
+  "status": "published"
  }
 ]
