@@ -118236,5 +118236,1177 @@
   "addedAt": "2026-11-01",
   "status": "published",
   "source": "https://x.com/RyanTanaka/status/2104511660799189490"
+ },
+ {
+  "slug": "medical-bill-power-assistant",
+  "name": "Medical Bill Power Assistant",
+  "builder": {
+   "name": "iustina istrati",
+   "x": "iustinafractals"
+  },
+  "tagline": "Reads US medical bills and EOBs, flags errors and known scam patterns, then drafts a dispute for you to approve.",
+  "description": "Walks a US medical bill or explanation of benefits line by line: points out charges that look wrong, names the scam patterns it recognises, explains your rights in plain language, then drafts a dispute letter, an insurance appeal or a phone script. Nothing goes out without your approval.",
+  "category": "life",
+  "features": [
+   "Bill and EOB error checks",
+   "Dispute and appeal drafts",
+   "Phone call scripts"
+  ],
+  "bestFor": [
+   "US patients",
+   "Caregivers handling a family member's bills"
+  ],
+  "url": "https://x.ai/bot/ZGjGqInr-ExH8kRxqIR9A",
+  "source": "https://x.com/iustinafractals/status/2116684395994329110",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "quit-coach",
+  "name": "Quit Coach",
+  "builder": {
+   "name": "Patrick Nelson",
+   "x": "PatrickNelson00"
+  },
+  "tagline": "A personal quit-smoking coach that learns your name, time zone and triggers, then checks in around your plan.",
+  "description": "Sets itself up around one person, taking a name, location and time zone in the first chat, then builds a quit plan covering cravings, triggers and what to do after a slip. Sends short scheduled check-ins and keeps advice practical rather than preachy.",
+  "category": "life",
+  "features": [
+   "Personal quit plan",
+   "Craving and trigger playbook",
+   "Scheduled check-ins"
+  ],
+  "bestFor": [
+   "Anyone quitting smoking"
+  ],
+  "url": "https://x.ai/bot/fee8FVjjoFIN5Ff_KLwXK",
+  "source": "https://x.com/PatrickNelson00/status/2116697149463568706",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "xy-stream-recap",
+  "name": "XY Stream Recap",
+  "builder": {
+   "name": "XPixel",
+   "x": "xpixeladventure"
+  },
+  "tagline": "Send a finished stream, X Space or podcast link and get a summary, the audience Q&A and a timestamped topic list.",
+  "description": "Takes a completed livestream or recording on YouTube or X, including recorded X Spaces, and returns three things from the one link: a full summary, the questions the audience asked with the answers given, and a topic list with timestamps. Works on podcasts too.",
+  "category": "productivity",
+  "features": [
+   "Summary from a single link",
+   "Audience Q&A written out",
+   "Timestamped topic list"
+  ],
+  "bestFor": [
+   "Creators repurposing streams",
+   "Community managers"
+  ],
+  "url": "https://x.ai/bot/Wn-DMs4QF5z9KYxpszPbR",
+  "source": "https://x.com/xpixeladventure/status/2116700435117486316",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "bot-office",
+  "name": "Bot Office",
+  "builder": {
+   "name": "Sam E",
+   "x": "SamE1311025"
+  },
+  "tagline": "One short daily board of your bot fleet: who is working, stuck, late or waiting on a decision from you.",
+  "description": "Posts a compact daily status board for the bots you run: which are working, which are blocked, which are behind and which are waiting on you, with links to the work where they exist. Stays silent on days when nothing changed instead of padding the feed.",
+  "category": "productivity",
+  "features": [
+   "Daily fleet status board",
+   "Stuck and late flags",
+   "Silent when nothing changed"
+  ],
+  "bestFor": [
+   "People running several bots"
+  ],
+  "url": "https://x.ai/bot/_dI6HEBOa0CFWfTNsxxcm",
+  "source": "https://x.com/SamE1311025/status/2116714456050700412",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "mechanic-car-service-log",
+  "name": "Mechanic",
+  "builder": {
+   "name": "Bronson Elliott",
+   "x": "bronsonelliott"
+  },
+  "tagline": "Keeps a service log for each car, follows the maker's maintenance schedule and tells you what is due this month.",
+  "description": "Holds a service history per vehicle, tracks the manufacturer's maintenance intervals, sends a monthly note on what is coming due, and drafts dealer or shop appointments for you to approve. Built as a long-running vehicle manager rather than a one-off question answerer.",
+  "category": "life",
+  "features": [
+   "Per-car service logs",
+   "Maintenance intervals tracked",
+   "Monthly due list"
+  ],
+  "bestFor": [
+   "Car owners keeping a service history"
+  ],
+  "url": "https://x.ai/bot/uMG414YrzlrycX2TBdAsL",
+  "source": "https://x.com/bronsonelliott/status/2116730549964329351",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "photolibbot",
+  "name": "PhotoLibBot",
+  "builder": {
+   "name": "Joe Magyar",
+   "x": "j_magyar"
+  },
+  "tagline": "Merges photos and videos scattered across old drives, phones and backups into one dated, de-duplicated library.",
+  "description": "Runs a cleanup of a photo and video archive: gathers files from old drives, phone exports, zips and PC backups into one library, sorts them by date, removes duplicates and logs each step. Ends with a verified master copy and two verified backups.",
+  "category": "life",
+  "features": [
+   "Dated, de-duplicated library",
+   "Step-by-step log",
+   "Verified master plus two backups"
+  ],
+  "bestFor": [
+   "People with years of scattered media"
+  ],
+  "url": "https://x.ai/bot/Z3pD_vxqPizBArbO3KAsp",
+  "source": "https://x.com/j_magyar/status/2116794202516582833",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "quota-saver",
+  "name": "Quota Saver",
+  "builder": {
+   "name": "Albert King",
+   "x": "Alberttooctopus"
+  },
+  "tagline": "Cuts Grok Bot usage across a fleet by replacing idle watch routines with cheap prefilters that only wake a bot on change.",
+  "description": "Audits the routines running across your bots and swaps always-on watchers for prefilters that wake a bot only when something actually changed. Also ranks which routines burn the most usage before your reset, and trims stale text out of bot descriptions when you ask.",
+  "category": "productivity",
+  "features": [
+   "Routine usage audit",
+   "Prefilter swaps for idle watchers",
+   "Usage ranking before reset"
+  ],
+  "bestFor": [
+   "Heavy Grok Bot users",
+   "Team accounts"
+  ],
+  "url": "https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh",
+  "source": "https://x.com/Alberttooctopus/status/2116835993642815609",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "x-scout-niche-brief",
+  "name": "X Scout",
+  "builder": {
+   "name": "Grigory Kuklin",
+   "x": "pronaksai"
+  },
+  "tagline": "Learns your niche from your own posts, then sends the freshest and most viral news in it each day with one post idea.",
+  "description": "Takes your X handle, reads your posts and replies to work out the niche you actually write about, then sends a daily shortlist of the newest and most viral items in that niche plus one angle you could post. Read-only: it never posts on your behalf.",
+  "category": "research",
+  "features": [
+   "Niche learned from your posts",
+   "Daily shortlist of new and viral items",
+   "One post idea a day"
+  ],
+  "bestFor": [
+   "Creators hunting daily angles",
+   "Founders building in public"
+  ],
+  "url": "https://x.ai/bot/wJrUjqhOMRmqqJo_KtmDO",
+  "source": "https://x.com/pronaksai/status/2116517701694685407",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "site-signal",
+  "name": "Site Signal",
+  "builder": {
+   "name": "Michael Gannotti",
+   "x": "MichaelGannotti"
+  },
+  "tagline": "Audits a site for SEO, GEO, AEO and AI readiness plus accessibility, ranks the issues by impact and ships the fixes.",
+  "description": "Crawls a public site you own and scores it on search, answer-engine and AI-readiness signals, then on accessibility. Issues are ranked by impact and the fixes are applied, so it suits people who can push changes to their own site rather than teams waiting on a ticket queue.",
+  "category": "engineering",
+  "features": [
+   "SEO, GEO and AEO audit",
+   "Accessibility pass",
+   "Impact-ranked fixes"
+  ],
+  "bestFor": [
+   "Founders who own their site",
+   "Marketers"
+  ],
+  "url": "https://x.ai/bot/qdDeWpXZufETBVcM06ysH",
+  "source": "https://x.com/MichaelGannotti/status/2116556030268080528",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "jarvis-bot-fleet",
+  "name": "Jarvis",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "Gives a fleet of bots one shared memory and one shared room, and sends you a single daily list of what needs your OK.",
+  "description": "Sets up a shared feed that every bot reads before it starts work and writes to when it finishes. Jarvis routes handoffs between the bots and collects one short daily list of decisions waiting on you, so coordination lives in one place instead of scattered chats.",
+  "category": "productivity",
+  "features": [
+   "Shared memory feed",
+   "Handoffs between bots",
+   "One daily approvals list"
+  ],
+  "bestFor": [
+   "Multi-bot setups",
+   "Solo operators"
+  ],
+  "url": "https://x.ai/bot/aHNk1O9k5iBaAs2oo97fE",
+  "source": "https://x.com/kylekane/status/2116576043691561183",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "bookmark-brain-obsidian",
+  "name": "Bookmark Brain",
+  "builder": {
+   "name": "Unicode Fawn",
+   "x": ""
+  },
+  "tagline": "Turns X bookmarks into Obsidian notes with topic tags and wikilinks, synced only when you ask.",
+  "description": "Reads your X bookmarks on request and writes one curated note per bookmark into an Obsidian vault, tagged by topic and linked to related notes. Sync is manual, so nothing new lands in the vault while you are away from it.",
+  "category": "productivity",
+  "features": [
+   "One note per bookmark",
+   "Topic tags and wikilinks",
+   "On-demand sync only"
+  ],
+  "bestFor": [
+   "Obsidian users",
+   "People who bookmark more than they read"
+  ],
+  "url": "https://x.ai/bot/DrNkx2a5av1XBf3eUSrs1",
+  "source": "https://x.com/1920web1080/status/2116607293466849403",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "garage-car-care",
+  "name": "Garage",
+  "builder": {
+   "name": "Stealth MY26",
+   "x": "StealthTSLA"
+  },
+  "tagline": "A car-care sidekick for gas, hybrid or EV: recalls, dash lights, repair quotes, parts and DIY help.",
+  "description": "Answers car questions against your specific vehicle: whether a recall applies, what a dashboard light means, whether a repair quote is fair, what maintenance is coming, and where to find parts. Covers gas, hybrid and electric cars.",
+  "category": "life",
+  "features": [
+   "Recall lookup",
+   "Dash light explanations",
+   "Repair quote checks"
+  ],
+  "bestFor": [
+   "Car owners",
+   "EV drivers"
+  ],
+  "url": "https://x.ai/bot/V3mnsui0Z3lXt38OJy86f",
+  "source": "https://x.com/StealthTSLA/status/2116647711663386999",
+  "addedAt": "2026-11-01",
+  "status": "published"
+ },
+ {
+  "slug": "nooks-sequencer",
+  "name": "Nooks Sequencer",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Pushes a prospect into Nooks with a drafted first step and enriched phone numbers, and sends nothing without review.",
+  "description": "Takes a prospect from a target list into Nooks: writes a personalized step-one draft, enriches contact details including phone numbers, and stages the sequence. Every message waits for a human send.",
+  "category": "sales",
+  "features": [
+   "Step-one draft writing",
+   "Phone enrichment",
+   "Human-gated sending"
+  ],
+  "bestFor": [
+   "SDRs",
+   "Nooks users"
+  ],
+  "url": "https://x.ai/bot/9uJ3Xb3ynLTgyP0klkNZQ",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "eval-interview-calibration",
+  "name": "eVal",
+  "builder": {
+   "name": "Michelle Freitas",
+   "x": ""
+  },
+  "tagline": "Interview calibration for recruiters: reviews hires who later failed downstream and logs the question gaps to Notion.",
+  "description": "Looks back at candidates you advanced who then underperformed, compares the interview evidence with what actually happened, and records the misses in Notion. Recommends which questions and prep notes to prioritize next month.",
+  "category": "productivity",
+  "features": [
+   "Post-hire retrospectives",
+   "Notion logging",
+   "Question prioritization"
+  ],
+  "bestFor": [
+   "Recruiters",
+   "Hiring managers"
+  ],
+  "url": "https://x.ai/bot/_ANUYOkcmX6e_69CTbQc6",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-recruiting"
+ },
+ {
+  "slug": "sfdc-create",
+  "name": "SFDC Create",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Creates Salesforce contacts from chat when the CLI or MCP route is unavailable, with email-first duplicate checks.",
+  "description": "A fallback for CRM entry: checks whether a contact already exists by email, then files the new record through Approve cards. It does not draft or send outreach.",
+  "category": "sales",
+  "features": [
+   "Email-first dedupe",
+   "Approve-card writes",
+   "No outreach"
+  ],
+  "bestFor": [
+   "Sales ops",
+   "RevOps teams"
+  ],
+  "url": "https://x.ai/bot/DWIjg4DKKSIKZy1sgRihx",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "contact-man",
+  "name": "Contact Man",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Keeps a live 100-contact prospecting sheet fed with daily ICP research and ready-to-review packets.",
+  "description": "Maintains a single Google Sheet of roughly a hundred prospects, adds a daily digest of new ICP matches, prepares review packets, and moves contacts into a sequence only after a verified stage. No email goes out on its own.",
+  "category": "sales",
+  "features": [
+   "Living prospect sheet",
+   "Daily ICP digests",
+   "Stage-gated sequencing"
+  ],
+  "bestFor": [
+   "SDRs",
+   "Founder-led sales"
+  ],
+  "url": "https://x.ai/bot/hjt7WTPjZaCosdXc-LhFK",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "iris-paid-media-pm",
+  "name": "Iris",
+  "builder": {
+   "name": "Miguel Cruz",
+   "x": ""
+  },
+  "tagline": "Paid-media project manager: weekday Slack digests, help with creative and copy, and careful access to ad platforms.",
+  "description": "Acts as a teammate for a paid-media team: short weekday Slack summaries, feedback on creative and ad copy, and measured access to ad platforms. Written to sound like a coworker rather than a support desk.",
+  "category": "productivity",
+  "features": [
+   "Weekday Slack digests",
+   "Creative feedback",
+   "Ad platform access"
+  ],
+  "bestFor": [
+   "Paid-media teams",
+   "Performance marketers"
+  ],
+  "url": "https://x.ai/bot/jiNlnoEOwKPZCVU7K_w6k",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-performance-marketing"
+ },
+ {
+  "slug": "john-ford-linkedin-outreach",
+  "name": "John Ford",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "Drafts LinkedIn DMs and bumps for SDRs, watches blank-connect accepts, and holds every message for review.",
+  "description": "Handles the LinkedIn side of outbound: writes net-new direct messages and follow-up bumps, notices when a blank connection request is accepted, and queues everything for the rep to approve before it sends.",
+  "category": "sales",
+  "features": [
+   "LinkedIn DM drafts",
+   "Bump sequences",
+   "Accept monitoring"
+  ],
+  "bestFor": [
+   "SDRs",
+   "LinkedIn outbound teams"
+  ],
+  "url": "https://x.ai/bot/LNvB2DKKvUOUadNF0r26x",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "pulse-scorecards-demo",
+  "name": "Pulse Scorecards Demo",
+  "builder": {
+   "name": "Michelle Freitas",
+   "x": ""
+  },
+  "tagline": "Recruiting scorecard co-pilot that drafts post-interview leans and paste-ready scorecards in chat.",
+  "description": "After an interview it drafts a leaning and a scorecard the recruiter can paste, and asks for judgment before anything is recorded. It never submits to the applicant tracking system itself.",
+  "category": "productivity",
+  "features": [
+   "Post-interview leans",
+   "Paste-ready scorecards",
+   "ATS stays manual"
+  ],
+  "bestFor": [
+   "Recruiters",
+   "Interview panels"
+  ],
+  "url": "https://x.ai/bot/MwQEFehSfT0kfHBT95ELe",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-recruiting"
+ },
+ {
+  "slug": "tally-ad-reporting",
+  "name": "Tally",
+  "builder": {
+   "name": "Miguel Cruz",
+   "x": ""
+  },
+  "tagline": "Watches Slack for ad performance questions, pulls the numbers from Supermetrics and answers in a DM.",
+  "description": "A reporting bot for paid media: when someone asks about performance or metrics in Slack, it fetches the figures from Supermetrics and replies privately with the answer plus a link back to the thread.",
+  "category": "productivity",
+  "features": [
+   "Slack question watch",
+   "Supermetrics pulls",
+   "Private answers"
+  ],
+  "bestFor": [
+   "Paid-media teams",
+   "Marketing leads"
+  ],
+  "url": "https://x.ai/bot/N3SEP6iy6BHIiPcws6hqO",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-performance-marketing"
+ },
+ {
+  "slug": "leadsworth",
+  "name": "Leadsworth",
+  "builder": {
+   "name": "Miguel Cruz",
+   "x": ""
+  },
+  "tagline": "B2B marketing-ops teammate that tracks lead goals, pacing, content ideas and a live demand-gen dashboard.",
+  "description": "Runs the demand-gen bookkeeping: stores your lead volume targets, flags when pacing drifts, drafts lead-gen content ideas, and refreshes a dashboard so marketing stays measurable.",
+  "category": "sales",
+  "features": [
+   "Lead goal tracking",
+   "Pacing alerts",
+   "Demand-gen dashboard"
+  ],
+  "bestFor": [
+   "Marketing ops",
+   "Demand-gen teams"
+  ],
+  "url": "https://x.ai/bot/OgwFCbt_bFSfKOj2gfmnh",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-performance-marketing"
+ },
+ {
+  "slug": "founder-led-sales-setup",
+  "name": "Founder-Led Sales Setup",
+  "builder": {
+   "name": "Sarah Goomar",
+   "x": ""
+  },
+  "tagline": "A setup bot that builds a founder-led sales team: Sell, Outreach, Inbox and Insights bots that draft for approval.",
+  "description": "Connect your tools and the bot confirms what it learned about the business, then creates a small sales team: specialists for selling, outreach, inbox triage and insights. Everything they produce is drafted for your approval.",
+  "category": "sales",
+  "features": [
+   "Four-role team setup",
+   "Business context check",
+   "Approval-first drafts"
+  ],
+  "bestFor": [
+   "Founders",
+   "Solo sellers"
+  ],
+  "url": "https://x.ai/bot/rgNU5t4jZko9RM8u2W17C",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-founder-led-sales"
+ },
+ {
+  "slug": "josh-allen-sdr",
+  "name": "Josh Allen",
+  "builder": {
+   "name": "Stefan Markarian",
+   "x": ""
+  },
+  "tagline": "SDR sidekick that researches, drafts and stages outbound across the morning surface, prospect sheet and inbox.",
+  "description": "Covers the daily SDR loop: a morning review, prospect-sheet upkeep, research on new accounts, and staged drafts ready in the inbox. The rep approves and sends every message.",
+  "category": "sales",
+  "features": [
+   "Morning review",
+   "Account research",
+   "Staged inbox drafts"
+  ],
+  "bestFor": [
+   "SDRs",
+   "Outbound teams"
+  ],
+  "url": "https://x.ai/bot/yS_Mk0VEPhYnttv3GDr4C",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-sdrs"
+ },
+ {
+  "slug": "preppy-meeting-prep",
+  "name": "Preppy",
+  "builder": {
+   "name": "Michelle Freitas",
+   "x": ""
+  },
+  "tagline": "Meeting prep assistant that writes short scannable notes, asks before sending and nudges at the right time.",
+  "description": "Prepares you for meetings with brief, human-sounding notes built for skimming, asks for approval before anything goes out, and reminds you when the meeting is close.",
+  "category": "productivity",
+  "features": [
+   "Skimmable prep notes",
+   "Approval before send",
+   "Timed nudges"
+  ],
+  "bestFor": [
+   "Recruiters",
+   "Busy managers"
+  ],
+  "url": "https://x.ai/bot/z0gLS_3ehXjKW80p77-ib",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "source": "https://x.ai/bot/guides/grok-bot-for-recruiting"
+ },
+ {
+  "slug": "x-voice-editor",
+  "name": "X Voice Editor",
+  "builder": {
+   "name": "Eidan Rosado",
+   "x": ""
+  },
+  "tagline": "Drafts X posts, replies and threads in your own voice, then leaves publishing to you.",
+  "description": "Builds drafts from posts you paste or export, matching how you already write. Flags claims that need a source and labels paid partnerships. Every draft ends with an intent link and never posts by itself.",
+  "category": "creative",
+  "features": [
+   "Voice-matched drafts",
+   "Claim and disclosure flags",
+   "Never posts on its own"
+  ],
+  "bestFor": [
+   "Founders who post daily",
+   "Ghostwriters"
+  ],
+  "url": "https://x.ai/bot/ZMEcetFhiK8nzHdsKCeq5",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 77
+ },
+ {
+  "slug": "x-post-analyzer",
+  "name": "X Post Analyzer",
+  "builder": {
+   "name": "Eidan Rosado",
+   "x": ""
+  },
+  "tagline": "Shows which of your X posts worked, by format, topic, hook, length and timing.",
+  "description": "Compares your recent posts across format, topic, length, hook and time of day, then suggests experiments. Adds small-sample caveats so thin data is not read as a trend. Runs on public metrics or your own export.",
+  "category": "research",
+  "features": [
+   "Format and hook comparison",
+   "Small-sample caveats",
+   "Experiment suggestions"
+  ],
+  "bestFor": [
+   "Creators",
+   "Social media managers"
+  ],
+  "url": "https://x.ai/bot/ffBuRJCFNCtj-gFzSzgVa",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 294
+ },
+ {
+  "slug": "voice-clone-2",
+  "name": "Voice Clone",
+  "builder": {
+   "name": "Rob H",
+   "x": ""
+  },
+  "tagline": "Clones a voice from samples and renders any text to speech inside chat.",
+  "description": "Takes voice samples and turns written text into natural-sounding audio without leaving the conversation. Uses ElevenLabs by default, with an optional free local engine for offline runs.",
+  "category": "creative",
+  "features": [
+   "In-chat audio output",
+   "ElevenLabs default",
+   "Free local engine option"
+  ],
+  "bestFor": [
+   "Voiceover work",
+   "Audiobook drafts"
+  ],
+  "url": "https://x.ai/bot/5jD8K39ZSzsULOdFkRzUS",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 354
+ },
+ {
+  "slug": "unfollow-bot",
+  "name": "Unfollow Bot",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Takes a daily follower snapshot and reports who unfollowed you on X.",
+  "description": "Snapshots your follower list once a day, then reports who left and separates suspended accounts from real unfollows. Keeps a running history. Detection only, no actions on your behalf.",
+  "category": "productivity",
+  "features": [
+   "Daily follower snapshot",
+   "Suspended vs unfollow split",
+   "Running history"
+  ],
+  "bestFor": [
+   "Creators tracking growth",
+   "Social analysts"
+  ],
+  "url": "https://x.ai/bot/CMnwGtB1QgWoOGSCydJI4",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 309
+ },
+ {
+  "slug": "trip-deal",
+  "name": "Trip Deal",
+  "builder": {
+   "name": "Unicode Fawn",
+   "x": ""
+  },
+  "tagline": "Prices a trip three ways with all-in totals and the gap between them.",
+  "description": "Plans a trip into three options with live flights and stays, bags, transfers and food included in the USD total, plus flex dates. Built for people who want deal math before booking.",
+  "category": "life",
+  "features": [
+   "All-in cost per option",
+   "Flex-date pricing",
+   "Live flight and stay data"
+  ],
+  "bestFor": [
+   "Budget travellers",
+   "Trip planners"
+  ],
+  "url": "https://x.ai/bot/Kwb0OlBmnVchYsVwZxbRN",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 239
+ },
+ {
+  "slug": "team-front-door",
+  "name": "Team Front Door",
+  "builder": {
+   "name": "SpreadMisery",
+   "x": ""
+  },
+  "tagline": "One front door that routes work across a team of helper bots and checks the results.",
+  "description": "Handles small tasks directly and sends everything else to the helper bot that owns it, then checks the result against the request. Sending, posting, paying and deleting all wait for your approval.",
+  "category": "productivity",
+  "features": [
+   "Task routing across bots",
+   "Result checks",
+   "Approval before any send"
+  ],
+  "bestFor": [
+   "Bot teams",
+   "Ops leads"
+  ],
+  "url": "https://x.ai/bot/ihywZwdvzvh6Oc67fh08k",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 344
+ },
+ {
+  "slug": "screen-question-bot",
+  "name": "Screen Question Bot",
+  "builder": {
+   "name": "Uri Kroll",
+   "x": ""
+  },
+  "tagline": "Answers questions about whatever is on your iPhone screen, silently.",
+  "description": "Uses the iPhone back-tap shortcut to read the current screen, so you can ask about a video, reel, post or page without copying links or taking screenshots. Replies arrive as a silent notification.",
+  "category": "productivity",
+  "features": [
+   "Back-tap trigger",
+   "No screenshot needed",
+   "Silent notification replies"
+  ],
+  "bestFor": [
+   "iPhone users",
+   "Mobile researchers"
+  ],
+  "url": "https://x.ai/bot/-dgs5IiFlb8m2xzHEAwe0",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 100
+ },
+ {
+  "slug": "redline",
+  "name": "Redline",
+  "builder": {
+   "name": "JT Repp",
+   "x": ""
+  },
+  "tagline": "Spends nearly all of your weekly usage without ever going over the cap.",
+  "description": "Reads your usage meter, sends each task to the cheapest tool that can do it well, and fills leftover room with backlog work. Adjusts its routing from a weekly retro.",
+  "category": "productivity",
+  "features": [
+   "Usage-meter aware routing",
+   "Cheapest-capable-tool choice",
+   "Weekly self-tune"
+  ],
+  "bestFor": [
+   "Heavy Grok Bot users",
+   "Budget-minded operators"
+  ],
+  "url": "https://x.ai/bot/Pojm9y9xc_ZVnnBMIpOJI",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 71
+ },
+ {
+  "slug": "personal-data-removal",
+  "name": "Personal Data Removal",
+  "builder": {
+   "name": "Rob H",
+   "x": ""
+  },
+  "tagline": "Finds your details on broker sites and files opt-outs after you approve.",
+  "description": "Searches people-search and data broker sites for your personal information, then submits removal requests once approved. Rechecks later for relistings.",
+  "category": "life",
+  "features": [
+   "Broker site sweep",
+   "Approved opt-outs",
+   "Relisting rechecks"
+  ],
+  "bestFor": [
+   "Privacy-conscious users",
+   "People doxxed online"
+  ],
+  "url": "https://x.ai/bot/65GhYJSetWt9fUgU1Gtyz",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 197
+ },
+ {
+  "slug": "miilo-daily-brief",
+  "name": "Miilo Daily Brief",
+  "builder": {
+   "name": "Eidan Rosado",
+   "x": ""
+  },
+  "tagline": "Daily brief on your local coding agents: what needs you, what changed, what is missing.",
+  "description": "Reads Miilo observations of coding agents on your machine and produces one daily brief covering what needs a decision, what shifted since the last snapshot and where coverage is thin. It never controls agents.",
+  "category": "engineering",
+  "features": [
+   "One daily brief",
+   "Snapshot diffs",
+   "Coverage gap flags"
+  ],
+  "bestFor": [
+   "Developers running agents locally",
+   "Teams with several coding agents"
+  ],
+  "url": "https://x.ai/bot/lODwaQuvFNIM935q8hm7t",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 7
+ },
+ {
+  "slug": "miilo-control",
+  "name": "Miilo Control",
+  "builder": {
+   "name": "Eidan Rosado",
+   "x": ""
+  },
+  "tagline": "Reviews agent action records against local observations and flags conflicts.",
+  "description": "Cross-checks the action records you supply with read-only Miilo observations of your coding agents, reporting unresolved or conflicting outcomes and showing observed work that has no record. Review only: it never runs, retries or approves an agent.",
+  "category": "engineering",
+  "features": [
+   "Record vs observation diffs",
+   "Conflict reporting",
+   "Read-only by design"
+  ],
+  "bestFor": [
+   "Engineering managers",
+   "Agent auditors"
+  ],
+  "url": "https://x.ai/bot/eT3S9HPEU7FD_6RkMWcju",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 20
+ },
+ {
+  "slug": "meal-planner-3",
+  "name": "Meal planner",
+  "builder": {
+   "name": "Rachel V",
+   "x": ""
+  },
+  "tagline": "Plans the week around your kitchen, pantry and budget, then writes the grocery list.",
+  "description": "Builds a weekly meal plan from what you already have and what you can spend, reads food labels, and turns the plan into a priced grocery list sorted by aisle.",
+  "category": "life",
+  "features": [
+   "Pantry-first planning",
+   "Food label reading",
+   "Aisle-sorted priced list"
+  ],
+  "bestFor": [
+   "Home cooks",
+   "Families on a budget"
+  ],
+  "url": "https://x.ai/bot/04sgrpvtAre-Khtz6KDyg",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 100
+ },
+ {
+  "slug": "lead-hunter",
+  "name": "Lead Hunter",
+  "builder": {
+   "name": "Sultanov Ramil",
+   "x": ""
+  },
+  "tagline": "Finds buying intent on X and Reddit and scores it HOT, WARM or SKIP.",
+  "description": "Scans X and Reddit for people describing a need you can fill, scores each lead, and drafts a reply in your words. Nothing sends until you approve it.",
+  "category": "sales",
+  "features": [
+   "X and Reddit scanning",
+   "HOT/WARM/SKIP scoring",
+   "Approved draft replies"
+  ],
+  "bestFor": [
+   "Solo founders",
+   "Outbound sales"
+  ],
+  "url": "https://x.ai/bot/zGZE1HG3X5jQdq0OgRNcy",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 343
+ },
+ {
+  "slug": "job-search-bot-2",
+  "name": "Job search bot",
+  "builder": {
+   "name": "Sara",
+   "x": ""
+  },
+  "tagline": "Finds 20-30 matching jobs every weekday and keeps the applications moving.",
+  "description": "Searches for roles that fit, logs them in a tracker page, drafts applications for your review, and watches email and calendar so interviews and replies do not slip. Works toward a goal you set.",
+  "category": "life",
+  "features": [
+   "Weekday job search",
+   "Application tracker page",
+   "Email and calendar watch"
+  ],
+  "bestFor": [
+   "Active job seekers",
+   "Career switchers"
+  ],
+  "url": "https://x.ai/bot/J-wW65CmuMGk1yPB6kJe5",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 269
+ },
+ {
+  "slug": "grok-build-helper",
+  "name": "Grok Build Helper",
+  "builder": {
+   "name": "MaX Falstein",
+   "x": ""
+  },
+  "tagline": "Audits Grok Build CLI worktrees, repairs broken git state and restores copies safely.",
+  "description": "For Grok Build CLI users: compares worktrees against their origin folders, diagnoses broken repos and sync conflicts, fixes stale paths, and copies or restores worktrees without clobbering work. Read first, change second.",
+  "category": "engineering",
+  "features": [
+   "Worktree audits",
+   "Git conflict diagnosis",
+   "Safe restore and copy"
+  ],
+  "bestFor": [
+   "Grok Build CLI users",
+   "Developers with many worktrees"
+  ],
+  "url": "https://x.ai/bot/_4l8W-Etvs_dVC0qVmlnw",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 252
+ },
+ {
+  "slug": "grok-brain",
+  "name": "Grok Brain",
+  "builder": {
+   "name": "Carter St.Clair",
+   "x": ""
+  },
+  "tagline": "One sourced brain about you or your company that every bot can answer from.",
+  "description": "Keeps a private markdown knowledge base that answers with citations, marks stale facts, records a timeline of decisions, and only learns from sources you approve.",
+  "category": "productivity",
+  "features": [
+   "Cited answers",
+   "Stale-fact flags",
+   "Decision timeline"
+  ],
+  "bestFor": [
+   "Bot teams",
+   "Small companies"
+  ],
+  "url": "https://x.ai/bot/Va1GmBTD_1J-MomU7o3Uz",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 153
+ },
+ {
+  "slug": "chief-of-staff-jared",
+  "name": "Chief of Staff",
+  "builder": {
+   "name": "Jared",
+   "x": ""
+  },
+  "tagline": "Gives each bot one job, routes requests, chases quiet ones and checks the work.",
+  "description": "Sets a single job per bot, sends each request to the right one, follows up when a bot goes silent, and reviews output before calling it done. Nothing leaves without your OK.",
+  "category": "assistants",
+  "features": [
+   "One job per bot",
+   "Routing and follow-up",
+   "Approval gate"
+  ],
+  "bestFor": [
+   "Bot team owners",
+   "Solo operators"
+  ],
+  "url": "https://x.ai/bot/NS5I1t84pW45WBSg4dyWd",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 251
+ },
+ {
+  "slug": "case-law-desk",
+  "name": "Case Law Desk",
+  "builder": {
+   "name": "MeesesRfriends",
+   "x": "meesesRfriends"
+  },
+  "tagline": "Organises a US civil lawsuit: documents, cited state law, timelines and deadlines.",
+  "description": "Reviews your case documents, researches your state law with cited sources, builds a timeline, flags deadlines and drafts questions for your attorney. Not legal advice.",
+  "category": "research",
+  "features": [
+   "Document review",
+   "Cited state-law research",
+   "Deadline flags"
+  ],
+  "bestFor": [
+   "Self-represented litigants",
+   "Paralegals"
+  ],
+  "url": "https://x.ai/bot/Rt-vOEJqjc0aiVcp0NUdq",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 228
+ },
+ {
+  "slug": "audio-editor",
+  "name": "Audio Editor",
+  "builder": {
+   "name": "Tommy Alderman",
+   "x": ""
+  },
+  "tagline": "Cleans raw recordings into podcast-ready audio, saved next to the original.",
+  "description": "Takes sermons, talks, podcasts and interviews, cuts stumbles, filler and dead air, and applies your trim instructions. Writes the edited file beside the source recording.",
+  "category": "creative",
+  "features": [
+   "Filler and stumble removal",
+   "Dead-air trimming",
+   "Non-destructive output"
+  ],
+  "bestFor": [
+   "Podcasters",
+   "Church media teams"
+  ],
+  "url": "https://x.ai/bot/SkD4eLOanzojiX7tyodeq",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 115
+ },
+ {
+  "slug": "ablelatch",
+  "name": "AbleLatch",
+  "builder": {
+   "name": "Calix Build",
+   "x": ""
+  },
+  "tagline": "Free number-menu helper for people with limited input, in any language.",
+  "description": "Daily tasks in numbered menus that work with eye-gaze, switch, voice, AAC, BCI and caregiver input. Built for people with disabilities and limited motor control.",
+  "category": "life",
+  "features": [
+   "Number-menu interface",
+   "Assistive input support",
+   "Any language"
+  ],
+  "bestFor": [
+   "Accessibility users",
+   "Caregivers"
+  ],
+  "url": "https://x.ai/bot/M6gJAA-Hlh1u3rcwychpu",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 326
+ },
+ {
+  "slug": "whatsapp-assistant",
+  "name": "WhatsApp Assistant",
+  "builder": {
+   "name": "Gabriel Urrutia",
+   "x": ""
+  },
+  "tagline": "Reads WhatsApp, tracks commitments and replies only in chats you enable.",
+  "description": "Connects through wacli, pulls out promises and reminders from your messages, and drafts replies limited to the chats you turn on, signed with an emoji. Unofficial client, so account risk is yours.",
+  "category": "assistants",
+  "features": [
+   "Commitment and reminder capture",
+   "Per-chat reply scope",
+   "Emoji signing"
+  ],
+  "bestFor": [
+   "Spanish-speaking users",
+   "People living in WhatsApp"
+  ],
+  "url": "https://x.ai/bot/LgLcAcgu50-eldWVmALmn",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 119
+ },
+ {
+  "slug": "trump-account-check",
+  "name": "Trump Account Check",
+  "builder": {
+   "name": "Thuong P. Nguyen",
+   "x": ""
+  },
+  "tagline": "Checks each child against published account and donor gift rules, with official links.",
+  "description": "Takes each child first name, birth month and year, ZIP and state, then shows one card per kid with the published account and donor gift rules that apply, the official link and what to confirm. Independent, never opens accounts or moves money, never asks for SSNs.",
+  "category": "money",
+  "features": [
+   "Per-child eligibility cards",
+   "Official source links",
+   "No SSNs requested"
+  ],
+  "bestFor": [
+   "US parents",
+   "Family financial planners"
+  ],
+  "url": "https://x.ai/bot/DyadpqW2_ZDVy0QkDDz_H",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 249
+ },
+ {
+  "slug": "travel-planner",
+  "name": "Travel Planner",
+  "builder": {
+   "name": "Jay N",
+   "x": ""
+  },
+  "tagline": "Compares flights, stays, cars and cruises, keeps a trip file and watches prices.",
+  "description": "Runs the comparison across flights, lodging, rental cars and cruises, stores it in one trip file, and monitors prices. Booking, holding, paying or messaging a carrier waits for your explicit yes at each step.",
+  "category": "life",
+  "features": [
+   "Multi-part price comparison",
+   "Single trip file",
+   "Price watching"
+  ],
+  "bestFor": [
+   "Frequent flyers",
+   "Family trips"
+  ],
+  "url": "https://x.ai/bot/J0Vbf9f7rquhl9RYXHaiD",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 272
+ },
+ {
+  "slug": "tag-desk",
+  "name": "Tag Desk",
+  "builder": {
+   "name": "Shawn McKenna",
+   "x": ""
+  },
+  "tagline": "Catches your own posts that tag the bot and does the work asked for.",
+  "description": "Watches your X posts that tag the bot with a request, reads the post being replied to, does the task, and reports a short verdict plus next step in chat. X access stays read-only.",
+  "category": "productivity",
+  "features": [
+   "Tag-triggered tasks",
+   "Context-aware replies",
+   "Read-only X access"
+  ],
+  "bestFor": [
+   "Founders on X",
+   "Content operators"
+  ],
+  "url": "https://x.ai/bot/lSdE9ri6FnCRzVIhf-ThW",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 11
+ },
+ {
+  "slug": "sneaker-scout",
+  "name": "Sneaker Scout",
+  "builder": {
+   "name": "TeslaAiGirl",
+   "x": ""
+  },
+  "tagline": "Tracks sneaker drops, rare pairs and used grails in your size.",
+  "description": "Hunts new drops, scarce pairs and second-hand grails for the brands you follow, in your size, and alerts with prices, links, drop reminders and price drops.",
+  "category": "life",
+  "features": [
+   "Size-filtered alerts",
+   "Drop reminders",
+   "Price-drop watch"
+  ],
+  "bestFor": [
+   "Sneaker collectors",
+   "Resellers"
+  ],
+  "url": "https://x.ai/bot/uo4PK9GMRrUhto5lqOcaw",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 183
  }
 ]
