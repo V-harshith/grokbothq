@@ -119408,5 +119408,221 @@
   "addedAt": "2026-11-02",
   "status": "published",
   "hue": 183
+ },
+ {
+  "slug": "reply-screen",
+  "name": "Reply Screen",
+  "builder": {
+   "name": "Jared",
+   "x": ""
+  },
+  "tagline": "Sorts overnight replies, mentions and DMs into a short morning list of what actually needs an answer.",
+  "description": "Goes through the replies, mentions and inbox messages that piled up while you were away, works out which ones deserve a response, and hands you a short morning list with draft replies instead of a full inbox. Aimed at creators and job seekers.",
+  "category": "productivity",
+  "features": [
+   "Overnight triage",
+   "Ranked reply list",
+   "Draft replies"
+  ],
+  "bestFor": [
+   "Creators",
+   "Job seekers"
+  ],
+  "url": "https://x.ai/bot/wU11kaSqcTQlZu7ANe4lo",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 205
+ },
+ {
+  "slug": "hindsight",
+  "name": "Hindsight",
+  "builder": {
+   "name": "Jared",
+   "x": ""
+  },
+  "tagline": "Monday review partner: what you planned, what actually happened, and what to change.",
+  "description": "Checks in every Monday with a short, honest weekly review: what you planned, what actually happened, and what to adjust next. Built for people who want their goals to stay on track without writing the review themselves.",
+  "category": "productivity",
+  "features": [
+   "Weekly check-in",
+   "Plan versus actual",
+   "Short review output"
+  ],
+  "bestFor": [
+   "Goal setters",
+   "Solo operators"
+  ],
+  "url": "https://x.ai/bot/4suWsclSwrTZ-WlfKUbzX",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 280
+ },
+ {
+  "slug": "bill-letter-explainer",
+  "name": "Bill & Letter Explainer",
+  "builder": {
+   "name": "Jared",
+   "x": "dcostaverage"
+  },
+  "tagline": "Turns a confusing bill, letter or notice into plain English: what it is, what you owe and by when.",
+  "description": "You drop in a bill, letter or notice and it explains what the document is, what you owe, the deadline, and whether anything looks off. A reading aid for paperwork, not financial or legal advice.",
+  "category": "money",
+  "features": [
+   "Plain-English breakdown",
+   "Due-date extraction",
+   "Flags anything odd"
+  ],
+  "bestFor": [
+   "Households",
+   "People buried in paperwork"
+  ],
+  "url": "https://x.ai/bot/bbD3cuYHhmuEZLSeeGQi0",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 30
+ },
+ {
+  "slug": "tech-helper",
+  "name": "Tech Helper",
+  "builder": {
+   "name": "Jared",
+   "x": "dcostaverage"
+  },
+  "tagline": "Plain-English tech help: troubleshoots devices and apps, then sets up tools and small automations.",
+  "description": "A general tech helper that walks through device and app problems step by step, sets up tools and small automations, and explains each move without jargon.",
+  "category": "life",
+  "features": [
+   "Device troubleshooting",
+   "Tool setup",
+   "Automation walkthroughs"
+  ],
+  "bestFor": [
+   "Non-technical users",
+   "Small teams"
+  ],
+  "url": "https://x.ai/bot/6IRT83HHK3xbbfZEGR6Vv",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 195
+ },
+ {
+  "slug": "reply-helper",
+  "name": "Reply Helper",
+  "builder": {
+   "name": "Jared",
+   "x": "dcostaverage"
+  },
+  "tagline": "Drafts replies to email, social replies and DMs in your voice so you only review and send.",
+  "description": "Writes replies to emails, social replies and direct messages in your own voice, ready for you to edit and send. Nothing goes out on its own.",
+  "category": "productivity",
+  "features": [
+   "Voice-matched drafts",
+   "Email and DM coverage",
+   "You press send"
+  ],
+  "bestFor": [
+   "Creators",
+   "Founders"
+  ],
+  "url": "https://x.ai/bot/iluI430LWck1SOKmD7Czp",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 210
+ },
+ {
+  "slug": "medicine-appointment-reminders",
+  "name": "Medicine & Appointment Reminders",
+  "builder": {
+   "name": "Jared",
+   "x": "dcostaverage"
+  },
+  "tagline": "Dose reminders on schedule, plus doctor visits loaded into Google Calendar with an advance heads-up.",
+  "description": "Reminds you to take medication on schedule and puts appointments into Google Calendar with a warning before each one. It schedules and nudges; it does not give medical advice.",
+  "category": "life",
+  "features": [
+   "Dose reminders",
+   "Calendar entries",
+   "Advance alerts"
+  ],
+  "bestFor": [
+   "Caregivers",
+   "People on fixed schedules"
+  ],
+  "url": "https://x.ai/bot/vJwxzgcTb19BKR3eoII4W",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 160
+ },
+ {
+  "slug": "tesla-assistant",
+  "name": "Tesla Assistant",
+  "builder": {
+   "name": "VibrantLife",
+   "x": ""
+  },
+  "tagline": "Checks and controls your Tesla from chat through the official Fleet API, with guided setup.",
+  "description": "Talks to your cars through Tesla’s official Fleet API: battery and range, location, locks, climate and seat heat, charging and navigation. Guided setup connects a vehicle in about twenty minutes.",
+  "category": "life",
+  "features": [
+   "Fleet API connection",
+   "Status checks",
+   "Climate and charging control"
+  ],
+  "bestFor": [
+   "Tesla owners",
+   "Multi-car households"
+  ],
+  "url": "https://x.ai/bot/KmckL5UEzZi6VJjg2SMD3",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 0
+ },
+ {
+  "slug": "pickleball-coach",
+  "name": "Pickleball Coach",
+  "builder": {
+   "name": "VibrantLife",
+   "x": ""
+  },
+  "tagline": "Pickleball coach that diagnoses your weak spots, sets drills and tracks your progress.",
+  "description": "A personal pickleball coach for beginners through intermediate players: it works out what is going wrong in your game, assigns drills to fix it, and keeps a record of progress over time.",
+  "category": "life",
+  "features": [
+   "Game diagnosis",
+   "Drill plans",
+   "Progress tracking"
+  ],
+  "bestFor": [
+   "Beginners",
+   "Club players"
+  ],
+  "url": "https://x.ai/bot/vKmw8CgEqimwyDUM8wQ3l",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 90
+ },
+ {
+  "slug": "tokensense",
+  "name": "TokenSense",
+  "builder": {
+   "name": "megh571",
+   "x": "megh571"
+  },
+  "tagline": "Watches Grok Chat and Bot token usage, names the bot burning it, and hands heavy bots off.",
+  "description": "Tracks token usage across Grok Chat and Grok Bot, flags heavy turns and runaway bursts, and names the bot behind them. Ships with a clickable usage dashboard, a shared vault for bot files and a weekly cleanup digest; a heavy bot can be handed to a fresh copy in one tap.",
+  "category": "productivity",
+  "features": [
+   "Usage dashboard",
+   "Runaway burst flags",
+   "One-tap bot handoff"
+  ],
+  "bestFor": [
+   "Heavy Grok Bot users",
+   "Teams on shared plans"
+  ],
+  "url": "https://x.ai/bot/IYckBkqiZXQ8eUG8W8yXn",
+  "addedAt": "2026-11-02",
+  "status": "published",
+  "hue": 320
  }
 ]
