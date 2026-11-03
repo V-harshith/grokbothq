@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-02",
+    "title": "Giving every team a data scientist with Grok Bot",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/data-bot",
+    "summary": "The data science team taught a Team Bot how it works, so anyone can query the warehouse, check experiments and turn a chart into a dashboard. Data Bot keeps shared skills and memory the team curates, answers in Slack or in chat, and reports in whatever format the person asking prefers."
+  },
+  {
     "date": "2026-10-27",
     "title": "Your next sales teammate should be a Grok Bot",
     "source": "SpaceXSI News",
@@ -96,12 +103,5 @@
     "source": "xAI News",
     "url": "https://x.ai/news/grok-bot-for-enterprise",
     "summary": "xAI made Grok Bot available to enterprises. Grok and Cursor Enterprise customers get two weeks of free usage and can invite their whole organization, including people without an existing seat."
-  },
-  {
-    "date": "2026-09-03",
-    "title": "A 7-step operator's manual for multi-agent Grok Bot teams",
-    "source": "AdiiX on X",
-    "url": "https://x.com/adiix_official/status/2095112166579839383",
-    "summary": "A widely shared playbook (400K views) argues the single-bot era is over: build a Chief bot that routes and delegates, keep shared state in /workspace instead of chat, and gate every workflow with source, evidence, and action checks. Humans approve only money, publishing, and irreversible actions."
   }
 ]
