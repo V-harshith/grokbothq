@@ -121685,5 +121685,149 @@
   "addedAt": "2026-11-03",
   "status": "published",
   "source": "https://grokbot-templates.com/templates/woxrLe9t6_SsONL2oXWLk"
+ },
+ {
+  "slug": "videographer-ashen",
+  "name": "Videographer",
+  "builder": {
+   "name": "ashen one",
+   "x": "ashen_one"
+  },
+  "tagline": "Short-film director for fal.ai MiniMax and Grok Imagine reels, with cost confirmed before every render.",
+  "description": "Turns a short-video brief into a script, stills and a rendered clip through a connected model such as fal.ai MiniMax H3 Max 768p or Grok Imagine, checking the plan and cost with you before it spends credits.",
+  "category": "creative",
+  "features": [
+   "Script and stills first",
+   "Cost confirmation",
+   "Model-aware prompting"
+  ],
+  "bestFor": [
+   "Animated shorts",
+   "Product reels"
+  ],
+  "url": "https://x.ai/bot/toCmZ9Iny-mVBhx93h3Sv",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/ashen_one/status/2117209186585153667"
+ },
+ {
+  "slug": "ai-launch-x-writer",
+  "name": "AI Launch X Writer",
+  "builder": {
+   "name": "12birb",
+   "x": "12birb"
+  },
+  "tagline": "Turns scouted AI launches into X posts, threads and quote replies as ready-to-publish links.",
+  "description": "Takes the AI companies, agents and APIs gathered by its scout bot and writes X posts, threads and quote replies, handing them over as intent links you can publish yourself.",
+  "category": "creative",
+  "features": [
+   "Posts and threads",
+   "Quote replies",
+   "Ready-to-publish intent links"
+  ],
+  "bestFor": [
+   "AI news accounts",
+   "Launch coverage"
+  ],
+  "url": "https://x.ai/bot/6CodjNxzVfbBzaoNpum3C",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/12birb/status/2116923219706036248"
+ },
+ {
+  "slug": "ai-tools-explainer",
+  "name": "AI Tools Explainer",
+  "builder": {
+   "name": "12birb",
+   "x": "12birb"
+  },
+  "tagline": "Writes 30 to 60 second vertical scripts for newly found AI tools, then makes the video on request.",
+  "description": "Converts newly scouted AI tools, agents and APIs into short vertical video scripts, and can produce the video and thumbnail when asked, staying with what the source material actually says.",
+  "category": "creative",
+  "features": [
+   "Vertical scripts",
+   "Video and thumbnail production",
+   "Source-bounded claims"
+  ],
+  "bestFor": [
+   "AI tool reviewers",
+   "Short-form channels"
+  ],
+  "url": "https://x.ai/bot/lygCaBudaMPEvskAIth1z",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/12birb/status/2116923219706036248"
+ },
+ {
+  "slug": "ai-weekly-digest-curator",
+  "name": "AI Weekly Digest Curator",
+  "builder": {
+   "name": "12birb",
+   "x": "12birb"
+  },
+  "tagline": "Compiles a week of scouted AI launches into a newsletter, roundup or X Article draft.",
+  "description": "Collects a week of scouted AI companies, agents and APIs and drafts a newsletter, blog roundup or X Article for you to review before anything goes out.",
+  "category": "creative",
+  "features": [
+   "Weekly roundups",
+   "Newsletter drafts",
+   "X Article drafts"
+  ],
+  "bestFor": [
+   "Newsletter writers",
+   "Weekly AI digests"
+  ],
+  "url": "https://x.ai/bot/5L5-pT_M03LwyVWdwPAA8",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/12birb/status/2116923219706036248"
+ },
+ {
+  "slug": "dbs-startup-coach",
+  "name": "dbs 创业教练",
+  "builder": {
+   "name": "dontbe silent",
+   "x": "dontbesilent"
+  },
+  "tagline": "Startup coaching bot that asks the right questions, then names one thing you can finish this week.",
+  "description": "Built on the open-source dbskill method, it works through a business or startup problem by asking the questions that matter first and ending with a single task small enough to finish this week.",
+  "category": "money",
+  "features": [
+   "Founder questioning",
+   "One weekly action",
+   "Open-source method"
+  ],
+  "bestFor": [
+   "Solo founders",
+   "Small business owners"
+  ],
+  "url": "https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/dontbesilent/status/2117201968624173251"
+ },
+ {
+  "slug": "dbs-content-coach",
+  "name": "dbs 内容教练",
+  "builder": {
+   "name": "dontbe silent",
+   "x": "dontbesilent"
+  },
+  "tagline": "Content coaching bot for topics, drafts, titles, covers and a pre-publish value check.",
+  "description": "Built on the open-source dbskill method, it coaches a content workflow end to end: picking a topic, drafting and revising, headlines and covers, spoken delivery and an AI-slop check, then a value call before you publish.",
+  "category": "creative",
+  "features": [
+   "Topic selection",
+   "Draft and headline review",
+   "Pre-publish check"
+  ],
+  "bestFor": [
+   "Creators",
+   "Newsletter writers"
+  ],
+  "url": "https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/dontbesilent/status/2117201968624173251"
  }
 ]

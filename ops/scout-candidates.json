@@ -1,55 +1,5 @@
 [
  {
-  "name": "Explainer Video Studio",
-  "bot_id": "09_7munGcsQnJZYmiJWtC",
-  "url": "https://x.ai/bot/09_7munGcsQnJZYmiJWtC",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns a topic into a short explainer video: script, storyboard, voiceover, captions, thumbnails.",
-  "source_post_url": "",
-  "source_page": "https://grokbot-templates.com/templates/09_7munGcsQnJZYmiJWtC",
-  "found_at": "2026-11-03T02:05+05:30"
- },
- {
-  "name": "Headhunter",
-  "bot_id": "2EVEgCCjTbQZydxi3lwOS",
-  "url": "https://x.ai/bot/2EVEgCCjTbQZydxi3lwOS",
-  "builder_x_handle": "",
-  "one_line_desc": "Hiring coordinator for small employers: job posts, resume screens, interview scheduling.",
-  "source_post_url": "",
-  "source_page": "https://grokbot-templates.com/templates/2EVEgCCjTbQZydxi3lwOS",
-  "found_at": "2026-11-03T02:05+05:30"
- },
- {
-  "name": "JARVIS",
-  "bot_id": "3HR8SjLGfnl-IC4f5hvKt",
-  "url": "https://x.ai/bot/3HR8SjLGfnl-IC4f5hvKt",
-  "builder_x_handle": "",
-  "one_line_desc": "One password-locked app for budget, investments, macros, training, travel and a daily briefing.",
-  "source_post_url": "",
-  "source_page": "https://grokbot-templates.com/templates/3HR8SjLGfnl-IC4f5hvKt",
-  "found_at": "2026-11-03T02:05+05:30"
- },
- {
-  "name": "Jane Street Desk",
-  "bot_id": "4tHBLVrDb9lW47wjBONeG",
-  "url": "https://x.ai/bot/4tHBLVrDb9lW47wjBONeG",
-  "builder_x_handle": "",
-  "one_line_desc": "Runs a paper trading desk in the style of Jane Street, with you as head of desk.",
-  "source_post_url": "",
-  "source_page": "https://grokbot-templates.com/templates/4tHBLVrDb9lW47wjBONeG",
-  "found_at": "2026-11-03T02:05+05:30"
- },
- {
-  "name": "Recipe Maker",
-  "bot_id": "5rJgUj2ZHXvJRXvcULZq0",
-  "url": "https://x.ai/bot/5rJgUj2ZHXvJRXvcULZq0",
-  "builder_x_handle": "",
-  "one_line_desc": "Reads your grocery receipt and returns meal ideas with cooking time and difficulty.",
-  "source_post_url": "",
-  "source_page": "https://grokbot-templates.com/templates/5rJgUj2ZHXvJRXvcULZq0",
-  "found_at": "2026-11-03T02:05+05:30"
- },
- {
   "name": "Publishing Team",
   "bot_id": "9bf7oqu_NwIqWEpegiSq5",
   "url": "https://x.ai/bot/9bf7oqu_NwIqWEpegiSq5",
@@ -473,5 +423,59 @@
   "one_line_desc": "Weekly breach and data-broker checks plus a device-hardening checklist that tracks open items.",
   "source_post_url": "https://x.com/buckleyplanet/status/2117044234293280918",
   "found_at": "2026-11-02T19:55+05:30"
+ },
+ {
+  "name": "Videographer",
+  "bot_id": "toCmZ9Iny-mVBhx93h3Sv",
+  "url": "https://x.ai/bot/toCmZ9Iny-mVBhx93h3Sv",
+  "builder_x_handle": "ashen_one",
+  "one_line_desc": "Short-film director for fal.ai MiniMax and Grok Imagine reels, with cost confirmed before every render.",
+  "source_post_url": "https://x.com/ashen_one/status/2117209186585153667",
+  "found_at": "2026-11-03T08:35+05:30"
+ },
+ {
+  "name": "AI Launch X Writer",
+  "bot_id": "6CodjNxzVfbBzaoNpum3C",
+  "url": "https://x.ai/bot/6CodjNxzVfbBzaoNpum3C",
+  "builder_x_handle": "12birb",
+  "one_line_desc": "Turns scouted AI launches into X posts, threads and quote replies as ready-to-publish links.",
+  "source_post_url": "https://x.com/12birb/status/2116923219706036248",
+  "found_at": "2026-11-03T08:35+05:30"
+ },
+ {
+  "name": "AI Tools Explainer",
+  "bot_id": "lygCaBudaMPEvskAIth1z",
+  "url": "https://x.ai/bot/lygCaBudaMPEvskAIth1z",
+  "builder_x_handle": "12birb",
+  "one_line_desc": "Writes 30 to 60 second vertical scripts for newly found AI tools, then makes the video on request.",
+  "source_post_url": "https://x.com/12birb/status/2116923219706036248",
+  "found_at": "2026-11-03T08:35+05:30"
+ },
+ {
+  "name": "AI Weekly Digest Curator",
+  "bot_id": "5L5-pT_M03LwyVWdwPAA8",
+  "url": "https://x.ai/bot/5L5-pT_M03LwyVWdwPAA8",
+  "builder_x_handle": "12birb",
+  "one_line_desc": "Compiles a week of scouted AI launches into a newsletter, roundup or X Article draft.",
+  "source_post_url": "https://x.com/12birb/status/2116923219706036248",
+  "found_at": "2026-11-03T08:35+05:30"
+ },
+ {
+  "name": "dbs 创业教练",
+  "bot_id": "kpZtlm5CADHoXaaAqTV5Z",
+  "url": "https://x.ai/bot/kpZtlm5CADHoXaaAqTV5Z",
+  "builder_x_handle": "dontbesilent",
+  "one_line_desc": "Startup coaching bot that asks the right questions, then names one thing you can finish this week.",
+  "source_post_url": "https://x.com/dontbesilent/status/2117201968624173251",
+  "found_at": "2026-11-03T08:35+05:30"
+ },
+ {
+  "name": "dbs 内容教练",
+  "bot_id": "qonh7lyBBYsbUXsR9LtO2",
+  "url": "https://x.ai/bot/qonh7lyBBYsbUXsR9LtO2",
+  "builder_x_handle": "dontbesilent",
+  "one_line_desc": "Content coaching bot for topics, drafts, titles, covers and a pre-publish value check.",
+  "source_post_url": "https://x.com/dontbesilent/status/2117201968624173251",
+  "found_at": "2026-11-03T08:35+05:30"
  }
 ]
