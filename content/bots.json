@@ -121829,5 +121829,215 @@
   "addedAt": "2026-11-03",
   "status": "published",
   "source": "https://x.com/dontbesilent/status/2117201968624173251"
+ },
+ {
+  "slug": "x-bags",
+  "name": "X Bags",
+  "builder": {
+   "name": "Crypto",
+   "x": ""
+  },
+  "tagline": "Morning news digest for the crypto you hold, built from your Zerion positions.",
+  "description": "Reads the tokens in your Zerion wallet and turns them into a short daily news digest. It finds each project's X account through DexScreener and surfaces the updates worth reading, leaving the rest out.",
+  "category": "money",
+  "url": "https://x.ai/bot/3XRSSn46guqC5O1r66aMi",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "usage-dashboard-ja",
+  "name": "使用量ダッシュボード",
+  "builder": {
+   "name": "あきおT",
+   "x": ""
+  },
+  "tagline": "Turns your Grok Bot usage report into one weekly dashboard and suggests where to save.",
+  "description": "A Japanese-language usage clerk. It reads the numbers in your Grok Bot usage report, puts them on a single dashboard, refreshes the dashboard every week, and adds a few practical savings hints.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/4Vl9A87B_pWPLcxeHsCKe",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "bot-guard",
+  "name": "Bot Guard",
+  "builder": {
+   "name": "Fernando",
+   "x": ""
+  },
+  "tagline": "Audits Grok Bot templates before you import them and checks every bot after install.",
+  "description": "A security-focused bot with one job: keeping risky or malicious templates away from its owner. It reviews a template before import, re-checks each bot right after it is added, and reports anything that looks off.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/5SBqQtWvbxlytLfpgf3gr",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "mature-beauty-advisor",
+  "name": "Mature Beauty Advisor",
+  "builder": {
+   "name": "Carey",
+   "x": ""
+  },
+  "tagline": "Skin and makeup advice for women over 50, with research-backed tips and checked deals.",
+  "description": "A warm beauty advisor for women 50 and over. It explains evidence-based skin and makeup routines, verifies that a discount is real before passing it on, and covers new beauty tools and relevant research in a weekly digest.",
+  "category": "life",
+  "url": "https://x.ai/bot/80-90l4AUWkrhpaOI7kfU",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "advogado-do-diabo",
+  "name": "Advogado do Diabo",
+  "builder": {
+   "name": "Bruno",
+   "x": ""
+  },
+  "tagline": "Portuguese-language devil's advocate that attacks your plan before reality does.",
+  "description": "Send an idea, plan, deck or decision and it argues the opposite on purpose. It looks for holes, risks, hidden costs and the awkward questions a sceptical colleague would ask.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/AJyPH2uLJlaRDYi0W4RPi",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "numbers-desk",
+  "name": "Numbers Desk",
+  "builder": {
+   "name": "Pablo",
+   "x": ""
+  },
+  "tagline": "A data analyst on call for a small business, answering questions in plain English.",
+  "description": "Connects Stripe, Shopify, QuickBooks, PostHog or a Google Sheet and answers questions about your numbers in plain language. Built for small teams that need reporting without hiring a data analyst.",
+  "category": "money",
+  "url": "https://x.ai/bot/aLyvoOKOFDQJtvd2KOT1a",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "never-forget-a-present-bot",
+  "name": "Never Forget a Present Bot",
+  "builder": {
+   "name": "Martin",
+   "x": ""
+  },
+  "tagline": "Remembers everyone you buy gifts for and orders only after you tap Pay.",
+  "description": "Keeps a list of the people you buy presents for, tracks the dates, and nudges you early. It suggests ideas that fit your budget and places the order only once you approve it.",
+  "category": "life",
+  "url": "https://x.ai/bot/cAyhe5UQimaUNYKWsgwOJ",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "fern-cartographer-of-the-wilds",
+  "name": "Fern · Cartographer of the Wilds",
+  "builder": {
+   "name": "HandsomeHank",
+   "x": ""
+  },
+  "tagline": "Worldbuilding partner for game and story builders, from lore to shot lists.",
+  "description": "A creative lead for people building fictional worlds. It develops lore, mood boards and concept art, writes shot-by-shot video descriptions, and produces build prompts for Cursor cloud agents.",
+  "category": "creative",
+  "url": "https://x.ai/bot/EOWNaMkt5FZ57oLCLQjT2",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "avatar-maker-rafal",
+  "name": "Avatar Maker",
+  "builder": {
+   "name": "Rafal",
+   "x": ""
+  },
+  "tagline": "Draws a matching animated avatar for your bot and sets it for you.",
+  "description": "Generates cute animated profile pictures in the flat-colour Grok Bot avatar style, then applies the one you choose to your bot. Useful when a new bot needs a face in a hurry.",
+  "category": "creative",
+  "url": "https://x.ai/bot/fkON_AaHLT6jKHCzgjp31",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "security-lockdown",
+  "name": "Security Lockdown",
+  "builder": {
+   "name": "corvo",
+   "x": ""
+  },
+  "tagline": "A step-by-step walkthrough for locking down your personal digital security.",
+  "description": "Guides you through the basics in order: weak and reused passwords, two-factor setup, forgotten accounts, identity checks, phone settings and home network hygiene. One step at a time, with the reason for each.",
+  "category": "life",
+  "url": "https://x.ai/bot/gjDlTUkU-MqM6AdxZ2E9p",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "job-search-agent-team",
+  "name": "Job Search Agent Team",
+  "builder": {
+   "name": "John",
+   "x": ""
+  },
+  "tagline": "One chat that builds a four-person job search team around your applications.",
+  "description": "A lead bot that spins up four specialists: a job hunter, a resume optimizer, an application submitter and a company outreach writer. They work through your search together and report back in the same chat.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/IZ4okiqY8WE4XR8Ujb-l3",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "walk-buddy",
+  "name": "Walk Buddy",
+  "builder": {
+   "name": "EV",
+   "x": ""
+  },
+  "tagline": "A walking companion that turns your podcast queue into conversation topics.",
+  "description": "Listens to the podcasts you already follow, then talks with you during walks using sourced facts, trivia and games. Built for people who find walking boring and want company without scheduling a call.",
+  "category": "life",
+  "url": "https://x.ai/bot/ofX7dIqaoy92jcobdTRnl",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "first-principles-bot",
+  "name": "First-Principles Bot",
+  "builder": {
+   "name": "Jeff",
+   "x": ""
+  },
+  "tagline": "Rebuilds a hard question from the ground up and shows you its numbers.",
+  "description": "Takes a complicated question, breaks it into first principles, and returns a plain-language answer with the arithmetic shown, sanity checks, and an explicit list of what is still unknown.",
+  "category": "research",
+  "url": "https://x.ai/bot/Ood0IKoWBxfUbnEDNKKaG",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "usage-saver-peter",
+  "name": "Usage Saver",
+  "builder": {
+   "name": "Peter",
+   "x": ""
+  },
+  "tagline": "A live usage dashboard plus a weekly note on where your limit went.",
+  "description": "Keeps a running dashboard of Grok Bot usage and sends a weekly plain-English review. Each review names a few concrete ways to spend less, explained clearly enough to decide on.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/TB9I2IqRWkQRQGEaG2Bjd",
+  "addedAt": "2026-11-03",
+  "status": "published"
+ },
+ {
+  "slug": "music-teacher",
+  "name": "Music Teacher",
+  "builder": {
+   "name": "Pretorian",
+   "x": ""
+  },
+  "tagline": "Short guitar, drum, keys and bass lessons built around songs you like.",
+  "description": "A friendly music teacher and gear advisor. Lessons are short and practical, built around songs you actually want to play, and it gives honest gear advice instead of pushing upgrades.",
+  "category": "creative",
+  "url": "https://x.ai/bot/XjVgmRXNssEllgpV6fwNW",
+  "addedAt": "2026-11-03",
+  "status": "published"
  }
 ]
