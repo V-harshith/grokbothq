@@ -122039,5 +122039,50 @@
   "url": "https://x.ai/bot/XjVgmRXNssEllgpV6fwNW",
   "addedAt": "2026-11-03",
   "status": "published"
+ },
+ {
+  "slug": "director-xi-yan",
+  "name": "Director",
+  "builder": {
+   "name": "Xi Yan",
+   "x": ""
+  },
+  "tagline": "Turns a video brief into a finished short film, ad, explainer or music video.",
+  "description": "The official marketplace video director: it plans, shoots, cuts and delivers short-form video from a brief instead of handing back a script, and covers the pipeline through to the final cut for product, marketing and design work.",
+  "category": "creative",
+  "url": "https://x.ai/bot/r9v2LNQY0VHF8JXe8y6VF",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.ai/bot/marketplace/bots/video-director"
+ },
+ {
+  "slug": "efficiency-optimizer",
+  "name": "Grok Bot Efficiency Optimizer",
+  "builder": {
+   "name": "Sawyer Merritt",
+   "x": "SawyerMerritt"
+  },
+  "tagline": "A weekly review of what your bots and routines use, with cheaper ways to run them.",
+  "description": "Once a week it reviews usage across every bot and routine, names the heaviest consumers, and suggests where the waste is. It also reminds you when your limit resets. The author says each run costs well under one percent of a week's capacity.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/6q44k3eKlHmC0keocH7He",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/SawyerMerritt/status/2117321656146526230"
+ },
+ {
+  "slug": "saver-bot-kaize",
+  "name": "Saver Bot",
+  "builder": {
+   "name": "Kaize",
+   "x": "0x_kaize"
+  },
+  "tagline": "An animated dashboard of where your Grok Bot usage goes, with ranked saving tips.",
+  "description": "Breaks usage down by bot, routine, day and activity, draws a 30-day trend, and flags spike days and routines that loop more than they should. Saving suggestions are ranked by impact and built from measured usage rather than estimates.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/HwU-TfXaEV_zha7HpkG57",
+  "addedAt": "2026-11-03",
+  "status": "published",
+  "source": "https://x.com/0x_kaize/status/2117302013985972356"
  }
 ]
