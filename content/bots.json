@@ -123491,5 +123491,397 @@
   "url": "https://x.ai/bot/-2MA8sSXSB-eZgmoNC5yp",
   "addedAt": "2026-11-04",
   "status": "published"
+ },
+ {
+  "slug": "revenue-rex",
+  "name": "Revenue Rex",
+  "builder": {
+   "name": "Paul",
+   "x": ""
+  },
+  "tagline": "One-bot marketing team for indie hackers and SaaS builders.",
+  "description": "Covers the go-to-market basics for a small software product: page copy, pricing, lifecycle email, launch planning and the push for first paying users. The template notes that its fuller toolkit needs a license key from the builder's own site.",
+  "category": "sales",
+  "url": "https://x.ai/bot/1OnUg1oZyw2c49tpKkez9",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "kilo-context",
+  "name": "Kilo",
+  "builder": {
+   "name": "Terry Chapman",
+   "x": ""
+  },
+  "tagline": "Keeps long-running bots lean by trimming stale context and re-pinning your standing rules.",
+  "description": "Cuts back what a bot carries between sessions so usage does not creep upward and replies stay quick. It also re-anchors the preferences you set once, so the bot still follows them after weeks of chat.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/3Xw_oT1PpMUvSQOUDPsn6",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "unbait",
+  "name": "Unbait",
+  "builder": {
+   "name": "Sebastian David Lees",
+   "x": ""
+  },
+  "tagline": "Replies “unbait” to a clickbait post and returns the plain headline plus the answer.",
+  "description": "Opens the article behind a clickbait post and reports what it actually says, checked against the linked page. It returns a short plain-language summary and a one-tap reply link.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/40wlwmt9OINkBw3daAcNR",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "kids-lifting-coach",
+  "name": "Kids Lifting Coach",
+  "builder": {
+   "name": "justin",
+   "x": ""
+  },
+  "tagline": "Home strength programme that gets kids lifting safely, with a tracker and per-session review.",
+  "description": "Builds a 12-week beginner plan around the equipment a household actually owns. It ships a phone tracker hosted on the owner's own GitHub and reviews each logged workout before moving to the next block.",
+  "category": "life",
+  "url": "https://x.ai/bot/42pcFjka9AoN9reS0SQ49",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "gmi",
+  "name": "gmi",
+  "builder": {
+   "name": "Alberto Jauregui",
+   "x": ""
+  },
+  "tagline": "Media studio on GMI Cloud: images, video, voice and music, with spend reported.",
+  "description": "Generates stills, clips, voiceovers and music through GMI Cloud and answers questions about the platform. It quotes the price of a job before spending and reports the account balance afterwards.",
+  "category": "creative",
+  "url": "https://x.ai/bot/5IFu9DKwavLtu18sinCSv",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "x-twin",
+  "name": "𝕏 Twin",
+  "builder": {
+   "name": "sara",
+   "x": ""
+  },
+  "tagline": "Posts in your voice, learned from your own X archive, and spots rising topics early.",
+  "description": "Builds a voice profile from an account's archive, then drafts posts, replies and captions for approval before anything is published. It also watches large accounts and fast-moving posts so replies land while a thread is still live, and closes the week with a recap.",
+  "category": "creative",
+  "url": "https://x.ai/bot/AFtZlQY7LQaCnoYHw1t1I",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "ste-writer",
+  "name": "STE writer",
+  "builder": {
+   "name": "pili",
+   "x": ""
+  },
+  "tagline": "Writes and audits documentation in ASD-STE100 Simplified Technical English.",
+  "description": "Checks or rewrites technical text against the STE-100 controlled-language rules and answers questions about them. Aimed at writers producing maintenance and safety documentation.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/b1ixA_xKFWOLpELVV2Zeb",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "morning-market-brief",
+  "name": "Morning Market Brief",
+  "builder": {
+   "name": "David Everist",
+   "x": ""
+  },
+  "tagline": "Daily pre-market brief across your watchlist and the feeds you already read.",
+  "description": "Compiles a morning summary of watchlist names, index moves and the newsletters or channels the owner follows. It also drafts a short social post from the same material for the owner to publish.",
+  "category": "money",
+  "url": "https://x.ai/bot/bDtC23xInV7JQzWmLOR95",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "sassy-bot",
+  "name": "Sassy Bot",
+  "builder": {
+   "name": "Paige Nicole",
+   "x": ""
+  },
+  "tagline": "Numbers-driven X wing woman who posts, replies and deflects bad-faith attention.",
+  "description": "Grows an account with humorous posts and genuinely useful replies, leaning on data for what to publish. It also screens incoming attention and keeps the hostile replies off the timeline.",
+  "category": "creative",
+  "url": "https://x.ai/bot/CZGWiB4CX5UM9v8Zu-MDT",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "safeway",
+  "name": "Safeway",
+  "builder": {
+   "name": "justin",
+   "x": ""
+  },
+  "tagline": "Clips Safeway coupons for what you actually buy and turns the week's deals into dinners.",
+  "description": "Matches store coupons to a household's regular purchases and emails the clipped offers. It adds a five-night dinner plan built from that week's discounts.",
+  "category": "life",
+  "url": "https://x.ai/bot/DjjuCiefk-gCfACqogjas",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "graveyard-shift",
+  "name": "Graveyard Shift",
+  "builder": {
+   "name": "Estilo Golf Co.",
+   "x": ""
+  },
+  "tagline": "Watches side projects for downtime, upcoming renewals and spend that buys nothing.",
+  "description": "Monitors a portfolio of small projects and reports what is down, what renews soon and what is quietly costing money. Each item comes back with a keep, pause, kill or sell recommendation.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/FiGaCx_wiFaAD0OnAC0-G",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "ready",
+  "name": "Ready",
+  "builder": {
+   "name": "ZKHub",
+   "x": ""
+  },
+  "tagline": "Weather, radar and an emergency toolkit in one bot, opening on a free GPS map.",
+  "description": "Starts on a map with live conditions and local temperature, then expands to radar, satellite layers, weather alerts, nearby shelter and a call-911 shortcut. The same bot carries disaster plans, first aid with photo help, survival references and home or vehicle tools.",
+  "category": "life",
+  "url": "https://x.ai/bot/HisgKxaoXrRoD5PbEB_RF",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "trading-desk-chief",
+  "name": "Trading Desk Chief",
+  "builder": {
+   "name": "Nicolas Caden",
+   "x": ""
+  },
+  "tagline": "Runs a small desk of trading bots under a fixed risk policy on a funded account.",
+  "description": "Coordinates research, risk and execution bots for long equities, defined-risk options and crypto, working only inside a locked risk policy. It reports positions and decisions to the account owner in plain language.",
+  "category": "money",
+  "url": "https://x.ai/bot/hwk-dYnLyyC_WDFDzNc8a",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "video-creation",
+  "name": "Video Creation",
+  "builder": {
+   "name": "Fuji Landmark",
+   "x": ""
+  },
+  "tagline": "Produces two-minute explainer and music videos end to end at 1080p.",
+  "description": "Takes a topic through sourced research, a script and a song, generates footage with Grok Imagine and assembles a two-minute video. The export is quality-checked and delivered privately.",
+  "category": "creative",
+  "url": "https://x.ai/bot/JQhSaJ8cZ_wMZOO_uTpeW",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "occam-master",
+  "name": "奥卡姆大师",
+  "builder": {
+   "name": "雨落風間",
+   "x": ""
+  },
+  "tagline": "Weekly token audit that finds idle bots, routines and scripts, then trims them.",
+  "description": "Once a week it audits every bot, routine, skill and script on an account and points out what burns usage or sits unused. Changes are proposed and confirmed before anything is rewritten or removed.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/KAEAWzrt3thPIKUWUhQ_n",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "maestro-playlists",
+  "name": "Maestro",
+  "builder": {
+   "name": "Jason Baum",
+   "x": ""
+  },
+  "tagline": "Builds playlists on six streaming services from a requested size and genre.",
+  "description": "Turns a list length and genre into a finished playlist on Apple Music, Spotify, Tidal, Amazon Music, YouTube Music or Pandora. It works from the streaming services already signed in on the account.",
+  "category": "creative",
+  "url": "https://x.ai/bot/NJiwSSjtnZ_uaUer8oSkt",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "jim-life-reset-mentor",
+  "name": "Jim – Life Reset Mentor",
+  "builder": {
+   "name": "skan",
+   "x": ""
+  },
+  "tagline": "Mentor that interviews you, then holds you to small daily disciplines.",
+  "description": "Runs a structured reset interview to surface what the owner is avoiding and what they want to build, drawing on Jim Rohn's teaching and a one-day reset format. It then keeps short daily check-ins on the habits agreed in that session.",
+  "category": "life",
+  "url": "https://x.ai/bot/r_CMgXVxSBRKhogVE42c6",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "penny-editor",
+  "name": "Penny",
+  "builder": {
+   "name": "Kyle",
+   "x": ""
+  },
+  "tagline": "Line editor that keeps your voice and shows every change with a reason.",
+  "description": "Rewrites drafts, emails, posts and page copy so they read as human writing rather than generated text. It preserves the author's voice, annotates each edit, and refuses to add facts that were not in the original.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Rspkl49IjkacoAbMMfZyw",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "throughput",
+  "name": "Throughput",
+  "builder": {
+   "name": "Kane Simms",
+   "x": ""
+  },
+  "tagline": "Weekly report of what each bot finished and how many hours that saved.",
+  "description": "Asks every bot in the sidebar what it completed that week, then totals the tasks and estimated hours saved. Results publish to a page each week.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/S30ZPAp12AqWnlc05gND4",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "x-reply-networking",
+  "name": "X Reply & Networking Assistant",
+  "builder": {
+   "name": "Felix",
+   "x": ""
+  },
+  "tagline": "Finds practitioners in your niche on X and drafts replies in your voice.",
+  "description": "Maps an account's expertise, then searches X for active specialists in that field and surfaces threads worth joining. It stays read-only, drafts replies for approval, and refines its search every night.",
+  "category": "sales",
+  "url": "https://x.ai/bot/SDKTO3mMc0NDQljmbOubN",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "pastor-assistant",
+  "name": "Pastor Assistant Bot",
+  "builder": {
+   "name": "Kent Wilbourn",
+   "x": ""
+  },
+  "tagline": "Ministry admin for pastors: sermons, bulletins, visitors and prayer care.",
+  "description": "Covers the weekly church workload: sermon outlines, a digital bulletin, a visitor welcome page with study and volunteer sign-ups, plus a private prayer list and care tracker. It ships with UPCI and KJV defaults that can be swapped for another tradition.",
+  "category": "life",
+  "url": "https://x.ai/bot/tUcwd-OGOdzdl5JiRNRLN",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "usage-dashboard",
+  "name": "Usage Dashboard",
+  "builder": {
+   "name": "MIJINION 2552",
+   "x": ""
+  },
+  "tagline": "Interactive page tracking Grok Bot usage by bot and by month.",
+  "description": "Puts an account's Grok Bot usage on an interactive page and keeps a monthly snapshot. It shows which bot drove the spend in any month and lets the owner compare across the year.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/uru7DsAamYpDSkUnuodC0",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "routine-slimmer",
+  "name": "Routine Slimmer",
+  "builder": {
+   "name": "Robert Merkel",
+   "x": ""
+  },
+  "tagline": "Moves routine work that needs no model out of Grok Bot and into n8n.",
+  "description": "Sorts scheduled routines by whether they need judgement, keeping the thinking ones inside Grok Bot. Mechanical routines are rebuilt as n8n workflows on cloud or self-hosted installs.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/vAbvc0ys9gwEUg2w0cVzI",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "x-pulse-personal",
+  "name": "X Pulse (Personal)",
+  "builder": {
+   "name": "mspd",
+   "x": ""
+  },
+  "tagline": "Replays your own day on X as a dial with music, ready to screen-record.",
+  "description": "Turns the last day, or up to a week, of an account's measured X activity into an interactive dial with a soundtrack, in English or Chinese. Built for screen recording and sharing; a separate edition covers topic-wide heat.",
+  "category": "creative",
+  "url": "https://x.ai/bot/WXXQICyJA3NiSUumZ8uPq",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "x-pulse-public",
+  "name": "X Pulse (Public)",
+  "builder": {
+   "name": "mspd",
+   "x": ""
+  },
+  "tagline": "Shows how hot a topic ran on X in the past 24 hours as a dial and a video.",
+  "description": "Takes a topic and charts its last 24 hours of activity on X on a bilingual interactive dial. It also exports 16:9 and 1:1 videos with music.",
+  "category": "research",
+  "url": "https://x.ai/bot/xddKCOqGlqVtILAv4O3Lq",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "wwid",
+  "name": "WWID",
+  "builder": {
+   "name": "Shaishav Pidadi",
+   "x": ""
+  },
+  "tagline": "Second brain that learns your decisions from your own messages and grades itself.",
+  "description": "Learns how the owner writes and decides by reading their messages to other bots. Each week it predicts those decisions and scores the predictions against what was actually chosen.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/xqY6kH7E_q5JMMbL5Xwoc",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "pc-voice-control",
+  "name": "PC Voice Control Assistant",
+  "builder": {
+   "name": "Mishiro Kurumi",
+   "x": ""
+  },
+  "tagline": "Wake-word voice control for a Windows PC, with everything else handed to Grok Bot.",
+  "description": "Listens for a wake word and runs fixed actions directly on a Windows machine, so common commands work hands-free. Anything outside that set is passed to Grok Bot to handle.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/XTcXcyZErWRrEcB0LdPrz",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "stitch-your-pitch",
+  "name": "Stitch Your Pitch · Resume & Cover Letter Tailor",
+  "builder": {
+   "name": "Lion@Zion",
+   "x": ""
+  },
+  "tagline": "Fit review, tailored resume and cover letter from a single job posting.",
+  "description": "Compares a resume with a specific posting, gives an evidence-based fit assessment, then drafts a tailored resume and cover letter. Job discovery is a restricted pilot; pasted resume and posting text works without it, and the applicant submits everything themselves.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Yaqu1CNc1OG_Ffi-vVWsY",
+  "addedAt": "2026-11-04",
+  "status": "published"
  }
 ]
