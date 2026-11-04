@@ -123449,5 +123449,47 @@
   "addedAt": "2026-11-04",
   "status": "published",
   "hue": 29
+ },
+ {
+  "slug": "mixey",
+  "name": "Mixey",
+  "builder": {
+   "name": "Shubham",
+   "x": ""
+  },
+  "tagline": "Mixpanel analyst that answers usage questions and can edit events, funnels and cohorts.",
+  "description": "Answers product-analytics questions against a Mixpanel project: events, funnels, retention and cohorts. It can also create and edit Mixpanel resources, and it says plainly when a number is unavailable instead of estimating one.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/2ouhKJbsp2iffYxupTD0Y",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "motion-god",
+  "name": "Motion God",
+  "builder": {
+   "name": "Shubham",
+   "x": ""
+  },
+  "tagline": "Prototypes interface and character motion, then lets you tune it by feel in a local playground.",
+  "description": "Reads a product's real animation spec and prototypes interaction and character motion from it. Designers adjust sliders in a localhost playground and judge the result on replay rather than reading timings in chat.",
+  "category": "creative",
+  "url": "https://x.ai/bot/bnmJVg0uwwUZXNXEZd1V5",
+  "addedAt": "2026-11-04",
+  "status": "published"
+ },
+ {
+  "slug": "airport-pickups-london",
+  "name": "Airport Pickups London",
+  "builder": {
+   "name": "Fatih",
+   "x": ""
+  },
+  "tagline": "Quotes and books fixed-price UK airport and cruise-port transfers inside chat.",
+  "description": "Handles transfer bookings for UK airports and cruise ports: quotes a fixed price, checks live car availability, confirms the booking and lets you manage or track it in the conversation.",
+  "category": "life",
+  "url": "https://x.ai/bot/-2MA8sSXSB-eZgmoNC5yp",
+  "addedAt": "2026-11-04",
+  "status": "published"
  }
 ]
