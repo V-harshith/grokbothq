@@ -123927,5 +123927,119 @@
   "source": "https://x.com/xaiwind/article/2099904980593397760",
   "addedAt": "2026-11-05",
   "status": "published"
+ },
+ {
+  "slug": "fifa-play",
+  "name": "FIFA Play",
+  "builder": {
+   "name": "Hernan de la Campa",
+   "x": ""
+  },
+  "tagline": "FIFA companion that reads your screenshots and answers in your own language.",
+  "description": "Send it FIFA screenshots and it replies in your language. Advises on squad, captain and boosters, and will not change your lineup without your confirmation.",
+  "category": "creative",
+  "bestFor": [
+   "gamer",
+   "mobile",
+   "personal"
+  ],
+  "url": "https://x.ai/bot/j3umfcXpWwpHAJ8RTpeax",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "the-oracle-lite",
+  "name": "THE ORACLE LITE",
+  "builder": {
+   "name": "BlockchainRocko",
+   "x": ""
+  },
+  "tagline": "Free daily scout for AI and post-quantum token launches.",
+  "description": "Produces a daily report on AI and post-quantum token launches, with hourly pricing and a live desk view. The bot holds no wallets or keys.",
+  "category": "money",
+  "bestFor": [
+   "trader",
+   "crypto",
+   "research"
+  ],
+  "url": "https://x.ai/bot/5XOvvf5vyfrD4xGdMTGsS",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "meeting-note-action-extractor",
+  "name": "Meeting & Note Action Extractor",
+  "builder": {
+   "name": "Johannes de Jager",
+   "x": ""
+  },
+  "tagline": "Turns messy meeting notes into a one-page brief and an action table.",
+  "description": "Takes raw meeting transcripts or notes and returns a single-page brief plus a table of actions, each with an owner and a deadline.",
+  "category": "productivity",
+  "bestFor": [
+   "manager",
+   "team",
+   "personal"
+  ],
+  "url": "https://x.ai/bot/8z_EscPvJvfOQj5Yte7E4",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "prompt-polisher",
+  "name": "Prompt Polisher",
+  "builder": {
+   "name": "Johannes de Jager",
+   "x": ""
+  },
+  "tagline": "Turns a rough bot idea into a structured prompt and routine blueprint.",
+  "description": "Rewrites a vague bot concept as a production-ready prompt and attaches a routine blueprint describing when the work should run.",
+  "category": "productivity",
+  "bestFor": [
+   "builder",
+   "ops",
+   "personal"
+  ],
+  "url": "https://x.ai/bot/OM_UD2oFxFWOt2JpLkc7s",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "morning-brief-leyra",
+  "name": "Morning Brief",
+  "builder": {
+   "name": "Fernando Leyra",
+   "x": ""
+  },
+  "tagline": "A short daily agenda plus a three-minute end-of-day shutdown.",
+  "description": "Builds a twelve-line morning agenda from your calendar, then runs a three-minute shutdown at the end of the day. It reads only and never sends anything.",
+  "category": "productivity",
+  "bestFor": [
+   "personal",
+   "calendar",
+   "focus"
+  ],
+  "url": "https://x.ai/bot/ypXW7w1OkXm4QlQlUxH9G",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "duanshipin-koubotai",
+  "name": "短视频口播脚本台",
+  "builder": {
+   "name": "春雷OPC版",
+   "x": ""
+  },
+  "tagline": "Turns a topic into a shoot-ready short-video script with hook, body and CTA.",
+  "description": "Converts a topic into a spoken short-video script for Douyin or WeChat Channels: hook opening, spoken body, closing call to action and shot prompts. Built for personal brands and local businesses.",
+  "category": "creative",
+  "bestFor": [
+   "creator",
+   "video",
+   "marketing"
+  ],
+  "url": "https://x.ai/bot/oFvoCnOPlSPqbZMBFL8JO",
+  "addedAt": "2026-11-05",
+  "status": "published"
  }
 ]
