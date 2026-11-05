@@ -124489,5 +124489,47 @@
   "url": "https://x.ai/bot/sKQxJ9cdam3YzgHx0CBKp",
   "addedAt": "2026-11-05",
   "status": "published"
+ },
+ {
+  "slug": "megajam-producer",
+  "name": "MegaJam Producer",
+  "builder": {
+   "name": "Captain",
+   "x": ""
+  },
+  "tagline": "Producer for Unreal game jam teams: rules, scope, and a four-day ship plan.",
+  "description": "Produces teams entering the 2026 Epic AI MegaJam on Unreal Engine or UEFN. Scopes the idea down to what can actually ship in four days, keeps the submission inside the jam rules, and suggests which bots to hand each role.",
+  "category": "creative",
+  "url": "https://x.ai/bot/O_S6tTQcEQ5vx9DtmFvPc",
+  "addedAt": "2026-11-06",
+  "status": "published"
+ },
+ {
+  "slug": "ai-text-detector-editor",
+  "name": "AI Text Detector & Editor",
+  "builder": {
+   "name": "Daniel Kelly",
+   "x": ""
+  },
+  "tagline": "Marks the phrases in your draft that read as machine-written, then helps you fix them.",
+  "description": "Reads a draft and points at the exact sentences that sound AI-generated, then rewrites them with you instead of replacing your voice. Built on the free AI tells MCP server at liminalprompt.com.",
+  "category": "creative",
+  "url": "https://x.ai/bot/yYsPajAZ18gCh95GuYEUU",
+  "addedAt": "2026-11-06",
+  "status": "published"
+ },
+ {
+  "slug": "admrn-bridge-setup-guide",
+  "name": "ADMRN Bridge Setup Guide",
+  "builder": {
+   "name": "Viet Dung Vu",
+   "x": ""
+  },
+  "tagline": "Walks you through self-hosting ADMRN Bridge on your own Cloudflare account.",
+  "description": "A setup guide for installing ADMRN Bridge Basic (release candidate v0.1.0-rc.1) on your own Cloudflare account and connecting Grok Bot, ChatGPT's Dot and claude.ai to it as equal participants, one participant at a time.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/_LRoMViTIJ9HkJ4J98DvD",
+  "addedAt": "2026-11-06",
+  "status": "published"
  }
 ]
