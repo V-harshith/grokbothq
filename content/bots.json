@@ -123883,5 +123883,49 @@
   "url": "https://x.ai/bot/Yaqu1CNc1OG_Ffi-vVWsY",
   "addedAt": "2026-11-04",
   "status": "published"
+ },
+ {
+  "slug": "parking-payment-bot",
+  "name": "Parking Payment Bot",
+  "builder": {
+   "name": "Aryan Butala",
+   "x": ""
+  },
+  "tagline": "Looks up the ParkMobile zone for your destination and starts the parking session.",
+  "description": "You give it the place you are heading and how long you will stay; it opens ParkMobile, picks the matching zone, checks the price and starts the session, then sends back proof of the plate, zone and time so you can see it took the right one.",
+  "category": "life",
+  "url": "https://x.ai/bot/AzyDKmEfbn9Z96cL8kPbA",
+  "source": "https://x.com/butala_aryan/status/2117786056279928989",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "social-media-metcarksis",
+  "name": "Social Media (Metcarksis)",
+  "builder": {
+   "name": "Metcarksis",
+   "x": ""
+  },
+  "tagline": "Interviews you, drafts your LinkedIn profile, and edits it only after you approve.",
+  "description": "It starts with questions about your work, turns the answers into a full LinkedIn profile draft, and applies changes only after you sign off on them. Publishing stays behind your explicit go-ahead.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Mll3Pp1EzlDNFc289GCzb",
+  "addedAt": "2026-11-05",
+  "status": "published"
+ },
+ {
+  "slug": "devdev-grok-bot-walkthrough",
+  "name": "devdev · Grok Bot Walkthrough",
+  "builder": {
+   "name": "想风",
+   "x": ""
+  },
+  "tagline": "A practice bot that demonstrates Grok Bot features and explains what is happening as it goes.",
+  "description": "A teaching companion for Grok Bot itself: it walks through a feature, explains each step instead of assuming you already know the app, and doubles as a safe bot for trying things. Its page and instructions are written in Chinese.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/-RcPDuFlTcWZSgA731eti",
+  "source": "https://x.com/xaiwind/article/2099904980593397760",
+  "addedAt": "2026-11-05",
+  "status": "published"
  }
 ]
