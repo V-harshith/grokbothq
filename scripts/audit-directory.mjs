@@ -76,6 +76,36 @@ async function check(bot) {
   return last;
 }
 
+// A 24-worker burst makes x.ai answer 500 for the tail of the run (rate limit,
+// not dead bots). The per-listing retries above burn out in seconds, so on
+// 2026-11-06 one pass delisted 28 listings and 27 of them answered 200 minutes
+// later. Dead means dead minutes after the burst clears, one at a time: cool
+// down, then two lone probes with real gap before an entry leaves the site.
+const COOLDOWN_MS = 90_000;
+const CONFIRM_DELAYS = [10_000, 40_000];
+const CONFIRM_CAP = 50;
+
+async function confirmDead(candidates) {
+  await sleep(COOLDOWN_MS);
+  const confirmed = [];
+  for (const candidate of candidates.slice(0, CONFIRM_CAP)) {
+    let last = candidate;
+    for (const delay of CONFIRM_DELAYS) {
+      await sleep(delay);
+      try {
+        last = { ...(await fetchOnce(candidate.bot)), attempts: (last.attempts ?? 1) + 1 };
+      } catch (error) {
+        last = { bot: candidate.bot, code: error.name, attempts: (last.attempts ?? 1) + 1 };
+      }
+      if (last.code === 200) break;
+    }
+    if (last.code === 200) console.log(`  recovered on confirmation pass: ${candidate.bot.slug}`);
+    else confirmed.push(last);
+  }
+  for (const extra of candidates.slice(CONFIRM_CAP)) confirmed.push(extra);
+  return confirmed;
+}
+
 const results = [];
 const queue = [...published];
 const workers = Array.from({ length: 24 }, async () => {
@@ -86,7 +116,9 @@ const workers = Array.from({ length: 24 }, async () => {
 });
 await Promise.all(workers);
 
-const dead = results.filter((r) => r.code !== 200);
+const firstPassDead = results.filter((r) => r.code !== 200);
+const dead = firstPassDead.length ? await confirmDead(firstPassDead) : [];
+
 const named = results.filter((r) => r.code === 200 && r.sharer && !junkName(r.sharer) && !(r.bot.builder ?? {}).name);
 const retried = results.filter((r) => (r.attempts ?? 1) > 1);
 const recovered = retried.filter((r) => r.code === 200);
@@ -95,6 +127,9 @@ console.log(`audited ${results.length} published listings`);
 console.log(`  live 200      : ${results.length - dead.length}`);
 console.log(
   `  failing       : ${dead.length}${dead.length ? " -> " + dead.map((d) => `${d.bot.slug} (${d.code} x${d.attempts ?? 1})`).join(", ") : ""}`
+);
+console.log(
+  `  first-pass non-200 : ${firstPassDead.length}${firstPassDead.length ? ` -> ${dead.length} still failing after cooldown` : ""}`
 );
 console.log(`  retried after a non-200 : ${retried.length}${retried.length ? ` -> ${recovered.length} recovered, ${retried.length - recovered.length} confirmed dead` : ""}`);
 console.log(`  builder name recoverable from x.ai sharerName : ${named.length}`);
