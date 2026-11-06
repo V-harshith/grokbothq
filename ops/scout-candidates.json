@@ -1,32 +1,5 @@
 [
  {
-  "name": "Paperasse · Syndic de Copropriété",
-  "bot_id": "F1uQVa6SA7p-8YbhGL_y0",
-  "url": "https://x.ai/bot/F1uQVa6SA7p-8YbhGL_y0",
-  "builder_x_handle": "",
-  "one_line_desc": "Assistant syndic de copropriété pour AG, charges, comptabilité (décret 2005), travaux et impayés, basé sur le dépôt open source Paperasse. Pour syndic (listed as paperasse-syndic)",
-  "source_post_url": "https://grokbot-templates.com",
-  "found_at": "2026-11-06 11:15 IST"
- },
- {
-  "name": "Paperasse · Notaire",
-  "bot_id": "-H7Vc-5QDpqqEbF1PqLxy",
-  "url": "https://x.ai/bot/-H7Vc-5QDpqqEbF1PqLxy",
-  "builder_x_handle": "",
-  "one_line_desc": "Ton copilote notarial : frais de notaire, successions, donations, SCI et PACS, calculés à partir des règles du skill notaire de paperasse. Ne remplace (listed as paperasse-notaire)",
-  "source_post_url": "https://grokbot-templates.com",
-  "found_at": "2026-11-06 11:15 IST"
- },
- {
-  "name": "Paperasse · Fiscaliste Particuliers",
-  "bot_id": "GNroMbol-LOahbXzb8Ovw",
-  "url": "https://x.ai/bot/GNroMbol-LOahbXzb8Ovw",
-  "builder_x_handle": "",
-  "one_line_desc": "Fiscaliste IA pour les particuliers français : impôt sur le revenu, IFI, PFU, PEA, assurance-vie, LMNP, RSU/BSPCE, crypto et PER. Il calcule étape par (listed as paperasse-fiscaliste-particuliers)",
-  "source_post_url": "https://grokbot-templates.com",
-  "found_at": "2026-11-06 11:15 IST"
- },
- {
   "name": "Paperasse · Expert-Comptable",
   "bot_id": "MmwMdZ7OVKXIKBUfc1dE5",
   "url": "https://x.ai/bot/MmwMdZ7OVKXIKBUfc1dE5",
@@ -448,5 +421,32 @@
   "one_line_desc": "Watches your Grok Bot usage and briefs your other bots so they throttle work before you run out.",
   "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
   "found_at": "2026-11-06 11:15 IST"
+ },
+ {
+  "name": "Current SF 2026 Companion",
+  "bot_id": "UPpW_gQXJB6Puqhe6MxAB",
+  "url": "https://x.ai/bot/UPpW_gQXJB6Puqhe6MxAB",
+  "builder_x_handle": "",
+  "one_line_desc": "Conference companion for Current SF 2026: agenda picks, talk suggestions and start-time nudges.",
+  "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+  "found_at": "2026-11-06 17:38 IST"
+ },
+ {
+  "name": "八字命理",
+  "bot_id": "Qfgr_8F4ZJM_6fGEeykrc",
+  "url": "https://x.ai/bot/Qfgr_8F4ZJM_6fGEeykrc",
+  "builder_x_handle": "",
+  "one_line_desc": "Local BaZi and Zi Wei charts explained in plain language: personality, career, relationships.",
+  "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+  "found_at": "2026-11-06 17:38 IST"
+ },
+ {
+  "name": "Best Price Shopping Agent",
+  "bot_id": "eYPh2Q9TsdwAEeWDhRnot",
+  "url": "https://x.ai/bot/eYPh2Q9TsdwAEeWDhRnot",
+  "builder_x_handle": "",
+  "one_line_desc": "Finds the lowest verified total for an item, tests coupon codes and itemises every discount.",
+  "source_post_url": "https://github.com/cs68614-hash/awesome-grokbot-templates",
+  "found_at": "2026-11-06 17:38 IST"
  }
 ]
