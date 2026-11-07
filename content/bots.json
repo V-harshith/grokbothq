@@ -125580,5 +125580,173 @@
   "url": "https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT",
   "addedAt": "2026-11-07",
   "status": "published"
+ },
+ {
+  "slug": "blender-worlds",
+  "name": "Blender Worlds",
+  "builder": {
+   "name": "Denny",
+   "x": ""
+  },
+  "tagline": "Turns a floor plan and site photos into a walk-around Blender model.",
+  "description": "Builds a Blender 3D mockup from your floor plan, photos of the space and open terrain data, then opens a private viewer so you can walk the result on a laptop or phone. Aimed at planning a build or a renovation before committing to it.",
+  "category": "creative",
+  "url": "https://x.ai/bot/jkqv2joccgju3ptwbxwk4",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "udemy-course-uploader",
+  "name": "Udemy Course Uploader",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Uploads and replaces Udemy lecture videos, then checks each one plays.",
+  "description": "Works through the upload side of an existing Udemy course: replaces lecture videos, confirms every video plays back, and reports the result as a status table.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/uhwgh3ptctcvztpnyt7ay",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "airdrop-radar",
+  "name": "Airdrop Radar",
+  "builder": {
+   "name": "mi",
+   "x": ""
+  },
+  "tagline": "Keeps your airdrop and points farming on schedule.",
+  "description": "Tracks the airdrop and points campaigns you are working, holds the checklist and deadlines, and reminds you before each one closes. It only reminds: no wallet connection and no transaction signing.",
+  "category": "money",
+  "url": "https://x.ai/bot/aKq6a5ZGfP-1d5v6OFDWB",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "business-hunter",
+  "name": "Business Hunter",
+  "builder": {
+   "name": "Fernando",
+   "x": ""
+  },
+  "tagline": "Finds local businesses with broken or expired sites and ranks the lead.",
+  "description": "Sweeps for local businesses whose websites are broken, expired or clearly outdated, scores each one by how much sales opportunity it represents, and keeps the running list in a single lead sheet.",
+  "category": "sales",
+  "url": "https://x.ai/bot/1zkk4dqlzxz5amrw8axd7",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "x-year-recap",
+  "name": "X Year Recap",
+  "builder": {
+   "name": "bigchog",
+   "x": ""
+  },
+  "tagline": "Makes a year-in-review card image from your X handle.",
+  "description": "Takes a handle and returns a square year-in-review image with the most viewed post, posting and follower totals, and the rest of the year's numbers.",
+  "category": "creative",
+  "url": "https://x.ai/bot/iw7cbg6yz_rhgo1qq7kbu",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "eddy",
+  "name": "Eddy",
+  "builder": {
+   "name": "Rohan",
+   "x": ""
+  },
+  "tagline": "A fresh reading and math worksheet for your child every weekday.",
+  "description": "Prints a new black-and-white reading and math worksheet on weekday afternoons, along with a short hands-on activity that uses things you already have at home.",
+  "category": "life",
+  "url": "https://x.ai/bot/a3rflj5srsqordsnp3smm",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "bw-chief-of-staff",
+  "name": "BW | Chief of Staff",
+  "builder": {
+   "name": "Johannes",
+   "x": ""
+  },
+  "tagline": "Morning brief, priorities, calendar and inbox triage, follow-up drafts.",
+  "description": "Runs your day: a daily brief, a ranked list of priorities, calendar and inbox triage, and follow-up messages drafted for your approval before anything goes out.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/EvMO1CuDzl5OlnFmGOJqm",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "meeting-recap-deck-xq",
+  "name": "Meeting Recap Deck+",
+  "builder": {
+   "name": "XQ",
+   "x": ""
+  },
+  "tagline": "Turns pasted meeting notes into an editable recap deck.",
+  "description": "Converts meeting notes into a deck you can edit: a one-page executive summary, a decisions table and the action items. It is explicit about not inventing quotes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ix0LjeZowKh5J4j6lf3jf",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "penny-usage-manager",
+  "name": "Penny · Usage Manager",
+  "builder": {
+   "name": "Denis-Q.S.",
+   "x": ""
+  },
+  "tagline": "A visual dashboard of where your Grok Bot usage goes.",
+  "description": "Puts Grok Bot usage into a reusable visual dashboard, sends targeted alerts when spending patterns look wasteful, and suggests practical ways to cut it back. Ships with a visual guide explaining where the usage goes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/qtRTvxLE8qq74l5V3KUyy",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "zoom-meeting-companion",
+  "name": "Zoom Meeting Companion",
+  "builder": {
+   "name": "Brian",
+   "x": ""
+  },
+  "tagline": "Joins your Zoom calls, takes notes, tracks decisions and actions.",
+  "description": "Joins a Zoom meeting from a link or from your calendar, writes detailed notes during the call, and afterwards returns the decisions and action items it picked up.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/s81dzllb2liy7uevtbrl6",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "seek-job-hunter",
+  "name": "SEEK Job Hunter",
+  "builder": {
+   "name": "yunqi",
+   "x": ""
+  },
+  "tagline": "Daily AU/NZ job shortlist that applies when you say apply.",
+  "description": "Screens SEEK listings against your preferences and sends a scored shortlist each day. When you reply apply, it fills in the application from your own signed-in account.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/siA2QPmJA_zq7uV7Wv7vq",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "urban-speculator-funding-desk",
+  "name": "Urban Speculator Funding Desk",
+  "builder": {
+   "name": "Urban",
+   "x": ""
+  },
+  "tagline": "Underwriting desk for DSCR rentals, flips and ground-up builds.",
+  "description": "Takes a real estate deal from intake through underwriting to a lender-ready package, aimed at investors running DSCR rentals, fix-and-flips and ground-up construction.",
+  "category": "money",
+  "url": "https://x.ai/bot/O2JPHjUsoqxrd02l6QDuH",
+  "addedAt": "2026-11-07",
+  "status": "published"
  }
 ]
