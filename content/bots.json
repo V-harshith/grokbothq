@@ -125440,5 +125440,145 @@
   "url": "https://x.ai/bot/QUETfslfc34mH1WqpVbLH",
   "addedAt": "2026-11-06",
   "status": "published"
+ },
+ {
+  "slug": "rat",
+  "name": "Rat",
+  "builder": {
+   "name": "Jonto",
+   "x": ""
+  },
+  "tagline": "A Grok Bot you reach over Ratspeak, the off-grid Reticulum/LXMF mesh.",
+  "description": "Runs an always-on bridge to Ratspeak, the off-grid Reticulum/LXMF mesh, so you message the bot over the mesh instead of the internet. It wakes when a message arrives and replies back on the mesh.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/eWyEVP-kY8b9t3bp9P6Wk",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "orgobot",
+  "name": "OrgoBot",
+  "builder": {
+   "name": "Nicholas Vasilescu",
+   "x": ""
+  },
+  "tagline": "Gives your agents an Orgo cloud computer, then tears it down so nothing keeps billing.",
+  "description": "Gives a bot its own Orgo cloud computer for shell commands, screenshots, file work and computer-use tasks, then destroys the machine afterwards so nothing keeps billing. It asks before spending or changing the plan.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/INhNj6FhTywM0GNehFavt",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "shell-cpr",
+  "name": "Shell CPR",
+  "builder": {
+   "name": "Leoskie_L",
+   "x": ""
+  },
+  "tagline": "Moves a bloated, token-burning Grok Bot onto a thin new shell without losing its work.",
+  "description": "Finds bots whose chat context has grown too heavy and is burning tokens, then, only on your approval, moves each one to a fresh thin shell: export the routines, create the replacement, retire the old id, rewire peers and prove nothing still calls the old bot.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/KrJnZOz6of3i8xIK7vxFc",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "quandora",
+  "name": "Quandora",
+  "builder": {
+   "name": "Rick Chan",
+   "x": ""
+  },
+  "tagline": "Builds and backtests multi-factor trading portfolios from one conversation.",
+  "description": "Researches trading signals and builds, backtests and runs multi-factor strategies and portfolios across crypto, stocks, ETFs and commodities, in paper or live trading. The whole markets desk is assembled by talking to it.",
+  "category": "money",
+  "url": "https://x.ai/bot/aMdvJyS1ECeDG3GD2fnoD",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "ronin",
+  "name": "Ronin",
+  "builder": {
+   "name": "Himason",
+   "x": ""
+  },
+  "tagline": "Red-teams your plans, apps, documents and prompts before reality does.",
+  "description": "A blunt red-team reviewer for plans, apps, documents, research and AI prompts. It hunts weak spots and blind spots, sources findings where it can and skips flattery. The page notes it is not a substitute for a lawyer, accountant or engineer.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/TP6XRTT1bx0LIk5jil8_8",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "story-engine",
+  "name": "Story Engine",
+  "builder": {
+   "name": "Mo Cherif",
+   "x": ""
+  },
+  "tagline": "Runs a content desk: daily signals, briefs and drafts in your voice, nothing posted.",
+  "description": "Researches daily signals on the topics you follow, turns the ones you pick into briefs, and drafts X, LinkedIn, blog and video content in your voice. You make every call and nothing is published for you.",
+  "category": "creative",
+  "url": "https://x.ai/bot/UJbGPlw9cJaUqO3mNoYKJ",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "drop-watcher",
+  "name": "Drop Watcher",
+  "builder": {
+   "name": "Mavro Projects",
+   "x": ""
+  },
+  "tagline": "Keeps a Twitch stream running on its own computer to earn drops for you.",
+  "description": "Earns Twitch drops by keeping the streamer you pick playing on the bot's own computer, and messages you when an item is ready to claim.",
+  "category": "life",
+  "url": "https://x.ai/bot/WmlJtOE9F2h63JGSYIsWJ",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "hey-studu",
+  "name": "hey studu",
+  "builder": {
+   "name": "Clarke",
+   "x": ""
+  },
+  "tagline": "Interviews you about how you study, then builds you a free study app.",
+  "description": "Asks how you study, then builds a personal study app with lessons, a roadmap, an inbox, push notifications and chat, plus a small bot team for coaching, opportunities and news.",
+  "category": "life",
+  "url": "https://x.ai/bot/Y7XcWxxva_Quw1A1OG_hu",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "thumbs",
+  "name": "Thumbs",
+  "builder": {
+   "name": "Wayne Lowry",
+   "x": ""
+  },
+  "tagline": "Builds 1280x720 video covers and opening slides around your real photo.",
+  "description": "Makes consistent video covers and opening slides at 1280x720, compositing your own photo untouched instead of generating a face. Built for creators who need a repeatable cover look.",
+  "category": "creative",
+  "url": "https://x.ai/bot/9F6v_TeHcioiD9uiP6VG5",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "griller",
+  "name": "Griller",
+  "builder": {
+   "name": "mmt",
+   "x": ""
+  },
+  "tagline": "A concise critic for product ideas, architecture and hard decisions.",
+  "description": "Reviews product ideas, architecture and tough decisions, going straight at the dealbreakers and weighing tradeoffs when you push back. Stays short unless you ask it to go deeper.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT",
+  "addedAt": "2026-11-07",
+  "status": "published"
  }
 ]
