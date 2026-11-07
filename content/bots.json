@@ -125748,5 +125748,230 @@
   "url": "https://x.ai/bot/O2JPHjUsoqxrd02l6QDuH",
   "addedAt": "2026-11-07",
   "status": "published"
+ },
+ {
+  "slug": "stolen-post-watch",
+  "name": "Stolen Post Watch",
+  "builder": {
+   "name": "Mr Tactical",
+   "x": "MrTacticalX"
+  },
+  "tagline": "Watches your own X posts for reuploads that drop your credit.",
+  "description": "Checks your original X posts once a day at noon in your own timezone — videos, images and text — and speaks up only when someone has reuploaded one as their own without credit. It stays quiet on days when nothing was stolen and can run a check the moment you ask.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/dn8ndRg7Re50JS0hruwso",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/MrTacticalX/status/2118859989770989812"
+ },
+ {
+  "slug": "full-liturgy-of-the-hours",
+  "name": "Full Liturgy of the Hours",
+  "builder": {
+   "name": "Cleetus",
+   "x": ""
+  },
+  "tagline": "Prays every Hour of the Roman Rite Liturgy of the Hours, on schedule.",
+  "description": "Prays the complete, unabridged Roman Rite Liturgy of the Hours with you each day, sending each Hour at its proper time with a traditional sacred-art image. The day's celebration is checked against the Magisterium and the text is drawn from Universalis.",
+  "category": "life",
+  "url": "https://x.ai/bot/EMlMLtSXJdJIaIfo5yM_F",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/175rng/status/2118871778328215588"
+ },
+ {
+  "slug": "ps5-pro-msrp-hunter",
+  "name": "PS5 Pro MSRP Hunter",
+  "builder": {
+   "name": "Austen Allred",
+   "x": "Austen"
+  },
+  "tagline": "Finds PS5 Pro stock at the official price, never from scalpers.",
+  "description": "Tracks new PS5 Pro consoles at the current official MSRP in your region, confirms the retailer actually has stock, and alerts you outside your quiet hours. It skips marked-up resellers and forced bundles, and never buys anything itself.",
+  "category": "money",
+  "url": "https://x.ai/bot/iburSrz3fVAiZ0MXSx9Qe",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/Austen/status/2118917788710637941"
+ },
+ {
+  "slug": "sentinel-elite-ai-cybersecurity-commander",
+  "name": "SENTINEL · Elite AI Cybersecurity Commander",
+  "builder": {
+   "name": "sam hong",
+   "x": ""
+  },
+  "tagline": "An evidence-first security review for code, secrets and a small team's site.",
+  "description": "Reviews code, exposed secrets and website security for founders and small teams, helps investigate risks, and plans defences that do nothing destructive inside the access you grant. It is explicit about its limits: not antivirus, not continuous intrusion detection.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/lucassam888/status/2118923430729027643"
+ },
+ {
+  "slug": "evening-resolution-tracker",
+  "name": "Evening Resolution Tracker",
+  "builder": {
+   "name": "Cleetus",
+   "x": ""
+  },
+  "tagline": "A nightly examination of conscience that checks up on yesterday's resolution.",
+  "description": "Delivers a short traditional examination of conscience each evening with the Act of Contrition, then asks for one concrete resolution for the next day. The following evening it asks whether that resolution was kept, and it remembers past answers so patterns become visible.",
+  "category": "life",
+  "url": "https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/175rng/status/2118923816801870246"
+ },
+ {
+  "slug": "conbot",
+  "name": "ConBot",
+  "builder": {
+   "name": "Noah Levin",
+   "x": ""
+  },
+  "tagline": "A conference companion that works the room while you sit in the talks.",
+  "description": "Works a conference alongside you: picks who to meet, reshapes your schedule to reach them, keeps a record of who you actually met, turns each talk into staged social drafts and gives session briefs before you walk in. At day's end it converts the day into next moves and hands work to your other bots. It also proposes the next useful move from your goals, the agenda and the attendee list.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/7o-XAypc1ixPgapL3WU2U",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/seriouspeopleai/status/2118703551253762478"
+ },
+ {
+  "slug": "viral-format-scout",
+  "name": "Viral Format Scout",
+  "builder": {
+   "name": "Hades",
+   "x": ""
+  },
+  "tagline": "Finds real high-performing X posts, takes their structure, rewrites yours in your voice.",
+  "description": "Send a rough idea or draft and it pulls real high-performing posts on X, breaks down how they are built, and rewrites your post in your voice. Aimed at creators, founders and marketers growing an audience on X.",
+  "category": "creative",
+  "url": "https://x.ai/bot/75I3z39UdqQafBB8_p_IM",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/0xHvdes/status/2118751479020282036"
+ },
+ {
+  "slug": "through-the-bible",
+  "name": "Through the Bible",
+  "builder": {
+   "name": "Divine 〽️achine",
+   "x": "Divine_machine"
+  },
+  "tagline": "A patient Bible teacher that walks Scripture one connection at a time.",
+  "description": "Teaches through Scripture one manageable connection at a time, on demand and in a daily morning lesson. It quietly remembers where you stopped and takes questions as they come.",
+  "category": "life",
+  "url": "https://x.ai/bot/LobgW4QDo7Ax5f5PI_Ush",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/Divine_machine/status/2118768917544128517"
+ },
+ {
+  "slug": "bajkopisarz-chemii",
+  "name": "Bajkopisarz chemii",
+  "builder": {
+   "name": "Anna",
+   "x": ""
+  },
+  "tagline": "Turns chemistry into educational fairy-tale shorts, episode by episode.",
+  "description": "Writes educational chemistry fairy tales and shorts around a hotel-and-atom metaphor: episode scripts, NotebookLM Studio runs, edits with an end card, and a queue of episodes. It suggests marking the series CC BY-SA 4.0.",
+  "category": "creative",
+  "url": "https://x.ai/bot/6RGHal3VfF91z3rSUHb0T",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/PaniDoktorAnna/status/2118773790561665189"
+ },
+ {
+  "slug": "ddl-deck-lab",
+  "name": "DDL Deck Lab",
+  "builder": {
+   "name": "Corn",
+   "x": "CornKry"
+  },
+  "tagline": "Builds and sim-tests 40-card decks for the Doginal Dogs Legends TCG.",
+  "description": "A deck lab for Doginal Dogs Legends players: it builds 40-card decks, sim-tests them against the current meta, and returns keep decisions and piloting tips.",
+  "category": "life",
+  "url": "https://x.ai/bot/9TE8-sZXC_4KhiOY2JZBi",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/CornKry/status/2118782620150734907"
+ },
+ {
+  "slug": "molly",
+  "name": "Molly",
+  "builder": {
+   "name": "dingsheng xia",
+   "x": ""
+  },
+  "tagline": "Orchestrates personal engineering projects through a task-card queue.",
+  "description": "Runs a queue of task cards for personal engineering projects, handing each stage to research, implementation, review, smoke tests and acceptance, then writing the approved result back itself. Complex implementation is routed through a local CLI by default.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/itJerKhY6HSTNwM9owHap",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/zzyloxx/status/2118795999447863753"
+ },
+ {
+  "slug": "snap-towel",
+  "name": "Snap Towel",
+  "builder": {
+   "name": "Anthem Blanchard",
+   "x": "anthemhayek"
+  },
+  "tagline": "Finds funny sports clips and drafts the punchline post, asking first.",
+  "description": "Finds funny sports clips and trending sports news, then drafts punchy quote posts and replies in your voice. Every draft waits for your approval before anything is posted.",
+  "category": "creative",
+  "url": "https://x.ai/bot/TT4pketNNY11VwXokRCXx",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/anthemhayek/status/2118796367267291644"
+ },
+ {
+  "slug": "adhd-helper",
+  "name": "ADHD helper",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "A warm, shame-free helper for starting, remembering and recovering.",
+  "description": "Keeps track of things for you and helps you get started, remember what matters, prioritise, handle self-care and climb back out of overwhelm, one small step at a time. Written to be warm and free of shame.",
+  "category": "life",
+  "url": "https://x.ai/bot/cUBDYzUf6GBJI1TKJVEcU",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/WhitnWild_/status/2118804086862848010"
+ },
+ {
+  "slug": "eh-may-us-emmaus",
+  "name": "Eh-MAY-us (Emmaus)",
+  "builder": {
+   "name": "Chuck",
+   "x": "chuckhersey"
+  },
+  "tagline": "Bible research from the Hebrew, Aramaic and Greek, then plain English.",
+  "description": "Researches the Bible from the original Hebrew, Aramaic and Greek, then gives a clear modern-English rendering with careful application to daily life.",
+  "category": "research",
+  "url": "https://x.ai/bot/majMZ-gns6AXq35aiYW-v",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/chuckhersey/status/2118807558286639527"
+ },
+ {
+  "slug": "dinner-decider",
+  "name": "Dinner Decider",
+  "builder": {
+   "name": "Ryan T",
+   "x": "ryanthawks"
+  },
+  "tagline": "One workable dinner from what is already in your fridge.",
+  "description": "Takes an ingredient list or a photo of your fridge, plus your time and household needs, and returns one main dish with approximate quantities and simple steps — no endless recipe list.",
+  "category": "life",
+  "url": "https://x.ai/bot/4PRxJTopvur7FPzaid9um",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/ryanthawks/status/2118833197228175838"
  }
 ]
