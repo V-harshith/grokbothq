@@ -125973,5 +125973,82 @@
   "addedAt": "2026-11-08",
   "status": "published",
   "source": "https://x.com/ryanthawks/status/2118833197228175838"
+ },
+ {
+  "slug": "haggler-bills",
+  "name": "Haggler",
+  "builder": {
+   "name": "Jason Ngo",
+   "x": ""
+  },
+  "tagline": "Negotiates your recurring bills down, then sits in the support chat or places the call.",
+  "description": "Finds what you pay and to whom, checks competitor and retention offers, and builds a negotiation plan. It can then work the support chat or the call for you, acting on your approval rather than changing anything on its own.",
+  "category": "money",
+  "url": "https://x.ai/bot/44nZYeBNq-nRQWs3Kkook",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Finds current plan and price",
+   "Researches competitor and retention offers",
+   "Runs the support chat or call"
+  ]
+ },
+ {
+  "slug": "foreman-efficiency",
+  "name": "Foreman",
+  "builder": {
+   "name": "Tyler Keehner",
+   "x": ""
+  },
+  "tagline": "Efficiency lead for a multi-bot fleet: less usage and waste for the same real output.",
+  "description": "Reviews how a group of bots actually spends its usage, finds the recurring waste, and proposes changes that hold. It writes the wins down so the savings carry into the next run instead of being rediscovered each week.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/jt786H746ybSFGZvH4w5-",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Audits usage across bots",
+   "Targets recurring waste",
+   "Encodes the wins so they stick"
+  ]
+ },
+ {
+  "slug": "video-team-director",
+  "name": "Director",
+  "builder": {
+   "name": "Wayne Lowry",
+   "x": ""
+  },
+  "tagline": "Leads a six-bot video crew, keeps one house style, and QAs every cut before delivery.",
+  "description": "Routes each video job to the right specialist in a six-bot production team, enforces a single house style, and checks every cut before handing over a post-ready draft. The builder says it works best with Gauntlet, Riffrow, Thumbs, Shorts and Versus installed and all six bots in one group chat.",
+  "category": "creative",
+  "url": "https://x.ai/bot/E6NdmXG5F9O_B6nFiDIJW",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Routes jobs across six bots",
+   "Enforces one house style",
+   "QAs each cut before delivery"
+  ]
+ },
+ {
+  "slug": "agent-readiness-auditor",
+  "name": "Agent-Readiness Auditor",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Tests whether a shopping agent can actually buy from a store, then grades it A to D.",
+  "description": "Point it at any public store URL and it checks whether an AI shopping agent can complete a purchase, identifying itself as a machine and never logging in, ordering or solving a captcha. You get an A to D Grok Bot Commerce Optimized rating, a readiness report listing problems and fixes, a badge you can display and a printable PDF.",
+  "category": "sales",
+  "url": "https://x.ai/bot/xCJAJ-ED4qO8Ub7KFtWNj",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/BrianRoemmele/status/2118585006235037787",
+  "features": [
+   "A to D commerce readiness grade",
+   "Report with problems and fixes",
+   "Display badge and printable PDF"
+  ]
  }
 ]
