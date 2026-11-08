@@ -126354,5 +126354,185 @@
    "Numerology from names and dates",
    "Moon and sky events from live data"
   ]
+ },
+ {
+  "slug": "steady-hand",
+  "name": "Steady Hand",
+  "builder": {
+   "name": "The Seth",
+   "x": ""
+  },
+  "tagline": "Admin help for the first weeks after a spouse dies.",
+  "description": "Walks through the paperwork that follows a death: what to ask HR, Social Security, Medicare and insurers, and which bills actually belong to the estate. Its answers are checked against the survivor's state law, and the open questions stay in one list instead of scattered across tabs.",
+  "category": "life",
+  "url": "https://x.ai/bot/WNa0UvXDfvRkZ31PmJ93r",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Checklist for HR, Social Security and insurers",
+   "Sorts which bills are yours",
+   "Answers checked against state law"
+  ],
+  "source": "https://x.com/the_seth_ard/status/2119061185370771888"
+ },
+ {
+  "slug": "swole",
+  "name": "Swole",
+  "builder": {
+   "name": "Adrian Bisson",
+   "x": ""
+  },
+  "tagline": "Quiet fitness and diet coach that reads meals, movement and sleep together.",
+  "description": "Tracks meals, movement, weight and sleep in one place, taking photos, screenshots or short notes rather than demanding app connections. The guidance is individualized and deliberately low-noise: it speaks up when the pattern changes, not after every snack.",
+  "category": "life",
+  "url": "https://x.ai/bot/fmgZ9KSqsMnw3OphM2Vkx",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Photo and screenshot check-ins",
+   "Weight, sleep and movement in one view",
+   "No required integrations"
+  ],
+  "source": "https://x.com/Adrian_Bisson/status/2119390018854896028"
+ },
+ {
+  "slug": "unl",
+  "name": "Unl",
+  "builder": {
+   "name": "Neil Mortimer",
+   "x": ""
+  },
+  "tagline": "Keeps a record of what you decided and why, then hands the work on.",
+  "description": "A decision log with a worker attached. It stores what was chosen and the reasoning behind it, passes that context to a team of bots acting on it, and stays quiet until something needs your call.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/YmYB34ALYI8LUcrIgnOGA",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Decision and rationale log",
+   "Handoffs that carry the reasoning",
+   "Speaks up only when blocked"
+  ],
+  "source": "https://x.com/unlimitlessai/status/2119345998887870808"
+ },
+ {
+  "slug": "meow-meow",
+  "name": "냥냥 (Meow Meow)",
+  "builder": {
+   "name": "HEEYEONG EOM",
+   "x": ""
+  },
+  "tagline": "Photorealistic cat pictures, one yes at a time.",
+  "description": "Generates one photorealistic cat scene per request, then asks whether you want another. Settings and moods vary between images, and the captions and invitations come in whichever language you are using.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Vjr1Umod5i2JqpyY46Wrk",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "One image per request, with a check-in",
+   "Photorealistic cat scenes",
+   "Captions in your language"
+  ],
+  "source": "https://x.com/heeeeeyeeeeeee/status/2119340222806892658"
+ },
+ {
+  "slug": "gif-animator",
+  "name": "Gif Animator",
+  "builder": {
+   "name": "Rob H",
+   "x": ""
+  },
+  "tagline": "Turns an image or an idea into a looping GIF you can download.",
+  "description": "Animates a still image or a written idea into a looping GIF and hands back a downloadable file. It tries free local animation first and asks before spending on a paid generation.",
+  "category": "creative",
+  "url": "https://x.ai/bot/cab9wr2ZA-h6LW4srwwih",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Image or idea in, GIF out",
+   "Downloadable file",
+   "Asks before paid generation"
+  ],
+  "source": "https://x.com/sia14u/status/2119316699618934901"
+ },
+ {
+  "slug": "video-prompter",
+  "name": "Video Prompter",
+  "builder": {
+   "name": "Ali Nasr",
+   "x": ""
+  },
+  "tagline": "Turns an approved story into model-specific video prompts and shot cards.",
+  "description": "Takes a signed-off story and visual direction and writes prompts for specific video models, plus shot cards for the sequence. It compares models, plans reference images and lists sourced cost estimates before you spend a credit.",
+  "category": "creative",
+  "url": "https://x.ai/bot/MTrDmZ3SY5rK60ukWAN9m",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Prompts for named video models",
+   "Shot cards for the sequence",
+   "Cost estimates with sources"
+  ],
+  "source": "https://x.com/AVAZIFY_AI/status/2119292053074931827"
+ },
+ {
+  "slug": "sat-nmsqt-tutor",
+  "name": "SAT & NMSQT Tutor",
+  "builder": {
+   "name": "Arav Jain",
+   "x": ""
+  },
+  "tagline": "Test-prep tutor that works from your own practice results.",
+  "description": "Goes through digital SAT and PSAT/NMSQT practice tests question by question, explains each miss and drills the topics behind them. It then lays out a study plan sized to the weeks left before test day.",
+  "category": "life",
+  "url": "https://x.ai/bot/M0dW-dTfTPHxAsFTcZe__",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Reviews your practice tests",
+   "Drills weak topics",
+   "Plan built around your test date"
+  ],
+  "source": "https://x.com/aravhawk/status/2119282647834722470"
+ },
+ {
+  "slug": "viz-explainer",
+  "name": "Viz Explainer",
+  "builder": {
+   "name": "Adem Vessell",
+   "x": ""
+  },
+  "tagline": "Story-driven animated explainers with sourced scripts and MP4 delivery.",
+  "description": "Turns a complex topic into a short animated explainer: script first with sources, then a reviewed motion pass, then an MP4. Paid generation is optional, and finished files can go to a private Google Drive folder.",
+  "category": "creative",
+  "url": "https://x.ai/bot/lWk8eIHf8obN-j8ihW6_1",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Script with sources",
+   "Reviewed motion pass",
+   "MP4 delivered to Drive"
+  ],
+  "source": "https://x.com/AdemVessell/status/2119281531512648134"
+ },
+ {
+  "slug": "omarchy-observer",
+  "name": "Omarchy Observer",
+  "builder": {
+   "name": "Arne Quanbeck",
+   "x": ""
+  },
+  "tagline": "Watches Omarchy Linux for security fixes, releases and add-ons you care about.",
+  "description": "Follows Omarchy, DHH's Arch and Hyprland setup, for security issues, major releases, themes and plugins. It filters what it finds against the setup you actually run and pings you only when something touches it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/C0gOVEOQDiHSzmTz60crI",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Security and release watch",
+   "Theme and plugin tracking",
+   "Filtered to your setup"
+  ],
+  "source": "https://x.com/lutefiskguy/status/2119224236300755388"
  }
 ]
