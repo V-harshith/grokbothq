@@ -125580,5 +125580,475 @@
   "url": "https://x.ai/bot/7xhcg2MwpWpFlcSkyMwJT",
   "addedAt": "2026-11-07",
   "status": "published"
+ },
+ {
+  "slug": "blender-worlds",
+  "name": "Blender Worlds",
+  "builder": {
+   "name": "Denny",
+   "x": ""
+  },
+  "tagline": "Turns a floor plan and site photos into a walk-around Blender model.",
+  "description": "Builds a Blender 3D mockup from your floor plan, photos of the space and open terrain data, then opens a private viewer so you can walk the result on a laptop or phone. Aimed at planning a build or a renovation before committing to it.",
+  "category": "creative",
+  "url": "https://x.ai/bot/jkqv2joccgju3ptwbxwk4",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "udemy-course-uploader",
+  "name": "Udemy Course Uploader",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Uploads and replaces Udemy lecture videos, then checks each one plays.",
+  "description": "Works through the upload side of an existing Udemy course: replaces lecture videos, confirms every video plays back, and reports the result as a status table.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/uhwgh3ptctcvztpnyt7ay",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "airdrop-radar",
+  "name": "Airdrop Radar",
+  "builder": {
+   "name": "mi",
+   "x": ""
+  },
+  "tagline": "Keeps your airdrop and points farming on schedule.",
+  "description": "Tracks the airdrop and points campaigns you are working, holds the checklist and deadlines, and reminds you before each one closes. It only reminds: no wallet connection and no transaction signing.",
+  "category": "money",
+  "url": "https://x.ai/bot/aKq6a5ZGfP-1d5v6OFDWB",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "business-hunter",
+  "name": "Business Hunter",
+  "builder": {
+   "name": "Fernando",
+   "x": ""
+  },
+  "tagline": "Finds local businesses with broken or expired sites and ranks the lead.",
+  "description": "Sweeps for local businesses whose websites are broken, expired or clearly outdated, scores each one by how much sales opportunity it represents, and keeps the running list in a single lead sheet.",
+  "category": "sales",
+  "url": "https://x.ai/bot/1zkk4dqlzxz5amrw8axd7",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "x-year-recap",
+  "name": "X Year Recap",
+  "builder": {
+   "name": "bigchog",
+   "x": ""
+  },
+  "tagline": "Makes a year-in-review card image from your X handle.",
+  "description": "Takes a handle and returns a square year-in-review image with the most viewed post, posting and follower totals, and the rest of the year's numbers.",
+  "category": "creative",
+  "url": "https://x.ai/bot/iw7cbg6yz_rhgo1qq7kbu",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "eddy",
+  "name": "Eddy",
+  "builder": {
+   "name": "Rohan",
+   "x": ""
+  },
+  "tagline": "A fresh reading and math worksheet for your child every weekday.",
+  "description": "Prints a new black-and-white reading and math worksheet on weekday afternoons, along with a short hands-on activity that uses things you already have at home.",
+  "category": "life",
+  "url": "https://x.ai/bot/a3rflj5srsqordsnp3smm",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "bw-chief-of-staff",
+  "name": "BW | Chief of Staff",
+  "builder": {
+   "name": "Johannes",
+   "x": ""
+  },
+  "tagline": "Morning brief, priorities, calendar and inbox triage, follow-up drafts.",
+  "description": "Runs your day: a daily brief, a ranked list of priorities, calendar and inbox triage, and follow-up messages drafted for your approval before anything goes out.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/EvMO1CuDzl5OlnFmGOJqm",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "meeting-recap-deck-xq",
+  "name": "Meeting Recap Deck+",
+  "builder": {
+   "name": "XQ",
+   "x": ""
+  },
+  "tagline": "Turns pasted meeting notes into an editable recap deck.",
+  "description": "Converts meeting notes into a deck you can edit: a one-page executive summary, a decisions table and the action items. It is explicit about not inventing quotes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ix0LjeZowKh5J4j6lf3jf",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "penny-usage-manager",
+  "name": "Penny · Usage Manager",
+  "builder": {
+   "name": "Denis-Q.S.",
+   "x": ""
+  },
+  "tagline": "A visual dashboard of where your Grok Bot usage goes.",
+  "description": "Puts Grok Bot usage into a reusable visual dashboard, sends targeted alerts when spending patterns look wasteful, and suggests practical ways to cut it back. Ships with a visual guide explaining where the usage goes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/qtRTvxLE8qq74l5V3KUyy",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "zoom-meeting-companion",
+  "name": "Zoom Meeting Companion",
+  "builder": {
+   "name": "Brian",
+   "x": ""
+  },
+  "tagline": "Joins your Zoom calls, takes notes, tracks decisions and actions.",
+  "description": "Joins a Zoom meeting from a link or from your calendar, writes detailed notes during the call, and afterwards returns the decisions and action items it picked up.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/s81dzllb2liy7uevtbrl6",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "seek-job-hunter",
+  "name": "SEEK Job Hunter",
+  "builder": {
+   "name": "yunqi",
+   "x": ""
+  },
+  "tagline": "Daily AU/NZ job shortlist that applies when you say apply.",
+  "description": "Screens SEEK listings against your preferences and sends a scored shortlist each day. When you reply apply, it fills in the application from your own signed-in account.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/siA2QPmJA_zq7uV7Wv7vq",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "urban-speculator-funding-desk",
+  "name": "Urban Speculator Funding Desk",
+  "builder": {
+   "name": "Urban",
+   "x": ""
+  },
+  "tagline": "Underwriting desk for DSCR rentals, flips and ground-up builds.",
+  "description": "Takes a real estate deal from intake through underwriting to a lender-ready package, aimed at investors running DSCR rentals, fix-and-flips and ground-up construction.",
+  "category": "money",
+  "url": "https://x.ai/bot/O2JPHjUsoqxrd02l6QDuH",
+  "addedAt": "2026-11-07",
+  "status": "published"
+ },
+ {
+  "slug": "stolen-post-watch",
+  "name": "Stolen Post Watch",
+  "builder": {
+   "name": "Mr Tactical",
+   "x": "MrTacticalX"
+  },
+  "tagline": "Watches your own X posts for reuploads that drop your credit.",
+  "description": "Checks your original X posts once a day at noon in your own timezone — videos, images and text — and speaks up only when someone has reuploaded one as their own without credit. It stays quiet on days when nothing was stolen and can run a check the moment you ask.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/dn8ndRg7Re50JS0hruwso",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/MrTacticalX/status/2118859989770989812"
+ },
+ {
+  "slug": "full-liturgy-of-the-hours",
+  "name": "Full Liturgy of the Hours",
+  "builder": {
+   "name": "Cleetus",
+   "x": ""
+  },
+  "tagline": "Prays every Hour of the Roman Rite Liturgy of the Hours, on schedule.",
+  "description": "Prays the complete, unabridged Roman Rite Liturgy of the Hours with you each day, sending each Hour at its proper time with a traditional sacred-art image. The day's celebration is checked against the Magisterium and the text is drawn from Universalis.",
+  "category": "life",
+  "url": "https://x.ai/bot/EMlMLtSXJdJIaIfo5yM_F",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/175rng/status/2118871778328215588"
+ },
+ {
+  "slug": "ps5-pro-msrp-hunter",
+  "name": "PS5 Pro MSRP Hunter",
+  "builder": {
+   "name": "Austen Allred",
+   "x": "Austen"
+  },
+  "tagline": "Finds PS5 Pro stock at the official price, never from scalpers.",
+  "description": "Tracks new PS5 Pro consoles at the current official MSRP in your region, confirms the retailer actually has stock, and alerts you outside your quiet hours. It skips marked-up resellers and forced bundles, and never buys anything itself.",
+  "category": "money",
+  "url": "https://x.ai/bot/iburSrz3fVAiZ0MXSx9Qe",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/Austen/status/2118917788710637941"
+ },
+ {
+  "slug": "sentinel-elite-ai-cybersecurity-commander",
+  "name": "SENTINEL · Elite AI Cybersecurity Commander",
+  "builder": {
+   "name": "sam hong",
+   "x": ""
+  },
+  "tagline": "An evidence-first security review for code, secrets and a small team's site.",
+  "description": "Reviews code, exposed secrets and website security for founders and small teams, helps investigate risks, and plans defences that do nothing destructive inside the access you grant. It is explicit about its limits: not antivirus, not continuous intrusion detection.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/AtrEsUmXIyOYzTi_9S8pN",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/lucassam888/status/2118923430729027643"
+ },
+ {
+  "slug": "evening-resolution-tracker",
+  "name": "Evening Resolution Tracker",
+  "builder": {
+   "name": "Cleetus",
+   "x": ""
+  },
+  "tagline": "A nightly examination of conscience that checks up on yesterday's resolution.",
+  "description": "Delivers a short traditional examination of conscience each evening with the Act of Contrition, then asks for one concrete resolution for the next day. The following evening it asks whether that resolution was kept, and it remembers past answers so patterns become visible.",
+  "category": "life",
+  "url": "https://x.ai/bot/6Vt9-JCeDtZSAzhdOmeG8",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/175rng/status/2118923816801870246"
+ },
+ {
+  "slug": "conbot",
+  "name": "ConBot",
+  "builder": {
+   "name": "Noah Levin",
+   "x": ""
+  },
+  "tagline": "A conference companion that works the room while you sit in the talks.",
+  "description": "Works a conference alongside you: picks who to meet, reshapes your schedule to reach them, keeps a record of who you actually met, turns each talk into staged social drafts and gives session briefs before you walk in. At day's end it converts the day into next moves and hands work to your other bots. It also proposes the next useful move from your goals, the agenda and the attendee list.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/7o-XAypc1ixPgapL3WU2U",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/seriouspeopleai/status/2118703551253762478"
+ },
+ {
+  "slug": "viral-format-scout",
+  "name": "Viral Format Scout",
+  "builder": {
+   "name": "Hades",
+   "x": ""
+  },
+  "tagline": "Finds real high-performing X posts, takes their structure, rewrites yours in your voice.",
+  "description": "Send a rough idea or draft and it pulls real high-performing posts on X, breaks down how they are built, and rewrites your post in your voice. Aimed at creators, founders and marketers growing an audience on X.",
+  "category": "creative",
+  "url": "https://x.ai/bot/75I3z39UdqQafBB8_p_IM",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/0xHvdes/status/2118751479020282036"
+ },
+ {
+  "slug": "through-the-bible",
+  "name": "Through the Bible",
+  "builder": {
+   "name": "Divine 〽️achine",
+   "x": "Divine_machine"
+  },
+  "tagline": "A patient Bible teacher that walks Scripture one connection at a time.",
+  "description": "Teaches through Scripture one manageable connection at a time, on demand and in a daily morning lesson. It quietly remembers where you stopped and takes questions as they come.",
+  "category": "life",
+  "url": "https://x.ai/bot/LobgW4QDo7Ax5f5PI_Ush",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/Divine_machine/status/2118768917544128517"
+ },
+ {
+  "slug": "bajkopisarz-chemii",
+  "name": "Bajkopisarz chemii",
+  "builder": {
+   "name": "Anna",
+   "x": ""
+  },
+  "tagline": "Turns chemistry into educational fairy-tale shorts, episode by episode.",
+  "description": "Writes educational chemistry fairy tales and shorts around a hotel-and-atom metaphor: episode scripts, NotebookLM Studio runs, edits with an end card, and a queue of episodes. It suggests marking the series CC BY-SA 4.0.",
+  "category": "creative",
+  "url": "https://x.ai/bot/6RGHal3VfF91z3rSUHb0T",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/PaniDoktorAnna/status/2118773790561665189"
+ },
+ {
+  "slug": "ddl-deck-lab",
+  "name": "DDL Deck Lab",
+  "builder": {
+   "name": "Corn",
+   "x": "CornKry"
+  },
+  "tagline": "Builds and sim-tests 40-card decks for the Doginal Dogs Legends TCG.",
+  "description": "A deck lab for Doginal Dogs Legends players: it builds 40-card decks, sim-tests them against the current meta, and returns keep decisions and piloting tips.",
+  "category": "life",
+  "url": "https://x.ai/bot/9TE8-sZXC_4KhiOY2JZBi",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/CornKry/status/2118782620150734907"
+ },
+ {
+  "slug": "molly",
+  "name": "Molly",
+  "builder": {
+   "name": "dingsheng xia",
+   "x": ""
+  },
+  "tagline": "Orchestrates personal engineering projects through a task-card queue.",
+  "description": "Runs a queue of task cards for personal engineering projects, handing each stage to research, implementation, review, smoke tests and acceptance, then writing the approved result back itself. Complex implementation is routed through a local CLI by default.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/itJerKhY6HSTNwM9owHap",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/zzyloxx/status/2118795999447863753"
+ },
+ {
+  "slug": "snap-towel",
+  "name": "Snap Towel",
+  "builder": {
+   "name": "Anthem Blanchard",
+   "x": "anthemhayek"
+  },
+  "tagline": "Finds funny sports clips and drafts the punchline post, asking first.",
+  "description": "Finds funny sports clips and trending sports news, then drafts punchy quote posts and replies in your voice. Every draft waits for your approval before anything is posted.",
+  "category": "creative",
+  "url": "https://x.ai/bot/TT4pketNNY11VwXokRCXx",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/anthemhayek/status/2118796367267291644"
+ },
+ {
+  "slug": "adhd-helper",
+  "name": "ADHD helper",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "A warm, shame-free helper for starting, remembering and recovering.",
+  "description": "Keeps track of things for you and helps you get started, remember what matters, prioritise, handle self-care and climb back out of overwhelm, one small step at a time. Written to be warm and free of shame.",
+  "category": "life",
+  "url": "https://x.ai/bot/cUBDYzUf6GBJI1TKJVEcU",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/WhitnWild_/status/2118804086862848010"
+ },
+ {
+  "slug": "eh-may-us-emmaus",
+  "name": "Eh-MAY-us (Emmaus)",
+  "builder": {
+   "name": "Chuck",
+   "x": "chuckhersey"
+  },
+  "tagline": "Bible research from the Hebrew, Aramaic and Greek, then plain English.",
+  "description": "Researches the Bible from the original Hebrew, Aramaic and Greek, then gives a clear modern-English rendering with careful application to daily life.",
+  "category": "research",
+  "url": "https://x.ai/bot/majMZ-gns6AXq35aiYW-v",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/chuckhersey/status/2118807558286639527"
+ },
+ {
+  "slug": "dinner-decider",
+  "name": "Dinner Decider",
+  "builder": {
+   "name": "Ryan T",
+   "x": "ryanthawks"
+  },
+  "tagline": "One workable dinner from what is already in your fridge.",
+  "description": "Takes an ingredient list or a photo of your fridge, plus your time and household needs, and returns one main dish with approximate quantities and simple steps — no endless recipe list.",
+  "category": "life",
+  "url": "https://x.ai/bot/4PRxJTopvur7FPzaid9um",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/ryanthawks/status/2118833197228175838"
+ },
+ {
+  "slug": "haggler-bills",
+  "name": "Haggler",
+  "builder": {
+   "name": "Jason Ngo",
+   "x": ""
+  },
+  "tagline": "Negotiates your recurring bills down, then sits in the support chat or places the call.",
+  "description": "Finds what you pay and to whom, checks competitor and retention offers, and builds a negotiation plan. It can then work the support chat or the call for you, acting on your approval rather than changing anything on its own.",
+  "category": "money",
+  "url": "https://x.ai/bot/44nZYeBNq-nRQWs3Kkook",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Finds current plan and price",
+   "Researches competitor and retention offers",
+   "Runs the support chat or call"
+  ]
+ },
+ {
+  "slug": "foreman-efficiency",
+  "name": "Foreman",
+  "builder": {
+   "name": "Tyler Keehner",
+   "x": ""
+  },
+  "tagline": "Efficiency lead for a multi-bot fleet: less usage and waste for the same real output.",
+  "description": "Reviews how a group of bots actually spends its usage, finds the recurring waste, and proposes changes that hold. It writes the wins down so the savings carry into the next run instead of being rediscovered each week.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/jt786H746ybSFGZvH4w5-",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Audits usage across bots",
+   "Targets recurring waste",
+   "Encodes the wins so they stick"
+  ]
+ },
+ {
+  "slug": "video-team-director",
+  "name": "Director",
+  "builder": {
+   "name": "Wayne Lowry",
+   "x": ""
+  },
+  "tagline": "Leads a six-bot video crew, keeps one house style, and QAs every cut before delivery.",
+  "description": "Routes each video job to the right specialist in a six-bot production team, enforces a single house style, and checks every cut before handing over a post-ready draft. The builder says it works best with Gauntlet, Riffrow, Thumbs, Shorts and Versus installed and all six bots in one group chat.",
+  "category": "creative",
+  "url": "https://x.ai/bot/E6NdmXG5F9O_B6nFiDIJW",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Routes jobs across six bots",
+   "Enforces one house style",
+   "QAs each cut before delivery"
+  ]
+ },
+ {
+  "slug": "agent-readiness-auditor",
+  "name": "Agent-Readiness Auditor",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Tests whether a shopping agent can actually buy from a store, then grades it A to D.",
+  "description": "Point it at any public store URL and it checks whether an AI shopping agent can complete a purchase, identifying itself as a machine and never logging in, ordering or solving a captcha. You get an A to D Grok Bot Commerce Optimized rating, a readiness report listing problems and fixes, a badge you can display and a printable PDF.",
+  "category": "sales",
+  "url": "https://x.ai/bot/xCJAJ-ED4qO8Ub7KFtWNj",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "source": "https://x.com/BrianRoemmele/status/2118585006235037787",
+  "features": [
+   "A to D commerce readiness grade",
+   "Report with problems and fixes",
+   "Display badge and printable PDF"
+  ]
  }
 ]
