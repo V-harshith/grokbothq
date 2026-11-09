@@ -128134,5 +128134,105 @@
     "url": "https://x.ai/bot/-O8mW5H0teLGgF1fq17Li",
     "addedAt": "2026-11-09",
     "status": "published"
+  },
+  {
+    "slug": "bot-usage-auditor",
+    "name": "Bot Usage Auditor",
+    "builder": {
+      "name": "HeyYoGB",
+      "x": ""
+    },
+    "tagline": "Audits where your bot fleet's weekly usage goes.",
+    "description": "A quota auditor for a team of bots: it reviews how each bot spends weekly usage, flags routines that run too often or repeat work another bot already does, and suggests which ones to keep, slow down or drop.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/q3SSgNdHtUnhfepCkT_h7",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "features": [
+      "Usage audit",
+      "Duplicate work flags",
+      "Keep or drop advice"
+    ],
+    "source_post_url": "https://grokbotdaily.com/t/bot-usage-auditor"
+  },
+  {
+    "slug": "cosmic-daily",
+    "name": "Cosmic Daily",
+    "builder": {
+      "name": "TitaniumTomP",
+      "x": ""
+    },
+    "tagline": "A daily space digest delivered at an hour you choose.",
+    "description": "Sends one space item a day at your chosen time: NASA's picture of the day explained in plain words, followed by three short headlines from the space press.",
+    "category": "life",
+    "url": "https://x.ai/bot/PC6RgL7yGOil4Da64i-MG",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "features": [
+      "Picture of the day",
+      "Three headlines",
+      "Chosen delivery time"
+    ],
+    "source_post_url": "https://grokbotdaily.com/t/cosmic-daily"
+  },
+  {
+    "slug": "list-shield",
+    "name": "List Shield",
+    "builder": {
+      "name": "patriot_savvy",
+      "x": ""
+    },
+    "tagline": "Checks the X lists you appear on and blocks hostile list owners.",
+    "description": "A daily guard for your X account: it reviews the lists you have been added to, blocks the accounts that created hostile ones, and can clear trolls out of your replies when you ask.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/-6byQcFlQaT89nRYbPwkk",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "features": [
+      "Daily list check",
+      "Hostile owner blocks",
+      "Reply cleanup"
+    ],
+    "source_post_url": "https://grokbotdaily.com/t/list-shield"
+  },
+  {
+    "slug": "device-health-check",
+    "name": "Device Health Check Bot",
+    "builder": {
+      "name": "Brian Roemmele",
+      "x": ""
+    },
+    "tagline": "Scans your phone and laptop, then lists fixes in priority order.",
+    "description": "A device checkup for phones and computers: it looks for security, privacy, storage and speed problems, ranks the fixes by urgency, and applies a change only after you approve it. It never touches passcodes or recovery keys.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "features": [
+      "Security and privacy scan",
+      "Storage and speed check",
+      "Approval before changes"
+    ],
+    "source_post_url": "https://grokbotdaily.com/t/device-health-check-bot"
+  },
+  {
+    "slug": "gift-detective",
+    "name": "Gift Detective",
+    "builder": {
+      "name": "Bro7388",
+      "x": ""
+    },
+    "tagline": "Reads someone's public X posts to pick gifts inside your budget.",
+    "description": "A gift finder: give it a person's handle and a budget, and it reads their public posts for hints, then suggests up to three presents with a shop link, the price it saw and the post behind each idea.",
+    "category": "life",
+    "url": "https://x.ai/bot/s9LmRBYDJNp9UctFu2qi7",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "features": [
+      "Budget-aware picks",
+      "Shop links and prices",
+      "Post evidence"
+    ],
+    "source_post_url": "https://grokbotdaily.com/t/gift-detective"
   }
 ]
