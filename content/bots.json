@@ -126050,5 +126050,1011 @@
    "Report with problems and fixes",
    "Display badge and printable PDF"
   ]
+ },
+ {
+  "slug": "riffrow",
+  "name": "Riffrow",
+  "builder": {
+   "name": "Wayne",
+   "x": ""
+  },
+  "tagline": "Turns a clip into an MST3K-style riff video with three voiced characters.",
+  "description": "Takes a clip, writes a riff script for three characters, voices the lines and renders a theater-style video in both landscape and vertical. Built to work alongside the rest of a video crew rather than on its own.",
+  "category": "creative",
+  "url": "https://x.ai/bot/2_uBthmv20DacnSl1bAAu",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Writes a three-character riff script",
+   "Voices the lines",
+   "Renders landscape and vertical cuts"
+  ]
+ },
+ {
+  "slug": "ux-ui-designer",
+  "name": "UX/UI Designer",
+  "builder": {
+   "name": "mr.robot",
+   "x": ""
+  },
+  "tagline": "Designs the visual layer of app and web screens to WCAG 2.2 AA.",
+  "description": "Handles only the visual layer: layout, hierarchy, colour, typography and component states for mobile and web interfaces, in a modern, minimal or nominated existing style. It delivers concrete specs with hex values, type scales and spacing, states the computed contrast ratio instead of claiming a pass, and writes no file without an explicit yes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/DWorDFJGA-RbMCvTpewU8",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Layout, type scale and colour specs",
+   "Every text and UI pair checked against WCAG 2.2 AA",
+   "Mockups or an HTML preview, no repo edits"
+  ]
+ },
+ {
+  "slug": "design-systems",
+  "name": "Design Systems",
+  "builder": {
+   "name": "mr.robot",
+   "x": ""
+  },
+  "tagline": "Builds the structure behind a product: tokens, components, flows.",
+  "description": "The structural half of design work: design tokens, component libraries and specs, component documentation, user flows and information architecture for desktop and web products. It reads the existing UI, brand and codebase conventions before proposing anything, and hands off instead of writing production code.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/C9_sXN7trbw5bSj_mD5VL",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Design tokens and component libraries",
+   "Component specs and documentation",
+   "User flows and information architecture"
+  ]
+ },
+ {
+  "slug": "reverse-website-swarm",
+  "name": "Reverse Website Swarm",
+  "builder": {
+   "name": "monokern",
+   "x": ""
+  },
+  "tagline": "Studies how a live site is built and produces a working rebuild of it.",
+  "description": "Point it at a URL or a local page and it works out how the site is put together, then crafts a runnable copy through Craft Anything. Aimed at builders who want a working starting point rather than a screenshot-level imitation.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/43Pa_W8af71QSWZkb90m8",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Studies a site's structure",
+   "Crafts a runnable copy with Craft Anything",
+   "Works from a URL or a local page"
+  ]
+ },
+ {
+  "slug": "vibe-seismograph",
+  "name": "Vibe Seismograph",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Counts how a brand is perceived against five to eight competitors.",
+  "description": "Counts sentiment for a brand and its competitors across X, Reddit, reviews and news, then reports the themes behind those numbers, the risks and the fixes worth doing first. Built for marketers and founders who want counted evidence rather than impressions.",
+  "category": "research",
+  "url": "https://x.ai/bot/vgpP8K_tqNp_8sRSvr3Sm",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Counted sentiment across four source types",
+   "Benchmarks 5 to 8 competitors",
+   "Themes, risks and ranked fixes"
+  ]
+ },
+ {
+  "slug": "shadow-signal",
+  "name": "Shadow Signal",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Benchmarks a public ticker's alternative data against its comparables.",
+  "description": "Compares ad spend, demand, web and app activity and hiring signals for a public company against its comparables, then reconciles what it finds with reported KPIs and consensus. The output is a benchmarked picture of the business, not a price call.",
+  "category": "research",
+  "url": "https://x.ai/bot/s8D5AA4QaeGe-c5peTxz9",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Benchmarks spend, demand and hiring",
+   "Compares the ticker against comps",
+   "Reconciles signals with reported KPIs"
+  ]
+ },
+ {
+  "slug": "rabbit-hole",
+  "name": "Rabbit Hole",
+  "builder": {
+   "name": "Travis",
+   "x": ""
+  },
+  "tagline": "Deep-research briefs where each point is labelled fact, claim or inference.",
+  "description": "Turns a topic, thesis, link or company into a sourced brief and tags every point as fact, claim or inference with a link behind it. The labelling is the point: you can see which parts rest on evidence and which are the bot's own reasoning.",
+  "category": "research",
+  "url": "https://x.ai/bot/uMwdqP1790aJGHNuVJ8PE",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Labels every point fact, claim or inference",
+   "Links a source per claim",
+   "Works from a topic, thesis, link or company"
+  ]
+ },
+ {
+  "slug": "rebalance-keeper",
+  "name": "Rebalance Keeper",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Flags portfolio drift from your target allocation and writes the DCA plan.",
+  "description": "Compares what you actually hold with the allocation you set, flags where the mix has drifted and lays out a plan to close the gap. It never trades; every order is yours to place.",
+  "category": "money",
+  "url": "https://x.ai/bot/wdkaFZSukxdUWzVoqscbX",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Compares holdings with target allocation",
+   "Flags drift position by position",
+   "Lays out a DCA plan, never trades"
+  ]
+ },
+ {
+  "slug": "backtest-forensics-lab",
+  "name": "Backtest Forensics Lab",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Stress-tests a trading rule against an honest backtest before you trust it.",
+  "description": "Answers one question: would this rule have survived if the backtest were run honestly? It rebuilds the test, probes the ways a strategy can flatter itself, and says whether the edge holds. It does not deploy, paper trade or recommend a strategy.",
+  "category": "money",
+  "url": "https://x.ai/bot/p7oqGCeaRvTirZ0dcZdpP",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Rebuilds a strategy's backtest",
+   "Probes how the test could flatter itself",
+   "No deployment or trade recommendations"
+  ]
+ },
+ {
+  "slug": "refunds-and-credits",
+  "name": "Refunds & Credits",
+  "builder": {
+   "name": "Jason",
+   "x": ""
+  },
+  "tagline": "Chases refunds, credits, settlements and unclaimed money you are owed.",
+  "description": "Tracks down money owed to you across refunds, credits, class-action settlements, unclaimed property and expiring card perks, then works the claims. A live tally page separates what has been received, approved, filed and what is still possible.",
+  "category": "money",
+  "url": "https://x.ai/bot/FlE2tRVNTP8FQ2on6YRM2",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Finds refunds, settlements and unclaimed property",
+   "Files and tracks the claims",
+   "Live tally of received, approved and pending"
+  ]
+ },
+ {
+  "slug": "idea-bot",
+  "name": "Idea Bot",
+  "builder": {
+   "name": "ALK",
+   "x": ""
+  },
+  "tagline": "Screens business ideas daily and keeps only the ones worth a free test.",
+  "description": "Generates and validates business ideas continuously, kills the weak ones early and surfaces only those worth testing with real buyers for no money down. The filtering is the product: fewer ideas, each already pushed back on.",
+  "category": "money",
+  "url": "https://x.ai/bot/rTZQlYcR-FB2JoGsk5GXh",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Daily idea generation",
+   "Screens and kills weak ideas fast",
+   "Only ideas testable at zero cost"
+  ]
+ },
+ {
+  "slug": "security-and-privacy",
+  "name": "Security & Privacy",
+  "builder": {
+   "name": "NicholasGibbs",
+   "x": ""
+  },
+  "tagline": "Finds X accounts impersonating you and watches whether the reports stick.",
+  "description": "Scans X for accounts posing as you, files reports, then keeps checking whether the impostors actually come down or just swap a photo and a name. It can scan daily, hold a weekly reported-versus-removed dashboard, help with people-search opt-outs and keep a private harassment log.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_lfnP-J1qucMZEfgyEFQO",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Finds and reports impersonating accounts",
+   "Watches whether takedowns stick",
+   "Weekly dashboard, opt-out help, harassment log"
+  ]
+ },
+ {
+  "slug": "drafter",
+  "name": "Drafter",
+  "builder": {
+   "name": "mmt",
+   "x": ""
+  },
+  "tagline": "Writes launch and update posts for X in a human voice.",
+  "description": "Pulls the real details of what you shipped out of you first, then drafts X posts for launches, features, teasers and Grok Bot drops, cutting the corporate and AI-sounding phrasing. Concrete details in, plain posts out.",
+  "category": "sales",
+  "url": "https://x.ai/bot/WBhcFoClSD5T9ZgB7NkYv",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Collects real launch details first",
+   "Drafts launches, teasers and updates",
+   "Cuts corporate and AI-sounding phrasing"
+  ]
+ },
+ {
+  "slug": "dr-bot-care",
+  "name": "Dr Bot",
+  "builder": {
+   "name": "Caroline",
+   "x": ""
+  },
+  "tagline": "Finds in-network doctors and keeps a care search moving.",
+  "description": "Finds in-network doctors near you, drafts the inquiry emails for you to approve, and tracks replies, appointments and follow-ups in one care-team chart. It carries the admin of a care search and sends nothing you have not signed off.",
+  "category": "life",
+  "url": "https://x.ai/bot/6z5La7Gefkqs6KCwCiSEi",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Finds in-network doctors nearby",
+   "Drafts inquiries for your approval",
+   "Tracks replies, appointments and follow-ups"
+  ]
+ },
+ {
+  "slug": "superledger",
+  "name": "SuperLedger",
+  "builder": {
+   "name": "Bill",
+   "x": ""
+  },
+  "tagline": "One shared memory doc that a team and its bots both write to.",
+  "description": "Keeps shared, deterministic memory for a team and its Grok Bots in a single Coda doc, wired through the built-in Coda connector so there are no API keys to manage. Bots propose facts and handoffs, formulas catch conflicting entries, and people approve decisions with one click.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/u2Eywod5aeGH3a-YU0rZB",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Shared memory in one Coda doc",
+   "Formula checks catch conflicting facts",
+   "One-click human approval on decisions"
+  ]
+ },
+ {
+  "slug": "celeste",
+  "name": "Celeste",
+  "builder": {
+   "name": "Ashleigh",
+   "x": ""
+  },
+  "tagline": "Astrology and numerology readings built on real sky data.",
+  "description": "Reads charts for you and your family, works out the numbers behind names and dates, and gives heads-ups on the moon using real sky data rather than a generic horoscope. Framed by its builder as fun and inspiration rather than prediction.",
+  "category": "life",
+  "url": "https://x.ai/bot/tKiKAdbBSk-FUl7oZIqSD",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Chart readings for you and your family",
+   "Numerology from names and dates",
+   "Moon and sky events from live data"
+  ]
+ },
+ {
+  "slug": "steady-hand",
+  "name": "Steady Hand",
+  "builder": {
+   "name": "The Seth",
+   "x": ""
+  },
+  "tagline": "Admin help for the first weeks after a spouse dies.",
+  "description": "Walks through the paperwork that follows a death: what to ask HR, Social Security, Medicare and insurers, and which bills actually belong to the estate. Its answers are checked against the survivor's state law, and the open questions stay in one list instead of scattered across tabs.",
+  "category": "life",
+  "url": "https://x.ai/bot/WNa0UvXDfvRkZ31PmJ93r",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Checklist for HR, Social Security and insurers",
+   "Sorts which bills are yours",
+   "Answers checked against state law"
+  ],
+  "source": "https://x.com/the_seth_ard/status/2119061185370771888"
+ },
+ {
+  "slug": "swole",
+  "name": "Swole",
+  "builder": {
+   "name": "Adrian Bisson",
+   "x": ""
+  },
+  "tagline": "Quiet fitness and diet coach that reads meals, movement and sleep together.",
+  "description": "Tracks meals, movement, weight and sleep in one place, taking photos, screenshots or short notes rather than demanding app connections. The guidance is individualized and deliberately low-noise: it speaks up when the pattern changes, not after every snack.",
+  "category": "life",
+  "url": "https://x.ai/bot/fmgZ9KSqsMnw3OphM2Vkx",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Photo and screenshot check-ins",
+   "Weight, sleep and movement in one view",
+   "No required integrations"
+  ],
+  "source": "https://x.com/Adrian_Bisson/status/2119390018854896028"
+ },
+ {
+  "slug": "unl",
+  "name": "Unl",
+  "builder": {
+   "name": "Neil Mortimer",
+   "x": ""
+  },
+  "tagline": "Keeps a record of what you decided and why, then hands the work on.",
+  "description": "A decision log with a worker attached. It stores what was chosen and the reasoning behind it, passes that context to a team of bots acting on it, and stays quiet until something needs your call.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/YmYB34ALYI8LUcrIgnOGA",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Decision and rationale log",
+   "Handoffs that carry the reasoning",
+   "Speaks up only when blocked"
+  ],
+  "source": "https://x.com/unlimitlessai/status/2119345998887870808"
+ },
+ {
+  "slug": "meow-meow",
+  "name": "냥냥 (Meow Meow)",
+  "builder": {
+   "name": "HEEYEONG EOM",
+   "x": ""
+  },
+  "tagline": "Photorealistic cat pictures, one yes at a time.",
+  "description": "Generates one photorealistic cat scene per request, then asks whether you want another. Settings and moods vary between images, and the captions and invitations come in whichever language you are using.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Vjr1Umod5i2JqpyY46Wrk",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "One image per request, with a check-in",
+   "Photorealistic cat scenes",
+   "Captions in your language"
+  ],
+  "source": "https://x.com/heeeeeyeeeeeee/status/2119340222806892658"
+ },
+ {
+  "slug": "gif-animator",
+  "name": "Gif Animator",
+  "builder": {
+   "name": "Rob H",
+   "x": ""
+  },
+  "tagline": "Turns an image or an idea into a looping GIF you can download.",
+  "description": "Animates a still image or a written idea into a looping GIF and hands back a downloadable file. It tries free local animation first and asks before spending on a paid generation.",
+  "category": "creative",
+  "url": "https://x.ai/bot/cab9wr2ZA-h6LW4srwwih",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Image or idea in, GIF out",
+   "Downloadable file",
+   "Asks before paid generation"
+  ],
+  "source": "https://x.com/sia14u/status/2119316699618934901"
+ },
+ {
+  "slug": "video-prompter",
+  "name": "Video Prompter",
+  "builder": {
+   "name": "Ali Nasr",
+   "x": ""
+  },
+  "tagline": "Turns an approved story into model-specific video prompts and shot cards.",
+  "description": "Takes a signed-off story and visual direction and writes prompts for specific video models, plus shot cards for the sequence. It compares models, plans reference images and lists sourced cost estimates before you spend a credit.",
+  "category": "creative",
+  "url": "https://x.ai/bot/MTrDmZ3SY5rK60ukWAN9m",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Prompts for named video models",
+   "Shot cards for the sequence",
+   "Cost estimates with sources"
+  ],
+  "source": "https://x.com/AVAZIFY_AI/status/2119292053074931827"
+ },
+ {
+  "slug": "sat-nmsqt-tutor",
+  "name": "SAT & NMSQT Tutor",
+  "builder": {
+   "name": "Arav Jain",
+   "x": ""
+  },
+  "tagline": "Test-prep tutor that works from your own practice results.",
+  "description": "Goes through digital SAT and PSAT/NMSQT practice tests question by question, explains each miss and drills the topics behind them. It then lays out a study plan sized to the weeks left before test day.",
+  "category": "life",
+  "url": "https://x.ai/bot/M0dW-dTfTPHxAsFTcZe__",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Reviews your practice tests",
+   "Drills weak topics",
+   "Plan built around your test date"
+  ],
+  "source": "https://x.com/aravhawk/status/2119282647834722470"
+ },
+ {
+  "slug": "viz-explainer",
+  "name": "Viz Explainer",
+  "builder": {
+   "name": "Adem Vessell",
+   "x": ""
+  },
+  "tagline": "Story-driven animated explainers with sourced scripts and MP4 delivery.",
+  "description": "Turns a complex topic into a short animated explainer: script first with sources, then a reviewed motion pass, then an MP4. Paid generation is optional, and finished files can go to a private Google Drive folder.",
+  "category": "creative",
+  "url": "https://x.ai/bot/lWk8eIHf8obN-j8ihW6_1",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Script with sources",
+   "Reviewed motion pass",
+   "MP4 delivered to Drive"
+  ],
+  "source": "https://x.com/AdemVessell/status/2119281531512648134"
+ },
+ {
+  "slug": "omarchy-observer",
+  "name": "Omarchy Observer",
+  "builder": {
+   "name": "Arne Quanbeck",
+   "x": ""
+  },
+  "tagline": "Watches Omarchy Linux for security fixes, releases and add-ons you care about.",
+  "description": "Follows Omarchy, DHH's Arch and Hyprland setup, for security issues, major releases, themes and plugins. It filters what it finds against the setup you actually run and pings you only when something touches it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/C0gOVEOQDiHSzmTz60crI",
+  "addedAt": "2026-11-08",
+  "status": "published",
+  "features": [
+   "Security and release watch",
+   "Theme and plugin tracking",
+   "Filtered to your setup"
+  ],
+  "source": "https://x.com/lutefiskguy/status/2119224236300755388"
+ },
+ {
+  "slug": "bot-self-improvement",
+  "name": "Bot Self Improvement",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Audits your Grok Bot usage export and ranks where the tokens actually go.",
+  "description": "Takes an export of your Grok Bot usage and works out which bots and runs spend the most, which ones keep repeating the same result, and which jobs one bot could own alone. Delivers a ranked fix list.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/9BHgJqRj-s38cp8vfMQUc",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Token use by bot and run",
+   "Repeated or idle runs flagged",
+   "Ranked fix list"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2112249592133935133"
+ },
+ {
+  "slug": "meal-ingredient-shopper",
+  "name": "Meal Ingredient Shopper",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Turns a recipe into a scaled ingredient list and a cart you approve.",
+  "description": "Give it a recipe and the number of servings; it scales the quantities, groups the shopping into a list, and can build a grocery cart that only checks out after you approve it.",
+  "category": "life",
+  "url": "https://x.ai/bot/zFlBJV-8p1LwP4xgleCwl",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Scales recipes to servings",
+   "Grouped shopping list",
+   "Cart needs your approval"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2110174733660742018"
+ },
+ {
+  "slug": "three-quotes",
+  "name": "Three Quotes",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Writes a job spec, finds local pros, and collects three comparable quotes.",
+  "description": "Writes up the job so every tradesperson quotes the same scope, finds licensed local pros, calls them to check availability, and returns three quotes side by side.",
+  "category": "life",
+  "url": "https://x.ai/bot/GNFPzVh1EezMS0JiNHgcr",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "One scope for every pro",
+   "Licensed local pros",
+   "Quotes compared side by side"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2117679311511761308"
+ },
+ {
+  "slug": "attic-archivist",
+  "name": "Attic Archivist",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Identifies old photos, tapes and records, with cited resale prices.",
+  "description": "For boxes of old records, photos, slides, tapes or home movies: it says what each item is, what it sells for with sources cited, and what is worth digitising rather than keeping.",
+  "category": "life",
+  "url": "https://x.ai/bot/EJ4VNEozcv5NsRl07pt9Z",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Item identification",
+   "Prices with citations",
+   "Digitise-or-keep call"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2117320396370530726"
+ },
+ {
+  "slug": "bot-bodyguard",
+  "name": "Bot Bodyguard",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "Weekly read-only audit of what each of your bots can reach and send.",
+  "description": "Checks every bot on the account for the data and tools it can reach, flags anything new or unusual since last week, and explains the risk in plain language. Read-only, so it changes nothing.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/abPHs-nvdICU7XiRDyrSg",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Weekly access review",
+   "New and unusual access flagged",
+   "Read-only"
+  ]
+ },
+ {
+  "slug": "claim-denial-fighter",
+  "name": "Claim Denial Fighter",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Decodes a denied insurance claim and drafts the appeal.",
+  "description": "Reads a denial letter and explanation of benefits, finds the appeal deadline, works out the stated reason for denial, and drafts an appeal letter for you to review and send.",
+  "category": "life",
+  "url": "https://x.ai/bot/6J_YPko7HNztETQzvBYM6",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Denial letter and EOB decoded",
+   "Deadline tracked",
+   "Appeal drafted"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2116951368829403569"
+ },
+ {
+  "slug": "estate-settler",
+  "name": "Estate Settler",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "One checklist and drafted letters for settling someone’s estate.",
+  "description": "After a death, it builds a single checklist with every deadline tracked and drafts the notifications and account-closing letters a family has to send, one step at a time.",
+  "category": "life",
+  "url": "https://x.ai/bot/DaegPVp52kfKdmYoPQ3S7",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Deadlines tracked",
+   "Notifications drafted",
+   "Account closures listed"
+  ]
+ },
+ {
+  "slug": "new-patient-booker",
+  "name": "New Patient Booker",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Finds nearby doctors taking new patients and books once you say yes.",
+  "description": "Searches doctors and dentists near you who are accepting new patients, labels insurance network status as stated, shows reviews side by side, and books only with your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/IhQTTIBBCNtx7qpFzQhgl",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Accepts-new-patients filter",
+   "Insurance status labelled",
+   "Books only on approval"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2117679838903648616"
+ },
+ {
+  "slug": "product-alert-bot",
+  "name": "Product Alert Bot",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Watches one exact product spec at your chosen stores and pings on stock.",
+  "description": "Tracks a specific model, colour, size, storage and carrier at the stores you pick, then messages you the moment it is buyable for shipping or pickup.",
+  "category": "life",
+  "url": "https://x.ai/bot/DhB7TMKfeP7Vx0mMr9Tjq",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Exact spec matching",
+   "Chosen stores only",
+   "Stock alert"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2117767350493823204"
+ },
+ {
+  "slug": "read-every-app",
+  "name": "Read Every App",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Reads every app’s privacy policy and quotes the data-selling lines.",
+  "description": "Goes through the privacy policy and terms of each app on your phone, quotes the exact sentence where it reserves the right to sell, share or use your data, and drafts a deletion request.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/cpzlb3uf_hY7BnAg0AEmc",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Policy and terms read",
+   "Exact clauses quoted",
+   "Deletion request drafted"
+  ],
+  "source": "https://x.com/brianroemmele/status/2117775975052386630"
+ },
+ {
+  "slug": "warranty-registration-bot",
+  "name": "Warranty & Registration Bot",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Finds the warranty or card benefit that covers a broken item.",
+  "description": "For something broken, damaged or stolen, it looks across product warranties, credit card purchase protection and home or auto insurance, then shows which cover applies and what to file.",
+  "category": "life",
+  "url": "https://x.ai/bot/Z4GWGgi_gyDCAAiv05TsG",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Warranty lookup",
+   "Card benefit check",
+   "Claim path shown"
+  ],
+  "source": "https://x.com/BrianRoemmele/status/2117765640484475173"
+ },
+ {
+  "slug": "small-claims-complaint-filer",
+  "name": "Small Claims & Complaint Filer",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "Walks an unresolved refund or repair dispute up to small claims.",
+  "description": "For people a business will not refund, repair, deliver for or answer: it steps from a demand letter to a regulator complaint to small claims paperwork, keeping dates and evidence in order.",
+  "category": "life",
+  "url": "https://x.ai/bot/-nyhSPkH9g1M8nq_PfWgG",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Demand letter drafted",
+   "Regulator complaint path",
+   "Small claims paperwork"
+  ]
+ },
+ {
+  "slug": "x-money-bill-pay-guard",
+  "name": "X Money Bill Pay Guard",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "Reviews X Money charges and bills, and approves every payment with you.",
+  "description": "Reads your X Money account for duplicate or odd charges and upcoming bills, then asks you to approve each payment one by one. It states plainly that it is not a financial adviser.",
+  "category": "money",
+  "url": "https://x.ai/bot/10ZAtArrlz36Tr9WBSOy5",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Duplicate charge check",
+   "Upcoming bills",
+   "Per-payment approval"
+  ]
+ },
+ {
+  "slug": "trendlines-tutor",
+  "name": "Trendlines Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Beginner-to-expert lessons on drawing and using trendlines.",
+  "description": "A structured chart-reading tutor for trendlines: a placement chat first, then lessons with check questions and quizzes, ending in a mastery exam. Progress is saved between sessions.",
+  "category": "money",
+  "url": "https://x.ai/bot/RU-UWYm0ky7HFmjanfL0s",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Placement chat",
+   "Lessons and quizzes",
+   "Mastery exam"
+  ]
+ },
+ {
+  "slug": "entry-triggers-tutor",
+  "name": "Entry Triggers Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Structured lessons on entry triggers, from placement chat to final exam.",
+  "description": "Teaches entry triggers in order: a placement chat sets the starting level, lessons come with check questions and quizzes, and a final exam tests the whole sequence.",
+  "category": "money",
+  "url": "https://x.ai/bot/y2NuommHwkKelIcmh_ZQr",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Placement chat",
+   "Check questions and quizzes",
+   "Final exam"
+  ]
+ },
+ {
+  "slug": "support-resistance-tutor",
+  "name": "Horizontal Support/Resistance Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Five graded lessons on horizontal support and resistance.",
+  "description": "Covers horizontal support and resistance from scratch: placement first, five lessons with exercises, quizzes after each one, and a mastery exam at the end.",
+  "category": "money",
+  "url": "https://x.ai/bot/-7gsVGAQDqia9emepeXrP",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Five lessons",
+   "Exercises and quizzes",
+   "Mastery exam"
+  ]
+ },
+ {
+  "slug": "market-structure-tutor",
+  "name": "Market Structure Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Market structure lessons built on CryptoCred’s series, with two exams.",
+  "description": "A market structure tutor that follows CryptoCred’s teaching: five lessons with quizzes, exercises in between, and two exams. Levels adapt to how you answer the placement chat.",
+  "category": "money",
+  "url": "https://x.ai/bot/SBYu4x-Rm_K0pgN7wapyR",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Five lessons",
+   "Based on CryptoCred’s series",
+   "Two exams"
+  ]
+ },
+ {
+  "slug": "pattern-failure-tutor",
+  "name": "Pattern Failure Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Teaches when chart patterns fail and what that signal means.",
+  "description": "A tutor for pattern failure: a placement chat sets the level, then lessons with check questions and quizzes, then a final exam on spotting a failed pattern early.",
+  "category": "money",
+  "url": "https://x.ai/bot/qzbgDGNJyp5Ef8SxZb1hk",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Placement chat",
+   "Pattern-failure drills",
+   "Final exam"
+  ]
+ },
+ {
+  "slug": "rsi-tutor",
+  "name": "RSI Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Lessons on the Relative Strength Index up to a mastery exam.",
+  "description": "Teaches the Relative Strength Index from first principles: a placement chat, then lessons with check questions, quizzes and a mastery exam. Saves progress between sessions.",
+  "category": "money",
+  "url": "https://x.ai/bot/OpxxnAarJDKsy00daqXnt",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Beginner to expert path",
+   "Lessons and quizzes",
+   "Mastery exam"
+  ]
+ },
+ {
+  "slug": "top-down-approach-tutor",
+  "name": "Top-Down Approach Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Teaches chart analysis from the higher timeframe down.",
+  "description": "A tutor for top-down chart analysis: it starts at the higher timeframe, works down through the lower ones, and checks each step with questions, quizzes and a final exam.",
+  "category": "money",
+  "url": "https://x.ai/bot/sYjpaSlOCVPlsAHL_Mu_j",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Higher to lower timeframe",
+   "Check questions",
+   "Final exam"
+  ]
+ },
+ {
+  "slug": "trade-management-tutor",
+  "name": "Trade Management Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Audits your own trade interventions and teaches management rules.",
+  "description": "A trade management tutor that also audits how you intervene in live trades, covers managing winners and losers and the rules around the Dead Zone, and runs to a mastery exam.",
+  "category": "money",
+  "url": "https://x.ai/bot/QmC5gbGLHexNCrlOh81Uv",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Intervention audit",
+   "Winner and loser handling",
+   "Mastery exam"
+  ]
+ },
+ {
+  "slug": "network-ned-office",
+  "name": "Network Ned",
+  "builder": {
+   "name": "James Harrison",
+   "x": ""
+  },
+  "tagline": "Plans the network for a small office, shop or church.",
+  "description": "A network design helper for small sites: it plans internet, Wi-Fi, switches, guest networks, cameras and backups, and lays the gear out in a setup someone can follow.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/qHJHrp64deGRRHLmMP0Ql",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Small-site network plan",
+   "Wi-Fi and switching layout",
+   "Guest and camera networks"
+  ]
+ },
+ {
+  "slug": "legal-advisor-bot",
+  "name": "Legal Advisor",
+  "builder": {
+   "name": "XPixel",
+   "x": ""
+  },
+  "tagline": "Plain-English legal analysis for multi-jurisdiction questions.",
+  "description": "Takes legal questions that cross jurisdictions, spots the issues, explains them in plain English, and drafts letters or outlines a strategy with the next steps listed.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/YAGa694NcNPa_Aqh_cMCc",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Issue spotting",
+   "Plain-English analysis",
+   "Draft letters"
+  ]
+ },
+ {
+  "slug": "builder-spec",
+  "name": "Builder",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Builds software from a SPEC.md with tests and a written report.",
+  "description": "Works from a SPEC.md to build original software with open-source dependencies, adds automated tests, and hands back a test report. It waits for owner approval and never publishes on its own.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/iCKWgIWPwg2dZe0GUlsgI",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "SPEC.md driven",
+   "Automated tests",
+   "Test report and approval gate"
+  ]
+ },
+ {
+  "slug": "viral-autopsy",
+  "name": "Viral Autopsy",
+  "builder": {
+   "name": "painn",
+   "x": ""
+  },
+  "tagline": "Breaks down why posts go viral in your niche, daily.",
+  "description": "Watches what is going viral in your part of X, explains why each hook worked, and sends a short daily report. On request it writes hooks in your voice.",
+  "category": "research",
+  "url": "https://x.ai/bot/H29yEjYY2CqbJFlklSDII",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Niche viral tracking",
+   "Hook breakdown",
+   "Daily report"
+  ]
+ },
+ {
+  "slug": "animator-remotion",
+  "name": "Animator",
+  "builder": {
+   "name": "Nima Owji",
+   "x": ""
+  },
+  "tagline": "Builds multi-scene animated videos in code from a description.",
+  "description": "A motion graphics designer: describe an idea and it builds a story-driven multi-scene animation in Remotion, with Lottie elements and rendered video output.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Hp85sZKzJNjabj8hakjee",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Multi-scene animation",
+   "Remotion code output",
+   "Lottie support"
+  ]
+ },
+ {
+  "slug": "beowulf-standup",
+  "name": "Beowulf",
+  "builder": {
+   "name": "HexTurtleGd",
+   "x": ""
+  },
+  "tagline": "One generalist bot for planning, building, research and operations.",
+  "description": "A single assistant billed as a standup ally: it plans, builds, checks, researches, creates and operates, and walks new owners through setup with its Standup Guide.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/aUWkVIzWbrNkJUtQctKcw",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "features": [
+   "Planning and building",
+   "Research and checks",
+   "Guided setup"
+  ]
  }
 ]
