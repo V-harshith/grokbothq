@@ -42593,7 +42593,7 @@
   "category": "engineering",
   "url": "https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp",
   "addedAt": "2026-10-03",
-  "status": "published"
+  "status": "pending"
  },
  {
   "slug": "tory",
@@ -46138,7 +46138,7 @@
   "category": "creative",
   "url": "https://x.ai/bot/PgwfYCsiOpedVqBOlYICp",
   "addedAt": "2026-10-06",
-  "status": "published"
+  "status": "pending"
  },
  {
   "slug": "daily-social-promo-coach",
@@ -55538,7 +55538,7 @@
   "url": "https://x.ai/bot/KjAL4LmSNZFMSyHAJKXBN",
   "source": "https://x.com/TAP0APIA/status/2108810217685467337",
   "addedAt": "2026-10-10",
-  "status": "published"
+  "status": "pending"
  },
  {
   "slug": "genie",
@@ -65227,7 +65227,7 @@
   "category": "creative",
   "url": "https://x.ai/bot/ZS8mqV7WmcAaVWLdj9A1E",
   "addedAt": "2026-10-16",
-  "status": "published"
+  "status": "pending"
  },
  {
   "slug": "techengineer",
@@ -73123,7 +73123,7 @@
   "category": "engineering",
   "url": "https://x.ai/bot/qZcBjyxPRa1kWJ_sel0gv",
   "addedAt": "2026-10-18",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/timsonner/status/2111278389101572530"
  },
  {
@@ -75688,7 +75688,7 @@
   "category": "money",
   "url": "https://x.ai/bot/Unq9DxJfw_lsKB4-KxgUg",
   "addedAt": "2026-10-20",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/timsonner/status/2111900906090565714"
  },
  {
@@ -85719,7 +85719,7 @@
   "category": "money",
   "url": "https://x.ai/bot/W7zhfU28XHWfPlHqc6-gM",
   "addedAt": "2026-10-25",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/AKolere_/status/2113797763049603541"
  },
  {
@@ -87103,7 +87103,7 @@
   "category": "engineering",
   "url": "https://x.ai/bot/rVZtWMQwb_6tXAQPatay5",
   "addedAt": "2026-10-25",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/metalfox/status/2114014057145753988"
  },
  {
@@ -96845,7 +96845,7 @@
   "category": "productivity",
   "url": "https://x.ai/bot/YqOw0Zii6QsdBMZ_Wpkhz",
   "addedAt": "2026-10-26",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/metalfox/status/2114341934303195548"
  },
  {
@@ -100660,7 +100660,7 @@
   "category": "engineering",
   "url": "https://x.ai/bot/59E4HVpZ7VlukrgkCDqnf",
   "addedAt": "2026-10-27",
-  "status": "published",
+  "status": "pending",
   "source": "grokbots.best"
  },
  {
@@ -100705,7 +100705,7 @@
   "category": "engineering",
   "url": "https://x.ai/bot/LfbZIobKNU0t35NlE6NnR",
   "addedAt": "2026-10-27",
-  "status": "published",
+  "status": "pending",
   "source": "grokbots.best"
  },
  {
@@ -100720,7 +100720,7 @@
   "category": "research",
   "url": "https://x.ai/bot/Z-MJ5cMI3YSzacMAPaC9P",
   "addedAt": "2026-10-27",
-  "status": "published",
+  "status": "pending",
   "source": "grokbots.best"
  },
  {
@@ -107016,7 +107016,7 @@
   "category": "assistants",
   "url": "https://x.ai/bot/zYSO5H4R8RV_epwnMsvbs",
   "addedAt": "2026-10-28",
-  "status": "published",
+  "status": "pending",
   "source": "https://x.com/MaverickDarby/status/2115173982915973244"
  },
  {
@@ -125264,7 +125264,7 @@
   "slug": "unfollower-bot",
   "name": "Unfollower Bot",
   "builder": {
-   "name": "",
+   "name": "Roll",
    "x": ""
   },
   "tagline": "Shows who does not follow back and clears them ten at a time.",
@@ -126487,7 +126487,7 @@
   "category": "life",
   "url": "https://x.ai/bot/M0dW-dTfTPHxAsFTcZe__",
   "addedAt": "2026-11-08",
-  "status": "published",
+  "status": "pending",
   "features": [
    "Reviews your practice tests",
    "Drills weak topics",
@@ -127055,6 +127055,1384 @@
    "Planning and building",
    "Research and checks",
    "Guided setup"
+  ]
+ },
+ {
+  "slug": "plain-speak",
+  "name": "Plain Speak",
+  "builder": {
+   "name": "Calix",
+   "x": "CaliLumberJack"
+  },
+  "tagline": "Reads a confusing official letter, finds the real deadline, and drafts a plain-English reply.",
+  "description": "Point it at a benefits, insurance or legal letter and it pulls out the decision date, quotes the line the date came from, and checks the message for known scam patterns before you act. Paperwork is filed in a folder you choose and the summary can be read aloud.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/aSGymuyF71CJHDvcpaZfG",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/CaliLumberJack/status/2118448270481756346"
+ },
+ {
+  "slug": "competitor-watch-bot",
+  "name": "Competitor Watch",
+  "builder": {
+   "name": "Calix",
+   "x": "CaliLumberJack"
+  },
+  "tagline": "Weekly diff of a competitor's public pages, with a source link behind every change.",
+  "description": "Each sweep compares a rival's site, pricing page, changelog, blog, job posts and public X activity against the last snapshot, then reports only what actually moved. When nothing changed it stays quiet.",
+  "category": "research",
+  "url": "https://x.ai/bot/iTKQ09ZMtiV9K9JkwCbmA",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/CaliLumberJack/status/2119475042236981267"
+ },
+ {
+  "slug": "bring-a-dish",
+  "name": "Bring a Dish",
+  "builder": {
+   "name": "Erinn",
+   "x": "ErinnFL"
+  },
+  "tagline": "Picks a potluck dish that survives the drive and gets eaten first.",
+  "description": "Tell it the event, the headcount, how far you are travelling and who cannot eat what; it suggests a dish, a make-ahead schedule and packing notes that keep it intact on arrival.",
+  "category": "life",
+  "url": "https://x.ai/bot/YnB0MGcaCbUsIWKMd6oFx",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "ticket-desk-bot",
+  "name": "Ticket Desk",
+  "builder": {
+   "name": "Jonah Anthony",
+   "x": "ALL_Jonah"
+  },
+  "tagline": "Sorts a small support inbox and drafts replies for a human to send.",
+  "description": "Groups incoming tickets by theme and urgency and writes suggested responses, leaving every send, refund and status change to you. Nothing goes out on its own.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/N9wmmZ-EYncLJDllPUyZz",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "spend-sniper",
+  "name": "Spend Sniper",
+  "builder": {
+   "name": "Jonah Anthony",
+   "x": "ALL_Jonah"
+  },
+  "tagline": "Audits paid ad accounts for wasted spend and ranks the fixes worth making.",
+  "description": "Reads your ad platforms for duplicate targeting, dead keywords and budget leaks, then returns a ranked list of changes with the reasoning behind each. It is read-only and never touches bids, budgets or campaigns.",
+  "category": "sales",
+  "url": "https://x.ai/bot/h-pgCvgC_rqX0rTkktpFe",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "spaceship-hosting",
+  "name": "Spaceship Hosting",
+  "builder": {
+   "name": "ecoay",
+   "x": "ecoay"
+  },
+  "tagline": "Manages Spaceship domains, DNS, renewals and hosting from chat, with approval on every change.",
+  "description": "Covers domain records, renewal dates, Hyperlift apps and shared hosting so routine maintenance skips the dashboard crawl. Each edit is shown first and applied only after you approve it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/-pvtsS-vNtsCnB7qfALq5",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "receipt-ledger",
+  "name": "Receipt Ledger",
+  "builder": {
+   "name": "ecoay",
+   "x": "ecoay"
+  },
+  "tagline": "Turns receipt emails into a spending ledger in Google Sheets, with a Monday recap.",
+  "description": "Scans your inbox daily for receipts, logs vendor, amount and category into a sheet, and sends a short weekly summary of where the money went.",
+  "category": "money",
+  "url": "https://x.ai/bot/W7aHTGtfZ0kNlZVGFXYLH",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "revenue-conductor",
+  "name": "Revenue Conductor",
+  "builder": {
+   "name": "Igor",
+   "x": "holt_igor"
+  },
+  "tagline": "Runs the revenue lane from offer to settlement and hands you packets ready to execute.",
+  "description": "Plans the offer, distribution, billing and attribution steps for a launch, then assembles the copy, checklists and tracking each stage needs. It posts, spends and signs nothing without your go-ahead.",
+  "category": "sales",
+  "url": "https://x.ai/bot/lEXSEF7RBIr8fHjFKEJQa",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "google-ads-manager-bot",
+  "name": "Google Ads Manager",
+  "builder": {
+   "name": "Dan",
+   "x": "AdPlugMCP"
+  },
+  "tagline": "Audits Google Ads, mines search terms for negatives, and builds campaigns you approve.",
+  "description": "Works through AdPlug's hosted Google Ads connector to review account structure, surface wasted search terms and assemble new campaigns or reports. Every recommendation waits for your confirmation before anything changes.",
+  "category": "sales",
+  "url": "https://x.ai/bot/EuApBJ4lniTVv-BAth0ru",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "x-algorithm-watch",
+  "name": "X Algorithm Watch",
+  "builder": {
+   "name": "beastnug",
+   "x": "beastnug8"
+  },
+  "tagline": "Turns commits in X's open-source algorithm repo into plain-English posting rules.",
+  "description": "Watches the public repo, explains each meaningful change without the jargon, and checks viral algorithm-hack claims against the actual code. Real shifts get translated into rules you can apply to your own account.",
+  "category": "creative",
+  "url": "https://x.ai/bot/tVJGnGCRNiXKKnR_EKBh3",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/beastnug8/status/2117782275597410337"
+ },
+ {
+  "slug": "wingman-by-kevin",
+  "name": "Wingman",
+  "builder": {
+   "name": "Kevin",
+   "x": "kcmcdonald"
+  },
+  "tagline": "Briefs you before a meetup and drafts the follow-up after.",
+  "description": "Sends a short public-info brief plus a few conversation openers before you walk in, nudges you quietly during the event, and closes with a recap and a follow-up message you can edit and send.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ste7Kh_RShuYRtzzX_Xdh",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "shadow-by-kevin",
+  "name": "Shadow",
+  "builder": {
+   "name": "Kevin",
+   "x": "kcmcdonald"
+  },
+  "tagline": "Private one-line notes during Meet, Zoom and Teams calls; speaks only when called.",
+  "description": "Listens along and messages you the fact you need mid-sentence, the name you forgot, or the number being argued about. It stays silent in the call unless you say its name.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/nA14kdvTueqWdYxy6Gubt",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "jimothy-coin-check",
+  "name": "Jimothy Coin Check",
+  "builder": {
+   "name": "Santa",
+   "x": "JimothyRac"
+  },
+  "tagline": "Paste a Solana token and get a plain-English risk score before you touch it.",
+  "description": "Returns a 0-100 safety score with the biggest red flags spelled out from contract and holder data. Informational only: it never asks for a wallet, key or seed phrase, and cannot trade.",
+  "category": "money",
+  "url": "https://x.ai/bot/RewefuqGZopszv0q3KiM6",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "ballot-scout",
+  "name": "Ballot Scout",
+  "builder": {
+   "name": "Yossi",
+   "x": "josephstayhappy"
+  },
+  "tagline": "Walks your actual local ballot race by race using free public sources.",
+  "description": "Builds a card for each candidate and measure on your ballot from Ballotpedia and Vote411, so you can read down the list instead of researching every line from scratch.",
+  "category": "life",
+  "url": "https://x.ai/bot/tL4Rmvq9J8vcxKjaXz5G_",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/josephstayhappy/status/2117677414293626946"
+ },
+ {
+  "slug": "disco-idea-discovery-memory",
+  "name": "disco",
+  "builder": {
+   "name": "Nate",
+   "x": ""
+  },
+  "tagline": "A memory for tools, takeaways and content ideas that keeps related notes connected.",
+  "description": "Capture a discovery, a podcast takeaway or a half-formed idea in one line; it stores the item in Notion and links it to older notes that touch the same thread.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/9BI5Olk-sHxLnUhlBIZ38",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "gauge-x-payout-tracker",
+  "name": "Gauge",
+  "builder": {
+   "name": "Patrick",
+   "x": "JourneyDeck"
+  },
+  "tagline": "Tracks the X creator payout thresholds daily: verified followers and verified impressions.",
+  "description": "Reports the two numbers that decide payout eligibility each day, then shows which original posts and replies moved them so you can do more of what works. Read-only.",
+  "category": "creative",
+  "url": "https://x.ai/bot/2N6kxsfRQlP_gEqvYhxIM",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "family-logistics",
+  "name": "Family Logistics",
+  "builder": {
+   "name": "Patrick",
+   "x": "JourneyDeck"
+  },
+  "tagline": "Keeps school notices, practices and games on one calendar, briefed the night before.",
+  "description": "Collects the emails and messages that carry dates, puts them on the family calendar correctly, and sends an evening brief so nothing is a surprise at seven in the morning.",
+  "category": "life",
+  "url": "https://x.ai/bot/3bxkmX3cFCcu5-ZpuDSc3",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/JourneyDeck/status/2110476883976462673"
+ },
+ {
+  "slug": "stock-research-by-tyler",
+  "name": "Stock Research",
+  "builder": {
+   "name": "Tyler",
+   "x": "Tylerhi11j"
+  },
+  "tagline": "Beginner-friendly earnings summaries, a daily market note, and options lessons.",
+  "description": "Condenses earnings reports and market moves into short briefs, and teaches options through lessons and quizzes you can work through. Educational, not investment advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/PIU_p6CvpO-6xew6tTeIC",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "static-site-deployer-by-igor",
+  "name": "Static Site Deployer",
+  "builder": {
+   "name": "Igor",
+   "x": "holt_igor"
+  },
+  "tagline": "Builds a simple static site from chat and deploys it to your own Cloudflare Pages or Netlify.",
+  "description": "Drafts the pages, shows you a preview, and pushes the build to an account you control once you sign off.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/VL3ZTAbOtZrxqVXUUDu39",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "running-coach-bot",
+  "name": "Running Coach",
+  "builder": {
+   "name": "Martin",
+   "x": "MyPassion_M9T"
+  },
+  "tagline": "Builds a season plan from your Strava runs and reviews the week every Sunday.",
+  "description": "Reads your real training, sets pace zones from it, and lays out the coming weeks with sessions matched to your current fitness. A Sunday review adjusts the plan.",
+  "category": "life",
+  "url": "https://x.ai/bot/QI0KHubMrxAt3iRtZQZIS",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/MyPassion_M9T/status/2116914605121261631"
+ },
+ {
+  "slug": "movie-quote-inspiration",
+  "name": "Movie Quote Inspiration",
+  "builder": {
+   "name": "Tyler",
+   "x": "Tylerhi11j"
+  },
+  "tagline": "Answers questions and gives advice through film quotes, with clips attached.",
+  "description": "Matches what you are dealing with to a line from a film, links the scene, and can send a scheduled dose of quotes when you want one.",
+  "category": "life",
+  "url": "https://x.ai/bot/IT-UOFV-dyjKiLBj9C6PY",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "lifeboat-bot",
+  "name": "Lifeboat",
+  "builder": {
+   "name": "Terry",
+   "x": "Tchap248"
+  },
+  "tagline": "Keeps a restorable backup of your Grok Bots and their computer files.",
+  "description": "Copies bot configurations and working files into storage you choose, so a broken bot or a wiped computer is not the end of the setup. Restore from the last good copy.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/YiW8gORWnd9lwFL8Cl-10",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/Tchap248/status/2116761054516580513"
+ },
+ {
+  "slug": "home-assistant-butler",
+  "name": "Home Assistant Butler",
+  "builder": {
+   "name": "Martin",
+   "x": "MyPassion_M9T"
+  },
+  "tagline": "Watches Home Assistant, revives devices that drop offline, and runs the vacuum on your word.",
+  "description": "Checks entity states, restarts what has fallen off the network, and queues chores such as a vacuum run once you say yes.",
+  "category": "life",
+  "url": "https://x.ai/bot/YmN90seDnLHs_nZikbpUc",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/MyPassion_M9T/status/2116914605121261631"
+ },
+ {
+  "slug": "botimprover",
+  "name": "BotImprover",
+  "builder": {
+   "name": "Carolina",
+   "x": "CarolinaDill"
+  },
+  "tagline": "Weekly review of your bots that flags loose personas and wasted wake-ups.",
+  "description": "Looks across the bots on your account for vague instructions, routines that wake with nothing to do, and retries that never resolve, then suggests specific edits.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/B82ZGqnqYRYk8hVGvrHyW",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "botdoctor",
+  "name": "BotDoctor",
+  "builder": {
+   "name": "John",
+   "x": "johnp_creates"
+  },
+  "tagline": "Grades your bot setup like a patient chart, with a shareable image and one-tap fixes.",
+  "description": "Scores usage, routines and connectors, draws the result as a chart you can share, and offers the fixes it recommends before you apply them.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/v_nXdMs_P3vL7RtMd95KB",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/johnp_creates/status/2117047204473176186"
+ },
+ {
+  "slug": "bench-coach",
+  "name": "Bench Coach",
+  "builder": {
+   "name": "Daniel Wilson",
+   "x": "_DanielWilson"
+  },
+  "tagline": "Fantasy lineup, waiver and trade calls scored to your Yahoo league settings.",
+  "description": "Reads your league's scoring and roster rules, then proposes starts, pickups and trades with the reasoning shown. Every move is drafted for you to approve.",
+  "category": "life",
+  "url": "https://x.ai/bot/5patx2eCnpNfJ2VMWN28y",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "usage-guardian-by-brandon",
+  "name": "Usage Guardian",
+  "builder": {
+   "name": "Brandon Barton",
+   "x": "BrandonBarton26"
+  },
+  "tagline": "Forecasts your bot run-out date and catches runaway loops before they burn a week.",
+  "description": "Checks usage nightly, estimates when your allowance runs out and flags spikes or loops; bigger jobs get a cost check before you start them. Read-only until you approve a fix.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/pl01pkvfjzTws7ObUfPYe",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "printsmith",
+  "name": "PrintSmith",
+  "builder": {
+   "name": "Salty FL Cracker",
+   "x": "the_seth_ard"
+  },
+  "tagline": "Turns a plain-language idea into a printable 3D model, with STL and editable source.",
+  "description": "Models the object in OpenSCAD, checks it for printability, and returns colour previews, slice-ready files, a time estimate and the source you can edit.",
+  "category": "creative",
+  "url": "https://x.ai/bot/655ab6yqLkZd3Yt1R139B",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "gmail-assistant",
+  "name": "Gmail Assistant",
+  "builder": {
+   "name": "JeebsTX",
+   "x": "JeebsTX"
+  },
+  "tagline": "Daily Gmail brief, spam cleanup, auto-labels and reply drafts that never auto-send.",
+  "description": "Summarises what needs you, sorts noise into labels, watches for security alerts and finds recurring subscriptions worth cancelling. Drafts wait in the inbox for your send.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/R1VmETValKUAUmG7NlKJI",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "game-sprite-designer-by-rachel",
+  "name": "Game Sprite Designer",
+  "builder": {
+   "name": "Rachel V",
+   "x": "RachelVT42"
+  },
+  "tagline": "Guides beginners from character idea to game-ready sprite.",
+  "description": "Talks through silhouette, palette and animation basics, then helps produce original characters, items and environments sized for a real game.",
+  "category": "creative",
+  "url": "https://x.ai/bot/ZrYfogVbQsk8A9EOFYlSL",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "chief-strategy-officer-by-rachel",
+  "name": "Chief Strategy Officer",
+  "builder": {
+   "name": "Rachel V",
+   "x": "RachelVT42"
+  },
+  "tagline": "Maps the work you have and picks three priorities for the next 90 days.",
+  "description": "Takes an honest inventory of what you are running as a solo builder or small team, cuts the list, and turns the survivors into a quarter plan with first steps.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Om5RFwN2ZEyZwstx7dgGX",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "charter-builder",
+  "name": "Charter Builder",
+  "builder": {
+   "name": "Dave Gambrill",
+   "x": "gambrill"
+  },
+  "tagline": "Turns a rough bot idea into a written charter: role, rules, routine and result.",
+  "description": "Works through the Six R's with you, then writes the document both you and the bot work from, so the bot has boundaries before it has autonomy.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/d9ZUeMEuY14IS4izBWtXX",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/gambrill/status/2116623129908817947"
+ },
+ {
+  "slug": "cto-hands-on",
+  "name": "CTO",
+  "builder": {
+   "name": "Trond Eirik Haavarstein",
+   "x": "xenappblog"
+  },
+  "tagline": "Hands-on engineer for migrations, DNS and deploys that reads before it changes anything.",
+  "description": "Works through site and server moves, hosting changes and deploy failures step by step, and asks before anything irreversible. Each fix is confirmed with a live check rather than assumed.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/n0XcRjm9wtwl_UKU4azBE",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "bricksmith",
+  "name": "BrickSmith",
+  "builder": {
+   "name": "Salty FL Cracker",
+   "x": "the_seth_ard"
+  },
+  "tagline": "Photo of loose bricks in, kid-friendly build instructions out.",
+  "description": "Spread your bricks in one layer, photograph them, and it returns build ideas with step-by-step directions a child can follow. Independent of the LEGO Group.",
+  "category": "life",
+  "url": "https://x.ai/bot/WYvOYF_brlFK8Z7lae69m",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "blockato-blockbench",
+  "name": "Blockato",
+  "builder": {
+   "name": "Emilio",
+   "x": "EmilioSchwaiger"
+  },
+  "tagline": "Builds and animates Minecraft-style Blockbench models from a description.",
+  "description": "Produces low-poly blocks, items, mobs and player cosmetics, hand-textures them, and shows rough options before handing over the finished model files.",
+  "category": "creative",
+  "url": "https://x.ai/bot/LtV1nNOz3yPYwe8bRQwxe",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "technical-writer-by-zachary",
+  "name": "Technical Writer",
+  "builder": {
+   "name": "Zachary",
+   "x": "MrPresidentAria"
+  },
+  "tagline": "Turns messy notes into docs, guides and decks, checked against your source.",
+  "description": "Restructures transcripts and rough drafts into clean documents, then verifies each claim against the material you supplied instead of filling gaps with invention.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_RX4F6T9uXOLFf2cDs3gJ",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "systems-administrator-by-zachary",
+  "name": "Systems Administrator",
+  "builder": {
+   "name": "Zachary",
+   "x": "MrPresidentAria"
+  },
+  "tagline": "Keeps a shared bot computer healthy when many bots and builds run on it.",
+  "description": "Monitors load and disk, gives a green, amber or red status, clears space that is safe to clear, and recovers from overload without losing work in progress.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/_ewvvzuxxsrz_kanwZoDC",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "stewart-hours",
+  "name": "Stewart Hours",
+  "builder": {
+   "name": "TNVOLMAN",
+   "x": "TNVOLMAN"
+  },
+  "tagline": "Finds the double entry and chasing that eats church office hours, one fix at a time.",
+  "description": "Looks at how forms, approvals and records actually flow through the office, then drafts a single low-risk change with the steps to test it.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/hUttoVQ9xM6Xu-TB_Jo6x",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "risen-ray",
+  "name": "Risen Ray",
+  "builder": {
+   "name": "TNVOLMAN",
+   "x": "TNVOLMAN"
+  },
+  "tagline": "Forecasts attendance and volunteer gaps weeks before the big Sunday.",
+  "description": "Projects check-ins and volunteer coverage from past services so Easter, Christmas and holiday weekends are staffed before the week they happen.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Y4GcysADVdsIo0ot3USe2",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "post-pal",
+  "name": "Post Pal",
+  "builder": {
+   "name": "Jim",
+   "x": "JimothyRac"
+  },
+  "tagline": "Turns what is happening at your business into captions, images and memes in your voice.",
+  "description": "Built for owners with no marketing budget: give it the news of the week and it drafts posts with a clear call to action, then you pick and publish.",
+  "category": "creative",
+  "url": "https://x.ai/bot/txx4gqXyKsWzpjUR1JEOb",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "fleet-medic-by-john",
+  "name": "Fleet Medic",
+  "builder": {
+   "name": "John",
+   "x": "iamtheh0n3yp0t"
+  },
+  "tagline": "Morning health board for every bot you run, plus a weekly savings list.",
+  "description": "Checks each bot's recent runs, flags the red and amber ones, and totals the usage you could cut. It proposes fixes and leaves the changes to you.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Ygc235she7PVtyBIOpmBF",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "x-account-health",
+  "name": "X Account Health",
+  "builder": {
+   "name": "Jay",
+   "x": "JasonMyer"
+  },
+  "tagline": "Daily follower report that flags spam, impersonators and reach risks.",
+  "description": "Tracks follower movement, spots accounts that look automated or fake, and warns when posting pace or patterns could hurt reach. It reports only and takes no action on your account.",
+  "category": "creative",
+  "url": "https://x.ai/bot/LbkRAC0ma_LJ7lE_Gy5oh",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/JasonMyer/status/2115839300986438071"
+ },
+ {
+  "slug": "tinker-tom",
+  "name": "Tinker Tom",
+  "builder": {
+   "name": "Jim",
+   "x": "jimaggie"
+  },
+  "tagline": "Takes an invention idea to a design and prototype, with a prior-art check first.",
+  "description": "Sketches the concept, checks for similar patents and existing products, and outlines what a first prototype would need.",
+  "category": "research",
+  "url": "https://x.ai/bot/jzXeYcCP2fU5YhoQhCWcq",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "template-bot-by-john",
+  "name": "Template Bot",
+  "builder": {
+   "name": "John",
+   "x": "iamtheh0n3yp0t"
+  },
+  "tagline": "Plans, formats and drafts the posts that promote your Grok Bot templates.",
+  "description": "Schedules a promotion rhythm, formats each post for X, and writes the copy; you press Post.",
+  "category": "creative",
+  "url": "https://x.ai/bot/lnjB2Oq1lQo6ptthV6yC3",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/iamtheh0n3yp0t/status/2115938371050614976"
+ },
+ {
+  "slug": "chief-of-staff-skipper",
+  "name": "Chief of Staff",
+  "builder": {
+   "name": "SKIPPER",
+   "x": "SKIPPER_BTCMSTR"
+  },
+  "tagline": "Family-office style investing partner: scoreboards, spoken briefs, alerts only when something moves.",
+  "description": "Built for people who already run their own models: it keeps scheduled scoreboards, reads out a short spoken brief, and stays quiet unless something material changes.",
+  "category": "money",
+  "url": "https://x.ai/bot/LG655EEzjQKvr4SFfOTRp",
+  "addedAt": "2026-11-09",
+  "status": "published",
+  "source": "https://x.com/SKIPPER_BTCMSTR/status/2099912086956421366"
+ },
+ {
+  "slug": "rival-sweep",
+  "name": "Rival Sweep",
+  "builder": {
+   "name": "Jonah Anthony",
+   "x": "ALL_Jonah"
+  },
+  "tagline": "Watches your named competitors and reports launches, pricing and messaging changes with sources.",
+  "description": "Give it a list of competitors and it checks their sites and channels for changes in what they launch, charge and say, then sends a brief where every item carries the link it came from. Built for founders and marketers watching a crowded niche.",
+  "category": "sales",
+  "url": "https://x.ai/bot/0IzcVGP4FtY9zVuOf9ECC",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "rep-film",
+  "name": "Rep Film",
+  "builder": {
+   "name": "Jonah Anthony",
+   "x": "ALL_Jonah"
+  },
+  "tagline": "Turns a recorded sales call into timestamped coaching notes for the rep's next call.",
+  "description": "Feed it a call recording or transcript and it returns notes pinned to timestamps, pointing at the moments a rep should keep or change next time. Aimed at reps, founder-sellers and sales managers who review calls.",
+  "category": "sales",
+  "url": "https://x.ai/bot/QsxNl31chLrZVXMBcfdpg",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "multi-gmail",
+  "name": "Multi Gmail",
+  "builder": {
+   "name": "ecoay",
+   "x": "ecoay"
+  },
+  "tagline": "Connects every Gmail inbox you own so any bot can search all of them in one query.",
+  "description": "A connector bot that links several Gmail accounts at once, so your other bots can search across all inboxes instead of one at a time. Self-hosted on your own Vercel and read-only by design.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/UQzfeiSuWrVxAXnR4b6jP",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "family-tree-detective",
+  "name": "Family Tree Detective",
+  "builder": {
+   "name": "Kevin McDonald",
+   "x": "kcmcdonald"
+  },
+  "tagline": "Builds and maintains your family tree while searching archives, newspapers and county records.",
+  "description": "A genealogy researcher that grows your family tree from FamilySearch, the National Archives, newspaper archives and county records, and keeps the tree updated as new documents turn up.",
+  "category": "life",
+  "url": "https://x.ai/bot/VUfsbMkwIy1P_yrOxWaZT",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "bot-trust-builder",
+  "name": "Bot Trust Builder",
+  "builder": {
+   "name": "Kevin McDonald",
+   "x": "kcmcdonald"
+  },
+  "tagline": "Coaches individuals and businesses on using AI bots safely, starting from what they actually do.",
+  "description": "Opens by asking whether you are an individual or a business and what you use bots for, then builds a safety setup around those answers instead of generic advice.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/a_7jq2bwGGKWTBqaGQRqM",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "wildfire-smoke-claim-guide",
+  "name": "Wildfire Smoke Claim Guide",
+  "builder": {
+   "name": "Kevin McDonald",
+   "x": "kcmcdonald"
+  },
+  "tagline": "Walks a policyholder through a wildfire smoke or ash damage claim, document by document.",
+  "description": "Guides the claim step by step: documenting soot and odour damage, keeping cleaning and testing records, tracking living expense receipts, and assembling the paperwork an insurer asks for.",
+  "category": "life",
+  "url": "https://x.ai/bot/fP6JPcQrkApF4ajxIYM-X",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "echo-audience-voice",
+  "name": "Echo · Audience & Voice",
+  "builder": {
+   "name": "Patrick Stewart",
+   "x": "JourneyDeck"
+  },
+  "tagline": "Reads your X history to show who really listens, what lands, and how you sound at your best.",
+  "description": "Pulls your X history and stats into one living page that maps the audience actually reading you, the topics and formats that travel, and the voice that works. Built for creators deciding what to post next.",
+  "category": "creative",
+  "url": "https://x.ai/bot/2ZbjxQAxHPOBnKO94a0YL",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "spaces-phone-line",
+  "name": "Spaces Phone Line",
+  "builder": {
+   "name": "Igor Holt",
+   "x": "holt_igor"
+  },
+  "tagline": "Plans and sets up a call-in line so X Spaces listeners can join or ask questions by phone.",
+  "description": "Works out what a call-in line needs for your Spaces and sets it up on accounts and numbers you control, so listeners can dial in and ask questions live.",
+  "category": "creative",
+  "url": "https://x.ai/bot/UyXfJR6mI8-kBE8Vm60wg",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "shirty",
+  "name": "Shirty",
+  "builder": {
+   "name": "Jonah",
+   "x": "ALL_Jonah"
+  },
+  "tagline": "Turns shirt ideas into print-on-demand products with a trademark check on every phrase.",
+  "description": "Takes a shirt concept into a Printify pop-up listing, runs a trademark check on the wording, and drafts the X posts to promote it, all on your own store and accounts.",
+  "category": "money",
+  "url": "https://x.ai/bot/iND3jNLfzk84Qs3qvUv0A",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "literature-inspiration",
+  "name": "Literature Inspiration",
+  "builder": {
+   "name": "Tyler Hill",
+   "x": "Tylerhi11j"
+  },
+  "tagline": "Answers questions and gives advice through quotes from literature, naming book and author.",
+  "description": "Responds with lines from well-known books and ties the advice to the passage, citing title and author each time. Also sends a couple of quotes a week.",
+  "category": "life",
+  "url": "https://x.ai/bot/k4rBSQV28iL-9Hh1748R2",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "trying-to-be-like-jesus",
+  "name": "I Am Trying To Be Like Jesus",
+  "builder": {
+   "name": "Tyler Hill",
+   "x": "Tylerhi11j"
+  },
+  "tagline": "Answers and advises in the spirit of Jesus, drawing on the Sermon on the Mount.",
+  "description": "A gentle faith guide that answers questions and gives advice using Jesus's own words from the Sermon on the Mount (KJV) and the accounts of how he treated people.",
+  "category": "life",
+  "url": "https://x.ai/bot/I5XoF4H0buRMi0OAfQJZt",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "device-repair-expert",
+  "name": "Device Repair Expert",
+  "builder": {
+   "name": "Igor Holt",
+   "x": "holt_igor"
+  },
+  "tagline": "Diagnoses hardware faults from software and firmware clues, cheapest check first.",
+  "description": "For Google Home and Nest, Pixel and iOS devices, it reads the symptoms the software reports, narrows down likely hardware faults, and walks through repairs starting with the lowest-cost checks.",
+  "category": "life",
+  "url": "https://x.ai/bot/XufJcCAZTyM7Y_Bf6yzM0",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "chief-financial-officer",
+  "name": "Chief Financial Officer",
+  "builder": {
+   "name": "Rachel V",
+   "x": "RachelVT42"
+  },
+  "tagline": "A practical CFO for solo builders and small teams: one ledger, runway, and AI spend caps.",
+  "description": "Keeps a single simple ledger for a small operation, tracks runway and AI tool spend against caps you set, and flags costs that are drifting before they become a surprise.",
+  "category": "money",
+  "url": "https://x.ai/bot/EYgMB4G4YlGfCfDBegFH7",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "researcher-zachary",
+  "name": "Researcher",
+  "builder": {
+   "name": "Zachary",
+   "x": "MrPresidentAria"
+  },
+  "tagline": "Digs into questions through primary sources and separates fact from inference.",
+  "description": "Works a question down through primary sources rather than summaries, labels what is documented fact and what is inference, and returns a short answer backed by a findings list.",
+  "category": "research",
+  "url": "https://x.ai/bot/vp-_wWBvtY_yZn6HuL6qO",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "pokewatch",
+  "name": "PokéWatch",
+  "builder": {
+   "name": "Santa",
+   "x": ""
+  },
+  "tagline": "Tracks Pokémon TCG sets, restocks, games and merch drops near you in a daily digest.",
+  "description": "Watches trading card sets and restock windows, game releases, Pokémon GO events and merch drops in your area, then sends a short daily digest with the items worth acting on.",
+  "category": "life",
+  "url": "https://x.ai/bot/ATjq7bRMgiCavvZGsMqOn",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "playtester",
+  "name": "Playtester",
+  "builder": {
+   "name": "Zachary",
+   "x": "MrPresidentAria"
+  },
+  "tagline": "Plays a game build cold and reports where a first-time player gets confused, bored or delighted.",
+  "description": "A fresh-eyes playtester that opens your build like a stranger who just clicked a link, plays through, and reports confusion points, dull stretches, delight and friction in the order a new player meets them.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/Yd06ihO8TgHpEfLBxmmLf",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "pew-purpose-paul",
+  "name": "Pew-Purpose Paul",
+  "builder": {
+   "name": "TNVOLMAN",
+   "x": "TNVOLMAN"
+  },
+  "tagline": "Tracks a church's guest-to-leader pipeline with evidence, conversion rates and a stalled list.",
+  "description": "Follows people from guest to connected to group to serving to leading, counting each step from real records rather than impressions, and surfaces the ones who stalled along with the shepherds responsible.",
+  "category": "life",
+  "url": "https://x.ai/bot/lKwSCv0omtvWsNHvCJQQS",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "paper-trail-pete",
+  "name": "Paper Trail Pete",
+  "builder": {
+   "name": "TNVOLMAN",
+   "x": "TNVOLMAN"
+  },
+  "tagline": "Keeps the safety records churches are asked for, from child check-in to AED checks.",
+  "description": "Maintains the paper trail insurers ask a church for: child check-in records, two-adult rule compliance, offering counts and AED checks, and tracks every finding through to closure.",
+  "category": "life",
+  "url": "https://x.ai/bot/DVF0NIE0ktoF5qgz7-ECa",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "macro-desk",
+  "name": "Macro Desk",
+  "builder": {
+   "name": "Santa",
+   "x": ""
+  },
+  "tagline": "Plain-English macro briefings for traders: a weekday morning brief and a midday alert.",
+  "description": "Summarises the Fed, CPI, jobs and GDP prints, yields, mortgage rates and oil in plain language each weekday morning, then sends a midday alert when something moves.",
+  "category": "money",
+  "url": "https://x.ai/bot/utOm6FqZmF9MglT-cNj3N",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "kids-building-craft-coach",
+  "name": "Kids Building and Craft Coach",
+  "builder": {
+   "name": "Rachel V",
+   "x": "RachelVT42"
+  },
+  "tagline": "A building and craft coach for parents making things with kids aged three to nine.",
+  "description": "Turns cardboard, blocks and craft supplies into guided projects for a grown-up and a child aged 3-9 sitting together, with the adult holding the account and running each step.",
+  "category": "life",
+  "url": "https://x.ai/bot/kW_TG3B0lCCryQrRfYDMF",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "small-business-books",
+  "name": "Small Business Books",
+  "builder": {
+   "name": "Oliver Parsons",
+   "x": "oliverparsons"
+  },
+  "tagline": "Keeps small-business books by sorting bank, card and receipt spending into a ledger sheet.",
+  "description": "Tags business spending from bank and card feeds and email receipts into a Google Sheet ledger, keeps the categories consistent, and tracks what is still missing at filing time.",
+  "category": "money",
+  "url": "https://x.ai/bot/NuK6b7STdA3VWRLgvTD_T",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "proofcheck",
+  "name": "ProofCheck",
+  "builder": {
+   "name": "John P",
+   "x": ""
+  },
+  "tagline": "Checks whether a viral photo or screenshot is real, recycled, doctored or AI-generated.",
+  "description": "Examines viral X photos, breaking-news images and screenshots and returns a clear verdict: authentic, recirculated from an older event, edited, or generated, with the evidence behind the call.",
+  "category": "research",
+  "url": "https://x.ai/bot/GQGgQKHphrXUjK0NxeZ9L",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "flip-desk",
+  "name": "Flip Desk",
+  "builder": {
+   "name": "Oliver Parsons",
+   "x": "oliverparsons"
+  },
+  "tagline": "Resale assistant that identifies collectibles, prices them from sold comps and picks the platform.",
+  "description": "Identifies cards, figures and other collectibles, prices them from actual sold listings rather than asking prices, and recommends which platform to list on.",
+  "category": "money",
+  "url": "https://x.ai/bot/h8RK6V_lNMKW_w_qrgeDl",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "commercebook-agentic-seller",
+  "name": "CommerceBook Agentic Seller",
+  "builder": {
+   "name": "Thrive 3PL",
+   "x": ""
+  },
+  "tagline": "Lists your products on an agent-run marketplace and handles buyer questions as they arrive.",
+  "description": "Publishes your products on CommerceBook, a marketplace where AI agents shop and sell on behalf of people and businesses, and stays on top of buyer messages and listing updates.",
+  "category": "sales",
+  "url": "https://x.ai/bot/AWIn34bEoBZF5EE9kkHxl",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "chefanny",
+  "name": "Chefanny",
+  "builder": {
+   "name": "D'Artagnan",
+   "x": ""
+  },
+  "tagline": "Home cooking and cocktail coach with food-science depth across several cuisines.",
+  "description": "Teaches home cooking and classic cocktails across Western, Eastern, German, French, Mediterranean and Italian kitchens, explaining the food science behind why a technique works.",
+  "category": "life",
+  "url": "https://x.ai/bot/6bN54c4SULd6N37G4-V0M",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "career-coach",
+  "name": "Career Coach",
+  "builder": {
+   "name": "Ben Lawson",
+   "x": "beardboss20"
+  },
+  "tagline": "Runs verified job sweeps against your bar and scores each role Strong Keep, Soft Keep or Kill.",
+  "description": "Sweeps live roles against criteria you define, confirms the listing is still open, and scores each one Strong Keep, Soft Keep or Kill so the shortlist stays honest.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ImiQvcR_7HnEJ6thNUHAN",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "arxiv-publisher",
+  "name": "arXiv Publisher",
+  "builder": {
+   "name": "Jefferson Nunn",
+   "x": "mindragon"
+  },
+  "tagline": "Turns research notes or a draft into an arXiv-ready paper with checks before submission.",
+  "description": "Takes notes, code or a draft and shapes it into an arXiv submission: pre-flight checks, review passes, reproducibility checks, the source bundle and the submission steps.",
+  "category": "research",
+  "url": "https://x.ai/bot/wX0Zczy-NOxZ0Dw_-SH1j",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "market-microstructure-tutor",
+  "name": "Market Microstructure Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Seven-lesson market microstructure course with quizzes and drills on your weak spots.",
+  "description": "A placement chat sets the level, then seven lessons cover order types, maker versus taker, why price moves, spreads and liquidity, stop hunts, liquidation cascades, market makers and order flow. Remembers progress, quizzes each lesson, and keeps drilling weak spots afterwards. Chart reviews are marked as not financial advice, with no buy or sell calls.",
+  "category": "money",
+  "url": "https://x.ai/bot/XpegryuVV5LkZ_MKt_U6E",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "ichimoku-cloud-tutor",
+  "name": "Ichimoku Cloud Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Beginner-to-expert Ichimoku Cloud course with lessons, quizzes, a final exam and chart reviews.",
+  "description": "Starts with a placement chat, then teaches the Ichimoku Cloud through lessons with check questions, quizzes and a final exam, saving progress between sessions. Charts you share get reviewed, always signposted as not financial advice and with no buy or sell calls.",
+  "category": "money",
+  "url": "https://x.ai/bot/5Jjrh3MbrsW-svybwPKEq",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "first-trouble-area-tutor",
+  "name": "First Trouble Area Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Teaches the First Trouble Area through five lessons, an exercise and chart reviews.",
+  "description": "A placement chat, five lessons, a practical exercise, quizzes and a final exam on the First Trouble Area, then ongoing practice, with the charts you share reviewed through the same lens. Marked as not financial advice, with no calls or predictions.",
+  "category": "money",
+  "url": "https://x.ai/bot/-O8mW5H0teLGgF1fq17Li",
+  "addedAt": "2026-11-09",
+  "status": "published"
+ },
+ {
+  "slug": "bot-usage-auditor",
+  "name": "Bot Usage Auditor",
+  "builder": {
+   "name": "HeyYoGB",
+   "x": ""
+  },
+  "tagline": "Audits where your bot fleet's weekly usage goes.",
+  "description": "A quota auditor for a team of bots: it reviews how each bot spends weekly usage, flags routines that run too often or repeat work another bot already does, and suggests which ones to keep, slow down or drop.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/q3SSgNdHtUnhfepCkT_h7",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "features": [
+   "Usage audit",
+   "Duplicate work flags",
+   "Keep or drop advice"
+  ],
+  "source_post_url": "https://grokbotdaily.com/t/bot-usage-auditor"
+ },
+ {
+  "slug": "cosmic-daily",
+  "name": "Cosmic Daily",
+  "builder": {
+   "name": "TitaniumTomP",
+   "x": ""
+  },
+  "tagline": "A daily space digest delivered at an hour you choose.",
+  "description": "Sends one space item a day at your chosen time: NASA's picture of the day explained in plain words, followed by three short headlines from the space press.",
+  "category": "life",
+  "url": "https://x.ai/bot/PC6RgL7yGOil4Da64i-MG",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "features": [
+   "Picture of the day",
+   "Three headlines",
+   "Chosen delivery time"
+  ],
+  "source_post_url": "https://grokbotdaily.com/t/cosmic-daily"
+ },
+ {
+  "slug": "list-shield",
+  "name": "List Shield",
+  "builder": {
+   "name": "patriot_savvy",
+   "x": ""
+  },
+  "tagline": "Checks the X lists you appear on and blocks hostile list owners.",
+  "description": "A daily guard for your X account: it reviews the lists you have been added to, blocks the accounts that created hostile ones, and can clear trolls out of your replies when you ask.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/-6byQcFlQaT89nRYbPwkk",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "features": [
+   "Daily list check",
+   "Hostile owner blocks",
+   "Reply cleanup"
+  ],
+  "source_post_url": "https://grokbotdaily.com/t/list-shield"
+ },
+ {
+  "slug": "device-health-check",
+  "name": "Device Health Check Bot",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "Scans your phone and laptop, then lists fixes in priority order.",
+  "description": "A device checkup for phones and computers: it looks for security, privacy, storage and speed problems, ranks the fixes by urgency, and applies a change only after you approve it. It never touches passcodes or recovery keys.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "features": [
+   "Security and privacy scan",
+   "Storage and speed check",
+   "Approval before changes"
+  ],
+  "source_post_url": "https://grokbotdaily.com/t/device-health-check-bot"
+ },
+ {
+  "slug": "gift-detective",
+  "name": "Gift Detective",
+  "builder": {
+   "name": "Bro7388",
+   "x": ""
+  },
+  "tagline": "Reads someone's public X posts to pick gifts inside your budget.",
+  "description": "A gift finder: give it a person's handle and a budget, and it reads their public posts for hints, then suggests up to three presents with a shop link, the price it saw and the post behind each idea.",
+  "category": "life",
+  "url": "https://x.ai/bot/s9LmRBYDJNp9UctFu2qi7",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "features": [
+   "Budget-aware picks",
+   "Shop links and prices",
+   "Post evidence"
+  ],
+  "source_post_url": "https://grokbotdaily.com/t/gift-detective"
+ },
+ {
+  "slug": "any-video-into-a-magazine",
+  "name": "Any Video Into A Magazine",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "Turns the YouTube channels and podcasts you follow into a weekly magazine issue you can read in minutes.",
+  "description": "Watches the channels and podcasts you pick and turns each new episode into a magazine feature: stills pulled from the video with captions, quotes transcribed word for word with a link to the exact moment, an EPUB for an e-reader and a newsletter in your inbox. Every story credits and links back to the creator.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Stills with captions",
+   "Quotes linked to the moment",
+   "EPUB and newsletter output"
+  ]
+ },
+ {
+  "slug": "last-words",
+  "name": "Last Words",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "Helps a family after a loss draft an obituary, eulogy, memorial page or thank-you notes.",
+  "description": "A writing companion for the weeks after a death. It asks one question at a time and turns the stories, memories and photos you give it into an obituary, a eulogy, a memorial page or thank-you notes, without inventing details. It only writes drafts; what gets shared stays with the family.",
+  "category": "life",
+  "url": "https://x.ai/bot/ymyxqGAxh1mk593ld3KW9",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks"
+ },
+ {
+  "slug": "help-i-havent-checked-in",
+  "name": "Help, I Haven't Checked In",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": ""
+  },
+  "tagline": "A trip check-in fail-safe: miss your check-in time and it alerts your list with your route.",
+  "description": "Leave your route and a check-in time before a hike, paddle, backcountry drive or solo trip. If you miss it, the bot calls, emails and texts the people you listed with a notice you approved in advance, plus a PDF trip report with a route map. It is not a rescue service and makes no claim to be one.",
+  "category": "life",
+  "url": "https://x.ai/bot/iGiD-76C2lv6MB1otClec",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Calls, emails and texts your list",
+   "Pre-approved notice wording",
+   "PDF trip report with route map"
+  ]
+ },
+ {
+  "slug": "candlestick-retests-tutor",
+  "name": "Candlestick Retests Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "A course on candlestick highs and lows, swing failures and multi-candle failed breaks.",
+  "description": "Teaches how price behaves around candlestick highs and lows, swing failure patterns and failed breaks that span several candles, for a complete beginner onward. A placement chat sets the level, then lessons with check questions, quizzes and a final exam, with progress saved between sessions. Chart reviews stay commentary and carry no buy or sell calls.",
+  "category": "money",
+  "url": "https://x.ai/bot/jtVHTeAL9lhQX_SDcKlcY",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Placement chat and lessons",
+   "Quizzes and final exam",
+   "Chart reviews, never buy/sell calls"
+  ]
+ },
+ {
+  "slug": "overthrow-for-stop-losses-tutor",
+  "name": "Overthrow For Stop Losses Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Teaches the Overthrow approach to placing stop losses, beginner to expert.",
+  "description": "A structured course on the Overthrow method for stop placement. It opens with a placement chat, then runs lessons with check questions, quizzes and a final exam, saving progress so you can resume later. Chart reviews are commentary only, with no buy or sell calls.",
+  "category": "money",
+  "url": "https://x.ai/bot/QaLR9fBLA3D-n4Dl59CY_",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Placement chat and lessons",
+   "Quizzes and final exam",
+   "Progress saved"
+  ]
+ },
+ {
+  "slug": "retests-tutor",
+  "name": "Retests Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Course on telling breakouts from retests, beginner to expert.",
+  "description": "A tutor for the difference between a breakout and a retest and what each does after the break. Placement chat first, then lessons with check questions, quizzes and a final exam, resuming where you stopped. Separate from the bot's candlestick retest course, and its chart commentary is not advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/WzmucCA87dDNLDGwGScfU",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Placement chat and lessons",
+   "Quizzes and final exam",
+   "Chart reviews, never buy/sell calls"
+  ]
+ },
+ {
+  "slug": "time-frames-tutor",
+  "name": "Time Frames Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Teaches multi-timeframe analysis from beginner level, with quizzes and a final exam.",
+  "description": "A placement chat establishes where you are, then lessons walk through reading several timeframes at once, with check questions and quizzes between them, a final exam and saved progress. Chart reviews are commentary only.",
+  "category": "money",
+  "url": "https://x.ai/bot/NtCP4XuqjTYffwCGgM9cN",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Placement chat and lessons",
+   "Quizzes and final exam",
+   "Progress saved"
+  ]
+ },
+ {
+  "slug": "daily-open-trade-strategy-tutor",
+  "name": "Daily Open Trade Strategy Tutor",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "One strategy taught end to end: the Daily Open, from placement chat to final exam.",
+  "description": "Teaches the Daily Open trade strategy from first principles: a placement chat, lessons with check questions, quizzes and a final exam, with progress saved between sessions. Chart reviews are commentary and carry no buy or sell calls.",
+  "category": "money",
+  "url": "https://x.ai/bot/r7qPxokwbfNMIa0R45mh-",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Placement chat and lessons",
+   "Quizzes and final exam",
+   "Chart reviews, never buy/sell calls"
+  ]
+ },
+ {
+  "slug": "video-director",
+  "name": "Video Director",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Turns a product spec into a 30-60 second launch video plan, shot list and voiceover script.",
+  "description": "Give it the product spec and the user pain points and it returns a launch video plan: concept, shot list, voiceover script and a 15-second cut-down for X. It plans only and never films or publishes anything.",
+  "category": "creative",
+  "url": "https://x.ai/bot/yPkcpwD13HI-ka3PuPODS",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Concept and shot list",
+   "Voiceover script",
+   "15s cut-down plan"
+  ]
+ },
+ {
+  "slug": "bp26-side-events-autoregister",
+  "name": "BP26 Side Events Autoregister",
+  "builder": {
+   "name": "Matt",
+   "x": ""
+  },
+  "tagline": "Registers you for Solana Breakpoint 2026 side events on Luma using saved form answers.",
+  "description": "Works through the Solana Breakpoint 2026 London side events listed on Luma, signs you up with the answers you saved, skips the paid ones and checks three times a day for new listings. Useful only for that conference and that window.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/7HzGMnst8L3s0FFCagfWR",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Saved form answers",
+   "Skips paid events",
+   "Rechecks three times a day"
+  ]
+ },
+ {
+  "slug": "local-events-roundup",
+  "name": "Local Events Roundup",
+  "builder": {
+   "name": "starfire",
+   "x": ""
+  },
+  "tagline": "A weekly roundup of nearby concerts, theatre, exhibitions and films with verified links.",
+  "description": "Pick the kinds of events you care about and it sends a weekly roundup of what is on near you with checked links, plus optional reminders on the day. Covers concerts, festivals, theatre, museum exhibitions, seasonal outings, new films and motorsport.",
+  "category": "life",
+  "url": "https://x.ai/bot/906iGrd94sK-sgWhPQw79",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+  "features": [
+   "Weekly digest",
+   "Verified links",
+   "Day-of reminders"
   ]
  }
 ]
