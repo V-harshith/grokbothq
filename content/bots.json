@@ -129229,5 +129229,230 @@
   "addedAt": "2026-11-10",
   "status": "published",
   "source": ""
+ },
+ {
+  "slug": "spam-call-scrubber-11",
+  "name": "Spam-Call Scrubber",
+  "builder": {
+   "name": "Thomas Juranek",
+   "x": ""
+  },
+  "tagline": "Opts your number out of data brokers, then confirms the replies and re-checks later.",
+  "description": "Takes one phone number, finds it on people-search and data-broker sites, files the opt-out forms, finishes the confirmation emails, and re-checks each removal on a schedule you pick. Only asks for the details the removals actually need.",
+  "category": "life",
+  "url": "https://x.ai/bot/q34Uw0YlLx3ypGqj_bEu7",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/thomasjuranek/status/2119948539006771550"
+ },
+ {
+  "slug": "splits-agent-wallet",
+  "name": "Splits Agent Wallet",
+  "builder": {
+   "name": "Zach Herring",
+   "x": ""
+  },
+  "tagline": "Three-level agent for a Splits Treasury: read balances, propose payments, or spend from a funded budget.",
+  "description": "Sits on top of a Splits Treasury account and works at a level you choose: watching balances and activity, keeping books and drafting transactions for you to sign, or paying from a separate budget account you fund. The spend level never touches the main treasury.",
+  "category": "money",
+  "url": "https://x.ai/bot/IJZRIkuvNscDGxH1CiClo",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/zherring/status/2119953418731323650"
+ },
+ {
+  "slug": "call-around",
+  "name": "Call Around",
+  "builder": {
+   "name": "Ryan T",
+   "x": ""
+  },
+  "tagline": "Phones local businesses with your questions and returns a ranked quote comparison.",
+  "description": "Rings a short list of local businesses with the same set of questions, then returns a ranked comparison of quotes, availability and call notes. Every call opens by saying an AI assistant is calling for you on a recorded line, and you approve the list and questions first.",
+  "category": "life",
+  "url": "https://x.ai/bot/BfJSlxG9eRuKVL4jEYse9",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/ryanthawks/status/2119956356299923711"
+ },
+ {
+  "slug": "host-mode",
+  "name": "Host Mode",
+  "builder": {
+   "name": "Ryan T",
+   "x": ""
+  },
+  "tagline": "Holiday-meal operator: menu, portions, thaw and oven timeline, potluck page, one grocery list.",
+  "description": "Turns a holiday dinner or Friendsgiving into a working plan: a menu sized for your headcount and diets, portion counts, a backwards thaw and oven timeline built on USDA thaw guidance, a potluck sign-up page, cost-share math, and a single grocery list or cart. Drafts guest messages but never sends or pays.",
+  "category": "life",
+  "url": "https://x.ai/bot/F0skXyX7J2DtsFPBxzbs3",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/ryanthawks/status/2119956549707641342"
+ },
+ {
+  "slug": "family-meal-planner",
+  "name": "Family Meal Planner",
+  "builder": {
+   "name": "Phoenix Anthem",
+   "x": ""
+  },
+  "tagline": "Weekly kid-friendly dinner plan with a printable fridge packet and grocery list.",
+  "description": "Runs a short weekly check-in, then plans the family dinners for the week using real recipes from established sites. Output is a printable fridge packet: recipe cards, a thaw schedule and one grocery list.",
+  "category": "life",
+  "url": "https://x.ai/bot/QSYW_UXDz_BUuSaQVLv1w",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/Phoenix_Anthem/status/2119962952992457151"
+ },
+ {
+  "slug": "speak-for-me",
+  "name": "Speak For Me",
+  "builder": {
+   "name": "Ryan T",
+   "x": ""
+  },
+  "tagline": "Makes calls in English on your behalf and reports back in your own language.",
+  "description": "You describe what you need from a business or office in your language; it places the call in English and reports back in your language with dates, names and reference numbers. Each call is announced as an AI assistant on a recorded line and every call is approved by you first.",
+  "category": "life",
+  "url": "https://x.ai/bot/dJkudgT1xfPF-1SbIkm23",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/ryanthawks/status/2119963660470653262"
+ },
+ {
+  "slug": "clip-scout-2",
+  "name": "Clip Scout",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Finds the clip-worthy moments in long videos and sharpens your take before you post.",
+  "description": "Built for X's clipping format: it locates the 5 to 60 second stretches worth cutting from a long video, helps tighten your commentary in your own voice, and checks whether the clip is fair to the creator. Also explains how Original Content Rewards treat both sides. Never posts on its own.",
+  "category": "creative",
+  "url": "https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/bwolcottauthor/status/2119982530191638934"
+ },
+ {
+  "slug": "muse-qiao",
+  "name": "Muse 桥",
+  "builder": {
+   "name": "Haidong He",
+   "x": ""
+  },
+  "tagline": "Chinese-language bridge between a Muse assistant and Grok Bot, one thread per project.",
+  "description": "Connects a Muse assistant to Grok Bot: you message the Muse main session or a per-project session from here, and replies are written back and logged. Aimed at people running both tools who want each project to keep its own conversation.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/HeHaidong27050/status/2119996391334326313"
+ },
+ {
+  "slug": "tweet-analyser",
+  "name": "Tweet Analyser",
+  "builder": {
+   "name": "Zeeshan",
+   "x": ""
+  },
+  "tagline": "Verdict on an X draft: ship, tweak or rewrite, with fixes grounded in X's ranking code.",
+  "description": "Paste a draft post and get a short ship, tweak or rewrite call, plain-English fixes tied to signals in X's open-source ranking code, and a rewrite in your voice. It also watches that repo and flags when the algorithm changes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/zeeshan_utd/status/2120000242674467017"
+ },
+ {
+  "slug": "video-director-2",
+  "name": "Video Director",
+  "builder": {
+   "name": "Chee Weng",
+   "x": ""
+  },
+  "tagline": "Brief, storyboard and edit a video up to about 30 minutes, stitched locally with ffmpeg.",
+  "description": "Interviews you for a brief, researches the subject, storyboards, then builds the film from native cinematic clips mixed with local HTML animation and stitches it with ffmpeg. Handles anything up to roughly 30 minutes, can edit footage you already have, and publishes nothing unless you ask.",
+  "category": "creative",
+  "url": "https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/cheeweng_/status/2120027172299592164"
+ },
+ {
+  "slug": "godaddy-domain-manager",
+  "name": "GoDaddy Domain Manager",
+  "builder": {
+   "name": "ecoay",
+   "x": ""
+  },
+  "tagline": "Renewals, DNS, nameservers, forwarding and locks for GoDaddy domains, read-only until approved.",
+  "description": "Manages domains held at GoDaddy and its reseller storefronts such as LuckyRegister: renewals, DNS records, nameservers, forwarding and transfer locks. Stays read-only until you approve each individual change.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/4VahnRcDJ0RahVUSs-MWt",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/ecoay/status/2120046581856468994"
+ },
+ {
+  "slug": "talking-head-director",
+  "name": "Talking-Head Director",
+  "builder": {
+   "name": "Adem Vessell",
+   "x": ""
+  },
+  "tagline": "Presenter-led explainer videos with a fixed workshop-print look and a pinned runtime.",
+  "description": "A source-first director for presenter-led explainers, opinion pieces and how-to videos, shipped as a release candidate with a pinned public runtime bootstrap. The stock renderer keeps one fixed workshop-print look; custom cutouts and generated scenes are separate work. Untested on other recipients.",
+  "category": "creative",
+  "url": "https://x.ai/bot/RU4C4RcukkTz6AifFzJ7c",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/AdemVessell_o/status/2120070530737008747"
+ },
+ {
+  "slug": "anti-adfraud-bot",
+  "name": "Anti-Adfraud Bot",
+  "builder": {
+   "name": "Markus",
+   "x": ""
+  },
+  "tagline": "German-language guide to Google Ads click fraud, with a 10-question self-check.",
+  "description": "Explains click fraud and fake leads on Google Ads in plain German, walks you through a ten-question self-check on your own account, and points to the vendor's free audit. Published by adfraudit.com, so treat it as a funnel bot rather than a neutral tool.",
+  "category": "sales",
+  "url": "https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/adfraudit/status/2120080353377517958"
+ },
+ {
+  "slug": "hongkong-doll",
+  "name": "Hongkong Doll",
+  "builder": {
+   "name": "昱泽 杜",
+   "x": ""
+  },
+  "tagline": "Chinese-language form filler for the five Hong Kong non-JUPAS university portals.",
+  "description": "Handles the paperwork side of non-JUPAS applications at HKU, HKUST, CUHK, PolyU and CityU: registers, fills the forms, uploads documents and stops at Save. It will not submit or pay without your explicit go-ahead, works in its own browser rather than yours, and reports progress one page at a time before logging out.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/uRj1XBNGPCIQvp7fqo97_",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/wK94qvUmIz13632/status/2120110544472486288"
+ },
+ {
+  "slug": "usage-watch-3",
+  "name": "Usage Watch",
+  "builder": {
+   "name": "Scott Wolf",
+   "x": ""
+  },
+  "tagline": "Report-only view of where your Grok Bot usage goes, with warnings before you run out.",
+  "description": "Breaks down where your Grok Bot usage is going, warns you before the limit lands, and ranks the biggest cuts you could make. Deliberately report-only: it never edits your bots or routines.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc",
+  "addedAt": "2026-11-10",
+  "status": "published",
+  "source": "https://x.com/ScottSpills/status/2120126174886011362"
  }
 ]

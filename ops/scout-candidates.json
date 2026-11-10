@@ -1,155 +1,5 @@
 [
  {
-  "name": "X Growth Bot",
-  "bot_id": "O60Icbx5BlKTkHBCrAgDe",
-  "url": "https://x.ai/bot/O60Icbx5BlKTkHBCrAgDe",
-  "builder_x_handle": "",
-  "one_line_desc": "Grows a niche X account toward Original Content Rewards: early replies to big accounts, replies to your commenters, trend alerts, morning recaps and approval-only post drafts.",
-  "source_post_url": "https://x.com/shoaib_t7/status/2119838657993388367",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "held"
- },
- {
-  "name": "80s Fake Footage",
-  "bot_id": "u1MG6utY3VGmo52GPs7-x",
-  "url": "https://x.ai/bot/u1MG6utY3VGmo52GPs7-x",
-  "builder_x_handle": "",
-  "one_line_desc": "Type a line, pick a genre, a tone, and your character, and get a silent looping GIF that looks cut from an 80s movie that never existed. Built for fast, fun GIF replies to X posts.",
-  "source_post_url": "https://x.com/BrandonPlantz/status/2119839369901297921",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Grok Bot Worlds",
-  "bot_id": "L4jZ1_tYlmA45l9w6mbiw",
-  "url": "https://x.ai/bot/L4jZ1_tYlmA45l9w6mbiw",
-  "builder_x_handle": "",
-  "one_line_desc": "See your bots at work in a live 3D world.",
-  "source_post_url": "https://x.com/everestchris6/status/2119841772662923632",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Excalidraw Reels",
-  "bot_id": "IcxcdVLPyz9jYSMSbrY8h",
-  "url": "https://x.ai/bot/IcxcdVLPyz9jYSMSbrY8h",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns any topic into a 30s–3min vertical explainer video with hand-drawn Excalidraw-style diagrams, synced captions and an AI voiceover. Built for creators making Reels, Shorts and LinkedIn videos.",
-  "source_post_url": "https://x.com/yashkavaiya/status/2119843820452155658",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Kindle Book Generator",
-  "bot_id": "7e9Ndk0OiQjuJh3TW4S4-",
-  "url": "https://x.ai/bot/7e9Ndk0OiQjuJh3TW4S4-",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns a topic and audience into a complete Amazon KDP book package: outline, manuscript, cover brief, listing, and compliance notes. It stops before publishing.",
-  "source_post_url": "https://x.com/yashkavaiya/status/2119844279489269964",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Mangrove",
-  "bot_id": "VOfh5y4jlFGbZQMxbGsyh",
-  "url": "https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh",
-  "builder_x_handle": "",
-  "one_line_desc": "A trading agent with guardrails. It runs the open-source mangrove-agent on its own computer for strategy research, backtesting, and paper or live trading with built-in risk management.",
-  "source_post_url": "https://x.com/Mangrove_AI/status/2119848083383337280",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Mastermind",
-  "bot_id": "zdBkQ_7mp77gFyt20d3N0",
-  "url": "https://x.ai/bot/zdBkQ_7mp77gFyt20d3N0",
-  "builder_x_handle": "",
-  "one_line_desc": "Brain librarian for a Grok Bot fleet: builds and keeps an Obsidian-style Markdown brain clean, current and linked, so every bot starts a job from a tiny, accurate picture. Delta-only, script-gated, and near-zero tokens o",
-  "source_post_url": "https://x.com/0xStarfox/status/2119858691126284616",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "OpenAny",
-  "bot_id": "wZ0PqEbJCTJizVYNK9Ohs",
-  "url": "https://x.ai/bot/wZ0PqEbJCTJizVYNK9Ohs",
-  "builder_x_handle": "",
-  "one_line_desc": "Connects your bot to OpenAny so it can use 150+ AI models and 3,000+ data and tool APIs with one key and one pay-per-call balance. Just describe the result you want; it finds the right resource, checks the price, and rep",
-  "source_post_url": "https://x.com/openanysi/status/2119871481970606282",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "iCloud Connector",
-  "bot_id": "3NyjtdIRmgx38jmpzwgok",
-  "url": "https://x.ai/bot/3NyjtdIRmgx38jmpzwgok",
-  "builder_x_handle": "",
-  "one_line_desc": "Sets up your own private iCloud connector (Mail, Calendar, Contacts, Reminders) on a free Oracle Cloud server, then connects it to Grok Bot. For Apple users who want their bots to work with iCloud.",
-  "source_post_url": "https://x.com/flightmediic/status/2119875947877077333",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Checkup · Fleet Checkup Runner",
-  "bot_id": "ffy9_7mBUraesvnoSouFC",
-  "url": "https://x.ai/bot/ffy9_7mBUraesvnoSouFC",
-  "builder_x_handle": "",
-  "one_line_desc": "A cheap, read-only checkup bot for people who run many Grok Bots. It checks transcripts, routines, and the computer's health on a schedule, then sends ranked fixes without changing anything. Template by CarolinaDill (X: ",
-  "source_post_url": "https://x.com/CarolinaDill/status/2119876370046374033",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Inbox Cleanup",
-  "bot_id": "vxICDdg7chCZWnDX6FL0T",
-  "url": "https://x.ai/bot/vxICDdg7chCZWnDX6FL0T",
-  "builder_x_handle": "",
-  "one_line_desc": "Clears junk out of your Gmail on a schedule, moving newsletters, promos and bulk mail to Trash while keeping anything important, and emails you a weekly list of what was trashed.",
-  "source_post_url": "https://x.com/vikingErik69/status/2119880516048740482",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "held"
- },
- {
-  "name": "Off the Map",
-  "bot_id": "tVTELtz7d157W9vBdd78z",
-  "url": "https://x.ai/bot/tVTELtz7d157W9vBdd78z",
-  "builder_x_handle": "",
-  "one_line_desc": "Getting away from someone who keeps finding you? Off the Map helps you disappear from people-search sites and data brokers, apply for your state's address confidentiality program, check your phone and accounts for tracki",
-  "source_post_url": "https://x.com/billgwolcott/status/2119880945809649699",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Profile Check for X",
-  "bot_id": "Z9pFzBV8qhJ9OuzaaD61P",
-  "url": "https://x.ai/bot/Z9pFzBV8qhJ9OuzaaD61P",
-  "builder_x_handle": "",
-  "one_line_desc": "Read-only check of your own X profile, followers and following: separate Excel files, an overview page, a PDF and an honest audience estimate, with scan date and time on every page. Works in English or German. Free templ",
-  "source_post_url": "https://x.com/BiancaBellChamb/status/2119881901301469521",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Contenido para X",
-  "bot_id": "BrbKNtkNv4OTa19Z-2BZy",
-  "url": "https://x.ai/bot/BrbKNtkNv4OTa19Z-2BZy",
-  "builder_x_handle": "",
-  "one_line_desc": "Asistente de contenido para X que aprende cómo escribes a partir de tus propios posts y te manda un plan diario con un post listo, citas y respuestas en tu voz. Tú revisas y publicas todo.",
-  "source_post_url": "https://x.com/CrptoGeek/status/2119882493818233084",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
-  "name": "Bot do MEI",
-  "bot_id": "m6tmgTZ2-05pAQTZlxo4N",
-  "url": "https://x.ai/bot/m6tmgTZ2-05pAQTZlxo4N",
-  "builder_x_handle": "",
-  "one_line_desc": "Lembra o DAS e a DASN do MEI e explica prazos e regras de 2027 em português claro, com fontes oficiais. Não substitui contador.",
-  "source_post_url": "https://x.com/henriquepiri/status/2119883415298228528",
-  "found_at": "2026-11-10 14:45 IST",
-  "status": "published"
- },
- {
   "name": "Course Strategy Caddie",
   "bot_id": "msLKed5U8fgbmAklgMXIb",
   "url": "https://x.ai/bot/msLKed5U8fgbmAklgMXIb",
@@ -498,5 +348,140 @@
   "source_post_url": "",
   "found_at": "2026-11-10 14:45 IST",
   "status": "published"
+ },
+ {
+  "name": "Spam-Call Scrubber",
+  "bot_id": "q34Uw0YlLx3ypGqj_bEu7",
+  "url": "https://x.ai/bot/q34Uw0YlLx3ypGqj_bEu7",
+  "builder_x_handle": "",
+  "one_line_desc": "Opts your number out of data brokers, then confirms the replies and re-checks later.",
+  "source_post_url": "https://x.com/thomasjuranek/status/2119948539006771550",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Splits Agent Wallet",
+  "bot_id": "IJZRIkuvNscDGxH1CiClo",
+  "url": "https://x.ai/bot/IJZRIkuvNscDGxH1CiClo",
+  "builder_x_handle": "",
+  "one_line_desc": "Three-level agent for a Splits Treasury: read balances, propose payments, or spend from a funded budget.",
+  "source_post_url": "https://x.com/zherring/status/2119953418731323650",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Call Around",
+  "bot_id": "BfJSlxG9eRuKVL4jEYse9",
+  "url": "https://x.ai/bot/BfJSlxG9eRuKVL4jEYse9",
+  "builder_x_handle": "",
+  "one_line_desc": "Phones local businesses with your questions and returns a ranked quote comparison.",
+  "source_post_url": "https://x.com/ryanthawks/status/2119956356299923711",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Host Mode",
+  "bot_id": "F0skXyX7J2DtsFPBxzbs3",
+  "url": "https://x.ai/bot/F0skXyX7J2DtsFPBxzbs3",
+  "builder_x_handle": "",
+  "one_line_desc": "Holiday-meal operator: menu, portions, thaw and oven timeline, potluck page, one grocery list.",
+  "source_post_url": "https://x.com/ryanthawks/status/2119956549707641342",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Family Meal Planner",
+  "bot_id": "QSYW_UXDz_BUuSaQVLv1w",
+  "url": "https://x.ai/bot/QSYW_UXDz_BUuSaQVLv1w",
+  "builder_x_handle": "",
+  "one_line_desc": "Weekly kid-friendly dinner plan with a printable fridge packet and grocery list.",
+  "source_post_url": "https://x.com/Phoenix_Anthem/status/2119962952992457151",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Speak For Me",
+  "bot_id": "dJkudgT1xfPF-1SbIkm23",
+  "url": "https://x.ai/bot/dJkudgT1xfPF-1SbIkm23",
+  "builder_x_handle": "",
+  "one_line_desc": "Makes calls in English on your behalf and reports back in your own language.",
+  "source_post_url": "https://x.com/ryanthawks/status/2119963660470653262",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Clip Scout",
+  "bot_id": "SY9HT-xabGZ0FxGDdhD5z",
+  "url": "https://x.ai/bot/SY9HT-xabGZ0FxGDdhD5z",
+  "builder_x_handle": "",
+  "one_line_desc": "Finds the clip-worthy moments in long videos and sharpens your take before you post.",
+  "source_post_url": "https://x.com/bwolcottauthor/status/2119982530191638934",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Muse 桥",
+  "bot_id": "Eyq2_3_2eIs2mXpFJsso8",
+  "url": "https://x.ai/bot/Eyq2_3_2eIs2mXpFJsso8",
+  "builder_x_handle": "",
+  "one_line_desc": "Chinese-language bridge between a Muse assistant and Grok Bot, one thread per project.",
+  "source_post_url": "https://x.com/HeHaidong27050/status/2119996391334326313",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Tweet Analyser",
+  "bot_id": "Se-KI83s3bSoiGx6jeXMg",
+  "url": "https://x.ai/bot/Se-KI83s3bSoiGx6jeXMg",
+  "builder_x_handle": "",
+  "one_line_desc": "Verdict on an X draft: ship, tweak or rewrite, with fixes grounded in X's ranking code.",
+  "source_post_url": "https://x.com/zeeshan_utd/status/2120000242674467017",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Video Director",
+  "bot_id": "meTDwFI6Jtm-uTyQtyrbb",
+  "url": "https://x.ai/bot/meTDwFI6Jtm-uTyQtyrbb",
+  "builder_x_handle": "",
+  "one_line_desc": "Brief, storyboard and edit a video up to about 30 minutes, stitched locally with ffmpeg.",
+  "source_post_url": "https://x.com/cheeweng_/status/2120027172299592164",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "GoDaddy Domain Manager",
+  "bot_id": "4VahnRcDJ0RahVUSs-MWt",
+  "url": "https://x.ai/bot/4VahnRcDJ0RahVUSs-MWt",
+  "builder_x_handle": "",
+  "one_line_desc": "Renewals, DNS, nameservers, forwarding and locks for GoDaddy domains, read-only until approved.",
+  "source_post_url": "https://x.com/ecoay/status/2120046581856468994",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Talking-Head Director",
+  "bot_id": "RU4C4RcukkTz6AifFzJ7c",
+  "url": "https://x.ai/bot/RU4C4RcukkTz6AifFzJ7c",
+  "builder_x_handle": "",
+  "one_line_desc": "Presenter-led explainer videos with a fixed workshop-print look and a pinned runtime.",
+  "source_post_url": "https://x.com/AdemVessell_o/status/2120070530737008747",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Anti-Adfraud Bot",
+  "bot_id": "A9PR4APmjoosYN1LAWZ_L",
+  "url": "https://x.ai/bot/A9PR4APmjoosYN1LAWZ_L",
+  "builder_x_handle": "",
+  "one_line_desc": "German-language guide to Google Ads click fraud, with a 10-question self-check.",
+  "source_post_url": "https://x.com/adfraudit/status/2120080353377517958",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Hongkong Doll",
+  "bot_id": "uRj1XBNGPCIQvp7fqo97_",
+  "url": "https://x.ai/bot/uRj1XBNGPCIQvp7fqo97_",
+  "builder_x_handle": "",
+  "one_line_desc": "Chinese-language form filler for the five Hong Kong non-JUPAS university portals.",
+  "source_post_url": "https://x.com/wK94qvUmIz13632/status/2120110544472486288",
+  "found_at": "2026-11-10 20:57 IST"
+ },
+ {
+  "name": "Usage Watch",
+  "bot_id": "HHDuDo50QAhU9ozZpI5nc",
+  "url": "https://x.ai/bot/HHDuDo50QAhU9ozZpI5nc",
+  "builder_x_handle": "",
+  "one_line_desc": "Report-only view of where your Grok Bot usage goes, with warnings before you run out.",
+  "source_post_url": "https://x.com/ScottSpills/status/2120126174886011362",
+  "found_at": "2026-11-10 20:57 IST"
  }
 ]
