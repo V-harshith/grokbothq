@@ -128234,5 +128234,220 @@
       "Post evidence"
     ],
     "source_post_url": "https://grokbotdaily.com/t/gift-detective"
+  },
+  {
+    "slug": "any-video-into-a-magazine",
+    "name": "Any Video Into A Magazine",
+    "builder": {
+      "name": "Brian Roemmele",
+      "x": ""
+    },
+    "tagline": "Turns the YouTube channels and podcasts you follow into a weekly magazine issue you can read in minutes.",
+    "description": "Watches the channels and podcasts you pick and turns each new episode into a magazine feature: stills pulled from the video with captions, quotes transcribed word for word with a link to the exact moment, an EPUB for an e-reader and a newsletter in your inbox. Every story credits and links back to the creator.",
+    "category": "creative",
+    "url": "https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Stills with captions",
+      "Quotes linked to the moment",
+      "EPUB and newsletter output"
+    ]
+  },
+  {
+    "slug": "last-words",
+    "name": "Last Words",
+    "builder": {
+      "name": "Brian Roemmele",
+      "x": ""
+    },
+    "tagline": "Helps a family after a loss draft an obituary, eulogy, memorial page or thank-you notes.",
+    "description": "A writing companion for the weeks after a death. It asks one question at a time and turns the stories, memories and photos you give it into an obituary, a eulogy, a memorial page or thank-you notes, without inventing details. It only writes drafts; what gets shared stays with the family.",
+    "category": "life",
+    "url": "https://x.ai/bot/ymyxqGAxh1mk593ld3KW9",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks"
+  },
+  {
+    "slug": "help-i-havent-checked-in",
+    "name": "Help, I Haven't Checked In",
+    "builder": {
+      "name": "Brian Roemmele",
+      "x": ""
+    },
+    "tagline": "A trip check-in fail-safe: miss your check-in time and it alerts your list with your route.",
+    "description": "Leave your route and a check-in time before a hike, paddle, backcountry drive or solo trip. If you miss it, the bot calls, emails and texts the people you listed with a notice you approved in advance, plus a PDF trip report with a route map. It is not a rescue service and makes no claim to be one.",
+    "category": "life",
+    "url": "https://x.ai/bot/iGiD-76C2lv6MB1otClec",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Calls, emails and texts your list",
+      "Pre-approved notice wording",
+      "PDF trip report with route map"
+    ]
+  },
+  {
+    "slug": "candlestick-retests-tutor",
+    "name": "Candlestick Retests Tutor",
+    "builder": {
+      "name": "Hoem Crypto",
+      "x": ""
+    },
+    "tagline": "A course on candlestick highs and lows, swing failures and multi-candle failed breaks.",
+    "description": "Teaches how price behaves around candlestick highs and lows, swing failure patterns and failed breaks that span several candles, for a complete beginner onward. A placement chat sets the level, then lessons with check questions, quizzes and a final exam, with progress saved between sessions. Chart reviews stay commentary and carry no buy or sell calls.",
+    "category": "money",
+    "url": "https://x.ai/bot/jtVHTeAL9lhQX_SDcKlcY",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Placement chat and lessons",
+      "Quizzes and final exam",
+      "Chart reviews, never buy/sell calls"
+    ]
+  },
+  {
+    "slug": "overthrow-for-stop-losses-tutor",
+    "name": "Overthrow For Stop Losses Tutor",
+    "builder": {
+      "name": "Hoem Crypto",
+      "x": ""
+    },
+    "tagline": "Teaches the Overthrow approach to placing stop losses, beginner to expert.",
+    "description": "A structured course on the Overthrow method for stop placement. It opens with a placement chat, then runs lessons with check questions, quizzes and a final exam, saving progress so you can resume later. Chart reviews are commentary only, with no buy or sell calls.",
+    "category": "money",
+    "url": "https://x.ai/bot/QaLR9fBLA3D-n4Dl59CY_",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Placement chat and lessons",
+      "Quizzes and final exam",
+      "Progress saved"
+    ]
+  },
+  {
+    "slug": "retests-tutor",
+    "name": "Retests Tutor",
+    "builder": {
+      "name": "Hoem Crypto",
+      "x": ""
+    },
+    "tagline": "Course on telling breakouts from retests, beginner to expert.",
+    "description": "A tutor for the difference between a breakout and a retest and what each does after the break. Placement chat first, then lessons with check questions, quizzes and a final exam, resuming where you stopped. Separate from the bot's candlestick retest course, and its chart commentary is not advice.",
+    "category": "money",
+    "url": "https://x.ai/bot/WzmucCA87dDNLDGwGScfU",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Placement chat and lessons",
+      "Quizzes and final exam",
+      "Chart reviews, never buy/sell calls"
+    ]
+  },
+  {
+    "slug": "time-frames-tutor",
+    "name": "Time Frames Tutor",
+    "builder": {
+      "name": "Hoem Crypto",
+      "x": ""
+    },
+    "tagline": "Teaches multi-timeframe analysis from beginner level, with quizzes and a final exam.",
+    "description": "A placement chat establishes where you are, then lessons walk through reading several timeframes at once, with check questions and quizzes between them, a final exam and saved progress. Chart reviews are commentary only.",
+    "category": "money",
+    "url": "https://x.ai/bot/NtCP4XuqjTYffwCGgM9cN",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Placement chat and lessons",
+      "Quizzes and final exam",
+      "Progress saved"
+    ]
+  },
+  {
+    "slug": "daily-open-trade-strategy-tutor",
+    "name": "Daily Open Trade Strategy Tutor",
+    "builder": {
+      "name": "Hoem Crypto",
+      "x": ""
+    },
+    "tagline": "One strategy taught end to end: the Daily Open, from placement chat to final exam.",
+    "description": "Teaches the Daily Open trade strategy from first principles: a placement chat, lessons with check questions, quizzes and a final exam, with progress saved between sessions. Chart reviews are commentary and carry no buy or sell calls.",
+    "category": "money",
+    "url": "https://x.ai/bot/r7qPxokwbfNMIa0R45mh-",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Placement chat and lessons",
+      "Quizzes and final exam",
+      "Chart reviews, never buy/sell calls"
+    ]
+  },
+  {
+    "slug": "video-director",
+    "name": "Video Director",
+    "builder": {
+      "name": "Avid",
+      "x": ""
+    },
+    "tagline": "Turns a product spec into a 30-60 second launch video plan, shot list and voiceover script.",
+    "description": "Give it the product spec and the user pain points and it returns a launch video plan: concept, shot list, voiceover script and a 15-second cut-down for X. It plans only and never films or publishes anything.",
+    "category": "creative",
+    "url": "https://x.ai/bot/yPkcpwD13HI-ka3PuPODS",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Concept and shot list",
+      "Voiceover script",
+      "15s cut-down plan"
+    ]
+  },
+  {
+    "slug": "bp26-side-events-autoregister",
+    "name": "BP26 Side Events Autoregister",
+    "builder": {
+      "name": "Matt",
+      "x": ""
+    },
+    "tagline": "Registers you for Solana Breakpoint 2026 side events on Luma using saved form answers.",
+    "description": "Works through the Solana Breakpoint 2026 London side events listed on Luma, signs you up with the answers you saved, skips the paid ones and checks three times a day for new listings. Useful only for that conference and that window.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/7HzGMnst8L3s0FFCagfWR",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Saved form answers",
+      "Skips paid events",
+      "Rechecks three times a day"
+    ]
+  },
+  {
+    "slug": "local-events-roundup",
+    "name": "Local Events Roundup",
+    "builder": {
+      "name": "starfire",
+      "x": ""
+    },
+    "tagline": "A weekly roundup of nearby concerts, theatre, exhibitions and films with verified links.",
+    "description": "Pick the kinds of events you care about and it sends a weekly roundup of what is on near you with checked links, plus optional reminders on the day. Covers concerts, festivals, theatre, museum exhibitions, seasonal outings, new films and motorsport.",
+    "category": "life",
+    "url": "https://x.ai/bot/906iGrd94sK-sgWhPQw79",
+    "addedAt": "2026-11-10",
+    "status": "published",
+    "source_post_url": "https://readmultiplex.com/grokbot-rocks",
+    "features": [
+      "Weekly digest",
+      "Verified links",
+      "Day-of reminders"
+    ]
   }
 ]
