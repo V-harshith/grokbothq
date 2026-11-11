@@ -81,6 +81,12 @@ async function check(bot) {
 // 2026-11-06 one pass delisted 28 listings and 27 of them answered 200 minutes
 // later. Dead means dead minutes after the burst clears, one at a time: cool
 // down, then two lone probes with real gap before an entry leaves the site.
+// A candidate that never got its lone probes is NOT dead — it is unverified.
+// On 2026-11-11 a pass had 56 first-pass failures against a cap of 50, and the
+// six overflow entries were delisted on the burst alone; five of them answered
+// 200 on a re-probe minutes later. Anything past the cap stays published and is
+// named in the report, so the next run sees it again instead of the site losing
+// a live listing.
 const COOLDOWN_MS = 90_000;
 const CONFIRM_DELAYS = [10_000, 40_000];
 const CONFIRM_CAP = 50;
@@ -102,7 +108,11 @@ async function confirmDead(candidates) {
     if (last.code === 200) console.log(`  recovered on confirmation pass: ${candidate.bot.slug}`);
     else confirmed.push(last);
   }
-  for (const extra of candidates.slice(CONFIRM_CAP)) confirmed.push(extra);
+  for (const extra of candidates.slice(CONFIRM_CAP)) {
+    console.log(
+      `  unconfirmed, kept published (cap ${CONFIRM_CAP} reached): ${extra.bot.slug} (${extra.code})`
+    );
+  }
   return confirmed;
 }
 
