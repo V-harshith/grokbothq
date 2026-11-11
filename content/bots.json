@@ -129454,5 +129454,145 @@
   "addedAt": "2026-11-10",
   "status": "published",
   "source": "https://x.com/ScottSpills/status/2120126174886011362"
+ },
+ {
+  "slug": "kpi-data-room",
+  "name": "KPI Data Room",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Builds a sourced five-year financials workbook for one public ticker.",
+  "description": "Pulls a company’s last five years and twenty quarters of financials into one Excel workbook, each figure linked back to the filing or release it came from, and hands over the original documents alongside it. It stays to reported numbers, so there are no forecasts or valuations.",
+  "category": "money",
+  "url": "https://x.ai/bot/mJ6Ul7sJykXp0sGRHy1b4",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "macro-catalyst-scheduler",
+  "name": "Macro Catalyst Scheduler",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Keeps a calendar of the macro events that actually move your positions.",
+  "description": "Tracks the macro events worth knowing about and puts them on a calendar, so you plan around them instead of reading about them afterwards. Built for people who trade or allocate around economic releases.",
+  "category": "money",
+  "url": "https://x.ai/bot/kl4V_lz_v-0VGA-QntsU6",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "expectations-decoder",
+  "name": "Expectations Decoder",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Works out what the market already prices for an event before you take a view.",
+  "description": "Reads option-implied moves, consensus, positioning and past reactions to estimate what the market already expects from an upcoming event, with the sources behind each input. Read-only research: it proposes no trades and flags where the estimate is uncertain.",
+  "category": "money",
+  "url": "https://x.ai/bot/F1S-OSFwNfep5RBDgzvqM",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "market-memo-publisher",
+  "name": "Market Memo Publisher",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Turns desk research into a clean, readable market memo.",
+  "description": "A writing and editing bot for market research: it takes findings from your own analysis and shapes them into a short memo with a clear read, so the work can be shared without another rewrite pass.",
+  "category": "money",
+  "url": "https://x.ai/bot/QEIJ5GC006A3ElCVNZ97M",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "regime-cartographer",
+  "name": "Regime Cartographer",
+  "builder": {
+   "name": "Turac",
+   "x": ""
+  },
+  "tagline": "Maps the current market regime so you can pick strategies that fit it.",
+  "description": "Classifies the market environment you are in and explains which kinds of strategies tend to work in it and which do not, giving a frame for playbook choice and sizing rather than a single call.",
+  "category": "money",
+  "url": "https://x.ai/bot/JlIAsBubOWg2Z6zc3yz5q",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "shopify-ai-research",
+  "name": "Shopify AI Research",
+  "builder": {
+   "name": "Brin100_0",
+   "x": ""
+  },
+  "tagline": "Checks whether AI assistants recommend your Shopify store, or a competitor.",
+  "description": "For small Shopify merchants: it asks ChatGPT, Perplexity and Google AI Mode the buyer questions that matter in your category and reports whether you show up, whether a rival does, and whether the prices and details quoted about you are right. Reads your store and a few hero products first, and asks before running a wider question set.",
+  "category": "sales",
+  "url": "https://x.ai/bot/P6UI0mB6IjiV0TxySTkoG",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "mac-dev-keeper",
+  "name": "Mac Dev Keeper",
+  "builder": {
+   "name": "Reuben H",
+   "x": ""
+  },
+  "tagline": "Keeps a Mac dev machine current, uncluttered and out of disk trouble.",
+  "description": "Tracks installed tools and pending updates, finds leftover processes and idle coding sessions, frees memory, and reports weekly on storage. It changes nothing on the machine without your approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/NwaLKeijbS5koKa_m_vm5",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "video-studio-bot",
+  "name": "Video Studio Bot",
+  "builder": {
+   "name": "Marcia Monzu",
+   "x": ""
+  },
+  "tagline": "Makes vertical videos, clips and images for X posts from your own ideas or photos.",
+  "description": "Turns a rough idea or a set of photos into vertical video, music-video or image posts sized for X, and keeps an eye on usage while it works. Its saved setup bans engagement-bait captions and avoids animating photos of real public figures.",
+  "category": "creative",
+  "url": "https://x.ai/bot/CciceteNPoSjzzoWmRMJA",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "guard-bot",
+  "name": "Guard Bot",
+  "builder": {
+   "name": "Calix Build",
+   "x": ""
+  },
+  "tagline": "Read-only security audit of your Grok Bot setup.",
+  "description": "Scans a bot fleet for exposed secrets, risky dependencies, open permissions and actions a bot took without approval, and treats every email, post and page it reads as data rather than instruction. Reports only what is new, worse or fixed since the last pass; it never edits your setup.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/VgXd27csgB7BXF4oX7BDW",
+  "addedAt": "2026-11-11",
+  "status": "published"
+ },
+ {
+  "slug": "apps-in-toss-mini-app-maker",
+  "name": "앱인토스 미니앱 메이커",
+  "builder": {
+   "name": "꼬마 봇",
+   "x": ""
+  },
+  "tagline": "Plans, builds and ships a Toss mini app, then checks launch and revenue.",
+  "description": "For the Korean Apps in Toss platform: it plans a mini app, builds it, uploads the build to the console, attaches the ad placement, and reviews how the launch and earnings are going afterwards.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/KHl0HUIn9_vdSnhq7sq1G",
+  "addedAt": "2026-11-11",
+  "status": "published"
  }
 ]
