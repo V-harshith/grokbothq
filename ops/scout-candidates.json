@@ -1,235 +1,5 @@
 [
  {
-  "name": "Video Studio Bot",
-  "bot_id": "CciceteNPoSjzzoWmRMJA",
-  "url": "https://x.ai/bot/CciceteNPoSjzzoWmRMJA",
-  "builder_x_handle": "",
-  "one_line_desc": "Makes vertical videos, clips and images for X posts from your own ideas or photos.",
-  "source_post_url": "",
-  "found_at": "2026-11-11 09:17 IST",
-  "status": "queued"
- },
- {
-  "name": "Guard Bot",
-  "bot_id": "VgXd27csgB7BXF4oX7BDW",
-  "url": "https://x.ai/bot/VgXd27csgB7BXF4oX7BDW",
-  "builder_x_handle": "",
-  "one_line_desc": "Read-only security audit of your Grok Bot setup.",
-  "source_post_url": "",
-  "found_at": "2026-11-11 09:17 IST",
-  "status": "queued"
- },
- {
-  "name": "앱인토스 미니앱 메이커",
-  "bot_id": "KHl0HUIn9_vdSnhq7sq1G",
-  "url": "https://x.ai/bot/KHl0HUIn9_vdSnhq7sq1G",
-  "builder_x_handle": "",
-  "one_line_desc": "Plans, builds and ships a Toss mini app, then checks launch and revenue.",
-  "source_post_url": "",
-  "found_at": "2026-11-11 09:17 IST",
-  "status": "queued"
- },
- {
-  "name": "Burton",
-  "bot_id": "plEzNxe94eVC4dGUQENOU",
-  "url": "https://x.ai/bot/plEzNxe94eVC4dGUQENOU",
-  "builder_x_handle": "",
-  "one_line_desc": "Edits photos, designs bot avatars and builds photo compilations with music.",
-  "source_post_url": "https://x.com/MyTeslaMoonship/status/2120128588884459861",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Spam Spotter",
-  "bot_id": "E3d8jVV2u6Zm7V2Hz9g3s",
-  "url": "https://x.ai/bot/E3d8jVV2u6Zm7V2Hz9g3s",
-  "builder_x_handle": "",
-  "one_line_desc": "Sweeps the replies and mentions on your X posts for spam bots and rage bait.",
-  "source_post_url": "https://x.com/ReconBailey/status/2120134648990773446",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Grok 4.8 Release Watcher",
-  "bot_id": "exzlkRCI9SwKdjiMWbXYV",
-  "url": "https://x.ai/bot/exzlkRCI9SwKdjiMWbXYV",
-  "builder_x_handle": "",
-  "one_line_desc": "Pings you once when Grok 4.8 reaches Grok Bots, and follows xAI posts until then.",
-  "source_post_url": "https://x.com/old_pgmrs_will/status/2120140965352722480",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Movie Actor Streak",
-  "bot_id": "JF3hJaodw9DJ6l3Kb9k7e",
-  "url": "https://x.ai/bot/JF3hJaodw9DJ6l3Kb9k7e",
-  "builder_x_handle": "",
-  "one_line_desc": "Builds a printable, sortable list of one actor's films with scores and streaming links.",
-  "source_post_url": "https://x.com/TroelsMJensen/status/2120154775325220965",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Foreman",
-  "bot_id": "u_CJDYG42N8gt6l-t-S6H",
-  "url": "https://x.ai/bot/u_CJDYG42N8gt6l-t-S6H",
-  "builder_x_handle": "",
-  "one_line_desc": "Keeps home project quotes, invoices and due dates in one sheet, and pays nothing without you.",
-  "source_post_url": "https://x.com/techechohq/status/2120155169971224973",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Call Bot",
-  "bot_id": "uu_BiNYe0qW6AbH55Zx6g",
-  "url": "https://x.ai/bot/uu_BiNYe0qW6AbH55Zx6g",
-  "builder_x_handle": "",
-  "one_line_desc": "Waits on hold and walks phone menus for airlines, banks and support lines.",
-  "source_post_url": "https://x.com/ericosiu/status/2120184826246332702",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Premium Increase Explainer",
-  "bot_id": "41dFBekbCEPP_LZArVeLI",
-  "url": "https://x.ai/bot/41dFBekbCEPP_LZArVeLI",
-  "builder_x_handle": "",
-  "one_line_desc": "Explains why an insurance renewal went up, in plain words.",
-  "source_post_url": "https://x.com/kcmcdonald/status/2120185117217784250",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Renewal Prep Coach",
-  "bot_id": "f8Ck1oxbuh9hVd48TLy6r",
-  "url": "https://x.ai/bot/f8Ck1oxbuh9hVd48TLy6r",
-  "builder_x_handle": "",
-  "one_line_desc": "Gets a business ready for insurance renewal 90 to 120 days out.",
-  "source_post_url": "https://x.com/kcmcdonald/status/2120185117217784250",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Insurance Quote Comparer",
-  "bot_id": "SPzlhzkpBIqzDuc8CKAiV",
-  "url": "https://x.ai/bot/SPzlhzkpBIqzDuc8CKAiV",
-  "builder_x_handle": "",
-  "one_line_desc": "Puts two or more insurance quotes side by side and spells out the differences.",
-  "source_post_url": "https://x.com/kcmcdonald/status/2120185117217784250",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Commercial Coverage Checker",
-  "bot_id": "29YDMR5aCwmgo8ltYXVhP",
-  "url": "https://x.ai/bot/29YDMR5aCwmgo8ltYXVhP",
-  "builder_x_handle": "",
-  "one_line_desc": "Line-by-line gap report on a company's commercial insurance documents.",
-  "source_post_url": "https://x.com/kcmcdonald/status/2120185117217784250",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Small Business Insurance Starter",
-  "bot_id": "ybZPhEbQl_SyHl74zlotT",
-  "url": "https://x.ai/bot/ybZPhEbQl_SyHl74zlotT",
-  "builder_x_handle": "",
-  "one_line_desc": "Works out which cover a new small business likely needs.",
-  "source_post_url": "https://x.com/kcmcdonald/status/2120185117217784250",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Personal Assistant",
-  "bot_id": "BGHZCx7l0bpCdfrCHHRmi",
-  "url": "https://x.ai/bot/BGHZCx7l0bpCdfrCHHRmi",
-  "builder_x_handle": "",
-  "one_line_desc": "Warm daily assistant for schedule, to-dos, bills and goals.",
-  "source_post_url": "https://x.com/buildingmegs/status/2120187885429334096",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "The Tough Buyer",
-  "bot_id": "rTNKMC1APefwrp23niJ7s",
-  "url": "https://x.ai/bot/rTNKMC1APefwrp23niJ7s",
-  "builder_x_handle": "",
-  "one_line_desc": "Role-play buyer who objects hard, hangs up, and scores your call.",
-  "source_post_url": "https://x.com/LALAWOODER/status/2120189193452396850",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Shelf Cut",
-  "bot_id": "ZsXQ36N1aVh00buJw_OFP",
-  "url": "https://x.ai/bot/ZsXQ36N1aVh00buJw_OFP",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns your saved books into Bookshop.org affiliate lists and links.",
-  "source_post_url": "https://x.com/omgmaddie/status/2120192905172361561",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "It's Alive? 4D Posts",
-  "bot_id": "PxLus1MpAZobBdrWjEwv1",
-  "url": "https://x.ai/bot/PxLus1MpAZobBdrWjEwv1",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns an X post into a looping 4D clip sized for each network.",
-  "source_post_url": "https://x.com/Mavmetax/status/2120193865470582906",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "SaaS Spend Check",
-  "bot_id": "hFnxPrJ7wOqRr3dbSnY1a",
-  "url": "https://x.ai/bot/hFnxPrJ7wOqRr3dbSnY1a",
-  "builder_x_handle": "",
-  "one_line_desc": "Lists every SaaS tool you pay for, and where you are overpaying.",
-  "source_post_url": "https://x.com/CaliLumberJack/status/2120199814029697296",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "🪱 Nibbler",
-  "bot_id": "GtOwnmBzXGF_dS7C058eJ",
-  "url": "https://x.ai/bot/GtOwnmBzXGF_dS7C058eJ",
-  "builder_x_handle": "",
-  "one_line_desc": "Daily digest that digs out the primary sources behind good posts.",
-  "source_post_url": "https://x.com/Blaze0x1/status/2120204331899080803",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Amazon Email Fix",
-  "bot_id": "k0gaVOXTYMwyq_H9jK-lN",
-  "url": "https://x.ai/bot/k0gaVOXTYMwyq_H9jK-lN",
-  "builder_x_handle": "",
-  "one_line_desc": "Rewrites Amazon order emails as itemized versions and files the originals.",
-  "source_post_url": "https://x.com/davidvatz/status/2120207165537518029",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "ReplitBot",
-  "bot_id": "Pvmih_JbQ4frGrLX-MEv2",
-  "url": "https://x.ai/bot/Pvmih_JbQ4frGrLX-MEv2",
-  "builder_x_handle": "",
-  "one_line_desc": "Manages your Replit apps through Replit Agent, with a check before anything ships.",
-  "source_post_url": "https://x.com/petebiggam/status/2120210518271013241",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
-  "name": "Rosie · Cards",
-  "bot_id": "2tv8gzN0FKhkKUExZPKHE",
-  "url": "https://x.ai/bot/2tv8gzN0FKhkKUExZPKHE",
-  "builder_x_handle": "",
-  "one_line_desc": "Designs email greeting cards for birthdays and sends only after your okay.",
-  "source_post_url": "https://x.com/papagatorz/status/2120211170657280166",
-  "found_at": "2026-11-11 15:31 IST",
-  "status": "listed"
- },
- {
   "name": "Nearby Reminders",
   "bot_id": "osi4qnCsyi_E_58tQShCJ",
   "url": "https://x.ai/bot/osi4qnCsyi_E_58tQShCJ",
@@ -497,6 +267,236 @@
   "one_line_desc": "Builds a cited record of where you were, from your own logs.",
   "source_post_url": "https://x.com/Michael35715972/status/2120308563025474000",
   "found_at": "2026-11-11 15:31 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Video Studio Bot",
+  "bot_id": "VtPi3-XtygvHeVd3n-egy",
+  "url": "https://x.ai/bot/VtPi3-XtygvHeVd3n-egy",
+  "builder_x_handle": "",
+  "one_line_desc": "Renders vertical videos, music videos, images and memes from an idea or your photos.",
+  "source_post_url": "https://x.com/MbsrlM/status/2120311012796829934",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "WinRed - Do Not Solicit",
+  "bot_id": "ofi02xeThboVrpqzpcLP7",
+  "url": "https://x.ai/bot/ofi02xeThboVrpqzpcLP7",
+  "builder_x_handle": "",
+  "one_line_desc": "Files one written do-not-solicit notice with WinRed and maps the opt-outs.",
+  "source_post_url": "https://x.com/viewtifuljoseph/status/2120320983190172025",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Smolcorp GM",
+  "bot_id": "VEBCMmwZK-B_9zoeSW3Q5",
+  "url": "https://x.ai/bot/VEBCMmwZK-B_9zoeSW3Q5",
+  "builder_x_handle": "DeSauzze",
+  "one_line_desc": "Runs a small coding-agent team as your general manager, pausing for risky steps.",
+  "source_post_url": "https://x.com/DeSauzze/status/2120324111532802221",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Publishing Researcher",
+  "bot_id": "J7XGPptvebTDJkWSoZ3H0",
+  "url": "https://x.ai/bot/J7XGPptvebTDJkWSoZ3H0",
+  "builder_x_handle": "Tferriere",
+  "one_line_desc": "Researches, drafts and packages a short ebook for your niche, stopping before upload.",
+  "source_post_url": "https://x.com/Tferriere/status/2120334947659477100",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Mindset Coach",
+  "bot_id": "_B6MxCsIXuYNMoTVAP9UA",
+  "url": "https://x.ai/bot/_B6MxCsIXuYNMoTVAP9UA",
+  "builder_x_handle": "RachelVT42",
+  "one_line_desc": "Socratic coach for getting unstuck, prepping big moments and weekly habits.",
+  "source_post_url": "https://x.com/RachelVT42/status/2120339071255843296",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "노무 서류 도우미",
+  "bot_id": "lmYfaR7J0pc3lH_Lyo0DT",
+  "url": "https://x.ai/bot/lmYfaR7J0pc3lH_Lyo0DT",
+  "builder_x_handle": "sangsu0916",
+  "one_line_desc": "Fills Korean labour paperwork from your dictation and checks the numbers.",
+  "source_post_url": "https://x.com/sangsu0916/status/2120346621636456800",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Goggins · Personal Trainer",
+  "bot_id": "0IT9c5goEyTVbW6F4L8XX",
+  "url": "https://x.ai/bot/0IT9c5goEyTVbW6F4L8XX",
+  "builder_x_handle": "drsarah",
+  "one_line_desc": "Blunt trainer who plans your running, logs food and preps weeknight dinners.",
+  "source_post_url": "https://x.com/drsarah/status/2120358357773013478",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Gilfoyle · Systems",
+  "bot_id": "clgbtNVGx7DRRCq4gVP0I",
+  "url": "https://x.ai/bot/clgbtNVGx7DRRCq4gVP0I",
+  "builder_x_handle": "drsarah",
+  "one_line_desc": "Dry, blunt sysadmin for your stack, sign-ins and security basics.",
+  "source_post_url": "https://x.com/drsarah/status/2120358359542952366",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Veterans Day Bro",
+  "bot_id": "fnGtsSHn4jSH00iKvBEF3",
+  "url": "https://x.ai/bot/fnGtsSHn4jSH00iKvBEF3",
+  "builder_x_handle": "JoshSeefried",
+  "one_line_desc": "Verified Veterans Day freebies and discounts for your ZIP, meals first.",
+  "source_post_url": "https://x.com/JoshSeefried/status/2120364090904207705",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Mr Jobs",
+  "bot_id": "Q48osKRqUwkqlsGnHTrCM",
+  "url": "https://x.ai/bot/Q48osKRqUwkqlsGnHTrCM",
+  "builder_x_handle": "aryyann8",
+  "one_line_desc": "Applies to jobs and internships daily from your real resume and logs each one.",
+  "source_post_url": "https://x.com/aryyann8/status/2120388100795023742",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "笔记早报",
+  "bot_id": "YxpwV-eUyBiYETPJrANqO",
+  "url": "https://x.ai/bot/YxpwV-eUyBiYETPJrANqO",
+  "builder_x_handle": "Jackywine",
+  "one_line_desc": "Morning digest that pulls your notes together and suggests what to read next.",
+  "source_post_url": "https://x.com/Jackywine/status/2120388254855995476",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Talking-Head Director v2",
+  "bot_id": "qxD_0iH_MxE6qBHe5arIS",
+  "url": "https://x.ai/bot/qxD_0iH_MxE6qBHe5arIS",
+  "builder_x_handle": "AdemVessell_o",
+  "one_line_desc": "Cuts talking-head footage into vertical edits with animated captions and sound design.",
+  "source_post_url": "https://x.com/AdemVessell_o/status/2120390390377595252",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "ViralCut Scout",
+  "bot_id": "v6eCvs_LQ6GsVaDvv7-or",
+  "url": "https://x.ai/bot/v6eCvs_LQ6GsVaDvv7-or",
+  "builder_x_handle": "biscuitweb",
+  "one_line_desc": "Watches big podcasts and sends clip timestamps and vertical cuts each morning.",
+  "source_post_url": "https://x.com/biscuitweb/status/2120395320576118816",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Twitter Bot",
+  "bot_id": "fyJbO6ogsdnulvTt7t1g3",
+  "url": "https://x.ai/bot/fyJbO6ogsdnulvTt7t1g3",
+  "builder_x_handle": "",
+  "one_line_desc": "Learns your voice and drafts posts, threads and articles for X.",
+  "source_post_url": "https://x.com/hovinthenorth/status/2120404170134151558",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Costco Price Adjust",
+  "bot_id": "e-n9Jr0TNFAfVCgAhusb0",
+  "url": "https://x.ai/bot/e-n9Jr0TNFAfVCgAhusb0",
+  "builder_x_handle": "",
+  "one_line_desc": "Watches Costco receipts against Instant Savings and flags price drops.",
+  "source_post_url": "https://x.com/Tjt_22/status/2120408048573546773",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "NBA Nightly Recap",
+  "bot_id": "kjinIpIVe_80bS_D4MC4w",
+  "url": "https://x.ai/bot/kjinIpIVe_80bS_D4MC4w",
+  "builder_x_handle": "Hoopss",
+  "one_line_desc": "Short nightly NBA recap with scores, highlights, injuries and trade news.",
+  "source_post_url": "https://x.com/Hoopss/status/2120410191191540120",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "GitHub Repo Watcher",
+  "bot_id": "EEsiaKmr8FFFOLoG-v7wa",
+  "url": "https://x.ai/bot/EEsiaKmr8FFFOLoG-v7wa",
+  "builder_x_handle": "AunySillyMe",
+  "one_line_desc": "Weekday briefing on what shipped or broke in the repos you depend on.",
+  "source_post_url": "https://x.com/AunySillyMe/status/2120425697818947659",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "司礼监掌印",
+  "bot_id": "HEDoRbd3dY_gAudTwefGK",
+  "url": "https://x.ai/bot/HEDoRbd3dY_gAudTwefGK",
+  "builder_x_handle": "",
+  "one_line_desc": "Front-door assistant that routes work to a team of bots and publishes nothing.",
+  "source_post_url": "https://x.com/sanjing590/status/2120449601882706262",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Post Visualizer",
+  "bot_id": "eqdK5UBYSbbMNHFeZs2oq",
+  "url": "https://x.ai/bot/eqdK5UBYSbbMNHFeZs2oq",
+  "builder_x_handle": "AdemVessell_o",
+  "one_line_desc": "Turns an X post into a voiced vertical video with word-by-word captions.",
+  "source_post_url": "https://x.com/AdemVessell_o/status/2120452002543280195",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Remote Job Hunt & X Creator",
+  "bot_id": "pdtnGmxq4thYIhqWeZylE",
+  "url": "https://x.ai/bot/pdtnGmxq4thYIhqWeZylE",
+  "builder_x_handle": "_xnicoo",
+  "one_line_desc": "Finds remote jobs, drafts proposals and suggests X posts, all for your approval.",
+  "source_post_url": "https://x.com/_xnicoo/status/2120452027935347137",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "RADER · A/V Production",
+  "bot_id": "QHV8JNtSC32LnxmUuvMFi",
+  "url": "https://x.ai/bot/QHV8JNtSC32LnxmUuvMFi",
+  "builder_x_handle": "jacktrossi",
+  "one_line_desc": "Learns your brand once, then makes launch films, ads, reels and motion graphics.",
+  "source_post_url": "https://x.com/jacktrossi/status/2120454676965437552",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Knowledge Keeper",
+  "bot_id": "w55CTQSjIq6jfQyMvAD1M",
+  "url": "https://x.ai/bot/w55CTQSjIq6jfQyMvAD1M",
+  "builder_x_handle": "ashubhgupta",
+  "one_line_desc": "Files what is worth keeping from your bot chats into a private vault.",
+  "source_post_url": "https://x.com/ashubhgupta/status/2120460047247663504",
+  "found_at": "2026-11-11 21:42 IST",
+  "status": "listed"
+ },
+ {
+  "name": "Anime Series Maker (by SMF Works)",
+  "bot_id": "y5u0QPNwRuxoOfrjbRBcS",
+  "url": "https://x.ai/bot/y5u0QPNwRuxoOfrjbRBcS",
+  "builder_x_handle": "MichaelGannotti",
+  "one_line_desc": "Turns a photo into a seven-episode anime series, one episode each morning.",
+  "source_post_url": "https://x.com/MichaelGannotti/status/2120473507243106527",
+  "found_at": "2026-11-11 21:42 IST",
   "status": "listed"
  }
 ]
