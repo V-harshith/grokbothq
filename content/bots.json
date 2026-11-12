@@ -131574,5 +131574,268 @@
   "url": "https://x.ai/bot/_GmHdo3S_kpz_QE7r8fTs",
   "addedAt": "2026-11-12",
   "status": "published"
+ },
+ {
+  "slug": "meal-plan-bot",
+  "name": "Meal Plan Bot",
+  "builder": {
+   "name": "Lyndall Schreiner",
+   "x": "lyndallschreinr"
+  },
+  "tagline": "Plans the week's family dinners and writes the grocery list.",
+  "description": "Keeps a starter library of about 250 family recipes, builds a Monday-to-Friday plan from it, and sends a printable weekly plan plus a shopping list you can paste into a grocery service.",
+  "category": "life",
+  "url": "https://x.ai/bot/dHdfbaNGz_LpSdKUhptdd",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/lyndallschreinr/status/2107888353630908437"
+ },
+ {
+  "slug": "training-tina",
+  "name": "Training Tina",
+  "builder": {
+   "name": "James Harrison",
+   "x": ""
+  },
+  "tagline": "Turns tech basics into short lessons for seniors and beginners.",
+  "description": "Writes three-minute video scripts, large-print one-page cheat sheets and short quizzes on Windows, Office, iPhone and Android, with a plain lesson on spotting scams.",
+  "category": "life",
+  "url": "https://x.ai/bot/i-inX7Af2ipURfDp7jyJo",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "profit-piper",
+  "name": "Profit Piper",
+  "builder": {
+   "name": "James Harrison",
+   "x": ""
+  },
+  "tagline": "Tests whether a dropshipping niche can actually make money.",
+  "description": "Checks a product or niche against live sources, works the unit economics honestly, then drafts store pages and a small paid test plan.",
+  "category": "money",
+  "url": "https://x.ai/bot/LhY5SIoxmGNtruK9tT6IM",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "freelance-gig-launcher",
+  "name": "Freelance Gig Launcher",
+  "builder": {
+   "name": "James Harrison",
+   "x": ""
+  },
+  "tagline": "Turns one skill into a live freelance listing.",
+  "description": "Picks a service buyers actually pay for, then drafts the Fiverr gig or Upwork project: title, tags, packages and the delivery you can promise.",
+  "category": "money",
+  "url": "https://x.ai/bot/deFAUqEq7l00Mf1szKK3u",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "first-aid-freddie",
+  "name": "First Aid Freddie",
+  "builder": {
+   "name": "James Harrison",
+   "x": ""
+  },
+  "tagline": "Short first aid steps for everyday cuts, burns and stings.",
+  "description": "Walks through home first aid for minor injuries from trusted free sources, and says plainly when something is a should-we-go-in moment.",
+  "category": "life",
+  "url": "https://x.ai/bot/1Ple2zggzxFf5I9gLELQn",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "context-bleed",
+  "name": "Context Bleed",
+  "builder": {
+   "name": "Daniel Hall",
+   "x": ""
+  },
+  "tagline": "Audits your bot roster for context bleeding between bots.",
+  "description": "Reviews the bots on an account for leaked or crossed context and returns a plain-English visual report of what bled where.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/I1mJhcbHrtrrOMVvSm-DC",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "complaint-desk",
+  "name": "Complaint Desk",
+  "builder": {
+   "name": "James Harrison",
+   "x": ""
+  },
+  "tagline": "Writes the firm, polite complaint letter you keep putting off.",
+  "description": "Turns what went wrong with a purchase into a complaint with a clear ask and a deadline, then names the next step if the company stalls.",
+  "category": "life",
+  "url": "https://x.ai/bot/5hKy4J9Ks89rhjquUdVyT",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "weekend-planner-dom",
+  "name": "Weekend Planner",
+  "builder": {
+   "name": "Dom Gordon",
+   "x": ""
+  },
+  "tagline": "Plans one realistic Saturday around your budget and energy.",
+  "description": "Builds a light day plan from your constraints, weather, budget and who is around, and never books or buys anything without your say-so.",
+  "category": "life",
+  "url": "https://x.ai/bot/i6sl8bE1b5iGjO6xvnrm2",
+  "addedAt": "2026-11-13",
+  "status": "published"
+ },
+ {
+  "slug": "usage-guard-darius",
+  "name": "Usage Guard",
+  "builder": {
+   "name": "Darius",
+   "x": "realdariusdt"
+  },
+  "tagline": "Keeps weekly Grok Bot usage from running out before the week does.",
+  "description": "Tracks how fast weekly usage is burning, sets tiers from green down to essentials-only, and posts the status where your other bots can read it.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/PxcCV65N-vXjrbDfsIo8K",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/realdariusdt/status/2120720541162098832"
+ },
+ {
+  "slug": "unfollow-tracker-ezequiel",
+  "name": "Unfollow Tracker",
+  "builder": {
+   "name": "Ezequiel Ortiz",
+   "x": ""
+  },
+  "tagline": "Tells you each night who unfollowed you on X.",
+  "description": "Checks followers nightly and reports who left, with profile links and whether you still follow them back. Read-only.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/m6JWWKPk48r1GdQZTCc6Z",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/ZeekTyt/status/2120712828621639858"
+ },
+ {
+  "slug": "trust-and-estate-guide",
+  "name": "Trust & Estate Guide",
+  "builder": {
+   "name": "Hudson S.",
+   "x": "HudsonSutherla2"
+  },
+  "tagline": "Plain-language explainers for U.S. estate planning.",
+  "description": "Explains estate-planning concepts for education only, then builds the checklists and questions to bring to a licensed professional.",
+  "category": "money",
+  "url": "https://x.ai/bot/TQV4SmJpr4LT1zD15KVZ3",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/HudsonSutherla2/status/2120709410729201982"
+ },
+ {
+  "slug": "sunlight-fable",
+  "name": "Sunlight",
+  "builder": {
+   "name": "Developer",
+   "x": ""
+  },
+  "tagline": "Pairs a sourced news story with a fable and a one-line lesson.",
+  "description": "Picks a story from the categories you choose, matches it to a classic Aesop fable, and returns a card with a short lesson.",
+  "category": "life",
+  "url": "https://x.ai/bot/Xx52I_dqrAMi9o0_6H8xO",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/acornsoftai/status/2120553651593003209"
+ },
+ {
+  "slug": "spam-shield-mather",
+  "name": "Spam Shield",
+  "builder": {
+   "name": "Will Mather",
+   "x": "whatsthemather"
+  },
+  "tagline": "Cuts spam calls on the family's phones and keeps them cut.",
+  "description": "Turns on carrier blocking, Do Not Call registration and data-broker opt-outs, then rechecks the opt-outs weekly.",
+  "category": "life",
+  "url": "https://x.ai/bot/8oKuBfly1GouE7d3t6VLC",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/whatsthemather/status/2120687543838745046"
+ },
+ {
+  "slug": "matcher",
+  "name": "Matcher",
+  "builder": {
+   "name": "Soleio",
+   "x": "soleio"
+  },
+  "tagline": "Gets introductions that actually happen, not just drafted emails.",
+  "description": "Researches the right path to a person, drafts a forwardable intro ask, and tracks who still owes a reply.",
+  "category": "sales",
+  "url": "https://x.ai/bot/0SnmTNbfO4Icla-XZf9sh",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/soleio/status/2120673779932389857"
+ },
+ {
+  "slug": "ops-assistant",
+  "name": "Ops Assistant",
+  "builder": {
+   "name": "ashen one",
+   "x": "ashen_one"
+  },
+  "tagline": "A chief of staff for a creator's inbox, calendar and to-dos.",
+  "description": "Sweeps email including spam, calendar and tasks, vets every sponsor pitch, and keeps nudging until the day's loose ends are closed.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VbJunlT5rlXmOS6tdgu9O",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/ashen_one/status/2120804045720048046"
+ },
+ {
+  "slug": "phone-pilot",
+  "name": "Phone Pilot",
+  "builder": {
+   "name": "xTheMarketMaker MM",
+   "x": "xTheMarketMaker"
+  },
+  "tagline": "Drives your phone from a Windows PC, no Mac needed.",
+  "description": "Mirrors a live phone window on the desktop and works it from chat: opening apps, reading the screen and running a task end to end.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/p4_Hc9ZKYElvEFm8I62sC",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/xTheMarketMaker/status/2120752170580795725"
+ },
+ {
+  "slug": "lunarcrush",
+  "name": "LunarCrush",
+  "builder": {
+   "name": "NFT Metatron",
+   "x": ""
+  },
+  "tagline": "Crypto, stock and NFT social signals, ranked.",
+  "description": "Pulls LunarCrush data such as Galaxy Score, AltRank, social sentiment and top creators, then ranks it for traders session by session.",
+  "category": "money",
+  "url": "https://x.ai/bot/yJKYauGEVHVhLzntAT2S6",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/NFTMETATRONFT/status/2120654064593871003"
+ },
+ {
+  "slug": "meter-bonaparte",
+  "name": "Meter",
+  "builder": {
+   "name": "Bonaparte X",
+   "x": ""
+  },
+  "tagline": "Reads your Grok Bot usage on request, bot by bot.",
+  "description": "Returns one usage reading per request as a visual card, broken down by bot and routine, and flags bots that have gone quiet.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/yh-68UiQLHngfIs7NBZc9",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "source": "https://x.com/LempereurX/status/2120738193326665764"
  }
 ]
