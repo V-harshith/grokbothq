@@ -131196,5 +131196,383 @@
   "addedAt": "2026-11-12",
   "status": "published",
   "source": "https://x.com/thomstech12/status/2120660342212886565"
+ },
+ {
+  "slug": "website-betterment",
+  "name": "Website Betterment",
+  "builder": {
+   "name": "OG Trades",
+   "x": ""
+  },
+  "tagline": "Rebuilds a tired business site into a modern v2, tested on mobile and desktop.",
+  "description": "Builds, fixes or upgrades a business website from a brief or an existing site, checks it on mobile and desktop, and proposes a modern v2 for approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/6CBsINJvglOhUtvd9LkAG",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "computer-fix",
+  "name": "Computer Fix",
+  "builder": {
+   "name": "OG Trades",
+   "x": ""
+  },
+  "tagline": "Keeps a Windows PC healthy: crash diagnosis, startup cleanup, storage, gaming tuning.",
+  "description": "Diagnoses crashes, trims startup apps and storage, tames browser memory and tunes the machine for gaming, with weekly read-only checks. It leaves wallets and anything on a never-touch list alone.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/r6khvfbBq-4CcGQtWdY-b",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "x-and-socials",
+  "name": "X and Socials",
+  "builder": {
+   "name": "Gavin Hassett",
+   "x": "GavinHassett"
+  },
+  "tagline": "Approval-only X growth assistant that drafts posts, finds reply openings, screens DMs.",
+  "description": "Drafts posts and replies in your voice, surfaces fresh posts worth replying to and leads worth chasing, watches DMs for scams, and sends a weekly report on what worked. Every action waits for your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/AGfUE7oSq4xjOLToKnhsQ",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "who-unfollowed-me",
+  "name": "Who Unfollowed Me?",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "A morning unfollow report that matches your X Analytics numbers.",
+  "description": "Reports every morning who unfollowed you on X, split into verified and non-verified accounts, including the follow-then-unfollow-same-day cases. Daily counts are built to line up with X Analytics.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/HLioIbxbjlfdRMsfzv5-q",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "website-creation",
+  "name": "Website Creation",
+  "builder": {
+   "name": "Gavin Hassett",
+   "x": "GavinHassett"
+  },
+  "tagline": "Plans, builds, deploys and maintains a small business website.",
+  "description": "Handles page plans and copy, deployment, domains and DNS, legal pages, Search Console setup and SEO reports for founders and small businesses. Drafts come first and nothing goes live without a yes.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/lF8wwOd2fcSWjVFUGfJPW",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "grok-history-tidy",
+  "name": "Tidy · Grok History Tidy",
+  "builder": {
+   "name": "KiwiThinker",
+   "x": ""
+  },
+  "tagline": "Cleans up the one-off grok.com chats opened from X posts.",
+  "description": "Finds the single-question grok.com chats that the Grok button on X posts leaves behind and clears them out, one job only and only with your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/jlFb6I6n44NkizJkGkdai",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "rook-chief-of-staff-2",
+  "name": "Rook · Chief of Staff",
+  "builder": {
+   "name": "Sarah Brundige",
+   "x": "SpaceCowgirlTX"
+  },
+  "tagline": "Chief of staff for solo founders running a crew of bots.",
+  "description": "Runs a morning board, chases blockers, routes work to your other bots, and brings you only the decisions that need a human, each with a recommendation. Nothing is posted, sent, bought or deleted without your yes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/CR53dPKbs_rBRerKssfvD",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "repo-operational-head",
+  "name": "Repo Operational Head",
+  "builder": {
+   "name": "OG Trades",
+   "x": ""
+  },
+  "tagline": "Turns your bot skills and routines into clean public GitHub repos.",
+  "description": "Sanitizes your Grok Bot work, skills, routines, agent definitions and graphs, into documented public repositories plus matching templates, then reviews the portfolio against a best-practice protocol.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/QmoolLJGIjtCLyVe0m9Ii",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "renters-aid",
+  "name": "Renter's Aid",
+  "builder": {
+   "name": "iustina istrati",
+   "x": "iustinafractals"
+  },
+  "tagline": "Plain-language guide for US renters: leases, deposits, repairs, scams.",
+  "description": "Explains a lease in plain words and helps with deposits, repairs, fees, rent increases, eviction notices and fair housing. Move-in and move-out walk-throughs include a photo checklist, and it drafts letters for you to send yourself. Cites official sources; not a lawyer.",
+  "category": "life",
+  "url": "https://x.ai/bot/K9c_oAQYLeJwWu7klEpUF",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "podcast-bot",
+  "name": "Podcast bot",
+  "builder": {
+   "name": "Michael",
+   "x": ""
+  },
+  "tagline": "Turns a topic, account, document or routine into a short podcast.",
+  "description": "Produces a short audio episode or an MP4 with a designed PDF transcript from a topic, an X account, a document or a recurring routine. Voice, length, tone and sources are yours, using free neural voices or premium xAI voices.",
+  "category": "creative",
+  "url": "https://x.ai/bot/YFggDH_odcNVBwdtWOrzd",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "podcast-maker",
+  "name": "Podcast Maker",
+  "builder": {
+   "name": "Brian",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Topic, PDF or X account in, audio episode plus PDF transcript out.",
+  "description": "Turns a topic, an X account, a PDF or a daily routine into a short audio episode with a matching PDF transcript, in the length and tone you choose. Built for briefings, catch-ups, book summaries and comparison episodes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/4jZ1F9-oiByqI4nd04RKH",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "purple-elmo",
+  "name": "PURPLE ELMO",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Grumpy purple parody persona with roast replies and comedy bits.",
+  "description": "A satirical persona: the straight-laced purple cousin of Elmo, with roast replies, comedy bits and persona art. Written for the replies, not for real work.",
+  "category": "creative",
+  "url": "https://x.ai/bot/_P3b9QoovsuWZgXovGWYH",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "oss",
+  "name": "Oss",
+  "builder": {
+   "name": "Nate Lorenzen",
+   "x": "NateLorenzen"
+  },
+  "tagline": "BJJ training journal and technical coach that maps your game.",
+  "description": "Logs a Brazilian Jiu-Jitsu session from a plain-language description, analyses what worked and what failed, and builds a picture of your game over time.",
+  "category": "life",
+  "url": "https://x.ai/bot/zXq1mMFj9GMoZSJaj8Z0L",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "on-device-iphone-llm-expert",
+  "name": "On-Device iPhone LLM Expert",
+  "builder": {
+   "name": "OG Trades",
+   "x": ""
+  },
+  "tagline": "Picks and sets up open-weight LLMs that run offline on your iPhone.",
+  "description": "Chooses a model that fits your phone's RAM, sets it up to run fully offline, then tests speed, heat, battery drain and answer quality so you know what you are getting.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/G1ZOTtpS9XPPcAlUenBk1",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "modelbridge",
+  "name": "ModelBridge",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Picks and wires up LLM APIs, with blind comparisons.",
+  "description": "Covers OpenRouter, DeepSeek, Doubao/Ark, SiliconFlow, Bailian/Qwen and official APIs: model choices, key setup, sample code and common error fixes, plus blind side-by-side comparisons.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/IrGMhnbgt36m0MgejATyO",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "mantis-ooi",
+  "name": "MANTIS OOI",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Terse sitreps in the voice of Mantis OOI from AnkhBunny.",
+  "description": "Answers in short system-log sitreps as the Mantis OOI character, checking its claims against Cormich44's real posts and the companion site that updates daily.",
+  "category": "creative",
+  "url": "https://x.ai/bot/z9Vpx9uJ3DcJhN67F4zAt",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "job-hunt-loop",
+  "name": "Job Hunt Loop",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Unattended job-hunt cycle: refresh, tailor, apply, keep evidence.",
+  "description": "Runs a repeating job-search loop: refresh stale chats, handle resume requests after you upload a profile and agree, search within caps, tailor the resume, write a short opener and keep an evidence trail. Built for job seekers, not recruiters.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/K8hMUvbWVbxvZMTZxxurG",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "ive-had-it-bot",
+  "name": "I’ve Had It Bot",
+  "builder": {
+   "name": "Kevin Chau",
+   "x": "kchau"
+  },
+  "tagline": "Verifies podcast advertiser claims, drafts complaints for your approval.",
+  "description": "Checks the evidence behind I’ve Had It podcast advertisers and prepares factual, individual complaint emails. Nothing sends until you approve it.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/r8tSQcvSnThG6D1m4NZmD",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "investment",
+  "name": "Investment",
+  "builder": {
+   "name": "Gavin Hassett",
+   "x": "GavinHassett"
+  },
+  "tagline": "Reviews your portfolio, flags concentration risk, drafts trades.",
+  "description": "Reviews holdings, flags concentration risk, researches ideas and drafts trades for your approval. It does not move money without your OK.",
+  "category": "money",
+  "url": "https://x.ai/bot/KXakA5spNuwLQpseQtdOZ",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "image-ad-creator",
+  "name": "Image Ad creator",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Builds Meta image ads from your own product photos.",
+  "description": "Makes Facebook and Instagram image ads from real product photos, with full ad copy for each variant. Aimed at small business owners running their own campaigns.",
+  "category": "creative",
+  "url": "https://x.ai/bot/_M-5QU7X4Rxs1yY_c5Gxe",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "house-historian",
+  "name": "House Historian",
+  "builder": {
+   "name": "Jamizon",
+   "x": ""
+  },
+  "tagline": "Remembers every appliance, repair, warranty and upgrade in your house.",
+  "description": "Builds a history of the house from your own email and files: appliances, repairs, warranties and upgrades. Flags deadlines, drafts claims and hands over a clean binder for the next owner.",
+  "category": "life",
+  "url": "https://x.ai/bot/opC1CDtHVxBcuhi_wy4fb",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "home-inventory-for-insurance",
+  "name": "Home Inventory for Insurance",
+  "builder": {
+   "name": "Kimberly Hunter",
+   "x": "hd99p"
+  },
+  "tagline": "Room-by-room home inventory with values and a yearly limit check.",
+  "description": "Turns photos, receipts or lists into an organized room-by-room inventory with values, serial numbers and receipt notes, then checks the total against your contents limit once a year. General information only.",
+  "category": "life",
+  "url": "https://x.ai/bot/bJJ5XU0SKaXhul9qoRWYX",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "freezes-diary",
+  "name": "Freeze’s Diary",
+  "builder": {
+   "name": "X Freeze",
+   "x": "XFreeze"
+  },
+  "tagline": "Talk or type your day; it files a dated diary entry in Drive or Notion.",
+  "description": "Takes whatever you say or type about your day, including photos, and turns it into clean dated journal entries saved to your own Google Drive or Notion.",
+  "category": "life",
+  "url": "https://x.ai/bot/0ZqYA7Jw6SB5_pvZLGv7p",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "freeze-storm-loss-prevention-watch",
+  "name": "Freeze & Storm Loss-Prevention Watch",
+  "builder": {
+   "name": "Kimberly Hunter",
+   "x": "hd99p"
+  },
+  "tagline": "Warns before a hard freeze, high wind, heavy snow or flood hits your ZIP.",
+  "description": "Watches the forecast for your ZIP code and stays quiet until a hard freeze, high wind, heavy snow or flood threat is coming, then sends a short checklist for the house. Also provides seasonal home checklists. General information only.",
+  "category": "life",
+  "url": "https://x.ai/bot/dBOkJdoTMRFmGLhtilZ5P",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "email-management-and-support",
+  "name": "Email Management and Support",
+  "builder": {
+   "name": "Gavin Hassett",
+   "x": "GavinHassett"
+  },
+  "tagline": "Keeps Gmail or Outlook clean and lists what still needs a reply.",
+  "description": "Trashes obvious junk, files keepers into labels and flags likely scams, then twice a week lists the mail waiting on you with suggested replies. Nothing is sent without your OK.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/3blTDq4srzRZVxgG8Vfed",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "ebook-creation",
+  "name": "Ebook Creation",
+  "builder": {
+   "name": "Gavin Hassett",
+   "x": "GavinHassett"
+  },
+  "tagline": "Turns build stories and playbooks into Amazon-ready book files.",
+  "description": "Takes real build stories and DIY playbooks through research, manuscript, covers, the KDP listing and launch checklists, delivering Kindle, paperback and hardcover files.",
+  "category": "creative",
+  "url": "https://x.ai/bot/-tiCkdpDoQiRcHbbXcIjU",
+  "addedAt": "2026-11-12",
+  "status": "published"
+ },
+ {
+  "slug": "ftc-complaint-agent",
+  "name": "FTC Complaint Agent",
+  "builder": {
+   "name": "Justin White",
+   "x": "medicinalsheep"
+  },
+  "tagline": "Files FCC, FTC and IC3 complaints about spam calls and phishing.",
+  "description": "Turns spam calls, robocalls, spoofed numbers and phishing emails into FCC, FTC and FBI IC3 complaints, and can submit them on the official sites for you.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_GmHdo3S_kpz_QE7r8fTs",
+  "addedAt": "2026-11-12",
+  "status": "published"
  }
 ]
