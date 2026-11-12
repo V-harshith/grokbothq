@@ -1,6 +1,13 @@
 [
   {
     "date": "2026-11-02",
+    "title": "Introducing Grok Bot 1.0",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/grok-bot-1-0",
+    "summary": "Grok Bot left beta with 1.0: Team Bots can be shared with specific people or groups, worked with inside Slack and Microsoft Teams, and brought into video calls, where they follow the discussion and keep track of decisions. Bots are also more proactive, picking up unfinished work and asking for approval only when an action needs it."
+  },
+  {
+    "date": "2026-11-02",
     "title": "Giving every team a data scientist with Grok Bot",
     "source": "SpaceXSI News",
     "url": "https://x.ai/news/data-bot",
@@ -96,12 +103,5 @@
     "source": "xAI News",
     "url": "https://x.ai/news/designing-grok-bot",
     "summary": "xAI published a design write-up on the Grok Bot avatar system and how the product was shaped around agents that keep running between conversations."
-  },
-  {
-    "date": "2026-09-03",
-    "title": "Grok Bot for Enterprise",
-    "source": "xAI News",
-    "url": "https://x.ai/news/grok-bot-for-enterprise",
-    "summary": "xAI made Grok Bot available to enterprises. Grok and Cursor Enterprise customers get two weeks of free usage and can invite their whole organization, including people without an existing seat."
   }
 ]
