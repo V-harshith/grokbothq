@@ -20,7 +20,7 @@ export const botMap = new Map(bots.map((b) => [b.slug, b]));
 /**
  * Index gate.
  *
- * 7,600 listings is more than a young domain can earn trust for: Search Console
+ * A directory this size is more than a young domain can earn trust for: Search Console
  * showed 24 pages crawled of 5,943 submitted, and a single impression. Thin
  * listings (no installs, no features, a 170-character description repeated from
  * the tagline) dilute the whole set, so they stay reachable and linkable but are
