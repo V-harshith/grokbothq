@@ -132540,5 +132540,69 @@
   "source": "https://x.com/toannhu_it/status/2120769453973770385",
   "addedAt": "2026-11-13",
   "status": "published"
+ },
+ {
+  "slug": "data-bot-aryaman",
+  "name": "Data Bot",
+  "builder": {
+   "name": "Aryaman Khandelwal",
+   "x": ""
+  },
+  "tagline": "Read-only warehouse answers with metric definitions and charts; learns from every correction.",
+  "description": "Takes one-off data questions from your team and answers them with read-only queries, clear metric definitions and charts. It keeps every correction and confirmation, so the answers get better for everyone over time.",
+  "category": "research",
+  "url": "https://x.ai/bot/1AEEU5lIoAeb4gQM20vj3",
+  "source": "https://x.ai/news/team-bots",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "hue": 330
+ },
+ {
+  "slug": "epd-teammate",
+  "name": "EPD Teammate",
+  "builder": {
+   "name": "Aryaman Khandelwal",
+   "x": ""
+  },
+  "tagline": "Keeps one EPD project moving: Slack context, Linear bugs, cloud agents returning verified PRs.",
+  "description": "Coordinates a single engineering, product and design project. It follows the project's Slack channels, files clear bugs in Linear, and runs Cursor cloud agents that come back with green, verified pull requests, so the team stays in sync.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/bt93P5KxADS3G69xRa_q1",
+  "source": "https://x.ai/news/team-bots",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "hue": 173
+ },
+ {
+  "slug": "customer-bot",
+  "name": "Customer Bot",
+  "builder": {
+   "name": "Aryaman Khandelwal",
+   "x": ""
+  },
+  "tagline": "One shared Bot per customer account: weekday brief plus each teammate's next move.",
+  "description": "A shared Bot for a single customer account. It keeps the account executive, success manager, solutions architect and sales lead on the same page, posts a weekday morning brief, and drafts the next move for each person.",
+  "category": "sales",
+  "url": "https://x.ai/bot/XuWFUtbBJNcGBisijI1FZ",
+  "source": "https://x.ai/news/team-bots",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "hue": 211
+ },
+ {
+  "slug": "marketing-bot-aryaman",
+  "name": "Marketing Bot",
+  "builder": {
+   "name": "Aryaman Khandelwal",
+   "x": ""
+  },
+  "tagline": "Brand-guideline reviews, with approved website and SEO changes taken to sign-off.",
+  "description": "Reviews marketing work against your brand guidelines and latest messaging, then carries approved website and SEO changes from review to preview to sign-off, so each region can ship on its own schedule.",
+  "category": "sales",
+  "url": "https://x.ai/bot/YHpL0gdPx1l98iS02wGak",
+  "source": "https://x.ai/news/team-bots",
+  "addedAt": "2026-11-13",
+  "status": "published",
+  "hue": 154
  }
 ]

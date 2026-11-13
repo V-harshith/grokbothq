@@ -1,69 +1,5 @@
 [
  {
-  "name": "英语助教",
-  "bot_id": "eN7pqix_D4P-GHwymr8KZ",
-  "url": "https://x.ai/bot/eN7pqix_D4P-GHwymr8KZ",
-  "builder_x_handle": "allenli852",
-  "one_line_desc": "Daily spoken-English practice with pronunciation corrections.",
-  "source_post_url": "https://x.com/allenli852/status/2120719085634011226",
-  "found_at": "2026-11-13 17:07 IST",
-  "found_via": "grokbots.best/bots/english-speaking-tutor-allenli",
-  "status": "listed"
- },
- {
-  "name": "Firearms & Training Tracker",
-  "bot_id": "2wlIvV38-7Unr0mHx5Q2R",
-  "url": "https://x.ai/bot/2wlIvV38-7Unr0mHx5Q2R",
-  "builder_x_handle": "Bmt0180",
-  "one_line_desc": "Round counts, maintenance and drill times for your range days.",
-  "source_post_url": "https://x.com/Bmt0180/status/2120868450532733055",
-  "found_at": "2026-11-13 17:07 IST",
-  "found_via": "grokbots.best/bots/firearms-training-tracker",
-  "status": "listed"
- },
- {
-  "name": "Fitness Coach",
-  "bot_id": "7UYk0cgWAnHRMhvTPaijC",
-  "url": "https://x.ai/bot/7UYk0cgWAnHRMhvTPaijC",
-  "builder_x_handle": "Bmt0180",
-  "one_line_desc": "Running and strength plan built around your real schedule.",
-  "source_post_url": "https://x.com/Bmt0180/status/2120868434686968193",
-  "found_at": "2026-11-13 17:07 IST",
-  "found_via": "grokbots.best/bots/schedule-aware-fitness-coach",
-  "status": "listed"
- },
- {
-  "name": "Job Hunter",
-  "bot_id": "47756ENnbomzwCKRdvQCb",
-  "url": "https://x.ai/bot/47756ENnbomzwCKRdvQCb",
-  "builder_x_handle": "toannhu_it",
-  "one_line_desc": "Resume-matched job search plus hiring-manager research.",
-  "source_post_url": "https://x.com/toannhu_it/status/2120769453973770385",
-  "found_at": "2026-11-13 17:07 IST",
-  "found_via": "grokbots.best/bots/firecrawl-job-hunter",
-  "status": "listed"
- },
- {
-  "name": "Follow Cleanup",
-  "bot_id": "EqfMGnnpc2MfXgoghzX8N",
-  "url": "https://x.ai/bot/EqfMGnnpc2MfXgoghzX8N",
-  "builder_x_handle": "",
-  "one_line_desc": "Cleans up who you follow on X, with your approval before anything changes.",
-  "source_post_url": "https://x.com/ajah_elube/status/2120851978653704481",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Money · Household Budget Officer",
-  "bot_id": "lWCcwaFT9mqgAdwfxCFyd",
-  "url": "https://x.ai/bot/lWCcwaFT9mqgAdwfxCFyd",
-  "builder_x_handle": "",
-  "one_line_desc": "Logs household spending and bills, then tells you what is actually free to spend.",
-  "source_post_url": "https://x.com/Bmt0180/status/2120868431801053303",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
   "name": "Career Officer",
   "bot_id": "EFWKSh78uCIohV17Sb1_A",
   "url": "https://x.ai/bot/EFWKSh78uCIohV17Sb1_A",
@@ -502,5 +438,71 @@
   "source_post_url": "https://x.com/var_wish/status/2120658746846101930",
   "found_at": "2026-11-12 09:58 IST",
   "status": "listed"
+ },
+ {
+  "name": "Data Bot",
+  "bot_id": "1AEEU5lIoAeb4gQM20vj3",
+  "url": "https://x.ai/bot/1AEEU5lIoAeb4gQM20vj3",
+  "builder_x_handle": "",
+  "one_line_desc": "Read-only warehouse answers with metric definitions and charts; learns from every correction.",
+  "source_post_url": "https://x.ai/news/team-bots",
+  "found_at": "2026-11-13 23:19 IST",
+  "found_via": "x.ai/news/team-bots",
+  "status": "listed"
+ },
+ {
+  "name": "EPD Teammate",
+  "bot_id": "bt93P5KxADS3G69xRa_q1",
+  "url": "https://x.ai/bot/bt93P5KxADS3G69xRa_q1",
+  "builder_x_handle": "",
+  "one_line_desc": "Keeps one EPD project moving: Slack context, Linear bugs, cloud agents returning verified PRs.",
+  "source_post_url": "https://x.ai/news/team-bots",
+  "found_at": "2026-11-13 23:19 IST",
+  "found_via": "x.ai/news/team-bots",
+  "status": "listed"
+ },
+ {
+  "name": "Customer Bot",
+  "bot_id": "XuWFUtbBJNcGBisijI1FZ",
+  "url": "https://x.ai/bot/XuWFUtbBJNcGBisijI1FZ",
+  "builder_x_handle": "",
+  "one_line_desc": "One shared Bot per customer account: weekday brief plus each teammate's next move.",
+  "source_post_url": "https://x.ai/news/team-bots",
+  "found_at": "2026-11-13 23:19 IST",
+  "found_via": "x.ai/news/team-bots",
+  "status": "listed"
+ },
+ {
+  "name": "Marketing Bot",
+  "bot_id": "YHpL0gdPx1l98iS02wGak",
+  "url": "https://x.ai/bot/YHpL0gdPx1l98iS02wGak",
+  "builder_x_handle": "",
+  "one_line_desc": "Brand-guideline reviews, with approved website and SEO changes taken to sign-off.",
+  "source_post_url": "https://x.ai/news/team-bots",
+  "found_at": "2026-11-13 23:19 IST",
+  "found_via": "x.ai/news/team-bots",
+  "status": "listed"
+ },
+ {
+  "name": "AISØN Vice Captain",
+  "bot_id": "Kn0qDWAH3LrNZHhllpPhW",
+  "url": "https://x.ai/bot/Kn0qDWAH3LrNZHhllpPhW",
+  "builder_x_handle": "Aeli_Son001",
+  "one_line_desc": "",
+  "source_post_url": "",
+  "found_at": "2026-11-13 23:19 IST",
+  "found_via": "grokbotwiki.com/bots/catalog.json",
+  "status": "rejected: share page returns 404 (link dead)"
+ },
+ {
+  "name": "Grok Deck",
+  "bot_id": "Ja9NzNTRz2ozzQLNfrJwI",
+  "url": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+  "builder_x_handle": "MaiYangAI",
+  "one_line_desc": "HTML slide decks in the Grok Bot look.",
+  "source_post_url": "https://x.com/MaiYangAI/status/2094400777553072323",
+  "found_at": "2026-11-13 23:19 IST",
+  "found_via": "x.com/MaiYangAI status expand via fxtwitter",
+  "status": "rejected: already listed as grok-deck (same url)"
  }
 ]
