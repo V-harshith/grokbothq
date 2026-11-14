@@ -133125,5 +133125,410 @@
   "addedAt": "2026-11-14",
   "status": "published",
   "source": "https://x.com/billycanada/status/2121407513752994121"
+ },
+ {
+  "slug": "iris-taxops",
+  "name": "Iris",
+  "builder": {
+   "name": "Dontoh",
+   "x": "ryandontoh"
+  },
+  "tagline": "Bookkeeping and tax-season assistant for a small business owner and their personal return.",
+  "description": "For an S-corp or LLC owner: keeps the books current, tracks filing and payment deadlines, and prepares the return for your review rather than filing on its own. Covers the business books and the personal return together.",
+  "category": "money",
+  "url": "https://x.ai/bot/SRFldzdVfk6AEWQfqKGV8",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/ryandontoh/status/2121422601562288175"
+ },
+ {
+  "slug": "judge-judy",
+  "name": "Judge Judy",
+  "builder": {
+   "name": "Dontoh",
+   "x": "ryandontoh"
+  },
+  "tagline": "Case tracker and research hand for small disputes, from security deposits to insurance claims.",
+  "description": "Handles everyday disputes: a withheld deposit, an insurance claim, a consumer complaint, a contract or a small-claims filing. Keeps a timeline per case, watches deadlines and incoming case mail, and drafts letters for you to send. It is not a lawyer and does not represent anyone.",
+  "category": "life",
+  "url": "https://x.ai/bot/6GbVydtY7AMEx7EewO758",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/ryandontoh/status/2121422605164871705"
+ },
+ {
+  "slug": "candy-visual-design",
+  "name": "Candy",
+  "builder": {
+   "name": "Dontoh",
+   "x": "ryandontoh"
+  },
+  "tagline": "Brand-styled graphics for sales and recruiting teams: promotions, org charts, call recaps.",
+  "description": "Builds the visuals a sales or recruiting team posts over and over: promotion announcements, hierarchy explainers, weekly call graphics and recognition pieces. Output follows one gold, black and blue house style so a run of posts reads as one brand.",
+  "category": "creative",
+  "url": "https://x.ai/bot/FPTfup7DD_mhQQo1hk9YJ",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/ryandontoh/status/2121422608898183509"
+ },
+ {
+  "slug": "brand-desk",
+  "name": "Brand Desk",
+  "builder": {
+   "name": "Vishnu Vardhan Reddy",
+   "x": ""
+  },
+  "tagline": "Watches a creator’s inbox for brand deals, vets each one, drafts the rate reply.",
+  "description": "One job: catch sponsorship and partnership email, confirm the sender is a real brand, suggest a rate from your own numbers, and draft the reply or counter for approval. Tracks each deal until payment lands. Nothing goes out until you approve the wording.",
+  "category": "sales",
+  "url": "https://x.ai/bot/CAiFsbXPdijNbPctflDRo",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/var_wish/status/2121429295088255157"
+ },
+ {
+  "slug": "busysignal",
+  "name": "BusySignal",
+  "builder": {
+   "name": "MOPROD Music",
+   "x": ""
+  },
+  "tagline": "Read-only watchdog for a UniFi home network, with plain-English fixes you apply yourself.",
+  "description": "Monitors a UniFi setup without write access, explains what is actually wrong in ordinary language, and hands you the exact steps to fix it. It changes nothing on the network on its own.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/zfupvzSQnURW-YdnW781u",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/4TechX/status/2121452548334961030"
+ },
+ {
+  "slug": "bot-splitter",
+  "name": "Bot Splitter",
+  "builder": {
+   "name": "Carlos Benavides M.",
+   "x": "Calrornds"
+  },
+  "tagline": "Splits an overloaded bot into focused ones without losing what it has learned.",
+  "description": "For the bot that ended up doing everything: proposes a split into narrower bots, carries the relevant knowledge across, and shows one plan card and one closing card to approve. Useful when a general assistant is the reason nothing gets finished.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/Calrornds/status/2121453849114218513"
+ },
+ {
+  "slug": "robinrich",
+  "name": "RobinRich",
+  "builder": {
+   "name": "Pete Biggam",
+   "x": "petebiggam"
+  },
+  "tagline": "Robinhood position watcher and crypto auto-trader inside limits you write down.",
+  "description": "Tracks your holdings against market data, flags entry and exit windows, and can trade crypto in a Robinhood Agentic account within limits you set in writing. The written limits are the point: it does not improvise past them.",
+  "category": "money",
+  "url": "https://x.ai/bot/e5Y9j0B5vtJLAJoqBpYVj",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/petebiggam/status/2121508827090899119"
+ },
+ {
+  "slug": "diannao-bot",
+  "name": "电脑Bot",
+  "builder": {
+   "name": "Chasen",
+   "x": "chasen_liao"
+  },
+  "tagline": "Chinese-language PC and server steward: installs software, checks resources, restores setups.",
+  "description": "A Chinese-language caretaker for a desktop or server: installs software, checks CPU, memory and disk, keeps services running, diagnoses network faults, and rebuilds the environment after an OS update or a reinstall. For people who would rather not run daily maintenance by hand.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/4Zydih9b5ja4H_rw1JfYM",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/chasen_liao/status/2121520995546853861"
+ },
+ {
+  "slug": "engineering-cost-consultant-cn",
+  "name": "工程咨询专家",
+  "builder": {
+   "name": "阿嚓 小",
+   "x": ""
+  },
+  "tagline": "Chinese engineering-cost and tender advisor that cites the standard edition it quotes.",
+  "description": "Built for cost engineers, tender agents and government investment auditors in China. Reads the reference library, walks through business processes and calculation rules, and turns a brief into functional requirements for a digital tool. Links the national cost database read-only and names the edition it used. It does not replace a formal audit or a signed opinion.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/DlixFdCuzb5XLbSaq4lFr",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/ramdolphlim/status/2121544909849022656"
+ },
+ {
+  "slug": "claude-to-grok-converter",
+  "name": "Claude to Grok Converter",
+  "builder": {
+   "name": "Maume Fabian",
+   "x": "FabianMaume"
+  },
+  "tagline": "Turns a Claude skill on GitHub into a working Grok Bot with saved instructions.",
+  "description": "Give it a GitHub link to a Claude skill and it rebuilds that workflow as a Grok Bot: adapts the instructions, stores them as reusable skills, and packages the result as a template you can share.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/x7YM1itW1naKwErWhH_Wt",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/FabianMaume/status/2121559326716276760"
+ },
+ {
+  "slug": "x-follow-cleanup-jp",
+  "name": "Xフォロー整理くん",
+  "builder": {
+   "name": "ふくぶん(Fukubun)",
+   "x": "FFBuncho"
+  },
+  "tagline": "Japanese bot that lists dormant or spam accounts in your X follows and unfollows in slow batches.",
+  "description": "Scans the accounts you follow and your followers against rules you set, and lists the ones that look inactive or spammy. Only accounts you approve are removed, and removals go out in small batches so X does not read them as spam behaviour.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/BKiWfSJRirU2aNGKFwIm_",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/FFBuncho/status/2121560282724262267"
+ },
+ {
+  "slug": "pulpit-prep",
+  "name": "Pulpit Prep",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Sermon prep for pastors: passage context, big idea, outline, illustrations, closing prayer.",
+  "description": "Give it a passage or a theme and it returns the background, key words in the original language, one big idea, an outline, everyday illustrations, application questions and a closing prayer. Built for pastors, lay preachers and small-group leaders who want a draft to edit.",
+  "category": "life",
+  "url": "https://x.ai/bot/OXjYSQ0dw1sCKOaT6EFAX",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222947108970541"
+ },
+ {
+  "slug": "chapter-keeper",
+  "name": "Chapter Keeper",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Bible reading plans that bend around missed days instead of breaking.",
+  "description": "Builds a reading plan around the time you actually have, from five minutes a day to the whole Bible in a year, plus topical and small-group plans. Remembers where you stopped, catches you up after a gap, and closes each session with a short summary and one reflection prompt.",
+  "category": "life",
+  "url": "https://x.ai/bot/b92l99ip-uTS6jfduppF7",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222949504008683"
+ },
+ {
+  "slug": "pew-scout",
+  "name": "Pew Scout",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Finds nearby churches that match what you care about, with first-visit details.",
+  "description": "For someone new to faith, new to a town or returning after years away. Learns what matters to you and returns a short list of nearby churches with their own sites, listed service times and a note on what a first visit is like, then asks you to confirm a detail before you rely on it.",
+  "category": "life",
+  "url": "https://x.ai/bot/fO6vMJpb9BqoCfSLOAhkE",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222952792539398"
+ },
+ {
+  "slug": "hidden-fast",
+  "name": "Hidden Fast",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Fasting companion that sets a prayer focus and keeps daily check-ins gentle.",
+  "description": "Helps you pick a fast and a prayer focus, then stays with you through it with daily Scripture, check-ins and journaling. Written to be non-judgmental, and it puts health and safety ahead of the plan.",
+  "category": "life",
+  "url": "https://x.ai/bot/pqBJ5xfkKBj8ykE10CpAf",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222956198318317"
+ },
+ {
+  "slug": "valley-walk",
+  "name": "Valley Walk",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Grief companion that listens first and offers Scripture only when you want it.",
+  "description": "For the loss of someone close: it lets you talk about the person you miss before offering anything. When you want them it brings Scripture and short prayers, and it can help draft a eulogy, a sympathy note or a reminder for an anniversary. It does not rush the conversation.",
+  "category": "life",
+  "url": "https://x.ai/bot/hxiUDus9TK4v5AvFn9iGz",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222959595737341"
+ },
+ {
+  "slug": "mercies-anew",
+  "name": "Mercies Anew",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Daily devotional: one verse, a plain reflection, a short prayer, and questions answered.",
+  "description": "A short daily devotional shaped as a verse, a reflection in ordinary language and a brief prayer, with room to ask Scripture questions or pray about something specific. Kept warm and plain rather than preachy.",
+  "category": "life",
+  "url": "https://x.ai/bot/0LIHhasCNRr7h8Q-DQHVh",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222962951110748"
+ },
+ {
+  "slug": "worship-set",
+  "name": "Worship Set",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Builds worship setlists by theme, tempo and key, with readings and transitions.",
+  "description": "Assembles a playlist or a service setlist around a theme, ordered by tempo and key, with a Scripture reading and suggested spoken transitions. Names songs and writers accurately, does not paste full lyrics, and returns a running order you can hand to a team.",
+  "category": "creative",
+  "url": "https://x.ai/bot/HSFAsN2DQYGCkVL6sihfJ",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222965375152512"
+ },
+ {
+  "slug": "unashamed",
+  "name": "Unashamed",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Drafts calm, sourced answers to hard faith questions on X.",
+  "description": "Paste a difficult question about faith and it drafts a reply, a short thread and the sources behind each claim with chapter and verse, in the voice of your own tradition and pitched at whoever asked. It checks quotes and only drafts: you post.",
+  "category": "creative",
+  "url": "https://x.ai/bot/AYeOyvSUh8eDxY-4rVO-f",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222967816327279"
+ },
+ {
+  "slug": "goodnight-shepherd",
+  "name": "Goodnight Shepherd",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Bedtime Bible stories for ages 3 to 10, with questions, prayer and a simple craft.",
+  "description": "Produces a short Bible story a parent can read aloud at bedtime, with the passage, a one-line lesson, questions for the child, a bedtime prayer and an easy craft. Ask for a theme such as courage, or plan a week of stories in advance.",
+  "category": "life",
+  "url": "https://x.ai/bot/ns3nh-waB0sLAxRw9gugr",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222970135675023"
+ },
+ {
+  "slug": "testimony-bot",
+  "name": "Testimony",
+  "builder": {
+   "name": "The Factory Preacher",
+   "x": ""
+  },
+  "tagline": "Interview-style writing coach for telling your faith story in your own words.",
+  "description": "Asks five, ten or twenty questions so you can tell your own story, lets you skip any of them, and drafts when you are ready. Shapes the result into a one-minute or three-minute spoken testimony, a post or a letter, without pushing you to make it neater than it was.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Wwo7iTSQWLjQu_zZVtdD8",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/factorypastor/status/2121222972388077935"
+ },
+ {
+  "slug": "doge-audit",
+  "name": "DOGE Audit",
+  "builder": {
+   "name": "blaine ®",
+   "x": ""
+  },
+  "tagline": "Audits public government documents and datasets, reports findings with receipts.",
+  "description": "Reads public government reports, documents and datasets for efficiency and security anomalies, and reports raw findings with the source attached and no editorialising. Can also run an hourly watch on a state’s political news.",
+  "category": "research",
+  "url": "https://x.ai/bot/whzAK316J25XDvdWf_OsU",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/tigerndr/status/2121256253296988180"
+ },
+ {
+  "slug": "night-shift-writer",
+  "name": "야간조 라이터",
+  "builder": {
+   "name": "Bookiroad",
+   "x": "bookiroad1"
+  },
+  "tagline": "Korean X night-shift writer: one draft per topic in the owner’s own voice.",
+  "description": "The writing seat on a six-bot Korean X night shift. On first run it collects your name, your account’s subject and at least five posts you wrote yourself, then records your sentence length, endings, emoji habits and banned phrases as a voice file. Each night it turns one topic from the trend hunter into a single draft with three hook options.",
+  "category": "creative",
+  "url": "https://x.ai/bot/lYdKzl__njJGRUDOpQtHC",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/bookiroad1/status/2121263819691573447"
+ },
+ {
+  "slug": "night-shift-trend-hunter",
+  "name": "야간조 트렌드 헌터",
+  "builder": {
+   "name": "Bookiroad",
+   "x": "bookiroad1"
+  },
+  "tagline": "Korean night-shift scout that finds three rising topics at 23:00 and passes them on.",
+  "description": "First bot of a six-bot Korean night shift. Uses X’s public read tools to look at the last 24 hours in your field, drops topics that have already peaked, and hands three that are only starting to move to the writer at 23:00 your time.",
+  "category": "creative",
+  "url": "https://x.ai/bot/3UGEWQBK0JwHRSB_NahzH",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/bookiroad1/status/2121263819691573447"
+ },
+ {
+  "slug": "call-follow-up-nudge",
+  "name": "Call Follow-Up Nudge",
+  "builder": {
+   "name": "la’fe",
+   "x": "Lafe8088"
+  },
+  "tagline": "Post-call follow-up scheduler that chases the right person without nagging.",
+  "description": "After a first sales or discovery call it works out who to follow up with, when, and what to say, and keeps the sequence from reading like the same template repeated.",
+  "category": "sales",
+  "url": "https://x.ai/bot/Z22sOH2A4RxbBBy7uIUHa",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/Lafe8088/status/2121293618178855358"
+ },
+ {
+  "slug": "giving-guide",
+  "name": "Giving Guide",
+  "builder": {
+   "name": "Santa",
+   "x": ""
+  },
+  "tagline": "Checks a charity before you donate, matched to your causes and verified live.",
+  "description": "Suggests three charities for the causes you pick and checks each one live, looks up any charity by name, and explains giving options in plain language. Information only: it never moves money, and it is not tax, legal or financial advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/KZqUt1PM741V0ly8fOr94",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/JimothyRac/status/2121331084000670168"
+ },
+ {
+  "slug": "heads-up-alerts",
+  "name": "Heads Up",
+  "builder": {
+   "name": "Vishnu Vardhan Reddy",
+   "x": ""
+  },
+  "tagline": "One calm alert feed for outages, severe weather, quakes and fires near you.",
+  "description": "Watches for service outages, severe weather, earthquakes, wildfires and serious safety incidents in the places you care about. Pings once when something serious starts and once when it ends, each with a source link, and stays quiet in between.",
+  "category": "life",
+  "url": "https://x.ai/bot/ZJA0FE47jDtUJbkHH_I1Y",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/var_wish/status/2121384131237978483"
  }
 ]
