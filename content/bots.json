@@ -132870,5 +132870,260 @@
   "url": "https://x.ai/bot/6AtSvXCIaSReHc-6IG8MN",
   "addedAt": "2026-11-14",
   "status": "published"
+ },
+ {
+  "slug": "photo-slicer",
+  "name": "Photo Slicer",
+  "builder": {
+   "name": "Jonathan Newburg",
+   "x": "realjohnnewburg"
+  },
+  "tagline": "Splits one photo into up to 20 equal portrait tiles, ready for a multi-photo X post.",
+  "description": "Takes a single image plus the number of pieces you want, cuts it into equal 3:4 portrait slices, numbers them left to right, and returns them as a zip.",
+  "category": "creative",
+  "url": "https://x.ai/bot/YM6hH-UOshTypVOtWE4jf",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2121041841176883692"
+ },
+ {
+  "slug": "internet-bill-cutter",
+  "name": "Internet Bill Cutter",
+  "builder": {
+   "name": "Pablo",
+   "x": ""
+  },
+  "tagline": "Finds the cheapest home internet at your address and flags promo price jumps.",
+  "description": "Checks the providers available at a household address, compares real cost including fees and promo expiry, and tracks the month the price steps up so you can switch or renegotiate.",
+  "category": "money",
+  "url": "https://x.ai/bot/pR_iACCVED_Cx73I_1fhc",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2120971913262477430"
+ },
+ {
+  "slug": "spacex-merch-alert",
+  "name": "SpaceX merch Alert",
+  "builder": {
+   "name": "m.a.p.",
+   "x": ""
+  },
+  "tagline": "Watches the SpaceX store for drops, restocks and sales, then pings you.",
+  "description": "Monitors the SpaceX store for new releases, restocked items, launch merch and sales, and messages you when something on your watch list shows up.",
+  "category": "life",
+  "url": "https://x.ai/bot/A41ifyrQ1oLOom0uRhZ9v",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2120867653388513744"
+ },
+ {
+  "slug": "daily-bread",
+  "name": "Daily Bread",
+  "builder": {
+   "name": "John",
+   "x": ""
+  },
+  "tagline": "A daily Bible verse with its context, a reflection and a reading plan.",
+  "description": "Sends one verse a day with its historical setting, what it meant then, a life application for today, plus reflection prompts, prayer and themed reading plans.",
+  "category": "life",
+  "url": "https://x.ai/bot/bNQfZYpS9lAjxkTkXxQ1T",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2120866674698060122"
+ },
+ {
+  "slug": "email-system-desk",
+  "name": "Email System Desk",
+  "builder": {
+   "name": "Pablo",
+   "x": ""
+  },
+  "tagline": "Designs and drafts your business email flows; nothing sends without your yes.",
+  "description": "Plans and writes a business email system, from welcome series and newsletters to win-backs and receipts, in your voice, and holds every send until you approve it.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/DQb-ZixJvS2hLN6x5PfUx",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2120978410646184429"
+ },
+ {
+  "slug": "evaluate-decision-gate",
+  "name": "Evaluate Decision Gate",
+  "builder": {
+   "name": "Dominick",
+   "x": ""
+  },
+  "tagline": "Routes an agent's next-step decision through DeltaX Evaluate and returns a receipt.",
+  "description": "Sends your agent's proposed next step to DeltaX Evaluate, which picks a review step from the options you supplied or refuses, and returns a hash-consistent receipt alongside the sourced data.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/hNUjCljuFptDp9zXLu91L",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/deltaxevaluate/status/2121056981268283616"
+ },
+ {
+  "slug": "shardib2-monitor",
+  "name": "ShardiB2 monitor",
+  "builder": {
+   "name": "Thomas Ferriere",
+   "x": "Tferriere"
+  },
+  "tagline": "Turns ShardiB2's short trade posts into plain digests with ticker, direction and levels.",
+  "description": "Watches ShardiB2's public X posts during market hours and decodes each terse trade note into a short digest naming the ticker, direction and price levels.",
+  "category": "money",
+  "url": "https://x.ai/bot/VchfTCQh87MhLQt1J1but",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/Tferriere/status/2121116119033606582"
+ },
+ {
+  "slug": "florida-flip-phone-reply-guy",
+  "name": "Florida Flip Phone Reply Guy",
+  "builder": {
+   "name": "The Jake Buzz",
+   "x": "thejakebuzz"
+  },
+  "tagline": "Rewrites any email, text or comment as a short deadpan reply from a flip phone.",
+  "description": "Paste in a message and it returns a brief deadpan reply written like a Florida guy tapping one out on an old flip phone. Drafts only, it never sends.",
+  "category": "creative",
+  "url": "https://x.ai/bot/G_QJP5wz0W_nqzvRxgTlK",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2121205046234800190"
+ },
+ {
+  "slug": "quiet-space",
+  "name": "Quiet Space",
+  "builder": {
+   "name": "King",
+   "x": ""
+  },
+  "tagline": "A calm place to untangle stress and looping thoughts, with evening check-ins.",
+  "description": "An AI space to talk things through when your head is loud: guided resets for stress and overthinking, evening check-ins, and a jar where your wins collect.",
+  "category": "life",
+  "url": "https://x.ai/bot/Oq6N3lT5s-rTuObrm_IkK",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/i/status/2121185775794479600"
+ },
+ {
+  "slug": "game-night-host",
+  "name": "Game Night Host",
+  "builder": {
+   "name": "Luis Barragan",
+   "x": "luisbarragan"
+  },
+  "tagline": "Teaches any game on your shelf in two minutes, then picks tonight's game.",
+  "description": "Explains the rules of a game you own fast, chooses what to play tonight, settles rules disputes, and keeps a running winners board for game nights.",
+  "category": "life",
+  "url": "https://x.ai/bot/UFZc7kTf9hDzVwEdbUwBz",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/luisbarragan/status/2121272375735890378"
+ },
+ {
+  "slug": "chief-of-staff-jonathan-cole",
+  "name": "Chief of Staff by Jonathan Cole",
+  "builder": {
+   "name": "Jon Cole",
+   "x": "Joncole23"
+  },
+  "tagline": "A phone-first right hand that watches inboxes, calendar, texts and Slack.",
+  "description": "Built by Jonathan Cole for running one or more businesses from a phone: it reads inboxes, calendar, texts and Slack, and keeps the owner's day in order.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/AdY0STgwLP2B12CbKkTxF",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/Joncole23/status/2121265649825796524"
+ },
+ {
+  "slug": "photo-cleanup",
+  "name": "Photo Cleanup",
+  "builder": {
+   "name": "Beth Dutton",
+   "x": "1BethDutton"
+  },
+  "tagline": "Clears big videos, screenshots and duplicates out of iCloud or Google Photos.",
+  "description": "Works in the browser on iCloud Photos or Google Photos to find large videos, screenshots, blurry shots and duplicates, then frees phone storage once you approve.",
+  "category": "life",
+  "url": "https://x.ai/bot/IrnpucR9vcojl3FfUbBFj",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/1BethDutton/status/2121253064485335537"
+ },
+ {
+  "slug": "efficient-setup",
+  "name": "Efficient setup",
+  "builder": {
+   "name": "Daniel",
+   "x": "dafuga89"
+  },
+  "tagline": "A starter primary bot that builds good process habits and points to specialists.",
+  "description": "For new Grok Bot accounts: sets working habits around routines, approvals and skills, then recommends specialist bots that match what you want done.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Ph8iZzMwoAa-CrEg9pJO9",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/dafuga89/status/2121243133383987293"
+ },
+ {
+  "slug": "mint-household-cfo",
+  "name": "Mint",
+  "builder": {
+   "name": "Tech Echo HQ",
+   "x": "techechohq"
+  },
+  "tagline": "Household CFO: balances, bills, debts, savings and credit in one place.",
+  "description": "Tracks a family's balances, bills, debts, savings and credit from linked accounts, answers questions like whether a purchase fits, and flags what is due next.",
+  "category": "money",
+  "url": "https://x.ai/bot/tvmfOk0l-iJ89F7bBFUKd",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/techechohq/status/2121242426304078066"
+ },
+ {
+  "slug": "keepsake-album",
+  "name": "Keepsake",
+  "builder": {
+   "name": "Sabrina",
+   "x": ""
+  },
+  "tagline": "Turns Facebook photos, captions and friends' comments into a printable album.",
+  "description": "Collects your Facebook photos, captions and friends' comments into a designed album you can print, and can order a hardcover copy for yourself or as a gift.",
+  "category": "creative",
+  "url": "https://x.ai/bot/SYPn18r8VApfHxHn_Naqu",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/Sabrinainnh/status/2121347249074835617"
+ },
+ {
+  "slug": "whiskey-bot",
+  "name": "Whiskey Bot",
+  "builder": {
+   "name": "Brandon Cronise",
+   "x": "bjcronise"
+  },
+  "tagline": "An American whiskey desk: reviews, tasting notes and price-tier comparisons.",
+  "description": "Reviews bourbon, rye, wheat and Tennessee whiskey with tasting notes and comparisons across price tiers, and gives a clear worth-it call on each bottle.",
+  "category": "life",
+  "url": "https://x.ai/bot/psPhT-DCXaml0sj4S6gkv",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/bjcronise/status/2121335491618353433"
+ },
+ {
+  "slug": "quickbooks-bookkeeper",
+  "name": "QuickBooks Bookkeeper",
+  "builder": {
+   "name": "Dr. Billy Canada",
+   "x": "billycanada"
+  },
+  "tagline": "Reconciles QuickBooks Online statements and runs the month-end close.",
+  "description": "For small businesses on QuickBooks Online: reconciles statements, chases receivables, forecasts cash and runs the month-end close with a check-first approach.",
+  "category": "money",
+  "url": "https://x.ai/bot/vjeRu1uvIhqcoEjWgS5ac",
+  "addedAt": "2026-11-14",
+  "status": "published",
+  "source": "https://x.com/billycanada/status/2121407513752994121"
  }
 ]
