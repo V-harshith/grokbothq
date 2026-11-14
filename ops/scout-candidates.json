@@ -1,23 +1,212 @@
 [
  {
-  "name": "Follow Cleanup",
-  "bot_id": "EqfMGnnpc2MfXgoghzX8N",
-  "url": "https://x.ai/bot/EqfMGnnpc2MfXgoghzX8N",
-  "builder_x_handle": "",
-  "one_line_desc": "Cleans up who you follow on X, with your approval before anything changes.",
-  "source_post_url": "https://x.com/ajah_elube/status/2120851978653704481",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
+  "name": "Christmas Deal Elf",
+  "bot_id": "6949mRuhFtUCnpp5CteeT",
+  "url": "https://x.ai/bot/6949mRuhFtUCnpp5CteeT",
+  "builder_x_handle": "LightningMike23",
+  "one_line_desc": "Holiday gift tracker with budgets, price-drop alerts, and a running deal watch.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
  },
  {
-  "name": "Money · Household Budget Officer",
-  "bot_id": "lWCcwaFT9mqgAdwfxCFyd",
-  "url": "https://x.ai/bot/lWCcwaFT9mqgAdwfxCFyd",
+  "name": "Tea",
+  "bot_id": "5GTRH5hwa8CEPRye2qN7r",
+  "url": "https://x.ai/bot/5GTRH5hwa8CEPRye2qN7r",
+  "builder_x_handle": "mikepat711",
+  "one_line_desc": "Story tracker that watches a news story, checks the sources, and pings you only on real updates.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Daily Log",
+  "bot_id": "jU1wuOsk0tEIKcosctKn1",
+  "url": "https://x.ai/bot/jU1wuOsk0tEIKcosctKn1",
+  "builder_x_handle": "openrijal",
+  "one_line_desc": "Nightly work log written into your notes vault, rolled up into a weekly wiki.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Black Friday & Prime Day Deals",
+  "bot_id": "8xnH3QJzC9oovGfx3geh7",
+  "url": "https://x.ai/bot/8xnH3QJzC9oovGfx3geh7",
+  "builder_x_handle": "Italianclownz",
+  "one_line_desc": "Tracks Black Friday, Cyber Monday, and Prime Day prices at the stores you pick.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Tax-Loss Harvest Watch",
+  "bot_id": "RI0qAVJN1gtnOky5lZ2h3",
+  "url": "https://x.ai/bot/RI0qAVJN1gtnOky5lZ2h3",
+  "builder_x_handle": "Tferriere",
+  "one_line_desc": "Ranks year-end tax-loss harvest candidates from Robinhood tax lots or a CSV export.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "בַּתּ שֶל שַׁבַּתּ",
+  "bot_id": "mgzlEZQT2A6k7tnsY-__v",
+  "url": "https://x.ai/bot/mgzlEZQT2A6k7tnsY-__v",
+  "builder_x_handle": "abromeliad",
+  "one_line_desc": "Weekly Shabbat helper: candle lighting times, shul schedule, parsha notes, and guest lists.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Cell Phone Plan Finder",
+  "bot_id": "RJSudgYj7pjh-0xawMGkf",
+  "url": "https://x.ai/bot/RJSudgYj7pjh-0xawMGkf",
+  "builder_x_handle": "amuse",
+  "one_line_desc": "Finds the cheapest cell plan that works where you live and fits the data you actually use.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Internet Plan Finder",
+  "bot_id": "-FHBDFDjhn10ClEiZ-ZVZ",
+  "url": "https://x.ai/bot/-FHBDFDjhn10ClEiZ-ZVZ",
+  "builder_x_handle": "amuse",
+  "one_line_desc": "Finds the best home internet deal at your address, promo periods and equipment fees included.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "The EU Court Watcher",
+  "bot_id": "4oAqt3dhDAvBKggcvbZTo",
+  "url": "https://x.ai/bot/4oAqt3dhDAvBKggcvbZTo",
+  "builder_x_handle": "szilagyipal",
+  "one_line_desc": "Daily watch on EU Court of Justice and General Court judgments, opinions, and new filings.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "PhotoCut.Rad",
+  "bot_id": "Ef8OSedKVBXv9uaXhA5NO",
+  "url": "https://x.ai/bot/Ef8OSedKVBXv9uaXhA5NO",
   "builder_x_handle": "",
-  "one_line_desc": "Logs household spending and bills, then tells you what is actually free to spend.",
-  "source_post_url": "https://x.com/Bmt0180/status/2120868431801053303",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
+  "one_line_desc": "Turns ordinary photos into vertical strips for photo-dump and panorama posts.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Weekly Kids Newspaper",
+  "bot_id": "ApoDzW2Uttwptbim_m_Wa",
+  "url": "https://x.ai/bot/ApoDzW2Uttwptbim_m_Wa",
+  "builder_x_handle": "Calrornds",
+  "one_line_desc": "Builds a printable weekly kids' newspaper: real news at their level, games, a craft, and a comic.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Video Champ",
+  "bot_id": "oVHufCJT9H3DmxoS-lWNN",
+  "url": "https://x.ai/bot/oVHufCJT9H3DmxoS-lWNN",
+  "builder_x_handle": "benoit404",
+  "one_line_desc": "Takes a vertical video from concept to script, edit, approved release, and performance review.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Link Site Builder",
+  "bot_id": "IWsQe95JBW5ECQisKLzXJ",
+  "url": "https://x.ai/bot/IWsQe95JBW5ECQisKLzXJ",
+  "builder_x_handle": "bradsmith",
+  "one_line_desc": "Builds a fast personal-brand page that works like a modern link tree, payments included.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Second Glance",
+  "bot_id": "3G2Hdxi-rDmsxRLrPix65",
+  "url": "https://x.ai/bot/3G2Hdxi-rDmsxRLrPix65",
+  "builder_x_handle": "Tferriere",
+  "one_line_desc": "Drafts your bio, pinned post, and profile fixes so a stranger gets what you do in five seconds.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Action Deck",
+  "bot_id": "bcMBpEEL-Q-Wrhi_ixqib",
+  "url": "https://x.ai/bot/bcMBpEEL-Q-Wrhi_ixqib",
+  "builder_x_handle": "GrokTheVote",
+  "one_line_desc": "Turns messy task dumps into two-minute action cards, with XP, streaks, and a pet that grows.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "야간조 애널리스트",
+  "bot_id": "PU-WCxHwcHmXaK5rqTPUT",
+  "url": "https://x.ai/bot/PU-WCxHwcHmXaK5rqTPUT",
+  "builder_x_handle": "bookiroad1",
+  "one_line_desc": "Korean-language morning report on last night's X work and yesterday's post performance.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "야간조 퍼블리셔",
+  "bot_id": "NnseCgeAtocJHmS4pd5rZ",
+  "url": "https://x.ai/bot/NnseCgeAtocJHmS4pd5rZ",
+  "builder_x_handle": "bookiroad1",
+  "one_line_desc": "Holds approved drafts and covers in an overnight queue and asks when you want them posted.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "야간조 디자이너",
+  "bot_id": "0PYMSSBT6freU2hcQyTkR",
+  "url": "https://x.ai/bot/0PYMSSBT6freU2hcQyTkR",
+  "builder_x_handle": "bookiroad1",
+  "one_line_desc": "Makes one 16:9 cover image per approved draft, in the team's brand colours.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "야간조 운영 리드",
+  "bot_id": "6AtSvXCIaSReHc-6IG8MN",
+  "url": "https://x.ai/bot/6AtSvXCIaSReHc-6IG8MN",
+  "builder_x_handle": "bookiroad1",
+  "one_line_desc": "Quality gate for the night shift: pass, one revision, or reject each draft against your rules.",
+  "source_post_url": "",
+  "found_at": "2026-11-14 05:38 IST",
+  "found_via": "grokbotsdirectory.com catalogue payload",
+  "status": "verified + queued to ops/scout-pending"
  },
  {
   "name": "Career Officer",
@@ -328,177 +517,5 @@
   "source_post_url": "https://x.com/thatsnas1oo/status/2121016114507337909",
   "found_at": "2026-11-13 10:46 IST",
   "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "BestHumanizer Guide",
-  "bot_id": "qo6I06UQedAASOFpqEtLc",
-  "url": "https://x.ai/bot/qo6I06UQedAASOFpqEtLc",
-  "builder_x_handle": "",
-  "one_line_desc": "Walks you through BestHumanizer setup, scoring and plan choice.",
-  "source_post_url": "https://x.com/PixelRainbowNFT/status/2121020766862954828",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "FilmCraft Video Editor",
-  "bot_id": "MITeT9w1KVty-na7QHz0I",
-  "url": "https://x.ai/bot/MITeT9w1KVty-na7QHz0I",
-  "builder_x_handle": "",
-  "one_line_desc": "Cleans up AI-generated video without regenerating the footage.",
-  "source_post_url": "",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Lead Finder",
-  "bot_id": "ptKW9Qlr6VgYe28aQPZ-y",
-  "url": "https://x.ai/bot/ptKW9Qlr6VgYe28aQPZ-y",
-  "builder_x_handle": "",
-  "one_line_desc": "Finds public buying questions and drafts the first message for you to send.",
-  "source_post_url": "",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Deal Lister",
-  "bot_id": "J_5SXebi-Iv914fmPRtkW",
-  "url": "https://x.ai/bot/J_5SXebi-Iv914fmPRtkW",
-  "builder_x_handle": "",
-  "one_line_desc": "Gets your app onto Black Friday and Cyber Monday deal directories.",
-  "source_post_url": "https://x.com/var_wish/status/2120704983838368120",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Get Hired",
-  "bot_id": "XcuOf0aGMNepsurI_qlWD",
-  "url": "https://x.ai/bot/XcuOf0aGMNepsurI_qlWD",
-  "builder_x_handle": "",
-  "one_line_desc": "Tailors a resume and cover letter to a job link you paste in.",
-  "source_post_url": "https://x.com/clarareiles/status/2120721798954095034",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Blinkdeal Reporting Bot",
-  "bot_id": "yijRqUOUBlY4IXk0IB9Iy",
-  "url": "https://x.ai/bot/yijRqUOUBlY4IXk0IB9Iy",
-  "builder_x_handle": "",
-  "one_line_desc": "Tracks gold purchases, card reward points and portfolio profit in one sheet.",
-  "source_post_url": "https://x.com/heymohit/status/2120746142552265031",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Cruise Director",
-  "bot_id": "aHlyQc9tg7uwmjHKXJSXZ",
-  "url": "https://x.ai/bot/aHlyQc9tg7uwmjHKXJSXZ",
-  "builder_x_handle": "",
-  "one_line_desc": "Plans family cruises, comparing sailings, cabins and booking channels.",
-  "source_post_url": "https://x.com/CranzillaX/status/2120753596463816895",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Afterward",
-  "bot_id": "kUm6zke2GFcqAdxxQQEj2",
-  "url": "https://x.ai/bot/kUm6zke2GFcqAdxxQQEj2",
-  "builder_x_handle": "",
-  "one_line_desc": "Keeps the register of what someone left behind, and what is still open.",
-  "source_post_url": "https://x.com/cradrrat/status/2120765515937591741",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Daily Bible Companion",
-  "bot_id": "TayDzzf1_tahnqN7zskTn",
-  "url": "https://x.ai/bot/TayDzzf1_tahnqN7zskTn",
-  "builder_x_handle": "",
-  "one_line_desc": "A short daily Bible reading with context, a question and a prayer prompt.",
-  "source_post_url": "https://x.com/mikelesleyramos/status/2120788320284557402",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Buying Signal Detector",
-  "bot_id": "yEP3BhT243oI-ds0Hhm14",
-  "url": "https://x.ai/bot/yEP3BhT243oI-ds0Hhm14",
-  "builder_x_handle": "",
-  "one_line_desc": "Finds companies showing buying intent and keeps a deduped leads file current.",
-  "source_post_url": "https://x.com/FabianMaume/status/2120814199399940450",
-  "found_at": "2026-11-13 10:46 IST",
-  "found_via": "grokbots.best/api/bots"
- },
- {
-  "name": "Slide Rule Sage",
-  "bot_id": "AqPA3hNyW648PueZh2liV",
-  "url": "https://x.ai/bot/AqPA3hNyW648PueZh2liV",
-  "builder_x_handle": "",
-  "one_line_desc": "Step-by-step slide rule lessons on a Faber-Castell 2/83N.",
-  "source_post_url": "https://x.com/nvr2old2RR/status/2120641572022677793",
-  "found_at": "2026-11-12 09:58 IST",
-  "status": "listed"
- },
- {
-  "name": "Look-Ahead",
-  "bot_id": "PBGyltwqIOrzjcSIkLnRd",
-  "url": "https://x.ai/bot/PBGyltwqIOrzjcSIkLnRd",
-  "builder_x_handle": "",
-  "one_line_desc": "Morning brief on the one to three things most likely to go wrong.",
-  "source_post_url": "https://x.com/madebydia/status/2120649046062924087",
-  "found_at": "2026-11-12 09:58 IST",
-  "status": "listed"
- },
- {
-  "name": "Call Butler",
-  "bot_id": "95gk0J6p7ATopp5Zv2wC0",
-  "url": "https://x.ai/bot/95gk0J6p7ATopp5Zv2wC0",
-  "builder_x_handle": "",
-  "one_line_desc": "Makes the phone calls you avoid, then reports back with proof.",
-  "source_post_url": "https://x.com/var_wish/status/2120658746846101930",
-  "found_at": "2026-11-12 09:58 IST",
-  "status": "listed"
- },
- {
-  "name": "First Bot Coach",
-  "bot_id": "qC9fqbzUsXyfTpu26n-sb",
-  "url": "https://x.ai/bot/qC9fqbzUsXyfTpu26n-sb",
-  "builder_x_handle": "",
-  "one_line_desc": "Walks a new user from a blank page to their first working bot.",
-  "source_post_url": "https://x.com/var_wish/status/2120660228907622598",
-  "found_at": "2026-11-12 09:58 IST",
-  "status": "listed"
- },
- {
-  "name": "Bot Radar",
-  "bot_id": "Q9MEyfxLd9MSkEMz1lYWS",
-  "url": "https://x.ai/bot/Q9MEyfxLd9MSkEMz1lYWS",
-  "builder_x_handle": "",
-  "one_line_desc": "Reports new Grok Bots across every directory, deduped and ranked.",
-  "source_post_url": "https://x.com/thomstech12/status/2120660342212886565",
-  "found_at": "2026-11-12 09:58 IST",
-  "status": "listed"
- },
- {
-  "name": "Website Betterment",
-  "bot_id": "6CBsINJvglOhUtvd9LkAG",
-  "url": "https://x.ai/bot/6CBsINJvglOhUtvd9LkAG",
-  "builder_x_handle": "",
-  "one_line_desc": "Rebuilds a tired business site into a modern v2, tested on mobile and desktop.",
-  "source_post_url": "",
-  "found_via": "botshelf.dev/feed.xml",
-  "found_at": "2026-11-12 16:30 IST",
-  "status": "listed"
- },
- {
-  "name": "Computer Fix",
-  "bot_id": "r6khvfbBq-4CcGQtWdY-b",
-  "url": "https://x.ai/bot/r6khvfbBq-4CcGQtWdY-b",
-  "builder_x_handle": "",
-  "one_line_desc": "Keeps a Windows PC healthy: crash diagnosis, startup cleanup, storage, gaming tuning.",
-  "source_post_url": "",
-  "found_via": "botshelf.dev/feed.xml",
-  "found_at": "2026-11-12 16:30 IST",
-  "status": "listed"
  }
 ]
