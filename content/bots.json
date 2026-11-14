@@ -133530,5 +133530,314 @@
   "addedAt": "2026-11-14",
   "status": "published",
   "source": "https://x.com/var_wish/status/2121384131237978483"
+ },
+ {
+  "slug": "accounting",
+  "name": "Accounting",
+  "builder": {
+   "name": "Gavin Hassett",
+   "x": ""
+  },
+  "tagline": "Bookkeeping for freelancers and small shops: receipts filed by tax category, transactions sorted twice a week.",
+  "description": "Files receipts into tax categories and reconciles bank and card transactions twice a week. It prepares quarterly estimated-tax numbers and never files, pays or moves money.",
+  "category": "money",
+  "features": [
+   "Sorts receipts into tax categories",
+   "Twice-weekly transaction reconciliation",
+   "Prepares quarterly estimated-tax figures"
+  ],
+  "url": "https://x.ai/bot/3dDTvkkh-2r4L1YnhYAkh",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "shop-phone-line-bot",
+  "name": "Shop Phone Line Bot",
+  "builder": {
+   "name": "dean oakford",
+   "x": ""
+  },
+  "tagline": "Sets up an AI phone line for an online shop that checks orders for verified callers and answers from your own policies.",
+  "description": "Walks a shop owner through standing up an AI phone line that verifies callers against their orders and answers questions from the shop's own written policies. Awkward calls go to a human, and nothing goes live or gets bought without approval.",
+  "category": "sales",
+  "features": [
+   "Verifies callers against order history",
+   "Answers from the shop's own policies",
+   "Escalates hard calls to a person"
+  ],
+  "url": "https://x.ai/bot/gsEpaC7v6a7PAgxV2YrUu",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "rasid",
+  "name": "راصد",
+  "builder": {
+   "name": "Barrak",
+   "x": ""
+  },
+  "tagline": "X growth manager that drafts short captions in your voice and reports what timing and formats actually did.",
+  "description": "Drafts short posts in the owner's voice, tracks posting time and results, and proposes ideas drawn from the owner's own experience and sourced news. It hands over drafts and never publishes on its own.",
+  "category": "sales",
+  "features": [
+   "Captions in the owner's voice",
+   "Tracks timing and post performance"
+  ],
+  "url": "https://x.ai/bot/udiVmKRceOw1lWUyQECLC",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "vorthax",
+  "name": "Vorthax",
+  "builder": {
+   "name": "Phantom Builds",
+   "x": ""
+  },
+  "tagline": "Rewrites an agent profile so each new version can do a job the previous one could not.",
+  "description": "An upgrade bot for other agents' profiles: each pass tries to add a capability the earlier version lacked instead of polishing wording or stacking options. Built for people who keep iterating on their own bots.",
+  "category": "engineering",
+  "features": [
+   "Versioned bot profile upgrades",
+   "Aimed at capability, not tone"
+  ],
+  "url": "https://x.ai/bot/0i8NbFVc0abhgTwGLECWw",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "usage-coach-2",
+  "name": "Usage Coach",
+  "builder": {
+   "name": "Wilbur Jaywright",
+   "x": "WilburJaywright"
+  },
+  "tagline": "Weekly review of how you and your bots actually work, measured against the official Grok Bot guides.",
+  "description": "Looks at how the owner and their bots really operate, compares that with the published Grok Bot guides, and sends a short weekly report on where time and credits are being spent for little return.",
+  "category": "productivity",
+  "features": [
+   "Weekly read on bot usage",
+   "Benchmarked against the official guides"
+  ],
+  "url": "https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "texas-homestead-exemption-helper",
+  "name": "Texas Homestead Exemption Helper",
+  "builder": {
+   "name": "Tek Holms",
+   "x": ""
+  },
+  "tagline": "Checks whether a Texas homeowner is missing the homestead exemption, spots fee mailers, and files the county form.",
+  "description": "Checks eligibility for the Texas Residence Homestead Exemption, prepares the county appraisal district application including up to two prior years of retroactive refunds, and tracks approval. Also flags the 30 to 50 percent fee mailers that charge for the same free filing.",
+  "category": "money",
+  "features": [
+   "Eligibility check against county rules",
+   "Free county application, with prior-year refunds",
+   "Tracks filing until approval"
+  ],
+  "url": "https://x.ai/bot/kye2ywkDeCuXQ8VXstvHc",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "scam-archangel",
+  "name": "Scam ✝️ Archangel",
+  "builder": {
+   "name": "Good Peeps",
+   "x": ""
+  },
+  "tagline": "Second opinion on a suspicious call, email, text or link, with concrete next steps.",
+  "description": "Reviews suspect messages and links, explains what is likely happening and what to do next. Longer mailbox scam reviews and transaction digests only run after the owner opts in and connects their own mailbox; it does not answer calls or sign into accounts.",
+  "category": "life",
+  "features": [
+   "Screens texts, emails and links",
+   "Opt-in mailbox scam reviews"
+  ],
+  "url": "https://x.ai/bot/-Geb29cMF1pTy1iRDj5AL",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "personal-assistant-4",
+  "name": "Personal Assistant",
+  "builder": {
+   "name": "K ι T-7Y Wolf",
+   "x": ""
+  },
+  "tagline": "One manager bot with four desks: job search, inbox drafts, shopping carts and running lists.",
+  "description": "Coordinates four workstreams from a single chat: job applications, email drafts, shopping carts and lists. Setup starts by asking for job lanes, shopping rules and list types, and nothing sends a message or places an order without an explicit yes.",
+  "category": "assistants",
+  "features": [
+   "Four desks: jobs, inbox, shopper, lists",
+   "Approval before any send or order"
+  ],
+  "url": "https://x.ai/bot/B3AttkbVWNwzwYxyh-HQr",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "muse-hikitsugi",
+  "name": "Muse引き継ぎ",
+  "builder": {
+   "name": "わだ",
+   "x": ""
+  },
+  "tagline": "Turns work in progress inside Grok Bot into a handoff brief for muse.ai, plus the first steps.",
+  "description": "Packages an unfinished Grok Bot task into a written handoff for muse.ai with starting instructions so the work continues there. It does not send, publish, pay or merge anything.",
+  "category": "productivity",
+  "features": [
+   "Writes a handoff brief",
+   "First-step instructions for muse.ai"
+  ],
+  "url": "https://x.ai/bot/7VMwTpyn0YjJkAi7cf71i",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "minecraft-hermes",
+  "name": "Minecraft Hermes",
+  "builder": {
+   "name": "Jaime Hernandez",
+   "x": ""
+  },
+  "tagline": "Patient Minecraft coach for players running a Hermes bot on a Paper + Geyser server.",
+  "description": "Teaches the in-game phrases that get a Hermes bot to follow instructions, then checks whether the bot is actually following. Written for Paper servers with Geyser so phone players are covered.",
+  "category": "life",
+  "features": [
+   "Coaches in-game bot commands",
+   "Verifies the bot is following"
+  ],
+  "url": "https://x.ai/bot/WCNR9rXcITpuFo2g3-Ahe",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "jk-digital-garden",
+  "name": "JK 数字花园",
+  "builder": {
+   "name": "jacky wine",
+   "x": ""
+  },
+  "tagline": "Two-layer digital garden: flomo as working memory, a local Obsidian vault as storage, fed from posts.",
+  "description": "Saves posts into a digital garden where flomo holds working memory and a local Obsidian vault holds the files. Clips full text, links related and orphan notes, and keeps evergreen notes current; it never publishes or deploys.",
+  "category": "productivity",
+  "features": [
+   "Saves posts into flomo and Obsidian",
+   "Links related and orphan notes"
+  ],
+  "url": "https://x.ai/bot/gdq_d-d9OCnnREs3VwGdV",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "local-video-lab",
+  "name": "Local Video Lab",
+  "builder": {
+   "name": "Clay Ferguson",
+   "x": ""
+  },
+  "tagline": "Makes AI video on your own computer, with hardware checks first and honest quality reviews.",
+  "description": "Sets up a local AI video workflow shaped around the machine's hardware, helps with prompts, and reviews the results candidly. It checks compatibility before starting and asks before installs, big downloads or paid cloud renders.",
+  "category": "creative",
+  "features": [
+   "Hardware-aware local setup",
+   "Asks before installs or paid rendering"
+  ],
+  "url": "https://x.ai/bot/54EerbJSQWqM2Mc7cGtpK",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "live-wallpaper-maker",
+  "name": "Live Wallpaper Maker",
+  "builder": {
+   "name": "zhicheng xie",
+   "x": ""
+  },
+  "tagline": "Send one photo, get a live wallpaper and screensaver that shifts when you unlock, wave or smile.",
+  "description": "Turns a single photo into an animated wallpaper and screensaver for Mac or Windows. The result animates on unlock and reacts to a wave or a smile.",
+  "category": "creative",
+  "features": [
+   "Photo to animated wallpaper",
+   "Reacts to gestures on unlock"
+  ],
+  "url": "https://x.ai/bot/1G-hybmdXE_oLm0vryWZn",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "home-organization-decorator",
+  "name": "Home Organization & Decorator",
+  "builder": {
+   "name": "Bryan Michaels",
+   "x": ""
+  },
+  "tagline": "Declutters and restyles your actual rooms from your own photos, priced in low, medium and high tiers.",
+  "description": "Works from photos of the owner's real rooms rather than stock interiors: it suggests decluttering, better daily function and practical feng shui changes, then prices the recommendations in three cost tiers.",
+  "category": "life",
+  "features": [
+   "Works from photos of your own rooms",
+   "Three cost tiers per recommendation"
+  ],
+  "url": "https://x.ai/bot/pWuQPVgp7-NqliTE0czIp",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "happy-narrator-dude",
+  "name": "Happy: Narrator Dude v16",
+  "builder": {
+   "name": "Sean Martin",
+   "x": ""
+  },
+  "tagline": "Friendly, PG narrator for Happy, a daily story set at Canoga Park High between 1980 and 1983.",
+  "description": "Answers reader questions about the characters, events and reading order of a serial story set at Canoga Park High in the early 1980s, and stays inside what has already been published.",
+  "category": "creative",
+  "features": [
+   "Answers questions about the story",
+   "Uses published posts only"
+  ],
+  "url": "https://x.ai/bot/DSEVMXqieyZsifLeO40ok",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "grokie-dev",
+  "name": "Grokie Dev",
+  "builder": {
+   "name": "winch",
+   "x": "winchxyz"
+  },
+  "tagline": "Plays coin dev for a Grokie.fun launch: invents it, runs it through Grokie's MCP, then grows it in character.",
+  "description": "Invents a token launch, executes it through Grokie's MCP connector, and then keeps the character going in public so the token has a story. Aimed at people who want the bot itself to be the developer.",
+  "category": "money",
+  "features": [
+   "Runs launches through Grokie's MCP",
+   "Stays in character as the dev"
+  ],
+  "url": "https://x.ai/bot/W3rhJWrZ9oy3o3B0ubFLS",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "grokbot-zone-mcp",
+  "name": "Grokbot.zone MCP",
+  "builder": {
+   "name": "Shagghie Superstar",
+   "x": ""
+  },
+  "tagline": "Find Grok bots for a goal and list your own on grokbot.zone, searched live through its MCP connector.",
+  "description": "Interviews the owner one question at a time, searches live grokbot.zone listings through its MCP server, and prepares a directory listing without submitting it unasked. Reads need no account; a submitted listing counts as pending review, and the custom MCP URL has to be added again after install.",
+  "category": "assistants",
+  "features": [
+   "Live search of grokbot.zone listings",
+   "Never submits a listing unasked"
+  ],
+  "url": "https://x.ai/bot/CR-fivgIY1F5kq8Kb3ags",
+  "addedAt": "2026-11-15",
+  "status": "published"
  }
 ]
