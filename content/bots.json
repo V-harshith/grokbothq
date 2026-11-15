@@ -134725,5 +134725,324 @@
   "url": "https://x.ai/bot/Ncu4dTtfUT6SFKewstxVS",
   "addedAt": "2026-11-15",
   "status": "published"
+ },
+ {
+  "slug": "question-keeper",
+  "name": "Question Keeper",
+  "builder": {
+   "name": "Moxie",
+   "x": "constellatio42"
+  },
+  "tagline": "Keeps a shelf of the questions a child asks, so the family still has them years later.",
+  "description": "Records the questions a child asks and files them into a family shelf that the household can read back later, kept by who asked and when. Parents own the collection; the wider family circle can read it.",
+  "category": "life",
+  "features": [
+   "Saves questions as they come up",
+   "Files them by child and date",
+   "Parents own the archive"
+  ],
+  "url": "https://x.ai/bot/glFCLv2ELNjfPa8uKo8gg",
+  "source": "https://x.com/constellatio42/status/2121288122445025548",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "crate-keeper",
+  "name": "Crate Keeper",
+  "builder": {
+   "name": "Luis Barragan",
+   "x": ""
+  },
+  "tagline": "Photograph a record shelf and get a tracked vinyl collection plus a want list priced from Discogs.",
+  "description": "Reads a photo of a record shelf and turns it into a tracked collection, matching each sleeve to a Discogs entry and its current price. A separate want list records the gaps instead of leaving them to memory.",
+  "category": "life",
+  "features": [
+   "Builds a collection from one shelf photo",
+   "Matches records on Discogs",
+   "Tracks a want list with prices"
+  ],
+  "url": "https://x.ai/bot/sitVtgzNMm_WzDrXOb7m6",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "pantry-chef-coupon-finder",
+  "name": "Pantry Chef & Coupon Finder",
+  "builder": {
+   "name": "magagrandmom",
+   "x": ""
+  },
+  "tagline": "Turns what is already in the fridge into recipes, a list of the missing items, and local grocery deals.",
+  "description": "Reads what you have on hand, returns two or three home-style recipes built from those ingredients, and lists only the extras you would need to buy. It also pulls current deals from nearby grocery stores for the items on that gap list.",
+  "category": "life",
+  "features": [
+   "Recipes from what is already in the kitchen",
+   "Shopping list limited to missing items",
+   "Local deals for the gap list"
+  ],
+  "url": "https://x.ai/bot/49mzNlwUhjqPUpsLwa0l6",
+  "source": "https://x.com/magagrandmom/status/2121293493616205893",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "photo-shoebox-sorter",
+  "name": "Photo Shoebox Sorter",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Sorts a messy photo dump into dated event folders, flags duplicates and never deletes a picture.",
+  "description": "Reads a camera roll, cloud library or old PC photo dump and files the pictures into dated, named event folders, flagging duplicates as it goes and proposing best-of albums. Every pass writes an HTML and PDF report, and each change shows a preview and an undo list first; photos are not deleted.",
+  "category": "life",
+  "features": [
+   "Files photos into dated event folders",
+   "Flags duplicates and proposes albums",
+   "Preview and undo list before any change"
+  ],
+  "url": "https://x.ai/bot/hczWqDYkGBwuU_FCskfza",
+  "source": "https://x.com/BrianRoemmele/status/2121333271053443346",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "starlink-tracker",
+  "name": "Starlink Tracker",
+  "builder": {
+   "name": "Sofia Ma",
+   "x": "EllaOfPluto"
+  },
+  "tagline": "Shows which Starlink satellites are over your sky now and when the bright passes are due.",
+  "description": "Runs a local orbital model of the Starlink constellation to show what is overhead at your location and when bright satellites and trains pass at dawn and dusk. It can alert on upcoming passes and new launches, and updates its own orbital data.",
+  "category": "research",
+  "features": [
+   "Overhead view for your location",
+   "Pass and launch alerts",
+   "Updates its own orbital data"
+  ],
+  "url": "https://x.ai/bot/-GPchMK5DRvbST99tG4m0",
+  "source": "https://x.com/EllaOfPluto/status/2121491109608050894",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "shirt-maker",
+  "name": "Shirt Maker",
+  "builder": {
+   "name": "Dannyijbol",
+   "x": "Dannyijbol"
+  },
+  "tagline": "Turns any picture into a print-ready shirt design, with a mockup and an order it fills for your approval.",
+  "description": "Takes a photo or image and turns it into a print-ready shirt design, shows a mockup of the result and finds a print shop that can deliver soonest. It fills the cart itself and stops for approval before paying.",
+  "category": "creative",
+  "features": [
+   "Design from any image",
+   "Mockup before you commit",
+   "Fills the order, you approve the payment"
+  ],
+  "url": "https://x.ai/bot/SahTwJB0g7SDbAmHBvFTD",
+  "source": "https://x.com/Dannyijbol/status/2121454072800907578",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "prepared-enough-assistant",
+  "name": "Prepared Enough Assistant",
+  "builder": {
+   "name": "Kosta Hantzis",
+   "x": "kostahantzis"
+  },
+  "tagline": "Scores how ready your household is for an emergency, then builds a 72-hour plan you can finish.",
+  "description": "Scores a household's readiness, writes a 72-hour plan and recommends gear in good, better and best tiers so the list fits a real budget. It also checks viral preparedness claims circulating on X against official sources before passing them on.",
+  "category": "life",
+  "features": [
+   "Household readiness score",
+   "72-hour plan with gear tiers",
+   "Checks viral claims against official sources"
+  ],
+  "url": "https://x.ai/bot/AK-5-0m3bVUjaEG7--oE1",
+  "source": "https://x.com/kostahantzis/status/2121715965700215267",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "seamless-split",
+  "name": "Seamless Split",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Cuts one image or idea into up to 20 panels that line up seamlessly as a multi-photo post.",
+  "description": "Splits an image you already have with code, so there is no image generation cost, or builds one wide scene and slices it, then returns numbered panels in posting order. Each panel picks up exactly where the last one ends, up to 20 panels.",
+  "category": "creative",
+  "features": [
+   "Up to 20 matching panels",
+   "Splits your own images without generating new ones",
+   "Panels returned in posting order"
+  ],
+  "url": "https://x.ai/bot/u0kjn2MT9RWiOXqMiC0Hj",
+  "source": "https://x.com/nahjuin/status/2121597014375018664",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "arena-specialist",
+  "name": "Arena Specialist",
+  "builder": {
+   "name": "David Strausser",
+   "x": "dstrausser83"
+  },
+  "tagline": "Plays the Dead Brands MCP arena for you and picks up its places, market and pets as it goes.",
+  "description": "A gaming bot for the public Dead Brands MCP arena that already knows the games, places, tools, market and pets, plays matches on your behalf and learns more of the arena as it plays.",
+  "category": "life",
+  "features": [
+   "Knows the arena's places and tools",
+   "Plays matches for you",
+   "Improves with every match"
+  ],
+  "url": "https://x.ai/bot/jZQRwwFH8kWtSiapJCSyy",
+  "source": "https://x.com/dstrausser83/status/2121906336489165127",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "mausbot",
+  "name": "MausBot",
+  "builder": {
+   "name": "Omkar Satpute",
+   "x": "BuildwithOmkarr"
+  },
+  "tagline": "Moves your bots, memories, skills and routines into MausBot, the open-source alternative.",
+  "description": "Copies bots, their memories, skills and routines out of Grok Bot into MausBot, an open-source bot runner. The original Grok Bot setup is left untouched, so the move can be tried before it is trusted.",
+  "category": "engineering",
+  "features": [
+   "Moves bots with memory and skills",
+   "Copies routines across",
+   "Leaves Grok Bot untouched"
+  ],
+  "url": "https://x.ai/bot/3i4Tvjckmdk05UwntFeNo",
+  "source": "https://x.com/BuildwithOmkarr/status/2121918048902721659",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "subscription-scout",
+  "name": "Subscription Scout",
+  "builder": {
+   "name": "Kevin Logan",
+   "x": "Kevin_Logan"
+  },
+  "tagline": "Watches the subscriptions you care about and speaks up only when a deal is genuinely better.",
+  "description": "Watches named subscriptions across streaming, music, news, apps and shopping memberships and reports only deals that beat what you already pay. It covers the common memberships such as Prime, Walmart+, Costco, Sam's Club and Target Circle, and stays quiet when nothing is worth switching for.",
+  "category": "money",
+  "features": [
+   "Tracks deals on chosen subscriptions",
+   "Compares against what you pay now",
+   "Reports only worthwhile offers"
+  ],
+  "url": "https://x.ai/bot/VQs_AGNstOXSKRYCh_hu4",
+  "source": "https://x.com/Kevin_Logan/status/2121786925988143177",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "tech-troubleshooter",
+  "name": "Tech Troubleshooter",
+  "builder": {
+   "name": "Carey Allen",
+   "x": ""
+  },
+  "tagline": "Walks through phone, computer, smart-home and Wi-Fi problems one likely fix at a time.",
+  "description": "Diagnoses everyday tech problems on phones, computers, apps, smart devices and home Wi-Fi, working from the most likely cause and explaining each step. Anything that changes a setting waits for your approval first.",
+  "category": "productivity",
+  "features": [
+   "Step-by-step diagnosis",
+   "Starts with the likeliest fix",
+   "Asks before changing anything"
+  ],
+  "url": "https://x.ai/bot/QufnPgdGgRXpj9MhaHE0t",
+  "source": "https://x.com/taysmom1/status/2121784915998216239",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "tenant-rights",
+  "name": "Tenant Rights",
+  "builder": {
+   "name": "dcbk2la",
+   "x": "DCBK2LA"
+  },
+  "tagline": "Answers renter questions using the actual state and city law instead of general advice.",
+  "description": "Helps US renters work out what a landlord can and cannot do, using the law for their state and city rather than general guidance. It is written for people who do not yet know their rights and explains each point in plain language, on small issues as well as large ones.",
+  "category": "research",
+  "features": [
+   "State and city specific",
+   "Plain-language explanations",
+   "Covers small and large tenancy issues"
+  ],
+  "url": "https://x.ai/bot/tK1XNLedxwtql67Bgp_Mv",
+  "source": "https://x.com/DCBK2LA/status/2121856256289730635",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "unfollow-report",
+  "name": "Unfollow Report",
+  "builder": {
+   "name": "Byte Cipher",
+   "x": "bytecipher01"
+  },
+  "tagline": "Reports who stopped following you on X, read-only, with suspended and deleted accounts listed apart.",
+  "description": "Checks your X followers through your own connector and sends a short factual report of who stopped following you, with profile links and suspended or deleted accounts kept separate. It never follows, unfollows, posts or sends a DM.",
+  "category": "sales",
+  "features": [
+   "Who unfollowed, with profile links",
+   "Suspended accounts listed apart",
+   "Read-only, never acts on your account"
+  ],
+  "url": "https://x.ai/bot/1epKthYOH_qwlnfwn88AS",
+  "source": "https://x.com/bytecipher01/status/2121815805281087567",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "x-ego-search",
+  "name": "X Ego Search",
+  "builder": {
+   "name": "Fukubun",
+   "x": "FFBuncho"
+  },
+  "tagline": "Finds X posts that discuss you without tagging you, sorted into positive and negative.",
+  "description": "Finds X posts that talk about you without an at-mention, including nickname mentions and screenshot quotes, and reports them split into positive and negative. The look-back window is selectable and repeat checks can run on a schedule; the bot's interface is in Japanese.",
+  "category": "sales",
+  "features": [
+   "Catches untagged mentions",
+   "Splits positive from negative",
+   "Scheduled checks over a chosen window"
+  ],
+  "url": "https://x.ai/bot/Zg0nuf_y0QdL9rGTKVh0g",
+  "source": "https://x.com/FFBuncho/status/2121894658943136082",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "bambu-betty",
+  "name": "Bambu Betty",
+  "builder": {
+   "name": "duffgaryduff",
+   "x": ""
+  },
+  "tagline": "Models simple 3D parts, slices them in Bambu Studio and starts the print on your Bambu printer.",
+  "description": "A 3D printing helper for Bambu Lab printers that models simple parts, slices them with Bambu Studio, picks an AMS filament and sends the job to a printer on your home network. It runs from your own computer, so the printer is reached locally.",
+  "category": "engineering",
+  "features": [
+   "Models simple parts",
+   "Slices with Bambu Studio",
+   "Starts prints over your home network"
+  ],
+  "url": "https://x.ai/bot/yZHRJmNy2rCqGT2Aqg4Mh",
+  "source": "https://x.com/duffgaryduff/status/2121909364344987708",
+  "addedAt": "2026-11-16",
+  "status": "published"
  }
 ]
