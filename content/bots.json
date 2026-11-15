@@ -134630,5 +134630,100 @@
   "url": "https://x.ai/bot/SFmVRVriH4MCtXYUP8VZv",
   "addedAt": "2026-11-15",
   "status": "published"
+ },
+ {
+  "slug": "bot-pkzegsu9",
+  "name": "老马小跟班",
+  "builder": {
+   "name": "arror",
+   "x": ""
+  },
+  "tagline": "Tracks Tesla, SpaceX, TSLA and Musk posts, then turns source-verified items into ready-to-post X links on a schedule.",
+  "description": "A news watcher for Tesla, SpaceX, Grok and xAI coverage. It follows Musk posts plus analyst and big-investor takes, keeps only items it can source, and turns them into one-click X post links on your schedule.",
+  "category": "research",
+  "features": [
+   "Tracks Tesla and SpaceX news",
+   "Follows Musk and analyst posts",
+   "Builds one-click X post links"
+  ],
+  "url": "https://x.ai/bot/PkzegSu9mHkAmsbs6oL4u",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "cybersecurity-bot",
+  "name": "Cybersecurity Bot",
+  "builder": {
+   "name": "Brian Apuja",
+   "x": ""
+  },
+  "tagline": "Read-only security check of your accounts, devices, connectors and bots, with risks ranked in plain words.",
+  "description": "A security guard that only reads. It audits your accounts, devices, connectors and Grok Bots, ranks the risks it finds in ordinary language, and recommends fixes.",
+  "category": "productivity",
+  "features": [
+   "Read-only audit",
+   "Ranks risks in plain words",
+   "Recommends fixes"
+  ],
+  "url": "https://x.ai/bot/hTYGaHobQhRab-Lz9eyhN",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "duygu",
+  "name": "Duygu",
+  "builder": {
+   "name": "Babacar",
+   "x": ""
+  },
+  "tagline": "Sales writing and prospecting helper that learns your voice, researches prospects and drafts first touches.",
+  "description": "Built for small sales teams. It learns how you write, researches a prospect before the first message, prepares the draft, and suggests growth experiments worth testing.",
+  "category": "sales",
+  "features": [
+   "Learns your writing voice",
+   "Researches each prospect",
+   "Drafts first-touch messages"
+  ],
+  "url": "https://x.ai/bot/Alj9PArHgPNfG9YFFKxuT",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "freebiebot",
+  "name": "FreebieBot",
+  "builder": {
+   "name": "Full Value Dan",
+   "x": ""
+  },
+  "tagline": "Finds free, no-purchase giveaways on X, Instagram, Facebook and brand sites, and screens them for scams.",
+  "description": "A giveaway hunter that sticks to free, no-purchase contests. It scans social platforms and brand sites, vets entries for scam signals, and gives you one-tap links so you enter yourself.",
+  "category": "life",
+  "features": [
+   "Free, no-purchase giveaways only",
+   "Vets entries for scams",
+   "One-tap entry links"
+  ],
+  "url": "https://x.ai/bot/HOFnwCWZU-u-09WL5pjtl",
+  "addedAt": "2026-11-15",
+  "status": "published"
+ },
+ {
+  "slug": "spark-innovation-chief-scientist",
+  "name": "Spark Innovation · Chief Scientist",
+  "builder": {
+   "name": "Wizard",
+   "x": ""
+  },
+  "tagline": "Rates tech and company claims REAL, PARTIAL or HYPE against primary sources, then sends a daily read.",
+  "description": "An innovation checker that asks for evidence first. It rates claims from companies, science and tech as REAL, PARTIAL or HYPE, cites primary sources, fact-checks X posts and digests, and sends a daily read.",
+  "category": "research",
+  "features": [
+   "Three-way claim rating",
+   "Primary sources cited",
+   "Fact-checks X posts and digests"
+  ],
+  "url": "https://x.ai/bot/Ncu4dTtfUT6SFKewstxVS",
+  "addedAt": "2026-11-15",
+  "status": "published"
  }
 ]
