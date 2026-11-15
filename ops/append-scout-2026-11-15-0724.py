@@ -102,7 +102,7 @@ for n in new:
     n['addedAt'] = '2026-11-15'
     n['status'] = 'published'
     bots.append(n)
-json.dump(bots, open(BOTS, 'w'), ensure_ascii=False, indent=2)
+json.dump(bots, open(BOTS, 'w'), ensure_ascii=False, indent=1)
 open(BOTS, 'a').write('\n')
 
 # candidates: append then keep 50 newest
