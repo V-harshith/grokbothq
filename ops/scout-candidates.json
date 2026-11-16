@@ -1,82 +1,5 @@
 [
  {
-  "name": "Question Keeper",
-  "bot_id": "glFCLv2ELNjfPa8uKo8gg",
-  "url": "https://x.ai/bot/glFCLv2ELNjfPa8uKo8gg",
-  "builder_x_handle": "constellatio42",
-  "one_line_desc": "Keeps a shelf of the questions a child asks, so the family still has them years later.",
-  "source_post_url": "https://x.com/constellatio42/status/2121288122445025548",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
-  "name": "Crate Keeper",
-  "bot_id": "sitVtgzNMm_WzDrXOb7m6",
-  "url": "https://x.ai/bot/sitVtgzNMm_WzDrXOb7m6",
-  "builder_x_handle": "",
-  "one_line_desc": "Photograph a record shelf and get a tracked vinyl collection plus a want list priced from Discogs.",
-  "source_post_url": "",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
-  "name": "Pantry Chef & Coupon Finder",
-  "bot_id": "49mzNlwUhjqPUpsLwa0l6",
-  "url": "https://x.ai/bot/49mzNlwUhjqPUpsLwa0l6",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns what is already in the fridge into recipes, a list of the missing items, and local grocery deals.",
-  "source_post_url": "https://x.com/magagrandmom/status/2121293493616205893",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
-  "name": "Photo Shoebox Sorter",
-  "bot_id": "hczWqDYkGBwuU_FCskfza",
-  "url": "https://x.ai/bot/hczWqDYkGBwuU_FCskfza",
-  "builder_x_handle": "BrianRoemmele",
-  "one_line_desc": "Sorts a messy photo dump into dated event folders, flags duplicates and never deletes a picture.",
-  "source_post_url": "https://x.com/BrianRoemmele/status/2121333271053443346",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
-  "name": "Starlink Tracker",
-  "bot_id": "-GPchMK5DRvbST99tG4m0",
-  "url": "https://x.ai/bot/-GPchMK5DRvbST99tG4m0",
-  "builder_x_handle": "EllaOfPluto",
-  "one_line_desc": "Shows which Starlink satellites are over your sky now and when the bright passes are due.",
-  "source_post_url": "https://x.com/EllaOfPluto/status/2121491109608050894",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
-  "name": "Shirt Maker",
-  "bot_id": "SahTwJB0g7SDbAmHBvFTD",
-  "url": "https://x.ai/bot/SahTwJB0g7SDbAmHBvFTD",
-  "builder_x_handle": "Dannyijbol",
-  "one_line_desc": "Turns any picture into a print-ready shirt design, with a mockup and an order it fills for your approval.",
-  "source_post_url": "https://x.com/Dannyijbol/status/2121454072800907578",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
-  "name": "Prepared Enough Assistant",
-  "bot_id": "AK-5-0m3bVUjaEG7--oE1",
-  "url": "https://x.ai/bot/AK-5-0m3bVUjaEG7--oE1",
-  "builder_x_handle": "kostahantzis",
-  "one_line_desc": "Scores how ready your household is for an emergency, then builds a 72-hour plan you can finish.",
-  "source_post_url": "https://x.com/kostahantzis/status/2121715965700215267",
-  "found_at": "2026-11-16 02:05 IST",
-  "found_via": "botshelf.dev new feed + grokbots.best 11-15 batch, verified on x.ai",
-  "status": "verified + queued to ops/scout-pending"
- },
- {
   "name": "Seamless Split",
   "bot_id": "u0kjn2MT9RWiOXqMiC0Hj",
   "url": "https://x.ai/bot/u0kjn2MT9RWiOXqMiC0Hj",
@@ -548,5 +471,82 @@
   "found_at": "2026-11-15 13:38 IST",
   "found_via": "grokbottemplates.dev sitemap (newest pages) + x.ai page re-read for name/creator",
   "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "FindMoney",
+  "bot_id": "v7DAzv8Vz_cS-Toeu6beR",
+  "url": "https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR",
+  "builder_x_handle": "",
+  "one_line_desc": "Searches state unclaimed-property sites, MissingMoney and pension lists for money owed to you, then walks you to the claim.",
+  "source_post_url": "",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "grokbottemplates.dev newest-week template pages + x.ai/bot page re-read",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Game Autopilot",
+  "bot_id": "jw6voppvf9dS3sXR_QUFo",
+  "url": "https://x.ai/bot/jw6voppvf9dS3sXR_QUFo",
+  "builder_x_handle": "",
+  "one_line_desc": "Runs the daily grind in browser, Telegram and web3 games: dailies, quests, farming, with a screenshot trial run first.",
+  "source_post_url": "",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "grokbottemplates.dev newest-week template pages + x.ai/bot page re-read",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Grok Bot Usage Optimizer",
+  "bot_id": "ELO-JlArhJz08-sGEfBa5",
+  "url": "https://x.ai/bot/ELO-JlArhJz08-sGEfBa5",
+  "builder_x_handle": "",
+  "one_line_desc": "Keeps a refreshable page showing where this week’s Grok Bot usage went, split by bot, chats versus routines, and routine.",
+  "source_post_url": "",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "grokbottemplates.dev newest-week template pages + x.ai/bot page re-read",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Ghost Writer",
+  "bot_id": "o-FcL9kK0iy2A9wmadEAt",
+  "url": "https://x.ai/bot/o-FcL9kK0iy2A9wmadEAt",
+  "builder_x_handle": "MichaelGannotti",
+  "one_line_desc": "Interviews you to ghostwrite your book in your own voice, one approved chapter at a time, and ships EPUB, PDF and manuscript.",
+  "source_post_url": "https://x.com/MichaelGannotti/status/2121774398780887050",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "X post (fxtwitter expand) + x.ai/bot page re-read",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "壁纸 Bot",
+  "bot_id": "MaXKjF6VCzFiZbbip-YBJ",
+  "url": "https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ",
+  "builder_x_handle": "KinGao476942",
+  "one_line_desc": "Sets a custom wallpaper on the Grok Bot Mac app, from an image you drop in or a theme you describe.",
+  "source_post_url": "https://x.com/KinGao476942/status/2122142707976192147",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "X post (fxtwitter expand) + x.ai/bot page re-read",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "SpaceX Launch Bot",
+  "bot_id": "0GV2s-KbbNo-NaE8a4C40",
+  "url": "https://x.ai/bot/0GV2s-KbbNo-NaE8a4C40",
+  "builder_x_handle": "SeaKingOptions",
+  "one_line_desc": "Reminds you on launch day for the SpaceX sites near you, with optional notice for sunset jellyfish launches.",
+  "source_post_url": "https://x.com/SeaKingOptions/status/2120752447614587100",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "X post (fxtwitter expand) + x.ai/bot page re-read",
+  "status": "verified + queued to ops/scout-pending"
+ },
+ {
+  "name": "Forge by TechEcho",
+  "bot_id": "fHUfj7QKrEt6_QHBDbRwX",
+  "url": "https://x.ai/bot/fHUfj7QKrEt6_QHBDbRwX",
+  "builder_x_handle": "",
+  "one_line_desc": "A product maker for digital sellers: printable spreadsheets, PDF kits, Pinterest pins and listing copy, handed over as files.",
+  "source_post_url": "",
+  "found_at": "2026-11-16 08:25 IST",
+  "found_via": "grokbottemplates.dev newest-week template pages + x.ai/bot page re-read",
+  "status": "skipped: verified live but third listed bot named Forge (forge, forge-2, forge-3) - name twin"
  }
 ]

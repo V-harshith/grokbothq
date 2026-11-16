@@ -135044,5 +135044,125 @@
   "source": "https://x.com/duffgaryduff/status/2121909364344987708",
   "addedAt": "2026-11-16",
   "status": "published"
+ },
+ {
+  "slug": "findmoney",
+  "name": "FindMoney",
+  "builder": {
+   "name": "Richard",
+   "x": ""
+  },
+  "tagline": "Searches state unclaimed-property sites, MissingMoney and pension lists for money owed to you, then walks you to the claim.",
+  "description": "A search-and-claim guide for unclaimed money and property. It checks state unclaimed-property sites, MissingMoney, pension listings and other public sources, then walks you through filing the claim itself. It deliberately does not hold your SSN or ID, so the sensitive part of the claim stays in your hands.",
+  "category": "money",
+  "features": [
+   "Searches state unclaimed-property sites",
+   "Checks MissingMoney and pension listings",
+   "Walks the claim without holding your SSN or ID"
+  ],
+  "url": "https://x.ai/bot/v7DAzv8Vz_cS-Toeu6beR",
+  "source": "",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "game-autopilot",
+  "name": "Game Autopilot",
+  "builder": {
+   "name": "winch",
+   "x": ""
+  },
+  "tagline": "Runs the daily grind in browser, Telegram and web3 games: dailies, quests, farming, with a screenshot trial run first.",
+  "description": "Takes over the repetitive parts of browser, Telegram and web3 games: daily tasks, quests and farming loops. Before it automates anything it does a trial run and shows screenshots, and it stops at the spending limit you set instead of paying its way past a wall.",
+  "category": "life",
+  "features": [
+   "Handles dailies, quests and farming",
+   "Trial run with screenshots before automating",
+   "Stops at your set spend limit"
+  ],
+  "url": "https://x.ai/bot/jw6voppvf9dS3sXR_QUFo",
+  "source": "",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "grok-bot-usage-optimizer",
+  "name": "Grok Bot Usage Optimizer",
+  "builder": {
+   "name": "Steve",
+   "x": ""
+  },
+  "tagline": "Keeps a refreshable page showing where this week’s Grok Bot usage went, split by bot, chats versus routines, and routine.",
+  "description": "A spend-view bot for anyone watching a plan quota. It keeps a standing page you can refresh that shows where this week’s usage went, broken down per bot, split between chats and routine runs, and attributed to individual routines so the expensive one is easy to spot.",
+  "category": "productivity",
+  "features": [
+   "Standing usage page you can refresh",
+   "Splits usage by bot",
+   "Separates chats from routine runs"
+  ],
+  "url": "https://x.ai/bot/ELO-JlArhJz08-sGEfBa5",
+  "source": "",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "ghost-writer",
+  "name": "Ghost Writer",
+  "builder": {
+   "name": "Michael Gannotti",
+   "x": "MichaelGannotti"
+  },
+  "tagline": "Interviews you to ghostwrite your book in your own voice, one approved chapter at a time, and ships EPUB, PDF and manuscript.",
+  "description": "A book-length ghostwriter that interviews you before it writes, so the draft carries your voice rather than a generic one. It works chapter by chapter, waits for your approval on each one, and finishes with an EPUB, a PDF and a plain manuscript file you can hand to an editor or upload.",
+  "category": "creative",
+  "features": [
+   "Interviews you before drafting",
+   "Chapter-by-chapter approval",
+   "Delivers EPUB, PDF and manuscript"
+  ],
+  "url": "https://x.ai/bot/o-FcL9kK0iy2A9wmadEAt",
+  "source": "https://x.com/MichaelGannotti/status/2121774398780887050",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "wallpaper-bot",
+  "name": "壁纸 Bot",
+  "builder": {
+   "name": "Kin",
+   "x": "KinGao476942"
+  },
+  "tagline": "Sets a custom wallpaper on the Grok Bot Mac app, from an image you drop in or a theme you describe.",
+  "description": "A small desktop customiser, written in Chinese, that changes the wallpaper of the Grok Bot Mac app. You can drop in your own image or describe a theme and have one generated, then the bot swaps it in. It works around the official app rather than patching it.",
+  "category": "creative",
+  "features": [
+   "Swaps the Mac app wallpaper",
+   "Accepts your own images",
+   "Generates wallpapers from a described theme"
+  ],
+  "url": "https://x.ai/bot/MaXKjF6VCzFiZbbip-YBJ",
+  "source": "https://x.com/KinGao476942/status/2122142707976192147",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "spacex-launch-bot",
+  "name": "SpaceX Launch Bot",
+  "builder": {
+   "name": "SeaKing",
+   "x": "SeaKingOptions"
+  },
+  "tagline": "Reminds you on launch day for the SpaceX sites near you, with optional notice for sunset jellyfish launches.",
+  "description": "A launch-day reminder built around how far you are from a pad. It tracks upcoming SpaceX launches from the sites closest to you and pings you on the day, with an optional earlier heads-up for the twilight “jellyfish” launches. Delivery can go to calendar, email or iMessage.",
+  "category": "life",
+  "features": [
+   "Launch-day alert for sites near you",
+   "Optional sunset jellyfish notice",
+   "Calendar, email or iMessage delivery"
+  ],
+  "url": "https://x.ai/bot/0GV2s-KbbNo-NaE8a4C40",
+  "source": "https://x.com/SeaKingOptions/status/2120752447614587100",
+  "addedAt": "2026-11-16",
+  "status": "published"
  }
 ]
