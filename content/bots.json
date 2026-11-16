@@ -135164,5 +135164,322 @@
   "source": "https://x.com/SeaKingOptions/status/2120752447614587100",
   "addedAt": "2026-11-16",
   "status": "published"
+ },
+ {
+  "slug": "coded-cards",
+  "name": "Coded Cards",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Makes X post graphics in one saved style, drawing with code to keep usage low.",
+  "description": "A graphics maker for X posts: patch notes, tip cards, quote cards and diagrams, all in a single look you settle on at setup. It holds that style for every image after that. Most cards are drawn with code, and AI image generation only runs where code cannot do the job.",
+  "category": "creative",
+  "features": [
+   "Patch notes, tip cards, quote cards and diagrams",
+   "Saves one style for every later image",
+   "Draws with code to keep runs cheap"
+  ],
+  "url": "https://x.ai/bot/LAYcUF5DkDnjfhl10Zkud",
+  "source": "https://x.com/nahjuin/status/2121653994783121645",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "college-aid-finder",
+  "name": "College Aid Finder",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Maps the college funding a US family can actually claim, with official links and a deadline tracker.",
+  "description": "Built for US families working out how to pay for college. It lists the aid that applies to the student’s state and school, from FAFSA and state grants through college aid, local programs and private scholarships, and cites official sources for each one. It drafts with placeholders you fill in and keeps a deadline tracker. California has the deepest coverage.",
+  "category": "money",
+  "features": [
+   "State-by-state aid sources",
+   "Official sources only",
+   "Deadline tracker with draft placeholders"
+  ],
+  "url": "https://x.ai/bot/zkyEU8XasFL6IvK_PhfsU",
+  "source": "https://x.com/BrianRoemmele/status/2121382538770088336",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "donation-value",
+  "name": "Donation Value",
+  "builder": {
+   "name": "dadProTech",
+   "x": "cjblev"
+  },
+  "tagline": "Values donated household items from photos or a list and keeps a clean log for the tax year.",
+  "description": "For the bag of clothes and furniture that goes to Goodwill or the Salvation Army. Send photos or a list and it looks up current thrift values, puts a defensible number on each item, and flags when a donation crosses a receipt or form threshold. The log runs for the tax year and exports at filing time.",
+  "category": "money",
+  "features": [
+   "Values items from photos or a list",
+   "Flags receipt and form thresholds",
+   "Exports a year-end log"
+  ],
+  "url": "https://x.ai/bot/umbrPqFOEG28vw6i60bpC",
+  "source": "https://x.com/cjblev/status/2121336893568680235",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "buying-signal-radar",
+  "name": "Buying-Signal Radar",
+  "builder": {
+   "name": "Austen Allred",
+   "x": "Austen"
+  },
+  "tagline": "Finds X posts from people shopping for what you sell, drafts a reply in your voice, and stops there.",
+  "description": "It reads public X posts for buying language: someone asking for a tool like yours, or complaining about a competitor. Each match comes back as a draft reply written in your voice, which you send yourself. It never posts, likes, follows or DMs on its own.",
+  "category": "sales",
+  "features": [
+   "Watches public X posts for buying language",
+   "Drafts replies in your voice",
+   "Never posts or DMs on its own"
+  ],
+  "url": "https://x.ai/bot/oo5mMd9J63Hv7K6ggIsQQ",
+  "source": "https://x.com/Austen/status/2120916520788246580",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "all-in-clip-scout",
+  "name": "All-In Clip Scout",
+  "builder": {
+   "name": "X Girls",
+   "x": "thesoragirls"
+  },
+  "tagline": "Watches the new All-In episode and pitches the moments worth clipping, with timestamps and captions.",
+  "description": "A watcher for the All-In podcast on X. It goes through the latest episode and picks the funniest and most teachable moments, with timestamps, X clip links and caption ideas. Before it pitches a moment it checks X, so you are not reposting a clip someone else already cut.",
+  "category": "creative",
+  "features": [
+   "Timestamps with ready clip links",
+   "Caption ideas per moment",
+   "Checks X for existing clips first"
+  ],
+  "url": "https://x.ai/bot/eYQ1iEZ3xZaHaWLTauwlB",
+  "source": "https://x.com/thesoragirls/status/2121121759977939014",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "apply-to-it",
+  "name": "Apply To It",
+  "builder": {
+   "name": "Pixlode",
+   "x": "pixlode"
+  },
+  "tagline": "Compares your resume to a job posting and says where you qualify, where you fall short and what to fix.",
+  "description": "A job-hunting helper built around a real comparison rather than a percentage score. Give it your resume and a posting and it walks the requirements, showing where you qualify, where you fall short and what to improve before applying. It does not invent experience, and it submits nothing without your approval.",
+  "category": "productivity",
+  "features": [
+   "Resume-to-posting comparison",
+   "Names the skill gaps",
+   "Nothing submitted without approval"
+  ],
+  "url": "https://x.ai/bot/cvqcsIb7gaPVJKYUyqD8y",
+  "source": "https://x.com/pixlode/status/2121046729802064145",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "cold-list-builder",
+  "name": "Cold List Builder",
+  "builder": {
+   "name": "SingleBrain",
+   "x": "singlebrain_ai"
+  },
+  "tagline": "Turns a description of your buyer into a lead list with work emails, delivered as a CSV.",
+  "description": "Describe who you want to reach and it returns a list: one named person at each fitting company, with a work email, a scored reason to write and the strongest opener first. The list arrives as a CSV you can load into whatever you already use. It sends nothing.",
+  "category": "sales",
+  "features": [
+   "One named contact per fitting company",
+   "Work email plus a reason to write",
+   "CSV export, no sending"
+  ],
+  "url": "https://x.ai/bot/VpbqlaWz3FuGp_jvSUKp_",
+  "source": "https://x.com/singlebrain_ai/status/2120970007228105197",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "home-base",
+  "name": "Home Base",
+  "builder": {
+   "name": "Adam Young",
+   "x": ""
+  },
+  "tagline": "Household and DIY helper that sorts every step into must do, best practice or overkill.",
+  "description": "A house-and-repairs helper that answers with a ranked plan instead of a checklist. Each step is labelled must do, best practice or overkill, with the cost, the time it takes and where the advice came from. It also keeps a seasonal maintenance calendar and a vault for warranties and manuals, and an optional EV module adds charging guidance and a cost-per-mile report.",
+  "category": "life",
+  "features": [
+   "Steps ranked must do, best practice or overkill",
+   "Cost, time and sources on every step",
+   "Seasonal maintenance calendar",
+   "Warranty and manual vault"
+  ],
+  "url": "https://x.ai/bot/EyPj4dReVLs-Ug4pCSd-x",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "immigration-and-global-careers",
+  "name": "Immigration & Global Careers",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Long-term visa and move-abroad planner that also rewrites your resume for overseas roles.",
+  "description": "Built for people planning a move over years rather than weeks. It maps the visa and permanent-settlement routes that fit a given profile, sets them against international job hunting, and produces a step-by-step relocation plan. The resume side tailors applications to overseas roles honestly, without inventing experience.",
+  "category": "life",
+  "features": [
+   "Visa and settlement route mapping",
+   "Step-by-step relocation plan",
+   "Resume tailoring for overseas roles"
+  ],
+  "url": "https://x.ai/bot/fmMBooBixWXTk_tjpKG_J",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "motion-studio",
+  "name": "Motion Studio",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Turns a described idea into a storyboarded animated video in three aspect ratios.",
+  "description": "A motion graphics desk for explainers, product clips, lessons and announcements. You describe the idea; it writes the script, storyboards the scenes and renders an animated video with music, voiceover and captions. Output comes in 16:9, 9:16 and 1:1, so one brief covers a long-form upload and the short-form cuts.",
+  "category": "creative",
+  "features": [
+   "Script and storyboard from a brief",
+   "Music, voiceover and captions included",
+   "Renders in 16:9, 9:16 and 1:1"
+  ],
+  "url": "https://x.ai/bot/I0XmIxdsR50QdiAgbghHA",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "payment-go-live-and-site-hardening",
+  "name": "Payment Go-Live & Site Hardening",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Gets a small-business site through gateway review, then tightens its security.",
+  "description": "Aimed at the step where a small site tries to take real money. It assembles what a gateway like Razorpay, Cashfree or Stripe wants to see, from policy pages and seller details to a sample invoice and the exact dashboard entries, then adds security headers and a content security policy and checks that checkout still completes. Nothing is submitted without approval.",
+  "category": "engineering",
+  "features": [
+   "Gateway onboarding checklist and documents",
+   "Security headers and CSP",
+   "Checkout verified after hardening",
+   "Approval before anything is submitted"
+  ],
+  "url": "https://x.ai/bot/rQNHwYOSK8_qsoiW9ro8Z",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "case-file",
+  "name": "Case File",
+  "builder": {
+   "name": "Ms Tiffany Nonaka",
+   "x": ""
+  },
+  "tagline": "Archival documentary partner that builds source-traceable research, then scripts it.",
+  "description": "A documentary workflow in one bot. It compiles a research pack where every claim keeps its source, has that pack attacked for weak points, then writes four short scripts voiced for Suno. The finish is a 1970s educational-film style edit with burned-in subtitles and separate .srt files, with accuracy placed ahead of drama.",
+  "category": "creative",
+  "features": [
+   "Source-traceable research pack",
+   "Adversarial fact check on its own research",
+   "Four short Suno-ready scripts",
+   "Retro edit with burned-in subtitles and .srt"
+  ],
+  "url": "https://x.ai/bot/keZOCGvJc_SwsNjGSWGLM",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "data-protection-officer",
+  "name": "Data Protection Officer",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Privacy desk for DPDP, GDPR and CCPA paperwork, drafted for review.",
+  "description": "A privacy compliance desk covering India's DPDP Act alongside GDPR, CCPA and comparable regimes. It produces data maps and records of processing, DPIAs, consent and notice reviews, data subject request handling, breach playbooks, vendor DPA checks and a compliance calendar. Every output is written as a draft for a qualified privacy professional.",
+  "category": "productivity",
+  "features": [
+   "Data maps and records of processing",
+   "DPIAs, consent and notice reviews",
+   "Breach playbooks and vendor DPA checks",
+   "Compliance calendar"
+  ],
+  "url": "https://x.ai/bot/0e9DsH6BB8b8XXUz5p0dB",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "ai-legal-counsel",
+  "name": "AI Legal Counsel",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "In-house legal drafter for contracts, NDAs, policies and terms, with sources cited.",
+  "description": "A first-pass legal desk for founders and small teams. It reviews contracts, drafts NDAs, agreements, privacy policies and terms, answers legal questions with citations, and keeps a running risk log. The output is explicitly a draft for a qualified lawyer, not advice to act on.",
+  "category": "productivity",
+  "features": [
+   "Contract review",
+   "NDA, policy and terms drafting",
+   "Answers with cited sources",
+   "Running risk log"
+  ],
+  "url": "https://x.ai/bot/0n2IqEnQ_0bUvP6VfPld2",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "freelance-gig-manager",
+  "name": "Freelance Gig Manager",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Runs the Fiverr and Upwork side of freelancing: gigs, proposals, deadlines, earnings.",
+  "description": "A back office for marketplace freelancers. It tunes profiles and gig pages on Fiverr, Upwork and Freelancer.com, finds jobs worth bidding on, drafts proposals and client replies, watches deadlines, and closes the week with an earnings summary. Sending anything stays with the freelancer.",
+  "category": "money",
+  "features": [
+   "Profile and gig optimisation",
+   "Job matching and proposal drafts",
+   "Deadline tracking",
+   "Weekly earnings summary"
+  ],
+  "url": "https://x.ai/bot/5WJkK7JvQnU3dOW8k1Yxb",
+  "addedAt": "2026-11-16",
+  "status": "published"
+ },
+ {
+  "slug": "digital-product-store-publisher",
+  "name": "Digital Product Store Publisher",
+  "builder": {
+   "name": "Flyhigh",
+   "x": ""
+  },
+  "tagline": "Lists ebooks, guides and kits on Topmate, Instamojo, Payhip or Gumroad and checks the pages.",
+  "description": "A publishing step for creators selling files rather than services. It puts ebooks, study guides and kits live on Topmate, Instamojo, Payhip or Gumroad, opens each finished listing to confirm the page actually loads, and sends back the working links.",
+  "category": "money",
+  "features": [
+   "Publishes to four storefronts",
+   "Verifies each live product page",
+   "Returns the working links"
+  ],
+  "url": "https://x.ai/bot/fogbsjBp7WD2alude46jf",
+  "addedAt": "2026-11-16",
+  "status": "published"
  }
 ]
