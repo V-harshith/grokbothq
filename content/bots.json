@@ -135481,5 +135481,64 @@
   "url": "https://x.ai/bot/fogbsjBp7WD2alude46jf",
   "addedAt": "2026-11-16",
   "status": "published"
+ },
+ {
+  "slug": "cue-youtube-sidekick",
+  "name": "Cue",
+  "builder": {
+   "name": "Jess",
+   "x": ""
+  },
+  "tagline": "YouTube sidekick for titles, descriptions, timestamped chapters and thumbnails from your own photos.",
+  "description": "A publishing helper for a YouTube channel. It writes titles, descriptions and chapters with real timestamps pulled from the video, turns your notes into a script, and builds thumbnails from photos you already have. Once a week it checks in on the upcoming lineup.",
+  "category": "creative",
+  "features": [
+   "Titles and descriptions",
+   "Chapters with real timestamps",
+   "Thumbnails from your photos",
+   "Weekly lineup check-in"
+  ],
+  "url": "https://x.ai/bot/NvC6aLdvicX_NZqnzBnoW",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "mochi-chief-of-staff",
+  "name": "Mochi",
+  "builder": {
+   "name": "Tito",
+   "x": ""
+  },
+  "tagline": "Chief of staff for a solo founder running a small team of bots: plans, briefs, checks, never sends.",
+  "description": "A coordination bot for a one-person company that already runs several specialist bots. It turns goals into plans, briefs the right bot for each piece, checks the results it gets back, and brings a morning send pack plus an evening scoreboard. It does not send anything itself.",
+  "category": "productivity",
+  "features": [
+   "Turns goals into plans",
+   "Briefs the right specialist bot",
+   "Checks returned work",
+   "Morning pack and evening scoreboard"
+  ],
+  "url": "https://x.ai/bot/lhGGC2rH9gIZ2jhthI75Z",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "bilipicks",
+  "name": "bilipicks",
+  "builder": {
+   "name": "Min Li",
+   "x": ""
+  },
+  "tagline": "Finds real beginner videos on Bilibili and builds them into a level-by-level course site.",
+  "description": "A course builder for self-learners who prefer video. It searches Bilibili for genuine introductory videos on a topic, arranges them into a staged course, builds a site that reads well on desktop, phone and TV, and publishes the result to deed.page. The bot's own page and instructions are in Chinese.",
+  "category": "research",
+  "features": [
+   "Finds beginner videos per topic",
+   "Arranges them into stages",
+   "Publishes a course site to deed.page"
+  ],
+  "url": "https://x.ai/bot/YnhFLl49Rz8Z7K9R21vqo",
+  "addedAt": "2026-11-17",
+  "status": "published"
  }
 ]
