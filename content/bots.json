@@ -136937,5 +136937,230 @@
   "url": "https://x.ai/bot/Zp1z-eYzNH6WQ9Fr0h6ns",
   "addedAt": "2026-11-17",
   "status": "published"
+ },
+ {
+  "slug": "business-scraper",
+  "name": "Business scraper",
+  "builder": {
+   "name": "kicks",
+   "x": "kickscosmo"
+  },
+  "tagline": "Finds local businesses with no website so web designers have a pitch list, then drafts preview-site prompts and tracks follow-up.",
+  "description": "Prospecting bot for web work: it looks for small local businesses that have no site of their own, builds the pitch list, then helps write preview-site prompts and keeps outreach and follow-up in order.",
+  "category": "sales",
+  "url": "https://x.ai/bot/PWNI_c4EPb-0Qb2_RhPxp",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/kickscosmo/status/2122011630393290806"
+ },
+ {
+  "slug": "black-friday-scout",
+  "name": "Black Friday Scout",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Sorts the Black Friday noise down to deals worth buying, and only buys the item you picked after you say yes.",
+  "description": "Pulls deal listings from aggregators, deal communities and trusted sources, compares them, and brings back the few offers worth acting on. It will purchase the item you choose only after explicit approval.",
+  "category": "money",
+  "url": "https://x.ai/bot/2N5hwFss2JOp16H5XQJVb",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/nahjuin/status/2122003442218811743"
+ },
+ {
+  "slug": "email-organizer",
+  "name": "Email Organizer",
+  "builder": {
+   "name": "grlofmstry",
+   "x": "grlofmstry"
+  },
+  "tagline": "Files a crowded Gmail inbox into labels, parks promos for review, keeps receipts, and never sends or deletes on its own.",
+  "description": "Works through an overflowing Gmail inbox: sorts mail into labels, sets promotional mail aside for your review, keeps receipts findable, and reduces spam. It does not send or delete mail without your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/FkZxBo5hO0z__N0GxzQrC",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/grlofmstry/status/2121992615272874164"
+ },
+ {
+  "slug": "ai-tool-finder",
+  "name": "AI Tool Finder",
+  "builder": {
+   "name": "Takahiro Naito",
+   "x": ""
+  },
+  "tagline": "Takes your goal, budget and language, then narrows the AI tools to two or three with prices and free-tier terms.",
+  "description": "Describe what you want to do with AI, your budget and your language, and it shortens the field to two or three tools with their prices, free tiers and a link to a comparison write-up. Replies in the language you used.",
+  "category": "research",
+  "url": "https://x.ai/bot/e9vSkxBmMjD3lZVwk05Nm",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/toolport_ai/status/2122180476571910459"
+ },
+ {
+  "slug": "gary-carry-over",
+  "name": "Gary - Carry Over",
+  "builder": {
+   "name": "Louis De Bontin",
+   "x": "louisdebontin"
+  },
+  "tagline": "Audits a bot fleet for bloated bots, then rebuilds each one as a slimmer copy with the same name and job.",
+  "description": "Maintenance bot for a large bot fleet: it finds bots that have grown heavy on usage or context, or whose output has slipped, and with your approval rebuilds each as a fresh, leaner copy that keeps the same name and job.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/-MKkyygkxccZpiag9QYlE",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/louisdebontin/status/2122156883129819208"
+ },
+ {
+  "slug": "dorito-founder-build-partner",
+  "name": "Dorito · Founder Build Partner",
+  "builder": {
+   "name": "stands",
+   "x": ""
+  },
+  "tagline": "Build partner for solo founders: launch copy, local outreach, directory listings and investor prep you can paste.",
+  "description": "Sits with a solo founder or small business and produces working drafts: launch copy, local outreach, directory listings and investor prep, all written to be copied straight into use.",
+  "category": "sales",
+  "url": "https://x.ai/bot/HzqYfzEOde2Xt9Vtjj23C",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/cospopollitan/status/2122043369673413060"
+ },
+ {
+  "slug": "arcana",
+  "name": "Arcana",
+  "builder": {
+   "name": "K",
+   "x": "khayusaki"
+  },
+  "tagline": "Tarot reader with a real 78-card deck for reflection, from a one-card check to a full Celtic Cross.",
+  "description": "Shuffles a full 78-card deck with real randomness and reads it for self-reflection and perspective, from a single-card pulse check up to a full Celtic Cross spread.",
+  "category": "life",
+  "url": "https://x.ai/bot/OM-atPvO7kazEsMJlcPcN",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/khayusaki/status/2122244793690403205"
+ },
+ {
+  "slug": "number-check",
+  "name": "Number Check",
+  "builder": {
+   "name": "Rob H",
+   "x": "sia14u"
+  },
+  "tagline": "Checks one number or a whole CSV for validity, line type, origin and spam or disposable flags.",
+  "description": "Phone-number checker for single lookups or whole CSV files: validity, line type, origin, time zone, and whether a number looks fake, disposable or spammy. Free local tools come first; paid carrier lookups need your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/z3KveWRZL1LWxhwit5pMv",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/sia14u/status/2122109951195873656"
+ },
+ {
+  "slug": "gamer",
+  "name": "Gamer",
+  "builder": {
+   "name": "Elek Molnár",
+   "x": "Elek_M"
+  },
+  "tagline": "Gaming sidekick that summarises patch notes, tracks releases and recommends games that fit your taste.",
+  "description": "Personal gaming assistant: condenses patch notes, keeps an eye on release dates, showcase announcements and subscription line-ups, and suggests recent games that match what you already play.",
+  "category": "life",
+  "url": "https://x.ai/bot/GXMfSZ-sM09MXfZ2BWWCe",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Elek_M/status/2122041946570891406"
+ },
+ {
+  "slug": "security-bot-4",
+  "name": "Security Bot",
+  "builder": {
+   "name": "Eugene Zhou",
+   "x": "EugeneZ_89"
+  },
+  "tagline": "Verifies a CVE or viral security claim against primary sources, checks whether it hits your stack, and gives the fix.",
+  "description": "Takes a CVE, advisory, vendor alert or viral security post and checks it against primary sources first, then works out whether it affects your repos, sites or hosting and points at the fastest fix. Read-only by default.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/uEgB3elX2i15vqJxTSH4T",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/EugeneZ_89/status/2122455266868216141"
+ },
+ {
+  "slug": "spam-call-scrubber-12",
+  "name": "Spam-Call Scrubber",
+  "builder": {
+   "name": "Luke Peake",
+   "x": "lukepeake"
+  },
+  "tagline": "Finds your number on people-search sites, files the opt-outs, confirms them by email and re-checks later.",
+  "description": "Searches people-search sites and data brokers for your phone number, submits the opt-out forms, finishes the confirmation emails, and re-checks on whatever schedule you set. Asks only for the details it needs.",
+  "category": "life",
+  "url": "https://x.ai/bot/rWSpKJrOOW9WxFY4EktGi",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/lukepeake/status/2122160367749279952"
+ },
+ {
+  "slug": "rent-scout-2",
+  "name": "Rent Scout",
+  "builder": {
+   "name": "Jeremy Mahoney",
+   "x": "Biggs237"
+  },
+  "tagline": "Runs rent comps, taxes, cash flow and cap rate on homes and small multi-family deals before you tour.",
+  "description": "Searches for homes and two-to-four-unit properties that could be bought and rented out, then runs the numbers: rent comps, taxes, cash flow, cap rate and red flags. Numbers-first, aimed at first-time and small landlords.",
+  "category": "money",
+  "url": "https://x.ai/bot/2A0pr4CgUzxio5lprVHXQ",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Biggs237/status/2122288310651339110"
+ },
+ {
+  "slug": "settlement-scout-2",
+  "name": "Settlement Scout",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Collects open class-action settlements with deadlines, eligibility and expected payout on one page.",
+  "description": "Tracks open and upcoming class-action settlements and keeps them on one phone-friendly page, each with its claim deadline, who is eligible and the estimated payout, so claim windows do not slip past.",
+  "category": "money",
+  "url": "https://x.ai/bot/ERfnN0j4oTqZy8DGdvwDd",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/nahjuin/status/2122351665936240703"
+ },
+ {
+  "slug": "dispatcher-2",
+  "name": "Dispatcher",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Hands-free bridge to your bots from CarPlay or a Tesla screen: forward a message, hear what finished.",
+  "description": "Keeps you in touch with your bots while driving. It works through Apple CarPlay and Tesla in-car interfaces, forwarding messages to the right bot and reporting what is done or still waiting.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/ntvBkcw8xpYmKrseja5lb",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/nahjuin/status/2122351665936240703"
+ },
+ {
+  "slug": "listing-desk-2",
+  "name": "Listing Desk",
+  "builder": {
+   "name": "Calix Build",
+   "x": "CaliLumberJack"
+  },
+  "tagline": "Replies to real-estate leads, open-house follow-ups and weekly seller updates, with nothing sent without approval.",
+  "description": "Desk for real-estate agents: drafts replies to portal leads that actually answer the buyer question, plus open-house follow-ups, showing times pulled from your calendar, and a weekly seller update. Every send waits for your yes.",
+  "category": "sales",
+  "url": "https://x.ai/bot/98hBCVyNvtDv2wmEWf6Xp",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/CaliLumberJack/status/2122434532750323971"
  }
 ]
