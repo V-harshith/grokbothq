@@ -135998,5 +135998,465 @@
   "url": "https://x.ai/bot/q5P8hA61kLeFjCl7uGZx4",
   "addedAt": "2026-11-17",
   "status": "published"
+ },
+ {
+  "slug": "tee-store-builder",
+  "name": "Tee Store Builder",
+  "builder": {
+   "name": "Fleet Shepherd",
+   "x": ""
+  },
+  "tagline": "Sets up and runs a print-on-demand T-shirt shop on Shopify, from domain to first sale.",
+  "description": "Takes a pun-driven T-shirt idea to a running shop: store email and domain, shirt designs, product photos, an X account and customer support, then keeps pushing toward the first sale. Shopify storefront with Printful fulfilment.",
+  "category": "money",
+  "features": [
+   "Shopify and Printful store setup",
+   "Designs and product photos",
+   "Runs the X account and customer service"
+  ],
+  "source": "https://x.com/Teach_a_man/status/2122470287388070133",
+  "url": "https://x.ai/bot/q4mjoqG8BWoif7ehawUy9",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "use-cases",
+  "name": "Use Cases",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Surfaces Grok Bot use cases people are running on X so a new user can start one.",
+  "description": "Scans X for use cases people actually run with Grok Bot and helps you copy one or build your own. Aimed at newer users who want to see what a bot does beyond chat.",
+  "category": "productivity",
+  "features": [
+   "Finds live use cases on X",
+   "Helps start or adapt one",
+   "Written for new Grok Bot users"
+  ],
+  "source": "https://x.com/nahjuin/status/2122351665936240703",
+  "url": "https://x.ai/bot/w59Gz0num4hDcLd1vjSQJ",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "iracing-chief",
+  "name": "iRacing Chief",
+  "builder": {
+   "name": "YupYupp",
+   "x": ""
+  },
+  "tagline": "Plans an iRacing season from your licences, ratings and owned content.",
+  "description": "Builds and maintains a season planner for iRacing: it reads your licences, ratings, owned cars and tracks and favourite series, lays out the schedules and recommends which content is worth buying next.",
+  "category": "life",
+  "features": [
+   "Season planner from your licence and rating",
+   "Full schedules for favourite series",
+   "Content buying advice"
+  ],
+  "source": "https://x.com/yupyup/status/2122349464450957371",
+  "url": "https://x.ai/bot/EaWvWQXCCPEQuVh_AacHB",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "omarchy-ops",
+  "name": "Omarchy Ops",
+  "builder": {
+   "name": "Alex Gifford",
+   "x": ""
+  },
+  "tagline": "Maintains an Omarchy Linux desktop: diagnose first, then the smallest approved fix.",
+  "description": "On-demand upkeep for an Omarchy (Arch-based) desktop. It diagnoses the problem before changing anything, proposes the smallest change with a backup and a way back, and only runs approved non-interactive shell, config, package and service work.",
+  "category": "engineering",
+  "features": [
+   "Diagnosis before any change",
+   "Backup and restore path",
+   "Approved shell and package work only"
+  ],
+  "source": "https://x.com/AD_Giff/status/2122203172488073602",
+  "url": "https://x.ai/bot/j68SHRQZjRh00RT_2ynlP",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "repo-clerk",
+  "name": "Repo Clerk",
+  "builder": {
+   "name": "Alex Gifford",
+   "x": ""
+  },
+  "tagline": "The one bot allowed to write to a single repo, one concern per pull request.",
+  "description": "Scoped to one repository you name. It makes one commit per concern, lands every change through a pull request with checks and a plain merge, confirms main afterwards, and needs an explicit yes before deletes or access changes.",
+  "category": "engineering",
+  "features": [
+   "One repository, one concern per commit",
+   "Everything through pull requests",
+   "Asks before deletes or access changes"
+  ],
+  "source": "https://x.com/AD_Giff/status/2122203172488073602",
+  "url": "https://x.ai/bot/0EFx8WefWzhW14pjOHDEX",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "noether-checker",
+  "name": "Noether Checker",
+  "builder": {
+   "name": "Alex Gifford",
+   "x": ""
+  },
+  "tagline": "Checks mastery with sealed tests written before the teaching starts.",
+  "description": "Pairs with a tutor bot as the independent examiner: it writes and seals its own tests up front, then hands over unseen checks at least 48 hours later and grades from the pre-written keys instead of trusting the tutor.",
+  "category": "research",
+  "features": [
+   "Tests sealed before teaching begins",
+   "Unseen checks at least 48 hours later",
+   "Graded from pre-written keys"
+  ],
+  "source": "https://x.com/AD_Giff/status/2122203172488073602",
+  "url": "https://x.ai/bot/BIuBakqkbvKtBslSJZZM3",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "tau-teacher",
+  "name": "Tau Teacher",
+  "builder": {
+   "name": "Johel Padilla",
+   "x": ""
+  },
+  "tagline": "Teaches the Systemic Tau method of ordinal time-series analysis.",
+  "description": "Teaches the Systemic Tau paradigm for ordinal time series and the chronos and kairos view of time behind it, from first intuition to real data, in any language. Also supports reproducible analysis and preprint submissions, and is built not to invent results or citations.",
+  "category": "research",
+  "features": [
+   "Systemic Tau from intuition to data",
+   "Works in any language",
+   "Reproducible analysis and preprint help"
+  ],
+  "source": "https://x.com/HabraHoy/status/2122201632134050077",
+  "url": "https://x.ai/bot/hE7frTXSRG4AM8APGbvWq",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "storika",
+  "name": "Storika",
+  "builder": {
+   "name": "Jay Park",
+   "x": ""
+  },
+  "tagline": "Runs creator marketing end to end across TikTok Shop, Gmail and Notion.",
+  "description": "A creator-marketing assistant that works from connected TikTok Shop, Gmail and Notion accounts to run campaigns and content tasks, leaving you to review and approve instead of operating it by hand.",
+  "category": "sales",
+  "features": [
+   "Works from TikTok Shop, Gmail and Notion",
+   "Runs campaigns end to end",
+   "You review and approve"
+  ],
+  "source": "https://x.com/storika_ai/status/2122185521086578867",
+  "url": "https://x.ai/bot/2gn3SQaXHj-K2JNZ7LOuq",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "throttle",
+  "name": "Throttle",
+  "builder": {
+   "name": "America First Fury",
+   "x": ""
+  },
+  "tagline": "Audits how your bot fleet spends its weekly usage and names the cheapest fix.",
+  "description": "A usage officer for a fleet of Grok Bots. It watches how bots and routines consume the weekly allowance, flags the noisy schedules and retry loops that burn it, and proposes the cheapest change that recovers the spend.",
+  "category": "productivity",
+  "features": [
+   "Watches bot and routine usage",
+   "Flags noisy schedules and retry loops",
+   "Suggests the cheapest fix"
+  ],
+  "source": "https://x.com/XZherron/status/2122085070374666304",
+  "url": "https://x.ai/bot/JLHR8SBu2j4jjT8OmjYe4",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "bedtime-story-night",
+  "name": "Bedtime Story Night",
+  "builder": {
+   "name": "John Bianchi",
+   "x": ""
+  },
+  "tagline": "Reads a classic bedtime story aloud every night, matched to your child's age.",
+  "description": "Delivers one public-domain bedtime story a night from Aesop, Grimm, Andersen and Kipling, matched to the child's age and the length you want, gentle by default, with a bookshelf of everything already read.",
+  "category": "life",
+  "features": [
+   "Nightly public-domain stories",
+   "Matched to age and length",
+   "Bookshelf of past nights"
+  ],
+  "source": "https://x.com/BTCJohnnyB/status/2122052280383860775",
+  "url": "https://x.ai/bot/JjKgjNN2mXkU7gRDYBCiF",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-threat-modeler",
+  "name": "Security Threat Modeler",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Maps a system's attack surface and returns a threat model before scanning.",
+  "description": "Maps entry points, data flows, trust boundaries and the targets an attacker would pick for a system you own, then returns a threat model a security team can work from.",
+  "category": "engineering",
+  "features": [
+   "Entry points and data flows",
+   "Trust boundaries and likely targets",
+   "Report for a security team"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/01vUPfNUrNE1y-L9YnGGv",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-ai-red-team",
+  "name": "Security AI Red Team",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Tests your app's LLM features for prompt injection, jailbreaks and data leakage.",
+  "description": "A defensive red team for AI features in apps you own: it probes prompt injection, jailbreaks, data leakage and unsafe tool use with Garak, Promptfoo and PyRIT.",
+  "category": "engineering",
+  "features": [
+   "Prompt injection and jailbreak tests",
+   "Data leakage and unsafe tool use",
+   "Runs Garak, Promptfoo and PyRIT"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/n04Z7rI8JUrsOyGRNeS-3",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-vuln-researcher",
+  "name": "Security Vuln Researcher",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Proves whether a security lead is really exploitable, or kills it as noise.",
+  "description": "Takes suspicious leads from scanners or code review and works out whether they are actually exploitable on systems you own, closing the ones that are not with a stated reason.",
+  "category": "engineering",
+  "features": [
+   "Exploitability checks on your own systems",
+   "Separates real findings from noise",
+   "Reasons recorded for closes"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/ALGP859oCZtFz7kTfz61l",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-fixer",
+  "name": "Security Fixer",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Writes the minimal patch plus a test that fails before and passes after.",
+  "description": "Patches reproduced findings in code you own: a minimal fix with a test that fails before the change and passes after, then a re-scan and a draft handed to your security lead. It does not push or merge without approval.",
+  "category": "engineering",
+  "features": [
+   "Minimal patch per finding",
+   "Regression test with the fix",
+   "No push or merge without approval"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/wivNeHQdXqMHLyn_-lOe_",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-supply-chain-analyst",
+  "name": "Security Supply Chain Analyst",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Scans project dependencies for CVEs and typosquats into one report.",
+  "description": "Checks the dependencies of projects you own for known CVEs, typosquats and outdated versions using Trivy, OSV-Scanner and Grype, then dedupes the results into a single draft report.",
+  "category": "engineering",
+  "features": [
+   "CVE and typosquat scanning",
+   "Trivy, OSV-Scanner and Grype",
+   "One deduped draft report"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/COU9EQ_lXAxpCltWvwe2W",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-secrets-hunter",
+  "name": "Security Secrets Hunter",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Finds leaked keys and tokens in your repos, with the values redacted.",
+  "description": "Searches repos and files you own for leaked keys, tokens and passwords using Gitleaks and TruffleHog, and redacts the secret values in everything it reports.",
+  "category": "engineering",
+  "features": [
+   "Leaked keys, tokens and passwords",
+   "Gitleaks and TruffleHog",
+   "Secrets redacted in reports"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/SQIeyS1xKItxDNAE_9ZcZ",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-appsec-reviewer",
+  "name": "Security AppSec Reviewer",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Reviews your own code and PR diffs for injection, auth and deserialization bugs.",
+  "description": "Reads your source and pull request diffs for application-security bugs such as injection, broken authentication, unsafe deserialization and path traversal, and hands findings back as leads to verify.",
+  "category": "engineering",
+  "features": [
+   "Source and pull request review",
+   "Injection, auth and deserialization focus",
+   "Findings come back as leads"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/TuND5y7B9MJX3GMBPCeJe",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-ciso-lead",
+  "name": "Security CISO Lead",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Leads a team of security bots from scope to one risk-ranked report.",
+  "description": "Runs a defensive review team: it confirms scope and authorisation, drives a scope, scan, fuzz, verify and patch pipeline across specialist bots, dedupes what they find and writes a single risk-ranked report.",
+  "category": "engineering",
+  "features": [
+   "Confirms scope and authorisation",
+   "Drives the specialist bot pipeline",
+   "One risk-ranked report"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/_KzOR2UOzjoAoSNAVCmBd",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "security-red-team-hacker",
+  "name": "Security Red Team Hacker",
+  "builder": {
+   "name": "Avid",
+   "x": ""
+  },
+  "tagline": "Attacks your own staging apps and hands real leads to the researcher.",
+  "description": "A red team seat for defensive work: it attacks apps you own on staging or local environments only, starting with Nmap then ZAP or Nuclei, and passes scanner leads to a vuln researcher before calling anything confirmed.",
+  "category": "engineering",
+  "features": [
+   "Staging and local targets only",
+   "Nmap then ZAP or Nuclei",
+   "Leads handed off before confirmation"
+  ],
+  "source": "https://x.com/Av1dlive/status/2121988254300086658",
+  "url": "https://x.ai/bot/ukKz32YfmJAPoXP8FD8lc",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "live-show-producer",
+  "name": "Live Show Producer",
+  "builder": {
+   "name": "JD the Bot Guy",
+   "x": ""
+  },
+  "tagline": "Preps your livestream and watches chat moderation in private.",
+  "description": "Handles the run-up to a stream: show prep, titles and settings, an automatic pre-stream check, and private alerts when chat moderation needs you. It never acts on chat without your OK.",
+  "category": "creative",
+  "features": [
+   "Pre-stream checklist and settings",
+   "Automatic pre-stream check",
+   "Private moderation alerts"
+  ],
+  "source": "https://x.com/JDtheBotGuy/status/2121977644812226645",
+  "url": "https://x.ai/bot/O0ikc_JM0HtNTQw6tTUfo",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "ufc-fight-picker",
+  "name": "UFC Fight Picker",
+  "builder": {
+   "name": "beastnug",
+   "x": ""
+  },
+  "tagline": "Picks winner, method and round each fight week, then grades itself.",
+  "description": "Publishes sourced UFC picks every fight week from each fighter's last three fights, camp, UFC tenure and style matchup, then grades the picks and keeps a running record. Framed for debate, not as betting advice.",
+  "category": "life",
+  "features": [
+   "Weekly sourced picks",
+   "Winner, method and round",
+   "Grades its own record"
+  ],
+  "source": "https://x.com/beastnug8/status/2121963932277678528",
+  "url": "https://x.ai/bot/6bC17wrr08h2KNunWkPTb",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "snoop",
+  "name": "Snoop",
+  "builder": {
+   "name": "hemanth",
+   "x": ""
+  },
+  "tagline": "Turns your bot fleet's chats into shared playbooks and a team of head bots.",
+  "description": "Studies every Grok Bot you run and how you talk to them, turns the recurring patterns into shared playbooks, and reorganises the sprawl into a small set of head bots, one per area of your life.",
+  "category": "productivity",
+  "features": [
+   "Reads your bot chats for patterns",
+   "Writes shared playbooks",
+   "Rebuilds the fleet as head bots"
+  ],
+  "source": "https://x.com/Heamanth_alturi/status/2121955293852533181",
+  "url": "https://x.ai/bot/L4a4AB4fu9_TpT25oSc4D",
+  "addedAt": "2026-11-17",
+  "status": "published"
+ },
+ {
+  "slug": "joslyn",
+  "name": "Joslyn",
+  "builder": {
+   "name": "Joslyn Lop",
+   "x": ""
+  },
+  "tagline": "A general personal assistant that works on its own computer.",
+  "description": "An everyday personal assistant with its own computer: it takes on errands and work tasks and reports back, rather than handing you a to-do list.",
+  "category": "assistants",
+  "features": [
+   "Own cloud computer",
+   "Errands and work tasks",
+   "Reports back when done"
+  ],
+  "source": "https://x.com/Joslyn397971/status/2121922072678953383",
+  "url": "https://x.ai/bot/yHc_gTe6arXmhIqu_aeiy",
+  "addedAt": "2026-11-17",
+  "status": "published"
  }
 ]
