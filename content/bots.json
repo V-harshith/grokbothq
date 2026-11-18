@@ -138121,5 +138121,215 @@
   "addedAt": "2026-11-18",
   "status": "published",
   "source": "https://x.com/LBPetrillo/status/2122845649070862566"
+ },
+ {
+  "slug": "x-healer-bot",
+  "name": "X 힐러봇",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Sorts an X account's follows into mutuals, non-followbacks, top engagers and post stats. Lists only, never follows or unfollows.",
+  "description": "Cleans up a crowded X account: it separates mutual follows from accounts that no longer follow back, ranks the people who engage most, summarises how recent posts performed, and keeps a private list of the accounts worth keeping. It does not follow, unfollow or send DMs; you get the lists and links and make the changes yourself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VmqJKgOP_7XpSBqjpWa6A",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/lklksa80/status/2122703062091636750"
+ },
+ {
+  "slug": "phone-harness-wizard",
+  "name": "Phone Harness Wizard",
+  "builder": {
+   "name": "Shagghie Superstar",
+   "x": ""
+  },
+  "tagline": "Step-by-step setup that gives a Grok Bot hands on your own phone, then proves it by making the phone do a sum.",
+  "description": "A patient walkthrough for connecting your own iPhone or Android, or a Phone Harness cloud phone, to Grok Bot using the free Phone Harness command-line tool. It finishes by proving the link works: the phone is asked to calculate 7 x 6 and report the answer back itself. Free on hardware you already own, and it never spends money without approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/EtXBSv57CQo1dxFghmslA",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/PixelRainbowNFT/status/2122393624759439679"
+ },
+ {
+  "slug": "horst-luning-ten-point-philosopher",
+  "name": "Horst Lüning · Zehn-Punkte-Philosoph",
+  "builder": {
+   "name": "Martin Ebert",
+   "x": ""
+  },
+  "tagline": "Daily ten-goal method companion: sharpen each goal, keep the list in Notion, review what actually moved.",
+  "description": "Walks you through Horst Lüning's ten-point method: every morning you write ten goals in priority order, and the bot pushes back on vague ones until each is specific, then files the list in Notion and helps you review it. Aimed at people who want to live deliberately instead of drifting from week to week.",
+  "category": "life",
+  "url": "https://x.ai/bot/QYQMe2QGDqjB0ZZ32tWt-",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/MyPassion_M9T/status/2122332218907627783"
+ },
+ {
+  "slug": "event-and-giveaway",
+  "name": "Event and Giveaway",
+  "builder": {
+   "name": "Toan Nhu",
+   "x": "toannhu_it"
+  },
+  "tagline": "Finds open crypto-exchange giveaways on X and ranks the five cheapest, easiest ones to enter.",
+  "description": "Watches the official X accounts of Binance, Bybit, Bitget and OKX for events and giveaways that are still open, drops the ones that have closed, and ranks a top five by how much effort and money joining would cost. You can ask for it on demand or take a weekly run.",
+  "category": "money",
+  "url": "https://x.ai/bot/1rfzYPVkI-WE6-ci4VS-I",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/toannhu_it/status/2122253730796195962"
+ },
+ {
+  "slug": "costco-receipt-keeper",
+  "name": "Costco Receipt Keeper",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Turns Costco receipts into a searchable purchase history, with original receipts pulled up for returns and sale alerts.",
+  "description": "Builds a private, searchable database from your Costco receipts so you can ask what you bought, when, and for how much. It can pull the official receipt with the relevant items highlighted for a return, and it alerts you when something you buy regularly drops in price.",
+  "category": "life",
+  "url": "https://x.ai/bot/Lj4_-xsgpMrZqZYiOchVz",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/wirelyss/status/2122211149047644563"
+ },
+ {
+  "slug": "moving-carousel-maker",
+  "name": "움직이는 캐러셀 메이커",
+  "builder": {
+   "name": "현민 강",
+   "x": ""
+  },
+  "tagline": "Makes 8 to 10 slide 3:4 Instagram carousels with real screen-capture video, styled to your existing feed.",
+  "description": "Takes a topic and returns a moving Instagram carousel: eight to ten slides at 3:4 with actual recorded video inside them. Give it your Instagram handle first and it matches the profile picture, display name and feed colours so the set looks like it belongs on the account.",
+  "category": "creative",
+  "url": "https://x.ai/bot/rSBf8TonNV53tSx6Q6vLy",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/mini_yeoreum/status/2122154720341144033"
+ },
+ {
+  "slug": "blackjack-x-guru",
+  "name": "BlackJack (X-Guru)",
+  "builder": {
+   "name": "Jonathan Rivera",
+   "x": "WallyX716"
+  },
+  "tagline": "Short lessons on how X actually works, with strategy and format advice read off your own public account data.",
+  "description": "A calm X growth coach that explains how the platform works in bite-size lessons, then advises on strategy, posting habits and formats using your real public X data. It teaches and suggests only; the posting stays with you.",
+  "category": "sales",
+  "url": "https://x.ai/bot/VomIOoA7KRaBAWxqJIqRd",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/WallyX716/status/2122148822793273374"
+ },
+ {
+  "slug": "pip-game-night",
+  "name": "Pip · Game Night",
+  "builder": {
+   "name": "Marc Saint-Jour",
+   "x": "MSaintjour"
+  },
+  "tagline": "Board games and chess that run inside the Grok Bot chat.",
+  "description": "Plays board games and chess inside the Grok Bot conversation, so a game can run in the same thread as the rest of your work instead of a separate app. When you are stuck on a move, the bot can bring in the piece you are staring at as a card you can share.",
+  "category": "life",
+  "url": "https://x.ai/bot/WEiaTOR5jpuoNKIzhAHEX",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/MSaintjour/status/2122134087431332256"
+ },
+ {
+  "slug": "yuga-signal",
+  "name": "Yuga Signal",
+  "builder": {
+   "name": "Bhau",
+   "x": "Bhau_jagmd"
+  },
+  "tagline": "Weekly brief from new Yuga Signal posts, with sources, how far each claim has to go, and Dharmic-text parallels.",
+  "description": "Reads every new Yuga Signal post from Eternal Order and turns it into a weekly brief written for your interests: real sources for each item, an honest note on how much distance is left between the claim and the evidence, and parallels from the Dharmic texts you choose. You can paste any headline to have it checked.",
+  "category": "research",
+  "url": "https://x.ai/bot/dUcoBniShis1jD8wBm-Cb",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/Bhau_jagmd/status/2122132547828437068"
+ },
+ {
+  "slug": "captain-noah-fleet-export",
+  "name": "Captain Noah · fleet export",
+  "builder": {
+   "name": "Carlo Makes",
+   "x": "carlomakes"
+  },
+  "tagline": "Exports a whole bot fleet, profiles, routines, skills, memories and connectors, to GitHub, Drive, Notion or a zip.",
+  "description": "Packs your entire bot fleet into one portable kit: profiles, routines, skills, memories and connectors, with secrets stripped out. Output goes to GitHub, Google Drive, Notion or a local zip, so you can move an account, migrate machines, or simply keep a backup of how the team is built.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/x0dzjjBbFTI6jRKYdBKnY",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/carlomakes/status/2122096842166935658"
+ },
+ {
+  "slug": "are-we-in-a-simulation",
+  "name": "Are We in a Simulation?",
+  "builder": {
+   "name": "Moxie",
+   "x": "constellatio42"
+  },
+  "tagline": "Sorts out which 'simulation' claim you mean, then walks that branch with real tests, a thought experiment or a game.",
+  "description": "Weather models, video games, a religious question and a philosophy paper all get called a simulation, and they are not the same claim. This companion works out which one you actually mean, then walks the matching door: what physics could test, where faith meets the question, Bostrom's argument step by step, the sci-fi version, or the glitches in your own life. Each path ends in a thought experiment or a short game.",
+  "category": "research",
+  "url": "https://x.ai/bot/gB7vABN9av26tXWekq9iz",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/constellatio42/status/2122010433179525341"
+ },
+ {
+  "slug": "brolingo",
+  "name": "Brolingo",
+  "builder": {
+   "name": "Benjamin Popp",
+   "x": "BenjaminPopp4"
+  },
+  "tagline": "Reads between the lines of a partner's message and drafts the reply you should send back.",
+  "description": "Paste a message, or a screenshot of one, from your girlfriend or wife and it explains what she probably means and what to send back. Built for the 'I'm fine' class of messages, where the literal words and the real request are not the same thing.",
+  "category": "life",
+  "url": "https://x.ai/bot/T3a0ZiTbydNVUxB3kk6PS",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/BenjaminPopp4/status/2121953607860068808"
+ },
+ {
+  "slug": "book-to-skill",
+  "name": "书变技能",
+  "builder": {
+   "name": "CaptainX",
+   "x": "CaptainXTop"
+  },
+  "tagline": "Converts a rule-based book into a tested Grok Bot skill: coverage table, six rule sections, then a pass on the test set.",
+  "description": "Turns a rule-based book into a Grok Bot skill you can actually test. It first judges whether the book is worth the work, parses it locally, builds a coverage table so nothing important is skipped, writes the rules in six sections, and only calls the skill finished once it passes a test set drawn from the book.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/6F5gRLmfurC_pklaXpD9I",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/CaptainXTop/status/2121949459093557625"
+ },
+ {
+  "slug": "pothole",
+  "name": "POTHOLE",
+  "builder": {
+   "name": "_onebrother_",
+   "x": "_onebrother_"
+  },
+  "tagline": "Say 'pothole' while driving and it files the report with whichever authority owns that stretch of road.",
+  "description": "You say 'pothole' while driving and the bot files a road-defect report with the body responsible for that road: city, state or provincial, or federal. Covers the US and Canada.",
+  "category": "life",
+  "url": "https://x.ai/bot/DZWaOmi8__RPewcL05Gvi",
+  "addedAt": "2026-11-19",
+  "status": "published",
+  "source": "https://x.com/_onebrother_/status/2121938596676382963"
  }
 ]
