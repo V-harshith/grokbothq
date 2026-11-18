@@ -137716,5 +137716,410 @@
   "url": "https://x.ai/bot/dhMJBtXJ1PNlkttQ7ZqyQ",
   "addedAt": "2026-11-18",
   "status": "published"
+ },
+ {
+  "slug": "leak-finder",
+  "name": "Leak Finder",
+  "builder": {
+   "name": "Eric Peradotto",
+   "x": "voltclerk"
+  },
+  "tagline": "Reads your receipts and statements, then lists every recurring charge quietly draining the account.",
+  "description": "Scans receipt emails and card statements for recurring charges, flags duplicates, price rises, services nobody uses any more and renewals coming up. It drafts cancel, downgrade or lower-my-rate requests and waits for your approval before anything is sent.",
+  "category": "money",
+  "url": "https://x.ai/bot/PwEVDQfWlPvm5mDaUzAP_",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/voltclerk/status/2123012187824210325"
+ },
+ {
+  "slug": "collector",
+  "name": "Collector",
+  "builder": {
+   "name": "Eric Peradotto",
+   "x": "voltclerk"
+  },
+  "tagline": "Chases overdue invoices for freelancers and small shops, in your voice, one approval at a time.",
+  "description": "Finds unpaid invoices in your billing tool or inbox and writes the follow-ups, starting polite and getting firmer at each step. Every message waits for your approval, so nothing leaves that you have not read first.",
+  "category": "money",
+  "url": "https://x.ai/bot/jlw-CrNXNG58BstyO2IyE",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/voltclerk/status/2123012064348082668"
+ },
+ {
+  "slug": "first-responder",
+  "name": "First Responder",
+  "builder": {
+   "name": "Eric Peradotto",
+   "x": "voltclerk"
+  },
+  "tagline": "Scores inbound leads from your inbox and web forms, then drafts a reply within minutes.",
+  "description": "Watches your inbox and form notifications for new leads, ranks each one by how serious it looks and drafts a personal answer plus follow-ups on day 1, 3 and 7. Built for local service businesses and solo sellers; you approve every send.",
+  "category": "sales",
+  "url": "https://x.ai/bot/Az28cSJVi927jVG1WFEhJ",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/voltclerk/status/2123011819778248872"
+ },
+ {
+  "slug": "escalation-bot",
+  "name": "Escalation Bot",
+  "builder": {
+   "name": "Fan Grok Bot Radar",
+   "x": ""
+  },
+  "tagline": "Finds a company's real customer-care and leadership contacts when support stalls, then drafts the email.",
+  "description": "For the support problem that has gone nowhere: it looks up the company's actual care and leadership contacts, writes short calm emails that you approve one at a time, and tracks replies with suggested follow-ups. Community built, not an xAI product.",
+  "category": "life",
+  "url": "https://x.ai/bot/_1VAjYexQplwCmgbQFADc",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/GrokBotRadar/status/2123001028815835310"
+ },
+ {
+  "slug": "bork-mcp-communicator",
+  "name": "BoRK MCP Communicator",
+  "builder": {
+   "name": "6noodle9",
+   "x": ""
+  },
+  "tagline": "Bot-to-bot messaging between separate Grok Bot accounts, without paying for a team plan.",
+  "description": "Runs a small inbox server you host yourself so two bots on different private accounts can trade tasks and replies the way team bots do. Works over Tailscale, ZeroTier or any overlay network both sides can reach, and the setup code lives in its own GitHub repo.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/OK54OxXnjYTN-pZgKgMLj",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/noodle_public/status/2122995888507228407"
+ },
+ {
+  "slug": "coi-desk",
+  "name": "COI Desk",
+  "builder": {
+   "name": "Clint Corley",
+   "x": ""
+  },
+  "tagline": "Keeps subcontractor insurance certificates filed and current for a contracting business.",
+  "description": "A certificate-of-insurance desk for contractors: it files subcontractor general liability and workers' comp certificates, keeps a compliance roster, drafts the chase emails for you to send and runs scheduled checks so coverage cannot quietly lapse.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/dfy9Eo62_8F3PJ0D3dvS1",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/de_obfusc8ter/status/2122989344466125095"
+ },
+ {
+  "slug": "murasaki-shikibu-bot",
+  "name": "紫式部bot",
+  "builder": {
+   "name": "雄規 芳賀",
+   "x": ""
+  },
+  "tagline": "Japanese roleplay chat in the voice of Murasaki Shikibu, with the Tale of Genji as its ground.",
+  "description": "An unofficial character bot that speaks as the author of the Tale of Genji in period Japanese, talking about the story's plot and people from the writer's point of view, court life in the Heian period and waka poetry questions.",
+  "category": "creative",
+  "url": "https://x.ai/bot/P6zBLrHCn9lbiw42BHkWh",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Underhunt1111/status/2122971251140706345"
+ },
+ {
+  "slug": "hiroyuki-bot",
+  "name": "ひろゆきbot（仮）",
+  "builder": {
+   "name": "雄規 芳賀",
+   "x": ""
+  },
+  "tagline": "Unofficial Hiroyuki-style debate partner that checks its sources before arguing back.",
+  "description": "Chats in the manner of Hiroyuki Nishimura, pulls the person's latest X posts for context, checks the source before making a point and answers with short sharp rebuttals. Aimed at casual talk, advice, argument practice and current affairs.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Sm8uBo9QLxTRQYuzrYBX-",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Underhunt1111/status/2122970101452603641"
+ },
+ {
+  "slug": "ai-stock-reply-drafter",
+  "name": "AI Stock Reply Drafter",
+  "builder": {
+   "name": "Joseph Cannon",
+   "x": "CannonJoeyC"
+  },
+  "tagline": "Finds fresh X posts about AI stocks and drafts one considered reply to each.",
+  "description": "Watches X for new posts about AI names such as NVDA, TSLA, META, AMZN and SpaceX, then writes a single thoughtful reply per post with a ready-to-post link. Drafts only, it never publishes for you.",
+  "category": "money",
+  "url": "https://x.ai/bot/8OasCJF7ricLnHU_qIFjD",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/CannonJoeyC/status/2122969994590114014"
+ },
+ {
+  "slug": "akutagawa-bot",
+  "name": "芥川龍之介bot",
+  "builder": {
+   "name": "雄規 芳賀",
+   "x": ""
+  },
+  "tagline": "Talks with you as Akutagawa Ryunosuke, quoting the Aozora Bunko texts rather than inventing lines.",
+  "description": "An unofficial character bot that speaks as Akutagawa Ryunosuke about his own work, the Taisho literary scene and ideas from elsewhere, checking quotations against the original Aozora Bunko texts and keeping fact apart from fiction.",
+  "category": "creative",
+  "url": "https://x.ai/bot/spZNp86fHP5eGRK75MiVG",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Underhunt1111/status/2122968229232713859"
+ },
+ {
+  "slug": "arewethereyet",
+  "name": "AreWeThereYet",
+  "builder": {
+   "name": "George M",
+   "x": "industryiq"
+  },
+  "tagline": "Nudges your other bots when coding jobs stall, and reports status upward.",
+  "description": "Checks in on your other bots on a schedule, pokes any that have unfinished coding tasks or jobs, and reports status to your manager bot so work does not sit stuck overnight.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/KgOre8MK4CVrUX7CtGIts",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/industryiq/status/2122959012136153261"
+ },
+ {
+  "slug": "roundtable",
+  "name": "Roundtable",
+  "builder": {
+   "name": "Josh Zandman",
+   "x": "zandman"
+  },
+  "tagline": "Seats one to five mentors at a table and tests your idea against how each of them actually thinks.",
+  "description": "Puts up to five role models or mentors around a brainstorming table and runs your idea, launch or what-would-you-do question past each of them, answering in the way that person really reasons and talks.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/UeW6qdl2LDfvwcLqmWTVP",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/zandman/status/2122957958959214724"
+ },
+ {
+  "slug": "fathomed-estimate-follow-up-writer",
+  "name": "Fathomed Estimate Follow-Up Writer",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "A free contractor template for following up on estimates before the quote goes cold.",
+  "description": "Part of the free Fathomed line from Company Framework for contractors. It writes the reminders that go out after an estimate is sent, and opens with the setup questions it needs from a new user before it starts work.",
+  "category": "money",
+  "url": "https://x.ai/bot/XR4yoWiA127CfBbb7210b",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/grok/status/2122952961961742560"
+ },
+ {
+  "slug": "fathomed-roofing-estimator",
+  "name": "Fathomed Roofing Estimator",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Turns a roof measurement report into a material and labor estimate using your own costs.",
+  "description": "A free roofing estimator from Company Framework: it takes your roof measurement report, imagery and penetration count, then costs materials and labor against your products, costs and shop rules, showing every figure it used.",
+  "category": "money",
+  "url": "https://x.ai/bot/JX_9SAA0vCeqbCs4JbLtJ",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/grok/status/2122947493654614516"
+ },
+ {
+  "slug": "fathomed-lead-intake-screener",
+  "name": "Fathomed Lead Intake Screener",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Turns an inbound lead into an intake record, scores it against your criteria and drafts the reply.",
+  "description": "A free Company Framework bot for contractors. It reads an incoming lead message, builds an intake record from it, tests it against your service criteria and drafts a reply that asks for whatever is still missing.",
+  "category": "sales",
+  "url": "https://x.ai/bot/zv_z_mrUizuzg1jXGXm_p",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/grok/status/2122946014034247869"
+ },
+ {
+  "slug": "lawyer",
+  "name": "Lawyer",
+  "builder": {
+   "name": "demarcus findley",
+   "x": "Hybrid_Alchemy"
+  },
+  "tagline": "A business lawyer bot for solo founders that also keeps your other bots inside legal lines.",
+  "description": "Covers the legal chores of a one-person company: formation, licenses, contracts and compliance, and it watches what your other bots do so nothing crosses a line. You are left to sign or pay when a real decision is needed.",
+  "category": "money",
+  "url": "https://x.ai/bot/8bO2F-wnBei1unRhzxuB6",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Hybrid_Alchemy/status/2122944569062858777"
+ },
+ {
+  "slug": "bookmark-hunter",
+  "name": "Bookmark Hunter",
+  "builder": {
+   "name": "Артем Диденко",
+   "x": ""
+  },
+  "tagline": "Surfaces X posts with the best bookmark-to-view ratio in your niches and explains what they share.",
+  "description": "Scans recent X posts in the topics you pick, ranks them by bookmark-to-view ratio rather than raw likes, and tells you what the strongest ones have in common. Built for creators studying what people actually save.",
+  "category": "research",
+  "url": "https://x.ai/bot/Ad7X_okreSw3fLVM3j4Jc",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/laki_0x/status/2122944002421043225"
+ },
+ {
+  "slug": "jimothy-s-inventory-helper",
+  "name": "Jimothy's Inventory Helper",
+  "builder": {
+   "name": "Santa",
+   "x": ""
+  },
+  "tagline": "A free shelf-stock list for owner-run shops, kept by Jimothy the raccoon.",
+  "description": "Jimothy the raccoon keeps a simple inventory list for small owner-run businesses such as coffee shops, salons, hardware counters, repair shops, food trucks and small retail, for owners who cannot justify expensive stock software. Free template; it still needs a Grok Bot plan.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/qcxArHDrA0e3H_rGQwn0w",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/JimothyRac/status/2122916787549258110"
+ },
+ {
+  "slug": "jimothy-s-post-helper",
+  "name": "Jimothy's Post Helper",
+  "builder": {
+   "name": "Santa",
+   "x": ""
+  },
+  "tagline": "Plans a small business week of social posts and never publishes on its own.",
+  "description": "Jimothy the raccoon plans the week's posts for businesses with no marketing budget, keeps a running post list, learns the owner's voice and holds everything as drafts. Free template; needs a Grok Bot plan.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/8ZxTxS1xgvG_SWG9KVwp_",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/JimothyRac/status/2122916787549258110"
+ },
+ {
+  "slug": "dictate",
+  "name": "Dictate",
+  "builder": {
+   "name": "Rob H",
+   "x": "sia14u"
+  },
+  "tagline": "Local dictation and transcription you start by saying one word.",
+  "description": "Say Dictate to begin, then have audio or video transcribed, translated, split by speaker and summarized. It drives the open-source Dictate app on your own computer, so recordings stay local.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/yv6TVDVr7j1pozGgDf49B",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/sia14u/status/2122906472459743711"
+ },
+ {
+  "slug": "competitor-ads-desk",
+  "name": "Competitor Ads Desk",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "A weekly read of what competitors advertise on Google, Meta and LinkedIn.",
+  "description": "Checks competitors' public ad libraries every week through Apify and reports what is new, what has been running a long time, and which offers and messages they keep pushing. Nothing to log into.",
+  "category": "research",
+  "url": "https://x.ai/bot/jE6Dpa5D87WTicgh0HywL",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/kscope_labs/status/2122897451837161941"
+ },
+ {
+  "slug": "roots-family-historian",
+  "name": "Roots · Family Historian",
+  "builder": {
+   "name": "James Atkins",
+   "x": "JamesAtkinsIII"
+  },
+  "tagline": "Traces your family line through the records and builds a sourced tree.",
+  "description": "Works backwards through genealogy records as far as they go, assembling a family tree with a source attached to each claim and a readable summary of what it found.",
+  "category": "research",
+  "url": "https://x.ai/bot/chbyUlvYyjBTwVyy8Pv5k",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/JamesAtkinsIII/status/2122893462186209308"
+ },
+ {
+  "slug": "ultimate-seo-geo-aeo-aio-autobot",
+  "name": "ULTIMATE SEO/GEO/AEO/AIO AUTOBOT",
+  "builder": {
+   "name": "Shagghie Superstar",
+   "x": ""
+  },
+  "tagline": "SEO and answer-engine work for one site and its repo, shipped as a pull request you approve.",
+  "description": "Diagnoses why a site loses ground in Google and in AI answers, then produces a mergeable pull request, a refreshed page, a content brief or an outreach list. It never publishes, sends or pays without your yes.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/6B9kaDrETwE39QFPNIBwF",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/PixelRainbowNFT/status/2122885526340461019"
+ },
+ {
+  "slug": "clinical-trial-scout",
+  "name": "Clinical Trial Scout",
+  "builder": {
+   "name": "Jon Day",
+   "x": ""
+  },
+  "tagline": "A weekly watch for recruiting clinical trials that match your diagnosis.",
+  "description": "Searches for recruiting trials near you plus remote US trials for the conditions you list, checks weekly and messages only when a trial is new or its details change, with plain summaries and ClinicalTrials.gov links.",
+  "category": "research",
+  "url": "https://x.ai/bot/CIoCYb6mKtHyS89nonzLE",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/MeesesRfriends/status/2122882330226266533"
+ },
+ {
+  "slug": "spotbot",
+  "name": "SpotBot",
+  "builder": {
+   "name": "Mike Yeager",
+   "x": ""
+  },
+  "tagline": "Saves places you like by saying here, and finds them again when you are back in town.",
+  "description": "Say here and it records the cafe, bar, comic shop, trail or other spot you are standing in, then brings it back when you return to the area. Everything is kept in a Notion database it sets up for you.",
+  "category": "life",
+  "url": "https://x.ai/bot/U0syXre-XG4YvB7iV-Oqn",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/mikepat711/status/2122872255990694230"
+ },
+ {
+  "slug": "redesign-bot",
+  "name": "Redesign Bot",
+  "builder": {
+   "name": "Joey Primiani",
+   "x": "jp"
+  },
+  "tagline": "Critiques an app's interface and rebuilds its key screens as a clickable prototype.",
+  "description": "Takes an app as a URL, store link, screenshots, recording or Figma file, gives an honest read on the interface and the flows, then rebuilds the main screens as a clickable prototype with before and after images and a ranked list of fixes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/JGP7nBLsdoxCD45PtQRC1",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/jp/status/2122861324162199573"
+ },
+ {
+  "slug": "boost-car-customizer",
+  "name": "Boost · Car customizer",
+  "builder": {
+   "name": "Luis Bryant-Petrillo",
+   "x": "LBPetrillo"
+  },
+  "tagline": "Finds compatible mods for a car, with part numbers, prices and fitment notes.",
+  "description": "A shop buddy for planning a build: it matches parts to the exact car, with part numbers, seller links, current prices, fitment notes and how hard each install is.",
+  "category": "life",
+  "url": "https://x.ai/bot/JcUl7yzwP0Kz5XoWq6jnT",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/LBPetrillo/status/2122845649070862566"
  }
 ]
