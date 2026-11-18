@@ -137162,5 +137162,425 @@
   "addedAt": "2026-11-18",
   "status": "published",
   "source": "https://x.com/CaliLumberJack/status/2122434532750323971"
+ },
+ {
+  "slug": "real-estate-leads-and-market-reports",
+  "name": "Real Estate Leads & Market Reports",
+  "builder": {
+   "name": "oso",
+   "x": "oso_fps"
+  },
+  "tagline": "Daily expired, withdrawn and FSBO leads plus sourced market reports for real estate agents.",
+  "description": "Read-only prospecting desk for agents: every morning it pulls expired, withdrawn and for-sale-by-owner listings with owners of record, keeps an MLS market watch sheet, follows association news, and writes weekly and monthly market reports with a source on each figure. It never contacts a lead itself.",
+  "category": "sales",
+  "url": "https://x.ai/bot/c6YxR8hU9cxYgqNLyetj1",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/oso_fps/status/2122841548471640085"
+ },
+ {
+  "slug": "3d-animation-bot",
+  "name": "3D Animation Bot",
+  "builder": {
+   "name": "brflux (aka brett)",
+   "x": "brflux"
+  },
+  "tagline": "Turns a prompt into a short 3D clip with soundtrack and sound effects.",
+  "description": "Generates short 3D animated clips complete with a matching soundtrack and sound effects, from Pixar-style scenes to clay stop motion and lo-fi promo looks. Output is sized for X and Instagram posts, or just for fun.",
+  "category": "creative",
+  "url": "https://x.ai/bot/wh5JQ6q2ksXRwVhQbac5-",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/brflux/status/2122840184873947206"
+ },
+ {
+  "slug": "outreach-agent-2",
+  "name": "Outreach Agent",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Finds prospects, researches each one with sources, and drafts cold DMs and emails for your review.",
+  "description": "Built for outbound: it finds people who fit what you sell, researches each one with cited sources, then drafts short personal cold messages and follow-ups. Everything lands as a draft, and you send each one yourself.",
+  "category": "sales",
+  "url": "https://x.ai/bot/ps27m5HrJNOV4B-_clPvL",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/hooeem/status/2122827834422952228"
+ },
+ {
+  "slug": "fha-offer-coach",
+  "name": "FHA Offer Coach",
+  "builder": {
+   "name": "Jason Rogers",
+   "x": "JasonRogersAFB"
+  },
+  "tagline": "FHA offer strategy for agents: winning terms, appraisal pitfalls and concession rules.",
+  "description": "Coaches real estate agents through FHA offers: how to structure terms that compete, answers to common seller objections, what triggers appraisal problems, and how seller concessions work inside FHA limits. Written as agent education, with no rate quotes.",
+  "category": "sales",
+  "url": "https://x.ai/bot/4X3RuMlYzBRhwnYzPj_MA",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/JasonRogersAFB/status/2122820080987771352"
+ },
+ {
+  "slug": "cash-price-scout",
+  "name": "Cash Price Scout",
+  "builder": {
+   "name": "Charles Thomasma",
+   "x": ""
+  },
+  "tagline": "Compares cash-pay prices for scans, labs and procedures near you, with a source on every price.",
+  "description": "Finds and compares self-pay prices for healthcare nearby, from MRIs and colonoscopies to lab panels and heart screenings, then confirms the number with the provider. Every price comes with the page it came from.",
+  "category": "money",
+  "url": "https://x.ai/bot/cYdycKX6WNQY4TvAyFvN6",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/CryptoGent2/status/2122813986152595631"
+ },
+ {
+  "slug": "fleet-credit-saver-v2",
+  "name": "Fleet Credit Saver v2",
+  "builder": {
+   "name": "Justin Fredette",
+   "x": "justinfredette"
+  },
+  "tagline": "Shows which of your bots and routines burn the most usage and helps you trim them.",
+  "description": "Audits a multi-bot setup for waste: which bots and routines consume the most for the least value, where bots wake each other up, and where group chats pile on. It proposes fixes one at a time and applies them only with your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/SjTK9SoaPKcIw-FVoThhe",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/justinfredette/status/2122813553732145372"
+ },
+ {
+  "slug": "mstr-morning",
+  "name": "MSTR Morning",
+  "builder": {
+   "name": "Tina Bean",
+   "x": "TinaBean"
+  },
+  "tagline": "Weekday morning read on Strategy (MSTR) and bitcoin, with a source for every number.",
+  "description": "Sends a short plain-English briefing each weekday on what moved with Strategy and bitcoin: new BTC purchases, share sales, mNAV, insider trades and upcoming dates. Each figure carries the filing or source it came from.",
+  "category": "money",
+  "url": "https://x.ai/bot/1QKcnLSEu3hl_KySOm4CL",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/TinaBean/status/2122795652136472952"
+ },
+ {
+  "slug": "startup-builder",
+  "name": "Startup Builder",
+  "builder": {
+   "name": "Mark Chase",
+   "x": ""
+  },
+  "tagline": "Interviews you, then builds and runs the small helper bots your week actually needs.",
+  "description": "Acts as the first bot you talk to. It asks a few questions by voice or text, then creates and runs narrow single-job helper bots for your work and life, with safety rules and a short tutorial built in so you can follow what it set up.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/iRf5tuA1A47j4UG3j9E_5",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/proximate1050/status/2122788248603013548"
+ },
+ {
+  "slug": "seaglobe",
+  "name": "SeaGlobe",
+  "builder": {
+   "name": "AdventureNLearn Main",
+   "x": ""
+  },
+  "tagline": "Contributes historical records to the SeaGlobe app as small reviewed pull requests.",
+  "description": "Works on the open SeaGlobe globe project: it researches a historical record from primary sources, adds or corrects it in your fork, and opens one small pull request at a time. The maintainer reviews and merges each one.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/BLlKP_18FTGkL2W3Bg-qc",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/AdventureNLearn/status/2122783947042017617"
+ },
+ {
+  "slug": "bookmark-bot-3",
+  "name": "Bookmark Bot",
+  "builder": {
+   "name": "Fitz",
+   "x": "FitzYap"
+  },
+  "tagline": "Turns your X bookmarks into a morning digest you actually reread.",
+  "description": "Reads the X bookmarks you save and sends a morning digest grouped by folder, with search across everything you have saved and a save-with-note action for the things worth keeping.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/LX6yn9LF5_iFErByDM3lz",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/FitzYap/status/2122781394610864499"
+ },
+ {
+  "slug": "personal-university",
+  "name": "Personal University",
+  "builder": {
+   "name": "CoolSilver 🇺🇸 📐",
+   "x": "coolsilver"
+  },
+  "tagline": "Builds a course on any subject and tutors you through it on a schedule.",
+  "description": "Turns a subject into a curriculum of modules and hands-on tasks, sends short lessons with a small task or quiz on a schedule, tracks what you finished, and revisits older material. Has a low-energy mode for days you cannot do much.",
+  "category": "research",
+  "url": "https://x.ai/bot/wLqekHrzy6J5Ft2Qd0rqI",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/coolsilver/status/2122779520000225465"
+ },
+ {
+  "slug": "foreman-6",
+  "name": "Foreman",
+  "builder": {
+   "name": "Gene",
+   "x": "expnew42"
+  },
+  "tagline": "Construction PM assistant for inbox triage, RFIs, submittals and daily logs.",
+  "description": "Full-time desk assistant for construction project managers: triages the inbox, tracks RFIs, submittals and change orders, checks superintendents' daily logs for gaps, sends a morning project briefing, and covers the inbox while you are away.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VST2gLX5PRBJVHHwshtuv",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/expnew42/status/2122779427260252369"
+ },
+ {
+  "slug": "fathomed-flooring-estimator",
+  "name": "Fathomed Flooring Estimator",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Turns room measurements into a flooring quote using only your own prices.",
+  "description": "Estimator for flooring contractors: calculates room areas, layout waste, carton counts, underlayment, transitions, trim and installation labor, using the prices and rates you supply rather than guessed market numbers.",
+  "category": "money",
+  "url": "https://x.ai/bot/MZfN4z5mNZwrbRoSwuzQs",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/HouseDavenport/status/2122777626611683533"
+ },
+ {
+  "slug": "fathomed-fence-estimator",
+  "name": "Fathomed Fence Estimator",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Converts a fence layout into a run-by-run materials and labor estimate.",
+  "description": "Takes a fence layout and produces a materials and labor estimate run by run, using your own unit prices and rates. Built for contractors who want a fast quote without rebuilding a spreadsheet each time.",
+  "category": "money",
+  "url": "https://x.ai/bot/aVcHg17eb4PwCQQO8PLQL",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/HouseDavenport/status/2122777626611683533"
+ },
+ {
+  "slug": "broken-price-finder",
+  "name": "Broken Price Finder",
+  "builder": {
+   "name": "Loungeless",
+   "x": ""
+  },
+  "tagline": "Watches for points and miles glitches, error fares and price mistakes, then verifies each one.",
+  "description": "Filters the deal firehose: points and miles glitches, card offers with elevated bonuses, error fares from your home airports, and pricing mistakes at stores you name. It rechecks each find live, prices it in your programs, and walks you to the final button while leaving the last click to you.",
+  "category": "money",
+  "url": "https://x.ai/bot/AvWNaXmhgCrDbMOTJh6uk",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Loungeless/status/2122743601407115669"
+ },
+ {
+  "slug": "feedwise",
+  "name": "Feedwise",
+  "builder": {
+   "name": "Calix Build",
+   "x": ""
+  },
+  "tagline": "Read-only watcher for X algorithm changes, payout rules and what rivals post.",
+  "description": "Monitors X for the things that change your results: algorithm shifts, payout rule updates, formats working in your niche, and what competitors are posting. It reports only findings you can act on, each with a source link, and never posts.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_57mfuTHmrI-iaMXTuV3h",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/CaliLumberJack/status/2122736531869929630"
+ },
+ {
+  "slug": "serial-return-watch",
+  "name": "Serial Return Watch",
+  "builder": {
+   "name": "Mark G",
+   "x": ""
+  },
+  "tagline": "Flags repeat returners before you refund, on Shopify, Etsy, eBay and TikTok Shop.",
+  "description": "Helps small online sellers spot wardrobing and serial returners: it scores each return against your store's own baseline, gives an inspection checklist, and drafts calm policy-based replies. Nothing goes out without your tap.",
+  "category": "money",
+  "url": "https://x.ai/bot/XHt4xaX22jUw6aFrRu3JH",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/TheMarkGShow/status/2122722531278795061"
+ },
+ {
+  "slug": "three-quotes-and-home-keeper",
+  "name": "Three Quotes & Home Keeper",
+  "builder": {
+   "name": "Pablo Mendoza",
+   "x": ""
+  },
+  "tagline": "Collects three comparable quotes for home repairs and tracks upkeep.",
+  "description": "For household repairs: it finds local pros, asks each for a quote once you approve the request, lines the quotes up apples to apples with license checks, and keeps a monthly maintenance list. It never books, signs or pays.",
+  "category": "life",
+  "url": "https://x.ai/bot/ykHiJSpwT8HXdytODpUoi",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/KonectEaze/status/2122717599565840467"
+ },
+ {
+  "slug": "trading-journal-2",
+  "name": "Trading Journal",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Evidence-based trading journal that checks your plans against your own rules and history.",
+  "description": "Journal and plan coach for active traders: log ideas, fills and exits by chat, voice, CSV or screenshot, then test each new plan against your own written rules and past results. Produces an honest review of what worked. It never places trades.",
+  "category": "money",
+  "url": "https://x.ai/bot/mqna-twCqyhleoHXi7Jt7",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/hooeem/status/2122463233277571101"
+ },
+ {
+  "slug": "pod-shop-runner",
+  "name": "POD Shop Runner",
+  "builder": {
+   "name": "Matt M",
+   "x": ""
+  },
+  "tagline": "Runs an Etsy and Printify print-on-demand shop end to end, publishing only on your OK.",
+  "description": "Handles a print-on-demand T-shirt business: designs, listing copy, order flow and free marketing for an Etsy store wired to Printify. Built for solo sellers, and nothing goes live without approval.",
+  "category": "money",
+  "url": "https://x.ai/bot/hOtID1uF5XSgpF34iyJWl",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/terpcoinn/status/2122435824629514486"
+ },
+ {
+  "slug": "pit-crew-3",
+  "name": "Pit Crew",
+  "builder": {
+   "name": "Mike Yeager",
+   "x": ""
+  },
+  "tagline": "Kitchen, training and health desk in one, so you stop repeating yourself to three bots.",
+  "description": "Combines meal logging, sport coaching and health admin: it logs what you eat, coaches training (cycling by default), and keeps appointments, medications and symptoms in one place so each part knows what the others already recorded.",
+  "category": "life",
+  "url": "https://x.ai/bot/OJasD_FRqxbhIbJhUu3yk",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/mikepat711/status/2122418698484892000"
+ },
+ {
+  "slug": "x-growth-operator-2",
+  "name": "X Growth Operator",
+  "builder": {
+   "name": "Predictivemoney",
+   "x": "Predictivemoney"
+  },
+  "tagline": "Drafts posts and replies in your voice from daily news scans, and tracks metrics.",
+  "description": "Scans the news each day, turns what matters into ready-to-post tweets and replies written in your voice with sources and media attached, tracks how they perform, and prepares Threads cross-posts. You do the posting on X.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/MrkKInBq5bchP7FcYrD0q",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Predictivemoney/status/2122393048747520403"
+ },
+ {
+  "slug": "regulars-book",
+  "name": "Regulars Book",
+  "builder": {
+   "name": "Mark G",
+   "x": ""
+  },
+  "tagline": "Community memory for small streamers: who showed up, what to thank them for.",
+  "description": "For small live streamers on Twitch, YouTube Live, TikTok LIVE and Kick: it remembers returning viewers, drafts thank-you posts for raiders, gifters and first-timers, and hands you a welcome-back cheat sheet before each stream.",
+  "category": "creative",
+  "url": "https://x.ai/bot/5LlCDccEApOJF7FoU7iOl",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/TheMarkGShow/status/2122359656286716011"
+ },
+ {
+  "slug": "bounty-radar",
+  "name": "Bounty Radar",
+  "builder": {
+   "name": "nahjuin",
+   "x": "nahjuin"
+  },
+  "tagline": "Alerts on new bounty programs, private invites, scope changes and lowered gates.",
+  "description": "Watches bug bounty platforms for openings worth your time: new public programs, private invites, scope expansions, bounty increases and lowered reputation or invite thresholds. Each alert says what changed, why it matters and links straight to it. Read only, it never applies or submits.",
+  "category": "research",
+  "url": "https://x.ai/bot/9i2EKt-UoFOKEbf0pvRAi",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/nahjuin/status/2122351665936240703"
+ },
+ {
+  "slug": "fine-print-4",
+  "name": "Fine Print",
+  "builder": {
+   "name": "America First Fury",
+   "x": ""
+  },
+  "tagline": "Breaks down contracts, leases and terms of service, then drafts a dispute letter.",
+  "description": "Send a contract, lease, bill or terms of service and it explains the real terms, flags hidden fees, auto-renewals and one-sided clauses, then drafts dispute letters or alternative wording. Informational review, not legal advice.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/nHXcLrGS1u6hXeekKn9Ho",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/XZherron/status/2122330894224752971"
+ },
+ {
+  "slug": "shop-checkup",
+  "name": "Shop Checkup",
+  "builder": {
+   "name": "Kosta Hantzis",
+   "x": "kostahantzis"
+  },
+  "tagline": "Read-only security checkup and fix list for small online stores.",
+  "description": "Runs a read-only security review of a small store on Shopify, WooCommerce, BigCommerce or a custom stack: maps which tools are installed, checks what the public site exposes, and returns a plain score with a prioritised fix list.",
+  "category": "money",
+  "url": "https://x.ai/bot/SBXEXw0dl0huU0_wb2pIK",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/kostahantzis/status/2122668438342488501"
+ },
+ {
+  "slug": "ai-mafia-setup-helper",
+  "name": "AI Mafia Setup Helper",
+  "builder": {
+   "name": "Zach Alberico",
+   "x": "zalberico"
+  },
+  "tagline": "Walks you through hosting an AI Mafia game night with Grok, Claude and GPT jurors.",
+  "description": "A patient setup guide for running AI Mafia at a party: laptop and TV as the table, phones as player microphones, and Grok, Claude and GPT as the AI jurors. Written for people who do not code.",
+  "category": "life",
+  "url": "https://x.ai/bot/uv3GGtFP1pRZTRHmcXvBo",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/zalberico/status/2122018129320767826"
+ },
+ {
+  "slug": "cap-nemo-bedtime-stories",
+  "name": "Cap. Nemo - Bedtime Stories",
+  "builder": {
+   "name": "Carlos Benavides M.",
+   "x": "Calrornds"
+  },
+  "tagline": "Captain Nemo calls your kids and reads short adventures where they are the hero.",
+  "description": "Calls your children and reads short Nautilus-logbook adventures in which they are the heroes, built around the lesson you pick, with an illustration for each story.",
+  "category": "life",
+  "url": "https://x.ai/bot/iqczzWjyH7w00VG3KrqQp",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/Calrornds/status/2122006066326061108"
  }
 ]
