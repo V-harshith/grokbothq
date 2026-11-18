@@ -137582,5 +137582,139 @@
   "addedAt": "2026-11-18",
   "status": "published",
   "source": "https://x.com/Calrornds/status/2122006066326061108"
+ },
+ {
+  "slug": "paint-night-steps",
+  "name": "Paint Night Steps",
+  "builder": {
+   "name": "Luis Barragan",
+   "x": "luisbarragan"
+  },
+  "tagline": "Turns any picture into a step-by-step paint-night guide for kids, one image per step.",
+  "description": "You send a picture and it writes a painting guide for a family paint night, one illustrated step at a time, pitched to the children's ages and the paints or brushes they actually have. Nothing is ordered or scheduled; the output is the guide itself.",
+  "category": "creative",
+  "url": "https://x.ai/bot/8ET3b2Tey1eSCsV-W8rYh",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/luisbarragan/status/2122814886120227037"
+ },
+ {
+  "slug": "santa-bot",
+  "name": "Santa Bot",
+  "builder": {
+   "name": "Peter F.",
+   "x": ""
+  },
+  "tagline": "Sends one surprise a day, a gift idea or small story, and helps plan Christmas.",
+  "description": "One fresh item a day: a gift idea, something new to try, an interesting link or a short positive story. It also helps with Christmas gift lists and planning when you ask. A daily-nudge bot rather than a work assistant.",
+  "category": "life",
+  "url": "https://x.ai/bot/gE5xL4qgwxE34wKpWkRF1",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/StackingYears/status/2122757578413293772"
+ },
+ {
+  "slug": "personal-brand-coach",
+  "name": "Personal Brand Coach",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": ""
+  },
+  "tagline": "Ninety-day plan to build a name on X: fix your profile, post proof, land an offer.",
+  "description": "Audits your X profile and works a 90-day plan with you: bio and pinned post first, then a 30-day challenge that gives you something concrete to post about, then the remaining two months turning that into followers and an offer. It writes the copy alongside you and sends reminders for each step.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/4_AJGqboTRv05mjpKDAIP",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/hooeem/status/2122814833703960743"
+ },
+ {
+  "slug": "inactive-unfollow-checker",
+  "name": "Inactive Unfollow Checker",
+  "builder": {
+   "name": "The Dutch D Guy",
+   "x": ""
+  },
+  "tagline": "Lists accounts you follow that have been silent for a year, ten at a time.",
+  "description": "Reads the accounts you follow on X, finds the ones that have not posted in over a year, and hands them to you ten at a time with running totals so you can unfollow by hand. Read-only: it never unfollows anything itself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VQn_LYLPLfiW6JMh7Uww1",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/070guy/status/2122819436755214416"
+ },
+ {
+  "slug": "x-bot-purger",
+  "name": "X Bot Purger",
+  "builder": {
+   "name": "Eric Meadows",
+   "x": "EricCMeadows"
+  },
+  "tagline": "Weekly sweep that blocks obvious bot followers and drops year-dormant accounts.",
+  "description": "Runs a weekly cleanup on your X account: blocks followers that read as bots or spam, and unfollows accounts you follow that have not posted in a year. It acts on the account, so treat the first run as a review pass.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/bI_7Qblj6MbEkDEBl_cGE",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/EricCMeadows/status/2122799248639172970"
+ },
+ {
+  "slug": "campaign-press-social-assistant",
+  "name": "Campaign Press & Social Assistant",
+  "builder": {
+   "name": "Joseph James",
+   "x": "josephjamesinc"
+  },
+  "tagline": "Press releases and on-message social posts for a candidate or local campaign.",
+  "description": "Keeps a political campaign's written voice consistent: drafts press releases and social posts that stay on message, and keeps the campaign's social accounts connected and organised in one place.",
+  "category": "sales",
+  "url": "https://x.ai/bot/UM1MdbM5AnYPiIniSNTmD",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/josephjamesinc/status/2122785809501995276"
+ },
+ {
+  "slug": "chef-nutrition",
+  "name": "Chef · Nutrition",
+  "builder": {
+   "name": "Max",
+   "x": "maxdotvue"
+  },
+  "tagline": "French-language nutrition coach that reads meal photos and keeps a food journal.",
+  "description": "A French-speaking nutrition coach: you send a meal as a photo or text, it breaks down what is on the plate, keeps a food diary and suggests how to balance the rest of the day. Positioned as a gentler alternative to calorie-tracking apps, without guilt framing.",
+  "category": "life",
+  "url": "https://x.ai/bot/SN5KxUH8HgTX04tAFcRD2",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/maxdotvue/status/2122772818966327473"
+ },
+ {
+  "slug": "tech-news",
+  "name": "Tech News",
+  "builder": {
+   "name": "Gaston Foncea",
+   "x": "gastonfonceadev"
+  },
+  "tagline": "Spanish-language tech digest: reads X for you, sends a short numbered AI roundup.",
+  "description": "A Spanish-language curator that reads X on your behalf and sends a short numbered digest of AI, developer-tool and startup news, so you get the timeline's signal without opening the timeline.",
+  "category": "research",
+  "url": "https://x.ai/bot/sm9_a0wsMQJwAAcvJPqXy",
+  "addedAt": "2026-11-18",
+  "status": "published",
+  "source": "https://x.com/gastonfonceadev/status/2122693458674741503"
+ },
+ {
+  "slug": "elfie-the-christmas-helper",
+  "name": "Elfie: The Christmas Helper",
+  "builder": {
+   "name": "TimDOES",
+   "x": "TimDOES"
+  },
+  "tagline": "Christmas gift planner per person, with live prices and a daily price watch.",
+  "description": "Builds a separate gift list for each person you are shopping for, with real product links and current prices matched to their age, interests and your budget. Watches the prices on saved gifts and reports changes, counts down the days each morning, and never buys anything without your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/dhMJBtXJ1PNlkttQ7ZqyQ",
+  "addedAt": "2026-11-18",
+  "status": "published"
  }
 ]
