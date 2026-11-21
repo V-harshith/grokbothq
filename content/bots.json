@@ -141046,5 +141046,90 @@
   "addedAt": "2026-11-21",
   "status": "published",
   "source": "https://x.com/kcmcdonald/status/2120185117217784250"
+ },
+ {
+  "slug": "dr-eggbot-v2-lauren",
+  "name": "dr eggbot v2",
+  "builder": {
+   "name": "Lauren Tan",
+   "x": "poteto"
+  },
+  "tagline": "Interviews you about one job, then builds a bot that runs it end to end.",
+  "description": "Bot designer from Lauren Tan. Bring one job you want off your plate and it asks about the goal and the process, then ships a finished bot with the routine wired in. v2 carries new skills for automating work and life.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/rJW52lmFLtCvy2tSHcIag",
+  "source": "https://x.com/poteto/status/2123159537016533493",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "fathomed-deck-estimator",
+  "name": "Fathomed Deck Estimator",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Prices a deck takeoff from your approved layout, showing all the math.",
+  "description": "For deck contractors: takes off boards, framing, footings, fasteners, railings and stairs from a layout you approve, prices each line from your own rates and shows the arithmetic line by line. Free from Company Framework.",
+  "category": "money",
+  "url": "https://x.ai/bot/9oIZW-D8afPUD8cTwABtJ",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "fathomed-hiring-screener",
+  "name": "Fathomed Hiring Screener",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Maps applicant evidence to your job criteria and drafts the interview kit.",
+  "description": "For contractors hiring: scores applicants against the criteria you set, cites the evidence from each application, then drafts behavioral interview questions and a scorecard so every candidate gets the same interview. Free from Company Framework.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/K5DrB_Db5h5pN5Bfo31FC",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "fathomed-job-cost-reviewer",
+  "name": "Fathomed Job Cost Reviewer",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Reconciles estimated against actual job cost and shows where the margin went.",
+  "description": "Compares estimated and actual cost by category for a finished job, reconciles the margin sold against the margin made, and shows all of its arithmetic so you can see which line slipped. Free from Company Framework.",
+  "category": "money",
+  "url": "https://x.ai/bot/hKwbu3kZ_WqipPRLtUPAy",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "fathomed-prospector",
+  "name": "Fathomed Prospector",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Builds a prospect plan around your service area, then drafts the first touch.",
+  "description": "Takes your service area and the kind of job you want, plans a prospect list, and drafts a first-touch message for you to send. Draft only. Free from Company Framework.",
+  "category": "sales",
+  "url": "https://x.ai/bot/ZdobQ3I0mVhY2ZN955Pam",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "fathomed-review-request-writer",
+  "name": "Fathomed Review Request Writer",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Drafts a neutral review ask and one follow-up in your voice.",
+  "description": "Writes a review request and a single follow-up in your voice, staying inside the platform rules you confirm. It drafts only; you send. Free from Company Framework.",
+  "category": "sales",
+  "url": "https://x.ai/bot/phyaDc_o8k-HZrKRayC2v",
+  "addedAt": "2026-11-21",
+  "status": "published"
  }
 ]
