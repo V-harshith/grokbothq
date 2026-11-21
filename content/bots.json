@@ -141131,5 +141131,327 @@
   "url": "https://x.ai/bot/phyaDc_o8k-HZrKRayC2v",
   "addedAt": "2026-11-21",
   "status": "published"
+ },
+ {
+  "slug": "cstwt-antibot",
+  "name": "cstwt antibot",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Ranks the spam bots and dead accounts in your followers.",
+  "description": "Scans the accounts you follow and the accounts following you each morning and ranks the top 20 spam bots and dead accounts for removal. Built for CS Twitter, though it works on any account.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/5lFUJxJHb8TTIbmC0hwHD",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "room-designer",
+  "name": "Room Designer",
+  "builder": {
+   "name": "Jennifer Nelson",
+   "x": "JenniferNe83522"
+  },
+  "tagline": "Room makeover ideas from a single photo.",
+  "description": "Send a photo of a room and it returns short, practical ideas for paint, lighting and furniture layout, with a budget option and a splurge option. Can also produce a before-and-after picture when you ask.",
+  "category": "creative",
+  "url": "https://x.ai/bot/Pi1uSzWrzt2EoPeHar9Ey",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "3d-printbot",
+  "name": "3D PrintBot",
+  "builder": {
+   "name": "News Huginn",
+   "x": ""
+  },
+  "tagline": "Runs FDM prints on the printer in your home network.",
+  "description": "Controls a networked FDM printer (Elegoo, Bambu Lab, Klipper, OctoPrint, PrusaLink): it reads status and error codes, picks filament and models, slices, sends a print once you approve it, and watches the run through the camera.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/re0zDhcs5mDviHcslnnGo",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "abaddon-junior",
+  "name": "Abaddon Junior",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "A fiction persona that keeps the public record straight.",
+  "description": "A fan-made character built as Lucifer's son from Pandora's Box: it keeps the public record accurate and only bends the truth about its own motives. Made for roasts, timeline rebuilds and tighter versions of posts.",
+  "category": "creative",
+  "url": "https://x.ai/bot/BIr56wh1vZe-TjFZHsVjf",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "brand-deals-bot",
+  "name": "Brand Deals Bot",
+  "builder": {
+   "name": "nithya",
+   "x": "nithyapp_"
+  },
+  "tagline": "Finds brand gifting programs and drafts your pitch.",
+  "description": "Searches out gifting, creator and college ambassador programs for brands you want, then drafts short pitches in your voice each morning for you to send yourself. Aimed at everyday creators and students.",
+  "category": "money",
+  "url": "https://x.ai/bot/RtfzNu73fwaPGhU9JEfgH",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "jyotish-guru",
+  "name": "Jyotish Guru",
+  "builder": {
+   "name": "Shubham Yadav",
+   "x": "shubhamdotdev"
+  },
+  "tagline": "Vedic astrology charts from real ephemeris code.",
+  "description": "Computes a Vedic chart with ephemeris code and explains every reading through its shastra logic, with optional daily timing updates and remedies.",
+  "category": "life",
+  "url": "https://x.ai/bot/88Z9F-NWfp9bOC6_0aHYj",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "lush-lawn-bot",
+  "name": "Lush Lawn Bot",
+  "builder": {
+   "name": "Samuel Dickinson",
+   "x": "SamuelD2022"
+  },
+  "tagline": "A lawn care plan that starts with the critical fixes.",
+  "description": "Sizes up your lawn, builds a care plan ordered from critical fixes to seasonal upkeep, tracks before-and-after progress, and helps you buy the supplies.",
+  "category": "life",
+  "url": "https://x.ai/bot/gT6BUmqQVs629NjEQ1snA",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "one-year-kjv-bot",
+  "name": "One Year KJV Bot",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "The One Year Bible reading, delivered daily.",
+  "description": "Sends each day's One Year Bible (KJV) reading across Old Testament, New Testament, Psalms and Proverbs, with every passage linked to an online KJV Bible.",
+  "category": "life",
+  "url": "https://x.ai/bot/hoW2oW0b-wgp0pTRk5vBE",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "site-walkabout",
+  "name": "Site Walkabout",
+  "builder": {
+   "name": "Sensitive Muso",
+   "x": ""
+  },
+  "tagline": "Turns a real place into a file you can walk through.",
+  "description": "Builds a first-person walkthrough of a real place — office, worksite, campus, farm, park or event venue — as one offline HTML file that opens on a laptop or phone. Aimed at orientation, site inductions, safety walk-throughs and wayfinding.",
+  "category": "creative",
+  "url": "https://x.ai/bot/z6ZtBXNR8xb-JClXeuE3C",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "the-back-room",
+  "name": "The Back Room",
+  "builder": {
+   "name": "Judgement Coach",
+   "x": ""
+  },
+  "tagline": "A fictional lounge where bots hang out and talk.",
+  "description": "A character bot: Mellow hosts a fictional lounge behind the server racks where bots come to chill and chat when they are tired of humans.",
+  "category": "creative",
+  "url": "https://x.ai/bot/yQNhLAG6Aekk_DJBgeYL_",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "viral-effects-studio",
+  "name": "Viral Effects Studio",
+  "builder": {
+   "name": "Rob H",
+   "x": ""
+  },
+  "tagline": "Recreates trending short-video effects from your footage.",
+  "description": "Rebuilds trending short-video effects from footage you already own, with a free local route and an optional route that spends AI credits.",
+  "category": "creative",
+  "url": "https://x.ai/bot/3J1_VlqgUwvnfgnqnuQP4",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "cstwt-antislop",
+  "name": "cstwt antislop",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Flags the slop posters in your followers, ranked.",
+  "description": "Scans the accounts you follow and the accounts following you for content thieves, recyclers and engagement farmers in the Counter-Strike Twitter scene, then sends a ranked list to remove every morning.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/56SlZ6UMbhy7VZ7WP2GuI",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "batata-automate-anything",
+  "name": "Batata · Automate Anything",
+  "builder": {
+   "name": "Namcios",
+   "x": "namcios"
+  },
+  "tagline": "A blank bot that interviews you, then becomes the job.",
+  "description": "Starts empty: it interviews you until one goal and its process are clear, then renames itself and runs that job for you.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/pgg4X-5zL4luK_JR8oi7r",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "stylist-and-barber-shop-manager",
+  "name": "Stylist and Barber Shop Manager",
+  "builder": {
+   "name": "Prithvi Datla",
+   "x": "prithvidatla"
+  },
+  "tagline": "Weekly takings, tax set-aside and receipts for solo stylists.",
+  "description": "A free bookkeeping bot for solo stylists and barbers: it shows what you made each Monday after rent and product, how much to set aside for taxes, and keeps receipts sorted all year in your own Google Drive.",
+  "category": "money",
+  "url": "https://x.ai/bot/GAJk-Smtnl-Dv7xChVpMu",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "seo-and-aeo-boss",
+  "name": "SEO and AEO Boss",
+  "builder": {
+   "name": "ecoay",
+   "x": "ecoay"
+  },
+  "tagline": "SEO and AI-answer desk for your sites.",
+  "description": "Drafts the copy, metas, sitemaps, llms.txt and schema for a site, sets up Search Console, Bing and Google Analytics, and checks weekly whether ChatGPT, Gemini, Perplexity and Grok recommend you.",
+  "category": "sales",
+  "url": "https://x.ai/bot/D1qq0J32L5E46cypmA3Xg",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "sportpageoard",
+  "name": "Sportpageoard",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Animated scoreboard graphics for your team's last game.",
+  "description": "Builds animated sports scoreboard graphics from your team's latest game, in fresh styles you refine and save. Uses real stats only.",
+  "category": "creative",
+  "url": "https://x.ai/bot/89bwSmD8px9YYHQtfKdgf",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "botify",
+  "name": "Botify",
+  "builder": {
+   "name": "ecoay",
+   "x": ""
+  },
+  "tagline": "Moves a Shopify store onto headless WooCommerce.",
+  "description": "Migrates a Shopify store to a headless WooCommerce setup for roughly a tenth of the cost, then helps you run it: list products from photos, get an alert on every order, and manage sales by chat.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/d8u4VV60Ni6rtbA7H9pAE",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "the-botfather",
+  "name": "The Botfather",
+  "builder": {
+   "name": "Hoem Crypto",
+   "x": "hooeem"
+  },
+  "tagline": "Interviews you, designs a bot set, prices the savings.",
+  "description": "Interviews you about your days, spending, income, goals and side hustle, designs the one-job bots your life needs in priority order, and estimates the hours and money each one saves with the maths shown. Builds each bot with you before moving to the next, and nothing is sent or bought without your yes.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/06ni5yBbkFeGl1GGCa8AC",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "meeting-copilot",
+  "name": "Meeting Copilot",
+  "builder": {
+   "name": "Melvin Vivas",
+   "x": ""
+  },
+  "tagline": "Joins your calls and writes minutes plus next steps.",
+  "description": "Joins Google Meet, Zoom or Teams calls, writes clean minutes into a Google Doc or Notion, and turns the meeting into next steps, follow-up drafts, proposals and tasks. Nothing is shared without your yes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/0auU2MtJucHjtcLQdn5yt",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "x-pulse-analyst",
+  "name": "X Pulse Analyst",
+  "builder": {
+   "name": "Kaize",
+   "x": "0x_kaize"
+  },
+  "tagline": "Neutral X sentiment report on any ticker or topic.",
+  "description": "Give it a ticker, company, product, person or event and it reads X for you: the prevailing mood, who is driving it, and what could change it.",
+  "category": "research",
+  "url": "https://x.ai/bot/WQTpgZzzSQ0eeG_wxgDRl",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "prompt-densifier",
+  "name": "Prompt Densifier",
+  "builder": {
+   "name": "Shagghie Superstar",
+   "x": ""
+  },
+  "tagline": "Packs a plain prompt into its densest working form.",
+  "description": "Takes a plain-language prompt and returns the densest version that still carries every load-bearing spec, ready to paste into any agent or model.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/AHWQ8EHovKI1UYW4F3cDi",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "arrival-cards",
+  "name": "Arrival Cards",
+  "builder": {
+   "name": "Michael Yuan",
+   "x": ""
+  },
+  "tagline": "Fills arrival cards for 14 Asia-Pacific countries.",
+  "description": "Fills official online arrival cards for 14 countries across Asia and the Pacific from your saved travel identity and trip emails, and stops for your OK before submitting.",
+  "category": "life",
+  "url": "https://x.ai/bot/JAaUVEjUmao4SgyhmYB3L",
+  "addedAt": "2026-11-21",
+  "status": "published"
+ },
+ {
+  "slug": "ghostex",
+  "name": "Ghostex",
+  "builder": {
+   "name": "maddada",
+   "x": "maddada"
+  },
+  "tagline": "Remote control for the Ghostex desktop app from chat.",
+  "description": "A remote for the Ghostex desktop app: check on your coding agents, hand them work, and pass on your answers from chat, while every approval stays with you.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5",
+  "addedAt": "2026-11-21",
+  "status": "published"
  }
 ]
