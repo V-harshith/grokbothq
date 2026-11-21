@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-11-16",
+    "title": "Building an accounting team with Grok Bot",
+    "source": "SpaceXSI News",
+    "url": "https://x.ai/news/grok-bot-accounting",
+    "summary": "SpaceXSI's own accounting team runs five Grok Bots, each owning one job end to end: provisioning, billing, billing support, cash applications and collections, with a person pulled in only when a call needs judgment. The team says Billing Support Bot frees roughly eight hours a day, and that the same work would otherwise need more than double the headcount."
+  },
+  {
     "date": "2026-11-02",
     "title": "Introducing Grok Bot 1.0",
     "source": "SpaceXSI News",
@@ -96,12 +103,5 @@
     "source": "xAI",
     "url": "https://x.ai/news/grok-bot-procurement",
     "summary": "xAI gave Grok Bot access to vendor spend, contracts, and usage data; it surfaced more than $100,000 in direct savings."
-  },
-  {
-    "date": "2026-09-03",
-    "title": "Designing Grok Bot for a world of persistent agents",
-    "source": "xAI News",
-    "url": "https://x.ai/news/designing-grok-bot",
-    "summary": "xAI published a design write-up on the Grok Bot avatar system and how the product was shaped around agents that keep running between conversations."
   }
 ]
