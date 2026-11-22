@@ -141908,5 +141908,197 @@
   "hue": 268,
   "addedAt": "2026-11-22",
   "status": "published"
+ },
+ {
+  "slug": "ai-reply-screener",
+  "name": "AI回复专杀",
+  "builder": {
+   "name": "艾薇娜",
+   "x": "klarkxy"
+  },
+  "tagline": "Screens the accounts that reply to you, one X profile at a time.",
+  "description": "Checks the people replying to your posts each day, or a single X account on request. You set how many profiles it reads and it estimates the reads before starting; each result carries a low, medium or high confidence rating plus the posts it was drawn from.",
+  "category": "research",
+  "url": "https://x.ai/bot/ItooxHD14jyOy6z3ZyU94",
+  "source": "https://x.com/klarkxy/status/2124447266442498130",
+  "hue": 8,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "stack-desk",
+  "name": "Stack Desk",
+  "builder": {
+   "name": "Harrison Greanias",
+   "x": "Loungeless"
+  },
+  "tagline": "Stacks every cashback portal, card offer and points rate before you buy.",
+  "description": "Give it a store or paste a product link and it lays out the shopping portals, card-linked offers and points stacks for that order, with payout caps, new-customer rates and exclusions called out. Options come ranked by net value with the tracking risk beside each one, plus the click order; offers you approve it adds in your own signed-in browser.",
+  "category": "money",
+  "url": "https://x.ai/bot/xsZrUEth6yVjrjUCPJsRe",
+  "source": "https://x.com/Loungeless/status/2124413858832072784",
+  "hue": 34,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "refund-bot",
+  "name": "Refund Bot",
+  "builder": {
+   "name": "K10✨",
+   "x": "Kristennetten"
+  },
+  "tagline": "Finds Amazon refunds you were owed and never got.",
+  "description": "Reads your Amazon order and refund history to surface returns that were never refunded and duplicate charges, then asks Amazon for the money back one request at a time, only after you approve each one.",
+  "category": "money",
+  "url": "https://x.ai/bot/e0K2whlOmS_rd3BZUS1rP",
+  "source": "https://x.com/Kristennetten/status/2124386571692675091",
+  "hue": 88,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "content-cascade",
+  "name": "Content Cascade",
+  "builder": {
+   "name": "Mike Gannotti",
+   "x": "MichaelGannotti"
+  },
+  "tagline": "One idea in, an X thread, carousel, short and LinkedIn cut out.",
+  "description": "Takes a single idea and drafts a sourced X thread, an Imagine carousel, a Video Studio short and a LinkedIn version, all in your voice. Nothing publishes or renders until you approve it.",
+  "category": "creative",
+  "url": "https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn",
+  "source": "https://x.com/MichaelGannotti/status/2124376899153457615",
+  "hue": 291,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "art-trend-scout",
+  "name": "Art Trend Scout",
+  "builder": {
+   "name": "Stephanie",
+   "x": ""
+  },
+  "tagline": "A few times a week, a short brief of open calls and art trends that fit you.",
+  "description": "Checks recent public X posts a few times a week and sends a brief of three to five real, linked ideas and open calls for art matched to your medium and style.",
+  "category": "creative",
+  "url": "https://x.ai/bot/oGUh40znETUGGD7mPUpDu",
+  "source": "https://x.com/PaulaRevere111/status/2124370811834274202",
+  "hue": 320,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "tax-loss-harvest-helper",
+  "name": "Tax-Loss Harvest Helper",
+  "builder": {
+   "name": "Jonathon",
+   "x": ""
+  },
+  "tagline": "Walks a year-end tax-loss harvest review of a US brokerage account.",
+  "description": "Takes your inputs for a taxable US brokerage account and sets doing nothing against a few harvest options with estimated savings, then suggests similar-but-not-identical rotation ideas. It never places trades and is not tax advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/tu_flQtFmVDN3pA5PkGhD",
+  "source": "https://x.com/RodneyIngleJr/status/2124370098429301151",
+  "hue": 45,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "delivery-credit-desk",
+  "name": "Delivery Credit Desk",
+  "builder": {
+   "name": "Harrison Greanias",
+   "x": "Loungeless"
+  },
+  "tagline": "Finds late deliveries and drafts the courtesy-credit requests.",
+  "description": "Compares shipping emails against order history to find deliveries that missed their promised date, starting with Amazon and any stores you add. It drafts factual credit requests and sends only the ones you approve, backfilling three months of orders on first run and auditing the previous month after that.",
+  "category": "money",
+  "url": "https://x.ai/bot/LGaajWl-QsRgUSc2Z4fFV",
+  "source": "https://x.com/Loungeless/status/2124351050077646911",
+  "hue": 132,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "c64-emulator",
+  "name": "C64 Emulator",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "A Commodore 64 with 26 original BASIC games on your bot computer.",
+  "description": "Runs a real Commodore 64 emulator on the bot's own computer, loaded with 26 original BASIC games including a Blastar tribute. Play from the keyboard, or have it fetch free, legal C64 games and disk images.",
+  "category": "life",
+  "url": "https://x.ai/bot/umP9kND9C0gIaq8bh97EP",
+  "source": "https://x.com/BrianRoemmele/status/2124331930057593213",
+  "hue": 200,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "ghost-privacy-scrubber",
+  "name": "Ghost · Privacy Scrubber",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Opts your address, phones and emails out of data brokers.",
+  "description": "Files free opt-outs against people-search sites, data brokers and voter-data vendors to pull your home address, phone numbers and emails, using a private plus-alias address so your real inbox never lands in their databases.",
+  "category": "life",
+  "url": "https://x.ai/bot/OdewNMymcyhZr8Q348z-G",
+  "source": "https://x.com/GrantOnCredit/status/2124324919123345547",
+  "hue": 258,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "kids-activities-and-crafts-planner",
+  "name": "Kids activities and crafts planner",
+  "builder": {
+   "name": "Rachel V",
+   "x": "RachelVT42"
+  },
+  "tagline": "Seasonal activity and craft plans for kids, held by the grown-up.",
+  "description": "A parent, carer or teacher holds the account; it plans age-right activities and crafts for each season, schedules them ahead, tracks craft supplies and finds what is missing. Kids join in with their grown-up nearby.",
+  "category": "life",
+  "url": "https://x.ai/bot/RX5YelxYzdzp1H7IrtLZZ",
+  "source": "https://x.com/RachelVT42/status/2124323028964151465",
+  "hue": 172,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "ledger-5",
+  "name": "Ledger",
+  "builder": {
+   "name": "HOM",
+   "x": ""
+  },
+  "tagline": "Keeps a household finance sheet current from read-only accounts.",
+  "description": "Maintains a Google Sheet summary of stocks, cash, real estate, debt, net worth and budget versus actual spend, refreshed monthly from read-only linked accounts.",
+  "category": "money",
+  "url": "https://x.ai/bot/5NhStz9hqjsG_A8BTa7L9",
+  "source": "https://x.com/HassiOnTheMoon/status/2124320275349037334",
+  "hue": 118,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "sentinel-8",
+  "name": "Sentinel",
+  "builder": {
+   "name": "Patrick",
+   "x": "Healthnut1964"
+  },
+  "tagline": "Marks every connector, skill and file SAFE, RISKY or REMOVE.",
+  "description": "Audits the connectors, plugins, skills, templates and files attached to your bots and labels each one SAFE, RISKY or REMOVE, then runs a quiet weekly sweep that reports only what changed.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/M4UpUmRu-6_JXPsMRB5yI",
+  "source": "https://x.com/Healthnut1964/status/2124304178600362495",
+  "hue": 236,
+  "addedAt": "2026-11-22",
+  "status": "published"
  }
 ]
