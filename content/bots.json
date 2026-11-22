@@ -141828,5 +141828,85 @@
   "source": "https://x.com/JesusIsGod/status/2124116734349095121",
   "addedAt": "2026-11-22",
   "status": "published"
+ },
+ {
+  "slug": "medicare-plan-switch-checker",
+  "name": "Medicare Plan Switch Checker",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Checks your Medicare drug and Advantage options for the coming year.",
+  "description": "Runs your ZIP code, prescriptions, pharmacies and doctors through the official Medicare Plan Finder, then returns a printable PDF and a tracker of the plans that fit. It does not choose a plan or enroll you, and it never asks for a Medicare number, SSN or login.",
+  "category": "money",
+  "url": "https://x.ai/bot/QxX6idvz4tZXUm_SpHLFE",
+  "source": "https://x.com/BrianRoemmele/status/2124174182246408441",
+  "hue": 212,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "flood-claim-fema-aid-desk",
+  "name": "Flood Claim & FEMA Aid Desk",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Handles the flood claim and FEMA paperwork after the water goes down.",
+  "description": "A post-flood paperwork desk. It inventories the damage, drafts insurance claim and FEMA aid answers, makes calls and sends emails, and works web chats, pausing for your approval at every step while keeping a color-coded tracker of what is left.",
+  "category": "life",
+  "url": "https://x.ai/bot/sVhqCkhSOnAIQsY61-QC_",
+  "source": "https://x.com/BrianRoemmele/status/2124171794785693770",
+  "hue": 196,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "upbot",
+  "name": "UPBot",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": "tonthat_baotoan"
+  },
+  "tagline": "Writes and runs the script that moves your files to Telegram or YouTube.",
+  "description": "Moves files, videos and photos out of a local folder, Google Drive, OneDrive or other storage and into Telegram, YouTube, Drive and similar destinations. It writes the upload script, runs it in the background, repairs common errors and asks before compressing or deleting anything.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/G9PboV1fdfmj-Z8jwMEo4",
+  "source": "https://x.com/tonthat_baotoan/status/2124117546471510342",
+  "hue": 152,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "local-farms",
+  "name": "Local Farms",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": "SOwashington26"
+  },
+  "tagline": "Finds farms near you selling direct, and sends the list as a PDF.",
+  "description": "Looks for farms around you that sell produce, meat, eggs and dairy direct to consumers, then sends a PDF with links, prices, reviews and current deals. It checks again each week for better prices, new farms and seasonal openings.",
+  "category": "life",
+  "url": "https://x.ai/bot/9iZsafXS071jY81WeZWy0",
+  "source": "https://x.com/SOwashington26/status/2124140786342396012",
+  "hue": 96,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "recall-watcher",
+  "name": "Recall Watcher",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": "SOwashington26"
+  },
+  "tagline": "Alerts you only when a CPSC, FDA or NHTSA recall matches something you own.",
+  "description": "Monitors CPSC, FDA and NHTSA recall feeds and stays quiet unless a recall involves something you own, then sends the official notice with the hazard and the remedy.",
+  "category": "life",
+  "url": "https://x.ai/bot/0163JZJ-tymeWs0iQwmnJ",
+  "source": "https://x.com/SOwashington26/status/2124140786342396012",
+  "hue": 268,
+  "addedAt": "2026-11-22",
+  "status": "published"
  }
 ]
