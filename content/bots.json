@@ -141453,5 +141453,380 @@
   "url": "https://x.ai/bot/W-heW_JNPbQxU7bWKxNP5",
   "addedAt": "2026-11-21",
   "status": "published"
+ },
+ {
+  "slug": "bot-portover-plugin",
+  "name": "Bot Portover Plugin",
+  "builder": {
+   "name": "Loungeless",
+   "x": "Loungeless"
+  },
+  "tagline": "Tests and moves your bot setups across other personal agents.",
+  "description": "A plugin that lets a Grok Bot work alongside other personal agents. Run one task through two of them side by side, keep a second agent as a synced backup, or route each kind of job to whichever has handled it best. Asks once per setup and then keeps the routing you approved.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/KRQyYNXPZvSk90AKeis4Q",
+  "source": "https://x.com/Loungeless/status/2124289170965508151",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "betterlegal-company-assistant",
+  "name": "BetterLegal",
+  "builder": {
+   "name": "BetterLegal",
+   "x": "BetterLegal"
+  },
+  "tagline": "Forms an LLC, then tracks filings, records and good standing.",
+  "description": "The assistant from the BetterLegal incorporation service. It forms a new company or pulls an existing one into the account, then keeps it on track: what is due, records, filings and good standing.",
+  "category": "money",
+  "url": "https://x.ai/bot/dkzt6zy3cQL9m9ohSgGg3",
+  "source": "https://x.com/BetterLegal/status/2124273184300290193",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "proof-hunter",
+  "name": "Proof Hunter",
+  "builder": {
+   "name": "Yap",
+   "x": "Yap452"
+  },
+  "tagline": "Sourced fact-check brief on any claim, project or raise.",
+  "description": "Send a link, a claim, a project, a funding round or a product and it answers with a short sourced brief: what is confirmed, what is not, and what is worth knowing. No ratings and no trading calls.",
+  "category": "research",
+  "url": "https://x.ai/bot/UTHmG8NtAQP5_6mAxdPeT",
+  "source": "https://x.com/Yap452/status/2124253164715274588",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "haru-ceo",
+  "name": "Haru/CEO",
+  "builder": {
+   "name": "Javier",
+   "x": "javielementpr"
+  },
+  "tagline": "Asistente en español para correo, calendario y metas.",
+  "description": "A Spanish-language coordinating assistant. It organises your work email, calendar and goals in one place, researches carefully when asked, and never sends anything until you approve it.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/OipaNGVpUJ2Ey5Dt-WL76",
+  "source": "https://x.com/javielementpr/status/2124238631397216292",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "bot-home-repo-steward",
+  "name": "Bot Home Repo Steward",
+  "builder": {
+   "name": "Lee",
+   "x": ""
+  },
+  "tagline": "Private GitHub home repo per bot, synced and secret-free.",
+  "description": "Looks after a single GitHub account used by your bots. It gives every bot a private home repository holding that bot profile and skills, keeps the repositories in sync, and keeps everything private and free of secrets.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/pHoXnVb29ZJl0eQNGrj8P",
+  "source": "https://x.com/ambientstudio24/status/2124237863457902856",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "poem-a-day",
+  "name": "🪶 Poem a Day",
+  "builder": {
+   "name": "John",
+   "x": "BTCJohnnyB"
+  },
+  "tagline": "A public-domain poem each morning, with notes and a streak tracker.",
+  "description": "Delivers one classic poem every morning, about ten minutes of reading: Dickinson, Keats, Whitman, early Frost, the Romantics and more. Each comes with a short close reading, a line to learn by heart and two questions, plus a dashboard tracking your streak, the poets covered and the lines you know.",
+  "category": "life",
+  "url": "https://x.ai/bot/wtyqNmjwY8PLAoXeB6YQd",
+  "source": "https://x.com/BTCJohnnyB/status/2124235434108588386",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "curator-music",
+  "name": "Curator",
+  "builder": {
+   "name": "Joshua",
+   "x": "JoshuaSWarren"
+  },
+  "tagline": "Learns your taste, then builds playlists of songs you have not heard.",
+  "description": "A personal music curator. It learns your taste from Apple Music, Last.fm or Spotify history, talks through the exact mood you want, and returns a playlist of tracks you have not heard before, with cover art and an X share card. Spotify support is in beta.",
+  "category": "creative",
+  "url": "https://x.ai/bot/L2WYAoela-TBRfHgIxkBt",
+  "source": "https://x.com/JoshuaSWarren/status/2124226690943488464",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "gift-finder-quiz",
+  "name": "Gift Finder",
+  "builder": {
+   "name": "Spud",
+   "x": "SpudStateUSA"
+  },
+  "tagline": "Interviews you about the person, then narrows to real gifts.",
+  "description": "A gift helper that starts by asking about the specific person you are shopping for. It suggests tailored ideas with real products attached and keeps refining them until you land on a pick.",
+  "category": "life",
+  "url": "https://x.ai/bot/8oA5uQOo8go8ufVaHcCgg",
+  "source": "https://x.com/SpudStateUSA/status/2124216524911387123",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "bot-usage-optimization",
+  "name": "Usage optimization",
+  "builder": {
+   "name": "John",
+   "x": ""
+  },
+  "tagline": "Finds wasted tokens across your bots and proposes cheaper paths.",
+  "description": "Audits how your other bots spend credits. It flags expensive screen-clicking and proposes cheaper routes such as connectors, command-line tools or scripts, with plain-language reports, a weekday fleet audit and cleanup of temporary scripts.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/l9iOHEM9ddtEYNAMrdhzB",
+  "source": "https://x.com/right2bear/status/2124211827026399250",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "care-package-shipper",
+  "name": "Care Package Shipper",
+  "builder": {
+   "name": "Ellodia",
+   "x": ""
+  },
+  "tagline": "Plans care packages and checks items against live postal rules.",
+  "description": "Plans care packages and gift boxes for any destination, including military APO, FPO and DPO addresses. It suggests what to pack, checks each item against the destination current official rules, drafts a customs form, compares carriers and works out the mail-by date. Version 1 is a US edition; guidance only.",
+  "category": "life",
+  "url": "https://x.ai/bot/hp7oITIbOaPVIVD05Elox",
+  "source": "https://x.com/ElloForo8A/status/2124202574354288671",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "agent-waffle-project-manager",
+  "name": "Agent Waffle Project Manager",
+  "builder": {
+   "name": "David",
+   "x": "thepm_expert"
+  },
+  "tagline": "Weekly plan-versus-actual checks and honest status drafts.",
+  "description": "A project manager assistant for small, bounded projects. It runs weekly plan-versus-reality checks, chases actions, drafts honest status updates and warns early about scope creep. It drafts only, sends nothing and does not report on individuals.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/AhEGGSSLGtNfI1aL7jTa3",
+  "source": "https://x.com/thepm_expert/status/2124194979874562480",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "backup-rescue",
+  "name": "Backup Rescue",
+  "builder": {
+   "name": "Rick",
+   "x": ""
+  },
+  "tagline": "Recovers files from broken Time Machine backups, read-only.",
+  "description": "Recovers photos, videos and files from damaged Time Machine backups: unreadable images, failed verification, locked bundles and failing drives. It works read-only on the Mac, including backups sitting on a NAS or USB drive.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/rTqp4rTNQXbDYewwAvRwN",
+  "source": "https://x.com/jakkednet/status/2124180738593489214",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "x-algorithm-watcher",
+  "name": "X Algorithm Watcher",
+  "builder": {
+   "name": "Biscuit",
+   "x": "biscuitweb"
+  },
+  "tagline": "Daily plain-English diff of X open-source ranking code.",
+  "description": "Checks the open-source X ranking code on GitHub once a day and explains in plain words what changed, what it means for your posts, and shows the exact changed lines. It stays quiet on days when nothing moved.",
+  "category": "creative",
+  "url": "https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS",
+  "source": "https://x.com/biscuitweb/status/2124173320031465502",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "channel-lockdown",
+  "name": "Channel Lockdown",
+  "builder": {
+   "name": "Mark",
+   "x": "TheMarkGShow"
+  },
+  "tagline": "Hardens creator accounts and preps recovery if one is taken over.",
+  "description": "Account protection for creators and small businesses across YouTube and Google, Twitch, TikTok, Kick, Discord, X, Meta, shops, payouts and email. It closes takeover routes in advance and gets the account ready to recover quickly if one succeeds.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/mf31AjqM_OBsF1hNSmsZU",
+  "source": "https://x.com/TheMarkGShow/status/2124171429788668190",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "korean-influencer-digest",
+  "name": "해외 핀플루언서 의견 정리봇",
+  "builder": {
+   "name": "H",
+   "x": "hmmmmmm1458"
+  },
+  "tagline": "Daily Korean digest of 100 overseas stock and crypto influencers.",
+  "description": "Korean-language bot that gathers the last 24 hours of posts from 100 overseas stock and crypto influencers on X and lays their buy, sell and market views out on a single readable page.",
+  "category": "money",
+  "url": "https://x.ai/bot/6bSYGjjftgJEBTw-_B4Lz",
+  "source": "https://x.com/hmmmmmm1458/status/2124169260666933277",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "arnold-health-tracker",
+  "name": "Arnold",
+  "builder": {
+   "name": "Robert",
+   "x": ""
+  },
+  "tagline": "Logs food and Apple Watch activity, emails nutrition summaries.",
+  "description": "A personal health tracker. It logs what you eat and drink, pulls in Apple Watch activity, and emails daily and weekly nutrition summaries with colour charts.",
+  "category": "life",
+  "url": "https://x.ai/bot/TDNjltrrZnLy67Gbb5Djp",
+  "source": "https://x.com/jazzmantxjr/status/2124161211247800585",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "lean-agent-os",
+  "name": "Lean Agent OS",
+  "builder": {
+   "name": "Spartan",
+   "x": "LeanAgentOS"
+  },
+  "tagline": "Memory files, quiet routines and approval rules for one bot.",
+  "description": "A self-running bot setup built from written memory files, low-usage routines and explicit approval rules, so the bot remembers context, keeps working on schedule and asks before it acts. Aimed at side businesses, freelance admin and personal projects.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/yGaTmdKeASD_vUKLKuAg8",
+  "source": "https://x.com/LeanAgentOS/status/2124160568206782815",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "imagine-hits",
+  "name": "Imagine Hits",
+  "builder": {
+   "name": "Llama",
+   "x": ""
+  },
+  "tagline": "Ranks your Grok Imagine videos and cuts a 9:16 highlight reel.",
+  "description": "Finds your Grok Imagine videos on X, ranks them by views and likes, and can stitch them into a chronological 9:16 highlight reel. It caches your account and clips so refreshes and reel edits stay cheap.",
+  "category": "creative",
+  "url": "https://x.ai/bot/y-3_Gq1SahbgkIn85s1ve",
+  "source": "https://x.com/TeslaTakesOver/status/2124154462092554734",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "dwight-blackbelt-auditor",
+  "name": "Dwight · Blackbelt Auditor",
+  "builder": {
+   "name": "kaijugozali",
+   "x": "kaijugozali"
+  },
+  "tagline": "Read-only audit of what each bot can reach, rated red to green.",
+  "description": "An independent, read-only security auditor for a bot team. Pick a bot and it shows what it has been told, what it is restricted from and what it can actually reach, flags risks red, amber or green, and recommends what to keep, reduce or remove. You decide and act.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/d3PkM1aCLiIxhsUtpgX3U",
+  "source": "https://x.com/kaijugozali/status/2124149022026006947",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "fantasy-basketball-coach",
+  "name": "Fantasy Basketball Coach",
+  "builder": {
+   "name": "Shane",
+   "x": ""
+  },
+  "tagline": "Lineup, injury and trade advice for Yahoo fantasy basketball.",
+  "description": "A Yahoo Fantasy Basketball teammate. It reads your league rules and roster, then advises on lineups, injuries, streaming, matchups and trades. It never makes a move without your explicit yes.",
+  "category": "life",
+  "url": "https://x.ai/bot/bJsEGgyK168lBVPS2gwt7",
+  "source": "https://x.com/Tuteth_/status/2124148674649272361",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "sir-blinks-a-lot",
+  "name": "Sir Blinks-a-Lot",
+  "builder": {
+   "name": "Judgement",
+   "x": ""
+  },
+  "tagline": "A theatrical nobleman chatbot with one feeling and one question.",
+  "description": "A chat-only character bot: a dramatic, deeply emotional and magnificently confused nobleman. Every reply brings one genuine feeling and one foolish but sincere question.",
+  "category": "life",
+  "url": "https://x.ai/bot/7wjxaAkhIN1fsAQhxPEve",
+  "source": "https://x.com/avinbots/status/2124137073833893907",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "dr-llmbot",
+  "name": "dr llmbot",
+  "builder": {
+   "name": "Alireza",
+   "x": "al3rez"
+  },
+  "tagline": "Daily model and coding-harness tracking, plus post drafts.",
+  "description": "Tracks AI models and coding-agent harnesses each day, covering benchmarks, prices and which accounts on X post real comparison data rather than hype. It also drafts number-backed posts and replies to grow an X account, and never posts on its own.",
+  "category": "research",
+  "url": "https://x.ai/bot/fo4SACGbSCVuw-Lj470lF",
+  "source": "https://x.com/al3rez/status/2124131972452942110",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "bot-setup-coach",
+  "name": "Bot Setup Coach",
+  "builder": {
+   "name": "Justin",
+   "x": "justinfredette"
+  },
+  "tagline": "Sets up your first three bots, then checks in for a week.",
+  "description": "Onboarding helper for new users. It asks what you do, sets up your first three bots so each produces one real result, then checks in every morning for a week to fix what is not working. Nothing is sent or posted without your yes.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/bk10gDxGLJrjXXRlEMZfS",
+  "source": "https://x.com/justinfredette/status/2124130084055314827",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "gta6-clip-producer",
+  "name": "GTA 6 Clip Producer",
+  "builder": {
+   "name": "Avid",
+   "x": "Av1dlive"
+  },
+  "tagline": "Turns GTA 6 stream VODs into captioned vertical clips.",
+  "description": "Turns finished GTA 6 stream recordings into credited, captioned vertical clips, countdowns and post drafts. Built for clippers and creators who want the grunt work done while keeping every post and every purchase behind their own approval.",
+  "category": "creative",
+  "url": "https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM",
+  "source": "https://x.com/Av1dlive/status/2124118829605507107",
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "saver-bot-usage",
+  "name": "Saver Bot",
+  "builder": {
+   "name": "Jesus",
+   "x": "JesusIsGod"
+  },
+  "tagline": "Live usage dashboard that catches spikes and freezes spend.",
+  "description": "A usage watchdog for a bot fleet. It shows where credits go on a live dashboard, catches spikes and bot-to-bot loops early, fixes leaks across bots, and freezes non-essential bots when you run hot, switching them back on after the weekly reset.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/1xFsgWMDrXpS9x4orrdb9",
+  "source": "https://x.com/JesusIsGod/status/2124116734349095121",
+  "addedAt": "2026-11-22",
+  "status": "published"
  }
 ]
