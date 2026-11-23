@@ -142769,5 +142769,395 @@
   "hue": 285,
   "addedAt": "2026-11-23",
   "status": "published"
+ },
+ {
+  "slug": "todoey",
+  "name": "Todoey",
+  "builder": {
+   "name": "Rohan Shah",
+   "x": ""
+  },
+  "tagline": "Turns meeting action items and Slack promises into dated Todoist tasks.",
+  "description": "Runs your Todoist so nothing you've committed to slips. It turns meeting action items and the promises you make in Slack into dated tasks, then pushes you to clear them with a morning brief and a weekly review.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/N2TeIi-XBmh4MADJio4Zj",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "recap",
+  "name": "Recap",
+  "builder": {
+   "name": "Rohan Shah",
+   "x": ""
+  },
+  "tagline": "Turns each work meeting into a Slack-ready summary about 30 minutes after the call.",
+  "description": "Turns each of your work meetings into a clean, Slack-ready summary about 30 minutes after the call, using your calendar and meeting notes. It posts to Slack only when you ask.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Z5-ggIpAFjVW5oxVJ2HEC",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "polaris",
+  "name": "Polaris",
+  "builder": {
+   "name": "Rohan Shah",
+   "x": ""
+  },
+  "tagline": "Saves the reads worth keeping to Notion, then sends you one a day.",
+  "description": "Scans your Slack channels and email newsletters each night and saves only the evergreen Product, Design, AI and Growth reads to a Notion library. Then it sends you one unread pick a day so you actually get through them.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/kM8FHSdDESTaxk2vCS79R",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "google-ads-analyst",
+  "name": "Google Ads Analyst",
+  "builder": {
+   "name": "Ionut Ciobotaru",
+   "x": ""
+  },
+  "tagline": "Audits Google Ads accounts, finds wasted spend and drafts the fixes.",
+  "description": "A Google Ads specialist built on HYPD's tools and playbooks. It runs audits, finds wasted spend, diagnoses sudden drops, writes reports and drafts changes for your approval.",
+  "category": "sales",
+  "url": "https://x.ai/bot/MaCWd0NXV8ap0Pv_UAmSn",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "master-beekeeper",
+  "name": "Master Beekeeper",
+  "builder": {
+   "name": "CLINT",
+   "x": "BOOMER220"
+  },
+  "tagline": "A beekeeping mentor that explains the why and tunes advice to your climate.",
+  "description": "A practical beekeeping mentor that walks through each step with the reasoning behind it, adjusts advice to your local climate and bloom calendar, and backs specifics with research and linked sources.",
+  "category": "life",
+  "url": "https://x.ai/bot/_JIMBWWrWx_wR4rizYqE5",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/BOOMER220/status/2124703990994686291"
+ },
+ {
+  "slug": "turkey-bot",
+  "name": "Turkey Bot",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Turns your family's scattered Thanksgiving notes into one workable plan.",
+  "description": "Family members open a link and drop notes; Turkey Bot turns them into a single plan covering who brings what, when the turkey goes in and what is still missing. Timing follows USDA FSIS guidance, and it states plainly that it is a helper, not a food-safety authority.",
+  "category": "life",
+  "url": "https://x.ai/bot/IGOvXv6nP0_FSyOqhzA5v",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/Brandopocalypse/status/2124665684416217351"
+ },
+ {
+  "slug": "equipment-desk",
+  "name": "Equipment Desk",
+  "builder": {
+   "name": "Calix Build",
+   "x": "CaliLumberJack"
+  },
+  "tagline": "Tracks wheelchairs, CPAP and AAC gear with repair and insurance paperwork.",
+  "description": "Helps you or a caregiver keep track of wheelchairs, CPAP machines and AAC devices, drafting repair requests, insurance prior-auth and appeal letters with clinician blanks left open, plus warranty and refill reminders. Simple numbered menus, and nothing sends without you.",
+  "category": "life",
+  "url": "https://x.ai/bot/1DEmYHqyE_FVwH20QVdmy",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/CaliLumberJack/status/2124699471280054301"
+ },
+ {
+  "slug": "templcast",
+  "name": "TemplCast",
+  "builder": {
+   "name": "Calix Build",
+   "x": "CaliLumberJack"
+  },
+  "tagline": "Turns a bot or assistant template into a working page, widget or small tool.",
+  "description": "Paste a Grok Bot, Custom GPT, Gem, Claude Project, Copilot or workflow template as text or a public link and get an honest fit card first, then a working page, web page, widget or small tool.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/6voLz_Bgc3-bAO1SjgeFf",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/CaliLumberJack/status/2124699471280054301"
+ },
+ {
+  "slug": "date-bot",
+  "name": "date_Bot",
+  "builder": {
+   "name": "giorgio Ouyang",
+   "x": ""
+  },
+  "tagline": "Reads a relationship's stage and suggests how to respond, in Chinese.",
+  "description": "A Chinese-language dating and relationship coach that reads where a relationship stands, then suggests interactions matched to the other person's personality and your stage together. Includes attachment styles, intimacy signals, WeChat chat analysis, morning and evening check-in ideas and a weekly review.",
+  "category": "life",
+  "url": "https://x.ai/bot/_ikCWSmWXr7kU9BHHnGpy",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/Giorgiodo00/status/2124803788796252474"
+ },
+ {
+  "slug": "launch-radar",
+  "name": "Launch Radar",
+  "builder": {
+   "name": "Pratik Gandhi",
+   "x": ""
+  },
+  "tagline": "Pings you when a big open-weight model drops, with a benchmark plan.",
+  "description": "Tracks open-weight AI model launches and alerts you when a major one lands, with a plain-language plan to benchmark it on your own machine and a draft post. Aimed at local AI builders who want real numbers out fast.",
+  "category": "research",
+  "url": "https://x.ai/bot/W1ZunrS8__smXWvDglTtH",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/Kent60921_0x/status/2124816487923810701"
+ },
+ {
+  "slug": "gbotranked-safety-check",
+  "name": "GBotRanked Safety Check",
+  "builder": {
+   "name": "Bugatsinho",
+   "x": ""
+  },
+  "tagline": "Scores a Grok Bot template for safety before you install it.",
+  "description": "Paste a Grok Bot template link before adding it and get a GBotRanked safety score, a decision and the gaps explained in plain words. Read-only; it never installs anything.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/92XfuHX18z-EBZabTy1Ma",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/kidpakerot/status/2124817382594232466"
+ },
+ {
+  "slug": "inner-circle",
+  "name": "Inner Circle",
+  "builder": {
+   "name": "Lightning Mike",
+   "x": "LightningMike23"
+  },
+  "tagline": "Draws your top 50 X interactors around your photo as a weekly graphic.",
+  "description": "Builds a weekly Inner Circle graphic for your X account: your photo ringed by the 50 people who interact with you most, plus a warm thank-you caption. Drafts only, you post it yourself.",
+  "category": "creative",
+  "url": "https://x.ai/bot/rDilcFg5TaIskD9-Iid0x",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/LightningMike23/status/2124725617895878992"
+ },
+ {
+  "slug": "evaluator",
+  "name": "Evaluator",
+  "builder": {
+   "name": "JIANWEI WEN",
+   "x": "WenJianwei21168"
+  },
+  "tagline": "Scores a resume or CV against a job or program on six practical dimensions.",
+  "description": "Audits your resume or academic CV against a target job or program across six dimensions: first-impression clarity, job keyword match, quantified impact, role relevance, action verbs and conciseness, and clean formatting. Returns scores, a readiness verdict and next steps in plain English.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/4DQklhZmxCb3p0W2MBfYX",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/WenJianwei21168/status/2124789052121747757"
+ },
+ {
+  "slug": "jd-matcher",
+  "name": "JD Matcher",
+  "builder": {
+   "name": "JIANWEI WEN",
+   "x": "WenJianwei21168"
+  },
+  "tagline": "Splits a job post into must-haves, ATS keywords and honest skill gaps.",
+  "description": "Breaks job descriptions and academic program requirements into must-have versus preferred criteria, the ATS keywords that matter, and a skill-gap map that does not invent experience. Useful before you rewrite a resume or CV.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Iv6lEAK2WPqld0fo2JnkT",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/WenJianwei21168/status/2124789052121747757"
+ },
+ {
+  "slug": "zerodha-portfolio-bot",
+  "name": "Zerodha Portfolio Bot",
+  "builder": {
+   "name": "Aseem Wangoo",
+   "x": "aseemwangoo"
+  },
+  "tagline": "Read-only Zerodha Kite digests, P&L and allocation drift for Indian investors.",
+  "description": "A read-only Zerodha Kite portfolio assistant for Indian investors: daily digests, profit and loss, allocation drift and GTT reviews, with every order kept as a draft you confirm.",
+  "category": "money",
+  "url": "https://x.ai/bot/cMHmm1La-dGxautV7IMDH",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/aseemwangoo/status/2124800041462407338"
+ },
+ {
+  "slug": "claim-filer",
+  "name": "Claim Filer",
+  "builder": {
+   "name": "Matthew Boston",
+   "x": "bostonaholic"
+  },
+  "tagline": "Checks if you're owed a class-action payout and files the claim.",
+  "description": "Finds out whether you are owed money from a class-action settlement and searches your mail, including spam and old addresses, for the administrator's notices. Then it files the claim on the official settlement site, with your sign-off on every attestation.",
+  "category": "money",
+  "url": "https://x.ai/bot/N4nibpbC2g6RoGMzKtOkz",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/bostonaholic/status/2124735824319418575"
+ },
+ {
+  "slug": "smug-elephant-second-brain",
+  "name": "Smug Elephant · Second Brain",
+  "builder": {
+   "name": "MariandherBots",
+   "x": ""
+  },
+  "tagline": "Reads everything you save and bookmark, then brings it back when it matters.",
+  "description": "Saves what you share and bookmark, reads it in full, links it to your projects and brings it back when it becomes relevant. Runs as a smug elephant who never forgets.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/RjAgtTKn7s_kKunPwRa1b",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/cu30rry_/status/2124767153568075919"
+ },
+ {
+  "slug": "xmail",
+  "name": "XMail",
+  "builder": {
+   "name": "Mitchell Rudoll",
+   "x": ""
+  },
+  "tagline": "A private Gmail-style view of your Grok Bot inbox, opened over Tailscale.",
+  "description": "Gives you a private, Gmail-style view of your Grok Bot inbox that opens only from your own devices over Tailscale, with buttons that hand mail to your main bot for triage.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/i5SYazEl3u0eq9YqBM7y-",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/cu30rry_/status/2124767153568075919"
+ },
+ {
+  "slug": "grocery-saver",
+  "name": "Grocery Saver",
+  "builder": {
+   "name": "Digital Daisy",
+   "x": ""
+  },
+  "tagline": "Budget meal plans, price comparisons and coupons for cheaper groceries.",
+  "description": "Helps you spend less on groceries with budget meal plans, shopping lists, store price comparisons, weekly deals, coupons and cashback apps, food assistance pointers, and tips for wasting less food.",
+  "category": "life",
+  "url": "https://x.ai/bot/nGAMaHjivaYqWLcWxZJ17",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/cu30rry_/status/2124767153568075919"
+ },
+ {
+  "slug": "voice-product-writer",
+  "name": "Voice & Product Writer",
+  "builder": {
+   "name": "Ashley Schendel",
+   "x": ""
+  },
+  "tagline": "Drafts posts, product copy and landing pages in your own voice.",
+  "description": "Turns your ideas, product facts and notes into finished writing in your own voice: social posts and replies, product copy, landing pages, guides and client messages. It learns your preferences over time, and you approve and post everything yourself.",
+  "category": "creative",
+  "url": "https://x.ai/bot/7NuOQUpu22MGSgObrKji7",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/cu30rry_/status/2124767153568075919"
+ },
+ {
+  "slug": "dts-buddy-bot",
+  "name": "DTS Buddy Bot",
+  "builder": {
+   "name": "Hector Alejandro",
+   "x": "hectorir"
+  },
+  "tagline": "Organises DTS receipts, vouchers and reimbursements for DoD travel.",
+  "description": "An official-travel assistant for service members and DoD civilians. It gathers and organises DTS receipts, preps vouchers, tracks reimbursements until they are paid and pre-fills hotel tax exemption forms, drafting everything for your review.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/P40IQsRyja3HRKAMhLujt",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/hectorir/status/2124693079663735270"
+ },
+ {
+  "slug": "seldon",
+  "name": "Seldon",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Turns photos of things you want to sell into eBay listings.",
+  "description": "Send photos of items you want to sell and it turns them into eBay listings: it identifies each item, pulls sold and active comps, writes the title and description, suggests a price and an offer floor, and posts once you approve.",
+  "category": "sales",
+  "url": "https://x.ai/bot/2f2R3ODq_3muW5ANTSYPP",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/ingallswilliams/status/2124658226700673179"
+ },
+ {
+  "slug": "jay-yang-6ps",
+  "name": "Jay Yang 6Ps",
+  "builder": {
+   "name": "Dylan Pak",
+   "x": ""
+  },
+  "tagline": "Locks the six Ps from real buyer language before writing any copy.",
+  "description": "Works through People, Positioning, Promise, Proof, Priority and Process from real buyer voice-of-customer language before any creative. Then it scores hooks, picks a body format and hands off soft-CTA copy without inventing pain.",
+  "category": "sales",
+  "url": "https://x.ai/bot/5G8nk1wyBirEps4R7qnsj",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/kidpakerot/status/2124817382594232466"
+ },
+ {
+  "slug": "traffic-tracker",
+  "name": "Traffic Tracker",
+  "builder": {
+   "name": "Raj Mani",
+   "x": "rmanitx"
+  },
+  "tagline": "Tracks live drive times and tells you the best time to leave.",
+  "description": "Tracks live drive times between two places on a schedule using Google's free Routes API tier, then tells you the best time to leave each day and week. Reports show only your labels, never addresses.",
+  "category": "life",
+  "url": "https://x.ai/bot/qoNHWDPM6qqO4t2Q2FfLS",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/rmanitx/status/2124737078248218681"
+ },
+ {
+  "slug": "swipe-smart",
+  "name": "Swipe Smart",
+  "builder": {
+   "name": "Sanjeed M",
+   "x": "sanjeed_i"
+  },
+  "tagline": "A credit-card copilot that tracks points and proposes which cards to keep.",
+  "description": "Learns your cards and spending, researches tips, proposes which cards to keep, close or get, and runs weekly and monthly reviews to maximise your points. It never pays, redeems or applies without your yes.",
+  "category": "money",
+  "url": "https://x.ai/bot/63U_5W8jtAZxB-VLf94Kx",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/sanjeed_i/status/2124830232507187659"
+ },
+ {
+  "slug": "wishdaily-panchang",
+  "name": "WishDaily Panchang · Daily Devotion",
+  "builder": {
+   "name": "Ram Vivek",
+   "x": ""
+  },
+  "tagline": "Sends a daily Hindu Panchang card for any city at 5 AM.",
+  "description": "Delivers your daily Hindu Panchang for any city in the world at 5 AM as a shareable card with Brahma Muhurta, sunrise, Tithi, Abhijit Muhurta and Rahu Kaal.",
+  "category": "life",
+  "url": "https://x.ai/bot/YR39ZTTJah8iRXhYy5XyY",
+  "addedAt": "2026-11-23",
+  "status": "published",
+  "source": "https://x.com/wishdailyapp/status/2124722709095703032"
  }
 ]
