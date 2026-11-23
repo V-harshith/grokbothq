@@ -141828,5 +141828,802 @@
   "source": "https://x.com/JesusIsGod/status/2124116734349095121",
   "addedAt": "2026-11-22",
   "status": "published"
- }
+ },
+ {
+  "slug": "medicare-plan-switch-checker",
+  "name": "Medicare Plan Switch Checker",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Checks your Medicare drug and Advantage options for the coming year.",
+  "description": "Runs your ZIP code, prescriptions, pharmacies and doctors through the official Medicare Plan Finder, then returns a printable PDF and a tracker of the plans that fit. It does not choose a plan or enroll you, and it never asks for a Medicare number, SSN or login.",
+  "category": "money",
+  "url": "https://x.ai/bot/QxX6idvz4tZXUm_SpHLFE",
+  "source": "https://x.com/BrianRoemmele/status/2124174182246408441",
+  "hue": 212,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "flood-claim-fema-aid-desk",
+  "name": "Flood Claim & FEMA Aid Desk",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Handles the flood claim and FEMA paperwork after the water goes down.",
+  "description": "A post-flood paperwork desk. It inventories the damage, drafts insurance claim and FEMA aid answers, makes calls and sends emails, and works web chats, pausing for your approval at every step while keeping a color-coded tracker of what is left.",
+  "category": "life",
+  "url": "https://x.ai/bot/sVhqCkhSOnAIQsY61-QC_",
+  "source": "https://x.com/BrianRoemmele/status/2124171794785693770",
+  "hue": 196,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "upbot",
+  "name": "UPBot",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": "tonthat_baotoan"
+  },
+  "tagline": "Writes and runs the script that moves your files to Telegram or YouTube.",
+  "description": "Moves files, videos and photos out of a local folder, Google Drive, OneDrive or other storage and into Telegram, YouTube, Drive and similar destinations. It writes the upload script, runs it in the background, repairs common errors and asks before compressing or deleting anything.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/G9PboV1fdfmj-Z8jwMEo4",
+  "source": "https://x.com/tonthat_baotoan/status/2124117546471510342",
+  "hue": 152,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "local-farms",
+  "name": "Local Farms",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": "SOwashington26"
+  },
+  "tagline": "Finds farms near you selling direct, and sends the list as a PDF.",
+  "description": "Looks for farms around you that sell produce, meat, eggs and dairy direct to consumers, then sends a PDF with links, prices, reviews and current deals. It checks again each week for better prices, new farms and seasonal openings.",
+  "category": "life",
+  "url": "https://x.ai/bot/9iZsafXS071jY81WeZWy0",
+  "source": "https://x.com/SOwashington26/status/2124140786342396012",
+  "hue": 96,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "recall-watcher",
+  "name": "Recall Watcher",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": "SOwashington26"
+  },
+  "tagline": "Alerts you only when a CPSC, FDA or NHTSA recall matches something you own.",
+  "description": "Monitors CPSC, FDA and NHTSA recall feeds and stays quiet unless a recall involves something you own, then sends the official notice with the hazard and the remedy.",
+  "category": "life",
+  "url": "https://x.ai/bot/0163JZJ-tymeWs0iQwmnJ",
+  "source": "https://x.com/SOwashington26/status/2124140786342396012",
+  "hue": 268,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "ai-reply-screener",
+  "name": "AI回复专杀",
+  "builder": {
+   "name": "艾薇娜",
+   "x": "klarkxy"
+  },
+  "tagline": "Screens the accounts that reply to you, one X profile at a time.",
+  "description": "Checks the people replying to your posts each day, or a single X account on request. You set how many profiles it reads and it estimates the reads before starting; each result carries a low, medium or high confidence rating plus the posts it was drawn from.",
+  "category": "research",
+  "url": "https://x.ai/bot/ItooxHD14jyOy6z3ZyU94",
+  "source": "https://x.com/klarkxy/status/2124447266442498130",
+  "hue": 8,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "stack-desk",
+  "name": "Stack Desk",
+  "builder": {
+   "name": "Harrison Greanias",
+   "x": "Loungeless"
+  },
+  "tagline": "Stacks every cashback portal, card offer and points rate before you buy.",
+  "description": "Give it a store or paste a product link and it lays out the shopping portals, card-linked offers and points stacks for that order, with payout caps, new-customer rates and exclusions called out. Options come ranked by net value with the tracking risk beside each one, plus the click order; offers you approve it adds in your own signed-in browser.",
+  "category": "money",
+  "url": "https://x.ai/bot/xsZrUEth6yVjrjUCPJsRe",
+  "source": "https://x.com/Loungeless/status/2124413858832072784",
+  "hue": 34,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "refund-bot",
+  "name": "Refund Bot",
+  "builder": {
+   "name": "K10✨",
+   "x": "Kristennetten"
+  },
+  "tagline": "Finds Amazon refunds you were owed and never got.",
+  "description": "Reads your Amazon order and refund history to surface returns that were never refunded and duplicate charges, then asks Amazon for the money back one request at a time, only after you approve each one.",
+  "category": "money",
+  "url": "https://x.ai/bot/e0K2whlOmS_rd3BZUS1rP",
+  "source": "https://x.com/Kristennetten/status/2124386571692675091",
+  "hue": 88,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "content-cascade",
+  "name": "Content Cascade",
+  "builder": {
+   "name": "Mike Gannotti",
+   "x": "MichaelGannotti"
+  },
+  "tagline": "One idea in, an X thread, carousel, short and LinkedIn cut out.",
+  "description": "Takes a single idea and drafts a sourced X thread, an Imagine carousel, a Video Studio short and a LinkedIn version, all in your voice. Nothing publishes or renders until you approve it.",
+  "category": "creative",
+  "url": "https://x.ai/bot/k0lpe-Njz1-ZPZxUmfsIn",
+  "source": "https://x.com/MichaelGannotti/status/2124376899153457615",
+  "hue": 291,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "art-trend-scout",
+  "name": "Art Trend Scout",
+  "builder": {
+   "name": "Stephanie",
+   "x": ""
+  },
+  "tagline": "A few times a week, a short brief of open calls and art trends that fit you.",
+  "description": "Checks recent public X posts a few times a week and sends a brief of three to five real, linked ideas and open calls for art matched to your medium and style.",
+  "category": "creative",
+  "url": "https://x.ai/bot/oGUh40znETUGGD7mPUpDu",
+  "source": "https://x.com/PaulaRevere111/status/2124370811834274202",
+  "hue": 320,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "tax-loss-harvest-helper",
+  "name": "Tax-Loss Harvest Helper",
+  "builder": {
+   "name": "Jonathon",
+   "x": ""
+  },
+  "tagline": "Walks a year-end tax-loss harvest review of a US brokerage account.",
+  "description": "Takes your inputs for a taxable US brokerage account and sets doing nothing against a few harvest options with estimated savings, then suggests similar-but-not-identical rotation ideas. It never places trades and is not tax advice.",
+  "category": "money",
+  "url": "https://x.ai/bot/tu_flQtFmVDN3pA5PkGhD",
+  "source": "https://x.com/RodneyIngleJr/status/2124370098429301151",
+  "hue": 45,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "delivery-credit-desk",
+  "name": "Delivery Credit Desk",
+  "builder": {
+   "name": "Harrison Greanias",
+   "x": "Loungeless"
+  },
+  "tagline": "Finds late deliveries and drafts the courtesy-credit requests.",
+  "description": "Compares shipping emails against order history to find deliveries that missed their promised date, starting with Amazon and any stores you add. It drafts factual credit requests and sends only the ones you approve, backfilling three months of orders on first run and auditing the previous month after that.",
+  "category": "money",
+  "url": "https://x.ai/bot/LGaajWl-QsRgUSc2Z4fFV",
+  "source": "https://x.com/Loungeless/status/2124351050077646911",
+  "hue": 132,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "c64-emulator",
+  "name": "C64 Emulator",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "A Commodore 64 with 26 original BASIC games on your bot computer.",
+  "description": "Runs a real Commodore 64 emulator on the bot's own computer, loaded with 26 original BASIC games including a Blastar tribute. Play from the keyboard, or have it fetch free, legal C64 games and disk images.",
+  "category": "life",
+  "url": "https://x.ai/bot/umP9kND9C0gIaq8bh97EP",
+  "source": "https://x.com/BrianRoemmele/status/2124331930057593213",
+  "hue": 200,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "ghost-privacy-scrubber",
+  "name": "Ghost · Privacy Scrubber",
+  "builder": {
+   "name": "",
+   "x": ""
+  },
+  "tagline": "Opts your address, phones and emails out of data brokers.",
+  "description": "Files free opt-outs against people-search sites, data brokers and voter-data vendors to pull your home address, phone numbers and emails, using a private plus-alias address so your real inbox never lands in their databases.",
+  "category": "life",
+  "url": "https://x.ai/bot/OdewNMymcyhZr8Q348z-G",
+  "source": "https://x.com/GrantOnCredit/status/2124324919123345547",
+  "hue": 258,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "kids-activities-and-crafts-planner",
+  "name": "Kids activities and crafts planner",
+  "builder": {
+   "name": "Rachel V",
+   "x": "RachelVT42"
+  },
+  "tagline": "Seasonal activity and craft plans for kids, held by the grown-up.",
+  "description": "A parent, carer or teacher holds the account; it plans age-right activities and crafts for each season, schedules them ahead, tracks craft supplies and finds what is missing. Kids join in with their grown-up nearby.",
+  "category": "life",
+  "url": "https://x.ai/bot/RX5YelxYzdzp1H7IrtLZZ",
+  "source": "https://x.com/RachelVT42/status/2124323028964151465",
+  "hue": 172,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "ledger-5",
+  "name": "Ledger",
+  "builder": {
+   "name": "HOM",
+   "x": ""
+  },
+  "tagline": "Keeps a household finance sheet current from read-only accounts.",
+  "description": "Maintains a Google Sheet summary of stocks, cash, real estate, debt, net worth and budget versus actual spend, refreshed monthly from read-only linked accounts.",
+  "category": "money",
+  "url": "https://x.ai/bot/5NhStz9hqjsG_A8BTa7L9",
+  "source": "https://x.com/HassiOnTheMoon/status/2124320275349037334",
+  "hue": 118,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+ {
+  "slug": "sentinel-8",
+  "name": "Sentinel",
+  "builder": {
+   "name": "Patrick",
+   "x": "Healthnut1964"
+  },
+  "tagline": "Marks every connector, skill and file SAFE, RISKY or REMOVE.",
+  "description": "Audits the connectors, plugins, skills, templates and files attached to your bots and labels each one SAFE, RISKY or REMOVE, then runs a quiet weekly sweep that reports only what changed.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/M4UpUmRu-6_JXPsMRB5yI",
+  "source": "https://x.com/Healthnut1964/status/2124304178600362495",
+  "hue": 236,
+  "addedAt": "2026-11-22",
+  "status": "published"
+ },
+{
+ "slug": "radio-radar",
+ "name": "Radio Radar",
+ "builder": {
+   "name": "brflux (aka brett)",
+   "x": "brflux"
+ },
+ "tagline": "Picks one verified internet radio station at a time, with a playable stream.",
+ "description": "Surfaces a live, verified radio station with a stream you can play and a link to its homepage. Draws from a random pick, your stated preferences or a discovery mode, and can send one station a day.",
+ "category": "life",
+ "url": "https://x.ai/bot/40EzVsvClIBaYejzF8r15",
+ "hue": 289,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "real-estate-closing-gift-finder",
+ "name": "Real Estate Closing Gift Finder",
+ "builder": {
+   "name": "Enigma 🍄",
+   "x": ""
+ },
+ "tagline": "Finds closing and housewarming gifts for new homeowners.",
+ "description": "Suggests welcome gifts for buyers who just closed, from a mug or a city print to a kitchen piece or a small keepsake, and can add as much or as little agent branding as you want.",
+ "category": "sales",
+ "url": "https://x.ai/bot/x4IaJE_-RRI6OANSVKFtb",
+ "hue": 247,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "party-theme-planner",
+ "name": "Party Theme Planner",
+ "builder": {
+   "name": "Enigma 🍄",
+   "x": ""
+ },
+ "tagline": "Picks a party theme and matches invitations, decor and favors.",
+ "description": "Chooses a theme for birthdays, showers and get-togethers, then lines up invitations, decorations and favors that fit it.",
+ "category": "life",
+ "url": "https://x.ai/bot/hBiFpNEus3B-gMp7vLfdi",
+ "hue": 294,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "event-planner-gift-finder",
+ "name": "Event Planner Gift Finder",
+ "builder": {
+   "name": "Enigma 🍄",
+   "x": ""
+ },
+ "tagline": "Finds event gifts and favors matched to guest count, date and budget.",
+ "description": "Builds a gift and favor list for baby showers, birthdays, graduations, fundraisers and other gatherings, sized to how many guests you expect and what you can spend.",
+ "category": "life",
+ "url": "https://x.ai/bot/0qqPa8Rtf7CYr1Zeic1L8",
+ "hue": 23,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "qbr-desk",
+ "name": "QBR Desk",
+ "builder": {
+   "name": "Jonah",
+   "x": ""
+ },
+ "tagline": "Keeps a customer-health watch list and preps QBR packs.",
+ "description": "Tracks account health for a set of customers and assembles a preparation pack ahead of each business review. Aimed at CSMs, account managers and founders who own customer relationships.",
+ "category": "sales",
+ "url": "https://x.ai/bot/pqt4FsnuqbKjYIB0ijTn5",
+ "hue": 265,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "504ward",
+ "name": "504ward",
+ "builder": {
+   "name": "Jonah",
+   "x": ""
+ },
+ "tagline": "Helps parents advocate for a child with an IEP or 504 plan.",
+ "description": "Walks through state and district rules and deadlines, decodes the plan's language, prepares you for school meetings and drafts emails to the school that wait for your approval.",
+ "category": "life",
+ "url": "https://x.ai/bot/FLKPdRLIyJt0LX2dNY-3x",
+ "hue": 80,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "recitbot-screen-recorder",
+ "name": "Recitbot Screen Recorder",
+ "builder": {
+   "name": "Tyler Dooks",
+   "x": ""
+ },
+ "tagline": "Records your screen on request and returns a private share link.",
+ "description": "An open-source Loom alternative that captures screen, webcam and microphone, then gives you a private link and a transcript. Runs on your own free Cloudflare account, with setup walked through step by step.",
+ "category": "productivity",
+ "url": "https://x.ai/bot/wpfGXI65-D3YTWuT6Eq0G",
+ "hue": 327,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "reid-later",
+ "name": "Reid Later",
+ "builder": {
+   "name": "Casey Cheshire",
+   "x": "CaseyChesh"
+ },
+ "tagline": "Saves long X posts and threads to Notion, then digests the unread.",
+ "description": "Acts as a read-it-later shelf for X: send it posts and threads worth returning to, it files them in Notion and sends one weekly digest of the best ones you have not opened.",
+ "category": "productivity",
+ "url": "https://x.ai/bot/bYstuM0k-PukNFv9SZHY9",
+ "hue": 134,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "xswiper",
+ "name": "Xswiper",
+ "builder": {
+   "name": "Daniel DiNoia",
+   "x": "daniel_dinoia"
+ },
+ "tagline": "Saves tagged X posts to Notion with a note on why they worked.",
+ "description": "Tag it under any post you like and it stores the post in Notion with a one-line breakdown of hook, format and emotion, then reports the recurring patterns each week.",
+ "category": "creative",
+ "url": "https://x.ai/bot/L3U5haeQm8OZ8pK6Mea5K",
+ "hue": 161,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "santas-caller",
+ "name": "Santa's Caller",
+ "builder": {
+   "name": "Rich Silver",
+   "x": "RichSilver"
+ },
+ "tagline": "Calls kids as Santa's workshop and runs Christmas games.",
+ "description": "Places a cheerful workshop call to children on speakerphone, greets each by name and collects their wishes, then moves into reindeer games, riddles or a North Pole story.",
+ "category": "life",
+ "url": "https://x.ai/bot/H8cQM9KTVhjxbqkBCTubr",
+ "hue": 358,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "travel-bodyguard",
+ "name": "Travel Bodyguard",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Sourced safety briefings for a city, neighborhood or address.",
+ "description": "Gives a calm briefing on an unfamiliar place from official advisories and local news: areas to avoid at night, common scams, current alerts, emergency numbers and the nearest hospital or police station.",
+ "category": "life",
+ "url": "https://x.ai/bot/rBDpZ0hsxy2jH_1wKc6Sg",
+ "hue": 279,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "language-learner",
+ "name": "Language Learner",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Runs daily language lessons and practice at your own pace.",
+ "description": "Teaches any language in the mode you pick, speaking only or including reading and writing, with short daily lessons, practice conversations, vocabulary review and quizzes that adjust to your level.",
+ "category": "life",
+ "url": "https://x.ai/bot/qGxVysCvQc9q5gGulZvak",
+ "hue": 278,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "move-planner",
+ "name": "Move Planner",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Turns a move date into a week-by-week checklist.",
+ "description": "Builds the timeline from your move date, compares movers and truck rentals, lists what to cancel, transfer or update, and writes room-by-room packing lists for local or long-distance moves.",
+ "category": "life",
+ "url": "https://x.ai/bot/cN2oacPMy0yJo20D3jlti",
+ "hue": 319,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "contract-reader",
+ "name": "Contract Reader",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Explains leases, offers and terms in plain words.",
+ "description": "Reads leases, job offers, phone and gym contracts, terms of service and loan papers, flags fees, auto-renewals, cancellation traps and red flags, and suggests questions to ask before signing. Not legal advice.",
+ "category": "life",
+ "url": "https://x.ai/bot/p0iWgvUk-022eSYAGyv_G",
+ "hue": 95,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "fridge-chef",
+ "name": "Fridge Chef",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Turns what is already in the fridge into dinner.",
+ "description": "Takes a photo or a quick list of what you have and returns a few easy meals with simple recipes, substitutions, use-it-up tips and a short shopping list when something is missing.",
+ "category": "life",
+ "url": "https://x.ai/bot/qWhTK5yMmNId-yPkJSP0W",
+ "hue": 236,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "bill-fighter",
+ "name": "Bill Fighter",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Reads a bill, flags junk fees and writes the dispute.",
+ "description": "Breaks a medical, phone, internet, insurance or utility bill down line by line, points out errors and price hikes, and drafts the call script or dispute letter you can send.",
+ "category": "money",
+ "url": "https://x.ai/bot/V9QTutM9C5GMGDzbEOaSs",
+ "hue": 193,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "leak-watch",
+ "name": "Leak Watch",
+ "builder": {
+   "name": "Gaetano Zappulla",
+   "x": ""
+ },
+ "tagline": "Free-source watch for data leaks about you or your company.",
+ "description": "Checks breached emails, infostealer logs, lookalike domains, new certificates and email spoofing posture, plus leak mentions on the web and X. Read-only, keeps metadata only, and messages you when something new appears.",
+ "category": "research",
+ "url": "https://x.ai/bot/uFQR-t4Kpm2AKL0jybxex",
+ "hue": 142,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "tech-twitter",
+ "name": "Tech Twitter",
+ "builder": {
+   "name": "Daniel Hunter",
+   "x": ""
+ },
+ "tagline": "Morning brief on the tech and AI posts worth your time.",
+ "description": "Scans tech and AI discussion on X and sends a skimmable morning summary of what moved, with the option to keep watching through the day.",
+ "category": "research",
+ "url": "https://x.ai/bot/mWc2S7RS3i4H1Befjly2A",
+ "hue": 309,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "tubecut",
+ "name": "TubeCut",
+ "builder": {
+   "name": "Paris Piotis",
+   "x": ""
+ },
+ "tagline": "Cuts a YouTube video into a summary and a subtitled reel.",
+ "description": "Produces an accurate timestamped summary, picks the strongest moments as clips and delivers a subtitled highlight reel sized for X, Shorts or TikTok.",
+ "category": "creative",
+ "url": "https://x.ai/bot/w0Sqegd0t1ESSCWUMP5UE",
+ "hue": 139,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "tally-home-inventory",
+ "name": "Tally",
+ "builder": {
+   "name": "Fathercptn™",
+   "x": "ustechgod"
+ },
+ "tagline": "Identifies what you own from a photo and prices it from sold comps.",
+ "description": "Send a photo of an item and it identifies it, compares what sold listings actually paid against asking-price lookalikes, and logs it to a home inventory you can hand an insurance adjuster.",
+ "category": "life",
+ "url": "https://x.ai/bot/Noz3yGF6oARCTwB41HSfm",
+ "hue": 22,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "household-manager",
+ "name": "Household Manager",
+ "builder": {
+   "name": "Trond Eirik Haavarstein",
+   "x": ""
+ },
+ "tagline": "Keeps a restock list with typical prices from your usual store.",
+ "description": "Tracks what the household buys at your regular store, keeps a catalog of products with usual prices and buying intervals, and prepares a weekly restock list with bulk-savings flags for review. It never checks out.",
+ "category": "life",
+ "url": "https://x.ai/bot/5neNYlifCm89Yqh1uvmOM",
+ "hue": 339,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "donde-ver-cl",
+ "name": "Dónde ver? CL",
+ "builder": {
+   "name": "César",
+   "x": ""
+ },
+ "tagline": "Tells you where to watch any film or series in Chile.",
+ "description": "Looks up whether a movie or show is on a subscription service, for rent, for purchase or free in Chile, and links to the source instead of sending you through app after app.",
+ "category": "life",
+ "url": "https://x.ai/bot/hOmN4D8XygrKsiUpVJXWw",
+ "hue": 57,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "leonida",
+ "name": "Leonida",
+ "builder": {
+   "name": "Paris Piotis",
+   "x": ""
+ },
+ "tagline": "Spoiler-free GTA VI co-pilot with sourced answers.",
+ "description": "Answers questions on missions, money, cars, collectibles and GTA Online without spoilers, tracks progress and can send a short daily GTA VI digest.",
+ "category": "life",
+ "url": "https://x.ai/bot/bd5u-L5jy4qKl3Z3Nd0il",
+ "hue": 87,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "homebuilder-radar",
+ "name": "Homebuilder Radar",
+ "builder": {
+   "name": "Greg",
+   "x": "gregkauwe"
+ },
+ "tagline": "Project and profit tracking for small residential builders.",
+ "description": "Follows a builder's projects through permits, sold comps and budget figures pulled from official sources, so the numbers behind each job stay in one place.",
+ "category": "money",
+ "url": "https://x.ai/bot/M5a0D9QLzGxHHUrChEih2",
+ "hue": 214,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "narrator",
+ "name": "Narrator",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Turns a script into a voiceover with timed SRT captions.",
+ "description": "Takes a script, article, story or lesson and returns an audio file plus timed captions in the voice and pace you choose, without a recording booth.",
+ "category": "creative",
+ "url": "https://x.ai/bot/IGwsuqjT-nHLkdAZq52pv",
+ "hue": 284,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "crew-doctor",
+ "name": "Crew Doctor",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Audits a bot fleet and ranks what wastes usage.",
+ "description": "Reviews how several Grok bots work together and returns a ranked list of what is wasting usage or causing confusion, such as duplicate routines, over-frequent schedules or notification overload, with the fix for each. Changes nothing without your say.",
+ "category": "productivity",
+ "url": "https://x.ai/bot/-100QJM3keCwUb_dvAhZv",
+ "hue": 207,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "game-checker",
+ "name": "Game Checker",
+ "builder": {
+   "name": "American™",
+   "x": "1776_13"
+ },
+ "tagline": "Playtests your Grok Build browser game on phone and desktop.",
+ "description": "Plays a browser game like a real player on mobile and desktop widths, then reports what felt off and hands over one ready-to-paste fix prompt.",
+ "category": "engineering",
+ "url": "https://x.ai/bot/cP-B1-XsCWfFPECfAs1Xg",
+ "hue": 43,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "studio-to-release",
+ "name": "Studio to Release",
+ "builder": {
+   "name": "Patrick Kimbrell",
+   "x": "leopold_viii"
+ },
+ "tagline": "Guides an independent release from mix to distribution.",
+ "description": "Helps with recording, mixing and mastering in plain steps, checks loudness, and walks through distribution to Spotify and Apple Music, ISRCs, cover art and BMI or ASCAP royalty registration. Not legal advice.",
+ "category": "creative",
+ "url": "https://x.ai/bot/Z3vxK6GqlOpYwAqJ22mt0",
+ "hue": 358,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "shopping-desk",
+ "name": "Shopping Desk",
+ "builder": {
+   "name": "Jonathan Valdivia",
+   "x": ""
+ },
+ "tagline": "Compares products and prices, fills carts, tracks returns.",
+ "description": "Researches products and prices, fills carts on the stores you name and follows returns through, while leaving the actual purchase for you to approve.",
+ "category": "life",
+ "url": "https://x.ai/bot/x6or9xMcI0xBiAon4PIPi",
+ "hue": 324,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "ostinato",
+ "name": "Ostinato",
+ "builder": {
+   "name": "JoePro",
+   "x": "JoePro"
+ },
+ "tagline": "Runs scheduled AI music batches and keeps only strong takes.",
+ "description": "Writes song prompts, runs batches on a schedule, judges the takes so only the strong ones ship, and keeps an artist's site track list current.",
+ "category": "creative",
+ "url": "https://x.ai/bot/STXKy4NgVy7l5ADjgzrdu",
+ "hue": 287,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "lanternist",
+ "name": "Lanternist",
+ "builder": {
+   "name": "JoePro",
+   "x": "JoePro"
+ },
+ "tagline": "Spends Gamma credits on carousels, decks and social graphics.",
+ "description": "Turns monthly Gamma credits into carousels, decks, social graphics and one-pagers on a weekly plan you approve, opens and checks every card, and logs spend so credits are not wasted.",
+ "category": "creative",
+ "url": "https://x.ai/bot/oAZXSuWTH07EvYBjfGwG0",
+ "hue": 83,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "tube-pilot",
+ "name": "Tube Pilot",
+ "builder": {
+   "name": "JoePro",
+   "x": "JoePro"
+ },
+ "tagline": "YouTube growth plan: audits, trends, titles and thumbnails.",
+ "description": "Audits a channel, scouts trends and outlier videos, plans Shorts and long-form, and drafts titles, thumbnails, hooks and descriptions, with nothing published without approval.",
+ "category": "creative",
+ "url": "https://x.ai/bot/SZhehwzR7Gf3OYq66H9pQ",
+ "hue": 291,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "quintain",
+ "name": "Quintain",
+ "builder": {
+   "name": "JoePro",
+   "x": "JoePro"
+ },
+ "tagline": "Scores hackathons against their rubrics and pitches the winnable ones.",
+ "description": "Finds hackathons, scores each against its own judging rubric, pitches the best one or two with a build plan, and prepares the demo script and write-up.",
+ "category": "productivity",
+ "url": "https://x.ai/bot/2chwXoQ5ayD63kXA-A0Pm",
+ "hue": 251,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "come-follow-me-study",
+ "name": "Come, Follow Me Study",
+ "builder": {
+   "name": "Ben Bush",
+   "x": "benjbush"
+ },
+ "tagline": "Cited Come, Follow Me study plans for individuals and families.",
+ "description": "Builds on official churchofjesuschrist.org material with every quote cited, offering daily thoughts, weekly summaries and family study plans fitted to who is at home, plus optional class decks for teachers.",
+ "category": "life",
+ "url": "https://x.ai/bot/H6sJrSRN4-irdHnRvZvAE",
+ "hue": 42,
+ "addedAt": "2026-11-23",
+ "status": "published"
+},
+{
+ "slug": "job-search-coach",
+ "name": "Job Search Coach",
+ "builder": {
+   "name": "MEGS🤍",
+   "x": "cozymeggy"
+ },
+ "tagline": "Finds roles, tailors applications and tracks every one.",
+ "description": "Searches openings that fit your experience, rewrites resumes and cover letters for each role, prepares interview answers and thank-you notes, and keeps an application tracker. Nothing is sent without your yes.",
+ "category": "life",
+ "url": "https://x.ai/bot/1m1aQK7_1rF1VsJ-skDEx",
+ "hue": 202,
+ "addedAt": "2026-11-23",
+ "status": "published"
+}
 ]
