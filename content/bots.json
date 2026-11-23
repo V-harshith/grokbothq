@@ -142625,5 +142625,149 @@
   "hue": 202,
   "addedAt": "2026-11-23",
   "status": "published"
+ },
+ {
+  "slug": "fpl-coach-football-scores",
+  "name": "FPL Coach & Football Scores",
+  "builder": {
+   "name": "Martin Lewarne",
+   "x": ""
+  },
+  "tagline": "Audits your Fantasy Premier League squad and makes the weekly calls.",
+  "description": "Reviews your Fantasy Premier League squad each week for injuries, bans and price changes, then recommends the transfer, captain and chip decisions. Also sends match-day reminders and final scores for your club.",
+  "category": "life",
+  "url": "https://x.ai/bot/dAaOUYb7RJl38yscc0-mD",
+  "source": "https://grok-bot.directory",
+  "hue": 118,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "return-warranty-helper",
+  "name": "Return & Warranty Helper",
+  "builder": {
+   "name": "American™",
+   "x": "1776_13"
+  },
+  "tagline": "Tracks return windows and warranties, then drafts the refund claim.",
+  "description": "Keeps a record of what you bought with its return window and warranty terms, checks the store and manufacturer policies, and tells you the deadline. Drafts the return, refund, price-adjustment or warranty claim for you to send, and never contacts a company without your approval.",
+  "category": "money",
+  "url": "https://x.ai/bot/wxnaTzG8zNwudM_rKxtxf",
+  "source": "https://grok-bot.directory",
+  "hue": 24,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "resume-job-coach",
+  "name": "Resume & Job Coach",
+  "builder": {
+   "name": "American™",
+   "x": "1776_13"
+  },
+  "tagline": "Tailors your resume to a posting and rehearses the interview.",
+  "description": "Tailors your resume and cover letter to a specific posting, suggests openings that fit your experience, and runs mock interviews with honest feedback. It never applies or sends anything without your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/dbmBzCyHRLvKakEOVtXzm",
+  "source": "https://grok-bot.directory",
+  "hue": 205,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "wedding-gift-stationery-helper",
+  "name": "Wedding Gift & Stationery Helper",
+  "builder": {
+   "name": "Enigma",
+   "x": ""
+  },
+  "tagline": "Picks wedding stationery, signs and gifts to match the date and style.",
+  "description": "Covers wedding stationery from invitations and save-the-dates to thank-you cards and day-of signs, plus bridal-party gifts and registry picks. Suggestions follow the wedding's style and date.",
+  "category": "life",
+  "url": "https://x.ai/bot/9XIMRuiqVTQoMEKLiFXv5",
+  "source": "https://grok-bot.directory",
+  "hue": 330,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "cozy-glow-gift-finder",
+  "name": "Cozy & Glow Gift Finder",
+  "builder": {
+   "name": "Enigma",
+   "x": ""
+  },
+  "tagline": "Finds cozy home staples and beauty gifts inside your budget.",
+  "description": "Suggests cozy home pieces and beauty gifts, from robes and loungewear to blankets, candles and skincare, matched to the recipient and your budget.",
+  "category": "life",
+  "url": "https://x.ai/bot/3MOQo86NFu9-JrlU76GDQ",
+  "source": "https://grok-bot.directory",
+  "hue": 12,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "x-cleaner",
+  "name": "X Cleaner",
+  "builder": {
+   "name": "César",
+   "x": ""
+  },
+  "tagline": "Flags old X posts by the risk they carry for your job.",
+  "description": "Goes through your old X posts and flags the ones most likely to cause trouble at work, ranked by risk level. It never deletes or publishes anything without your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/XK0ieRWCNqlBXMiSnPVPA",
+  "source": "https://grok-bot.directory",
+  "hue": 262,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "og-landman",
+  "name": "O&G Landman",
+  "builder": {
+   "name": "Hudson S.",
+   "x": ""
+  },
+  "tagline": "Checks oil and gas statements against your royalty interests.",
+  "description": "For non-operators: checks operators' division orders, revenue statements, JIBs and payments against your working, royalty and overriding royalty interests. Also builds cash-basis tax-year workbooks.",
+  "category": "money",
+  "url": "https://x.ai/bot/yapMxyRNP0p9P6bLHujYK",
+  "source": "https://grok-bot.directory",
+  "hue": 40,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "og-tax-cpa",
+  "name": "O&G Tax CPA",
+  "builder": {
+   "name": "Hudson S.",
+   "x": ""
+  },
+  "tagline": "Explains oil and gas tax treatment for non-operator owners.",
+  "description": "Walks through the tax and accounting treatment of producing oil and gas interests held as a non-operator working interest or royalty, covering JIBs, IDC, depreciation, depletion and Gulf Coast severance taxes.",
+  "category": "money",
+  "url": "https://x.ai/bot/xIXWLXw5Qv-WjDE-V4acp",
+  "source": "https://grok-bot.directory",
+  "hue": 48,
+  "addedAt": "2026-11-23",
+  "status": "published"
+ },
+ {
+  "slug": "bot-vufa7u",
+  "name": "개인별 맞춤 투자방송 제작봇",
+  "builder": {
+   "name": "하얀돼지",
+   "x": ""
+  },
+  "tagline": "Daily investment podcast from your own holdings, via NotebookLM.",
+  "description": "Remembers the stocks you hold, their weightings and the updates you ask for, then builds a personal investment broadcast each morning as a NotebookLM audio overview and sends you the link.",
+  "category": "money",
+  "url": "https://x.ai/bot/Vufa7U-52jKyDauC3ktDQ",
+  "source": "https://grok-bot.directory",
+  "hue": 285,
+  "addedAt": "2026-11-23",
+  "status": "published"
  }
 ]
