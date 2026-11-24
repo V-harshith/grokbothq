@@ -143609,5 +143609,200 @@
     "addedAt": "2026-11-24",
     "status": "published",
     "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "black-friday-deal-watcher",
+    "name": "Black Friday Deal Watcher",
+    "builder": {
+      "name": "Christian Jose Canino Pacheco",
+      "x": ""
+    },
+    "tagline": "Checks your Black Friday list from Nov 24 to Dec 1 and alerts only on a real drop.",
+    "description": "Takes the list of things you actually want and checks their public prices through the Black Friday window. You get an alert when an item falls under your target price or its stock status changes, and the bot never signs in to a store or buys anything. It wraps up after Cyber Monday.",
+    "category": "money",
+    "url": "https://x.ai/bot/HLGAL2ZSyYYqreTTqYeEY",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "skill-a-day",
+    "name": "Skill a Day",
+    "builder": {
+      "name": "John Bianchi",
+      "x": ""
+    },
+    "tagline": "Fifteen minutes a day on one skill, with a dated plan and weekly level checks.",
+    "description": "Pick the skill you want (touch typing, chess, drawing, spreadsheets, public speaking and others, or name your own) and it writes a dated daily session: warm-up, one focused drill, a short wrap-up. Weekly progress checks move you up or down a level, and a dashboard keeps the streak and results.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/grMXflwRfN3chpV8Y88c5",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "value-scout",
+    "name": "Value Scout",
+    "builder": {
+      "name": "Nattie McBarBar, Cannabis All-Star",
+      "x": ""
+    },
+    "tagline": "Deal alerts only when an item clears a hard value bar, silent the rest of the time.",
+    "description": "Watches for a value threshold you would actually act on: a deep discount, an all-time low, thin stock, or a jump in demand. It sends a deal of the day, a weekly pick and confirmed advance alerts, learns from what you use, and otherwise stays quiet.",
+    "category": "money",
+    "url": "https://x.ai/bot/7bHRJH4loguoSWDIsmM0V",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "lds-restored-gospel-bot",
+    "name": "LDS Restored Gospel Bot",
+    "builder": {
+      "name": "Justin Brady",
+      "x": ""
+    },
+    "tagline": "Daily Come, Follow Me study partner for Latter-day Saints.",
+    "description": "Runs personal study and Sunday lesson prep (whether teaching or learning) from the Come, Follow Me curriculum, and answers life questions against the Standard Works with real references instead of loose paraphrase.",
+    "category": "life",
+    "url": "https://x.ai/bot/3COzO989nnWaJOgU3ZyDo",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "builder",
+    "name": "Builder",
+    "builder": {
+      "name": "Joseph Gaither",
+      "x": ""
+    },
+    "tagline": "Runs coding work on the AI subscriptions you already pay for, then reports what shipped.",
+    "description": "Drives the coding subscriptions you already have (Codex, Claude Code, Devin, Hermes), tests what it writes, opens pull requests, and hands back a plain account of what shipped and what still needs your sign-off.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/p50t-osJITJwHUDqK0uBa",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "the-daily-x",
+    "name": "The Daily X",
+    "builder": {
+      "name": "Tony Eriksson",
+      "x": "TonyEriksson"
+    },
+    "tagline": "A daily paper on what X is saying about the day's big stories.",
+    "description": "Every story comes in five parts: what happened and what is in dispute, the case for and against (bulls and bears for markets), what each camp on X believes and where that reading goes wrong, and a verdict with sources.",
+    "category": "research",
+    "url": "https://x.ai/bot/pEwW_YvUoRuqxLdp-7hpC",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "subscription-hunter",
+    "name": "Subscription Hunter",
+    "builder": {
+      "name": "AJAC",
+      "x": "AJA_Cortes"
+    },
+    "tagline": "Finds every recurring charge, ranks it by yearly cost, and cancels only what you approve.",
+    "description": "Reads cards, bank statements and receipt mail for recurring charges, puts a yearly cost and the proof next to each one, then cancels, chases refunds or warns before a renewal, one approved step at a time.",
+    "category": "money",
+    "url": "https://x.ai/bot/dth6A4SkKvxz7MqAX5N46",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "mac-doctor",
+    "name": "Mac Doctor",
+    "builder": {
+      "name": "Hudson S.",
+      "x": ""
+    },
+    "tagline": "Diagnoses a slow Mac with built-in tools only, one step at a time.",
+    "description": "Works out why a Mac is dragging using only what ships with macOS, no cleaner apps, and walks through the fix one step at a time. Nothing changes until you say yes.",
+    "category": "productivity",
+    "url": "https://x.ai/bot/zrmY7u9rvshjJ8yAjqoWJ",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "archi",
+    "name": "Archi",
+    "builder": {
+      "name": "Emergence V",
+      "x": ""
+    },
+    "tagline": "Designs, audits and evolves the instructions behind bots, skills and agents.",
+    "description": "Starts with a diagnosis, proposes an architecture checked against the platform's current documentation, and audits existing instructions for gaps, contradictions and redundancy. Works in drafts for Claude, Gemini, Grok Bot or any other model, and changes nothing without your approval.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/-Bm_E9Kd7EId9Jsel3QAn",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "amazon-refund-hunter",
+    "name": "Amazon Refund Hunter 📦💲",
+    "builder": {
+      "name": "Tom Palen",
+      "x": ""
+    },
+    "tagline": "Audits years of Amazon returns for refunds that never actually landed.",
+    "description": "Goes through your Amazon return history year by year to find re-charged returns, short or missing refunds and unexplained gaps, then opens Amazon customer chat to verify each questionable item and recover what is owed, with screenshot proof.",
+    "category": "money",
+    "url": "https://x.ai/bot/uvOhl9nxUXQt2_KDIJdvX",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "herobrine-minecraft",
+    "name": "Herobrine · Minecraft",
+    "builder": {
+      "name": "Truman Wilson",
+      "x": "TrumanWilson_"
+    },
+    "tagline": "Server admin for a self-hosted Minecraft server: crashes, backups, mods, dashboard.",
+    "description": "Looks after vanilla, Forge or NeoForge servers you host yourself: traces crashes, runs backups and health checks, installs mods without breaking the pack, and can build a local dashboard branded for your server.",
+    "category": "engineering",
+    "url": "https://x.ai/bot/ba-cOMvV4s9EnMV88nzI6",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "gtm-engineer",
+    "name": "GTM Engineer",
+    "builder": {
+      "name": "Christian Pickett",
+      "x": ""
+    },
+    "tagline": "Outbound research and list building that quotes the cost before any paid lookup.",
+    "description": "Handles prospecting research, contact waterfalls, buying-signal monitoring and CRM list hygiene, routing to the cheapest source first, showing a quote before paid enrichment and a source on every row. It drafts only: no outreach is sent and nothing is written to your CRM. Coverage is strongest on US tech and SaaS buyers and thinner elsewhere.",
+    "category": "sales",
+    "url": "https://x.ai/bot/FJR-3Lx8OilwCyRrWEWtE",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
+  },
+  {
+    "slug": "refunds-returns-bot",
+    "name": "Refunds & Returns Bot",
+    "builder": {
+      "name": "John Boyle",
+      "x": ""
+    },
+    "tagline": "Runs a store's return flow end to end and stays with it until the refund lands.",
+    "description": "Handles the return on whichever store's site the order came from, follows the steps through and keeps at the case until the refund is confirmed instead of leaving you with a submitted request.",
+    "category": "money",
+    "url": "https://x.ai/bot/kzAQJ9TKiOtoZ3o-6t2sO",
+    "addedAt": "2026-11-24",
+    "status": "published",
+    "source": "https://grok-bot.directory"
   }
 ]
