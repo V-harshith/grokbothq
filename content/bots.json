@@ -143804,5 +143804,500 @@
   "addedAt": "2026-11-24",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "clip-page-bot",
+  "name": "Clip Page Bot",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Runs a gaming clips page: finds viral moments, cuts 9:16 Shorts, schedules after approval.",
+  "description": "Handles a gaming clips page from discovery to publishing: finds fresh viral gameplay moments, cuts them into captioned vertical Shorts, checks facts and copyright, then queues them to X, YouTube and TikTok through Buffer. Nothing goes out until you approve.",
+  "category": "creative",
+  "url": "https://x.ai/bot/XQadI42tXe67GnJ37svbo",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "blender-master-x",
+  "name": "Blender Master X · 3D modeling",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Turns photos and sketches into printable 3D models, with a verified STL and editable .blend.",
+  "description": "Turns a photo, sketch, spec sheet or product idea into a detailed model using headless Blender, then hands back a checked STL, an editable .blend and print recommendations for FDM or resin printers.",
+  "category": "creative",
+  "url": "https://x.ai/bot/i9n9v8So7VHF4jbY-OavW",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "trading-card-art-director",
+  "name": "Trading Card Art Director",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Designs custom trading card sets from concept through to print-ready files.",
+  "description": "Builds a full trading card set, whether that is a school sports team, an original creature line or military units, and carries it from concept art to print-ready files for a UV printer.",
+  "category": "creative",
+  "url": "https://x.ai/bot/TChR4k7ZPPCC-mhDUKjEq",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "bambu-buddah-3d-printing",
+  "name": "Bambu Buddah · 3D printing",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Slices files for Bambu Lab printers and diagnoses failed prints, never pressing print.",
+  "description": "Prepares STL and 3MF files in Bambu Studio for Bambu Lab machines, picks filament and settings, reads printer status read-only and works out why a print failed. It hands over a print-ready file and never starts the job itself.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/JQyQ9BnB7JSVgV_ca-Ml6",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "challenge-coin-designer",
+  "name": "Challenge Coin Designer",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Designs challenge coins and checks insignia and wording against official sources.",
+  "description": "Takes a brief for a military or commemorative challenge coin and returns a matched front and reverse, verifies the insignia and text against official sources, and packages a production pack ready for UV printing or a mint.",
+  "category": "creative",
+  "url": "https://x.ai/bot/jOkpnmpWRmOBLduDJyl2N",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "scissor-hands",
+  "name": "Scissor Hands",
+  "builder": {
+   "name": "Dukkle",
+   "x": ""
+  },
+  "tagline": "Cuts long videos into shorts on your own CPU, pitching scored options before it edits.",
+  "description": "Runs locally and turns long videos, streams and podcasts into Shorts, verticals, mid-length cuts and cold-open teasers with safe-zone burned-in captions, thumbnail frames and metadata packs. It always offers three to five scored clips with timestamps first, keeps the originals untouched and never posts.",
+  "category": "creative",
+  "url": "https://x.ai/bot/46wSwYd8XyfMpgzgGKDgu",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "digital-artist-production-designer",
+  "name": "Digital Artist & Production Designer",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Turns briefs into print-ready vector and 300 DPI artwork for makers and small shops.",
+  "description": "Works like an agency production designer for makers and small shops: briefs become print-ready SVGs and 300 DPI PNGs for UV printing, decals, 3D print and resin work, plus logos, mockups and listing images, all delivered as drafts you approve.",
+  "category": "creative",
+  "url": "https://x.ai/bot/9iSks6NR40ioVEV6JP9rd",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "inspectah-deck-gadget-tinkerer",
+  "name": "Inspectah Deck · Gadget Tinkerer",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Builds, flashes and debugs ESP32 and Raspberry Pi projects, with approval before any change.",
+  "description": "Handles ESP32 and Raspberry Pi work, including small-screen interfaces and Pi kiosks. It diagnoses the problem before changing anything and will not flash, install or delete without your approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/UCKe4RV7885PPrrjeG58q",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "web-design-director",
+  "name": "Web Design Director",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Designs and codes a custom site with scroll motion and 3D, then hands you a preview link.",
+  "description": "Combines creative direction and front-end work to design and build a site with scroll motion and 3D, tests it, and delivers a preview link. Aimed at small businesses and freelancers who do not want a template look.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/pYD3gY_VYV_RXjg5lyArR",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "email-commander",
+  "name": "Email Commander",
+  "builder": {
+   "name": "FusionTactiks",
+   "x": "FTactiks"
+  },
+  "tagline": "Triages Gmail each weekday morning, drafts replies and never sends without your yes.",
+  "description": "Sorts your Gmail, runs a weekday morning inbox and scam check, and keeps the pile down. Replies arrive as drafts, and it will not send, unsubscribe or delete anything until you approve.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/0rNUwBojJy2hq9gieBhta",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "speakflow",
+  "name": "SpeakFlow",
+  "builder": {
+   "name": "Fabio",
+   "x": ""
+  },
+  "tagline": "Language practice by voice or text, with lesson pages and one living progress page.",
+  "description": "Coaches a language through spoken or written conversation, builds lesson pages from any topic or link, and runs real-life simulations such as job interviews or travel scenes. Progress collects on one page, with an optional five-minute daily practice routine.",
+  "category": "life",
+  "url": "https://x.ai/bot/fj6QxVMG61Wmp-rQ6xjpA",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "family-tree-researcher",
+  "name": "Family Tree Researcher",
+  "builder": {
+   "name": "Jonathan Miller",
+   "x": ""
+  },
+  "tagline": "Traces ancestors through original records and checks your online tree against them.",
+  "description": "Researches ancestors in original records at home and abroad, compares what it finds with your existing online tree, and turns the proven line into a family history book.",
+  "category": "research",
+  "url": "https://x.ai/bot/VvmlGJFaA-GtMcuahiXLQ",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "clutter-to-cash",
+  "name": "Clutter to Cash",
+  "builder": {
+   "name": "Maximiliano Defranchi",
+   "x": "mdefranchi"
+  },
+  "tagline": "Prices and lists your unused stuff on local resale sites, with your OK at each step.",
+  "description": "Turns unused items into cash on the second-hand platforms used in your country: prices from real sales, honest listings, buyer replies, scam filtering and handoffs. Every step waits for your approval.",
+  "category": "money",
+  "url": "https://x.ai/bot/h4RYj47dufMbyjWxw_0Lk",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "flip-the-label",
+  "name": "Flip The Label",
+  "builder": {
+   "name": "FMG FMG",
+   "x": ""
+  },
+  "tagline": "Reads a product label and separates the front-of-pack claims from what is actually in it.",
+  "description": "Send a barcode, an ingredient panel photo or a product name and it explains what the front of the pack claims, what the law requires and what the ingredient list actually shows. No scores and no diet advice.",
+  "category": "life",
+  "url": "https://x.ai/bot/iNFZLWJqrHrL3ybXiGuXw",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "deadline-guard",
+  "name": "Deadline Guard",
+  "builder": {
+   "name": "Tim Rose",
+   "x": ""
+  },
+  "tagline": "Builds a compliance deadline calendar for a small US business and drafts the filings.",
+  "description": "Collects filing and licence deadlines from official sources, keeps them on one calendar, sends reminders and drafts the paperwork for you to approve, so a small US business does not eat late penalties or let a licence lapse.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/lOvWnH3iD0njv-UEMmKc2",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "human-voice-editor-2",
+  "name": "Human Voice Editor",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Rewrites Indian cricket, film and news copy so it reads like a sharp human journalist.",
+  "description": "Edits articles, posts and captions for Indian cricket, Bollywood and news writers so they read like a person wrote them, keeps every fact intact, flags defamation risk and checks drafts against AI detectors.",
+  "category": "creative",
+  "url": "https://x.ai/bot/xv6v_uBLwOh2U5kj30IqC",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cricket-news",
+  "name": "CRICKET NEWS",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Five cricket stories morning and evening, plus live scorecards for your home team.",
+  "description": "Sends the five biggest cricket stories each morning and evening, live scorecards whenever your home team is playing, and coverage of any other international match you choose to follow.",
+  "category": "life",
+  "url": "https://x.ai/bot/_euKTIFxVMsOCGvR62aky",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "x-bot-cleaner",
+  "name": "X Bot Cleaner",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Flags bots and dead accounts in your X network, then removes up to 25 a day.",
+  "description": "Audits your X followers and the accounts you follow every day, flags bots, accounts idle for two years, engagement farmers, spammers and abusive or explicit accounts, then removes up to 25 of them a day.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/blW82h5mB4SxY862J3jRw",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "agent-hq",
+  "name": "Agent HQ",
+  "builder": {
+   "name": "Tim Rose",
+   "x": ""
+  },
+  "tagline": "Chief of staff for a residential real estate agent: leads, deadlines and client care.",
+  "description": "Runs the admin side of a residential real estate business: leads, contract deadlines, client updates and past-client follow-up. It drafts everything and leaves the sending to you.",
+  "category": "sales",
+  "url": "https://x.ai/bot/BNkPV7S4kmiqNPe7TeAdg",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "delete-your-data",
+  "name": "Delete Your Data",
+  "builder": {
+   "name": "Nicholas Alberts",
+   "x": ""
+  },
+  "tagline": "Finds your listings on data broker sites, sends the opt-outs and tracks the replies.",
+  "description": "Finds where your details are listed on people-search and data broker sites, sends the opt-out requests and follows the confirmation emails until each site confirms removal.",
+  "category": "life",
+  "url": "https://x.ai/bot/IesZjtQLzrO-G1GrnB-59",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "seo-optimiser",
+  "name": "SEO Optimiser",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Turns a finished article into a search-ready page with keywords, meta and FAQs.",
+  "description": "Checks what X, YouTube, Instagram and Google already say about the topic, then returns keywords, headline options, a meta description, a stronger intro, FAQs and on-page fixes for the article you paste in.",
+  "category": "sales",
+  "url": "https://x.ai/bot/MFM8GAbq1iCnh2VTmuqQV",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "x-idea-drafter",
+  "name": "X Idea Drafter",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Studies your past posts, then brings three researched ideas with drafts attached.",
+  "description": "Reads your X history to see what has worked, researches fresh stories across X, news, YouTube and Instagram, and returns three post ideas with drafts ready for review. It never posts on its own.",
+  "category": "creative",
+  "url": "https://x.ai/bot/X7xxFjVbljZHNr8L_9axA",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "amazon-price-analyser",
+  "name": "Amazon Price Analyser",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Checks an Amazon product's price history, all-time low and cheaper listings elsewhere.",
+  "description": "Paste an Amazon link to see the current price, its history and all-time low, cheaper offers on other sites, and a plain buy-now-or-wait verdict. It can also watch the product and alert you when the price drops.",
+  "category": "money",
+  "url": "https://x.ai/bot/zCheIGWs-FuuNeOrTFciW",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "scam-check-2",
+  "name": "Scam Check",
+  "builder": {
+   "name": "Infinity Automation",
+   "x": ""
+  },
+  "tagline": "Checks a deal, link or message before you pay and calls it safe, risky or a scam.",
+  "description": "Send any deal, store, listing, link, text, WhatsApp message or email before paying and it returns safe, risky or scam with plain reasons and a safer way to buy. Works in any country.",
+  "category": "money",
+  "url": "https://x.ai/bot/U28NV55QIyqjXyCPt7fN3",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "heads-up-2",
+  "name": "Heads Up",
+  "builder": {
+   "name": "Maximiliano Defranchi",
+   "x": "mdefranchi"
+  },
+  "tagline": "Local disruption radar: outages, strikes, closures and weather on your routes.",
+  "description": "Warns you ahead of local disruption in any city, including outages, strikes, road closures, severe weather and schedule changes that touch your regular places and routes, with official sources and one practical action per alert.",
+  "category": "life",
+  "url": "https://x.ai/bot/KBB0vdkf216s7EOAUKXuX",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "mission-control-5",
+  "name": "Mission Control",
+  "builder": {
+   "name": "Maximiliano Defranchi",
+   "x": "mdefranchi"
+  },
+  "tagline": "Runs a big personal goal like a mission, with phases and a weekly Go/No-Go report.",
+  "description": "Turns an ambitious goal with a deadline into a mission brief, a phased plan and a small crew of specialist bots, then reports weekly with a go or no-go call on the next phase.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/LCnqFiuPKdIDaDvA9nXY-",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "outbid-black-friday-deals",
+  "name": "Outbid – Black Friday Deals",
+  "builder": {
+   "name": "Maximiliano Defranchi",
+   "x": "mdefranchi"
+  },
+  "tagline": "Runs a small reverse auction so sellers compete on the big purchase you want.",
+  "description": "For Black Friday, Cyber Monday and the rest of the year, it approaches several sellers on a large purchase and asks for unpublished offers, then lets you approve every message and close the deal yourself.",
+  "category": "money",
+  "url": "https://x.ai/bot/yle-5IuYgWp5s7P8OqsoN",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "pitch-rehearsal-partner",
+  "name": "Pitch Rehearsal Partner",
+  "builder": {
+   "name": "Infinity Automation",
+   "x": ""
+  },
+  "tagline": "Rehearses a founder pitch section by section against a tough investor, with scores.",
+  "description": "Works through an investor pitch one section at a time, plays a demanding but fair investor, scores each answer and tracks how the pitch improves across sessions.",
+  "category": "sales",
+  "url": "https://x.ai/bot/5Zhh1lJ_NSNEBp0likOGP",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "bursary-hunter",
+  "name": "Bursary Hunter",
+  "builder": {
+   "name": "Infinity Automation",
+   "x": ""
+  },
+  "tagline": "Finds South African bursaries you qualify for, with deadlines and motivation letters.",
+  "description": "Builds a list of real bursaries and scholarships open to a South African learner or student, keeps the application deadlines in view and helps draft honest motivation letters.",
+  "category": "money",
+  "url": "https://x.ai/bot/8c9RlRn4CNsao2ZmoccAD",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "preisfuchs-dach",
+  "name": "Preisfuchs DACH",
+  "builder": {
+   "name": "Dariusz Parys",
+   "x": "die54minute"
+  },
+  "tagline": "Price and bargain watch for Germany, Austria and Switzerland, shipping included.",
+  "description": "Watches products, brands and categories across idealo, Geizhals, Toppreise.ch and mydealz, compares total prices including shipping, and only alerts on a genuine all-time low rather than a fake list-price discount.",
+  "category": "money",
+  "url": "https://x.ai/bot/nrJ7s9x6Ji0PN5KDu5L67",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "basket-battle",
+  "name": "Basket Battle",
+  "builder": {
+   "name": "Infinity Automation",
+   "x": ""
+  },
+  "tagline": "Prices the same grocery basket across local supermarkets every week.",
+  "description": "Builds a standard basket of everyday groceries, works out which supermarket in your city sells it cheapest each week, and turns the result into a chart and caption ready to post.",
+  "category": "money",
+  "url": "https://x.ai/bot/NQjDGy-9C1BlcKGUuT8kD",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "wholesale-sourcing",
+  "name": "Wholesale Sourcing",
+  "builder": {
+   "name": "Infinity Automation",
+   "x": ""
+  },
+  "tagline": "Finds and compares suppliers for a product, with minimums in local currency.",
+  "description": "Helps a small shop find trustworthy suppliers for a product, compare prices and minimum order quantities, and screen out unreliable sellers, working in the shop's own country and currency. First built for South African spaza shops.",
+  "category": "sales",
+  "url": "https://x.ai/bot/FpfvghQkGMPmqKj7Mgr0o",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "deal-hunter-4",
+  "name": "Deal Hunter",
+  "builder": {
+   "name": "Nima Owji",
+   "x": "nima_owji"
+  },
+  "tagline": "Black Friday and holiday sale scout that verifies real prices before it pings you.",
+  "description": "Watches the categories, brands and items you care about, checks the real price on the store page, and only messages you when a deal is worth acting on.",
+  "category": "money",
+  "url": "https://x.ai/bot/jnAhcm2OXGRNzDKZG6s62",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://x.com/nima_owji/status/2124856242027831663"
  }
 ]
