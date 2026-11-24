@@ -144299,5 +144299,215 @@
   "addedAt": "2026-11-24",
   "status": "published",
   "source": "https://x.com/nima_owji/status/2124856242027831663"
+ },
+ {
+  "slug": "x-creator-payout-coach",
+  "name": "X Creator Payout Coach",
+  "builder": {
+   "name": "George V D",
+   "x": ""
+  },
+  "tagline": "Plans original posts and tracks your progress toward X creator payouts, inside the platform rules.",
+  "description": "Coaches an X account's growth with original post ideas, a plan aimed at creator payouts, and progress tracking along the way. Keeps every suggested tactic inside X's own rules instead of growth-hack shortcuts.",
+  "category": "creative",
+  "url": "https://x.ai/bot/B6OwrMVnaAylykrFfaeTI",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "graphic-designer",
+  "name": "Graphic Designer",
+  "builder": {
+   "name": "Hamilton",
+   "x": "HamDawg115"
+  },
+  "tagline": "Designs social-ready graphics, from sports stat cards to score and matchup visuals.",
+  "description": "Produces polished graphics for social posts, with a focus on sports stat cards: final scores, season numbers and matchup previews. Hands back finished images ready to attach to a post.",
+  "category": "creative",
+  "url": "https://x.ai/bot/LRXpw4Bgh5lqZAKp5XXpm",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "x-writer-hamdawg115",
+  "name": "X Writer",
+  "builder": {
+   "name": "Hamilton",
+   "x": "HamDawg115"
+  },
+  "tagline": "Drafts X posts, threads and replies in your voice, pairing with a designer bot's graphics.",
+  "description": "Writes X posts, threads and replies in a supplied voice, and pairs the copy with graphics from a designer bot. Everything stays a draft until you say post.",
+  "category": "creative",
+  "url": "https://x.ai/bot/NqKTGqmHwKZkvCH5OBpr-",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "analytical",
+  "name": "Analytical",
+  "builder": {
+   "name": "Hamilton",
+   "x": "HamDawg115"
+  },
+  "tagline": "Breaks stats and data into short, sourced takeaways you can act on.",
+  "description": "Turns stats and datasets into short, sourced explanations, covering sports matchups, personal spending and product comparisons. Aims at plain-language takeaways rather than a wall of numbers.",
+  "category": "research",
+  "url": "https://x.ai/bot/3KMPV4mTKLljJiAOcj_CB",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "site-smoke-check",
+  "name": "Site Smoke Check",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Weekday morning check that each customer-facing site is up and serving a real page.",
+  "description": "Runs a weekday morning check across customer-facing websites: uptime, redirects, TLS validity and whether a page returns real content instead of an empty shell. Sends one short digest that leads with anything down or blank.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/P5DiIMCLxH7BNwRIhaZ8O",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "invoice-intake-desk",
+  "name": "Invoice Intake Desk",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Watches an invoice mailbox and routes each invoice to the right company's Dext inbox.",
+  "description": "Monitors an invoice inbox, works out which company each invoice belongs to, and drafts a forward into that company's Dext account. Aimed at owners running several businesses with separate Dext accounts.",
+  "category": "money",
+  "url": "https://x.ai/bot/TmGgqvCalkbxK8fi2Ex1p",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "homelab-watch",
+  "name": "Homelab Watch",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "One watcher for a small homelab: what is red, since when, the likely impact and who acts.",
+  "description": "Owns monitoring for a small infrastructure estate or homelab. Reports what is failing, since when, the likely impact and who should act, and stays quiet while everything is green.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/88V0Sm36tMxxqVcvZ6vvw",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "fleet-chief-of-staff",
+  "name": "Fleet Chief of Staff",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Governance for several bots: standing orders, approval tiers, one batched daily question list.",
+  "description": "Coordinates a roster of bots: keeps a register of standing orders, enforces approval tiers, keeps a single voice per room, and batches open questions into one daily list. Wakes you only for the topics you say matter.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/t0LIHWMsRc1oQM93ohY48",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "domain-health-steward",
+  "name": "Domain Health Steward",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Onboards each domain's DNS and mail auth, then watches for drift, failures and expiry.",
+  "description": "Walks a domain through setup, covering registrar, nameservers, mail provider, SPF, DKIM, DMARC, MTA-STS, TLS-RPT and BIMI, then keeps it healthy by watching for DNS drift, authentication failures and domain or certificate expiry. Built for people looking after a portfolio of their own or their clients' domains.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/Hqp_i3LoI728TRNtPBQM1",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "alert-burn-down",
+  "name": "Alert Burn-down",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Works a GitHub org's Dependabot, CodeQL and Semgrep backlog, critical and high first.",
+  "description": "Cuts down a GitHub organisation's open security alerts from Dependabot, CodeQL and Semgrep, starting with critical and high severity. Opens scoped fix pull requests and sends a daily digest.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/LsOhuZAivRQonz8__LsI4",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "crm-whip",
+  "name": "CRM Whip",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Finds missing owners, stages and amounts in HubSpot and flags stale leads and deals.",
+  "description": "Audits CRM data, starting with HubSpot: missing owners, stages, amounts and close dates, plus stale leads, deals and tickets. Sends private digests during the week and a scoreboard on Fridays.",
+  "category": "sales",
+  "url": "https://x.ai/bot/F5PKfE61PLD6Prk5HdDvf",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "print-farm-floor",
+  "name": "Print Farm Floor",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Read-only watcher for a small 3D-print farm: failures, stalls, low filament, morning status.",
+  "description": "Watches a small 3D-printing setup without changing anything on it: alerts on failed, stalled, offline or finished prints and low filament, and posts a floor status each morning.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/Tih9bSP2HQJwkUiflx9KW",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "pr-tidy",
+  "name": "PR Tidy",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "Keeps open pull requests moving: failing CI, unanswered reviews, stale drafts, broken stacks.",
+  "description": "Works through a repository's open pull requests, surfacing failing CI, reviews waiting on an answer, stale drafts and broken stacks, and pushes each one toward ready-for-review. It does not merge unless a rule you set allows it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/f80U2VF39XPV_dhT32a5O",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cloudflare-shield",
+  "name": "Cloudflare Shield",
+  "builder": {
+   "name": "Craig Fletcher",
+   "x": ""
+  },
+  "tagline": "WAF desk for Cloudflare sites: spots scrapers and botnets, proposes rules for approval.",
+  "description": "Watches Cloudflare traffic for scrapers, proxy botnets and other abusive patterns, then proposes specific WAF rules, rate limits and IP-list changes for you to approve.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/p8LFM7D89hjXOHZ1fI1F8",
+  "addedAt": "2026-11-24",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
