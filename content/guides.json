@@ -698,12 +698,12 @@
     "body": [
      "This is what the recent 'build your own Grok bot for free' tutorials are demonstrating, usually with an open-source agent framework installed on a Mac mini or a small VPS. The install is one command, and the setup that matters is: one model per bot, a personality file per bot, scheduled jobs, and skills you can add from a URL.",
      "What you get that a platform bot cannot give you: your context and files stay on your machine, you can change models without rebuilding anything, and you can schedule work (a morning briefing, a weekly report, a monitor that runs hourly) instead of waiting for yourself to open a chat window.",
-     "What you give up: nobody hands you an audience. A platform bot can be discovered by strangers; a private agent is a tool for you, not a product. You also maintain it — updates, API keys, and the occasional broken dependency are yours to fix."
+     "What you give up: nobody hands you an audience. A platform bot can be discovered by strangers; a private agent is a tool for you, not a product. You also maintain it - updates, API keys, and the occasional broken dependency are yours to fix."
     ],
     "list": [
      "Cost: software free, model usage billed by your provider (or free with a local model)",
      "Setup time: 30-60 minutes for a working install, longer for the skills you actually use",
-     "Lock-in: none — the config is a text file you can move",
+     "Lock-in: none - the config is a text file you can move",
      "Best for: people who want an operator, not a listing"
     ]
    },
@@ -719,14 +719,14 @@
     "heading": "Option 3: ChatGPT GPTs and Meta's bots",
     "body": [
      "Same shape as option 2 with a different landlord. GPTs are easy to build and easy to distribute to ChatGPT users; Meta's assistants reach a social graph. Neither lets you pick the underlying model, and neither gives you a way to take your instructions and your history somewhere else later.",
-     "Choose these when the audience matters more than the engine — a customer-facing helper living where your customers already are. Don't choose them as your personal operating system."
+     "Choose these when the audience matters more than the engine - a customer-facing helper living where your customers already are. Don't choose them as your personal operating system."
     ]
    },
    {
     "heading": "The honest cost comparison",
     "body": [
      "Subscriptions are flat and predictable: one monthly fee, unlimited-ish use, no surprises, no ownership. API-backed agents are variable: a light month can cost less than a subscription, a heavy month can cost several times more, and you see every token in a dashboard.",
-     "The variable model only wins if you actually tune it — a fast, cheap model for research and drafting, an expensive one only where reasoning quality changes the outcome. The video's best advice is buried in the middle: assign the right model to the right job instead of running everything on the biggest one.",
+     "The variable model only wins if you actually tune it - a fast, cheap model for research and drafting, an expensive one only where reasoning quality changes the outcome. The video's best advice is buried in the middle: assign the right model to the right job instead of running everything on the biggest one.",
      "And the thing no model choice fixes: authority. A directory or a bot with no links and no history doesn't rank, no matter which engine it runs on."
     ]
    },
@@ -734,8 +734,8 @@
     "heading": "How to switch in an afternoon",
     "body": [
      "You don't have to abandon platform bots to test the alternative. Run both for two weeks and compare on the work you actually do, not on the demo.",
-     "Step 1: install the agent on a machine that stays on (a small VPS is enough). Step 2: pick one recurring job you currently do by hand — a morning summary, a weekly research pass, a monitor for a page that matters. Step 3: give that job its own bot with its own model and its own instructions file. Step 4: schedule it. Step 5: after a week, ask whether it saved more time than it cost in tokens. If it did, add the next job.",
-     "The reason to move slowly is that a personal agent compounds: every skill you add is available to every bot you run later. The reason not to move at all is equally valid — if a platform bot already does the one thing you need, you don't have a problem to solve."
+     "Step 1: install the agent on a machine that stays on (a small VPS is enough). Step 2: pick one recurring job you currently do by hand - a morning summary, a weekly research pass, a monitor for a page that matters. Step 3: give that job its own bot with its own model and its own instructions file. Step 4: schedule it. Step 5: after a week, ask whether it saved more time than it cost in tokens. If it did, add the next job.",
+     "The reason to move slowly is that a personal agent compounds: every skill you add is available to every bot you run later. The reason not to move at all is equally valid - if a platform bot already does the one thing you need, you don't have a problem to solve."
     ],
     "list": [
      "Week 1: one job, one bot, one schedule",
