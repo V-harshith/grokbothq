@@ -146232,5 +146232,125 @@
   "addedAt": "2026-11-25",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "content-refresh-editor",
+  "name": "Content Refresh Editor",
+  "builder": {
+   "name": "Brian Dreyer",
+   "x": "BrianDreyer"
+  },
+  "tagline": "Finds pages slipping in Google and rewrites them, draft first, no auto publish.",
+  "description": "Reads your own Search Console data to find pages that are slipping in Google or stuck on page 2, then rewrites each one for search and AI answers in your voice and posts the full draft in chat. It tracks every refresh and reports before and after results, and nothing publishes without your OK.",
+  "category": "sales",
+  "url": "https://x.ai/bot/NOkql0WITrXR9k1TSb-Ki",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "christimus-prime",
+  "name": "Christimus Prime",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": ""
+  },
+  "tagline": "Keeps your Christmas gift list, finds deals with real links, tracks orders.",
+  "description": "A Christmas gift helper that keeps the list on a page, suggests presents with real links and current deal prices, and tracks orders and shipping cutoffs so nothing arrives late. It only shops with your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/n0nQDbkAufpTFQZ_g0mbm",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "jeeves-personal-gift-concierge",
+  "name": "Jeeves | Personal Gift Concierge",
+  "builder": {
+   "name": "mtb",
+   "x": ""
+  },
+  "tagline": "Plans, sources and tracks gifts; checkout only with your approval.",
+  "description": "A quiet gift valet: plans, sources, compares and tracks presents for the people on your list. Research runs by default, and checkout help stays opt in with you approving each order.",
+  "category": "life",
+  "url": "https://x.ai/bot/98TDTQ1Uytnsjo2Q-i4AO",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "openseo-desk",
+  "name": "OpenSEO Desk",
+  "builder": {
+   "name": "Lucas K",
+   "x": "Livvux"
+  },
+  "tagline": "Runs keyword research, audits and backlink checks on your own OpenSEO account.",
+  "description": "An unofficial community bot that works your own OpenSEO account or self hosted instance: keyword research, site audits, competitor checks, backlinks, local SEO and weekly check ins. It quotes the cost of a paid lookup before running one.",
+  "category": "sales",
+  "url": "https://x.ai/bot/4cVRlI3Oymfi7RfAMl78y",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "merlin",
+  "name": "Merlin",
+  "builder": {
+   "name": "Joseph Gaither",
+   "x": ""
+  },
+  "tagline": "Queues heavy coding and research jobs on your own SuperGrok plan, with receipts.",
+  "description": "For SuperGrok subscribers who pay for the plan and barely use it. Merlin queues bigger coding, research and drafting jobs on your own plan through xAI's official Grok Build CLI, then checks each result and files it with receipts so your Grok Bot usage stays low.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/LkFNGzvzWsNTyGy0uEwTs",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "customer-care-for-small-start-up",
+  "name": "Customer care for small start-up",
+  "builder": {
+   "name": "News Huginn",
+   "x": ""
+  },
+  "tagline": "Drafts post purchase replies for a young business; you approve every send.",
+  "description": "Post purchase support for a young business: drafts every customer reply for the owner to approve, keeps an FAQ and a customer log, and hands anything unusual to the owner instead of guessing.",
+  "category": "sales",
+  "url": "https://x.ai/bot/zLuziSsm1gurXvrXUPFf6",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "part-time-scout",
+  "name": "Part-time Scout",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": "tonthat_baotoan"
+  },
+  "tagline": "Finds part time work that fits a student's timetable and vets each employer.",
+  "description": "Finds part time jobs and internships that fit a student's class timetable, then checks each employer is real, legal and fair using registries, reviews, scam signals, local minimum wage and hour limits. It helps with CVs, study work schedules, contract reading and turning down bad offers, and works in any country.",
+  "category": "life",
+  "url": "https://x.ai/bot/CPpp-FD-AZnAGOtZCEbeH",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "account-lockdown",
+  "name": "Account Lockdown",
+  "builder": {
+   "name": "Ben",
+   "x": ""
+  },
+  "tagline": "Checks breach exposure, then walks you through locking down your accounts.",
+  "description": "Checks whether your email appears in a data breach, what leaked and what to do next, then walks you through locking down key accounts one step at a time. It also handles recovery if you have been hacked and can re check every month. It never asks for passwords or codes.",
+  "category": "life",
+  "url": "https://x.ai/bot/q5QlZupvzd-TgVg6wTyjl",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
