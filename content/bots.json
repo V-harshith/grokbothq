@@ -146352,5 +146352,335 @@
   "addedAt": "2026-11-25",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "three-futures",
+  "name": "Three Futures",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": ""
+  },
+  "tagline": "Shows the best, worst and most likely outcome before a product decision.",
+  "description": "Before you launch, change prices, switch sales channel, expand or add a feature, it lays out the best case, the worst case and the most likely case. Each one is anchored to a real product story with a link and a date, and it says plainly when the evidence is thin instead of inventing numbers. Nothing is acted on without your approval.",
+  "category": "research",
+  "url": "https://x.ai/bot/R2YE5BaJfFiq4rVXIBkFu",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "weekly-tarot",
+  "name": "Weekly Tarot",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": ""
+  },
+  "tagline": "One three card tarot reading a week, kept to reflection rather than prediction.",
+  "description": "Draws a three card Rider Waite spread once a week covering the past week, this week and advice, with a genuinely random draw and a card image. Readings stay in the territory of entertainment and self reflection, and it declines health, money, legal and life and death predictions.",
+  "category": "life",
+  "url": "https://x.ai/bot/JAhoF_EALeYAISB1OlXem",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "vet-resource-locator",
+  "name": "Vet Resource Locator",
+  "builder": {
+   "name": "VeteranPrepper",
+   "x": ""
+  },
+  "tagline": "Finds the nearest VA clinic, service officer, food pantry and housing help from a ZIP.",
+  "description": "Give it a ZIP code and it returns the closest VA clinic, Vet Center, Veteran Service Officer, food pantry and emergency housing options, with phone numbers, addresses and opening hours. Built for veterans and their families who need help finding support fast.",
+  "category": "life",
+  "url": "https://x.ai/bot/Xa3YvFBzmCfo9EaiBms5L",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "automation-scout",
+  "name": "Automation Scout",
+  "builder": {
+   "name": "Justin Fredette",
+   "x": "justinfredette"
+  },
+  "tagline": "Takes one chore and finds the cheapest way to automate it, sources linked.",
+  "description": "You name one recurring chore and it researches how people actually automate it, then walks you through the cheapest route that works, including the cases where a script or a general assistant beats a dedicated bot. Where no connector exists it proposes a workaround such as an IMAP script, an MCP server or an app password. Nothing installs or charges without your yes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/sg_HQftSwTnaSRazjSax6",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "x-engagement-helper",
+  "name": "X Engagement Helper",
+  "builder": {
+   "name": "VeteranPrepper",
+   "x": ""
+  },
+  "tagline": "A daily shortlist of posts worth engaging with, replies drafted in your voice.",
+  "description": "Each day it picks a handful of posts from accounts you follow that are worth a like, repost or reply, and drafts replies that sound like you. You tap every action yourself, so the account stays in your hands and nothing posts automatically.",
+  "category": "sales",
+  "url": "https://x.ai/bot/rg_wKvCztPlktXIWnp_pJ",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "feng-shui-master",
+  "name": "Feng Shui Master",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": ""
+  },
+  "tagline": "Property check before you buy or rent: sourced facts plus a traditional reading.",
+  "description": "Reviews a house, flat or plot before you buy, rent or invest, anywhere in the world. It pairs a traditional feng shui reading with sourced detail on hazards, safety history, planning, amenities, prices and local living costs, then scores the property on a one to five table with an explainer map.",
+  "category": "life",
+  "url": "https://x.ai/bot/BKH84x-9kp18pfnWtIGh9",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "plan-picker",
+  "name": "Plan Picker",
+  "builder": {
+   "name": "Justin Fredette",
+   "x": "justinfredette"
+  },
+  "tagline": "Works out which Grok Bot plan is cheapest for how you actually use it.",
+  "description": "Reads your real usage and today's prices, then shows the arithmetic behind the cheapest Grok Bot plan for your level. It stops at a recommendation and never buys, upgrades or cancels a plan without your approval.",
+  "category": "money",
+  "url": "https://x.ai/bot/RpL2QSD_bSWyvauPX7bkG",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "template-launch-desk",
+  "name": "Template Launch Desk",
+  "builder": {
+   "name": "Justin Fredette",
+   "x": "justinfredette"
+  },
+  "tagline": "Turns a bot you built into a published template and a launch post.",
+  "description": "Packages a bot into a template people can find and install: it inspects the configuration for private detail, writes the listing and the launch post, and leaves every Publish, Submit and post step for you to run yourself.",
+  "category": "sales",
+  "url": "https://x.ai/bot/VKQd-ddxR0C1B0aVGvZZI",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "stack-fit-check",
+  "name": "Stack Fit Check",
+  "builder": {
+   "name": "Justin Fredette",
+   "x": "justinfredette"
+  },
+  "tagline": "Sorts your jobs between Grok Bot and Claude or ChatGPT, then starts the best fit.",
+  "description": "Takes the work on your list and decides which jobs belong in Grok Bot and which are better served by Claude or ChatGPT, citing the official docs it checked that day. It then starts the task Grok Bot handles best, and sets up, buys or cancels nothing without your yes.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/FKtCaVYWIC7bUwERRkbqX",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "story-of-america",
+  "name": "Story of America",
+  "builder": {
+   "name": "John Bianchi",
+   "x": ""
+  },
+  "tagline": "Ten minute bedtime readings that walk the family through American history.",
+  "description": "A read aloud history programme for families: fifty short tales of heroes first, then the Viking voyages through 1917, taken word for word from classic children's books. Each session closes with a question or two, and a library card page tracks the family timeline, minutes read and skills practised. Notes for grown ups flag dated or one sided passages and frightening scenes, and the hardest chapters can be skipped with a one line summary.",
+  "category": "life",
+  "url": "https://x.ai/bot/xkJs5oOBYvS1yMpIlFvwa",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "100-years-ago-today",
+  "name": "100 Years Ago Today",
+  "builder": {
+   "name": "John Bianchi",
+   "x": ""
+  },
+  "tagline": "A real newspaper front page from exactly a century ago, every morning.",
+  "description": "Pulls the front page of an American newspaper from this date one hundred years ago out of the Library of Congress archive. It walks you through the headlines, what to spot on the page, a then and now fact with its source and a question to discuss, and keeps a scrapbook of every page seen. Family mode keeps the framing suitable for children.",
+  "category": "life",
+  "url": "https://x.ai/bot/5QXnAseS4QUrUnawaXEei",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "citizenship-civics-coach",
+  "name": "Citizenship Civics Coach",
+  "builder": {
+   "name": "John Bianchi",
+   "x": ""
+  },
+  "tagline": "US civics test practice in a few minutes a day, with weekly mock tests.",
+  "description": "Drills the official USCIS civics questions for either the 2025 or the 2008 test using spaced repetition, runs a weekly mock test in the official format and charts readiness on its own page. Answers that change with elections, such as your senators or governor, are pulled live from official sources. Study aid only, not legal advice.",
+  "category": "life",
+  "url": "https://x.ai/bot/84FqrmosTNnY-z_T2pbJ_",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "find-your-unclaimed-money",
+  "name": "Find Your Unclaimed Money",
+  "builder": {
+   "name": "Karata De Mada",
+   "x": ""
+  },
+  "tagline": "Searches free official databases for money held in your name.",
+  "description": "Looks for money held in your name across free government databases, covering dormant accounts, forgotten policies, pensions and refunds. It returns a checklist of the official sites worth trying, helps prepare a claim and flags common scams. You never type ID or bank details into it.",
+  "category": "money",
+  "url": "https://x.ai/bot/vH2CaMVcgUNHMJZTfR-Hz",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "tiny-steps",
+  "name": "Tiny Steps",
+  "builder": {
+   "name": "Justin Velasquez",
+   "x": "juswilvel"
+  },
+  "tagline": "Turns an overwhelming task into one small doable next step.",
+  "description": "An executive function coach for the moment when starting is the hard part. It takes a messy task, decision or awkward message and breaks it into small concrete steps, then works through them with you without assuming the energy or focus is there.",
+  "category": "life",
+  "url": "https://x.ai/bot/xn5Onjegvv_qbhqpkmZLX",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "recall-tutor",
+  "name": "Recall Tutor",
+  "builder": {
+   "name": "Justin Velasquez",
+   "x": "juswilvel"
+  },
+  "tagline": "Turns your notes into flashcards, then quizzes you on a spaced schedule.",
+  "description": "Turns notes and course material into flashcards, quizzes you with active recall instead of rereading, and schedules reviews with spaced repetition. It also builds a study plan around the time available before an exam.",
+  "category": "life",
+  "url": "https://x.ai/bot/SKMra8cMtIJXbK2uPMCF1",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "today-and-done",
+  "name": "Today & Done",
+  "builder": {
+   "name": "Justin Velasquez",
+   "x": "juswilvel"
+  },
+  "tagline": "Plain language task capture, realistic day plans and honest habit streaks.",
+  "description": "Captures tasks the way you would say them out loud, then shapes a day plan you can actually finish rather than a wish list. Habits and streaks are tracked accurately and reminders only fire once you opt in.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/9QcTLvNIAXkG2nPhn06do",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "carpentry-planner",
+  "name": "Carpentry Planner",
+  "builder": {
+   "name": "Zego",
+   "x": "Zego67"
+  },
+  "tagline": "Turns a woodworking idea into a cut list, diagrams and a joinery plan.",
+  "description": "Describe the piece, whether a mantel, shelves, furniture or a built in, and it returns a buildable plan: the maths shown, a cut list, diagrams, a joinery map and sourced safety checks. Aimed at homeowners and hobby woodworkers rather than production shops.",
+  "category": "life",
+  "url": "https://x.ai/bot/pXJyXBJDlOrAUTFrrkwK3",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "pitstop-tune-up",
+  "name": "Pitstop",
+  "builder": {
+   "name": "Kyle R",
+   "x": "thecyberseckyle"
+  },
+  "tagline": "Read only computer tune up that only changes things after you agree.",
+  "description": "Checks a connected computer without changing anything, shows with real numbers why it is slow, then proposes specific fixes such as quitting apps, clearing caches and temp files or trimming startup items. Each change waits for your approval before it runs.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/I9OqlpORjmS7GNnK8XOBM",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "fathomed-landscape-estimator",
+  "name": "Fathomed Landscape Estimator",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Turns measured beds and lawns into a priced landscape quote.",
+  "description": "Takes measured beds and lawn areas and converts them into buy quantities for mulch, sod, seed, plants and edging, then prices those plus labour from your own rates. Every calculation is shown so the contractor can check it before it goes out.",
+  "category": "sales",
+  "url": "https://x.ai/bot/bfMSE8AWckU2SWyETgOLJ",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "fathomed-metal-roofing-estimator",
+  "name": "Fathomed Metal Roofing Estimator",
+  "builder": {
+   "name": "CompanyFramework",
+   "x": ""
+  },
+  "tagline": "Facet by facet metal roofing takeoff with trim, accessories and labour.",
+  "description": "Builds a metal roofing takeoff panel by panel from confirmed drawings and schedules, adding trim, accessories and labour as it goes. Built for contractors who need a quote they can defend line by line.",
+  "category": "sales",
+  "url": "https://x.ai/bot/mNpo6U9KH9v-UWJlaxF1-",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "day-manager",
+  "name": "Day Manager",
+  "builder": {
+   "name": "Golam Kabir",
+   "x": "golamkabir"
+  },
+  "tagline": "A full week timetable across sleep, meals, work, exercise and family.",
+  "description": "Builds a day by day routine covering sleep, meals, work, exercise, family time and optional practice, laid over the whole week rather than one morning. During the day it tells you what belongs in the current block, with optional alerts when something starts.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/Qc39yAEiXE0qQxiTMJm53",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "co-parenting-assistant",
+  "name": "Co-Parenting Assistant",
+  "builder": {
+   "name": "Stacie",
+   "x": ""
+  },
+  "tagline": "Runs the co-parenting app, calendar and payments so you argue less.",
+  "description": "Handles the logistics side of co-parenting: messages in the parenting app, the shared calendar, and child support or other payments. It filters routine noise and only interrupts you when something is genuinely urgent.",
+  "category": "life",
+  "url": "https://x.ai/bot/hLhTK3Qy8QMvh3tcYp2pC",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
