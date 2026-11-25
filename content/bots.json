@@ -145107,5 +145107,350 @@
   "addedAt": "2026-11-25",
   "status": "published",
   "source": "https://x.com/sne_hil/status/2125167956883890562"
+ },
+ {
+  "slug": "streamer-tutor",
+  "name": "Streamer Tutor",
+  "builder": {
+   "name": "American",
+   "x": "1776_13"
+  },
+  "tagline": "Coaches a first livestream on X: setup, stream ideas, titles and a schedule you can keep.",
+  "description": "Walks through going live on X, from setup and stream ideas to titles and a run of show. Reviews each stream afterwards and builds a weekly schedule around the time you actually have.",
+  "category": "creative",
+  "url": "https://x.ai/bot/mPae1lOFYT8UkEXmf962k",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "front-door-website-watch",
+  "name": "Front Door · Website Watch",
+  "builder": {
+   "name": "Magnus Kofod",
+   "x": ""
+  },
+  "tagline": "Daily website watch: uptime, SSL, contact path, broken links and listing details.",
+  "description": "Checks a site every day for the things customers hit first: uptime, SSL, the contact and booking flow, broken links, and whether the name, phone and hours match public listings. Alerts only on something newly broken, with evidence and a draft fix; changes nothing without approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/mfb4atk-NNa2eW89rUdr6",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "field-researcher",
+  "name": "Field Researcher",
+  "builder": {
+   "name": "Omi",
+   "x": "0mi202"
+  },
+  "tagline": "Researches the employer behind a job posting and writes a short brief for your application.",
+  "description": "Reads a job posting, digs into the employer, and returns a short brief you can use for a resume or cover letter, in your language and country. Deliberately does not write the letters or apply.",
+  "category": "research",
+  "url": "https://x.ai/bot/qBm9jB5GMTEK7IU6tdPm5",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "apply-runner",
+  "name": "Apply Runner",
+  "builder": {
+   "name": "Omi",
+   "x": "0mi202"
+  },
+  "tagline": "Submits job applications on job boards and employer sites, logging each with proof.",
+  "description": "Files job applications through job boards and company career pages, then logs every submission with proof of what was sent. Waits for your go by default or submits after an approval step passes; never pays fees and never invents an answer.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/X91pWM9LVuQgRD_kNrVvr",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "fine-print-personal-shopper",
+  "name": "Fine Print · Personal Shopper",
+  "builder": {
+   "name": "Mari and her Bots",
+   "x": "Mariandherbots"
+  },
+  "tagline": "Compares products, preps the cart and tracks orders and returns, buying only with your yes.",
+  "description": "Compares items on price and terms, sets up the cart, and follows orders and returns through to the end. It reads return policies closely and never completes a purchase without your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/8o-npo4eW59WcGkaRVASz",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "i-know-a-guy-concierge",
+  "name": "I Know a Guy · Concierge",
+  "builder": {
+   "name": "Mari and her Bots",
+   "x": "Mariandherbots"
+  },
+  "tagline": "Finds restaurants, shows and same-day outings and holds the booking until you confirm.",
+  "description": "Searches for restaurants, shows and same-day plans that fit your calendar and budget, then holds the booking for a yes. Written as a concierge with opinions rather than a list of options.",
+  "category": "life",
+  "url": "https://x.ai/bot/Lyhv7fbPZtDU7m5cqWhcu",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "news-grok-bot-watch",
+  "name": "News",
+  "builder": {
+   "name": "Alex",
+   "x": "alexmichael"
+  },
+  "tagline": "Checks a curated Grok Bot news feed on your schedule and pings only on what is new.",
+  "description": "Watches a curated feed of Grok Bot news on the schedule you set and pings you about new features, apps, guides and changes. Anything you mute stays out of the digest.",
+  "category": "research",
+  "url": "https://x.ai/bot/e_1CgMPmR6NvKiAoK-Mg3",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "housefile",
+  "name": "Housefile",
+  "builder": {
+   "name": "Sam E",
+   "x": "SamE1311025"
+  },
+  "tagline": "Keeps a private home file of appliances, warranties and repairs, and flags what is due.",
+  "description": "Builds a private record of appliances, warranties and repairs from receipt emails, photos or notes. Each week it lists what needs attention and stays quiet when nothing does; HOA questions are answered only from documents you upload, and drafts are left for you to send.",
+  "category": "life",
+  "url": "https://x.ai/bot/sFIYok3zXVRtAZAcdAi5I",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "phish-check",
+  "name": "Phish Check",
+  "builder": {
+   "name": "Ben Monroe",
+   "x": ""
+  },
+  "tagline": "Checks a suspicious email, text or link and explains the red flags in plain English.",
+  "description": "Takes a suspicious email, text, DM, link or phone-call description and returns a verdict, the specific red flags, what to do right now, and how to verify with the real company. Never opens the link, never asks for passwords or codes, needs no logins.",
+  "category": "life",
+  "url": "https://x.ai/bot/DSdWo4JTuKvlGzAT3d-QT",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "co-founder-b3v0",
+  "name": "Co-founder",
+  "builder": {
+   "name": "Ben Monroe",
+   "x": ""
+  },
+  "tagline": "Stress-tests a creator or side-hustle idea and ends with a verdict and one next step.",
+  "description": "An honest thinking partner for creators and side hustlers, covering ideas from games and videos to offers and apps. Pushes on the weak parts, then closes with a clear verdict and a single next step.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/HpWbnqX45BxXowZwDd-Tq",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "crmown-website-fix",
+  "name": "CRMown · Website Fix & CRM Helper",
+  "builder": {
+   "name": "CRM OWN",
+   "x": ""
+  },
+  "tagline": "Audits a small-business website and returns prioritised fixes with no invented metrics.",
+  "description": "Runs a free website audit for a small-business site and sorts findings into P0, P1 and P2 fixes, each backed by evidence rather than made-up numbers. CRMown customers can connect their account for contacts, leads, follow-up drafts and support tickets.",
+  "category": "sales",
+  "url": "https://x.ai/bot/MCeEL29ELoMJfA4WEWgxb",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "sentry-personal-security",
+  "name": "Sentry · Personal Security",
+  "builder": {
+   "name": "Jonathan Miller",
+   "x": ""
+  },
+  "tagline": "Removes your phone and address from people-search sites and watches for breaches.",
+  "description": "Works through personal exposure: removes phone and address from people-search sites, watches for breaches, risky account recovery, open shared links and forgotten saved cards, and runs a quiet weekly sweep. Anything risky waits for your approval first.",
+  "category": "life",
+  "url": "https://x.ai/bot/_Ny1QY87YD3_EYyzWWx1j",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "specter",
+  "name": "Specter",
+  "builder": {
+   "name": "Kyle R",
+   "x": "thecyberseckyle"
+  },
+  "tagline": "Shows what the public internet knows about you, the way an attacker would look.",
+  "description": "Runs a personal recon pass: usernames, breached emails, phone lookups, data-broker listings and reused photos. Reports findings worst first and changes nothing until you say yes.",
+  "category": "life",
+  "url": "https://x.ai/bot/ichcG6YbondmMKBgU-tJQ",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cloak",
+  "name": "Cloak",
+  "builder": {
+   "name": "Kyle R",
+   "x": "thecyberseckyle"
+  },
+  "tagline": "Audits app permissions, saved cards and shared links, then files data-broker opt-outs.",
+  "description": "Checks app permissions, saved payment cards, shared links and people-search listings, then files data-broker opt-outs to cut spam calls. Reports first and changes nothing without your approval.",
+  "category": "life",
+  "url": "https://x.ai/bot/0LoyL09XsD_MB8FLPzM0U",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "war-dog-bot",
+  "name": "War Dog Bot",
+  "builder": {
+   "name": "Marshall Frith",
+   "x": "marshallfrith"
+  },
+  "tagline": "Finds defence research solicitations that fit a small business and drafts the response.",
+  "description": "Tracks SBIR/STTR, DIU and other defence research solicitations that match a small business, maps the agency, teammates and clearance sponsors, and finds the relevant Congressional delegation. Drafts briefs, schedules, work breakdowns and formatted proposal responses; never submits or contacts anyone without approval.",
+  "category": "money",
+  "url": "https://x.ai/bot/1_nQONTWydNCAGS5vJcqa",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "theologian",
+  "name": "Theologian",
+  "builder": {
+   "name": "Kyle Bradberry",
+   "x": "Berry_Creativ"
+  },
+  "tagline": "A cited Christian theology expert built on the New Testament, the Catechism and the classics.",
+  "description": "Answers theology questions with citations checked against their sources, drawing on the New Testament, the Catechism of the Catholic Church, Aquinas, Augustine, the creeds and the great councils. Treats Orthodox and Protestant positions fairly, refuses to invent a verse, and can give a bot team a values layer or a cited answer key to train against.",
+  "category": "life",
+  "url": "https://x.ai/bot/p76VKEpij6AhS8N68ZHSm",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "solution-architect",
+  "name": "Solution Architect",
+  "builder": {
+   "name": "Mohd Noor Shuhailey Abdul Majid",
+   "x": ""
+  },
+  "tagline": "Principal-level architecture advice on systems, cloud, data and security decisions.",
+  "description": "Acts as a principal solution architect for enterprise architecture work: system design, software engineering, cloud, AI, cybersecurity, data architecture and digital transformation. Answers aim at practical, secure, scalable designs rather than generic best-practice lists.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/gqeXkcaRP2aKKa2hP6pJ4",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ultimate-chief-of-staff",
+  "name": "The Ultimate Chief of Staff",
+  "builder": {
+   "name": "Kyle Bradberry",
+   "x": "Berry_Creativ"
+  },
+  "tagline": "Keeps a bot team on your rules with a decision log, scorecard and one daily digest.",
+  "description": "Sits above a bot team: enforces your rules, checks deliverables before calling them done, keeps a decision log and a weekly scorecard, and sends one quiet daily digest. Built for founders and small businesses running several bots at once.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/QQXU929OLsPH9LXVYCl3J",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ultimate-ceo",
+  "name": "The Ultimate CEO, Your Right-Hand Bot",
+  "builder": {
+   "name": "Kyle Bradberry",
+   "x": "Berry_Creativ"
+  },
+  "tagline": "Runs a multi-bot company as departments, with daily operations and tracked spend.",
+  "description": "Leads a team of bots as accountable departments, runs daily operations without being prompted, tracks where money goes, and keeps the work pointed at measurable results. Written from running a real multi-bot company.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/QIB7LGRmaAYTmginRtr3z",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ultimate-personal-assistant",
+  "name": "The Ultimate Personal Assistant",
+  "builder": {
+   "name": "Kyle Bradberry",
+   "x": "Berry_Creativ"
+  },
+  "tagline": "Takes life admin: data-broker scrubbing, purchase quotes, bills, appointments and travel.",
+  "description": "Handles the admin side of life: removing personal details from people-search sites, collecting real written quotes on big purchases, and covering bills, appointments, travel and reminders. Does the work itself and checks in only when a decision is genuinely yours.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/Z2ArNi8m-Ws-Nky3Zjde6",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "forge-self-improving-ai-engineer",
+  "name": "Forge: The Ultimate Self-Improving AI Engineer",
+  "builder": {
+   "name": "Kyle Bradberry",
+   "x": "Berry_Creativ"
+  },
+  "tagline": "Improves an AI agent nightly with protected tests, rollback and a tamper-evident log.",
+  "description": "Runs a nightly improvement loop on an existing AI agent with safeguards: protected tests with automatic rollback, test discipline that blocks cheating, a tamper-evident audit log, a lesson loop and staged roadmaps. Ships as ten skills, including a plain-English status log and guided setup.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/NH2qqMeFRrv9j-ePCl2-A",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "osrs-coach",
+  "name": "OSRS Coach",
+  "builder": {
+   "name": "Craig Meyer",
+   "x": "craigm4"
+  },
+  "tagline": "Reads your Old School RuneScape account and says what to do next, checked against the wiki.",
+  "description": "Looks at live stats, quests and diaries in Old School RuneScape and recommends the next move, verified against the OSRS Wiki. Covers mains, ironmen, hardcore and group ironmen.",
+  "category": "life",
+  "url": "https://x.ai/bot/7lq8Y1YM1IOeW3mRthneD",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "holiday-wisdom-keeper",
+  "name": "Holiday Wisdom Keeper",
+  "builder": {
+   "name": "Brian Roemmele",
+   "x": "BrianRoemmele"
+  },
+  "tagline": "Records a grandparent's stories on a phone and turns them into a family booklet PDF.",
+  "description": "Guides a family interview with printable question cards and a consent script, transcribes the voice memo in-session, and lets the speaker correct or strike pages before building a booklet PDF you own. Never publishes, posts or emails the stories.",
+  "category": "life",
+  "url": "https://x.ai/bot/UIBGCblUq98lPt55I4JJN",
+  "addedAt": "2026-11-25",
+  "status": "published",
+  "source": "https://x.com/BrianRoemmele/status/2124926452793778318"
  }
 ]
