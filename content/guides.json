@@ -86,7 +86,7 @@
      },
      {
       "name": "Write the instructions",
-      "text": "Structure: role \u2192 job \u2192 rules \u2192 workflow \u2192 failure mode. Plain English, numbered rules, explicit output format. (Full patterns below.)"
+      "text": "Structure: role → job → rules → workflow → failure mode. Plain English, numbered rules, explicit output format. (Full patterns below.)"
      },
      {
       "name": "Test with three real prompts",
@@ -155,9 +155,9 @@
      "A rule is testable if two people could read the transcript and agree whether it was followed. 'Be concise' fails. 'Replies under 120 words' passes. 'Be friendly' fails. 'One sentence of warmth maximum before the first bullet' passes. Go through your instructions and replace every adjective with a number or a structure."
     ],
     "list": [
-     "'Be concise' \u2192 'Under 90 words, always.'",
-     "'Use a friendly tone' \u2192 'First line: one warm sentence. Then bullets.'",
-     "'Give good advice' \u2192 'Always commit to a call, then give the reasoning. Never say it depends without picking anyway.'"
+     "'Be concise' → 'Under 90 words, always.'",
+     "'Use a friendly tone' → 'First line: one warm sentence. Then bullets.'",
+     "'Give good advice' → 'Always commit to a call, then give the reasoning. Never say it depends without picking anyway.'"
     ]
    },
    {
@@ -211,7 +211,7 @@
    {
     "heading": "Step 3: list in the places people look",
     "body": [
-     "Directories are where intent lives - someone browsing a bot directory is pre-qualified. Submit to GrokBot HQ (free, hand-reviewed in ~48 hours; a featured slot is available if you want the top of the page). Fill out the listing properly: one-sentence pitch, the core of your instructions, and an honest 'you'll like this if\u2026'."
+     "Directories are where intent lives - someone browsing a bot directory is pre-qualified. Submit to GrokBot HQ (free, hand-reviewed in ~48 hours; a featured slot is available if you want the top of the page). Fill out the listing properly: one-sentence pitch, the core of your instructions, and an honest 'you'll like this if…'."
     ]
    },
    {
@@ -223,7 +223,7 @@
    {
     "heading": "Step 5: iterate in public",
     "body": [
-     "Version your improvements and say so: 'v2 - now ranks claims by payout \u00f7 effort.' People who tried v1 come back, and the update itself is content. Track which of your posts actually drive opens (x.ai shows usage), and make more of that kind."
+     "Version your improvements and say so: 'v2 - now ranks claims by payout ÷ effort.' People who tried v1 come back, and the update itself is content. Track which of your posts actually drive opens (x.ai shows usage), and make more of that kind."
     ]
    }
   ]
@@ -280,23 +280,23 @@
    "power-user",
    "workflows"
   ],
-  "quickAnswer": "Chaining Grok bots means running them in sequence and pasting each bot's output into the next - no integrations required. The trick is output discipline: design (or choose) bots whose output format is the next bot's input format, like Build \u2192 Review \u2192 Fix in the Ship Desk combo.",
+  "quickAnswer": "Chaining Grok bots means running them in sequence and pasting each bot's output into the next - no integrations required. The trick is output discipline: design (or choose) bots whose output format is the next bot's input format, like Build → Review → Fix in the Ship Desk combo.",
   "intro": "Bots are single-purpose on purpose - which means the real power moves come from chaining them. This guide shows how the pipelines work, why output format is the load-bearing detail, and which combos are worth running daily.",
   "sections": [
    {
     "heading": "The pattern: output discipline",
     "body": [
-     "A chain is: Bot A's output \u2192 paste into Bot B \u2192 its output \u2192 paste into Bot C. It works when each bot's output is a clean, structured artifact (a verdict, a ranked list, a drafted email) rather than prose. That's why the 'explicit output format' rule matters so much in instruction writing - it's what makes a bot chainable."
+     "A chain is: Bot A's output → paste into Bot B → its output → paste into Bot C. It works when each bot's output is a clean, structured artifact (a verdict, a ranked list, a drafted email) rather than prose. That's why the 'explicit output format' rule matters so much in instruction writing - it's what makes a bot chainable."
     ]
    },
    {
-    "heading": "Proven pipeline: Ship Desk (build \u2192 review \u2192 fix)",
+    "heading": "Proven pipeline: Ship Desk (build → review → fix)",
     "body": [
-     "Scaffold with Grimoire during the day. Before logging off, paste the day's diffs into PR Desk - it returns correctness-first review comments with a ship/no-ship verdict. Feed accepted fixes to Agent Looper, which runs implement \u2192 test \u2192 fix loops and writes the changelog. Morning you reviews the diff summaries instead of starting from scratch."
+     "Scaffold with Grimoire during the day. Before logging off, paste the day's diffs into PR Desk - it returns correctness-first review comments with a ship/no-ship verdict. Feed accepted fixes to Agent Looper, which runs implement → test → fix loops and writes the changelog. Morning you reviews the diff summaries instead of starting from scratch."
     ]
    },
    {
-    "heading": "Proven pipeline: Research Desk (brief \u2192 deep \u2192 verify)",
+    "heading": "Proven pipeline: Research Desk (brief → deep → verify)",
     "body": [
      "Deep Research Intern returns a cited brief on your open question. Hand the most important source to Paper Explainer for the five-paragraph claim/method/results/limits treatment. Before anything goes in front of stakeholders, Fact Checker scores each claim and flags the one most likely to embarrass you. Three bots, twenty minutes, receipts at every step."
     ]
@@ -422,12 +422,12 @@
    "grok"
   ],
   "quickAnswer": "Grok is a family of large language models built by xAI. You can use it at grok.com, in the iOS and Android apps, or inside X, and developers can reach the same models through the xAI API. It answers questions, writes and reviews code, and can search the web or X when you turn those tools on.",
-  "intro": "Grok is the model; Grok bots are what people build on top of it. That distinction is the source of most of the confusion, so this guide starts with the model itself \u2014 what it is, where you use it, and what it can and cannot do \u2014 before connecting it back to the bots in this directory.",
+  "intro": "Grok is the model; Grok bots are what people build on top of it. That distinction is the source of most of the confusion, so this guide starts with the model itself — what it is, where you use it, and what it can and cannot do — before connecting it back to the bots in this directory.",
   "sections": [
    {
     "heading": "The one-paragraph definition",
     "body": [
-     "Grok is a family of large language models developed by xAI. It is the assistant you reach at grok.com, in the official iOS and Android apps, and inside X \u2014 the same underlying models, different front doors.",
+     "Grok is a family of large language models developed by xAI. It is the assistant you reach at grok.com, in the official iOS and Android apps, and inside X — the same underlying models, different front doors.",
      "For developers, the xAI API exposes those models programmatically at api.x.ai/v1. The documentation notes the API is compatible with the OpenAI and Anthropic SDKs, so switching from another provider is largely a change of base URL, key and model name."
     ]
    },
@@ -435,7 +435,7 @@
     "heading": "Where you can actually use it",
     "body": [
      "There are four routes, and they are separate products rather than one account with four screens. Grok.com is the standalone assistant. The iOS and Android apps mirror it with the conversations, settings and subscription syncing across platforms once you sign in.",
-     "Grok in X is the third route: fewer features than the standalone app, but tighter integration with X itself \u2014 reading and analysing posts is the point there. The fourth is the xAI API, which is what you use to build something rather than to chat.",
+     "Grok in X is the third route: fewer features than the standalone app, but tighter integration with X itself — reading and analysing posts is the point there. The fourth is the xAI API, which is what you use to build something rather than to chat.",
      "One practical consequence worth knowing: xAI's own documentation states that a purchase on X, such as X Premium, does not affect your service status on the xAI API, and vice versa. They are billed and provisioned separately."
     ]
    },
@@ -443,7 +443,7 @@
     "heading": "The models underneath",
     "body": [
      "Grok is not a single model. xAI's documentation lists a flagship reasoning and coding model, alongside dedicated models and APIs for images, video and voice.",
-     "The flagship at the time of writing is listed with a 500,000-token context window and configurable reasoning \u2014 the reasoning setting is the one that most changes both the quality and the cost of a request.",
+     "The flagship at the time of writing is listed with a 500,000-token context window and configurable reasoning — the reasoning setting is the one that most changes both the quality and the cost of a request.",
      "For anything beyond text, xAI points to separate products: its Imagine API for image generation and editing, and a video API. Treating Grok as a text model with bolt-on media generation is roughly how the documentation describes it."
     ]
    },
@@ -451,7 +451,7 @@
     "heading": "What it cannot do by itself",
     "body": [
      "The most useful limitation to understand: Grok has no knowledge of current events or data beyond what was present in its training data. That is stated plainly in xAI's documentation.",
-     "To get real-time information you enable server-side search tools \u2014 Web Search and X Search. This matters for how you prompt: if you ask about something recent without those tools on, a confident-sounding answer can be built on nothing. Turning them on is the difference between a model recalling and a model looking something up.",
+     "To get real-time information you enable server-side search tools — Web Search and X Search. This matters for how you prompt: if you ask about something recent without those tools on, a confident-sounding answer can be built on nothing. Turning them on is the difference between a model recalling and a model looking something up.",
      "The second limitation is structural rather than technical: a general assistant is not configured for your specific task. That gap is exactly what Grok bots exist to close."
     ]
    },
@@ -459,7 +459,7 @@
     "heading": "How Grok bots fit in",
     "body": [
      "A Grok bot is a saved set of instructions running on top of Grok. The creator writes plain-English instructions defining a persona and its rules, and the result has its own link anyone can open and use immediately.",
-     "So: Grok is the intelligence, and a bot is a reusable configuration of it. If you are asking what Grok is, you probably want the assistant. If you keep re-explaining the same task to it, you want a bot \u2014 and that is what you will find throughout this directory."
+     "So: Grok is the intelligence, and a bot is a reusable configuration of it. If you are asking what Grok is, you probably want the assistant. If you keep re-explaining the same task to it, you want a bot — and that is what you will find throughout this directory."
     ]
    }
   ]
@@ -482,7 +482,7 @@
     "heading": "Getting in",
     "body": [
      "Pick your route first, because they are separate products. Grok.com is the standalone assistant in a browser. The iOS and Android apps give you the same assistant on a phone, with conversations and settings syncing once you sign in.",
-     "Grok in X is the third option \u2014 fewer features than the standalone assistant, but it can read and work with posts on X directly, which the other two cannot do as naturally.",
+     "Grok in X is the third option — fewer features than the standalone assistant, but it can read and work with posts on X directly, which the other two cannot do as naturally.",
      "If you are building rather than chatting, that is the xAI API at api.x.ai/v1 with an API key, not any of the three apps."
     ]
    },
@@ -498,14 +498,14 @@
     "heading": "Prompting it without wasting turns",
     "body": [
      "State the job, the constraints and the output shape in one message. 'Rewrite this for a non-technical reader, keep it under 150 words, no bullet points' gets there in one turn; a vague request gets a generic answer you then have to steer three times.",
-     "Ask for the reasoning separately when you are checking work. If you want to verify an answer, ask it to show the steps or the sources rather than asking 'are you sure' \u2014 the second question invites agreement, not evidence.",
+     "Ask for the reasoning separately when you are checking work. If you want to verify an answer, ask it to show the steps or the sources rather than asking 'are you sure' — the second question invites agreement, not evidence.",
      "And if the answer matters, ask it what would change its mind. It is a fast way to surface the assumption the whole answer rests on."
     ]
    },
    {
     "heading": "When a bot beats plain Grok",
     "body": [
-     "If you find yourself pasting the same preamble into Grok \u2014 the same role, the same rules, the same output format \u2014 you are doing a bot's job manually.",
+     "If you find yourself pasting the same preamble into Grok — the same role, the same rules, the same output format — you are doing a bot's job manually.",
      "A Grok bot is that preamble saved and given a link. The creator defines the persona and the rules once, and anyone opening the link gets the configured assistant instead of a blank prompt. For a repeated task, that is the difference between re-explaining and just working.",
      "Use plain Grok for thinking through something new. Use a bot for the tasks you already know the shape of."
     ]
@@ -667,6 +667,81 @@
     "body": [
      "Before commissioning anything custom, it is worth seeing what people have already published for the job. A directory of working bots is a cheap way to discover that someone solved your problem last month, or that the task is harder than it looked because twelve attempts all stalled in the same place.",
      "The bots list on this site is a good place to start, and the comparison pages cover where published bots beat a full build and where they do not."
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "free-grok-bot-alternatives",
+  "title": "Free Grok Bot Alternatives in 2026: Build Your Own or Stay on the Platform",
+  "seoTitle": "Free Grok Bot Alternatives (2026): Build Your Own Instead",
+  "description": "What 'free' actually means for Grok bots, the three real alternatives (self-hosted agent, xAI bots, ChatGPT GPTs), what each costs you in money and lock-in, and how to switch in an afternoon.",
+  "readingMinutes": 9,
+  "updatedAt": "2026-11-25",
+  "tags": [
+   "alternatives",
+   "guide"
+  ],
+  "quickAnswer": "A self-hosted agent is the closest thing to a free Grok bot: open-source software you run yourself, with any model behind it. It costs an API key (or nothing, with a local model) and about an hour to set up. xAI's own bots stay free to create but only run on xAI's models inside xAI's platform.",
+  "intro": "Every 'free Grok bot' video is selling a different kind of free. One means a free tier on somebody else's platform, another means software you own. They are not the same trade, and the difference only shows up six months later when you want to move your data or change models. Here is what each option actually gives you.",
+  "sections": [
+   {
+    "heading": "Three different things get called \"free\"",
+    "body": [
+     "A bot you create on xAI's platform is free to build and free to run, as long as you stay inside the platform and use the model they attach to it. You don't pay per message; you pay by accepting the terms of someone else's product.",
+     "A self-hosted agent is free software, not free compute. You install it on a machine you control, point it at a model, and it runs on your hardware and your API key. The software costs nothing forever; the model calls cost whatever your provider charges, unless you run a local model and pay only in electricity.",
+     "A GPT or a Meta bot is the same shape as the first option: free to make, locked to the vendor's model and the vendor's distribution."
+    ]
+   },
+   {
+    "heading": "Option 1: self-hosted agent (the one that is actually yours)",
+    "body": [
+     "This is what the recent 'build your own Grok bot for free' tutorials are demonstrating, usually with an open-source agent framework installed on a Mac mini or a small VPS. The install is one command, and the setup that matters is: one model per bot, a personality file per bot, scheduled jobs, and skills you can add from a URL.",
+     "What you get that a platform bot cannot give you: your context and files stay on your machine, you can change models without rebuilding anything, and you can schedule work (a morning briefing, a weekly report, a monitor that runs hourly) instead of waiting for yourself to open a chat window.",
+     "What you give up: nobody hands you an audience. A platform bot can be discovered by strangers; a private agent is a tool for you, not a product. You also maintain it — updates, API keys, and the occasional broken dependency are yours to fix."
+    ],
+    "list": [
+     "Cost: software free, model usage billed by your provider (or free with a local model)",
+     "Setup time: 30-60 minutes for a working install, longer for the skills you actually use",
+     "Lock-in: none — the config is a text file you can move",
+     "Best for: people who want an operator, not a listing"
+    ]
+   },
+   {
+    "heading": "Option 2: bots on xAI's platform",
+    "body": [
+     "Creating a bot at x.ai/bot costs nothing and puts it in front of people who already use Grok. That distribution is the entire value: your instructions get an audience without you building one.",
+     "The trade is that the bot lives inside xAI's product. You don't choose the model, you can't export the conversations, and if the platform changes its rules or its pricing, your bot changes with it. For a hobby bot or a lead magnet, that's a good deal. For anything you depend on daily, it's a dependency.",
+     "If you want this route, the practical path is: one job per bot, instructions written as a spec (role, job, rules, workflow), test it against five real inputs before publishing, then share it. Most bots fail at step one because they try to do everything."
+    ]
+   },
+   {
+    "heading": "Option 3: ChatGPT GPTs and Meta's bots",
+    "body": [
+     "Same shape as option 2 with a different landlord. GPTs are easy to build and easy to distribute to ChatGPT users; Meta's assistants reach a social graph. Neither lets you pick the underlying model, and neither gives you a way to take your instructions and your history somewhere else later.",
+     "Choose these when the audience matters more than the engine — a customer-facing helper living where your customers already are. Don't choose them as your personal operating system."
+    ]
+   },
+   {
+    "heading": "The honest cost comparison",
+    "body": [
+     "Subscriptions are flat and predictable: one monthly fee, unlimited-ish use, no surprises, no ownership. API-backed agents are variable: a light month can cost less than a subscription, a heavy month can cost several times more, and you see every token in a dashboard.",
+     "The variable model only wins if you actually tune it — a fast, cheap model for research and drafting, an expensive one only where reasoning quality changes the outcome. The video's best advice is buried in the middle: assign the right model to the right job instead of running everything on the biggest one.",
+     "And the thing no model choice fixes: authority. A directory or a bot with no links and no history doesn't rank, no matter which engine it runs on."
+    ]
+   },
+   {
+    "heading": "How to switch in an afternoon",
+    "body": [
+     "You don't have to abandon platform bots to test the alternative. Run both for two weeks and compare on the work you actually do, not on the demo.",
+     "Step 1: install the agent on a machine that stays on (a small VPS is enough). Step 2: pick one recurring job you currently do by hand — a morning summary, a weekly research pass, a monitor for a page that matters. Step 3: give that job its own bot with its own model and its own instructions file. Step 4: schedule it. Step 5: after a week, ask whether it saved more time than it cost in tokens. If it did, add the next job.",
+     "The reason to move slowly is that a personal agent compounds: every skill you add is available to every bot you run later. The reason not to move at all is equally valid — if a platform bot already does the one thing you need, you don't have a problem to solve."
+    ],
+    "list": [
+     "Week 1: one job, one bot, one schedule",
+     "Week 2: measure saved time against token spend",
+     "Week 3: add a second job only if the first paid for itself",
+     "Ongoing: keep the instructions file under version control so you can roll back a bad edit"
     ]
    }
   ]
