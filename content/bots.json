@@ -147432,5 +147432,260 @@
   "addedAt": "2026-11-26",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "agents-conversion-optimizer",
+  "name": "Agents Conversion Optimizer",
+  "builder": {
+   "name": "Pierre Baigts",
+   "x": ""
+  },
+  "tagline": "Scores how easily AI agents can find, understand and buy from your site.",
+  "description": "Audits your offer for agent visitors: whether an AI agent can find the page, understand the offer and complete a signup or purchase. Returns an Agent Conversion Score out of 100 in an interactive dashboard, ordered by the fixes worth doing first.",
+  "category": "sales",
+  "features": [
+   "Agent Conversion Score out of 100",
+   "Interactive fix dashboard",
+   "Checks signup and purchase paths"
+  ],
+  "bestFor": [
+   "Agent traffic audits",
+   "Landing page reviews"
+  ],
+  "url": "https://x.ai/bot/QRv11z76csm03QCPnLoOC",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "grog-bot",
+  "name": "Grog Bot",
+  "builder": {
+   "name": "Jan Rosa",
+   "x": ""
+  },
+  "tagline": "A sea-captain product sparring partner that pressure-tests founder ideas.",
+  "description": "Product sparring partner for founders and PMs, played as a seasoned sea captain. It attacks ideas with evidence, runs structured user interviews and turns them into research reports, with a weekly stretch reminder and a Friday rum grog.",
+  "category": "research",
+  "features": [
+   "Evidence-based idea teardown",
+   "User interview scripts",
+   "Weekly research reports"
+  ],
+  "bestFor": [
+   "Founders",
+   "Product managers",
+   "Idea validation"
+  ],
+  "url": "https://x.ai/bot/_ZXRN3sqp9xIb56Sgwr6x",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "travel-planner-2",
+  "name": "Travel Planner",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": "SOwashington26"
+  },
+  "tagline": "Builds a day-by-day trip plan with stops, costs and a packing list.",
+  "description": "Plans flights or road trips into a day-by-day itinerary with local things to do, food and fuel or charging stops, kid-friendly options and weather or road warnings with official links. Adds a packing list, budget and shareable plan, and only books or pays after you approve that exact item.",
+  "category": "life",
+  "features": [
+   "Day-by-day itineraries",
+   "Fuel and charging stops",
+   "Packing list and budget"
+  ],
+  "bestFor": [
+   "Family road trips",
+   "Flight planning",
+   "Trip budgeting"
+  ],
+  "url": "https://x.ai/bot/Dj5UHciEBFnjhnBMwXTuY",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "family-meal-planner-2",
+  "name": "Family Meal Planner",
+  "builder": {
+   "name": "Alicia Griffis",
+   "x": "AliciaScott22"
+  },
+  "tagline": "Plans the family's week of meals and drafts the grocery order for approval.",
+  "description": "Weekly meal and lunch planning for busy families. It builds a healthy menu, compares grocery stores on price, and sends a grocery draft that waits for your approval before anything is ordered.",
+  "category": "life",
+  "features": [
+   "Weekly meal and lunch plans",
+   "Store price comparison",
+   "Approval before ordering"
+  ],
+  "bestFor": [
+   "Busy families",
+   "Grocery budgeting"
+  ],
+  "url": "https://x.ai/bot/QiGfn9RIl4P9qRTOpvHUd",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "maxwell-perkins",
+  "name": "Maxwell Perkins",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "A novelist's editor in chief, from developmental notes to publication.",
+  "description": "Editor in chief for a novelist, named after the Scribner editor. It gives developmental editing, blunt counsel on what is and is not working, and walks a manuscript from draft to published.",
+  "category": "creative",
+  "features": [
+   "Developmental editing",
+   "Manuscript critique",
+   "Draft-to-published guidance"
+  ],
+  "bestFor": [
+   "Novelists",
+   "Long-form fiction"
+  ],
+  "url": "https://x.ai/bot/VzhdJE9jIF-ITiH013-Ld",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "peter-lynch-guru-of-finance",
+  "name": "Peter Lynch · Guru of Finance",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Plain-talk budgeting and a paper-trading practice book, Lynch style.",
+  "description": "Personal finance guide in the Peter Lynch style: plain-language budgeting, savings goals, a weekly money report and a paper-trading practice book with simple four-line stock cards. It never places real trades or connects a broker unless you ask.",
+  "category": "money",
+  "features": [
+   "Weekly money report",
+   "Paper-trading practice book",
+   "Savings goal tracking"
+  ],
+  "bestFor": [
+   "Budget beginners",
+   "Paper trading practice"
+  ],
+  "url": "https://x.ai/bot/v-ucB-KKU_PhcnmVpk_9-",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "coach-ted",
+  "name": "Coach Ted · Group Fitness & Oly Programmer",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Writes weekly group fitness and Olympic lifting sessions you can paste.",
+  "description": "Weekly programming coach for group fitness and Olympic weightlifting. Sessions are constantly varied but never random, written as plain text that pastes into any gym app, and nothing goes out until you approve it.",
+  "category": "life",
+  "features": [
+   "Weekly class programming",
+   "Olympic lifting blocks",
+   "Plain-text export"
+  ],
+  "bestFor": [
+   "Gym coaches",
+   "Weightlifting athletes"
+  ],
+  "url": "https://x.ai/bot/0D7VUN5D0QZFPlYgTqqzV",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "pattern-bot",
+  "name": "Pattern Bot",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Collects reusable Grok Bot patterns so you don't start from scratch.",
+  "description": "Community curator for Grok Bot builders: it gathers reusable bot patterns, templates and best-practice recipes, organises them and shares them, so you can copy a proven single-purpose design instead of building one cold.",
+  "category": "productivity",
+  "features": [
+   "Reusable bot patterns",
+   "Template recipes",
+   "Curated for builders"
+  ],
+  "bestFor": [
+   "Grok Bot builders",
+   "Template hunting"
+  ],
+  "url": "https://x.ai/bot/Azvz9f83-BAHR_ud3Hwlb",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "dockmaster",
+  "name": "Dockmaster",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Keeps a shared bot computer tidy: folders, routines and memory.",
+  "description": "Housekeeping bot for a computer shared by several Grok Bots. It maps folder ownership, clears clutter, flags routines that overlap and keeps memory hygiene in order, aimed at anyone running a bot team on one machine.",
+  "category": "productivity",
+  "features": [
+   "Folder ownership map",
+   "Routine overlap checks",
+   "Memory hygiene"
+  ],
+  "bestFor": [
+   "Bot teams",
+   "Shared machines"
+  ],
+  "url": "https://x.ai/bot/zYgaSqqdZMEjD1Zw-rnaL",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "citytrip-planner",
+  "name": "CityTrip Planner",
+  "builder": {
+   "name": "Joseph A",
+   "x": "yousef__uk"
+  },
+  "tagline": "Walkable, transit-smart city itineraries with a backup for bad weather.",
+  "description": "Plans realistic city itineraries anywhere, built around your arrival point and hotel area, local transit, food and the weather. Every day gets a rain or heat backup, so the plan survives a change in conditions.",
+  "category": "life",
+  "features": [
+   "Transit-smart routing",
+   "Weather backup per day",
+   "Local food picks"
+  ],
+  "bestFor": [
+   "City breaks",
+   "First-time visitors"
+  ],
+  "url": "https://x.ai/bot/41nuukksokWBXV7XDl32R",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "estratega-de-x",
+  "name": "Estratega de X",
+  "builder": {
+   "name": "Javier F. Ortiz Burgos",
+   "x": "javielementpr"
+  },
+  "tagline": "Estrategia en español para una cuenta de X de ciencia, tecnología e IA.",
+  "description": "Estratega para cuentas de X de ciencia, tecnología e IA en español. Propone posts verificados con gancho e imagen, avisa de novedades del sector y no publica nada sin tu aprobación.",
+  "category": "productivity",
+  "features": [
+   "Posts con gancho e imagen",
+   "Avisos de novedades",
+   "Aprobación antes de publicar"
+  ],
+  "bestFor": [
+   "Cuentas de ciencia y tecnología",
+   "Contenido en español"
+  ],
+  "url": "https://x.ai/bot/EUITAf9r_mWOg1Cy3BQ3W",
+  "addedAt": "2026-11-27",
+  "status": "published"
  }
 ]
