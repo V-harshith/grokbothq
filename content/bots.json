@@ -146682,5 +146682,305 @@
   "addedAt": "2026-11-26",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "live-bot-map-2",
+  "name": "Live Bot Map",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "A live animated map of every bot you run, with an activity ticker and search.",
+  "description": "Renders the whole roster as a live map: each bot is a node grouped by role, with an activity ticker showing what is running right now. You can search the map and switch to a card view when you want the details behind a node.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/74waKUTMnScf5UIudfo4f",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "gta-6-automated-clipper",
+  "name": "GTA 6 Automated Clipper",
+  "builder": {
+   "name": "CLAWCADE",
+   "x": ""
+  },
+  "tagline": "Turns the day’s viral GTA 6 moments into vertical clips, posted only after preview.",
+  "description": "Watches for the day’s most-shared GTA 6 gameplay moments and cuts them into 60 to 90 second vertical clips with captions sized for YouTube, Instagram, Facebook and TikTok. Every clip waits for your preview before anything publishes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/HxIcmO9dnz8X_puS1ssan",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "code-builder",
+  "name": "Code Builder",
+  "builder": {
+   "name": "Sennin",
+   "x": ""
+  },
+  "tagline": "Turns app ideas into working code through Claude Code, Codex or Cursor.",
+  "description": "A coding partner that takes an app idea and drives it to working software using Claude Code, Codex or Cursor agents. It favours reuse over new code, writes short specs, hardens the plan before building and keeps token use low.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/rA3EsWAmqL70zOQUydAel",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "grok-bot-coach-2",
+  "name": "Grok Bot Coach",
+  "builder": {
+   "name": "Oscar Garcia",
+   "x": "OAGarciaEsq"
+  },
+  "tagline": "Short hands-on lessons that turn you into a Grok Bot power user.",
+  "description": "Coaches you through Grok Bot one short lesson at a time, starting with an interview and an import of what other assistants already know about you, then wiring up email and calendar. From there it follows a path through routines, skills and a multi-bot team.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/OWoT-grcHzEUuHlWTJx6S",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "devil",
+  "name": "Devil",
+  "builder": {
+   "name": "AdamDesigns",
+   "x": "Adamdesgns"
+  },
+  "tagline": "Argues the strongest case against a plan before you commit to it.",
+  "description": "A devil’s advocate for decisions that are hard to undo. It states the best argument against your plan, names the assumption the plan depends on, and proposes the cheapest test that would show you are wrong.",
+  "category": "research",
+  "url": "https://x.ai/bot/SfO7yPmx8_QJjpkCsmO7V",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "security-6",
+  "name": "Security",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "Daily secret, config and dependency scans on your repos, with fix pull requests.",
+  "description": "Runs a daily pass over your GitHub repositories looking for leaked credentials, risky configuration and critical dependency advisories. When it finds a critical leak it opens a pull request with the fix rather than only reporting it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/HBVJCsqErP7ToM8QdwSH3",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "chief-of-staff-59",
+  "name": "Chief of Staff",
+  "builder": {
+   "name": "Cat DittieDat",
+   "x": "Glidewell_AI"
+  },
+  "tagline": "Morning digest, inbox triage and a Sunday week-ahead for a small business.",
+  "description": "Keeps a small business owner oriented: a weekday morning digest built from calendar and inbox, inbox triage, a Sunday look at the week ahead and an optional priority matrix. It only drafts, and nothing is sent, posted or booked without your approval.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/MXcYNuK8a0nBjRpC4ArsV",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "product-owner",
+  "name": "Product Owner",
+  "builder": {
+   "name": "Lawrence Bass",
+   "x": "lawmbass"
+  },
+  "tagline": "Walks your live app as a paying customer and files ranked fix tickets.",
+  "description": "Uses your product the way a paying customer would, notes where it breaks or confuses, and ranks the findings into ship now, later or drop. Accepted items go to your engineering bot as clear tickets; it does not rewrite code, copy or prices itself.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/nCyYPitM6FpHW01Ars-tb",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "project-planning",
+  "name": "Project Planning",
+  "builder": {
+   "name": "Lirael Grace",
+   "x": "hilli3dilli3"
+  },
+  "tagline": "Plans, tracks and dashboards several projects at once.",
+  "description": "Builds project plans with milestones, risks and dashboards, using Six Thinking Hats and lean practices, and keeps a locked version history of the documents it maintains. Aimed at owners running several projects in parallel.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/dYHH2y4C1b2xOuCYRgEwL",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "apple-ads",
+  "name": "Apple Ads",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "Vertical product films for iOS apps in a clean, Apple-style look.",
+  "description": "Produces 9:16 product films and ads for iOS apps: one hero device, clean white type, a morph opener and a call-to-action end card. Built for indie developers who need ads that look produced rather than homemade.",
+  "category": "creative",
+  "url": "https://x.ai/bot/C0fG7bK11yUX4vf_yNLWc",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "x-account-growth",
+  "name": "X Account Growth",
+  "builder": {
+   "name": "Sennin",
+   "x": ""
+  },
+  "tagline": "Growth reviews for an X account, measured against its own numbers.",
+  "description": "Reviews an X account on weekly, biweekly and monthly cadences using its real reach, engagement, formats, hooks and reply activity, and benchmarks each period against the account’s own median. It drafts recommendations and never posts on your behalf.",
+  "category": "sales",
+  "url": "https://x.ai/bot/1aFqkzE3-envGW8s6IEti",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "story-tutor",
+  "name": "Story Tutor",
+  "builder": {
+   "name": "Gyoro 2X",
+   "x": "Gyoro2x"
+  },
+  "tagline": "Learn a language through short stories sized to your level.",
+  "description": "Teaches a language through 10 to 15 minute stories pitched at your current level. Each lesson includes a translation, vocabulary that repeats across lessons, dictionary links and a short quiz.",
+  "category": "life",
+  "url": "https://x.ai/bot/W75W4ak4OJAGYLu3ZqJxV",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "automation-engineer",
+  "name": "Automation Engineer",
+  "builder": {
+   "name": "Patrick Stewart",
+   "x": "JourneyDeck"
+  },
+  "tagline": "Turns routine checks into small scripts so bots wake only when needed.",
+  "description": "Audits the routines across your bots and replaces mechanical checks with small tested scripts, so a routine only wakes its bot when there is something worth acting on. It leaves schedules alone and does not script anything that sends, buys or posts.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/a3UiNPLUC68bBTqNtl1ii",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "local-ads",
+  "name": "Local Ads",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "Google Ads and Business Profile upkeep for a local service business.",
+  "description": "Watches the lead form of a local service business, posts to its Google Business Profile on a schedule, and drafts Google Ads changes for the owner to approve. New leads are reported as they arrive.",
+  "category": "sales",
+  "url": "https://x.ai/bot/uX5pkX5W8doBkqW5Z6RQT",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ads-knowledge",
+  "name": "Ads Knowledge",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "One shared ads playbook every bot reads before shipping copy.",
+  "description": "Keeps a single playbook of what works in your ads, turns reference ads you send into saved lessons, and checks new copy against the playbook before it goes out. Other bots can read the same file so their output stays consistent.",
+  "category": "sales",
+  "url": "https://x.ai/bot/hy2u-581qNiV-C1XkEZtB",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "make-my-kids-mind",
+  "name": "Make My Kids Mind",
+  "builder": {
+   "name": "Kevin McDonald",
+   "x": "kcmcdonald"
+  },
+  "tagline": "A playful mission-control voice that nudges kids through chores.",
+  "description": "Gives parents a theatrical mission-control persona to play out loud: countdowns, chore missions, points and praise aimed at getting small children moving. Playful by design and deliberately never scary.",
+  "category": "life",
+  "url": "https://x.ai/bot/VO9Wi6mx4KNtnPz8Ma_Dy",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "intelligence-analyst",
+  "name": "Intelligence Analyst",
+  "builder": {
+   "name": "Joel Latto",
+   "x": "joellatto"
+  },
+  "tagline": "Answers questions in an intelligence-briefing format with stated confidence.",
+  "description": "Structures answers the way an intelligence briefing would: bottom line first, a calibrated likelihood, confidence stated separately, sourced evidence and competing explanations. Built on public analytic standards and not affiliated with any government body.",
+  "category": "research",
+  "url": "https://x.ai/bot/kHTmIxu0HQZ75AlUjQFqn",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "memory-fit-training-coach",
+  "name": "Memory.fit Training Coach",
+  "builder": {
+   "name": "Sergiu Biriș",
+   "x": "sergiubiris"
+  },
+  "tagline": "Plans and adapts a training week from your Memory.fit data.",
+  "description": "Coaches runners, cyclists, triathletes and lifters by planning the week from data already logged in Memory.fit, adjusting as sessions are completed or missed, and keeping nutrition notes alongside the plan.",
+  "category": "life",
+  "url": "https://x.ai/bot/4nH8e1H6qnSfIXrzNNPEn",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "proposals",
+  "name": "Proposals",
+  "builder": {
+   "name": "Kyle Kane",
+   "x": "kylekane"
+  },
+  "tagline": "Drafts website proposals, audits and retainer quotes as email drafts.",
+  "description": "Writes website proposals, site audits and retainer quotes for freelancers and agencies, then saves each one as an email draft for review. Nothing leaves your inbox without you sending it.",
+  "category": "sales",
+  "url": "https://x.ai/bot/ni99GuvhlBjS50QgYN-GR",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "review-reply-drafter-2",
+  "name": "Review Reply Drafter",
+  "builder": {
+   "name": "Christian Jose Canino Pacheco",
+   "x": ""
+  },
+  "tagline": "Weekly replies to new customer reviews, the urgent ones first.",
+  "description": "Reads review-notification email each week and drafts a reply to every new customer review in your voice, ordering the ones that need attention first. You approve and post; the bot never publishes on its own.",
+  "category": "sales",
+  "url": "https://x.ai/bot/O1TxII7f0Rc3gnCunMrNo",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
