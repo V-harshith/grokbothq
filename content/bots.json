@@ -146982,5 +146982,95 @@
   "addedAt": "2026-11-26",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "baba-brain",
+  "name": "BaBa_BRAIN ไทยแลนด์ปู๊นปู๊น",
+  "builder": {
+   "name": "Techanit Liptawat",
+   "x": "Te_te_krub"
+  },
+  "tagline": "Keeps an Obsidian vault in a private git repo and files what you learn each night.",
+  "description": "A vault keeper for people who keep notes in Obsidian. Every night it files what you and your other bots learned into the vault, which lives in a private git repo, and sends a short summary in the morning.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VFujNfJlJa4MtZPCn6WGa",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ace-2",
+  "name": "Ace",
+  "builder": {
+   "name": "Varun Chopra",
+   "x": "VarunChopr17597"
+  },
+  "tagline": "Security-first personal assistant that drafts first and vets any tool before installing.",
+  "description": "A deliberately lean personal assistant covering scheduling, research, writing, coding and small automations. It prepares drafts and stops before sending, and it audits a new tool before letting it onto your computer.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/THTsQGQjg1gCpWBPywj1S",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "donna-3",
+  "name": "Donna",
+  "builder": {
+   "name": "Varun Chopra",
+   "x": "VarunChopr17597"
+  },
+  "tagline": "Chief of staff that reports what your bots did and only what needs you.",
+  "description": "Reads what the rest of your bots did each morning and reports three things: what is waiting on you, what has stalled, and one straight piece of advice. A reporting layer above a whole roster of bots rather than another worker.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/NmlkPSxGdMxgQDp1cX6AZ",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cyber-monday-deals",
+  "name": "Cyber Monday Deals",
+  "builder": {
+   "name": "BotMeetups",
+   "x": "BotMeetUps"
+  },
+  "tagline": "Cyber Monday deal hunter that checks live prices and never buys without your yes.",
+  "description": "Hunts Cyber Monday 2026 deals on tech, family gifts and software subscriptions. It works out your country, checks live prices at large retailers or local stores, flags discounts that are not real, and waits for your approval before buying anything.",
+  "category": "money",
+  "url": "https://x.ai/bot/wsWjfq10xnpSSRlqOQ8iX",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "gene-bot-operations-chief",
+  "name": "Gene · Bot Operations Chief",
+  "builder": {
+   "name": "JD the Bot Guy",
+   "x": "JDtheBotGuy"
+  },
+  "tagline": "One front door for your bots: routes work, keeps the machine healthy, backs it up.",
+  "description": "Named after the Apollo 13 flight director, Gene acts as one front door for a fleet of bots: it routes a problem to the right specialist, keeps the shared computer patched, backed up and recoverable, and replaces expensive AI check-ins with free script gates.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_sQ9s1ACzpJzI7qt6Then",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "black-friday-deal-analyser",
+  "name": "Black Friday Deal Analyser",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Checks a sale cart against past lows and spots discounts that are not real.",
+  "description": "Audits the items in your sale cart by comparing each price with its past low, marking the discounts that are inflated, and pointing to stores selling the same item for less.",
+  "category": "money",
+  "url": "https://x.ai/bot/uaMMgUH3vv6Ig9PWot-Xo",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
