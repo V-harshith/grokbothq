@@ -1,65 +1,5 @@
 [
  {
-  "name": "Swarm Shield",
-  "bot_id": "Icx9pY-HJk7nSoSYx6aZI",
-  "url": "https://x.ai/bot/Icx9pY-HJk7nSoSYx6aZI",
-  "builder_x_handle": "",
-  "one_line_desc": "Watches for AI-driven attacks: LLM scanning, credential stuffing and bot swarms.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Wishlist Bot v2 - Wasp's Suite",
-  "bot_id": "X9ui4crCpjL4HcdKw7cLD",
-  "url": "https://x.ai/bot/X9ui4crCpjL4HcdKw7cLD",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns product links and store-tag photos into a saved wishlist with prices.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Print Prep Bot - Wasp's Suite",
-  "bot_id": "aVE9_0jQ_IqBvOBmOodY6",
-  "url": "https://x.ai/bot/aVE9_0jQ_IqBvOBmOodY6",
-  "builder_x_handle": "",
-  "one_line_desc": "Turns a finished 3D model and print notes into printer-ready files.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "3D Modeling Bot - Wasp's Suite",
-  "bot_id": "H2lf7owi77v1qr9EqwlC-",
-  "url": "https://x.ai/bot/H2lf7owi77v1qr9EqwlC-",
-  "builder_x_handle": "",
-  "one_line_desc": "Iterates 3D designs in short rounds with draft renders, then hands off a model.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Starship Launch Prediction Bot - Wasp's Suite",
-  "bot_id": "WKEYHAlG28J9KyT2yMlV8",
-  "url": "https://x.ai/bot/WKEYHAlG28J9KyT2yMlV8",
-  "builder_x_handle": "",
-  "one_line_desc": "Publishes a Starship launch window with a confidence percentage and average error.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Space News Bot - Wasp's Suite",
-  "bot_id": "8sDPaWfd60OZD2L01VMHk",
-  "url": "https://x.ai/bot/8sDPaWfd60OZD2L01VMHk",
-  "builder_x_handle": "",
-  "one_line_desc": "Daily spaceflight digests that keep official and secondary reporting apart.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
   "name": "Pokémon Card Helper by BinderRadar",
   "bot_id": "UCuQfQUYnwi8Fbl8u0nDp",
   "url": "https://x.ai/bot/UCuQfQUYnwi8Fbl8u0nDp",
@@ -566,5 +506,77 @@
   "http": "200",
   "verified": true,
   "found_at": "2026-11-27 03:46 IST"
+ },
+ {
+  "name": "FINBOT · Financial advisor",
+  "bot_id": "SMLKI7DFDR0lmW_pFZIGZ",
+  "url": "https://x.ai/bot/SMLKI7DFDR0lmW_pFZIGZ",
+  "builder_x_handle": "RaptorTechBot",
+  "builder_name": "Raptor Carnage",
+  "one_line_desc": "Fee-only portfolio, retirement and tax reviews, with monthly snapshots.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 09:56 IST"
+ },
+ {
+  "name": "Muse · Prompts",
+  "bot_id": "6jsyF6YoL_HGocw8ZZlcg",
+  "url": "https://x.ai/bot/6jsyF6YoL_HGocw8ZZlcg",
+  "builder_x_handle": "j_dubs77",
+  "builder_name": "J W",
+  "one_line_desc": "Writes and fixes image and video prompts, and keeps a series consistent.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 09:56 IST"
+ },
+ {
+  "name": "Real Estate Research",
+  "bot_id": "Fs8OUXr4_KjeLGgyT3cFo",
+  "url": "https://x.ai/bot/Fs8OUXr4_KjeLGgyT3cFo",
+  "builder_x_handle": "RaptorTechBot",
+  "builder_name": "Raptor Carnage",
+  "one_line_desc": "Rental and home research with mortgage and VA loan math.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 09:56 IST"
+ },
+ {
+  "name": "Thanksgimage",
+  "bot_id": "3JX7vrPqnffpujwt0xHRN",
+  "url": "https://x.ai/bot/3JX7vrPqnffpujwt0xHRN",
+  "builder_x_handle": "cradrrat",
+  "builder_name": "cradrrat",
+  "one_line_desc": "Makes Thanksgiving cards, posters and social images on request.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 09:56 IST"
+ },
+ {
+  "name": "Cocktail Recipes",
+  "bot_id": "BoJ8PaV8lPkC6nKbOtu4a",
+  "url": "https://x.ai/bot/BoJ8PaV8lPkC6nKbOtu4a",
+  "builder_x_handle": "the_m1k3_m0",
+  "builder_name": "NOTHING WILL HAPPEN",
+  "one_line_desc": "Classic and modern drink recipes with exact measurements.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 09:56 IST"
+ },
+ {
+  "name": "g4m3r",
+  "bot_id": "ZzCuXxE-Qg7q_XXLmJsn-",
+  "url": "https://x.ai/bot/ZzCuXxE-Qg7q_XXLmJsn-",
+  "builder_x_handle": "j_dubs77",
+  "builder_name": "J W",
+  "one_line_desc": "Screenshot in, sourced walkthrough out for the level you are stuck on.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 09:56 IST"
  }
 ]

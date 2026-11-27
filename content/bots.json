@@ -147687,5 +147687,151 @@
   "url": "https://x.ai/bot/EUITAf9r_mWOg1Cy3BQ3W",
   "addedAt": "2026-11-27",
   "status": "published"
+ },
+ {
+  "slug": "finbot-financial-advisor",
+  "name": "FINBOT · Financial advisor",
+  "builder": {
+   "name": "Raptor Carnage",
+   "x": "RaptorTechBot"
+  },
+  "tagline": "Fee-only portfolio, retirement and tax reviews, with monthly snapshots.",
+  "description": "A fiduciary-style financial advisor bot: portfolio reviews, retirement income planning including military pensions and VA effects, tax-aware investing and monthly snapshots. It sells no products and takes no commissions, and judges every option on total return after fees and taxes.",
+  "category": "money",
+  "features": [
+   "Portfolio reviews",
+   "Retirement income planning",
+   "Monthly snapshots"
+  ],
+  "bestFor": [
+   "Retirement planning",
+   "Military and VA pensions",
+   "Fee-only portfolio reviews"
+  ],
+  "url": "https://x.ai/bot/SMLKI7DFDR0lmW_pFZIGZ",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "muse-prompts",
+  "name": "Muse · Prompts",
+  "builder": {
+   "name": "J W",
+   "x": "j_dubs77"
+  },
+  "tagline": "Writes and fixes image and video prompts, and keeps a series consistent.",
+  "description": "An art and video prompt writer that also writes photo-edit instructions. It produces ready-to-paste prompts for Midjourney, Grok Imagine, Flux, SDXL, Ideogram, DALL·E, Kling, Runway, Sora and Veo, keeps multi-shot series consistent, and puts edits into plain language.",
+  "category": "creative",
+  "features": [
+   "Ready-to-paste prompts",
+   "Multi-shot series consistency",
+   "Photo-edit instructions"
+  ],
+  "bestFor": [
+   "Prompt writers",
+   "Image and video series"
+  ],
+  "url": "https://x.ai/bot/6jsyF6YoL_HGocw8ZZlcg",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "real-estate-research",
+  "name": "Real Estate Research",
+  "builder": {
+   "name": "Raptor Carnage",
+   "x": "RaptorTechBot"
+  },
+  "tagline": "Rental and home research with mortgage and VA loan math.",
+  "description": "Researches rentals and homes for sale, maps neighborhood and environmental risks around each address, and runs mortgage and VA loan numbers: entitlement, rent versus sell, equity and the assumptions behind them. Built for comparing housing options before a move.",
+  "category": "money",
+  "features": [
+   "Rental and for-sale research",
+   "Neighborhood risk mapping",
+   "Mortgage and VA loan math"
+  ],
+  "bestFor": [
+   "Home buyers",
+   "Renters",
+   "VA borrowers"
+  ],
+  "url": "https://x.ai/bot/Fs8OUXr4_KjeLGgyT3cFo",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "thanksgimage",
+  "name": "Thanksgimage",
+  "builder": {
+   "name": "cradrrat",
+   "x": "cradrrat"
+  },
+  "tagline": "Makes Thanksgiving cards, posters and social images on request.",
+  "description": "Generates Thanksgiving imagery on request: greeting cards, family scenes, table spreads, posters and social graphics, with print-ready card layouts when you need them.",
+  "category": "creative",
+  "features": [
+   "Greeting cards",
+   "Posters and social graphics",
+   "Print-ready layouts"
+  ],
+  "bestFor": [
+   "Holiday cards",
+   "Social posts"
+  ],
+  "url": "https://x.ai/bot/3JX7vrPqnffpujwt0xHRN",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cocktail-recipes",
+  "name": "Cocktail Recipes",
+  "builder": {
+   "name": "NOTHING WILL HAPPEN",
+   "x": "the_m1k3_m0"
+  },
+  "tagline": "Classic and modern drink recipes with exact measurements.",
+  "description": "A cocktail guide that gives classic and modern recipes with exact measurements and steps, and suggests what to mix from the bottles you already have.",
+  "category": "life",
+  "features": [
+   "Exact measurements and steps",
+   "Classic and modern recipes",
+   "Uses what you already have"
+  ],
+  "bestFor": [
+   "Home bartenders",
+   "Party planning"
+  ],
+  "url": "https://x.ai/bot/BoJ8PaV8lPkC6nKbOtu4a",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "g4m3r",
+  "name": "g4m3r",
+  "builder": {
+   "name": "J W",
+   "x": "j_dubs77"
+  },
+  "tagline": "Screenshot in, sourced walkthrough out for the level you are stuck on.",
+  "description": "Send a screenshot of any stage, map or boss and it identifies the game and mode, then returns a sourced walkthrough: strategy with picks, placement and build order, the key waves or phases, open stars or achievements, and your own screenshot marked up with the opening and final setup. No cheats, and no spoilers unless you ask.",
+  "category": "life",
+  "features": [
+   "Identifies the game from a screenshot",
+   "Marked-up setup images",
+   "Open stars and achievements listed"
+  ],
+  "bestFor": [
+   "Stuck levels",
+   "Boss fights"
+  ],
+  "url": "https://x.ai/bot/ZzCuXxE-Qg7q_XXLmJsn-",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
