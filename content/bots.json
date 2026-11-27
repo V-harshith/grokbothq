@@ -146982,5 +146982,856 @@
   "addedAt": "2026-11-26",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "baba-brain",
+  "name": "BaBa_BRAIN ไทยแลนด์ปู๊นปู๊น",
+  "builder": {
+   "name": "Techanit Liptawat",
+   "x": "Te_te_krub"
+  },
+  "tagline": "Keeps an Obsidian vault in a private git repo and files what you learn each night.",
+  "description": "A vault keeper for people who keep notes in Obsidian. Every night it files what you and your other bots learned into the vault, which lives in a private git repo, and sends a short summary in the morning.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/VFujNfJlJa4MtZPCn6WGa",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ace-2",
+  "name": "Ace",
+  "builder": {
+   "name": "Varun Chopra",
+   "x": "VarunChopr17597"
+  },
+  "tagline": "Security-first personal assistant that drafts first and vets any tool before installing.",
+  "description": "A deliberately lean personal assistant covering scheduling, research, writing, coding and small automations. It prepares drafts and stops before sending, and it audits a new tool before letting it onto your computer.",
+  "category": "assistants",
+  "url": "https://x.ai/bot/THTsQGQjg1gCpWBPywj1S",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "donna-3",
+  "name": "Donna",
+  "builder": {
+   "name": "Varun Chopra",
+   "x": "VarunChopr17597"
+  },
+  "tagline": "Chief of staff that reports what your bots did and only what needs you.",
+  "description": "Reads what the rest of your bots did each morning and reports three things: what is waiting on you, what has stalled, and one straight piece of advice. A reporting layer above a whole roster of bots rather than another worker.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/NmlkPSxGdMxgQDp1cX6AZ",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cyber-monday-deals",
+  "name": "Cyber Monday Deals",
+  "builder": {
+   "name": "BotMeetups",
+   "x": "BotMeetUps"
+  },
+  "tagline": "Cyber Monday deal hunter that checks live prices and never buys without your yes.",
+  "description": "Hunts Cyber Monday 2026 deals on tech, family gifts and software subscriptions. It works out your country, checks live prices at large retailers or local stores, flags discounts that are not real, and waits for your approval before buying anything.",
+  "category": "money",
+  "url": "https://x.ai/bot/wsWjfq10xnpSSRlqOQ8iX",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "gene-bot-operations-chief",
+  "name": "Gene · Bot Operations Chief",
+  "builder": {
+   "name": "JD the Bot Guy",
+   "x": "JDtheBotGuy"
+  },
+  "tagline": "One front door for your bots: routes work, keeps the machine healthy, backs it up.",
+  "description": "Named after the Apollo 13 flight director, Gene acts as one front door for a fleet of bots: it routes a problem to the right specialist, keeps the shared computer patched, backed up and recoverable, and replaces expensive AI check-ins with free script gates.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/_sQ9s1ACzpJzI7qt6Then",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "black-friday-deal-analyser",
+  "name": "Black Friday Deal Analyser",
+  "builder": {
+   "name": "Brutal Truth",
+   "x": "sarkarstix"
+  },
+  "tagline": "Checks a sale cart against past lows and spots discounts that are not real.",
+  "description": "Audits the items in your sale cart by comparing each price with its past low, marking the discounts that are inflated, and pointing to stores selling the same item for less.",
+  "category": "money",
+  "url": "https://x.ai/bot/uaMMgUH3vv6Ig9PWot-Xo",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "author-coordinator",
+  "name": "Author Coordinator",
+  "builder": {
+   "name": "Kimberly Humphreys",
+   "x": ""
+  },
+  "tagline": "Coordinates the helpers around your book, editing, design, trailers and marketing, on your approval.",
+  "description": "A publishing coordinator for self-published, traditional and hybrid authors. It assembles a set of helper bots around the parts of publishing you need, editing, design, publishing, trailers and marketing, while you keep writing and editing every word yourself. Nothing is posted, sent, uploaded or paid for until you say yes.",
+  "category": "creative",
+  "url": "https://x.ai/bot/RmsCuEoNT5Eb0_a2XMXQX",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "captain-careful",
+  "name": "Captain Careful: Chief of Staff",
+  "builder": {
+   "name": "Mark Shaw",
+   "x": ""
+  },
+  "tagline": "A beginner-friendly chief of staff that sets spending limits and safety rules with you first.",
+  "description": "Built for people creating their first bot. Captain Careful acts as a chief of staff that walks you through spending limits and safety rules as you set it up, so the first setup leans cautious rather than clever.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/1gsT-W4fsu_Q-IPRFR5iU",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "saveclip",
+  "name": "SaveClip",
+  "builder": {
+   "name": "Ignacio Montero",
+   "x": ""
+  },
+  "tagline": "Takes a video link and returns the file at the quality you pick, or the audio as MP3.",
+  "description": "Paste a link from a video platform or social network and it returns the video in the resolution you choose, or just the audio as an MP3 ready for your phone. It replies in the language you write in.",
+  "category": "creative",
+  "url": "https://x.ai/bot/HyaG2XcEbLWL9nsYd-O9i",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "email-marketing",
+  "name": "Email Marketing",
+  "builder": {
+   "name": "daix",
+   "x": ""
+  },
+  "tagline": "Klaviyo email marketing for Shopify stores: flows, campaigns and popups.",
+  "description": "An email marketing assistant for Shopify stores that run Klaviyo. It sets up automated flows, promotional campaigns and popups, uploads designs straight into Klaviyo, and writes emails in a natural tone.",
+  "category": "sales",
+  "url": "https://x.ai/bot/YwIQMnAjFK2K4JZTVyAvg",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "after-the-cart",
+  "name": "After the Cart",
+  "builder": {
+   "name": "RyanTHawks",
+   "x": ""
+  },
+  "tagline": "Checks every order email for a price drop and drafts the price adjustment request.",
+  "description": "Reads your order emails, then checks each item price on the store’s own site every morning. When a price falls inside the store’s price adjustment window it drafts the request with the policy quoted and linked, and it reminds you three days before a return window closes. You send every request, and only savings a refund email confirms get counted.",
+  "category": "money",
+  "url": "https://x.ai/bot/RQMuaVWs6_af6JOvLzf8u",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "windesk-bot",
+  "name": "WinDesk Bot",
+  "builder": {
+   "name": "Ignacio Montero",
+   "x": ""
+  },
+  "tagline": "Drives your Windows PC while you watch: Excel, Power BI, settings or any open app.",
+  "description": "A Windows desktop driver. It sees the screen and operates Excel, Power BI, system settings or any open app through a small local app with a tray switch, and offers a manual mode plus a faster auto mode.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/beLTU4GxwT9kMoeC3_B_7",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "geo-audit",
+  "name": "GEO Audit",
+  "builder": {
+   "name": "Pierre Baigts",
+   "x": ""
+  },
+  "tagline": "Shows how your business appears in answers from ChatGPT, Claude, Gemini and Perplexity.",
+  "description": "Checks how your business surfaces for the questions customers ask ChatGPT, Claude, Gemini and Perplexity. It measures the search indexes those assistants read, including Bing, Google and Brave, then returns an interactive dashboard and a prioritised fix plan.",
+  "category": "sales",
+  "url": "https://x.ai/bot/INE4f1Ao816eUoD03TPAB",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "grok-hunt",
+  "name": "Grok Hunt",
+  "builder": {
+   "name": "Eyad Kelleh",
+   "x": ""
+  },
+  "tagline": "Scouts X, LinkedIn and the web for new Grok bots and shareable templates.",
+  "description": "Watches public posts on X, LinkedIn and the wider web for Grok Bot builds and shareable templates, then logs deduplicated finds into a structured catalogue. Aimed at people tracking what others ship and collecting templates without the filler.",
+  "category": "research",
+  "url": "https://x.ai/bot/vrgzeJ49VAuyQnF43y_Qa",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "gig-finder",
+  "name": "Gig Finder",
+  "builder": {
+   "name": "nahjuin",
+   "x": ""
+  },
+  "tagline": "Finds local businesses with fixable IT gaps and packages each lead with proof.",
+  "description": "Finds local small businesses with IT gaps you can fix, such as a missing or broken site, no Google Business Profile, a free email address or no online booking. Each lead arrives with evidence of the problem, a matching service package, a price range and a pitch kit, tracked on one leads page. Built for website, office setup and IT support freelancers, and it never contacts anyone for you.",
+  "category": "sales",
+  "url": "https://x.ai/bot/QAdLzjntNif4QzI1qYYv2",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "fault-plate",
+  "name": "Fault Plate",
+  "builder": {
+   "name": "cradrrat",
+   "x": ""
+  },
+  "tagline": "Reads an appliance error code from a photo and says fix it, book it or call now.",
+  "description": "Send a photo of an appliance error code, flashing lights or beeps and it checks the meaning against the maker’s official page. You get one clear verdict: a safe do-it-yourself fix, book a service, or call someone out now.",
+  "category": "life",
+  "url": "https://x.ai/bot/Xf0SJqk8_0AhxFRsHyBtj",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "grokdefender",
+  "name": "GrokDefender",
+  "builder": {
+   "name": "Nathan",
+   "x": ""
+  },
+  "tagline": "Defensive security lead for a home or small business, ranking risks by real impact.",
+  "description": "A primary defensive security bot for homes and small businesses. It watches your computers and network, coordinates specialist security bots, ranks risks by actual impact and helps you harden the setup. Nothing changes until you approve it.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/tnAbNnwVeU9oSTrnetxww",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "swarm-shield",
+  "name": "Swarm Shield",
+  "builder": {
+   "name": "Nathan",
+   "x": ""
+  },
+  "tagline": "Watches for AI-driven attacks: LLM scanning, credential stuffing and bot swarms.",
+  "description": "A defensive analyst for networks you own or manage, aimed at attacks run by AI agents: automated LLM-guided scanning, exploit chaining, credential stuffing, bot swarms and AI crawlers. It works alongside commercial security tools and changes nothing without your approval.",
+  "category": "engineering",
+  "url": "https://x.ai/bot/Icx9pY-HJk7nSoSYx6aZI",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "wishlist-bot-v2",
+  "name": "Wishlist Bot v2 - Wasp's Suite",
+  "builder": {
+   "name": "Cameron Eastman",
+   "x": ""
+  },
+  "tagline": "Turns product links and store-tag photos into a saved wishlist with prices.",
+  "description": "For people who save products from social posts or shop photos. Paste a TikTok, Instagram, X or other product link, or send a photo of a store tag, and it resolves a buy link, name, price and category into a wishlist entry. Part of the Wasp’s Suite family of bots that run alone and team up when you add more.",
+  "category": "life",
+  "url": "https://x.ai/bot/X9ui4crCpjL4HcdKw7cLD",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "print-prep-bot",
+  "name": "Print Prep Bot - Wasp's Suite",
+  "builder": {
+   "name": "Cameron Eastman",
+   "x": ""
+  },
+  "tagline": "Turns a finished 3D model and print notes into printer-ready files.",
+  "description": "Print file prep for 3D printer owners. Send a finished model and your print notes and it handles settings, orientation, supports and bed layout, then delivers the files into folders you name. It does not design or rebuild the model.",
+  "category": "creative",
+  "url": "https://x.ai/bot/aVE9_0jQ_IqBvOBmOodY6",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "3d-modeling-bot",
+  "name": "3D Modeling Bot - Wasp's Suite",
+  "builder": {
+   "name": "Cameron Eastman",
+   "x": ""
+  },
+  "tagline": "Iterates 3D designs in short rounds with draft renders, then hands off a model.",
+  "description": "A design partner for 3D projects. It works from notes and reference images, iterates in short rounds with draft renders, and when you call a design final it hands a versioned model to a print prep teammate if you have one, or delivers the file for you to slice.",
+  "category": "creative",
+  "url": "https://x.ai/bot/H2lf7owi77v1qr9EqwlC-",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "starship-launch-prediction-bot",
+  "name": "Starship Launch Prediction Bot - Wasp's Suite",
+  "builder": {
+   "name": "Cameron Eastman",
+   "x": ""
+  },
+  "tagline": "Publishes a Starship launch window with a confidence percentage and average error.",
+  "description": "A launch prediction desk for people who follow upcoming flights. It tracks Starship by default and lets you add other rockets, then publishes a short card with a predicted date window, the official and secondary NET, confidence in percent and its average error.",
+  "category": "research",
+  "url": "https://x.ai/bot/WKEYHAlG28J9KyT2yMlV8",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "space-news-bot",
+  "name": "Space News Bot - Wasp's Suite",
+  "builder": {
+   "name": "Cameron Eastman",
+   "x": ""
+  },
+  "tagline": "Daily spaceflight digests that keep official and secondary reporting apart.",
+  "description": "A space news desk for people who follow spaceflight. From the first run it watches a default set of public X accounts, which you can add to or trim, keeps official reporting separate from secondary sources, and delivers short info card digests in chat.",
+  "category": "research",
+  "url": "https://x.ai/bot/8sDPaWfd60OZD2L01VMHk",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "pokemon-card-helper",
+  "name": "Pokémon Card Helper by BinderRadar",
+  "builder": {
+   "name": "BinderRadar",
+   "x": ""
+  },
+  "tagline": "Identifies Pokémon cards, checks grading costs and finds live prices.",
+  "description": "A friendly, UK-first helper for Pokémon collectors. It identifies your cards, checks grading costs and finds live prices, linking out to live binderradar.com pages.",
+  "category": "life",
+  "url": "https://x.ai/bot/UCuQfQUYnwi8Fbl8u0nDp",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "ops-dashboard",
+  "name": "Ops Dashboard",
+  "builder": {
+   "name": "Shubham Gupta",
+   "x": ""
+  },
+  "tagline": "One live page for your whole bot operation: goals, blockers, deadlines and usage.",
+  "description": "Keeps a single live dashboard page for a fleet of Grok bots: goals, what is waiting on you, blockers, deadlines, bot status and usage per bot. It refreshes on your schedule or when you ask, and only pings you when something needs you.",
+  "category": "productivity",
+  "url": "https://x.ai/bot/4MkKNQHcmjytBiSzmcw4j",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "medical-bill-detective",
+  "name": "Medical Bill Detective",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": ""
+  },
+  "tagline": "Finds errors on medical bills and drafts the letters and call scripts to cut them.",
+  "description": "A plain-English assistant that looks for errors and overcharges on medical, dental, lab, ambulance and hospital bills. It then drafts the letters, appeals and call scripts to bring the amount down, and never pays, contacts anyone or submits anything without your yes.",
+  "category": "money",
+  "url": "https://x.ai/bot/lyx2fhleeLVBg45lQJbEV",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "open-enrollment-2",
+  "name": "Open Enrollment",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": ""
+  },
+  "tagline": "Compares Medicare, ACA, employer, FEHB, TRICARE and VA plans on true yearly cost.",
+  "description": "A plan shopping advisor covering Medicare, the ACA marketplace, employer plans, federal FEHB and PSHB, TRICARE and VA coverage. It compares the plans you can get, estimates your real yearly cost from official sources, and returns a recommendation, a PDF report and an enrolment checklist with deadline reminders. It never enrols or switches anything without your yes.",
+  "category": "money",
+  "url": "https://x.ai/bot/KHFMASMtqIvhT8_9mYJs0",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "shopping-price-watch",
+  "name": "Shopping Price Watch",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": ""
+  },
+  "tagline": "Watches your Amazon cart for price drops and refunds, read only.",
+  "description": "A read-only shopping assistant. It watches your Amazon cart for price drops, checks past purchases for cheaper prices and refunds, sends a morning digest of deliveries and return deadlines, and price checks any product page from a Chrome button.",
+  "category": "money",
+  "url": "https://x.ai/bot/SQrPciluthCg-jbQkAB9M",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "osintbot",
+  "name": "OSINTBot",
+  "builder": {
+   "name": "Tôn Thất Bảo Toàn",
+   "x": ""
+  },
+  "tagline": "Open-source checks on companies, claims, photos and impersonation accounts.",
+  "description": "An open-source investigation desk. It checks companies, partners, viral claims, photos, videos and impersonation accounts against public sources, citing each with an access date and a confidence level. It also covers visual work such as geolocation, capture time, reverse image search, EXIF and edit checks, and can use an optional local CLI.",
+  "category": "research",
+  "url": "https://x.ai/bot/2tVwFv-cC40_7Rxnxwvbl",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "stockbot-iphone-duo",
+  "name": "StockBot: iPhone Duo Stock Checker",
+  "builder": {
+   "name": "GJ Bordallo",
+   "x": ""
+  },
+  "tagline": "Alerts you when the iPhone Duo you want shows up for pickup near your ZIP.",
+  "description": "Watches Apple Store pickup availability near your ZIP code for the iPhone Duo model you want and alerts you the moment one is live. It checks only: no buying, no reserving and no signing in.",
+  "category": "life",
+  "url": "https://x.ai/bot/xkFpGSk1VDiUQoYdXnrGb",
+  "addedAt": "2026-11-26",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "agents-conversion-optimizer",
+  "name": "Agents Conversion Optimizer",
+  "builder": {
+   "name": "Pierre Baigts",
+   "x": ""
+  },
+  "tagline": "Scores how easily AI agents can find, understand and buy from your site.",
+  "description": "Audits your offer for agent visitors: whether an AI agent can find the page, understand the offer and complete a signup or purchase. Returns an Agent Conversion Score out of 100 in an interactive dashboard, ordered by the fixes worth doing first.",
+  "category": "sales",
+  "features": [
+   "Agent Conversion Score out of 100",
+   "Interactive fix dashboard",
+   "Checks signup and purchase paths"
+  ],
+  "bestFor": [
+   "Agent traffic audits",
+   "Landing page reviews"
+  ],
+  "url": "https://x.ai/bot/QRv11z76csm03QCPnLoOC",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "grog-bot",
+  "name": "Grog Bot",
+  "builder": {
+   "name": "Jan Rosa",
+   "x": ""
+  },
+  "tagline": "A sea-captain product sparring partner that pressure-tests founder ideas.",
+  "description": "Product sparring partner for founders and PMs, played as a seasoned sea captain. It attacks ideas with evidence, runs structured user interviews and turns them into research reports, with a weekly stretch reminder and a Friday rum grog.",
+  "category": "research",
+  "features": [
+   "Evidence-based idea teardown",
+   "User interview scripts",
+   "Weekly research reports"
+  ],
+  "bestFor": [
+   "Founders",
+   "Product managers",
+   "Idea validation"
+  ],
+  "url": "https://x.ai/bot/_ZXRN3sqp9xIb56Sgwr6x",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "travel-planner-2",
+  "name": "Travel Planner",
+  "builder": {
+   "name": "S.O. Washington",
+   "x": "SOwashington26"
+  },
+  "tagline": "Builds a day-by-day trip plan with stops, costs and a packing list.",
+  "description": "Plans flights or road trips into a day-by-day itinerary with local things to do, food and fuel or charging stops, kid-friendly options and weather or road warnings with official links. Adds a packing list, budget and shareable plan, and only books or pays after you approve that exact item.",
+  "category": "life",
+  "features": [
+   "Day-by-day itineraries",
+   "Fuel and charging stops",
+   "Packing list and budget"
+  ],
+  "bestFor": [
+   "Family road trips",
+   "Flight planning",
+   "Trip budgeting"
+  ],
+  "url": "https://x.ai/bot/Dj5UHciEBFnjhnBMwXTuY",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "family-meal-planner-2",
+  "name": "Family Meal Planner",
+  "builder": {
+   "name": "Alicia Griffis",
+   "x": "AliciaScott22"
+  },
+  "tagline": "Plans the family's week of meals and drafts the grocery order for approval.",
+  "description": "Weekly meal and lunch planning for busy families. It builds a healthy menu, compares grocery stores on price, and sends a grocery draft that waits for your approval before anything is ordered.",
+  "category": "life",
+  "features": [
+   "Weekly meal and lunch plans",
+   "Store price comparison",
+   "Approval before ordering"
+  ],
+  "bestFor": [
+   "Busy families",
+   "Grocery budgeting"
+  ],
+  "url": "https://x.ai/bot/QiGfn9RIl4P9qRTOpvHUd",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "maxwell-perkins",
+  "name": "Maxwell Perkins",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "A novelist's editor in chief, from developmental notes to publication.",
+  "description": "Editor in chief for a novelist, named after the Scribner editor. It gives developmental editing, blunt counsel on what is and is not working, and walks a manuscript from draft to published.",
+  "category": "creative",
+  "features": [
+   "Developmental editing",
+   "Manuscript critique",
+   "Draft-to-published guidance"
+  ],
+  "bestFor": [
+   "Novelists",
+   "Long-form fiction"
+  ],
+  "url": "https://x.ai/bot/VzhdJE9jIF-ITiH013-Ld",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "peter-lynch-guru-of-finance",
+  "name": "Peter Lynch · Guru of Finance",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Plain-talk budgeting and a paper-trading practice book, Lynch style.",
+  "description": "Personal finance guide in the Peter Lynch style: plain-language budgeting, savings goals, a weekly money report and a paper-trading practice book with simple four-line stock cards. It never places real trades or connects a broker unless you ask.",
+  "category": "money",
+  "features": [
+   "Weekly money report",
+   "Paper-trading practice book",
+   "Savings goal tracking"
+  ],
+  "bestFor": [
+   "Budget beginners",
+   "Paper trading practice"
+  ],
+  "url": "https://x.ai/bot/v-ucB-KKU_PhcnmVpk_9-",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "coach-ted",
+  "name": "Coach Ted · Group Fitness & Oly Programmer",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Writes weekly group fitness and Olympic lifting sessions you can paste.",
+  "description": "Weekly programming coach for group fitness and Olympic weightlifting. Sessions are constantly varied but never random, written as plain text that pastes into any gym app, and nothing goes out until you approve it.",
+  "category": "life",
+  "features": [
+   "Weekly class programming",
+   "Olympic lifting blocks",
+   "Plain-text export"
+  ],
+  "bestFor": [
+   "Gym coaches",
+   "Weightlifting athletes"
+  ],
+  "url": "https://x.ai/bot/0D7VUN5D0QZFPlYgTqqzV",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "pattern-bot",
+  "name": "Pattern Bot",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Collects reusable Grok Bot patterns so you don't start from scratch.",
+  "description": "Community curator for Grok Bot builders: it gathers reusable bot patterns, templates and best-practice recipes, organises them and shares them, so you can copy a proven single-purpose design instead of building one cold.",
+  "category": "productivity",
+  "features": [
+   "Reusable bot patterns",
+   "Template recipes",
+   "Curated for builders"
+  ],
+  "bestFor": [
+   "Grok Bot builders",
+   "Template hunting"
+  ],
+  "url": "https://x.ai/bot/Azvz9f83-BAHR_ud3Hwlb",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "dockmaster",
+  "name": "Dockmaster",
+  "builder": {
+   "name": "Jim Roncal",
+   "x": "jimondrd"
+  },
+  "tagline": "Keeps a shared bot computer tidy: folders, routines and memory.",
+  "description": "Housekeeping bot for a computer shared by several Grok Bots. It maps folder ownership, clears clutter, flags routines that overlap and keeps memory hygiene in order, aimed at anyone running a bot team on one machine.",
+  "category": "productivity",
+  "features": [
+   "Folder ownership map",
+   "Routine overlap checks",
+   "Memory hygiene"
+  ],
+  "bestFor": [
+   "Bot teams",
+   "Shared machines"
+  ],
+  "url": "https://x.ai/bot/zYgaSqqdZMEjD1Zw-rnaL",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "citytrip-planner",
+  "name": "CityTrip Planner",
+  "builder": {
+   "name": "Joseph A",
+   "x": "yousef__uk"
+  },
+  "tagline": "Walkable, transit-smart city itineraries with a backup for bad weather.",
+  "description": "Plans realistic city itineraries anywhere, built around your arrival point and hotel area, local transit, food and the weather. Every day gets a rain or heat backup, so the plan survives a change in conditions.",
+  "category": "life",
+  "features": [
+   "Transit-smart routing",
+   "Weather backup per day",
+   "Local food picks"
+  ],
+  "bestFor": [
+   "City breaks",
+   "First-time visitors"
+  ],
+  "url": "https://x.ai/bot/41nuukksokWBXV7XDl32R",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "estratega-de-x",
+  "name": "Estratega de X",
+  "builder": {
+   "name": "Javier F. Ortiz Burgos",
+   "x": "javielementpr"
+  },
+  "tagline": "Estrategia en español para una cuenta de X de ciencia, tecnología e IA.",
+  "description": "Estratega para cuentas de X de ciencia, tecnología e IA en español. Propone posts verificados con gancho e imagen, avisa de novedades del sector y no publica nada sin tu aprobación.",
+  "category": "productivity",
+  "features": [
+   "Posts con gancho e imagen",
+   "Avisos de novedades",
+   "Aprobación antes de publicar"
+  ],
+  "bestFor": [
+   "Cuentas de ciencia y tecnología",
+   "Contenido en español"
+  ],
+  "url": "https://x.ai/bot/EUITAf9r_mWOg1Cy3BQ3W",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "finbot-financial-advisor",
+  "name": "FINBOT · Financial advisor",
+  "builder": {
+   "name": "Raptor Carnage",
+   "x": "RaptorTechBot"
+  },
+  "tagline": "Fee-only portfolio, retirement and tax reviews, with monthly snapshots.",
+  "description": "A fiduciary-style financial advisor bot: portfolio reviews, retirement income planning including military pensions and VA effects, tax-aware investing and monthly snapshots. It sells no products and takes no commissions, and judges every option on total return after fees and taxes.",
+  "category": "money",
+  "features": [
+   "Portfolio reviews",
+   "Retirement income planning",
+   "Monthly snapshots"
+  ],
+  "bestFor": [
+   "Retirement planning",
+   "Military and VA pensions",
+   "Fee-only portfolio reviews"
+  ],
+  "url": "https://x.ai/bot/SMLKI7DFDR0lmW_pFZIGZ",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "muse-prompts",
+  "name": "Muse · Prompts",
+  "builder": {
+   "name": "J W",
+   "x": "j_dubs77"
+  },
+  "tagline": "Writes and fixes image and video prompts, and keeps a series consistent.",
+  "description": "An art and video prompt writer that also writes photo-edit instructions. It produces ready-to-paste prompts for Midjourney, Grok Imagine, Flux, SDXL, Ideogram, DALL·E, Kling, Runway, Sora and Veo, keeps multi-shot series consistent, and puts edits into plain language.",
+  "category": "creative",
+  "features": [
+   "Ready-to-paste prompts",
+   "Multi-shot series consistency",
+   "Photo-edit instructions"
+  ],
+  "bestFor": [
+   "Prompt writers",
+   "Image and video series"
+  ],
+  "url": "https://x.ai/bot/6jsyF6YoL_HGocw8ZZlcg",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "real-estate-research",
+  "name": "Real Estate Research",
+  "builder": {
+   "name": "Raptor Carnage",
+   "x": "RaptorTechBot"
+  },
+  "tagline": "Rental and home research with mortgage and VA loan math.",
+  "description": "Researches rentals and homes for sale, maps neighborhood and environmental risks around each address, and runs mortgage and VA loan numbers: entitlement, rent versus sell, equity and the assumptions behind them. Built for comparing housing options before a move.",
+  "category": "money",
+  "features": [
+   "Rental and for-sale research",
+   "Neighborhood risk mapping",
+   "Mortgage and VA loan math"
+  ],
+  "bestFor": [
+   "Home buyers",
+   "Renters",
+   "VA borrowers"
+  ],
+  "url": "https://x.ai/bot/Fs8OUXr4_KjeLGgyT3cFo",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "thanksgimage",
+  "name": "Thanksgimage",
+  "builder": {
+   "name": "cradrrat",
+   "x": "cradrrat"
+  },
+  "tagline": "Makes Thanksgiving cards, posters and social images on request.",
+  "description": "Generates Thanksgiving imagery on request: greeting cards, family scenes, table spreads, posters and social graphics, with print-ready card layouts when you need them.",
+  "category": "creative",
+  "features": [
+   "Greeting cards",
+   "Posters and social graphics",
+   "Print-ready layouts"
+  ],
+  "bestFor": [
+   "Holiday cards",
+   "Social posts"
+  ],
+  "url": "https://x.ai/bot/3JX7vrPqnffpujwt0xHRN",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "cocktail-recipes",
+  "name": "Cocktail Recipes",
+  "builder": {
+   "name": "NOTHING WILL HAPPEN",
+   "x": "the_m1k3_m0"
+  },
+  "tagline": "Classic and modern drink recipes with exact measurements.",
+  "description": "A cocktail guide that gives classic and modern recipes with exact measurements and steps, and suggests what to mix from the bottles you already have.",
+  "category": "life",
+  "features": [
+   "Exact measurements and steps",
+   "Classic and modern recipes",
+   "Uses what you already have"
+  ],
+  "bestFor": [
+   "Home bartenders",
+   "Party planning"
+  ],
+  "url": "https://x.ai/bot/BoJ8PaV8lPkC6nKbOtu4a",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "g4m3r",
+  "name": "g4m3r",
+  "builder": {
+   "name": "J W",
+   "x": "j_dubs77"
+  },
+  "tagline": "Screenshot in, sourced walkthrough out for the level you are stuck on.",
+  "description": "Send a screenshot of any stage, map or boss and it identifies the game and mode, then returns a sourced walkthrough: strategy with picks, placement and build order, the key waves or phases, open stars or achievements, and your own screenshot marked up with the opening and final setup. No cheats, and no spoilers unless you ask.",
+  "category": "life",
+  "features": [
+   "Identifies the game from a screenshot",
+   "Marked-up setup images",
+   "Open stars and achievements listed"
+  ],
+  "bestFor": [
+   "Stuck levels",
+   "Boss fights"
+  ],
+  "url": "https://x.ai/bot/ZzCuXxE-Qg7q_XXLmJsn-",
+  "addedAt": "2026-11-27",
+  "status": "published",
+  "source": "https://grok-bot.directory"
  }
 ]
