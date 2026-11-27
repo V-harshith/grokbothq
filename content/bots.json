@@ -148459,7 +148459,7 @@
   "slug": "amazon-shopping-agent",
   "name": "Amazon Agent",
   "builder": {
-   "name": "James Rule XRP ⟐",
+   "name": "James Rule",
    "x": "allthemoney"
   },
   "tagline": "Searches Amazon, fills the cart, stops before the order.",
@@ -148809,8 +148809,8 @@
   "slug": "seo-aeo-radar",
   "name": "SEO & AEO Radar",
   "builder": {
-   "name": "@eastend",
-   "x": "LepikInfo"
+   "name": "eastend",
+   "x": ""
   },
   "tagline": "Watches Google and AI answer engines for decay and competitor moves.",
   "description": "Tracks how a site appears in Google and in AI answer engines, flags pages losing ground and competitor gains, and drafts the content fixes on a schedule. Built for site owners and SEO leads without an analyst.",
@@ -148920,7 +148920,7 @@
   "slug": "skill-smith",
   "name": "Skill Smith",
   "builder": {
-   "name": "ChrisMurphyHQ",
+   "name": "Chris Murphy",
    "x": "ChrisMurphyHQ"
   },
   "tagline": "Weekly skill fixes based on how your bots actually behaved.",
