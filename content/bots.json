@@ -147833,5 +147833,165 @@
   "addedAt": "2026-11-27",
   "status": "published",
   "source": "https://grok-bot.directory"
+ },
+ {
+  "slug": "personal-shopper-4",
+  "name": "Personal Shopper",
+  "builder": {
+   "name": "Raptor Carnage",
+   "x": "RaptorTechBot"
+  },
+  "tagline": "Hunts deals and price drops on retail items, then waits for your approval.",
+  "description": "Shopping scout for retail purchases. It collects discount codes and cheaper alternatives, checks whether a store ships to your address, and watches an item for price drops or restocks. Nothing is bought without your go-ahead.",
+  "category": "money",
+  "features": [
+   "Discount code and alternative hunt",
+   "Shipping check for your area",
+   "Price and restock watch"
+  ],
+  "bestFor": [
+   "Deal hunters",
+   "Price-drop tracking"
+  ],
+  "url": "https://x.ai/bot/019kbIjJVvGl7Mzr0Y1va",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "santa-s-workshop-2",
+  "name": "Santa's Workshop",
+  "builder": {
+   "name": "American™",
+   "x": "1776_13"
+  },
+  "tagline": "Runs Secret Santa draws and writes letters and stories from Santa.",
+  "description": "Christmas helper for families. It runs Secret Santa draws, writes custom Santa letters and bedtime stories, suggests quick Elf on the Shelf setups, and builds stocking-stuffer lists to a set budget.",
+  "category": "life",
+  "features": [
+   "Secret Santa draws",
+   "Custom Santa letters and stories",
+   "Stocking lists on a budget"
+  ],
+  "bestFor": [
+   "Family Christmas planning",
+   "Elf on the Shelf ideas"
+  ],
+  "url": "https://x.ai/bot/RBqd97hTUuZXw6M-2To6o",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "christmas-hq",
+  "name": "Christmas HQ",
+  "builder": {
+   "name": "American™",
+   "x": "1776_13"
+  },
+  "tagline": "Holiday organiser for gifts, budget, shipping cutoffs and dinner prep.",
+  "description": "One place for the Christmas to-do list: gift tracking, a running budget, carrier shipping cutoffs, a wrapping checklist and the dinner prep schedule, so no piece of the holiday slips past.",
+  "category": "productivity",
+  "features": [
+   "Gift list and budget tracking",
+   "Shipping cutoff reminders",
+   "Wrapping and dinner checklists"
+  ],
+  "bestFor": [
+   "Holiday logistics",
+   "Christmas budgeting"
+  ],
+  "url": "https://x.ai/bot/I2J7aOecGELJxZmRpl7Lw",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "compare-deal-scout",
+  "name": "Compare & Deal Scout",
+  "builder": {
+   "name": "Shreya Narla",
+   "x": "narlashreya"
+  },
+  "tagline": "Side-by-side product comparisons, then live deals on the winner.",
+  "description": "Buying guide for consumer products and software. It lines options up against user reviews, expert tests, specs and total cost of ownership, then looks for current deals on whichever one wins.",
+  "category": "money",
+  "features": [
+   "Review and spec comparison",
+   "Total cost of ownership",
+   "Live deal search on the winner"
+  ],
+  "bestFor": [
+   "Purchase research",
+   "Software buying decisions"
+  ],
+  "url": "https://x.ai/bot/M3Y7G1CEf0dlX4VdrhrGU",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "daily-advent-calendar",
+  "name": "Daily Advent Calendar",
+  "builder": {
+   "name": "American™",
+   "x": "1776_13"
+  },
+  "tagline": "A daily December drop in chat, from December 1 through Christmas Eve.",
+  "description": "Advent calendar that lives in the chat. Pick a theme (Faith & Scripture, Cozy Holiday, or Family & Kids) and it opens one short piece each morning from December 1 to 24.",
+  "category": "life",
+  "features": [
+   "Three seasonal themes",
+   "One daily drop, Dec 1 to 24"
+  ],
+  "bestFor": [
+   "Advent traditions",
+   "Family holiday countdown"
+  ],
+  "url": "https://x.ai/bot/7TxpN6VSWPFnJ6mcOnSit",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "holiday-event-finder",
+  "name": "Holiday Event Finder",
+  "builder": {
+   "name": "American™",
+   "x": "1776_13"
+  },
+  "tagline": "Finds light displays, markets and tree lightings near you.",
+  "description": "Local Christmas finder. It looks up light displays, ice rinks, tree lightings, holiday markets, live nativities and seasonal shows nearby, with current-season dates, hours, prices and links.",
+  "category": "life",
+  "features": [
+   "Nearby holiday events",
+   "Current-season dates and prices",
+   "Direct links to each listing"
+  ],
+  "bestFor": [
+   "Local holiday outings",
+   "Family day planning"
+  ],
+  "url": "https://x.ai/bot/KY5FCRIlcQYJ2QG53ajWD",
+  "addedAt": "2026-11-27",
+  "status": "published"
+ },
+ {
+  "slug": "snarkmouth",
+  "name": "SnarkMouth",
+  "builder": {
+   "name": "Melissa Gonzalez",
+   "x": "melissaochart"
+  },
+  "tagline": "Read-aloud edit that strips the AI voice out of stiff copy.",
+  "description": "Editing pass for text that reads like a machine wrote it. It keeps every fact and rewrites the sentences so they sound like one person saying them, for scripts, blog posts, emails and papers.",
+  "category": "creative",
+  "features": [
+   "Removes AI-sounding phrasing",
+   "Facts preserved, nothing invented",
+   "Works on scripts, posts and emails"
+  ],
+  "bestFor": [
+   "Blog and email copy",
+   "Script polish"
+  ],
+  "url": "https://x.ai/bot/i2KXAoxoxPwq9bimUjzp2",
+  "addedAt": "2026-11-27",
+  "status": "published"
  }
 ]

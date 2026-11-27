@@ -1,75 +1,5 @@
 [
  {
-  "name": "Pokémon Card Helper by BinderRadar",
-  "bot_id": "UCuQfQUYnwi8Fbl8u0nDp",
-  "url": "https://x.ai/bot/UCuQfQUYnwi8Fbl8u0nDp",
-  "builder_x_handle": "",
-  "one_line_desc": "Identifies Pokémon cards, checks grading costs and finds live prices.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Ops Dashboard",
-  "bot_id": "4MkKNQHcmjytBiSzmcw4j",
-  "url": "https://x.ai/bot/4MkKNQHcmjytBiSzmcw4j",
-  "builder_x_handle": "",
-  "one_line_desc": "One live page for your whole bot operation: goals, blockers, deadlines and usage.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Medical Bill Detective",
-  "bot_id": "lyx2fhleeLVBg45lQJbEV",
-  "url": "https://x.ai/bot/lyx2fhleeLVBg45lQJbEV",
-  "builder_x_handle": "",
-  "one_line_desc": "Finds errors on medical bills and drafts the letters and call scripts to cut them.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Open Enrollment",
-  "bot_id": "KHFMASMtqIvhT8_9mYJs0",
-  "url": "https://x.ai/bot/KHFMASMtqIvhT8_9mYJs0",
-  "builder_x_handle": "",
-  "one_line_desc": "Compares Medicare, ACA, employer, FEHB, TRICARE and VA plans on true yearly cost.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "Shopping Price Watch",
-  "bot_id": "SQrPciluthCg-jbQkAB9M",
-  "url": "https://x.ai/bot/SQrPciluthCg-jbQkAB9M",
-  "builder_x_handle": "",
-  "one_line_desc": "Watches your Amazon cart for price drops and refunds, read only.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "OSINTBot",
-  "bot_id": "2tVwFv-cC40_7Rxnxwvbl",
-  "url": "https://x.ai/bot/2tVwFv-cC40_7Rxnxwvbl",
-  "builder_x_handle": "",
-  "one_line_desc": "Open-source checks on companies, claims, photos and impersonation accounts.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
-  "name": "StockBot: iPhone Duo Stock Checker",
-  "bot_id": "xkFpGSk1VDiUQoYdXnrGb",
-  "url": "https://x.ai/bot/xkFpGSk1VDiUQoYdXnrGb",
-  "builder_x_handle": "",
-  "one_line_desc": "Alerts you when the iPhone Duo you want shows up for pickup near your ZIP.",
-  "source_post_url": "",
-  "found_at": "2026-11-26 21:31 IST",
-  "found_via": "grok-bot.directory embedded listing -> x.ai/bot page fetched 200, botName confirmed"
- },
- {
   "name": "Backlink Finder",
   "bot_id": "6U4aI0Fvd-Js0wWO6GHhY",
   "url": "https://x.ai/bot/6U4aI0Fvd-Js0wWO6GHhY",
@@ -578,5 +508,89 @@
   "http": "200",
   "verified": true,
   "found_at": "2026-11-27 09:56 IST"
+ },
+ {
+  "name": "Personal Shopper · Looks for deals and discounts on retail items",
+  "bot_id": "019kbIjJVvGl7Mzr0Y1va",
+  "url": "https://x.ai/bot/019kbIjJVvGl7Mzr0Y1va",
+  "builder_x_handle": "RaptorTechBot",
+  "builder_name": "Raptor Carnage",
+  "one_line_desc": "Hunts deals and price drops on retail items, then waits for your approval.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
+ },
+ {
+  "name": "Santa's Workshop",
+  "bot_id": "RBqd97hTUuZXw6M-2To6o",
+  "url": "https://x.ai/bot/RBqd97hTUuZXw6M-2To6o",
+  "builder_x_handle": "1776_13",
+  "builder_name": "American™",
+  "one_line_desc": "Runs Secret Santa draws and writes letters and stories from Santa.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
+ },
+ {
+  "name": "Christmas HQ",
+  "bot_id": "I2J7aOecGELJxZmRpl7Lw",
+  "url": "https://x.ai/bot/I2J7aOecGELJxZmRpl7Lw",
+  "builder_x_handle": "1776_13",
+  "builder_name": "American™",
+  "one_line_desc": "Holiday organiser for gifts, budget, shipping cutoffs and dinner prep.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
+ },
+ {
+  "name": "Compare & Deal Scout",
+  "bot_id": "M3Y7G1CEf0dlX4VdrhrGU",
+  "url": "https://x.ai/bot/M3Y7G1CEf0dlX4VdrhrGU",
+  "builder_x_handle": "narlashreya",
+  "builder_name": "Shreya Narla",
+  "one_line_desc": "Side-by-side product comparisons, then live deals on the winner.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
+ },
+ {
+  "name": "Daily Advent Calendar",
+  "bot_id": "7TxpN6VSWPFnJ6mcOnSit",
+  "url": "https://x.ai/bot/7TxpN6VSWPFnJ6mcOnSit",
+  "builder_x_handle": "1776_13",
+  "builder_name": "American™",
+  "one_line_desc": "A daily December drop in chat, from December 1 through Christmas Eve.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
+ },
+ {
+  "name": "Holiday Event Finder",
+  "bot_id": "KY5FCRIlcQYJ2QG53ajWD",
+  "url": "https://x.ai/bot/KY5FCRIlcQYJ2QG53ajWD",
+  "builder_x_handle": "1776_13",
+  "builder_name": "American™",
+  "one_line_desc": "Finds light displays, markets and tree lightings near you.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
+ },
+ {
+  "name": "SnarkMouth",
+  "bot_id": "i2KXAoxoxPwq9bimUjzp2",
+  "url": "https://x.ai/bot/i2KXAoxoxPwq9bimUjzp2",
+  "builder_x_handle": "melissaochart",
+  "builder_name": "Melissa Gonzalez",
+  "one_line_desc": "Read-aloud edit that strips the AI voice out of stiff copy.",
+  "source_post_url": "https://grok-bot.directory",
+  "http": "200",
+  "verified": true,
+  "found_at": "2026-11-27 16:05 IST"
  }
 ]
